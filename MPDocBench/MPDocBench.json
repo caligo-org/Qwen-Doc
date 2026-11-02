@@ -988209,27 +988209,6 @@
         "text": "Table 1-1 Electronic Shopping NAICS Code Group"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          186,
-          1016,
-          1075,
-          1016,
-          1075,
-          1226,
-          186,
-          1226
-        ],
-        "anno_id": 53,
-        "order": 37,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td><b>44-45 Retail Trade</b></td><td><b>2-digit Economic Sector</b></td></tr><tr><td>454 Nonstore Retailers</td><td>3-digit Economic Subsector</td></tr><tr><td>4541 Electronic Shopping and Mail-Order Houses</td><td>4-digit Industry Group</td></tr><tr><td>45411 Electronic Shopping and Mail-Order Houses</td><td>5-digit NAICS Industry</td></tr><tr><td>454111 Electronic Shopping</td><td>6-digit National Industry</td></tr><tr><td>454112 Electronic Auctions</td><td></td></tr><tr><td>454113 Mail-Order Houses</td><td></td></tr></table>"
-      },
-      {
         "label": "表注",
         "category_type": "table_footnote",
         "poly": [
@@ -992285,11 +992264,6 @@
         {
           "source_anno_id": 48,
           "target_anno_id": 52,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 52,
-          "target_anno_id": 53,
           "relation_type": "parent_son"
         },
         {
