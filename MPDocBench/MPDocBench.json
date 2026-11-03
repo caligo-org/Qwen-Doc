@@ -951015,27 +951015,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "Table 8: Templates of prompts used for data generation. The table presents three distinct prompts: Video Knowledge Graph Generation (top), Intermediate Chain-of-Thought (CoT) Generation (middle), and Question-Answer (QA) Generation (bottom). Curly-brace placeholders \\(\\{\\dots\\}\\) will be replaced with actual segment-specific content during generation."
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          261,
-          365,
-          967,
-          365,
-          967,
-          1260,
-          261,
-          1260
-        ],
-        "anno_id": 223,
-        "order": 182,
-        "ignore": false,
-        "page_id": 21,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>You are a <b>Visual Scene Analyst </b>specializing in dense scene graph generation. Your goal is to map ALL physical relationships in the video segment, not just human actions.</td></tr><tr><td>[CURRENT TIMELINE] Segment {#step_index}: {start_time}s to {end_time}s.</td></tr><tr><td>[CONTEXTUAL DATA] 1. <b>Entity Registry</b>: {known_entities_str}</td></tr><tr><td>[CRITICAL VISUAL EXTRACTION RULES] 1. <b>NO \"HUB-AND-SPOKE\" BIAS (CRITICAL)</b>: Do not make the human protagonist the subject of every relation. Extract edges where neither the subject nor the object is a person. 2. <b>Object-to-Object Relationships (MANDATORY)</b>: Look for Spatial Relations, Containment, and Passive Interactions. 3. <b>Visual Entity Identification</b>: Identify objects using specific visual descriptors. NO PRONOUNS. 4.<b> Action & State Verbs</b>: Use active verbs for humans and spatial/state verbs for objects. 5.<b> Description</b>: Describe the scene layout and object states, not just the human's movement.</td></tr><tr><td>[OUTPUT FORMAT] Return ONLY a JSON object: {\"events\": [ {\"subject\": \"...\", \"relation\": \"...\", \"object\": \"...\", \"description\": \"...\"}]}</td></tr><tr><td><b>Current Video Segment</b>: {current_time_range}</td></tr><tr><td><b>Task</b>: Provide an incremental update of the visual scene/action/details in this segment.<b> Focus on Progress (Delta)</b> of visual elements.</td></tr><tr><td>Context & Entities: Focused Entities: {entity_text} (Integrate these naturally if they are actively involved in the current action. No full repetition each time; pronouns prohibited.)</td></tr><tr><td><b>Strict Constraints: 1. Focus on Dynamics</b>: Describe WHAT is happening now with details. If the scene is static, be very concise. 2. <b>NO restate</b>: Do NOT restate the action/scene/details from the previous segment's end. Skip the action stated previously or state the changes. NEVER repeat. 3. <b>Minimalist Reference</b>: For entities already present/mentioned, use pronouns or minimal descriptors. 4. <b>Language Variety</b>: Avoid repetitive sentence structures. 5. <b>No Redundancy</b>: Do not repeat the timestamp or information from the previous context.</td></tr><tr><td><b>Output</b>:</td></tr><tr><td>You are a<b> Cognitive Video Intelligence Engine</b>. Your task is to synthesize a <b>Practical Deep Reasoning Question-Answer Pair</b> based on the provided visual information from video segments and the Event Reasoning Path.</td></tr><tr><td>=== C<b>ORE DEFINITION (MUST FOLLOW FIRST)</b> === 1.<b> Event Reasoning Path Nature</b>: The provided video segments are ordered by logical reasoning relevance, NOT by their original chronological time sequence. 2. <b>Time Reference Rule</b>: All time mentions must be based on the explicit time interval of each node. 3. <b>Multi-hop Foundation</b>: The reasoning must rely on logical connections between segments.</td></tr><tr><td>===<b> MANDATORY INSTRUCTIONS</b> === 1. <b>Strict Multi-hop Reasoning</b>: The question MUST require integrating information from multiple video segments in the reasoning path. 2. <b>Natural Language Constraint (CRITICAL)</b>: DO NOT use the words \"Step\", \"Clip index\", \"Path node\". Refer to segments using their time intervals or event descriptions. 3.<b> Reasoning Dimensions</b>: Construct the reasoning chain using one or more of the following logic types: {dimensions_str} 4.<b> Practicality Requirement</b>: The question must be meaningful for understanding the visual content of the video's narrative, intent, or physical logic.</td></tr><tr><td>=== <b>OUTPUT FORMAT (JSON ONLY, NO EXTRA TEXT)</b> === {\"question\": \"...\", \"cot\": \"...\", \"answer\": \"...\", \"reasoning_type\": \"...\"}</td></tr></table>"
       }
     ],
     "extra": {
@@ -951943,11 +951922,6 @@
         {
           "source_anno_id": 218,
           "target_anno_id": 222,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 222,
-          "target_anno_id": 223,
           "relation_type": "parent_son"
         },
         {
