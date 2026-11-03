@@ -394942,27 +394942,6 @@
         "text": "Child Survival and Health Programs Fund"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          136,
-          253,
-          1086,
-          253,
-          1086,
-          357,
-          136,
-          357
-        ],
-        "anno_id": 18,
-        "order": 18,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td rowspan=\"2\">($ in thousands)</td><td>FY 2007</td><td>FY 2007</td><td>FY 2008</td><td>FY 2008</td><td>FY 2009</td></tr><tr><td>Actual*</td><td>Supp</td><td>Estimate**</td><td>Supp</td><td>Request</td></tr><tr><td>Child Survival and Health Programs Fund</td><td>1,740,425</td><td>161,000</td><td>[1,829,152]</td><td>—</td><td>1,577,830</td></tr></table>"
-      },
-      {
         "label": "图注",
         "category_type": "figure_footnote",
         "poly": [
@@ -395405,11 +395384,6 @@
         {
           "source_anno_id": "root",
           "target_anno_id": 17,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
-          "target_anno_id": 18,
           "relation_type": "parent_son"
         },
         {
