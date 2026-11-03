@@ -1092665,7 +1092665,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>52周最高/最低价(元):44.92/16.2</td></tr><tr><td>A股流通股(百万股):295.17</td></tr><tr><td>A股总股本(百万股):314.02</td></tr><tr><td>流通市值(百万元):5817.85</td></tr><tr><td>总市值(百万元):6189.41</td></tr></table>"
+        "html": "<table><tr><td>52周最高/最低价(元):</td><td>44.92/16.2</td></tr><tr><td>A股流通股(百万股):</td><td>295.17</td></tr><tr><td>A股总股本(百万股):</td><td>314.02</td></tr><tr><td>流通市值(百万元):</td><td>5817.85</td></tr><tr><td>总市值(百万元):</td><td>6189.41</td></tr></table>"
       },
       {
         "label": "标题",
