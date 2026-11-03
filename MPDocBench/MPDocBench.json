@@ -1197378,7 +1197378,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"2\">Issue surcharge</td></tr><tr><td>for all sub-funds</td><td>2.5 %</td></tr></table>"
+        "html": "<table><tr><td></td><td>Issue surcharge</td></tr><tr><td>for all sub-funds</td><td>2.5 %</td></tr></table>"
       },
       {
         "label": "标题",
