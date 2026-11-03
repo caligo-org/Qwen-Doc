@@ -1096494,27 +1096494,6 @@
         "text": "基本数据（2020.8.10）"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          31,
-          427,
-          408,
-          427,
-          408,
-          622,
-          31,
-          622
-        ],
-        "anno_id": 9,
-        "order": 7,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>报告日股价 (元)</td><td>64.00</td></tr><tr><td>12mth A 股价格区间 (元)</td><td>23.49-64.00</td></tr><tr><td>总股本 (百万股)</td><td>507</td></tr><tr><td>无限售 A 股/总股本</td><td>100%</td></tr><tr><td>流通市值 (亿元)</td><td>324.48</td></tr><tr><td>每股净资产 (元)</td><td>7.10</td></tr><tr><td>PBR (X)</td><td>9.01</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1096536,27 +1096515,6 @@
         "text": "主要股东（2020H1）"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          33,
-          696,
-          405,
-          696,
-          405,
-          836.38,
-          33,
-          836.38
-        ],
-        "anno_id": 11,
-        "order": 9,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>华泰集团</td><td>41.64%</td></tr><tr><td>香港中央结算有限公司</td><td>8.60%</td></tr><tr><td>万和投资</td><td>5%</td></tr><tr><td>全国社保基金一一五组合</td><td>1.97%</td></tr><tr><td>李刚</td><td>1.97%</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1096576,27 +1096534,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "收入结构（2020H1）"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          34,
-          885,
-          405,
-          885,
-          405,
-          966,
-          34,
-          966
-        ],
-        "anno_id": 13,
-        "order": 11,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>瓜子</td><td>73.47%</td></tr><tr><td>坚果</td><td>13.35%</td></tr><tr><td>其他</td><td>13.17%</td></tr></table>"
       },
       {
         "label": "标题",
@@ -1097889,28 +1097826,13 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 8,
-          "target_anno_id": 9,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 1,
           "target_anno_id": 10,
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 10,
-          "target_anno_id": 11,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 1,
           "target_anno_id": 12,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 13,
           "relation_type": "parent_son"
         },
         {
