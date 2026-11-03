@@ -7,6 +7,7 @@ import shutil
 import uuid
 import html
 import os
+from utils.table_notation import normalize_table_notation
 
 def remove_markdown_fences(content):
     content = re.sub(r'^```markdown\n?', '', content, flags=re.MULTILINE)
@@ -204,6 +205,7 @@ def normalized_html_table(text):
     
     norm_text, _ = process_table_html(text)
     norm_text = clean_table(norm_text)
+    norm_text = normalize_table_notation(norm_text)
     return norm_text
 
 def normalized_latex_table(text):
