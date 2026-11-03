@@ -568367,7 +568367,7 @@
         "page_id": 9,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>扬声器端子</td><td>扬声器阻抗</td></tr><tr><td>FRONT(前置)</td><td rowspan=\"5\">6~16 Ω</td></tr><tr><td>CENTER(中置)</td></tr><tr><td>SURROUND(环绕)</td></tr><tr><td>SURR. BACK/AMP ASSIGN(后置环绕/放大器分配)</td></tr><tr><td></td></tr></table>"
+        "html": "<table><tr><td>扬声器端子</td><td>扬声器阻抗</td></tr><tr><td>FRONT(前置)</td><td rowspan=\"4\">6~16 Ω</td></tr><tr><td>CENTER(中置)</td></tr><tr><td>SURROUND(环绕)</td></tr><tr><td>SURR. BACK/AMP ASSIGN(后置环绕/放大器分配)</td></tr></table>"
       },
       {
         "label": "标题",
