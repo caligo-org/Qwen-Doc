@@ -1114665,27 +1114665,6 @@
         "html": "<table><tr><td>表现</td><td>1M</td><td>3M</td><td>12M</td></tr><tr><td>鼎龙股份</td><td>-25.6</td><td>-7.5</td><td>-17.0</td></tr><tr><td>沪深 300</td><td>-5.4</td><td>-7.6</td><td>-0.4</td></tr></table>"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          24,
-          831,
-          422,
-          831,
-          422,
-          1110,
-          24,
-          1110
-        ],
-        "anno_id": 13,
-        "order": 8,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>市场数据</td><td>2018-06-22</td></tr><tr><td>当前价格(元)</td><td>8.56</td></tr><tr><td><b>52</b> 周价格区间 (元)</td><td>8.38 - 13.33</td></tr><tr><td>总市值(百万)</td><td>8226.30</td></tr><tr><td>流通市值(百万)</td><td>5692.28</td></tr><tr><td>总股本(万股)</td><td>96101.60</td></tr><tr><td>流通股(万股)</td><td>66498.56</td></tr><tr><td>日均成交额(百万)</td><td>121.62</td></tr><tr><td>近一月换手(%)</td><td>27.77</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1116144,11 +1116123,6 @@
         {
           "source_anno_id": 11,
           "target_anno_id": 12,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
-          "target_anno_id": 13,
           "relation_type": "parent_son"
         },
         {
