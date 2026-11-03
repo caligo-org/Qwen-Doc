@@ -11,9 +11,11 @@ A cell is compared by what its formulas render to, not by how they are written:
   already does for <sup> and <sub>.
 - Text and font commands (\\text, \\mathrm, \\mathbf, ...) are reduced to their argument.
 - Symbol commands are written as their Unicode character (\\pm = ±, \\theta = θ, ^{\\circ} = °).
+- The minus sign U+2212 is a hyphen-minus everywhere in the cell. NFKC, applied earlier, turns a
+  superscript minus into U+2212, so "10⁻³g" and "\\(10^{-3}\\)g" both compare as "10-3g".
 
-Text outside math is left as it is, spaces included. A "$" without LaTeX markup (currency such as
-"$194.1m" or "$12 to $15") is not treated as math. Commands without a character equivalent
+Apart from the minus sign, text outside math is left as it is, spaces included. A "$" without
+LaTeX markup (currency such as "$194.1m" or "$12 to $15") is not treated as math. Commands without a character equivalent
 (\\frac, \\sqrt, ...) are kept as written.
 """
 import re
@@ -62,7 +64,7 @@ def normalize_cell_notation(text):
     def span(m):
         body = next(group for group in m.groups() if group is not None)
         return render_math(body) if MARKUP.search(body) else m[0]
-    return MATH_SPAN.sub(span, text)
+    return MATH_SPAN.sub(span, text).replace('\u2212', '-')
 
 
 def normalize_table_notation(table_html):
