@@ -1092385,48 +1092385,6 @@
         "text": "报告作者"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          793,
-          1074,
-          1120.87,
-          1074,
-          1120.87,
-          1191.32,
-          793,
-          1191.32
-        ],
-        "anno_id": 33,
-        "order": 28,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>耿军军</td></tr><tr><td>执业证书编号</td><td>S0020519070002</td></tr><tr><td>电话</td><td>021-51097188-1856</td></tr><tr><td>邮箱</td><td>gengjunjun@gyzq.com.cn</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          792,
-          1230,
-          1118.57,
-          1230,
-          1118.57,
-          1285.87,
-          792,
-          1285.87
-        ],
-        "anno_id": 34,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>联系人</td><td>陈图南</td></tr><tr><td>邮箱</td><td>chentunan@gyzq.com.cn</td></tr></table>"
-      },
-      {
         "label": "页脚",
         "category_type": "footer",
         "poly": [
@@ -1092959,16 +1092917,6 @@
         {
           "source_anno_id": 6,
           "target_anno_id": 32,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 32,
-          "target_anno_id": 33,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 32,
-          "target_anno_id": 34,
           "relation_type": "parent_son"
         },
         {
