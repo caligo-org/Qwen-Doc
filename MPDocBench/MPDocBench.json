@@ -1102320,27 +1102320,6 @@
         "text": "市场数据"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          799,
-          793,
-          1106,
-          793,
-          1106,
-          969,
-          799,
-          969
-        ],
-        "anno_id": 29,
-        "order": 27,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>收盘价(元)</td><td>38.80</td></tr><tr><td>一年最低/最高价</td><td>35.98/67.86</td></tr><tr><td>市净率(倍)</td><td>2.59</td></tr><tr><td>流通 A 股市值(百万元)</td><td>174,675.89</td></tr><tr><td>总市值(百万元)</td><td>174,675.89</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1102360,27 +1102339,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "基础数据"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          799,
-          1029,
-          1098,
-          1029,
-          1098,
-          1139,
-          799,
-          1139
-        ],
-        "anno_id": 31,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>每股净资产(元,LF)</td><td>14.98</td></tr><tr><td>资产负债率(%LF)</td><td>48.22</td></tr><tr><td>总股本(百万股)</td><td>4,501.96</td></tr><tr><td>流通 A 股(百万股)</td><td>4,501.96</td></tr></table>"
       },
       {
         "label": "标题",
@@ -1104212,18 +1104170,8 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 28,
-          "target_anno_id": 29,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 4,
           "target_anno_id": 30,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 30,
-          "target_anno_id": 31,
           "relation_type": "parent_son"
         },
         {
