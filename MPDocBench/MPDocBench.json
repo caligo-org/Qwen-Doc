@@ -1069857,48 +1069857,6 @@
         "text": "中国版本图书馆CIP数据核字（2021）第114296号"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          221,
-          551,
-          669,
-          551,
-          669,
-          742,
-          221,
-          742
-        ],
-        "anno_id": 21,
-        "order": 16,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>编写单位:广东教育出版社 广东科技出版社 主编:刘琼发</td></tr><tr><td>副主编:李榕 周卫星 朱美健 席春玲</td></tr><tr><td>本册主编:王华权</td></tr><tr><td>本册副主编:周嘉</td></tr><tr><td>编写人员:周熙 周嘉 王华权 柯力 林敏 陆超</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          221.42,
-          773.68,
-          437.27,
-          773.68,
-          437.27,
-          882.67,
-          221.42,
-          882.67
-        ],
-        "anno_id": 22,
-        "order": 17,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>出版人:朱文清</td></tr><tr><td>责任编辑:夏丰</td></tr><tr><td>责任技编:许伟斌</td></tr><tr><td>装帧设计:友间文化</td></tr></table>"
-      },
-      {
         "label": "段落",
         "category_type": "text_block",
         "poly": [
@@ -1071732,16 +1071690,6 @@
         {
           "source_anno_id": 12,
           "target_anno_id": 20,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         },
         {
