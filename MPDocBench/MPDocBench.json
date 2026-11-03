@@ -881703,7 +881703,7 @@
         "page_id": 2,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td rowspan=\"2\"><b>组别</b></td><td colspan=\"4\"><b>血清</b></td><td colspan=\"2\"><b>肝脏</b></td></tr><tr><td>TG</td><td>TC</td><td>LDL-C</td><td>HDL-C</td><td>TC</td><td>TG</td></tr><tr><td><b>对照组</b></td><td>0.68 ± 0.25</td><td>2.90 ± 0.20</td><td>1.22 ± 0.07</td><td>1.33 ± 0.20</td><td>4.22 ± 1.41</td><td>0.96 ± 0.35</td></tr><tr><td><b>高脂组</b></td><td>1.25 ± 0.25a</td><td>4.29 ± 0.59a</td><td>1.59 ± 0.20a</td><td>1.54 ± 0.21a</td><td>5.78 ± 1.69a</td><td>2.69 ± 1.20a</td></tr><tr><td><b>RSV 干预组</b></td><td>0.91 ± 0.15b</td><td>3.65 ± 0.36ab</td><td>1.39 ± 0.11ab</td><td>1.41 ± 0.19</td><td>4.63 ± 1.70b</td><td>1.65 ± 0.89b</td></tr></table>"
+        "html": "<table><tr><td rowspan=\"2\"><b>组别</b></td><td colspan=\"4\"><b>血清</b></td><td colspan=\"2\"><b>肝脏</b></td></tr><tr><td>TG</td><td>TC</td><td>LDL-C</td><td>HDL-C</td><td>TC</td><td>TG</td></tr><tr><td><b>对照组</b></td><td>0.68 ± 0.25</td><td>2.90 ± 0.20</td><td>1.22 ± 0.07</td><td>1.33 ± 0.20</td><td>4.22 ± 1.41</td><td>0.96 ± 0.35</td></tr><tr><td><b>高脂组</b></td><td>1.25 ± 0.25$^{a}$</td><td>4.29 ± 0.59$^{a}$</td><td>1.59 ± 0.20$^{a}$</td><td>1.54 ± 0.21$^{a}$</td><td>5.78 ± 1.69$^{a}$</td><td>2.69 ± 1.20$^{a}$</td></tr><tr><td><b>RSV 干预组</b></td><td>0.91 ± 0.15$^{b}$</td><td>3.65 ± 0.36$^{ab}$</td><td>1.39 ± 0.11$^{ab}$</td><td>1.41 ± 0.19</td><td>4.63 ± 1.70$^{b}$</td><td>1.65 ± 0.89$^{b}$</td></tr></table>"
       },
       {
         "label": "表注",
