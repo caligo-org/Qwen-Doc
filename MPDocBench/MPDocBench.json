@@ -190287,7 +190287,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><!-- 标题 --><tr bgcolor=\"#dfe7ef\"><td><font color=\"#2b4c6f\" size=\"6\"><b>Fresh to Dried Herbs Ratios</b></font></td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第一块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried leafy herbs (e.g. oregano, basil, tarragon)</b><br/><br/>      1 tablespoon fresh = 1 teaspoon dried</td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第二块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried ground herbs and spices (e.g. ginger, garlic, ground thyme)</b><br/><br/>      4 parts fresh = 1 part dried</td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第三块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried leafy herb to dried ground herb</b><br/><br/>      1 teaspoon dried leaf = ? teaspoon ground herb</td></tr></table>"
+        "html": "<table><!-- 标题 --><tr bgcolor=\"#dfe7ef\"><td><font color=\"#2b4c6f\" size=\"6\"><b>Fresh to Dried Herbs Ratios</b></font></td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第一块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried leafy herbs (e.g. oregano, basil, tarragon)</b><br/><br/>      1 tablespoon fresh = 1 teaspoon dried</td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第二块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried ground herbs and spices (e.g. ginger, garlic, ground thyme)</b><br/><br/>      4 parts fresh = 1 part dried</td></tr><!-- 分隔线 --><tr bgcolor=\"#5b88b0\"><td></td></tr><!-- 第三块 --><tr bgcolor=\"#e6e6e6\"><td><b>Dried leafy herb to dried ground herb</b><br/><br/>      1 teaspoon dried leaf = ½ teaspoon ground herb</td></tr></table>"
       },
       {
         "label": "标题",
@@ -190350,7 +190350,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  tablespoons  = 1?  teaspoons"
+        "text": "½  tablespoons  = 1½  teaspoons"
       },
       {
         "label": "段落",
@@ -190392,7 +190392,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "4 tablespoons = 2 (fluid) ounces = ? cup"
+        "text": "4 tablespoons = 2 (fluid) ounces = ¼ cup"
       },
       {
         "label": "段落",
@@ -190497,7 +190497,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "2quarts = 64 (fluid) ounces = ? gallon"
+        "text": "2quarts = 64 (fluid) ounces = ½ gallon"
       },
       {
         "label": "段落",
@@ -190539,7 +190539,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"3\">Reducing Recipes for Fewer Servings</td></tr><tr><td>When the Recipe Says...</td><td>To Make Half, Use...</td><td>To Make a Third, Use...</td></tr><tr><td>? cup</td><td>2 tablespoons</td><td>1 tbsp + 1 tsp</td></tr><tr><td>? cup</td><td>2 tbsp + 2 tsp</td><td>1 tbsp + 2? tsp</td></tr><tr><td>? cup</td><td>? cup</td><td>2 tbsp + 2 tsp</td></tr><tr><td>? cup</td><td>? cup</td><td>3 tbsp + 1? tsp</td></tr><tr><td>? cup</td><td>? cup + 2 tbsp</td><td>? cup</td></tr><tr><td>1 cup</td><td>? cup</td><td>? cup</td></tr><tr><td>1 tablespoon</td><td>1? teaspoon</td><td>1 teaspoon</td></tr><tr><td>1 teaspoon</td><td>? teaspoon</td><td>? teaspoon</td></tr><tr><td>? teaspoon</td><td>? teaspoon</td><td>Scant ? tsp</td></tr><tr><td>? teaspoon</td><td>? teaspoon</td><td>Scant ? tsp</td></tr><tr><td>? teaspoon</td><td>Dash</td><td>Pinch</td></tr></table>"
+        "html": "<table><tr><td colspan=\"3\">Reducing Recipes for Fewer Servings</td></tr><tr><td>When the Recipe Says...</td><td>To Make Half, Use...</td><td>To Make a Third, Use...</td></tr><tr><td>¼ cup</td><td>2 tablespoons</td><td>1 tbsp + 1 tsp</td></tr><tr><td>⅓ cup</td><td>2 tbsp + 2 tsp</td><td>1 tbsp + 2¼ tsp</td></tr><tr><td>½ cup</td><td>¼ cup</td><td>2 tbsp + 2 tsp</td></tr><tr><td>⅔ cup</td><td>⅓ cup</td><td>3 tbsp + 1½ tsp</td></tr><tr><td>¾ cup</td><td>¼ cup + 2 tbsp</td><td>¼ cup</td></tr><tr><td>1 cup</td><td>½ cup</td><td>⅓ cup</td></tr><tr><td>1 tablespoon</td><td>1½ teaspoon</td><td>1 teaspoon</td></tr><tr><td>1 teaspoon</td><td>½ teaspoon</td><td>¼ teaspoon</td></tr><tr><td>½ teaspoon</td><td>¼ teaspoon</td><td>Scant ¼ tsp</td></tr><tr><td>¼ teaspoon</td><td>⅛ teaspoon</td><td>Scant ⅛ tsp</td></tr><tr><td>⅛ teaspoon</td><td>Dash</td><td>Pinch</td></tr></table>"
       },
       {
         "label": "页码",
@@ -190770,7 +190770,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  cup light (reduced-fat) sour cream"
+        "text": "½  cup light (reduced-fat) sour cream"
       },
       {
         "label": "段落",
@@ -190812,7 +190812,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  teaspoon hot sauce or hot chili oil"
+        "text": "½  teaspoon hot sauce or hot chili oil"
       },
       {
         "label": "段落",
@@ -190833,7 +190833,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  teaspoon salt"
+        "text": "½  teaspoon salt"
       },
       {
         "label": "段落",
@@ -190854,7 +190854,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  teaspoon ground black pepper"
+        "text": "½  teaspoon ground black pepper"
       },
       {
         "label": "段落",
@@ -190959,7 +190959,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  teaspoon ground allspice"
+        "text": "½  teaspoon ground allspice"
       },
       {
         "label": "段落",
@@ -191022,7 +191022,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  cup dried apricots, sliced or chopped"
+        "text": "¾  cup dried apricots, sliced or chopped"
       },
       {
         "label": "段落",
@@ -192597,7 +192597,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "1? pounds (24 ounces) boneless skinless chicken breast阿??"
+        "text": "1½ pounds (24 ounces) boneless skinless chicken breast"
       },
       {
         "label": "段落",
@@ -192660,7 +192660,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?  cup nonfat plain Greek yogurt"
+        "text": "½  cup nonfat plain Greek yogurt"
       },
       {
         "label": "段落",
@@ -192681,7 +192681,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? cup finely diced onion"
+        "text": "¼ cup finely diced onion"
       },
       {
         "label": "段落",
@@ -192765,7 +192765,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? teaspoon grated fresh ginger人?"
+        "text": "½ teaspoon grated fresh ginger"
       },
       {
         "label": "段落",
@@ -192786,7 +192786,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? teaspoon ground black pepper"
+        "text": "¼ teaspoon ground black pepper"
       },
       {
         "label": "段落",
@@ -194487,7 +194487,7 @@
         "page_id": 14,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "8 tablespoons (? cup) fresh or frozen fruit, chopped or sliced if needed (optional; e.g. mango, strawberries, blackberries, pineapple)"
+        "text": "8 tablespoons (½ cup) fresh or frozen fruit, chopped or sliced if needed (optional; e.g. mango, strawberries, blackberries, pineapple)"
       },
       {
         "label": "段落",
@@ -194907,7 +194907,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? pound (8 ounces) boneless skinless chicken breast, cut into bite-sized strips"
+        "text": "½ pound (8 ounces) boneless skinless chicken breast, cut into bite-sized strips"
       },
       {
         "label": "段落",
@@ -194928,7 +194928,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? medium onion, thinly sliced (about 1 cup)"
+        "text": "½ medium onion, thinly sliced (about 1 cup)"
       },
       {
         "label": "段落",
@@ -195117,7 +195117,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? teaspoon sugar"
+        "text": "½ teaspoon sugar"
       },
       {
         "label": "段落",
@@ -195138,7 +195138,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? teaspoon ground black pepper"
+        "text": "¼ teaspoon ground black pepper"
       },
       {
         "label": "段落",
@@ -195159,7 +195159,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? cup crunchy chow mein noodles, divided"
+        "text": "½ cup crunchy chow mein noodles, divided"
       },
       {
         "label": "标题",
@@ -195789,7 +195789,7 @@
         "page_id": 16,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "?-? teaspoon crushed red pepper flakes, to taste"
+        "text": "⅛-¼ teaspoon crushed red pepper flakes, to taste"
       },
       {
         "label": "段落",
@@ -196167,7 +196167,7 @@
         "page_id": 17,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "Yield: 4 servings | Serving Size: 1? cups"
+        "text": "Yield: 4 servings | Serving Size: 1½ cups"
       },
       {
         "label": "段落",
@@ -196251,7 +196251,7 @@
         "page_id": 17,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? cup thinly sliced mushrooms"
+        "text": "½ cup thinly sliced mushrooms"
       },
       {
         "label": "段落",
@@ -196335,7 +196335,7 @@
         "page_id": 17,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? teaspoon ground dried ginger"
+        "text": "½ teaspoon ground dried ginger"
       },
       {
         "label": "段落",
@@ -197070,7 +197070,7 @@
         "page_id": 18,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "text": "? pound Korean radish (daikon) or carrots, cut into matchsticks"
+        "text": "½ pound Korean radish (daikon) or carrots, cut into matchsticks"
       },
       {
         "label": "段落",
