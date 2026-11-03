@@ -269409,7 +269409,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">截至六月三十日止六個月</td></tr><tr><td>二零二五年<br/>千港元<br/>(未經審核)</td><td>二零二四年<br/>千港元<br/>(未經審核)</td></tr><tr><td><strong>期內虧損</strong></td><td>(5,538)</td><td>(8,983)</td></tr><tr><td colspan=\"3\"><strong>期內其他全面收入 (除稅後):</strong></td></tr><tr><td><strong>其後可能重新分類至損益之項目:</strong><br/>                        換算國外業務財務報表之匯兌差額</td><td>2,087</td><td>593</td></tr><tr><td><strong>期內其他全面收入總額</strong></td><td>2,087</td><td>593</td></tr><tr><td><strong>期內全面虧損總額</strong></td><td>(3,451)</td><td>(8,390)</td></tr><tr><td colspan=\"3\"><strong>以下各項應佔:</strong></td></tr><tr><td>本公司權益持有人</td><td>(698)</td><td>(5,804)</td></tr><tr><td>非控股權益</td><td>(2,753)</td><td>(2,586)</td></tr><tr><td><strong>期內全面虧損總額</strong></td><td>(3,451)</td><td>(8,390)</td></tr></table>"
+        "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">截至六月三十日止六個月</td></tr><tr><td>二零二五年<br/>千港元<br/>(未經審核)</td><td>二零二四年<br/>千港元<br/>(未經審核)</td></tr><tr><td><strong>期內虧損</strong></td><td>(5,538)</td><td>(8,983)</td></tr><tr><td colspan=\"3\"><strong>期內其他全面收入 (除稅後):</strong></td></tr><tr><td colspan=\"3\"><strong>其後可能重新分類至損益之項目:</strong></td></tr><tr><td>換算國外業務財務報表之匯兌差額</td><td>2,087</td><td>593</td></tr><tr><td><strong>期內其他全面收入總額</strong></td><td>2,087</td><td>593</td></tr><tr><td><strong>期內全面虧損總額</strong></td><td>(3,451)</td><td>(8,390)</td></tr><tr><td colspan=\"3\"><strong>以下各項應佔:</strong></td></tr><tr><td>本公司權益持有人</td><td>(698)</td><td>(5,804)</td></tr><tr><td>非控股權益</td><td>(2,753)</td><td>(2,586)</td></tr><tr><td><strong>期內全面虧損總額</strong></td><td>(3,451)</td><td>(8,390)</td></tr></table>"
       },
       {
         "label": "页脚",
