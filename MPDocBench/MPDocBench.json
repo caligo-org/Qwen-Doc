@@ -1112958,27 +1112958,6 @@
         "label": "表格",
         "category_type": "table",
         "poly": [
-          748,
-          326,
-          1112,
-          326,
-          1112,
-          535,
-          748,
-          535
-        ],
-        "anno_id": 19,
-        "order": 16,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>股价( 2021 年 04 月 09 日 )</td><td>16.78 元</td></tr><tr><td>目标价格</td><td>22.20 元</td></tr><tr><td>52 周最高价/最低价</td><td>21.86/8.99 元</td></tr><tr><td>总股本/流通 A 股 ( 万股 )</td><td>40,870/24,583</td></tr><tr><td>A 股市值 ( 百万元 )</td><td>6,858</td></tr><tr><td>国家/地区</td><td>中国</td></tr><tr><td>行业</td><td>建材</td></tr><tr><td>报告发布日期</td><td>2021 年 04 月 10 日</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
           749,
           560,
           1115,
@@ -1114559,11 +1114538,6 @@
         {
           "source_anno_id": 4,
           "target_anno_id": 18,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 4,
-          "target_anno_id": 19,
           "relation_type": "parent_son"
         },
         {
