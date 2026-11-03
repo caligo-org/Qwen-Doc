@@ -96853,7 +96853,7 @@
         "page_id": 3,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>EPRA figures1)</td><td>2024</td><td>2023</td><td>2022</td><td>2021</td><td>2020</td></tr><tr><td>EPRA earnings per share (EUR)</td><td>0.38</td><td>0.51</td><td>0.63</td><td>0.55</td><td>0.61</td></tr><tr><td>EPRA cost ratio A (%)2)</td><td>21.0</td><td>23.6</td><td>32.1</td><td>25.0</td><td>26.6</td></tr><tr><td>EPRA cost ratio B (%)3)</td><td>15.0</td><td>18.3</td><td>27.0</td><td>21.1</td><td>22.1</td></tr></table>"
+        "html": "<table><tr><td>EPRA figures$^{1)}$</td><td>2024</td><td>2023</td><td>2022</td><td>2021</td><td>2020</td></tr><tr><td>EPRA earnings per share (EUR)</td><td>0.38</td><td>0.51</td><td>0.63</td><td>0.55</td><td>0.61</td></tr><tr><td>EPRA cost ratio A (%)$^{2)}$</td><td>21.0</td><td>23.6</td><td>32.1</td><td>25.0</td><td>26.6</td></tr><tr><td>EPRA cost ratio B (%)$^{3)}$</td><td>15.0</td><td>18.3</td><td>27.0</td><td>21.1</td><td>22.1</td></tr></table>"
       },
       {
         "label": "表格",
