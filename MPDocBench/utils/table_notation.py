@@ -2,21 +2,24 @@
 
 A cell is compared by what its formulas render to, not by how they are written:
 
-- A math span ($...$, $$...$$, \\(...\\), \\[...\\]) that holds LaTeX markup (a backslash, ^, _ or a
-  brace) is replaced by its rendered characters, so the choice of delimiter and which characters
-  sit inside the span do not matter: "250 $\\theta$", "$250 \\theta$" and "\\(250\\theta\\)" all
-  become "250θ".
-- Inside such a span, spaces are dropped (LaTeX ignores them), as are the spaces at its edges.
+- A math span ($...$, $$...$$, \\(...\\), \\[...\\]) that holds LaTeX markup (a backslash, ^, _ or
+  a brace) is replaced by its rendered characters, so the choice of delimiter does not matter.
+  Spaces inside the span are dropped, since LaTeX ignores them.
 - Superscripts and subscripts are flattened to their content (^{a} = ^a = a), as clean_table
   already does for <sup> and <sub>.
 - Text and font commands (\\text, \\mathrm, \\mathbf, ...) are reduced to their argument.
 - Symbol commands are written as their Unicode character (\\pm = ±, \\theta = θ, ^{\\circ} = °).
-- The minus sign U+2212 is a hyphen-minus everywhere in the cell. NFKC, applied earlier, turns a
-  superscript minus into U+2212, so "10⁻³g" and "\\(10^{-3}\\)g" both compare as "10-3g".
+- Spaces next to a math-symbol character (the characters the symbol commands render to, such as
+  → · ± × ° θ, and = < >) do not count, so it does not matter which characters sit inside a math
+  span or whether the symbol was written as LaTeX or as Unicode: "250 $\\theta$", "$250 \\theta$"
+  and "250 θ" all compare as "250θ", and "ARM \\(\\rightarrow\\) DD-WRT" and "ARM → DD-WRT" as
+  "ARM→DD-WRT".
+- The minus sign U+2212 is a hyphen-minus. NFKC, applied earlier, turns a superscript minus into
+  U+2212, so "10⁻³g" and "\\(10^{-3}\\)g" both compare as "10-3g".
 
-Apart from the minus sign, text outside math is left as it is, spaces included. A "$" without
-LaTeX markup (currency such as "$194.1m" or "$12 to $15") is not treated as math. Commands without a character equivalent
-(\\frac, \\sqrt, ...) are kept as written.
+Other spaces are left as they are ("126 743", "Retail Trade"). A "$" without LaTeX markup
+(currency such as "$194.1m" or "$12 to $15") is not treated as math. Commands without a character
+equivalent (\\frac, \\sqrt, ...) are kept as written.
 """
 import re
 
@@ -37,13 +40,16 @@ SYMBOLS = {
 SPACING = ('quad', 'qquad', ',', ';', ':', '!', ' ', 'left', 'right', 'displaystyle', 'textstyle')
 FONTS = ('text', 'textrm', 'textbf', 'textit', 'textsf', 'texttt', 'mathrm', 'mathbf', 'mathit', 'mathsf',
          'mathtt', 'mathcal', 'mathbb', 'boldsymbol', 'bm', 'operatorname', 'rm', 'bf', 'it')
-MATH_SPAN = re.compile(r'\s*(?:\$\$(.+?)\$\$|\$(.+?)\$|\\\((.+?)\\\)|\\\[(.+?)\\\])\s*', re.S)
+MATH_SPAN = re.compile(r'\$\$(.+?)\$\$|\$(.+?)\$|\\\((.+?)\\\)|\\\[(.+?)\\\]', re.S)
 MARKUP = re.compile(r'[\\^_{}]')
 FONT = re.compile(r'\\(?:' + '|'.join(FONTS) + r')\s*\{([^{}]*)\}')
 BARE_FONT = re.compile(r'\\(?:rm|bf|it)(?![A-Za-z])')
 COMMAND = re.compile(r'\\([A-Za-z]+|[%$#&_{} ,;:!])')
 SCRIPT = re.compile(r'[\^_]\s*(\{[^{}]*\}|\\[A-Za-z]+|.)')
 CELL_TEXT = re.compile(r'>([^<>]+)<')
+# Spaces next to these characters do not count: what the symbol commands render to, and = < >.
+SYMBOL_CHARS = ''.join(sorted(set(SYMBOLS.values()) - set('%$#&_{}') | set('=<>')))
+NEAR_SYMBOL = re.compile(r'\s*([' + re.escape(SYMBOL_CHARS) + r'])\s*')
 
 
 def render_math(body):
@@ -55,16 +61,18 @@ def render_math(body):
     body = BARE_FONT.sub('', body)
     body = SCRIPT.sub(lambda m: m[1][1:-1] if m[1].startswith('{') else m[1], body)
     body = COMMAND.sub(lambda m: '' if m[1] in SPACING else SYMBOLS.get(m[1], m[0]), body)
-    body = body.replace('{', '').replace('}', '').replace('~', '').replace('−', '-')
+    body = body.replace('{', '').replace('}', '').replace('~', '')
     return re.sub(r'\s+', '', body)
 
 
 def normalize_cell_notation(text):
-    """One cell's text with each LaTeX math span replaced by what it renders to."""
+    """One cell's text with each LaTeX math span replaced by what it renders to and the spaces
+    next to math symbols dropped."""
     def span(m):
         body = next(group for group in m.groups() if group is not None)
         return render_math(body) if MARKUP.search(body) else m[0]
-    return MATH_SPAN.sub(span, text).replace('\u2212', '-')
+    text = MATH_SPAN.sub(span, text).replace('\u2212', '-')
+    return NEAR_SYMBOL.sub(r'\1', text)
 
 
 def normalize_table_notation(table_html):
