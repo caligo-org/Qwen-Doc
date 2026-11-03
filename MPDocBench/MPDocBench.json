@@ -1120395,27 +1120395,6 @@
         "text": "基础数据"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          805,
-          1002,
-          1114,
-          1002,
-          1114,
-          1140,
-          805,
-          1140
-        ],
-        "anno_id": 22,
-        "order": 20,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>总股本(亿股)</td><td>22.08</td></tr><tr><td>流通 A 股(亿股)</td><td>12.03</td></tr><tr><td>52 周内股价区间(元)</td><td>66.87-169.89</td></tr><tr><td>总市值(亿元)</td><td>2,908.24</td></tr><tr><td>总资产(亿元)</td><td>1,013.52</td></tr><tr><td>每股净资产(元)</td><td>17.27</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1123047,11 +1123026,6 @@
         {
           "source_anno_id": 3,
           "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 21,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         },
         {
