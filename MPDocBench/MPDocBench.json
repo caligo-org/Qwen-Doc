@@ -192091,27 +192091,6 @@
         "text": "Ingredients"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          32,
-          589.63,
-          514,
-          589.63,
-          514,
-          1105,
-          32,
-          1105
-        ],
-        "anno_id": 143,
-        "order": 128,
-        "ignore": false,
-        "page_id": 9,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>Nonstick cooking spray</td></tr><tr><td>3 cups uncooked old-fashioned (rolled) oats</td></tr><tr><td>? cup honey</td></tr><tr><td>3 eggs</td></tr><tr><td>1 teaspoon baking powder</td></tr><tr><td>? teaspoon salt</td></tr><tr><td>? teaspoon ground cinnamon</td></tr><tr><td>1? cups lowfat (1%) milk</td></tr><tr><td>? cup chopped shelled pistachios</td></tr><tr><td>? cup chopped toasted walnuts</td></tr><tr><td>1 medium orange, zested (about 2 tablespoons)</td></tr><tr><td>1 medium lemon, zested (about 1 tablespoon)</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -198753,11 +198732,6 @@
         {
           "source_anno_id": 138,
           "target_anno_id": 142,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 142,
-          "target_anno_id": 143,
           "relation_type": "parent_son"
         },
         {
