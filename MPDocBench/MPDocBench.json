@@ -400822,27 +400822,6 @@
         "text": "National Holidays"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          101,
-          180,
-          1147.4,
-          180,
-          1147.4,
-          1442,
-          101,
-          1442
-        ],
-        "anno_id": 22,
-        "order": 21,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>January 1</td><td>Haiti, Sudan, Slovakia</td><td>June 17</td><td>Iceland</td><td>October 1</td><td>Cyprus, Nigeria, Palau, People's Republic of China</td></tr><tr><td>January 4</td><td>Burma</td><td>June 18</td><td>Seychelles</td><td>October 2</td><td>Guinea</td></tr><tr><td>January 26</td><td>Australia, India</td><td>June 23</td><td>Luxembourg</td><td>October 3</td><td>Germany</td></tr><tr><td>February 4</td><td>Sri Lanka</td><td>June 25</td><td>Mozambique, Slovenia</td><td>October 4</td><td>Lesotho</td></tr><tr><td>February 6</td><td>New Zealand</td><td>June 26</td><td>Madagascar</td><td>October 9</td><td>Uganda</td></tr><tr><td>February 7</td><td>Grenada</td><td>June 27</td><td>Djibouti</td><td>October 11</td><td>Fiji</td></tr><tr><td>February 16</td><td>Lithuania</td><td>June 30</td><td>D. R. of Congo</td><td>October 12</td><td>Spain, Equatorial Guinea</td></tr><tr><td>February 18</td><td>The Gambia</td><td>July 1</td><td>Burundi, Canada, Rwanda</td><td>October 18</td><td>Azerbaijan</td></tr><tr><td>February 22</td><td>Saint Lucia</td><td>July 3</td><td>Belarus</td><td>October 24</td><td>Zambia</td></tr><tr><td>February 23</td><td>Brunei, Guyana</td><td>July 5</td><td>Cape Verde, Venezuela, Slovakia</td><td>October 26</td><td>Austria</td></tr><tr><td>February 24</td><td>Estonia</td><td>July 6</td><td>Comoros, Malawi</td><td>October 27</td><td>Turkmenistan</td></tr><tr><td>February 25</td><td>Kuwait</td><td>July 7</td><td>Nepal, Solomon Islands</td><td>Saint Vincent and the Grenadines</td><td></td></tr><tr><td>February 27</td><td>Dominican Republic</td><td>July 10</td><td>Bahamas</td><td>October 28</td><td>Czech Republic, Turkmenistan</td></tr><tr><td></td><td></td><td>July 11</td><td>Mongolia</td><td>October 29</td><td>Turkey</td></tr><tr><td>March 3</td><td>Bulgaria</td><td>July 14</td><td>France</td><td></td><td></td></tr><tr><td>March 6</td><td>Ghana</td><td>July 20</td><td>Colombia</td><td>November 1</td><td>Algeria</td></tr><tr><td>March 12</td><td>Mauritius</td><td>July 21</td><td>Belgium</td><td></td><td>Antigua and Barbuda</td></tr><tr><td>March 17</td><td>Ireland</td><td>July 23</td><td>Egypt</td><td>November 3</td><td>Panama, Dominica</td></tr><tr><td>March 20</td><td>Tunisia</td><td>July 26</td><td>Liberia</td><td>November 11</td><td>Angola</td></tr><tr><td>March 21</td><td>Namibia</td><td>July 28</td><td>Peru</td><td>November 17</td><td>Slovakia</td></tr><tr><td>March 23</td><td>Pakistan</td><td>July 30</td><td>Morocco</td><td>November 18</td><td>Latvia, Oman</td></tr><tr><td>March 25</td><td>Greece</td><td></td><td></td><td>November 19</td><td>Monaco</td></tr><tr><td>March 26</td><td>Bangladesh</td><td>August 1</td><td>Benin, Switzerland</td><td>November 22</td><td>Lebanon</td></tr><tr><td></td><td></td><td>August 2</td><td>Macedonia</td><td>November 25</td><td>Suriname</td></tr><tr><td>April 4</td><td>Senegal</td><td>August 6</td><td>Bolivia</td><td>November 28</td><td>Mauritania</td></tr><tr><td>April 16</td><td>Denmark</td><td>August 6</td><td>Jamaica</td><td>November 30</td><td>Barbados</td></tr><tr><td>April 17</td><td>Syria</td><td>August 7</td><td>Cote d'Ivoire</td><td></td><td></td></tr><tr><td>April 18</td><td>Zimbabwe</td><td>August 9</td><td>Singapore</td><td>December 1</td><td>Central African Republic, Romania</td></tr><tr><td>April 19</td><td>Holy See</td><td>August 10</td><td>Ecuador</td><td>December 2</td><td>Laos, United Arab Emirates</td></tr><tr><td>April 26</td><td>Tanzania</td><td>August 11</td><td>Chad</td><td>December 5</td><td>Thailand</td></tr><tr><td>April 27</td><td>Sierra Leone, Togo</td><td>August 15</td><td>R. of Congo, Korea,</td><td>December 6</td><td>Finland</td></tr><tr><td>April 27</td><td>South Africa</td><td></td><td>Liechtenstein</td><td>December 11</td><td>Burkina Faso</td></tr><tr><td>April 30</td><td>Netherlands</td><td>August 17</td><td>Gabon, Indonesia</td><td>December 12</td><td>Kenya</td></tr><tr><td></td><td></td><td>August 20</td><td>Hungary</td><td>December 16</td><td>Bahrain, Kazakhstan</td></tr><tr><td>May 1</td><td>Marshall Islands</td><td>August 24</td><td>Ukraine</td><td>December 18</td><td>Niger</td></tr><tr><td>May 3</td><td>Poland</td><td>August 25</td><td>Uruguay</td><td>December 18</td><td>Qatar</td></tr><tr><td>May 8</td><td>Czech Republic</td><td>August 29</td><td>Slovakia</td><td>December 23</td><td>Japan</td></tr><tr><td>May 9</td><td>European Union</td><td>August 31</td><td>Kyrgyzstan, Malaysia, Trinidad and Tobago</td><td></td><td></td></tr><tr><td>May 12</td><td>Israel</td><td></td><td></td><td></td><td></td></tr><tr><td>May 14</td><td>Paraguay</td><td></td><td></td><td></td><td></td></tr><tr><td>May 17</td><td>Norway</td><td>September 1</td><td>Uzbekistan, Slovakia</td><td></td><td></td></tr><tr><td>May 20</td><td>Cameroon</td><td>September 6</td><td>Swaziland</td><td></td><td></td></tr><tr><td>May 22</td><td>Yemen</td><td>September 7</td><td>Brazil</td><td></td><td></td></tr><tr><td>May 24</td><td>Eritrea</td><td>September 15</td><td>Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua</td><td></td><td></td></tr><tr><td>May 25</td><td>Argentina, Jordan</td><td>September 16</td><td>Mexico</td><td></td><td></td></tr><tr><td>May 26</td><td>Great Britain, Guyana</td><td></td><td>Papua New Guinea</td><td></td><td></td></tr><tr><td>May 28</td><td>Azerbaijan, Ethiopia</td><td>September 18</td><td>Chile</td><td></td><td></td></tr><tr><td>May 30</td><td>Croatia</td><td>September 19</td><td>Saint Kitts and Nevis</td><td></td><td></td></tr><tr><td>June 1</td><td>Samoa</td><td>September 21</td><td>Belize, Malta</td><td></td><td></td></tr><tr><td>June 2</td><td>Italy</td><td>September 22</td><td>Mali</td><td></td><td></td></tr><tr><td>June 4</td><td>Tonga</td><td>September 23</td><td>Saudi Arabia</td><td></td><td></td></tr><tr><td>June 6</td><td>Sweden</td><td>September 24</td><td>Guinea-Bissau</td><td></td><td></td></tr><tr><td>June 10</td><td>Portugal</td><td>September 30</td><td>Botswana</td><td></td><td></td></tr><tr><td>June 12</td><td>Philippines, Russia</td><td></td><td></td><td></td><td></td></tr></table>"
-      },
-      {
         "label": "页码",
         "category_type": "page_number",
         "poly": [
@@ -400964,11 +400943,6 @@
         {
           "source_anno_id": 1,
           "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 21,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         }
       ],
