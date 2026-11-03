@@ -664,11 +664,12 @@ paper_chn_b4b85a83,6,74,text,0,?1994-2015 China Acad,"(kept ""?"")",page itself 
 paper_chn_b4b85a83,7,83,text,0,?1994-2015 China Acad,"(kept ""?"")",page itself prints a literal ? in the CNKI watermark (source-PDF encoding artifact)
 paper_chn_b4b85a83,8,93,text,0,?1994-2015 China Acad,"(kept ""?"")",page itself prints a literal ? in the CNKI watermark (source-PDF encoding artifact)
 paper_chn_b4b85a83,9,115,text,0,?1994-2015 China Acad,"(kept ""?"")",page itself prints a literal ? in the CNKI watermark (source-PDF encoding artifact)
-paper_chn_be9986ff,1,6,text,2,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*,^{1},superscript affiliation 1; block writes ^* scripts
+paper_chn_be9986ff,1,6,text,2,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1; block writes ^* scripts
+paper_chn_be9986ff,1,6,text,7,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1
 paper_chn_be9986ff,1,6,text,11,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1
 paper_chn_be9986ff,1,6,text,16,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1
-paper_chn_be9986ff,1,6,text,20,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1
-paper_chn_be9986ff,1,6,text,27,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{2},superscript affiliation 2 before ^*
+paper_chn_be9986ff,1,6,text,20,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{2},superscript affiliation 2 before ^*
+paper_chn_be9986ff,1,6,text,27,赵磊?，尚钰轩?，袁爽?，何欣叶?，宓东?^*，孙野青?^*,^{1},superscript affiliation 1 before ^*
 paper_chn_be9986ff,2,27,text,195,员所接受的器官剂量当量并不大.然而，具有较大辐射通量(通常 ?10^{9} protons cm^2 ,≥,page prints ⩾ before 10^9 in plain text
 paper_chn_be9986ff,6,93,html,38,"tr><td rowspan=""2"">防护厚度铝 (g/cm?)</td><td colspan=""2",²,superscript 2 in g/cm²
 paper_chn_be9986ff,7,109,html,42,td>距离表面深度</td><td>有效防护厚度 (g/cm?)</td><td>GCR剂量率 (mG,²,superscript 2 in g/cm²
