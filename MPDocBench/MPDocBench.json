@@ -1098613,27 +1098613,6 @@
         "text": "主要数据："
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          810,
-          246,
-          1010.5,
-          246,
-          1010.5,
-          393.09,
-          810,
-          393.09
-        ],
-        "anno_id": 24,
-        "order": 21,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>上证综指:</td><td>3313.57</td></tr><tr><td>深圳成指:</td><td>11877.15</td></tr><tr><td>沪深300:</td><td>4100.15</td></tr><tr><td>中小盘指:</td><td>4293.35</td></tr><tr><td>创业板指:</td><td>2439.40</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1098779,48 +1098758,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "报告作者"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          794,
-          946,
-          1079.1,
-          946,
-          1079.1,
-          1052.43,
-          794,
-          1052.43
-        ],
-        "anno_id": 32,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>孟子君</td></tr><tr><td>执业证书编号</td><td>S0020521120001</td></tr><tr><td>邮箱</td><td>mengzijun@gyzq.com.cn</td></tr><tr><td>电话</td><td>021-51097188</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          793,
-          1070,
-          1089.99,
-          1070,
-          1089.99,
-          1178.63,
-          793,
-          1178.63
-        ],
-        "anno_id": 33,
-        "order": 30,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>杨为敩</td></tr><tr><td>执业证书编号</td><td>S0020521060001</td></tr><tr><td>邮箱</td><td>yangweixue@gyzq.com.cn</td></tr><tr><td>电话</td><td>021-51097188</td></tr></table>"
       },
       {
         "label": "页脚",
@@ -1099260,11 +1099197,6 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 23,
-          "target_anno_id": 24,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 4,
           "target_anno_id": 25,
           "relation_type": "parent_son"
@@ -1099297,16 +1099229,6 @@
         {
           "source_anno_id": 4,
           "target_anno_id": 31,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 31,
-          "target_anno_id": 32,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 31,
-          "target_anno_id": 33,
           "relation_type": "parent_son"
         },
         {
