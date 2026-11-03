@@ -76219,38 +76219,17 @@
         "text": "We have the following products in development utilizing our LIMITx Technology:"
       },
       {
-        "label": "表名",
-        "category_type": "table_caption",
-        "poly": [
-          248.94,
-          216.56,
-          434.33,
-          216.56,
-          434.33,
-          233.14,
-          248.94,
-          233.14
-        ],
-        "anno_id": 120,
-        "order": 106,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "text": "LIMITx Technology Products"
-      },
-      {
         "label": "表格",
         "category_type": "table",
         "poly": [
           96,
-          230.67,
-          585,
-          230.67,
-          585,
-          458,
+          217,
+          1090,
+          217,
+          1090,
+          480,
           96,
-          458
+          480
         ],
         "anno_id": 121,
         "order": 107,
@@ -76258,49 +76237,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>Immediate-release hydrocodone bitartrate with acetaminophen (LTX-03)</td></tr><tr><td>Immediate-release oxycodone HCl (LTX-01) & (LTX-02)</td></tr><tr><td>Immediate-release non-opioid drug (LTX-09)</td></tr><tr><td>Immediate-release hydromorphone HCl (LTX-04)</td></tr></table>"
-      },
-      {
-        "label": "表名",
-        "category_type": "table_caption",
-        "poly": [
-          825,
-          219,
-          866,
-          219,
-          866,
-          231,
-          825,
-          231
-        ],
-        "anno_id": 122,
-        "order": 108,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "text": "Status"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          600,
-          231.91,
-          1090,
-          231.91,
-          1090,
-          480,
-          600,
-          480
-        ],
-        "anno_id": 123,
-        "order": 109,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>FDA registration/clinical batches complete.</td></tr><tr><td>Completed 18 months of an on-going shelf life study which passed quality assurance testing.</td></tr><tr><td>IND active as of April 2018.</td></tr><tr><td>Dosing completed for Study 311. Topline results expect in late 2\\(^{nd}\\) quarter of 2023.</td></tr><tr><td>Formulation development in process.</td></tr><tr><td>Formulation development in process.</td></tr><tr><td>Two Phase I exploratory pharmacokinetic studies completed. IND no longer active.</td></tr></table>"
+        "html": "<table><tr><td>LIMITx Technology Products</td><td>Status</td></tr><tr><td>Immediate-release hydrocodone bitartrate with acetaminophen (LTX-03)</td><td>FDA registration/clinical batches complete.<br/>Completed 18 months of an on-going shelf life study which passed quality assurance testing.<br/>IND active as of April 2018.<br/>Dosing completed for Study 311. Topline results expect in late 2\\(^{nd}\\) quarter of 2023.</td></tr><tr><td>Immediate-release oxycodone HCl (LTX-01) & (LTX-02)</td><td>Formulation development in process.</td></tr><tr><td>Immediate-release non-opioid drug (LTX-09)</td><td>Formulation development in process.</td></tr><tr><td>Immediate-release hydromorphone HCl (LTX-04)</td><td>Two Phase I exploratory pharmacokinetic studies completed. IND no longer active.</td></tr></table>"
       },
       {
         "label": "标题",
@@ -77546,22 +77483,7 @@
         },
         {
           "source_anno_id": 118,
-          "target_anno_id": 120,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 120,
           "target_anno_id": 121,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 118,
-          "target_anno_id": 122,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 122,
-          "target_anno_id": 123,
           "relation_type": "parent_son"
         },
         {
