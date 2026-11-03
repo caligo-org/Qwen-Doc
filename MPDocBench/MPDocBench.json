@@ -1043665,69 +1043665,6 @@
         "text": "湖北教育出版社\n·武汉·"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          116,
-          135,
-          398,
-          135,
-          398,
-          224.89,
-          116,
-          224.89
-        ],
-        "anno_id": 8,
-        "order": 5,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>主</td><td>编:金准智</td><td>郑长龙</td></tr><tr><td>执行主编:胡济良</td><td>黄海旺</td><td></td></tr><tr><td>副主编:李国权</td><td>刘绍江</td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          115,
-          255,
-          767,
-          255,
-          767,
-          345.89,
-          115,
-          345.89
-        ],
-        "anno_id": 9,
-        "order": 6,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>编写人员:王海英</td><td>李国权</td><td>刘绍江</td><td>刘忠学</td><td>杨凌云</td><td>叶兆宁</td></tr><tr><td>责任编辑:刘忠学</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>美术编辑:房海莹</td><td></td><td></td><td></td><td></td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          115,
-          374,
-          613.98,
-          374,
-          613.98,
-          522.91,
-          115,
-          522.91
-        ],
-        "anno_id": 10,
-        "order": 7,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"10\">封面设计:吕旻 房海莹</td></tr><tr><td colspan=\"10\">版式设计:XXL Studio</td></tr><tr><td colspan=\"10\">插图:李思东工作室</td></tr><tr><td colspan=\"10\">照片:朱京 涂煜栋 陈建秋 张利 视觉中国</td></tr></table>"
-      },
-      {
         "label": "段落",
         "category_type": "text_block",
         "poly": [
@@ -1043747,27 +1043684,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "义务教育教科书 科学 三年级 下册\n人民教育出版社综合理科编辑室湖北教育出版社教材分社 编著"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          116,
-          793,
-          840,
-          793,
-          840,
-          1275.19,
-          116,
-          1275.19
-        ],
-        "anno_id": 12,
-        "order": 9,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>出 版 人民出版社出版(北京市海淀区中关村南大街17号院1号楼 邮编:100081)湖北教育出版社(湖北省武汉市洪山区雄楚大街268号出版文化城C座18楼 邮编:430070)网址 http://www.pep.com.cn重印 ×××出版社发行 ×××新华书店印刷 ×××印刷厂版次 2019年9月第1版印次 年 月第 次印刷开本 787毫米 ×1092毫米 1/16印张 4字数 80千字印数 册书号 ISBN 978-7-107-34065-9定价 7.25元</td></tr></table>"
       },
       {
         "label": "页脚",
@@ -1044295,27 +1044211,7 @@
         },
         {
           "source_anno_id": 2,
-          "target_anno_id": 8,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 9,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 10,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
           "target_anno_id": 11,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 12,
           "relation_type": "parent_son"
         },
         {
