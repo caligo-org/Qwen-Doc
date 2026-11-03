@@ -563814,27 +563814,6 @@
         "text": "使用注意事项"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          855,
-          82,
-          1603,
-          82,
-          1603,
-          491,
-          855,
-          491
-        ],
-        "anno_id": 23,
-        "order": 23,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>警告</td></tr><tr><td>·避免高温。</td></tr><tr><td>·装置机架时应允许充分散热。</td></tr><tr><td>·小心操作电源线。</td></tr><tr><td>·从插座上拔出电源线时应抓住插头将其拔出。</td></tr><tr><td>·勿将本机放置于湿度很高或多尘的位置。</td></tr><tr><td>·长时间不使用本机时须拔下电源插头。</td></tr><tr><td>·勿阻塞机壳的通风孔。</td></tr><tr><td>·勿使异物掉入机内。</td></tr><tr><td>·勿使杀虫剂、苯和稀释剂与机箱接触。</td></tr><tr><td>·切勿拆解或以任何方式改装本机。</td></tr><tr><td>·不得用报纸、桌布或窗帘等物品覆盖通风口,以免妨碍通风。</td></tr><tr><td>·不得将点燃的蜡烛等明火源放置在本机上。</td></tr><tr><td>·请留意和遵守当地有关电池处置的法规条例。</td></tr><tr><td>·请勿使液体滴落或喷洒到本机上。</td></tr><tr><td>·请勿将花瓶等装有液体的物体放置在本机上。</td></tr><tr><td>·请勿用湿手操作主电源线。</td></tr><tr><td>·当开关位于“关闭”位置时,设备并未与主电源彻底切断。</td></tr><tr><td>·应将本设备安装在电源附近,以便于接入电源。</td></tr><tr><td>·不要让本器材暴露于雨水,湿气,滴水或溅水之中。</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -569130,11 +569109,6 @@
         {
           "source_anno_id": 3,
           "target_anno_id": 22,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 22,
-          "target_anno_id": 23,
           "relation_type": "parent_son"
         },
         {
