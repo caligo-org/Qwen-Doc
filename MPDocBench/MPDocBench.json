@@ -1042390,27 +1042390,6 @@
         "text": "数学 九年级下册"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          135,
-          828,
-          777,
-          828,
-          777,
-          1332,
-          135,
-          1332
-        ],
-        "anno_id": 21,
-        "order": 16,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>主 编</td><td>杨裕前 董林伟</td></tr><tr><td>责任编辑</td><td>许礼光 闵正年 沈琼</td></tr><tr><td>责任校对</td><td>仲敏</td></tr><tr><td>出版</td><td>江苏凤凰科学技术出版社</td></tr><tr><td>出版社地址</td><td>南京市湖南路 1 号 A 楼,邮编:210009</td></tr><tr><td>重印</td><td>江苏凤凰出版传媒股份有限公司</td></tr><tr><td>发行</td><td>江苏凤凰出版传媒股份有限公司</td></tr><tr><td>照排</td><td>江苏凤凰制版有限公司</td></tr><tr><td>印刷</td><td>江苏凤凰新华印务集团有限公司</td></tr><tr><td>开本</td><td>787 mm×1 092 mm 1/16</td></tr><tr><td>印张</td><td>10</td></tr><tr><td>版次</td><td>2006 年 12 月第 1 版 2014 年 12 月第 3 版</td></tr><tr><td>印次</td><td>2021 年 11 月第 16 次印刷</td></tr><tr><td>标准书号</td><td>ISBN 978-7-5537-0472-2</td></tr><tr><td>定价</td><td>9.88 元</td></tr></table>"
-      },
-      {
         "label": "段落",
         "category_type": "text_block",
         "poly": [
@@ -1042717,11 +1042696,6 @@
         {
           "source_anno_id": 14,
           "target_anno_id": 20,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 14,
-          "target_anno_id": 21,
           "relation_type": "parent_son"
         },
         {
