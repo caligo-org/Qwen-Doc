@@ -461305,7 +461305,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "(1) \\( \\int  \\limits_{{-\\infty }}^{+\\infty }s\\left( t\\right)  \\cdot  f\\left( t\\right) {dt} = f\\left( 0\\right) \\)"
+        "latex": "(1) \\int  \\limits_{{-\\infty }}^{+\\infty }\\delta\\left( t\\right)  \\cdot  f\\left( t\\right) {dt} = f\\left( 0\\right)"
       },
       {
         "label": "公式",
@@ -461725,7 +461725,7 @@
         "page_id": 2,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "$$\n\\begin{align*}\nf(t) &= \\frac{1}{2\\pi} \\int_{-\\infty}^{+\\infty} 2\\pi\\delta(\\omega) e^{i\\omega t} \\mathrm{d}\\omega \\\\\n&= \\int_{-\\infty}^{+\\infty} \\delta(\\omega) e^{i\\omega t} \\mathrm{d}\\omega \\\\\n&= \\left. e^{i\\omega t} \\right|_{\\omega=0} \\\\\n&= 1\n\\end{align*}\n$$\n$1$ 与 $2\\pi\\delta(\\omega)$ 是"
+        "latex": "$$\n\\begin{align*}\nf(t) &= \\frac{1}{2\\pi} \\int_{-\\infty}^{+\\infty} 2\\pi\\delta(\\omega) e^{i\\omega t} \\mathrm{d}\\omega \\\\\n&= \\int_{-\\infty}^{+\\infty} \\delta(\\omega) e^{i\\omega t} \\mathrm{d}\\omega \\\\\n&= \\left. e^{i\\omega t} \\right|_{\\omega=0} \\\\\n&= 1\n\\end{align*}\n$$"
       },
       {
         "label": "段落",
@@ -462833,7 +462833,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "$$\n\\begin{aligned}\nF[f(t)] &= \\frac{e^{-i\\omega s}}{i\\omega} + \\frac{e^{-i\\omega s} \\cdot \\pi\\delta(\\omega)}{\\left. f(\\omega) \\right|_{\\omega=0}} \\\\\n&= \\frac{e^{-i\\omega s}}{i\\omega} + \\pi\\delta(\\omega)\n\\end{aligned}\n$$\n$$\n\\begin{aligned}\ne^{-i\\omega s} \\pi\\delta S(\\omega-0)\n&= \\left.e^{-i\\omega s} \\pi\\right|_{\\omega=0} \\\\\n&= \\delta(\\omega-0)\n\\end{aligned}\n$$"
+        "latex": "$$\n\\begin{aligned}\nF[f(t)] &= \\frac{e^{-i\\omega s}}{i\\omega} + \\frac{e^{-i\\omega s} \\cdot \\pi\\delta(\\omega)}{\\left. f(\\omega) \\right|_{\\omega=0}} \\\\\n&= \\frac{e^{-i\\omega s}}{i\\omega} + \\pi\\delta(\\omega)\n\\end{aligned}\n\\qquad\n\\begin{aligned}\ne^{-i\\omega s} \\pi\\delta S(\\omega-0)\n&= \\left.e^{-i\\omega s} \\pi\\right|_{\\omega=0} \\\\\n&= \\delta(\\omega-0)\n\\end{aligned}\n$$"
       },
       {
         "label": "段落",
@@ -928906,7 +928906,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>公式展示</title>\n    <!-- 引入 MathJax CDN 以渲染 LaTeX 公式 -->\n    <script src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\"></script>\n</head>\n<body>\n    <div style=\"font-size: 2em; margin: 20px;\">\n        \\[\n        H_N^{\\widetilde{G}}(\\sigma) = \\beta H_N(\\sigma) + N\\widetilde{G}\\!\\left(\\frac{1}{N}\\sum_{i=1}^N \\widetilde{h}(\\sigma_i,\\chi_i)\\right) - \\frac{N\\beta^2}{2}\\xi\\left(\\frac{\\sigma\\sigma^\\intercal}{N}\\right)\n        \\]\n        \\[\n        = \\beta H_N(\\sigma) + NG\\left(\\frac{1}{N}\\sum_{i=1}^N h(\\sigma_{\\bullet i},\\chi_i)\\right).\n        \\]\n    </div>\n</body>\n</html>"
+        "latex": "$$\n\\begin{aligned}\nH_N^{\\widetilde{G}}(\\sigma) &= \\beta H_N(\\sigma) + N\\widetilde{G}\\!\\left(\\frac{1}{N}\\sum_{i=1}^N \\widetilde{h}(\\sigma_i,\\chi_i)\\right) - \\frac{N\\beta^2}{2}\\xi\\left(\\frac{\\sigma\\sigma^\\intercal}{N}\\right) \\\\\n&= \\beta H_N(\\sigma) + NG\\left(\\frac{1}{N}\\sum_{i=1}^N h(\\sigma_{\\bullet i},\\chi_i)\\right).\n\\end{aligned}\n$$"
       },
       {
         "label": "段落",
