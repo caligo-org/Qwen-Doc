@@ -474404,7 +474404,7 @@
         "page_id": 6,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>社劳率</td><td>社会必要劳动时间</td><td>单位商品价值</td><td>价值总量</td></tr><tr><td>2h</td><td>0.5h</td><td>0.5元</td><td>0.5×2=1</td></tr><tr><td>4h</td><td>0.25h</td><td>0.25元</td><td>0.25×4=1</td></tr><tr><td>1h</td><td>1h</td><td>1元</td><td>1×1=1</td></tr></table>"
+        "html": "<table><tr><td>社劳率</td><td>社会必要劳动时间</td><td>单位商品价值</td><td>价值总量</td></tr><tr><td>2件/时</td><td>0.5h</td><td>0.5元</td><td>0.5×2=1</td></tr><tr><td>4件/时</td><td>0.25h</td><td>0.25元</td><td>0.25×4=1</td></tr><tr><td>1件/时</td><td>1h</td><td>1元</td><td>1×1=1</td></tr></table>"
       },
       {
         "label": "页脚",
