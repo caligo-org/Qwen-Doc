@@ -187,7 +187,8 @@ def normalize_latex(l, rm_trail=False):
         l = l.replace(bef, aft+" ")
         
     # TODO when \operatorname * meets mathcolor it comes error, yet the * is useless, so we simply remove it bynow.
-    pattern = r'\\operatorname \*'
+    # KaTeX writes it without the space (\lim, \max, \min, \sup become \operatorname*), so match both forms.
+    pattern = r'\\operatorname ?\*'
     old_token = re.findall(pattern, l, re.DOTALL)
     new_token = ["\\operatorname" for item in old_token]
     for bef, aft in zip(old_token, new_token):
