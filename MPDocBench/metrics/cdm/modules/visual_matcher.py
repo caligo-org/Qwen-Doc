@@ -51,7 +51,9 @@ def norm_same_token(token):
         "\\prime": "'",
         "\\ast": "*",
         "\\left<": "\\langle",
-        "\\right>": "\\rangle"
+        "\\right>": "\\rangle",
+        "\\leqslant": "\\leq",
+        "\\geqslant": "\\geq"
     }
     if token in special_map.keys():
         token = special_map[token]
