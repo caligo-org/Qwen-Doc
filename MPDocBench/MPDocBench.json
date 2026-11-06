@@ -65536,9 +65536,9 @@
           1129.01,
           652,
           1129.01,
-          1399.52,
+          1186,
           110,
-          1399.52
+          1186
         ],
         "anno_id": 100,
         "order": 91,
@@ -65546,7 +65546,28 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td></td><td><b>2024<br/>$'000</b></td><td><b>2023<br/>$'000</b></td></tr><tr><td>Consolidated statutory net profit after tax attributable to continuing operations</td><td>(241,989)</td><td>(238,265)</td></tr><tr><td>Adjust for:</td><td></td><td></td></tr><tr><td>Net change in fair value of investment properties derecognised</td><td>8,244</td><td>9,097</td></tr><tr><td>Net change in fair value of investment properties held at balance date</td><td>275,407</td><td>247,617</td></tr><tr><td>Net change in fair value of investments and financial instruments held at balance date</td><td>1,798</td><td>854</td></tr><tr><td>Net change in fair value of investment properties included in equity accounted investments</td><td>(2,266)</td><td>15,954</td></tr><tr><td>Net change in fair value from deconsolidation</td><td>5,614</td><td>-</td></tr><tr><td>Depreciation and amortisation</td><td>236</td><td>912</td></tr><tr><td>Net change in fair value of derivatives</td><td>13,992</td><td>20,220</td></tr><tr><td>Amortisation of rent abatement incentives</td><td>14,495</td><td>13,480</td></tr><tr><td>Amortisation of other tenant incentives, finance costs and other</td><td>601</td><td>3,794</td></tr><tr><td>Cost associated with de-stapling</td><td>3,552</td><td>4,097</td></tr><tr><td>Straightline of rental income</td><td>(989)</td><td>(2,127)</td></tr><tr><td>Movement in lease liabilities</td><td>-</td><td>(511)</td></tr><tr><td>Net tax expense on non-FFO Items</td><td>2,648</td><td>3,718</td></tr><tr><td>Abacus funds from operations (\"FFO\") from continuing operations</td><td>81,343</td><td>78,840</td></tr><tr><td>Abacus funds from operations (\"FFO\") from discontinued operations</td><td>1,191</td><td>96,142</td></tr><tr><td>Total Abacus FFO</td><td>82,534</td><td>174,982</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td><b>2024</b></td><td><b>2023</b></td></tr><tr><td>Basic earnings per security (cents)</td><td>(27.08)</td><td>2.85</td></tr><tr><td>FFO per security (cents)</td><td>9.24</td><td>19.58</td></tr><tr><td>FFO from continuing operations per security (cents)</td><td>9.10</td><td>8.82</td></tr><tr><td>Distribution per security (cents - including proposed distribution)</td><td>8.50</td><td>18.40</td></tr><tr><td>Weighted average securities on issue (million)</td><td>893.7</td><td>893.5</td></tr></table>"
+        "html": "<table><tr><td></td><td><b>2024<br/>$'000</b></td><td><b>2023<br/>$'000</b></td></tr><tr><td>Consolidated statutory net profit after tax attributable to continuing operations</td><td>(241,989)</td><td>(238,265)</td></tr><tr><td>Adjust for:</td><td></td><td></td></tr><tr><td>Net change in fair value of investment properties derecognised</td><td>8,244</td><td>9,097</td></tr><tr><td>Net change in fair value of investment properties held at balance date</td><td>275,407</td><td>247,617</td></tr><tr><td>Net change in fair value of investments and financial instruments held at balance date</td><td>1,798</td><td>854</td></tr><tr><td>Net change in fair value of investment properties included in equity accounted investments</td><td>(2,266)</td><td>15,954</td></tr><tr><td>Net change in fair value from deconsolidation</td><td>5,614</td><td>-</td></tr><tr><td>Depreciation and amortisation</td><td>236</td><td>912</td></tr><tr><td>Net change in fair value of derivatives</td><td>13,992</td><td>20,220</td></tr><tr><td>Amortisation of rent abatement incentives</td><td>14,495</td><td>13,480</td></tr><tr><td>Amortisation of other tenant incentives, finance costs and other</td><td>601</td><td>3,794</td></tr><tr><td>Cost associated with de-stapling</td><td>3,552</td><td>4,097</td></tr><tr><td>Straightline of rental income</td><td>(989)</td><td>(2,127)</td></tr><tr><td>Movement in lease liabilities</td><td>-</td><td>(511)</td></tr><tr><td>Net tax expense on non-FFO Items</td><td>2,648</td><td>3,718</td></tr><tr><td>Abacus funds from operations (\"FFO\") from continuing operations</td><td>81,343</td><td>78,840</td></tr><tr><td>Abacus funds from operations (\"FFO\") from discontinued operations</td><td>1,191</td><td>96,142</td></tr><tr><td>Total Abacus FFO</td><td>82,534</td><td>174,982</td></tr></table>"
+      },
+      {
+        "label": "表格",
+        "category_type": "table",
+        "poly": [
+          110,
+          1213,
+          1129.01,
+          1213,
+          1129.01,
+          1399.52,
+          110,
+          1399.52
+        ],
+        "anno_id": 198,
+        "order": 92,
+        "ignore": false,
+        "page_id": 7,
+        "block_fenduan": "",
+        "block_bbox_type": "BBOX",
+        "html": "<table><tr><td></td><td><b>2024</b></td><td><b>2023</b></td></tr><tr><td>Basic earnings per security (cents)</td><td>(27.08)</td><td>2.85</td></tr><tr><td>FFO per security (cents)</td><td>9.24</td><td>19.58</td></tr><tr><td>FFO from continuing operations per security (cents)</td><td>9.10</td><td>8.82</td></tr><tr><td>Distribution per security (cents - including proposed distribution)</td><td>8.50</td><td>18.40</td></tr><tr><td>Weighted average securities on issue (million)</td><td>893.7</td><td>893.5</td></tr></table>"
       },
       {
         "label": "表注",
@@ -65562,7 +65583,7 @@
           1447
         ],
         "anno_id": 101,
-        "order": 92,
+        "order": 93,
         "ignore": false,
         "page_id": 7,
         "block_fenduan": "",
@@ -65624,7 +65645,7 @@
           147.09
         ],
         "anno_id": 104,
-        "order": 93,
+        "order": 94,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "中",
@@ -65645,7 +65666,7 @@
           177
         ],
         "anno_id": 105,
-        "order": 94,
+        "order": 95,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65666,7 +65687,7 @@
           221
         ],
         "anno_id": 106,
-        "order": 95,
+        "order": 96,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "下",
@@ -65687,7 +65708,7 @@
           264
         ],
         "anno_id": 107,
-        "order": 96,
+        "order": 97,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65708,7 +65729,7 @@
           354
         ],
         "anno_id": 108,
-        "order": 97,
+        "order": 98,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65729,7 +65750,7 @@
           420
         ],
         "anno_id": 109,
-        "order": 98,
+        "order": 99,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65750,7 +65771,7 @@
           457
         ],
         "anno_id": 110,
-        "order": 99,
+        "order": 100,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65771,7 +65792,7 @@
           495
         ],
         "anno_id": 111,
-        "order": 100,
+        "order": 101,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65792,7 +65813,7 @@
           562
         ],
         "anno_id": 112,
-        "order": 101,
+        "order": 102,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65813,7 +65834,7 @@
           630
         ],
         "anno_id": 113,
-        "order": 102,
+        "order": 103,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65834,7 +65855,7 @@
           669
         ],
         "anno_id": 114,
-        "order": 103,
+        "order": 104,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65855,7 +65876,7 @@
           733
         ],
         "anno_id": 115,
-        "order": 104,
+        "order": 105,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65876,7 +65897,7 @@
           926.15
         ],
         "anno_id": 116,
-        "order": 105,
+        "order": 106,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65897,7 +65918,7 @@
           987
         ],
         "anno_id": 117,
-        "order": 106,
+        "order": 107,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65918,7 +65939,7 @@
           1120
         ],
         "anno_id": 118,
-        "order": 107,
+        "order": 108,
         "ignore": false,
         "page_id": 8,
         "block_fenduan": "",
@@ -65980,7 +66001,7 @@
           145.17
         ],
         "anno_id": 121,
-        "order": 108,
+        "order": 109,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "中",
@@ -66001,7 +66022,7 @@
           177
         ],
         "anno_id": 122,
-        "order": 109,
+        "order": 110,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66022,7 +66043,7 @@
           220
         ],
         "anno_id": 123,
-        "order": 110,
+        "order": 111,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "上",
@@ -66043,7 +66064,7 @@
           290
         ],
         "anno_id": 124,
-        "order": 111,
+        "order": 112,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66064,7 +66085,7 @@
           359
         ],
         "anno_id": 125,
-        "order": 112,
+        "order": 113,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66085,7 +66106,7 @@
           412
         ],
         "anno_id": 126,
-        "order": 113,
+        "order": 114,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66106,7 +66127,7 @@
           626.75
         ],
         "anno_id": 127,
-        "order": 114,
+        "order": 115,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66127,7 +66148,7 @@
           668
         ],
         "anno_id": 128,
-        "order": 115,
+        "order": 116,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66148,7 +66169,7 @@
           692
         ],
         "anno_id": 129,
-        "order": 116,
+        "order": 117,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66169,7 +66190,7 @@
           716
         ],
         "anno_id": 130,
-        "order": 117,
+        "order": 118,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66190,7 +66211,7 @@
           414
         ],
         "anno_id": 131,
-        "order": 118,
+        "order": 119,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66211,7 +66232,7 @@
           635.96
         ],
         "anno_id": 132,
-        "order": 119,
+        "order": 120,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66231,7 +66252,7 @@
           718
         ],
         "anno_id": 133,
-        "order": 120,
+        "order": 121,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66252,7 +66273,7 @@
           762
         ],
         "anno_id": 134,
-        "order": 121,
+        "order": 122,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66273,7 +66294,7 @@
           856
         ],
         "anno_id": 135,
-        "order": 122,
+        "order": 123,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66294,7 +66315,7 @@
           1003
         ],
         "anno_id": 136,
-        "order": 123,
+        "order": 124,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66315,7 +66336,7 @@
           1042
         ],
         "anno_id": 137,
-        "order": 124,
+        "order": 125,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66336,7 +66357,7 @@
           1133
         ],
         "anno_id": 138,
-        "order": 125,
+        "order": 126,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66357,7 +66378,7 @@
           1225
         ],
         "anno_id": 139,
-        "order": 126,
+        "order": 127,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66378,7 +66399,7 @@
           1251
         ],
         "anno_id": 140,
-        "order": 127,
+        "order": 128,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66399,7 +66420,7 @@
           1556
         ],
         "anno_id": 141,
-        "order": 128,
+        "order": 129,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66420,7 +66441,7 @@
           1332
         ],
         "anno_id": 142,
-        "order": 129,
+        "order": 130,
         "ignore": false,
         "page_id": 9,
         "block_fenduan": "",
@@ -66482,7 +66503,7 @@
           148
         ],
         "anno_id": 145,
-        "order": 130,
+        "order": 131,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "中",
@@ -66503,7 +66524,7 @@
           179
         ],
         "anno_id": 146,
-        "order": 131,
+        "order": 132,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66524,7 +66545,7 @@
           220
         ],
         "anno_id": 147,
-        "order": 132,
+        "order": 133,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "下",
@@ -66545,7 +66566,7 @@
           261
         ],
         "anno_id": 148,
-        "order": 133,
+        "order": 134,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66566,7 +66587,7 @@
           354
         ],
         "anno_id": 149,
-        "order": 134,
+        "order": 135,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66587,7 +66608,7 @@
           392
         ],
         "anno_id": 150,
-        "order": 135,
+        "order": 136,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66608,7 +66629,7 @@
           456
         ],
         "anno_id": 151,
-        "order": 136,
+        "order": 137,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66629,7 +66650,7 @@
           575
         ],
         "anno_id": 152,
-        "order": 137,
+        "order": 138,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66650,7 +66671,7 @@
           611
         ],
         "anno_id": 153,
-        "order": 138,
+        "order": 139,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66671,7 +66692,7 @@
           729
         ],
         "anno_id": 154,
-        "order": 139,
+        "order": 140,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66692,7 +66713,7 @@
           795
         ],
         "anno_id": 155,
-        "order": 140,
+        "order": 141,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66713,7 +66734,7 @@
           889
         ],
         "anno_id": 156,
-        "order": 141,
+        "order": 142,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66734,7 +66755,7 @@
           921
         ],
         "anno_id": 157,
-        "order": 142,
+        "order": 143,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66755,7 +66776,7 @@
           989
         ],
         "anno_id": 158,
-        "order": 143,
+        "order": 144,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66776,7 +66797,7 @@
           1026
         ],
         "anno_id": 159,
-        "order": 144,
+        "order": 145,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66797,7 +66818,7 @@
           1066
         ],
         "anno_id": 160,
-        "order": 145,
+        "order": 146,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66818,7 +66839,7 @@
           1103
         ],
         "anno_id": 161,
-        "order": 146,
+        "order": 147,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66839,7 +66860,7 @@
           1169
         ],
         "anno_id": 162,
-        "order": 147,
+        "order": 148,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66860,7 +66881,7 @@
           1264
         ],
         "anno_id": 163,
-        "order": 148,
+        "order": 149,
         "ignore": false,
         "page_id": 10,
         "block_fenduan": "",
@@ -66943,7 +66964,7 @@
           146.15
         ],
         "anno_id": 167,
-        "order": 149,
+        "order": 150,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "中",
@@ -66964,7 +66985,7 @@
           178
         ],
         "anno_id": 168,
-        "order": 150,
+        "order": 151,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -66985,7 +67006,7 @@
           220
         ],
         "anno_id": 169,
-        "order": 151,
+        "order": 152,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67006,7 +67027,7 @@
           347
         ],
         "anno_id": 170,
-        "order": 152,
+        "order": 153,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67027,7 +67048,7 @@
           518
         ],
         "anno_id": 171,
-        "order": 153,
+        "order": 154,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67048,7 +67069,7 @@
           569
         ],
         "anno_id": 172,
-        "order": 154,
+        "order": 155,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "上",
@@ -67069,7 +67090,7 @@
           712
         ],
         "anno_id": 173,
-        "order": 155,
+        "order": 156,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67090,7 +67111,7 @@
           1112.95
         ],
         "anno_id": 174,
-        "order": 156,
+        "order": 157,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67110,7 +67131,7 @@
           1224
         ],
         "anno_id": 175,
-        "order": 157,
+        "order": 158,
         "ignore": false,
         "page_id": 11,
         "block_fenduan": "",
@@ -67172,7 +67193,7 @@
           144.76
         ],
         "anno_id": 178,
-        "order": 158,
+        "order": 159,
         "ignore": false,
         "page_id": 12,
         "block_fenduan": "中",
@@ -67193,7 +67214,7 @@
           177
         ],
         "anno_id": 179,
-        "order": 159,
+        "order": 160,
         "ignore": false,
         "page_id": 12,
         "block_fenduan": "",
@@ -67214,7 +67235,7 @@
           221
         ],
         "anno_id": 180,
-        "order": 160,
+        "order": 161,
         "ignore": false,
         "page_id": 12,
         "block_fenduan": "中",
@@ -67235,7 +67256,7 @@
           273
         ],
         "anno_id": 181,
-        "order": 161,
+        "order": 162,
         "ignore": false,
         "page_id": 12,
         "block_fenduan": "上",
@@ -67256,7 +67277,7 @@
           1291.23
         ],
         "anno_id": 182,
-        "order": 162,
+        "order": 163,
         "ignore": false,
         "page_id": 12,
         "block_fenduan": "上",
@@ -67319,7 +67340,7 @@
           148.86
         ],
         "anno_id": 185,
-        "order": 163,
+        "order": 164,
         "ignore": false,
         "page_id": 13,
         "block_fenduan": "中",
@@ -67340,7 +67361,7 @@
           178
         ],
         "anno_id": 186,
-        "order": 164,
+        "order": 165,
         "ignore": false,
         "page_id": 13,
         "block_fenduan": "",
@@ -67361,7 +67382,7 @@
           220
         ],
         "anno_id": 187,
-        "order": 165,
+        "order": 166,
         "ignore": false,
         "page_id": 13,
         "block_fenduan": "中",
@@ -67382,7 +67403,7 @@
           262
         ],
         "anno_id": 188,
-        "order": 166,
+        "order": 167,
         "ignore": false,
         "page_id": 13,
         "block_fenduan": "中",
@@ -67403,7 +67424,7 @@
           1053.01
         ],
         "anno_id": 189,
-        "order": 167,
+        "order": 168,
         "ignore": false,
         "page_id": 13,
         "block_fenduan": "中",
@@ -67466,7 +67487,7 @@
           147.73
         ],
         "anno_id": 192,
-        "order": 168,
+        "order": 169,
         "ignore": false,
         "page_id": 14,
         "block_fenduan": "下",
@@ -67487,7 +67508,7 @@
           180
         ],
         "anno_id": 193,
-        "order": 169,
+        "order": 170,
         "ignore": false,
         "page_id": 14,
         "block_fenduan": "",
@@ -67508,7 +67529,7 @@
           221
         ],
         "anno_id": 194,
-        "order": 170,
+        "order": 171,
         "ignore": false,
         "page_id": 14,
         "block_fenduan": "下",
@@ -67529,7 +67550,7 @@
           263
         ],
         "anno_id": 195,
-        "order": 171,
+        "order": 172,
         "ignore": false,
         "page_id": 14,
         "block_fenduan": "下",
@@ -67550,7 +67571,7 @@
           1157
         ],
         "anno_id": 196,
-        "order": 172,
+        "order": 173,
         "ignore": false,
         "page_id": 14,
         "block_fenduan": "下",
@@ -68035,6 +68056,11 @@
         {
           "source_anno_id": 90,
           "target_anno_id": 100,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 90,
+          "target_anno_id": 198,
           "relation_type": "parent_son"
         },
         {
@@ -76219,38 +76245,17 @@
         "text": "We have the following products in development utilizing our LIMITx Technology:"
       },
       {
-        "label": "表名",
-        "category_type": "table_caption",
-        "poly": [
-          248.94,
-          216.56,
-          434.33,
-          216.56,
-          434.33,
-          233.14,
-          248.94,
-          233.14
-        ],
-        "anno_id": 120,
-        "order": 106,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "text": "LIMITx Technology Products"
-      },
-      {
         "label": "表格",
         "category_type": "table",
         "poly": [
           96,
-          230.67,
-          585,
-          230.67,
-          585,
-          458,
+          217,
+          1090,
+          217,
+          1090,
+          480,
           96,
-          458
+          480
         ],
         "anno_id": 121,
         "order": 107,
@@ -76258,49 +76263,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>Immediate-release hydrocodone bitartrate with acetaminophen (LTX-03)</td></tr><tr><td>Immediate-release oxycodone HCl (LTX-01) & (LTX-02)</td></tr><tr><td>Immediate-release non-opioid drug (LTX-09)</td></tr><tr><td>Immediate-release hydromorphone HCl (LTX-04)</td></tr></table>"
-      },
-      {
-        "label": "表名",
-        "category_type": "table_caption",
-        "poly": [
-          825,
-          219,
-          866,
-          219,
-          866,
-          231,
-          825,
-          231
-        ],
-        "anno_id": 122,
-        "order": 108,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "text": "Status"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          600,
-          231.91,
-          1090,
-          231.91,
-          1090,
-          480,
-          600,
-          480
-        ],
-        "anno_id": 123,
-        "order": 109,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>FDA registration/clinical batches complete.</td></tr><tr><td>Completed 18 months of an on-going shelf life study which passed quality assurance testing.</td></tr><tr><td>IND active as of April 2018.</td></tr><tr><td>Dosing completed for Study 311. Topline results expect in late 2\\(^{nd}\\) quarter of 2023.</td></tr><tr><td>Formulation development in process.</td></tr><tr><td>Formulation development in process.</td></tr><tr><td>Two Phase I exploratory pharmacokinetic studies completed. IND no longer active.</td></tr></table>"
+        "html": "<table><tr><td>LIMITx Technology Products</td><td>Status</td></tr><tr><td>Immediate-release hydrocodone bitartrate with acetaminophen (LTX-03)</td><td>FDA registration/clinical batches complete.<br/>Completed 18 months of an on-going shelf life study which passed quality assurance testing.<br/>IND active as of April 2018.<br/>Dosing completed for Study 311. Topline results expect in late 2\\(^{nd}\\) quarter of 2023.</td></tr><tr><td>Immediate-release oxycodone HCl (LTX-01) & (LTX-02)</td><td>Formulation development in process.</td></tr><tr><td>Immediate-release non-opioid drug (LTX-09)</td><td>Formulation development in process.</td></tr><tr><td>Immediate-release hydromorphone HCl (LTX-04)</td><td>Two Phase I exploratory pharmacokinetic studies completed. IND no longer active.</td></tr></table>"
       },
       {
         "label": "标题",
@@ -77546,22 +77509,7 @@
         },
         {
           "source_anno_id": 118,
-          "target_anno_id": 120,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 120,
           "target_anno_id": 121,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 118,
-          "target_anno_id": 122,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 122,
-          "target_anno_id": 123,
           "relation_type": "parent_son"
         },
         {
@@ -96364,7 +96312,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>IN THOUSANDS, EXCEPT PER SHARE DATA AND HEADCOUNT</td><td>Q1</td><td>Q2</td><td>Q3</td><td>Q4</td><td>Fiscal year</td></tr><tr><td colspan=\"6\"><strong>Operating revenues</strong></td></tr><tr><td>FY2024</td><td>$679,965</td><td>$707,949</td><td>$724,705</td><td>$743,509</td><td>$2,856,128</td></tr><tr><td>FY2023</td><td>$592,218</td><td>$621,157</td><td>$625,439</td><td>$690,106</td><td>$2,528,920</td></tr><tr><td colspan=\"6\"><strong>Operating expenses</strong></td></tr><tr><td>FY2024</td><td>$340,583</td><td>$325,341</td><td>$323,371</td><td>$338,315</td><td>$1,327,610</td></tr><tr><td>FY2023</td><td>$277,616</td><td>$275,204</td><td>$272,130</td><td>$319,361</td><td>$1,144,311</td></tr><tr><td colspan=\"6\"><strong>Operating income</strong></td></tr><tr><td>FY2024</td><td>$339,382</td><td>$382,608</td><td>$401,334</td><td>$405,194</td><td>$1,528,518</td></tr><tr><td>FY2023</td><td>$314,602</td><td>$345,953</td><td>$353,309</td><td>$370,745</td><td>$1,384,609</td></tr><tr><td colspan=\"6\"><strong>Net income</strong></td></tr><tr><td>FY2024</td><td>$255,954</td><td>$266,758</td><td>$280,901</td><td>$305,515</td><td>$1,109,128</td></tr><tr><td>FY2023</td><td>$238,728</td><td>$246,825</td><td>$259,659</td><td>$403,380</td><td>$1,148,592</td></tr><tr><td colspan=\"6\"><strong>Earnings per basic common share</strong></td></tr><tr><td>FY2024</td><td>$3.23</td><td>$3.37</td><td>$3.58</td><td>$3.91</td><td>$14.09</td></tr><tr><td>FY2023</td><td>$2.98</td><td>$3.10</td><td>$3.28</td><td>$5.10</td><td>$14.45</td></tr><tr><td colspan=\"6\"><strong>Headcount</strong></td></tr><tr><td>FY2024</td><td colspan=\"4\"></td><td>6,132</td></tr><tr><td>FY2023</td><td colspan=\"4\"></td><td>5,794</td></tr><tr><td>FY2022</td><td colspan=\"4\"></td><td>4,759</td></tr></table>"
+        "html": "<table><tr><td>IN THOUSANDS, EXCEPT PER SHARE DATA AND HEADCOUNT</td><td>Q1</td><td>Q2</td><td>Q3</td><td>Q4</td><td>Fiscal year</td></tr><tr><td colspan=\"6\"><strong>Operating revenues</strong></td></tr><tr><td>FY2024</td><td>$679,965</td><td>$707,949</td><td>$724,705</td><td>$743,509</td><td>$2,856,128</td></tr><tr><td>FY2023</td><td>$592,218</td><td>$621,157</td><td>$625,439</td><td>$690,106</td><td>$2,528,920</td></tr><tr><td colspan=\"6\"><strong>Operating expenses</strong></td></tr><tr><td>FY2024</td><td>$340,583</td><td>$325,341</td><td>$323,371</td><td>$338,315</td><td>$1,327,610</td></tr><tr><td>FY2023</td><td>$277,616</td><td>$275,204</td><td>$272,130</td><td>$319,361</td><td>$1,144,311</td></tr><tr><td colspan=\"6\"><strong>Operating income</strong></td></tr><tr><td>FY2024</td><td>$339,382</td><td>$382,608</td><td>$401,334</td><td>$405,194</td><td>$1,528,518</td></tr><tr><td>FY2023</td><td>$314,602</td><td>$345,953</td><td>$353,309</td><td>$370,745</td><td>$1,384,609</td></tr><tr><td colspan=\"6\"><strong>Net income</strong></td></tr><tr><td>FY2024</td><td>$255,954</td><td>$266,758</td><td>$280,901</td><td>$305,515</td><td>$1,109,128</td></tr><tr><td>FY2023</td><td>$238,728</td><td>$246,825</td><td>$259,659</td><td>$403,380</td><td>$1,148,592</td></tr><tr><td colspan=\"6\"><strong>Earnings per basic common share</strong></td></tr><tr><td>FY2024</td><td>$3.23</td><td>$3.37</td><td>$3.58</td><td>$3.91</td><td>$14.09</td></tr><tr><td>FY2023</td><td>$2.98</td><td>$3.10</td><td>$3.28</td><td>$5.10</td><td>$14.45</td></tr><tr><td colspan=\"6\"><strong>Earnings per diluted common share</strong></td></tr><tr><td>FY2024</td><td>$3.22</td><td>$3.37</td><td>$3.57</td><td>$3.90</td><td>$14.05</td></tr><tr><td>FY2023</td><td>$2.97</td><td>$3.09</td><td>$3.27</td><td>$5.07</td><td>$14.39</td></tr><tr><td colspan=\"6\"><strong>Headcount</strong></td></tr><tr><td>FY2024</td><td colspan=\"4\"></td><td>6,132</td></tr><tr><td>FY2023</td><td colspan=\"4\"></td><td>5,794</td></tr><tr><td>FY2022</td><td colspan=\"4\"></td><td>4,759</td></tr></table>"
       }
     ],
     "extra": {
@@ -130734,7 +130682,7 @@
         "page_id": 10,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"4\"><b>善意取得的适用范围和法律效力★★★</b></td></tr><tr><td rowspan=\"3\"><b>适用<br/>范围</b></td><td><b>不动产</b></td><td colspan=\"2\">(1) 夫妻共有房屋,但产权只登记在一人名下<br/>      (2) 法院作出判决后导致记名产权人和实际产权人不一致</td></tr><tr><td><b>动产</b></td><td colspan=\"2\">动产占有委托物(占有委托物,又称非脱手物,是指基于原所有权人的意思而占有他人之物。如基于租赁合同关系、借用合同关系、保管合同关系、委托合同关系、承揽合同关系、运输合同关系等占有他人之物(即属于合法占有)<br/>      [萌主点拨] 占有脱离物,又称脱手物,是指非基于原所有权人的意思而占有他人之物。如盗赃物、遗失物、埋藏物、隐藏物不适用善意取得。</td></tr><tr><td><b>权利</b></td><td colspan=\"2\">抵押权、质权、留置权等也可以善意取得</td></tr><tr><td><b>法律<br/>效力</b></td><td colspan=\"3\">行为人善意取得标的物后对标的物的再处分属于有权处分,二者签订的合同合法有效,第三人可以继受取得标的物所有权</td></tr></table>"
+        "html": "<table><tr><td colspan=\"3\"><b>善意取得的适用范围和法律效力★★★</b></td></tr><tr><td rowspan=\"4\"><b>适用<br/>范围</b></td><td rowspan=\"2\"><b>不动产</b></td><td>(1) 夫妻共有房屋,但产权只登记在一人名下</td></tr><tr><td>(2) 法院作出判决后导致记名产权人和实际产权人不一致</td></tr><tr><td><b>动产</b></td><td>动产占有委托物(占有委托物,又称非脱手物,是指基于原所有权人的意思而占有他人之物。如基于租赁合同关系、借用合同关系、保管合同关系、委托合同关系、承揽合同关系、运输合同关系等占有他人之物(即属于合法占有)<br/>      [萌主点拨] 占有脱离物,又称脱手物,是指非基于原所有权人的意思而占有他人之物。如盗赃物、遗失物、埋藏物、隐藏物不适用善意取得。</td></tr><tr><td><b>权利</b></td><td>抵押权、质权、留置权等也可以善意取得</td></tr><tr><td><b>法律<br/>效力</b></td><td colspan=\"2\">行为人善意取得标的物后对标的物的再处分属于有权处分,二者签订的合同合法有效,第三人可以继受取得标的物所有权</td></tr></table>"
       },
       {
         "label": "段落",
@@ -131845,7 +131793,7 @@
         "page_id": 13,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"2\"><b>动产遗失物的拾得★★★ [民法典第314—319条]</b></td></tr><tr><td>含义</td><td>发现他人遗失的动产并予以占有的一种法律事实</td></tr><tr><td>性质</td><td>动产遗失物的拾得系事实行为,与拾得人的民事行为能力无关</td></tr><tr><td>拾得人的义务</td><td>1. 返还义务(拾得遗失物,应当返还权利人。拾得人将拾得物据为己有,拒不返还而引起诉讼的,按照侵权之诉处理)<br/>      2. 通知义务(拾得人应当及时通知权利人领取,或送交公安等有关部门)<br/>      3. 保管义务(拾得人在遗失物送交有关部门前,有关部门在遗失物被领取前,应当妥善保管遗失物;因故意或重大过失致使遗失物毁损、灭失的,应当承担民事责任)</td></tr><tr><td>拾得人的权利</td><td>1. 必要费用请求权(权利人领取遗失物时,应当向拾得人或有关部门支付保管遗失物等支出的必要费用,即准用无因管理规则)<br/>      2. 悬赏报酬请求权(权利人悬赏寻找遗失物的,领取遗失物时应当按照承诺履行义务。拾得人基于单方允诺之债可以请求权利人给付)<br/>      3. 权利丧失(拾得人侵占遗失物的,丧失必要费用请求权和悬赏报酬请求权)</td></tr><tr><td>归属</td><td>自发布招领公告之日起1年内无人认领的,归国家所有</td></tr><tr><td>参照适用</td><td>拾得漂流物、发现埋藏物或隐藏物的,参照适用拾得遗失物的有关规定。法律另有规定的,依照其规定</td></tr></table>"
+        "html": "<table><tr><td colspan=\"2\"><b>动产遗失物的拾得★★★ [民法典第314—319条]</b></td></tr><tr><td>含义</td><td>发现他人遗失的动产并予以占有的一种法律事实</td></tr><tr><td>性质</td><td>动产遗失物的拾得系事实行为,与拾得人的民事行为能力无关</td></tr><tr><td rowspan=\"3\">拾得人的义务</td><td>1. 返还义务(拾得遗失物,应当返还权利人。拾得人将拾得物据为己有,拒不返还而引起诉讼的,按照侵权之诉处理)</td></tr><tr><td>2. 通知义务(拾得人应当及时通知权利人领取,或送交公安等有关部门)</td></tr><tr><td>3. 保管义务(拾得人在遗失物送交有关部门前,有关部门在遗失物被领取前,应当妥善保管遗失物;因故意或重大过失致使遗失物毁损、灭失的,应当承担民事责任)</td></tr><tr><td rowspan=\"3\">拾得人的权利</td><td>1. 必要费用请求权(权利人领取遗失物时,应当向拾得人或有关部门支付保管遗失物等支出的必要费用,即准用无因管理规则)</td></tr><tr><td>2. 悬赏报酬请求权(权利人悬赏寻找遗失物的,领取遗失物时应当按照承诺履行义务。拾得人基于单方允诺之债可以请求权利人给付)</td></tr><tr><td>3. 权利丧失(拾得人侵占遗失物的,丧失必要费用请求权和悬赏报酬请求权)</td></tr><tr><td>归属</td><td>自发布招领公告之日起1年内无人认领的,归国家所有</td></tr><tr><td>参照适用</td><td>拾得漂流物、发现埋藏物或隐藏物的,参照适用拾得遗失物的有关规定。法律另有规定的,依照其规定</td></tr></table>"
       },
       {
         "label": "标题",
@@ -131887,7 +131835,7 @@
         "page_id": 13,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"2\"><b>先占★★</b></td></tr><tr><td>含义</td><td>基于所有的意思,先于他人占有无主动产,从而取得其所有权的事实</td></tr><tr><td>性质</td><td>先占系事实行为,与占有人的民事行为能力无关</td></tr><tr><td>构成要件</td><td>1. 须以自己所有的意思占有无主物<br/>      2. 对象是无主动产<br/>      [萌主点拨] 先占的标的物必须系动产,对于不动产而言不存在先占的问题。标的物的性质为无主物还是遗失物该如何判断?对于标的物是否属于无主物,判断的标准不在拾得人主观上如何认为,关键取决于权利人是否有丧失所有权的意思,如果权利人已经放弃所有权,对于拾得人来说就可以基于先占制度取得所有权。相反,如果权利人并没有放弃所有权的意思,对于拾得人来说只能构成拾得遗失物而非先占。<br/>      3. 不得违反法律、行政法规的强制性或禁止性规定。<br/>      [萌主点拨] 专属于国家的财产、禁止流通物等,均不能先占。</td></tr></table>"
+        "html": "<table><tr><td colspan=\"2\"><b>先占★★</b></td></tr><tr><td>含义</td><td>基于所有的意思,先于他人占有无主动产,从而取得其所有权的事实</td></tr><tr><td>性质</td><td>先占系事实行为,与占有人的民事行为能力无关</td></tr><tr><td rowspan=\"3\">构成要件</td><td>1. 须以自己所有的意思占有无主物</td></tr><tr><td>2. 对象是无主动产<br/>      [萌主点拨] 先占的标的物必须系动产,对于不动产而言不存在先占的问题。标的物的性质为无主物还是遗失物该如何判断?对于标的物是否属于无主物,判断的标准不在拾得人主观上如何认为,关键取决于权利人是否有丧失所有权的意思,如果权利人已经放弃所有权,对于拾得人来说就可以基于先占制度取得所有权。相反,如果权利人并没有放弃所有权的意思,对于拾得人来说只能构成拾得遗失物而非先占。</td></tr><tr><td>3. 不得违反法律、行政法规的强制性或禁止性规定。<br/>      [萌主点拨] 专属于国家的财产、禁止流通物等,均不能先占。</td></tr></table>"
       },
       {
         "label": "标题",
@@ -132413,7 +132361,7 @@
         "page_id": 16,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"4\"><b>成员权(管理权或表决权)☆☆☆ [民法典第278条]</b></td></tr><tr><td rowspan=\"8\">一般事项</td><td>口诀</td><td colspan=\"2\">定改规则和规约;选换成员聘企业;使用资金变三一</td></tr><tr><td rowspan=\"5\">具体<br/>内容</td><td colspan=\"2\">1. 制定和修改业主大会议事规则</td></tr><tr><td colspan=\"2\">2. 制定和修改管理规约</td></tr><tr><td colspan=\"2\">3. 选举业主委员会或更换业主委员会成员</td></tr><tr><td colspan=\"2\">4. 选聘和解聘物业服务企业或其他管理人</td></tr><tr><td colspan=\"2\">5. 使用建筑物及其附属设施的维修资金</td></tr><tr><td rowspan=\"2\">行权</td><td>1</td><td>应当由专有部分面积占比2/3以上的业主且人数占比2/3以上的业主参与表决(双2/3参与)</td></tr><tr><td>2</td><td>应当经参与表决专有部分面积过半数的业主且参与表决人数过半数的业主同意(双1/2同意)</td></tr><tr><td rowspan=\"6\">特殊事项</td><td>口诀</td><td colspan=\"2\">筹集资金,建设施;改变用途,搞经营</td></tr><tr><td rowspan=\"3\">具体<br/>内容</td><td colspan=\"2\">1. 筹集建筑物及其附属设施的维修资金(业主大会请求业主缴付公共维修基金/资金的请求权不受诉讼时效期间的限制)</td></tr><tr><td colspan=\"2\">2. 改建、重建建筑物及其附属设施(如广告牌、花圃等)</td></tr><tr><td colspan=\"2\">3. 改变共有部分的用途或利用共有部分从事经营活动</td></tr><tr><td rowspan=\"2\">行权</td><td>1</td><td>应当由专有部分面积占比2/3以上的业主且人数占比2/3以上的业主参与表决(双2/3参与)</td></tr><tr><td>2</td><td>应当经参与表决专有部分面积3/4以上的业主且参与表决人数3/4以上的业主同意(双3/4同意)</td></tr></table>"
+        "html": "<table><tr><td colspan=\"4\"><b>成员权(管理权或表决权)☆☆☆ [民法典第278条]</b></td></tr><tr><td rowspan=\"8\">一般事项</td><td>口诀</td><td colspan=\"2\">定改规则和规约;选换成员聘企业;使用资金变三一</td></tr><tr><td rowspan=\"5\">具体<br/>内容</td><td colspan=\"2\">1. 制定和修改业主大会议事规则</td></tr><tr><td colspan=\"2\">2. 制定和修改管理规约</td></tr><tr><td colspan=\"2\">3. 选举业主委员会或更换业主委员会成员</td></tr><tr><td colspan=\"2\">4. 选聘和解聘物业服务企业或其他管理人</td></tr><tr><td colspan=\"2\">5. 使用建筑物及其附属设施的维修资金</td></tr><tr><td rowspan=\"2\">行权</td><td colspan=\"2\">1. 应当由专有部分面积占比2/3以上的业主且人数占比2/3以上的业主参与表决(双2/3参与)</td></tr><tr><td colspan=\"2\">2. 应当经参与表决专有部分面积过半数的业主且参与表决人数过半数的业主同意(双1/2同意)</td></tr><tr><td rowspan=\"6\">特殊事项</td><td>口诀</td><td colspan=\"2\">筹集资金,建设施;改变用途,搞经营</td></tr><tr><td rowspan=\"3\">具体<br/>内容</td><td colspan=\"2\">1. 筹集建筑物及其附属设施的维修资金(业主大会请求业主缴付公共维修基金/资金的请求权不受诉讼时效期间的限制)</td></tr><tr><td colspan=\"2\">2. 改建、重建建筑物及其附属设施(如广告牌、花圃等)</td></tr><tr><td colspan=\"2\">3. 改变共有部分的用途或利用共有部分从事经营活动</td></tr><tr><td rowspan=\"2\">行权</td><td colspan=\"2\">1. 应当由专有部分面积占比2/3以上的业主且人数占比2/3以上的业主参与表决(双2/3参与)</td></tr><tr><td colspan=\"2\">2. 应当经参与表决专有部分面积3/4以上的业主且参与表决人数3/4以上的业主同意(双3/4同意)</td></tr></table>"
       },
       {
         "label": "页码",
@@ -293991,7 +293939,7 @@
         "page_id": 14,
         "block_fenduan": "",
         "block_bbox_type": "POLYGON",
-        "html": "<table><tr><td rowspan=\"4\">项目</td><td colspan=\"13\">本期数</td><td colspan=\"13\">上年同期数</td></tr><tr><td colspan=\"11\">归属于母公司所有者权益</td><td rowspan=\"3\">少数股东权益</td><td rowspan=\"3\">所有者权益合计</td><td colspan=\"11\">归属于母公司所有者权益</td><td rowspan=\"3\">少数股东权益</td><td rowspan=\"3\">所有者权益合计</td></tr><tr><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">一般风险准备</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">一般风险准备</td><td rowspan=\"2\">未分配利润</td></tr><tr><td>优先股</td><td>永续债</td><td>其他</td><td>优先股</td><td>永续债</td><td>其他</td></tr><tr><td>一、上年年末余额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>加:会计政策变更</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前期差错更正</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>同一控制下企业合并</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二、本年年初余额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>三、本期增减变动金额(减少以“-”号填列)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(一)综合收益总额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(二)所有者投入和减少资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 所有者投入的普通股</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 其他权益工具持有者投入资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 股份支付计入所有者权益的金额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(三)利润分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 提取盈余公积</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 提取一般风险准备</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 对所有者(或股东)的分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(四)所有者权益内部结转</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 资本公积转增资本(股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 盈余公积转增资本(股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 盈余公积弥补亏损</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 设定受益计划变动额结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5. 其他综合收益结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(五)专项储备</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 本期提取</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 本期使用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(六)其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>四、本期期末余额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        "html": "<table><tr><td rowspan=\"4\">项目</td><td colspan=\"13\">本期数</td><td colspan=\"13\">上年同期数</td></tr><tr><td colspan=\"11\">归属于母公司所有者权益</td><td rowspan=\"3\">少数股东权益</td><td rowspan=\"3\">所有者权益合计</td><td colspan=\"11\">归属于母公司所有者权益</td><td rowspan=\"3\">少数股东权益</td><td rowspan=\"3\">所有者权益合计</td></tr><tr><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">一般风险准备</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">一般风险准备</td><td rowspan=\"2\">未分配利润</td></tr><tr><td>优先股</td><td>永续债</td><td>其他</td><td>优先股</td><td>永续债</td><td>其他</td></tr><tr><td>一、上年年末余额</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td>-87,053.07</td><td></td><td>9,839,537.15</td><td></td><td>-17,845,531.89</td><td></td><td>577,332,919.01</td><td>83,260,928.00</td><td></td><td></td><td></td><td>475,852,248.59</td><td></td><td>-50,055.44</td><td></td><td>32,987.78</td><td></td><td>-104,478,254.44</td><td></td><td>454,617,854.49</td></tr><tr><td>加:会计政策变更</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前期差错更正</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>同一控制下企业合并</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二、本年年初余额</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td>-87,053.07</td><td></td><td>9,839,537.15</td><td></td><td>-17,845,531.89</td><td></td><td>577,332,919.01</td><td>83,260,928.00</td><td></td><td></td><td></td><td>475,852,248.59</td><td></td><td>-50,055.44</td><td></td><td>32,987.78</td><td></td><td>-104,478,254.44</td><td></td><td>454,617,854.49</td></tr><tr><td>三、本期增减变动金额(减少以“-”号填列)</td><td>27,753,643.00</td><td></td><td></td><td></td><td>301,234,212.66</td><td></td><td>-904,989.35</td><td></td><td>8,648,469.02</td><td></td><td>85,956,684.15</td><td></td><td>422,688,019.48</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td>-36,997.63</td><td></td><td>9,806,549.37</td><td></td><td>86,632,722.55</td><td></td><td>122,715,064.52</td></tr><tr><td>(一)综合收益总额</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-904,989.35</td><td></td><td></td><td></td><td>94,605,153.17</td><td></td><td>93,700,163.82</td><td></td><td></td><td></td><td></td><td></td><td></td><td>-36,997.63</td><td></td><td></td><td></td><td>96,439,271.92</td><td></td><td>96,402,274.29</td></tr><tr><td>(二)所有者投入和减少资本</td><td>27,753,643.00</td><td></td><td></td><td></td><td>301,234,212.66</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>328,987,855.66</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26,312,790.23</td></tr><tr><td>1. 所有者投入的普通股</td><td>27,753,643.00</td><td></td><td></td><td></td><td>276,477,755.38</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>304,231,398.38</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 其他权益工具持有者投入资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 股份支付计入所有者权益的金额</td><td></td><td></td><td></td><td></td><td>24,756,457.28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>24,756,457.28</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26,312,790.23</td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(三)利润分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8,648,469.02</td><td></td><td>-8,648,469.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9,806,549.37</td><td></td><td>-9,806,549.37</td><td></td><td></td></tr><tr><td>1. 提取盈余公积</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8,648,469.02</td><td></td><td>-8,648,469.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9,806,549.37</td><td></td><td>-9,806,549.37</td><td></td><td></td></tr><tr><td>2. 提取一般风险准备</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 对所有者(或股东)的分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(四)所有者权益内部结转</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 资本公积转增资本(股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 盈余公积转增资本(股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 盈余公积弥补亏损</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 设定受益计划变动额结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5. 其他综合收益结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(五)专项储备</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 本期提取</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 本期使用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(六)其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>四、本期期末余额</td><td>111,014,571.00</td><td></td><td></td><td></td><td>803,399,251.48</td><td></td><td>-992,042.42</td><td></td><td>18,488,006.17</td><td></td><td>68,111,152.26</td><td></td><td>1,000,020,938.49</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td>-87,053.07</td><td></td><td>9,839,537.15</td><td></td><td>-17,845,531.89</td><td></td><td>577,332,919.01</td></tr></table>"
       },
       {
         "label": "段落",
@@ -294309,7 +294257,7 @@
         "page_id": 15,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "html": "<table><tr><td rowspan=\"3\">项目</td><td colspan=\"11\">本期数</td><td colspan=\"11\">上年同期数</td></tr><tr><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">所有者权益合计</td><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">所有者权益合计</td></tr><tr><td>优先股</td><td>永续债</td><td>其他</td><td>优先股</td><td>永续债</td><td>其他</td></tr><tr><td>一、上年年末余额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>加:会计政策变更</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前期差错更正</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二、本年年初余额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>三、本期增减变动金额(减少以“-”号填列)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(一)综合收益总额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(二)所有者投入和减少资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 所有者投入的普通股</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 其他权益工具持有者投入资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 股份支付计入所有者权益的金额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(三)利润分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        "html": "<table><tr><td rowspan=\"3\">项目</td><td colspan=\"11\">本期数</td><td colspan=\"11\">上年同期数</td></tr><tr><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">所有者权益合计</td><td rowspan=\"2\">实收资本<br/>(或股本)</td><td colspan=\"3\">其他权益工具</td><td rowspan=\"2\">资本公积</td><td rowspan=\"2\">减:库存股</td><td rowspan=\"2\">其他综合收益</td><td rowspan=\"2\">专项储备</td><td rowspan=\"2\">盈余公积</td><td rowspan=\"2\">未分配利润</td><td rowspan=\"2\">所有者权益合计</td></tr><tr><td>优先股</td><td>永续债</td><td>其他</td><td>优先股</td><td>永续债</td><td>其他</td></tr><tr><td>一、上年年末余额</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td></td><td></td><td>9,839,537.15</td><td>88,258,944.34</td><td>683,524,448.31</td><td>83,260,928.00</td><td></td><td></td><td></td><td>475,852,248.59</td><td></td><td></td><td></td><td>32,987.78</td><td>-70,835,984.95</td><td>488,310,179.42</td></tr><tr><td>加:会计政策变更</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>前期差错更正</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>二、本年年初余额</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td></td><td></td><td>9,839,537.15</td><td>88,258,944.34</td><td>683,524,448.31</td><td>83,260,928.00</td><td></td><td></td><td></td><td>475,852,248.59</td><td></td><td></td><td></td><td>32,987.78</td><td>-70,835,984.95</td><td>488,310,179.42</td></tr><tr><td>三、本期增减变动金额(减少以“-”号填列)</td><td>27,753,643.00</td><td></td><td></td><td></td><td>301,234,212.66</td><td></td><td></td><td></td><td>8,648,469.02</td><td>77,836,221.13</td><td>415,472,545.81</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td></td><td></td><td>9,806,549.37</td><td>159,094,929.29</td><td>195,214,268.89</td></tr><tr><td>(一)综合收益总额</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>86,484,690.15</td><td>86,484,690.15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>168,901,478.66</td><td>168,901,478.66</td></tr><tr><td>(二)所有者投入和减少资本</td><td>27,753,643.00</td><td></td><td></td><td></td><td>301,234,212.66</td><td></td><td></td><td></td><td></td><td></td><td>328,987,855.66</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td></td><td></td><td></td><td></td><td>26,312,790.23</td></tr><tr><td>1. 所有者投入的普通股</td><td>27,753,643.00</td><td></td><td></td><td></td><td>276,477,755.38</td><td></td><td></td><td></td><td></td><td></td><td>304,231,398.38</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 其他权益工具持有者投入资本</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 股份支付计入所有者权益的金额</td><td></td><td></td><td></td><td></td><td>24,756,457.28</td><td></td><td></td><td></td><td></td><td></td><td>24,756,457.28</td><td></td><td></td><td></td><td></td><td>26,312,790.23</td><td></td><td></td><td></td><td></td><td></td><td>26,312,790.23</td></tr><tr><td>4. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(三)利润分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8,648,469.02</td><td>-8,648,469.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9,806,549.37</td><td>-9,806,549.37</td><td></td></tr><tr><td>1. 提取盈余公积</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8,648,469.02</td><td>-8,648,469.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9,806,549.37</td><td>-9,806,549.37</td><td></td></tr><tr><td>2. 对所有者(或股东)的分配</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(四)所有者权益内部结转</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 资本公积转增资本(或股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 盈余公积转增资本(或股本)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3. 盈余公积弥补亏损</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4. 设定受益计划变动额结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5. 其他综合收益结转留存收益</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6. 其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(五)专项储备</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. 本期提取</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2. 本期使用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(六)其他</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>四、本期期末余额</td><td>111,014,571.00</td><td></td><td></td><td></td><td>803,399,251.48</td><td></td><td></td><td></td><td>18,488,006.17</td><td>166,095,165.47</td><td>1,098,996,994.12</td><td>83,260,928.00</td><td></td><td></td><td></td><td>502,165,038.82</td><td></td><td></td><td></td><td>9,839,537.15</td><td>88,258,944.34</td><td>683,524,448.31</td></tr></table>"
       },
       {
         "label": "段落",
