@@ -90385,27 +90385,6 @@
         "text": "Fuel prices are impacted by changes in both the price of crude oil and refining costs, and can vary by geography. Alaska purchases its fuel primarily based on U.S. West Coast jet fuel prices, while Hawaiian purchases its fuel primarily based on Singapore jet fuel prices. The table below presents economic fuel cost per gallon for Alaska and Hawaiian."
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          79,
-          147,
-          1105,
-          147,
-          1105,
-          251,
-          79,
-          251
-        ],
-        "anno_id": 226,
-        "order": 215,
-        "ignore": false,
-        "page_id": 17,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td></td><td>Post-Acquisition <br/>2024</td><td colspan=\"2\">Full Year 2024(a)</td><td colspan=\"2\">2023</td><td colspan=\"2\">2022</td></tr><tr><td>Alaska</td><td>n/a</td><td>$</td><td>2.74</td><td>$</td><td>3.18</td><td>$</td><td>3.40</td></tr><tr><td>Hawaiian</td><td>$ 2.43</td><td>$</td><td>2.58</td><td>$</td><td>2.89</td><td>$</td><td>3.42</td></tr></table>"
-      },
-      {
         "label": "表注",
         "category_type": "table_footnote",
         "poly": [
@@ -91707,11 +91686,6 @@
         {
           "source_anno_id": 222,
           "target_anno_id": 225,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 222,
-          "target_anno_id": 226,
           "relation_type": "parent_son"
         },
         {
@@ -192117,27 +192091,6 @@
         "text": "Ingredients"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          32,
-          589.63,
-          514,
-          589.63,
-          514,
-          1105,
-          32,
-          1105
-        ],
-        "anno_id": 143,
-        "order": 128,
-        "ignore": false,
-        "page_id": 9,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>Nonstick cooking spray</td></tr><tr><td>3 cups uncooked old-fashioned (rolled) oats</td></tr><tr><td>? cup honey</td></tr><tr><td>3 eggs</td></tr><tr><td>1 teaspoon baking powder</td></tr><tr><td>? teaspoon salt</td></tr><tr><td>? teaspoon ground cinnamon</td></tr><tr><td>1? cups lowfat (1%) milk</td></tr><tr><td>? cup chopped shelled pistachios</td></tr><tr><td>? cup chopped toasted walnuts</td></tr><tr><td>1 medium orange, zested (about 2 tablespoons)</td></tr><tr><td>1 medium lemon, zested (about 1 tablespoon)</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -198779,11 +198732,6 @@
         {
           "source_anno_id": 138,
           "target_anno_id": 142,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 142,
-          "target_anno_id": 143,
           "relation_type": "parent_son"
         },
         {
@@ -394994,27 +394942,6 @@
         "text": "Child Survival and Health Programs Fund"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          136,
-          253,
-          1086,
-          253,
-          1086,
-          357,
-          136,
-          357
-        ],
-        "anno_id": 18,
-        "order": 18,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td rowspan=\"2\">($ in thousands)</td><td>FY 2007</td><td>FY 2007</td><td>FY 2008</td><td>FY 2008</td><td>FY 2009</td></tr><tr><td>Actual*</td><td>Supp</td><td>Estimate**</td><td>Supp</td><td>Request</td></tr><tr><td>Child Survival and Health Programs Fund</td><td>1,740,425</td><td>161,000</td><td>[1,829,152]</td><td>—</td><td>1,577,830</td></tr></table>"
-      },
-      {
         "label": "图注",
         "category_type": "figure_footnote",
         "poly": [
@@ -395457,11 +395384,6 @@
         {
           "source_anno_id": "root",
           "target_anno_id": 17,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
-          "target_anno_id": 18,
           "relation_type": "parent_son"
         },
         {
@@ -400900,27 +400822,6 @@
         "text": "National Holidays"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          101,
-          180,
-          1147.4,
-          180,
-          1147.4,
-          1442,
-          101,
-          1442
-        ],
-        "anno_id": 22,
-        "order": 21,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>January 1</td><td>Haiti, Sudan, Slovakia</td><td>June 17</td><td>Iceland</td><td>October 1</td><td>Cyprus, Nigeria, Palau, People's Republic of China</td></tr><tr><td>January 4</td><td>Burma</td><td>June 18</td><td>Seychelles</td><td>October 2</td><td>Guinea</td></tr><tr><td>January 26</td><td>Australia, India</td><td>June 23</td><td>Luxembourg</td><td>October 3</td><td>Germany</td></tr><tr><td>February 4</td><td>Sri Lanka</td><td>June 25</td><td>Mozambique, Slovenia</td><td>October 4</td><td>Lesotho</td></tr><tr><td>February 6</td><td>New Zealand</td><td>June 26</td><td>Madagascar</td><td>October 9</td><td>Uganda</td></tr><tr><td>February 7</td><td>Grenada</td><td>June 27</td><td>Djibouti</td><td>October 11</td><td>Fiji</td></tr><tr><td>February 16</td><td>Lithuania</td><td>June 30</td><td>D. R. of Congo</td><td>October 12</td><td>Spain, Equatorial Guinea</td></tr><tr><td>February 18</td><td>The Gambia</td><td>July 1</td><td>Burundi, Canada, Rwanda</td><td>October 18</td><td>Azerbaijan</td></tr><tr><td>February 22</td><td>Saint Lucia</td><td>July 3</td><td>Belarus</td><td>October 24</td><td>Zambia</td></tr><tr><td>February 23</td><td>Brunei, Guyana</td><td>July 5</td><td>Cape Verde, Venezuela, Slovakia</td><td>October 26</td><td>Austria</td></tr><tr><td>February 24</td><td>Estonia</td><td>July 6</td><td>Comoros, Malawi</td><td>October 27</td><td>Turkmenistan</td></tr><tr><td>February 25</td><td>Kuwait</td><td>July 7</td><td>Nepal, Solomon Islands</td><td>Saint Vincent and the Grenadines</td><td></td></tr><tr><td>February 27</td><td>Dominican Republic</td><td>July 10</td><td>Bahamas</td><td>October 28</td><td>Czech Republic, Turkmenistan</td></tr><tr><td></td><td></td><td>July 11</td><td>Mongolia</td><td>October 29</td><td>Turkey</td></tr><tr><td>March 3</td><td>Bulgaria</td><td>July 14</td><td>France</td><td></td><td></td></tr><tr><td>March 6</td><td>Ghana</td><td>July 20</td><td>Colombia</td><td>November 1</td><td>Algeria</td></tr><tr><td>March 12</td><td>Mauritius</td><td>July 21</td><td>Belgium</td><td></td><td>Antigua and Barbuda</td></tr><tr><td>March 17</td><td>Ireland</td><td>July 23</td><td>Egypt</td><td>November 3</td><td>Panama, Dominica</td></tr><tr><td>March 20</td><td>Tunisia</td><td>July 26</td><td>Liberia</td><td>November 11</td><td>Angola</td></tr><tr><td>March 21</td><td>Namibia</td><td>July 28</td><td>Peru</td><td>November 17</td><td>Slovakia</td></tr><tr><td>March 23</td><td>Pakistan</td><td>July 30</td><td>Morocco</td><td>November 18</td><td>Latvia, Oman</td></tr><tr><td>March 25</td><td>Greece</td><td></td><td></td><td>November 19</td><td>Monaco</td></tr><tr><td>March 26</td><td>Bangladesh</td><td>August 1</td><td>Benin, Switzerland</td><td>November 22</td><td>Lebanon</td></tr><tr><td></td><td></td><td>August 2</td><td>Macedonia</td><td>November 25</td><td>Suriname</td></tr><tr><td>April 4</td><td>Senegal</td><td>August 6</td><td>Bolivia</td><td>November 28</td><td>Mauritania</td></tr><tr><td>April 16</td><td>Denmark</td><td>August 6</td><td>Jamaica</td><td>November 30</td><td>Barbados</td></tr><tr><td>April 17</td><td>Syria</td><td>August 7</td><td>Cote d'Ivoire</td><td></td><td></td></tr><tr><td>April 18</td><td>Zimbabwe</td><td>August 9</td><td>Singapore</td><td>December 1</td><td>Central African Republic, Romania</td></tr><tr><td>April 19</td><td>Holy See</td><td>August 10</td><td>Ecuador</td><td>December 2</td><td>Laos, United Arab Emirates</td></tr><tr><td>April 26</td><td>Tanzania</td><td>August 11</td><td>Chad</td><td>December 5</td><td>Thailand</td></tr><tr><td>April 27</td><td>Sierra Leone, Togo</td><td>August 15</td><td>R. of Congo, Korea,</td><td>December 6</td><td>Finland</td></tr><tr><td>April 27</td><td>South Africa</td><td></td><td>Liechtenstein</td><td>December 11</td><td>Burkina Faso</td></tr><tr><td>April 30</td><td>Netherlands</td><td>August 17</td><td>Gabon, Indonesia</td><td>December 12</td><td>Kenya</td></tr><tr><td></td><td></td><td>August 20</td><td>Hungary</td><td>December 16</td><td>Bahrain, Kazakhstan</td></tr><tr><td>May 1</td><td>Marshall Islands</td><td>August 24</td><td>Ukraine</td><td>December 18</td><td>Niger</td></tr><tr><td>May 3</td><td>Poland</td><td>August 25</td><td>Uruguay</td><td>December 18</td><td>Qatar</td></tr><tr><td>May 8</td><td>Czech Republic</td><td>August 29</td><td>Slovakia</td><td>December 23</td><td>Japan</td></tr><tr><td>May 9</td><td>European Union</td><td>August 31</td><td>Kyrgyzstan, Malaysia, Trinidad and Tobago</td><td></td><td></td></tr><tr><td>May 12</td><td>Israel</td><td></td><td></td><td></td><td></td></tr><tr><td>May 14</td><td>Paraguay</td><td></td><td></td><td></td><td></td></tr><tr><td>May 17</td><td>Norway</td><td>September 1</td><td>Uzbekistan, Slovakia</td><td></td><td></td></tr><tr><td>May 20</td><td>Cameroon</td><td>September 6</td><td>Swaziland</td><td></td><td></td></tr><tr><td>May 22</td><td>Yemen</td><td>September 7</td><td>Brazil</td><td></td><td></td></tr><tr><td>May 24</td><td>Eritrea</td><td>September 15</td><td>Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua</td><td></td><td></td></tr><tr><td>May 25</td><td>Argentina, Jordan</td><td>September 16</td><td>Mexico</td><td></td><td></td></tr><tr><td>May 26</td><td>Great Britain, Guyana</td><td></td><td>Papua New Guinea</td><td></td><td></td></tr><tr><td>May 28</td><td>Azerbaijan, Ethiopia</td><td>September 18</td><td>Chile</td><td></td><td></td></tr><tr><td>May 30</td><td>Croatia</td><td>September 19</td><td>Saint Kitts and Nevis</td><td></td><td></td></tr><tr><td>June 1</td><td>Samoa</td><td>September 21</td><td>Belize, Malta</td><td></td><td></td></tr><tr><td>June 2</td><td>Italy</td><td>September 22</td><td>Mali</td><td></td><td></td></tr><tr><td>June 4</td><td>Tonga</td><td>September 23</td><td>Saudi Arabia</td><td></td><td></td></tr><tr><td>June 6</td><td>Sweden</td><td>September 24</td><td>Guinea-Bissau</td><td></td><td></td></tr><tr><td>June 10</td><td>Portugal</td><td>September 30</td><td>Botswana</td><td></td><td></td></tr><tr><td>June 12</td><td>Philippines, Russia</td><td></td><td></td><td></td><td></td></tr></table>"
-      },
-      {
         "label": "页码",
         "category_type": "page_number",
         "poly": [
@@ -401042,11 +400943,6 @@
         {
           "source_anno_id": 1,
           "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 21,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         }
       ],
@@ -563918,27 +563814,6 @@
         "text": "使用注意事项"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          855,
-          82,
-          1603,
-          82,
-          1603,
-          491,
-          855,
-          491
-        ],
-        "anno_id": 23,
-        "order": 23,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>警告</td></tr><tr><td>·避免高温。</td></tr><tr><td>·装置机架时应允许充分散热。</td></tr><tr><td>·小心操作电源线。</td></tr><tr><td>·从插座上拔出电源线时应抓住插头将其拔出。</td></tr><tr><td>·勿将本机放置于湿度很高或多尘的位置。</td></tr><tr><td>·长时间不使用本机时须拔下电源插头。</td></tr><tr><td>·勿阻塞机壳的通风孔。</td></tr><tr><td>·勿使异物掉入机内。</td></tr><tr><td>·勿使杀虫剂、苯和稀释剂与机箱接触。</td></tr><tr><td>·切勿拆解或以任何方式改装本机。</td></tr><tr><td>·不得用报纸、桌布或窗帘等物品覆盖通风口,以免妨碍通风。</td></tr><tr><td>·不得将点燃的蜡烛等明火源放置在本机上。</td></tr><tr><td>·请留意和遵守当地有关电池处置的法规条例。</td></tr><tr><td>·请勿使液体滴落或喷洒到本机上。</td></tr><tr><td>·请勿将花瓶等装有液体的物体放置在本机上。</td></tr><tr><td>·请勿用湿手操作主电源线。</td></tr><tr><td>·当开关位于“关闭”位置时,设备并未与主电源彻底切断。</td></tr><tr><td>·应将本设备安装在电源附近,以便于接入电源。</td></tr><tr><td>·不要让本器材暴露于雨水,湿气,滴水或溅水之中。</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -569234,11 +569109,6 @@
         {
           "source_anno_id": 3,
           "target_anno_id": 22,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 22,
-          "target_anno_id": 23,
           "relation_type": "parent_son"
         },
         {
@@ -951145,27 +951015,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "Table 8: Templates of prompts used for data generation. The table presents three distinct prompts: Video Knowledge Graph Generation (top), Intermediate Chain-of-Thought (CoT) Generation (middle), and Question-Answer (QA) Generation (bottom). Curly-brace placeholders \\(\\{\\dots\\}\\) will be replaced with actual segment-specific content during generation."
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          261,
-          365,
-          967,
-          365,
-          967,
-          1260,
-          261,
-          1260
-        ],
-        "anno_id": 223,
-        "order": 182,
-        "ignore": false,
-        "page_id": 21,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>You are a <b>Visual Scene Analyst </b>specializing in dense scene graph generation. Your goal is to map ALL physical relationships in the video segment, not just human actions.</td></tr><tr><td>[CURRENT TIMELINE] Segment {#step_index}: {start_time}s to {end_time}s.</td></tr><tr><td>[CONTEXTUAL DATA] 1. <b>Entity Registry</b>: {known_entities_str}</td></tr><tr><td>[CRITICAL VISUAL EXTRACTION RULES] 1. <b>NO \"HUB-AND-SPOKE\" BIAS (CRITICAL)</b>: Do not make the human protagonist the subject of every relation. Extract edges where neither the subject nor the object is a person. 2. <b>Object-to-Object Relationships (MANDATORY)</b>: Look for Spatial Relations, Containment, and Passive Interactions. 3. <b>Visual Entity Identification</b>: Identify objects using specific visual descriptors. NO PRONOUNS. 4.<b> Action & State Verbs</b>: Use active verbs for humans and spatial/state verbs for objects. 5.<b> Description</b>: Describe the scene layout and object states, not just the human's movement.</td></tr><tr><td>[OUTPUT FORMAT] Return ONLY a JSON object: {\"events\": [ {\"subject\": \"...\", \"relation\": \"...\", \"object\": \"...\", \"description\": \"...\"}]}</td></tr><tr><td><b>Current Video Segment</b>: {current_time_range}</td></tr><tr><td><b>Task</b>: Provide an incremental update of the visual scene/action/details in this segment.<b> Focus on Progress (Delta)</b> of visual elements.</td></tr><tr><td>Context & Entities: Focused Entities: {entity_text} (Integrate these naturally if they are actively involved in the current action. No full repetition each time; pronouns prohibited.)</td></tr><tr><td><b>Strict Constraints: 1. Focus on Dynamics</b>: Describe WHAT is happening now with details. If the scene is static, be very concise. 2. <b>NO restate</b>: Do NOT restate the action/scene/details from the previous segment's end. Skip the action stated previously or state the changes. NEVER repeat. 3. <b>Minimalist Reference</b>: For entities already present/mentioned, use pronouns or minimal descriptors. 4. <b>Language Variety</b>: Avoid repetitive sentence structures. 5. <b>No Redundancy</b>: Do not repeat the timestamp or information from the previous context.</td></tr><tr><td><b>Output</b>:</td></tr><tr><td>You are a<b> Cognitive Video Intelligence Engine</b>. Your task is to synthesize a <b>Practical Deep Reasoning Question-Answer Pair</b> based on the provided visual information from video segments and the Event Reasoning Path.</td></tr><tr><td>=== C<b>ORE DEFINITION (MUST FOLLOW FIRST)</b> === 1.<b> Event Reasoning Path Nature</b>: The provided video segments are ordered by logical reasoning relevance, NOT by their original chronological time sequence. 2. <b>Time Reference Rule</b>: All time mentions must be based on the explicit time interval of each node. 3. <b>Multi-hop Foundation</b>: The reasoning must rely on logical connections between segments.</td></tr><tr><td>===<b> MANDATORY INSTRUCTIONS</b> === 1. <b>Strict Multi-hop Reasoning</b>: The question MUST require integrating information from multiple video segments in the reasoning path. 2. <b>Natural Language Constraint (CRITICAL)</b>: DO NOT use the words \"Step\", \"Clip index\", \"Path node\". Refer to segments using their time intervals or event descriptions. 3.<b> Reasoning Dimensions</b>: Construct the reasoning chain using one or more of the following logic types: {dimensions_str} 4.<b> Practicality Requirement</b>: The question must be meaningful for understanding the visual content of the video's narrative, intent, or physical logic.</td></tr><tr><td>=== <b>OUTPUT FORMAT (JSON ONLY, NO EXTRA TEXT)</b> === {\"question\": \"...\", \"cot\": \"...\", \"answer\": \"...\", \"reasoning_type\": \"...\"}</td></tr></table>"
       }
     ],
     "extra": {
@@ -952073,11 +951922,6 @@
         {
           "source_anno_id": 218,
           "target_anno_id": 222,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 222,
-          "target_anno_id": 223,
           "relation_type": "parent_son"
         },
         {
@@ -988209,27 +988053,6 @@
         "text": "Table 1-1 Electronic Shopping NAICS Code Group"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          186,
-          1016,
-          1075,
-          1016,
-          1075,
-          1226,
-          186,
-          1226
-        ],
-        "anno_id": 53,
-        "order": 37,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td><b>44-45 Retail Trade</b></td><td><b>2-digit Economic Sector</b></td></tr><tr><td>454 Nonstore Retailers</td><td>3-digit Economic Subsector</td></tr><tr><td>4541 Electronic Shopping and Mail-Order Houses</td><td>4-digit Industry Group</td></tr><tr><td>45411 Electronic Shopping and Mail-Order Houses</td><td>5-digit NAICS Industry</td></tr><tr><td>454111 Electronic Shopping</td><td>6-digit National Industry</td></tr><tr><td>454112 Electronic Auctions</td><td></td></tr><tr><td>454113 Mail-Order Houses</td><td></td></tr></table>"
-      },
-      {
         "label": "表注",
         "category_type": "table_footnote",
         "poly": [
@@ -992285,11 +992108,6 @@
         {
           "source_anno_id": 48,
           "target_anno_id": 52,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 52,
-          "target_anno_id": 53,
           "relation_type": "parent_son"
         },
         {
@@ -1042572,27 +1042390,6 @@
         "text": "数学 九年级下册"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          135,
-          828,
-          777,
-          828,
-          777,
-          1332,
-          135,
-          1332
-        ],
-        "anno_id": 21,
-        "order": 16,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>主 编</td><td>杨裕前 董林伟</td></tr><tr><td>责任编辑</td><td>许礼光 闵正年 沈琼</td></tr><tr><td>责任校对</td><td>仲敏</td></tr><tr><td>出版</td><td>江苏凤凰科学技术出版社</td></tr><tr><td>出版社地址</td><td>南京市湖南路 1 号 A 楼,邮编:210009</td></tr><tr><td>重印</td><td>江苏凤凰出版传媒股份有限公司</td></tr><tr><td>发行</td><td>江苏凤凰出版传媒股份有限公司</td></tr><tr><td>照排</td><td>江苏凤凰制版有限公司</td></tr><tr><td>印刷</td><td>江苏凤凰新华印务集团有限公司</td></tr><tr><td>开本</td><td>787 mm×1 092 mm 1/16</td></tr><tr><td>印张</td><td>10</td></tr><tr><td>版次</td><td>2006 年 12 月第 1 版 2014 年 12 月第 3 版</td></tr><tr><td>印次</td><td>2021 年 11 月第 16 次印刷</td></tr><tr><td>标准书号</td><td>ISBN 978-7-5537-0472-2</td></tr><tr><td>定价</td><td>9.88 元</td></tr></table>"
-      },
-      {
         "label": "段落",
         "category_type": "text_block",
         "poly": [
@@ -1042899,11 +1042696,6 @@
         {
           "source_anno_id": 14,
           "target_anno_id": 20,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 14,
-          "target_anno_id": 21,
           "relation_type": "parent_son"
         },
         {
@@ -1043691,69 +1043483,6 @@
         "text": "湖北教育出版社\n·武汉·"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          116,
-          135,
-          398,
-          135,
-          398,
-          224.89,
-          116,
-          224.89
-        ],
-        "anno_id": 8,
-        "order": 5,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>主</td><td>编:金准智</td><td>郑长龙</td></tr><tr><td>执行主编:胡济良</td><td>黄海旺</td><td></td></tr><tr><td>副主编:李国权</td><td>刘绍江</td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          115,
-          255,
-          767,
-          255,
-          767,
-          345.89,
-          115,
-          345.89
-        ],
-        "anno_id": 9,
-        "order": 6,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>编写人员:王海英</td><td>李国权</td><td>刘绍江</td><td>刘忠学</td><td>杨凌云</td><td>叶兆宁</td></tr><tr><td>责任编辑:刘忠学</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>美术编辑:房海莹</td><td></td><td></td><td></td><td></td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          115,
-          374,
-          613.98,
-          374,
-          613.98,
-          522.91,
-          115,
-          522.91
-        ],
-        "anno_id": 10,
-        "order": 7,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"10\">封面设计:吕旻 房海莹</td></tr><tr><td colspan=\"10\">版式设计:XXL Studio</td></tr><tr><td colspan=\"10\">插图:李思东工作室</td></tr><tr><td colspan=\"10\">照片:朱京 涂煜栋 陈建秋 张利 视觉中国</td></tr></table>"
-      },
-      {
         "label": "段落",
         "category_type": "text_block",
         "poly": [
@@ -1043773,27 +1043502,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "义务教育教科书 科学 三年级 下册\n人民教育出版社综合理科编辑室湖北教育出版社教材分社 编著"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          116,
-          793,
-          840,
-          793,
-          840,
-          1275.19,
-          116,
-          1275.19
-        ],
-        "anno_id": 12,
-        "order": 9,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>出 版 人民出版社出版(北京市海淀区中关村南大街17号院1号楼 邮编:100081)湖北教育出版社(湖北省武汉市洪山区雄楚大街268号出版文化城C座18楼 邮编:430070)网址 http://www.pep.com.cn重印 ×××出版社发行 ×××新华书店印刷 ×××印刷厂版次 2019年9月第1版印次 年 月第 次印刷开本 787毫米 ×1092毫米 1/16印张 4字数 80千字印数 册书号 ISBN 978-7-107-34065-9定价 7.25元</td></tr></table>"
       },
       {
         "label": "页脚",
@@ -1044321,27 +1044029,7 @@
         },
         {
           "source_anno_id": 2,
-          "target_anno_id": 8,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 9,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 10,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
           "target_anno_id": 11,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 2,
-          "target_anno_id": 12,
           "relation_type": "parent_son"
         },
         {
@@ -1068328,111 +1068016,6 @@
         "text": "山东美术出版社"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          118,
-          361.36,
-          752,
-          361.36,
-          752,
-          535,
-          118,
-          535
-        ],
-        "anno_id": 14,
-        "order": 11,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>主 编:孔新苗</td></tr><tr><td>副 主 编:王大根 米海峰</td></tr><tr><td>分 册 主 编:周伟华 张 淳</td></tr><tr><td>分册副主编:沈家华 信 奇</td></tr><tr><td>编 写 人 员:周伟华 沈家华 信 奇 张凯亮 郭梦迪 殷心悦</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          119,
-          572,
-          584,
-          572,
-          584,
-          672.55,
-          119,
-          672.55
-        ],
-        "anno_id": 15,
-        "order": 12,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>责任编辑:李文倩</td><td>张萌萌</td><td>信奇</td><td>徐璐</td></tr><tr><td>美术编辑:张萌萌</td><td>李丽华</td><td></td><td></td></tr><tr><td>装帧设计:王海涛</td><td></td><td></td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          120,
-          996,
-          539,
-          996,
-          539,
-          1060.27,
-          120,
-          1060.27
-        ],
-        "anno_id": 16,
-        "order": 13,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>普通高中教科书</td><td>美术</td><td>选择性必修</td><td>绘画</td></tr><tr><td>山东美术出版社</td><td>编著</td><td></td><td></td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          120,
-          1086,
-          752.47,
-          1086,
-          752.47,
-          1467.02,
-          120,
-          1467.02
-        ],
-        "anno_id": 17,
-        "order": 14,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td colspan=\"2\">主管单位:山东出版传媒股份有限公司</td></tr><tr><td colspan=\"2\">出版单位:山东美术出版社</td></tr><tr><td colspan=\"2\">济南市历下区舜耕路20号佛山静院C座(邮编:250014)</td></tr><tr><td colspan=\"2\">http://www.sdmspub.com</td></tr><tr><td colspan=\"2\">E-mail:sdmscbs@163.com</td></tr><tr><td colspan=\"2\">电话:(0531)82098268 传真:(0531)82066185</td></tr><tr><td colspan=\"2\">发行:山东新华书店集团有限公司</td></tr><tr><td colspan=\"2\">印刷:山东新华印务有限公司</td></tr><tr><td colspan=\"2\">开本:\\(890mm \\times 1240mm\\) 1/16 5.25印张</td></tr><tr><td colspan=\"2\">版次:2019年12月第1版 2021年6月第3次印刷</td></tr><tr><td colspan=\"2\">定价:9.72元(上光)</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          120,
-          1488.82,
-          807,
-          1488.82,
-          807,
-          1546,
-          120,
-          1546
-        ],
-        "anno_id": 18,
-        "order": 15,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>ISBN 978-7-5330-6505-8</td></tr><tr><td>山东出版传媒股份有限公司教材中心售后服务电话:(0531)82098118</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1069401,31 +1068984,6 @@
         },
         {
           "source_anno_id": 9,
-          "target_anno_id": 14,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 9,
-          "target_anno_id": 15,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 9,
-          "target_anno_id": 16,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 9,
-          "target_anno_id": 17,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 9,
-          "target_anno_id": 18,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 9,
           "target_anno_id": 19,
           "relation_type": "parent_son"
         },
@@ -1070115,48 +1069673,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "中国版本图书馆CIP数据核字（2021）第114296号"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          221,
-          551,
-          669,
-          551,
-          669,
-          742,
-          221,
-          742
-        ],
-        "anno_id": 21,
-        "order": 16,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>编写单位:广东教育出版社 广东科技出版社 主编:刘琼发</td></tr><tr><td>副主编:李榕 周卫星 朱美健 席春玲</td></tr><tr><td>本册主编:王华权</td></tr><tr><td>本册副主编:周嘉</td></tr><tr><td>编写人员:周熙 周嘉 王华权 柯力 林敏 陆超</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          221.42,
-          773.68,
-          437.27,
-          773.68,
-          437.27,
-          882.67,
-          221.42,
-          882.67
-        ],
-        "anno_id": 22,
-        "order": 17,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>出版人:朱文清</td></tr><tr><td>责任编辑:夏丰</td></tr><tr><td>责任技编:许伟斌</td></tr><tr><td>装帧设计:友间文化</td></tr></table>"
       },
       {
         "label": "段落",
@@ -1071992,16 +1071508,6 @@
         {
           "source_anno_id": 12,
           "target_anno_id": 20,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         },
         {
@@ -1092879,48 +1092385,6 @@
         "text": "报告作者"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          793,
-          1074,
-          1120.87,
-          1074,
-          1120.87,
-          1191.32,
-          793,
-          1191.32
-        ],
-        "anno_id": 33,
-        "order": 28,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>耿军军</td></tr><tr><td>执业证书编号</td><td>S0020519070002</td></tr><tr><td>电话</td><td>021-51097188-1856</td></tr><tr><td>邮箱</td><td>gengjunjun@gyzq.com.cn</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          792,
-          1230,
-          1118.57,
-          1230,
-          1118.57,
-          1285.87,
-          792,
-          1285.87
-        ],
-        "anno_id": 34,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>联系人</td><td>陈图南</td></tr><tr><td>邮箱</td><td>chentunan@gyzq.com.cn</td></tr></table>"
-      },
-      {
         "label": "页脚",
         "category_type": "footer",
         "poly": [
@@ -1093453,16 +1092917,6 @@
         {
           "source_anno_id": 6,
           "target_anno_id": 32,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 32,
-          "target_anno_id": 33,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 32,
-          "target_anno_id": 34,
           "relation_type": "parent_son"
         },
         {
@@ -1096572,27 +1096026,6 @@
         "text": "基本数据（2020.8.10）"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          31,
-          427,
-          408,
-          427,
-          408,
-          622,
-          31,
-          622
-        ],
-        "anno_id": 9,
-        "order": 7,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>报告日股价 (元)</td><td>64.00</td></tr><tr><td>12mth A 股价格区间 (元)</td><td>23.49-64.00</td></tr><tr><td>总股本 (百万股)</td><td>507</td></tr><tr><td>无限售 A 股/总股本</td><td>100%</td></tr><tr><td>流通市值 (亿元)</td><td>324.48</td></tr><tr><td>每股净资产 (元)</td><td>7.10</td></tr><tr><td>PBR (X)</td><td>9.01</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1096614,27 +1096047,6 @@
         "text": "主要股东（2020H1）"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          33,
-          696,
-          405,
-          696,
-          405,
-          836.38,
-          33,
-          836.38
-        ],
-        "anno_id": 11,
-        "order": 9,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>华泰集团</td><td>41.64%</td></tr><tr><td>香港中央结算有限公司</td><td>8.60%</td></tr><tr><td>万和投资</td><td>5%</td></tr><tr><td>全国社保基金一一五组合</td><td>1.97%</td></tr><tr><td>李刚</td><td>1.97%</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1096654,27 +1096066,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "收入结构（2020H1）"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          34,
-          885,
-          405,
-          885,
-          405,
-          966,
-          34,
-          966
-        ],
-        "anno_id": 13,
-        "order": 11,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>瓜子</td><td>73.47%</td></tr><tr><td>坚果</td><td>13.35%</td></tr><tr><td>其他</td><td>13.17%</td></tr></table>"
       },
       {
         "label": "标题",
@@ -1097967,28 +1097358,13 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 8,
-          "target_anno_id": 9,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 1,
           "target_anno_id": 10,
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 10,
-          "target_anno_id": 11,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 1,
           "target_anno_id": 12,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 12,
-          "target_anno_id": 13,
           "relation_type": "parent_son"
         },
         {
@@ -1098769,27 +1098145,6 @@
         "text": "主要数据："
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          810,
-          246,
-          1010.5,
-          246,
-          1010.5,
-          393.09,
-          810,
-          393.09
-        ],
-        "anno_id": 24,
-        "order": 21,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>上证综指:</td><td>3313.57</td></tr><tr><td>深圳成指:</td><td>11877.15</td></tr><tr><td>沪深300:</td><td>4100.15</td></tr><tr><td>中小盘指:</td><td>4293.35</td></tr><tr><td>创业板指:</td><td>2439.40</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1098935,48 +1098290,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "报告作者"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          794,
-          946,
-          1079.1,
-          946,
-          1079.1,
-          1052.43,
-          794,
-          1052.43
-        ],
-        "anno_id": 32,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>孟子君</td></tr><tr><td>执业证书编号</td><td>S0020521120001</td></tr><tr><td>邮箱</td><td>mengzijun@gyzq.com.cn</td></tr><tr><td>电话</td><td>021-51097188</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          793,
-          1070,
-          1089.99,
-          1070,
-          1089.99,
-          1178.63,
-          793,
-          1178.63
-        ],
-        "anno_id": 33,
-        "order": 30,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>分析师</td><td>杨为敩</td></tr><tr><td>执业证书编号</td><td>S0020521060001</td></tr><tr><td>邮箱</td><td>yangweixue@gyzq.com.cn</td></tr><tr><td>电话</td><td>021-51097188</td></tr></table>"
       },
       {
         "label": "页脚",
@@ -1099416,11 +1098729,6 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 23,
-          "target_anno_id": 24,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 4,
           "target_anno_id": 25,
           "relation_type": "parent_son"
@@ -1099453,16 +1098761,6 @@
         {
           "source_anno_id": 4,
           "target_anno_id": 31,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 31,
-          "target_anno_id": 32,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 31,
-          "target_anno_id": 33,
           "relation_type": "parent_son"
         },
         {
@@ -1102944,27 +1102242,6 @@
         "text": "市场数据"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          799,
-          793,
-          1106,
-          793,
-          1106,
-          969,
-          799,
-          969
-        ],
-        "anno_id": 29,
-        "order": 27,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>收盘价(元)</td><td>38.80</td></tr><tr><td>一年最低/最高价</td><td>35.98/67.86</td></tr><tr><td>市净率(倍)</td><td>2.59</td></tr><tr><td>流通 A 股市值(百万元)</td><td>174,675.89</td></tr><tr><td>总市值(百万元)</td><td>174,675.89</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1102984,27 +1102261,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "text": "基础数据"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          799,
-          1029,
-          1098,
-          1029,
-          1098,
-          1139,
-          799,
-          1139
-        ],
-        "anno_id": 31,
-        "order": 29,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>每股净资产(元,LF)</td><td>14.98</td></tr><tr><td>资产负债率(%LF)</td><td>48.22</td></tr><tr><td>总股本(百万股)</td><td>4,501.96</td></tr><tr><td>流通 A 股(百万股)</td><td>4,501.96</td></tr></table>"
       },
       {
         "label": "标题",
@@ -1104836,18 +1104092,8 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 28,
-          "target_anno_id": 29,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 4,
           "target_anno_id": 30,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 30,
-          "target_anno_id": 31,
           "relation_type": "parent_son"
         },
         {
@@ -1113166,27 +1112412,6 @@
         "label": "表格",
         "category_type": "table",
         "poly": [
-          748,
-          326,
-          1112,
-          326,
-          1112,
-          535,
-          748,
-          535
-        ],
-        "anno_id": 19,
-        "order": 16,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>股价( 2021 年 04 月 09 日 )</td><td>16.78 元</td></tr><tr><td>目标价格</td><td>22.20 元</td></tr><tr><td>52 周最高价/最低价</td><td>21.86/8.99 元</td></tr><tr><td>总股本/流通 A 股 ( 万股 )</td><td>40,870/24,583</td></tr><tr><td>A 股市值 ( 百万元 )</td><td>6,858</td></tr><tr><td>国家/地区</td><td>中国</td></tr><tr><td>行业</td><td>建材</td></tr><tr><td>报告发布日期</td><td>2021 年 04 月 10 日</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
           749,
           560,
           1115,
@@ -1114771,11 +1113996,6 @@
         },
         {
           "source_anno_id": 4,
-          "target_anno_id": 19,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 4,
           "target_anno_id": 20,
           "relation_type": "parent_son"
         },
@@ -1115365,27 +1114585,6 @@
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
         "html": "<table><tr><td>表现</td><td>1M</td><td>3M</td><td>12M</td></tr><tr><td>鼎龙股份</td><td>-25.6</td><td>-7.5</td><td>-17.0</td></tr><tr><td>沪深 300</td><td>-5.4</td><td>-7.6</td><td>-0.4</td></tr></table>"
-      },
-      {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          24,
-          831,
-          422,
-          831,
-          422,
-          1110,
-          24,
-          1110
-        ],
-        "anno_id": 13,
-        "order": 8,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>市场数据</td><td>2018-06-22</td></tr><tr><td>当前价格(元)</td><td>8.56</td></tr><tr><td><b>52</b> 周价格区间 (元)</td><td>8.38 - 13.33</td></tr><tr><td>总市值(百万)</td><td>8226.30</td></tr><tr><td>流通市值(百万)</td><td>5692.28</td></tr><tr><td>总股本(万股)</td><td>96101.60</td></tr><tr><td>流通股(万股)</td><td>66498.56</td></tr><tr><td>日均成交额(百万)</td><td>121.62</td></tr><tr><td>近一月换手(%)</td><td>27.77</td></tr></table>"
       },
       {
         "label": "标题",
@@ -1116846,11 +1116045,6 @@
         {
           "source_anno_id": 11,
           "target_anno_id": 12,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
-          "target_anno_id": 13,
           "relation_type": "parent_son"
         },
         {
@@ -1121123,27 +1120317,6 @@
         "text": "基础数据"
       },
       {
-        "label": "表格",
-        "category_type": "table",
-        "poly": [
-          805,
-          1002,
-          1114,
-          1002,
-          1114,
-          1140,
-          805,
-          1140
-        ],
-        "anno_id": 22,
-        "order": 20,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "html": "<table><tr><td>总股本(亿股)</td><td>22.08</td></tr><tr><td>流通 A 股(亿股)</td><td>12.03</td></tr><tr><td>52 周内股价区间(元)</td><td>66.87-169.89</td></tr><tr><td>总市值(亿元)</td><td>2,908.24</td></tr><tr><td>总资产(亿元)</td><td>1,013.52</td></tr><tr><td>每股净资产(元)</td><td>17.27</td></tr></table>"
-      },
-      {
         "label": "标题",
         "category_type": "title",
         "poly": [
@@ -1123775,11 +1122948,6 @@
         {
           "source_anno_id": 3,
           "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 21,
-          "target_anno_id": 22,
           "relation_type": "parent_son"
         },
         {
