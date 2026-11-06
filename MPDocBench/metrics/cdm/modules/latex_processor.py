@@ -18,7 +18,7 @@ ONE_Tail_Tokens = ['\\widetilde', '\\overline', '\\hat', '\\widehat', '\\tilde',
                    '\\breve', '\\Bar', '\\Vec', '\\mathring', '\\ddot']
 ONE_Tail_Invisb_Tokens = ['\\boldsymbol', '\\pmb', '\\textbf', '\\mathrm', '\\mathbf', '\\mathbb', '\\mathcal', '\\textmd', '\\texttt', '\\textnormal', 
                           '\\text', '\\textit', '\\textup', '\\mathop', '\\mathbin', '\\smash', '\\operatorname', '\\textrm', '\\mathfrak', '\\emph',
-                          '\\textsf', '\\textsc']
+                          '\\textsf', '\\textsc', '\\substack']
 
 
 def flatten_multiline(latex):
