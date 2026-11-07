@@ -848386,10 +848386,10 @@
         "category_type": "equation_isolated",
         "poly": [
           178.61,
-          1307.31,
-          337.83,
-          1307.31,
-          337.83,
+          1303,
+          505,
+          1303,
+          505,
           1330,
           178.61,
           1330
@@ -848400,28 +848400,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I_{\\mathrm{b w}}{=}I_{\\mathrm{s w}}\\times(29{-}N)/28\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          388,
-          1303,
-          505,
-          1303,
-          505,
-          1329,
-          388,
-          1329
-        ],
-        "anno_id": 25,
-        "order": 22,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[(1<N\\leqslant15);\\]"
+        "latex": "\\[I_{\\mathrm{b w}}{=}I_{\\mathrm{s w}}\\times(29{-}N)/28 \\quad (1<N\\leqslant15);\\]"
       },
       {
         "label": "段落",
@@ -848449,13 +848428,13 @@
         "category_type": "equation_isolated",
         "poly": [
           174.45,
-          1338.72,
-          268.58,
-          1338.72,
-          268.58,
-          1363,
+          1338,
+          504,
+          1338,
+          504,
+          1364,
           174.45,
-          1363
+          1364
         ],
         "anno_id": 27,
         "order": 24,
@@ -848463,28 +848442,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I_{\\mathrm{b w}}{=}0.5I_{\\mathrm{s w}}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          421,
-          1338,
-          504,
-          1338,
-          504,
-          1364,
-          421,
-          1364
-        ],
-        "anno_id": 28,
-        "order": 25,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[(N>15);\\]"
+        "latex": "\\[I_{\\mathrm{b w}}{=}0.5I_{\\mathrm{s w}} \\quad (N>15);\\]"
       },
       {
         "label": "段落",
@@ -849960,22 +849918,12 @@
         },
         {
           "source_anno_id": 17,
-          "target_anno_id": 25,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
           "target_anno_id": 26,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 17,
           "target_anno_id": 27,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
-          "target_anno_id": 28,
           "relation_type": "parent_son"
         },
         {
@@ -914976,9 +914924,9 @@
         "poly": [
           389.24,
           1408,
-          651.12,
+          799,
           1408,
-          651.12,
+          799,
           1456,
           389.24,
           1456
@@ -914989,28 +914937,7 @@
         "page_id": 2,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[p_{a,b}(f)=\\sup_{x\\in\\mathbb{R}^{n}}\\left|x^{a}D^{b}f(x)\\right|,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          700,
-          1412.08,
-          799,
-          1412.08,
-          799,
-          1437.84,
-          700,
-          1437.84
-        ],
-        "anno_id": 21,
-        "order": 18,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[a,b\\in\\mathbb{N}^{n},\\]"
+        "latex": "\\[p_{a,b}(f)=\\sup_{x\\in\\mathbb{R}^{n}}\\left|x^{a}D^{b}f(x)\\right|, \\quad a,b\\in\\mathbb{N}^{n},\\]"
       },
       {
         "label": "段落",
@@ -915123,9 +915050,9 @@
         "poly": [
           380.24,
           302,
-          683.05,
+          808,
           302,
-          683.05,
+          808,
           348,
           380.24,
           348
@@ -915136,28 +915063,7 @@
         "page_id": 3,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[p_{K,m}(f)=\\operatorname*{m a x}_{|\\alpha|\\leq m}\\operatorname*{s u p}_{x\\in K}|D^{\\alpha}f(x)|,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          733,
-          306.12,
-          808,
-          306.12,
-          808,
-          329,
-          733,
-          329
-        ],
-        "anno_id": 28,
-        "order": 24,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[m\\in\\mathbb{N}.\\]"
+        "latex": "\\[p_{K,m}(f)=\\operatorname*{m a x}_{|\\alpha|\\leq m}\\operatorname*{s u p}_{x\\in K}|D^{\\alpha}f(x)|, \\quad m\\in\\mathbb{N}.\\]"
       },
       {
         "label": "段落",
@@ -915249,9 +915155,9 @@
         "poly": [
           371,
           647,
-          587.68,
+          815,
           647,
-          587.68,
+          815,
           687,
           371,
           687
@@ -915262,28 +915168,7 @@
         "page_id": 3,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\varphi_{K}(f)=\\max_{x\\in K}|f(x)|,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          637,
-          649,
-          815,
-          649,
-          815,
-          680,
-          637,
-          680
-        ],
-        "anno_id": 34,
-        "order": 30,
-        "ignore": false,
-        "page_id": 3,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[K\\subset X{\\mathrm{~c o m p a c t}},\\]"
+        "latex": "\\[\\varphi_{K}(f)=\\max_{x\\in K}|f(x)|, \\quad K\\subset X{\\mathrm{~c o m p a c t}},\\]"
       },
       {
         "label": "段落",
@@ -915690,9 +915575,9 @@
         "poly": [
           481,
           810,
-          748,
+          936,
           810,
-          748,
+          936,
           843,
           481,
           843
@@ -915703,28 +915588,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[z_{\\ell}(x)=\\sigma\\big(A_{\\ell}z_{\\ell-1}(x)-b_{\\ell}\\big),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          762,
-          810,
-          936,
-          810,
-          936,
-          837,
-          762,
-          837
-        ],
-        "anno_id": 55,
-        "order": 50,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\ell=2,\\dots,L-1.\\]"
+        "latex": "\\[z_{\\ell}(x)=\\sigma\\big(A_{\\ell}z_{\\ell-1}(x)-b_{\\ell}\\big),\\ \\ell=2,\\dots,L-1.\\]"
       },
       {
         "label": "段落",
@@ -915815,10 +915679,10 @@
         "category_type": "equation_isolated",
         "poly": [
           462.03,
-          1154,
-          599.42,
-          1154,
-          599.42,
+          1152,
+          726,
+          1152,
+          726,
           1185,
           462.03,
           1185
@@ -915829,28 +915693,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[f(x)=w\\cdot x,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          646,
-          1152,
-          726,
-          1152,
-          726,
-          1185,
-          646,
-          1185
-        ],
-        "anno_id": 61,
-        "order": 56,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[x\\in\\mathbb{R}^{d},\\]"
+        "latex": "\\[f(x)=w\\cdot x, \\quad x\\in\\mathbb{R}^{d},\\]"
       },
       {
         "label": "段落",
@@ -916740,9 +916583,9 @@
         "poly": [
           385.65,
           1202.32,
-          619.18,
+          801,
           1202.32,
-          619.18,
+          801,
           1233.32,
           385.65,
           1233.32
@@ -916753,28 +916596,7 @@
         "page_id": 6,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[e^{\\ell_{1}(x)}e^{\\ell_{2}(x)}=e^{(\\ell_{1}+\\ell_{2})(x)},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          666,
-          1204,
-          801,
-          1204,
-          801,
-          1233,
-          666,
-          1233
-        ],
-        "anno_id": 105,
-        "order": 98,
-        "ignore": false,
-        "page_id": 6,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\ell_{1}+\\ell_{2}\\in X^{*},\\]"
+        "latex": "\\[e^{\\ell_{1}(x)}e^{\\ell_{2}(x)}=e^{(\\ell_{1}+\\ell_{2})(x)}, \\quad \\ell_{1}+\\ell_{2}\\in X^{*},\\]"
       },
       {
         "label": "段落",
@@ -917118,9 +916940,9 @@
         "poly": [
           326,
           822,
-          740.11,
+          860,
           822,
-          740.11,
+          860,
           900,
           326,
           900
@@ -917131,28 +916953,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[H_{r}(x)=\\sum_{i=1}^{M}\\alpha_{i}\\sum_{j=1}^{N_{i}}c_{i,j}\\sigma\\big(w_{i,j}\\ell_{i}(x)-\\theta_{i,j}\\big),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          787,
-          849.63,
-          860,
-          849.63,
-          860,
-          871.74,
-          787,
-          871.74
-        ],
-        "anno_id": 123,
-        "order": 115,
-        "ignore": false,
-        "page_id": 7,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[x\\in X.\\]"
+        "latex": "\\[H_{r}(x)=\\sum_{i=1}^{M}\\alpha_{i}\\sum_{j=1}^{N_{i}}c_{i,j}\\sigma\\big(w_{i,j}\\ell_{i}(x)-\\theta_{i,j}\\big), \\quad x\\in X.\\]"
       },
       {
         "label": "段落",
@@ -917285,10 +917086,10 @@
         "category_type": "equation_isolated",
         "poly": [
           387,
-          1272,
-          681.43,
-          1272,
-          681.43,
+          1269,
+          798,
+          1269,
+          798,
           1302,
           387,
           1302
@@ -917299,28 +917100,7 @@
         "page_id": 7,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[H(x)=(H_{1}(x),\\dots,H_{m}(x)),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          731,
-          1269,
-          798,
-          1269,
-          798,
-          1301,
-          731,
-          1301
-        ],
-        "anno_id": 131,
-        "order": 123,
-        "ignore": false,
-        "page_id": 7,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[x\\in X.\\]"
+        "latex": "\\[H(x)=(H_{1}(x),\\dots,H_{m}(x)), \\quad x\\in X.\\]"
       },
       {
         "label": "段落",
@@ -917664,9 +917444,9 @@
         "poly": [
           346,
           1203,
-          657.98,
+          836,
           1203,
-          657.98,
+          836,
           1281,
           346,
           1281
@@ -917677,28 +917457,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\operatorname*{s u p}_{u\\in V}\\left|\\ell_{i}(u)-\\sum_{j=1}^{k}\\xi_{i j}u(x_{j})\\right|<\\delta,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          705,
-          1230,
-          836,
-          1230,
-          836,
-          1255,
-          705,
-          1255
-        ],
-        "anno_id": 149,
-        "order": 140,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[i=1,\\dots,N.\\]"
+        "latex": "\\[\\operatorname*{s u p}_{u\\in V}\\left|\\ell_{i}(u)-\\sum_{j=1}^{k}\\xi_{i j}u(x_{j})\\right|<\\delta, \\quad i=1,\\dots,N.\\]"
       },
       {
         "label": "段落",
@@ -917895,9 +917654,9 @@
         "poly": [
           388,
           454,
-          588.21,
+          795,
           454,
-          588.21,
+          795,
           485,
           388,
           485
@@ -917908,28 +917667,7 @@
         "page_id": 9,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[(u,y)\\longmapsto G(u)(y),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          636,
-          455,
-          795,
-          455,
-          795,
-          483,
-          636,
-          483
-        ],
-        "anno_id": 160,
-        "order": 150,
-        "ignore": false,
-        "page_id": 9,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[(u,y)\\in V\\times K,\\]"
+        "latex": "\\[(u,y)\\longmapsto G(u)(y), \\quad (u,y)\\in V\\times K,\\]"
       },
       {
         "label": "段落",
@@ -918252,9 +917990,9 @@
         "poly": [
           366.69,
           1358,
-          610.08,
+          816,
           1358,
-          610.08,
+          816,
           1392,
           366.69,
           1392
@@ -918265,49 +918003,7 @@
         "page_id": 9,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[(\\widehat{G}(u))(y)=\\mathcal{B}(u)\\mathcal{T}(y),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          661,
-          1365,
-          732,
-          1365,
-          732,
-          1392,
-          661,
-          1392
-        ],
-        "anno_id": 177,
-        "order": 167,
-        "ignore": false,
-        "page_id": 9,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[u\\in X,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          742.12,
-          1361.23,
-          816,
-          1361.23,
-          816,
-          1389.94,
-          742.12,
-          1389.94
-        ],
-        "anno_id": 178,
-        "order": 168,
-        "ignore": false,
-        "page_id": 9,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in\\mathbb{R}^{d}.\\]"
+        "latex": "\\[(\\widehat{G}(u))(y)=\\mathcal{B}(u)\\mathcal{T}(y), \\quad u\\in X,\\ y\\in\\mathbb{R}^{d}.\\]"
       },
       {
         "label": "段落",
@@ -918629,9 +918325,9 @@
         "poly": [
           378,
           814,
-          576,
+          802.9,
           814,
-          576,
+          802.9,
           845,
           378,
           845
@@ -918642,28 +918338,7 @@
         "page_id": 11,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[y\\longmapsto\\sigma(\\omega\\cdot y+\\zeta),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          627.23,
-          817.04,
-          802.9,
-          817.04,
-          802.9,
-          843,
-          627.23,
-          843
-        ],
-        "anno_id": 195,
-        "order": 183,
-        "ignore": false,
-        "page_id": 11,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y,\\omega\\in\\mathbb{R}^{d},\\zeta\\in\\mathbb{R},\\]"
+        "latex": "\\[y\\longmapsto\\sigma(\\omega\\cdot y+\\zeta), \\quad y,\\omega\\in\\mathbb{R}^{d},\\zeta\\in\\mathbb{R},\\]"
       },
       {
         "label": "段落",
@@ -918755,9 +918430,9 @@
         "poly": [
           383.32,
           1172,
-          621.34,
+          803,
           1172,
-          621.34,
+          803,
           1201,
           383.32,
           1201
@@ -918768,28 +918443,7 @@
         "page_id": 11,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\phi_{k}(y)=\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          666,
-          1173.88,
-          803,
-          1173.88,
-          803,
-          1198,
-          666,
-          1198
-        ],
-        "anno_id": 201,
-        "order": 189,
-        "ignore": false,
-        "page_id": 11,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[k=1,\\ldots,N,\\]"
+        "latex": "\\[\\phi_{k}(y)=\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}), \\quad k=1,\\ldots,N,\\]"
       },
       {
         "label": "段落",
@@ -918818,12 +918472,12 @@
         "poly": [
           425,
           1276.96,
-          572.66,
+          761,
           1276.96,
-          572.66,
-          1304.96,
+          761,
+          1308,
           425,
-          1304.96
+          1308
         ],
         "anno_id": 203,
         "order": 191,
@@ -918831,28 +918485,7 @@
         "page_id": 11,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}:X\\to\\mathbb{R}^{m},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          623,
-          1281,
-          761,
-          1281,
-          761,
-          1308,
-          623,
-          1308
-        ],
-        "anno_id": 204,
-        "order": 192,
-        "ignore": false,
-        "page_id": 11,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[k=1,\\dots,N,\\]"
+        "latex": "\\[a_{k}:X\\to\\mathbb{R}^{m}, \\quad k=1,\\dots,N,\\]"
       },
       {
         "label": "段落",
@@ -919112,9 +918745,9 @@
         "poly": [
           326,
           563,
-          740.11,
+          858,
           563,
-          740.11,
+          858,
           644,
           326,
           644
@@ -919125,28 +918758,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[R_{h,r}(y)=\\sum_{j=1}^{N(h,r)}\\alpha_{h,r,j}\\sigma(\\omega_{h,r,j}\\cdot y+\\zeta_{h,r,j}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          789,
-          595,
-          858,
-          595,
-          858,
-          620,
-          789,
-          620
-        ],
-        "anno_id": 218,
-        "order": 205,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in K,\\]"
+        "latex": "\\[R_{h,r}(y)=\\sum_{j=1}^{N(h,r)}\\alpha_{h,r,j}\\sigma(\\omega_{h,r,j}\\cdot y+\\zeta_{h,r,j}), \\quad y\\in K,\\]"
       },
       {
         "label": "段落",
@@ -919196,9 +918808,9 @@
         "poly": [
           367,
           743.06,
-          697.48,
+          817,
           743.06,
-          697.48,
+          817,
           774.06,
           367,
           774.06
@@ -919209,28 +918821,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[R_{h}(y):=(R_{h,1}(y),\\ldots,R_{h,m}(y)),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          749,
-          746,
-          817,
-          746,
-          817,
-          774,
-          749,
-          774
-        ],
-        "anno_id": 222,
-        "order": 209,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in K.\\]"
+        "latex": "\\[R_{h}(y):=(R_{h,1}(y),\\ldots,R_{h,m}(y)), \\quad y\\in K.\\]"
       },
       {
         "label": "段落",
@@ -919469,9 +919060,9 @@
         "poly": [
           380,
           1322.84,
-          617.86,
+          805,
           1322.84,
-          617.86,
+          805,
           1352.84,
           380,
           1352.84
@@ -919482,28 +919073,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\phi_{k}(y)=\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          664,
-          1327,
-          805,
-          1327,
-          805,
-          1351,
-          664,
-          1351
-        ],
-        "anno_id": 235,
-        "order": 222,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[k=1,\\dots,N.\\]"
+        "latex": "\\[\\phi_{k}(y)=\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}), \\quad k=1,\\dots,N.\\]"
       },
       {
         "label": "段落",
@@ -919532,9 +919102,9 @@
         "poly": [
           411.29,
           1425.65,
-          661.98,
+          780,
           1425.65,
-          661.98,
+          780,
           1499,
           411.29,
           1499
@@ -919545,28 +919115,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[R_{h^{(j)}}(y)=\\sum_{k=1}^{N}A_{j,k}\\phi_{k}(y),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          713,
-          1449,
-          780,
-          1449,
-          780,
-          1477,
-          713,
-          1477
-        ],
-        "anno_id": 238,
-        "order": 225,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in K,\\]"
+        "latex": "\\[R_{h^{(j)}}(y)=\\sum_{k=1}^{N}A_{j,k}\\phi_{k}(y), \\quad y\\in K,\\]"
       },
       {
         "label": "段落",
@@ -919658,9 +919207,9 @@
         "poly": [
           415,
           255,
-          579.16,
+          771,
           255,
-          579.16,
+          771,
           287,
           415,
           287
@@ -919671,28 +919220,7 @@
         "page_id": 13,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\eta_{j}:W\\rightarrow[0,1],\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          629,
-          257,
-          771,
-          257,
-          771,
-          284,
-          629,
-          284
-        ],
-        "anno_id": 244,
-        "order": 230,
-        "ignore": false,
-        "page_id": 13,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[j=1,\\dots,M,\\]"
+        "latex": "\\[\\eta_{j}:W\\rightarrow[0,1], \\quad j=1,\\dots,M,\\]"
       },
       {
         "label": "段落",
@@ -919784,9 +919312,9 @@
         "poly": [
           379,
           504,
-          616.79,
+          800,
           504,
-          616.79,
+          800,
           583,
           379,
           583
@@ -919797,28 +919325,7 @@
         "page_id": 13,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[c_{k}(h):=\\sum\\limits_{j=1}^{M}\\eta_{j}(h)A_{j,k},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          667,
-          531,
-          800,
-          531,
-          800,
-          555.12,
-          667,
-          555.12
-        ],
-        "anno_id": 250,
-        "order": 236,
-        "ignore": false,
-        "page_id": 13,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[k=1,\\ldots,N.\\]"
+        "latex": "\\[c_{k}(h):=\\sum\\limits_{j=1}^{M}\\eta_{j}(h)A_{j,k}, \\quad k=1,\\ldots,N.\\]"
       },
       {
         "label": "段落",
@@ -920120,9 +919627,9 @@
         "poly": [
           416,
           1277,
-          654.37,
+          770,
           1277,
-          654.37,
+          770,
           1311,
           416,
           1311
@@ -920133,28 +919640,7 @@
         "page_id": 13,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[b_{k,r}(u):=\\left(c_{k}(G(u))\\right)_{r},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          703,
-          1282,
-          770,
-          1282,
-          770,
-          1307,
-          703,
-          1307
-        ],
-        "anno_id": 266,
-        "order": 252,
-        "ignore": false,
-        "page_id": 13,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[u\\in V.\\]"
+        "latex": "\\[b_{k,r}(u):=\\left(c_{k}(G(u))\\right)_{r}, \\quad u\\in V.\\]"
       },
       {
         "label": "段落",
@@ -920330,9 +919816,9 @@
         "poly": [
           350.28,
           174,
-          655.66,
+          840,
           174,
-          655.66,
+          840,
           206,
           350.28,
           206
@@ -920343,28 +919829,7 @@
         "page_id": 14,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(u)=(a_{k,1}(u),\\dots,a_{k,m}(u)),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          704,
-          176,
-          840,
-          176,
-          840,
-          204,
-          704,
-          204
-        ],
-        "anno_id": 276,
-        "order": 261,
-        "ignore": false,
-        "page_id": 14,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[k=1,\\dots,N,\\]"
+        "latex": "\\[a_{k}(u)=(a_{k,1}(u),\\dots,a_{k,m}(u)), \\quad k=1,\\dots,N,\\]"
       },
       {
         "label": "段落",
@@ -920645,9 +920110,9 @@
         "poly": [
           364,
           956,
-          701.11,
+          819,
           956,
-          701.11,
+          819,
           992,
           364,
           992
@@ -920658,28 +920123,7 @@
         "page_id": 14,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\mathcal{T}(y)=\\big(t_{1}(y),\\dots,t_{p}(y)\\big)^{T}\\in\\mathbb{R}^{p},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          750,
-          963,
-          819,
-          963,
-          819,
-          992,
-          750,
-          992
-        ],
-        "anno_id": 291,
-        "order": 276,
-        "ignore": false,
-        "page_id": 14,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in K,\\]"
+        "latex": "\\[\\mathcal{T}(y)=\\big(t_{1}(y),\\dots,t_{p}(y)\\big)^{T}\\in\\mathbb{R}^{p}, \\quad y\\in K,\\]"
       },
       {
         "label": "段落",
@@ -922178,9 +921622,9 @@
         "poly": [
           320.88,
           405,
-          673.99,
+          869,
           405,
-          673.99,
+          869,
           483,
           320.88,
           483
@@ -922191,49 +921635,7 @@
         "page_id": 18,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[G(u)(y)\\approx\\sum_{k=1}^{N}a_{k}(u)\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          724,
-          431,
-          788.88,
-          431,
-          788.88,
-          457,
-          724,
-          457
-        ],
-        "anno_id": 364,
-        "order": 345,
-        "ignore": false,
-        "page_id": 18,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[u\\in V,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          800.12,
-          433,
-          869,
-          433,
-          869,
-          459,
-          800.12,
-          459
-        ],
-        "anno_id": 365,
-        "order": 346,
-        "ignore": false,
-        "page_id": 18,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[y\\in K,\\]"
+        "latex": "\\[G(u)(y)\\approx\\sum_{k=1}^{N}a_{k}(u)\\sigma(\\omega_{k}\\cdot y+\\zeta_{k}), \\quad u\\in V,\\ y\\in K,\\]"
       },
       {
         "label": "段落",
@@ -922346,9 +921748,9 @@
         "poly": [
           430.54,
           763,
-          638.47,
+          758,
           763,
-          638.47,
+          758,
           794,
           430.54,
           794
@@ -922359,28 +921761,7 @@
         "page_id": 18,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[A\\longmapsto\\mathrm{t r a c e}(W^{T}A),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          685,
-          767.94,
-          758,
-          767.94,
-          758,
-          791.17,
-          685,
-          791.17
-        ],
-        "anno_id": 372,
-        "order": 353,
-        "ignore": false,
-        "page_id": 18,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[A\\in X,\\]"
+        "latex": "\\[A\\longmapsto\\mathrm{t r a c e}(W^{T}A), \\quad A\\in X,\\]"
       },
       {
         "label": "段落",
@@ -922430,9 +921811,9 @@
         "poly": [
           338.45,
           974,
-          730.57,
+          853.12,
           974,
-          730.57,
+          853.12,
           1046,
           338.45,
           1046
@@ -922443,28 +921824,7 @@
         "page_id": 18,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(A)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\big(\\mathrm{t r a c e}(W_{k,i}^{T}A)-\\theta_{k,i}\\big),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          782.06,
-          997,
-          853.12,
-          997,
-          853.12,
-          1019,
-          782.06,
-          1019
-        ],
-        "anno_id": 376,
-        "order": 357,
-        "ignore": false,
-        "page_id": 18,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[A\\in X.\\]"
+        "latex": "\\[a_{k}(A)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\big(\\mathrm{t r a c e}(W_{k,i}^{T}A)-\\theta_{k,i}\\big), \\quad A\\in X.\\]"
       },
       {
         "label": "段落",
@@ -922556,9 +921916,9 @@
         "poly": [
           375.32,
           1380,
-          537.06,
+          815,
           1380,
-          537.06,
+          815,
           1454,
           375.32,
           1454
@@ -922569,28 +921929,7 @@
         "page_id": 18,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[x\\longmapsto\\sum_{n=1}^{\\infty}w_{n}x_{n},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          589.88,
-          1402.16,
-          815,
-          1402.16,
-          815,
-          1430.92,
-          589.88,
-          1430.92
-        ],
-        "anno_id": 382,
-        "order": 363,
-        "ignore": false,
-        "page_id": 18,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[w=(w_{1},w_{2},\\dots)\\in\\ell_{q}.\\]"
+        "latex": "\\[x\\longmapsto\\sum_{n=1}^{\\infty}w_{n}x_{n}, \\quad w=(w_{1},w_{2},\\dots)\\in\\ell_{q}.\\]"
       },
       {
         "label": "段落",
@@ -922703,9 +922042,9 @@
         "poly": [
           337.13,
           289.84,
-          732.89,
+          854,
           289.84,
-          732.89,
+          854,
           367.84,
           337.13,
           367.84
@@ -922716,28 +922055,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(x)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\left(\\sum_{n=1}^{\\infty}w_{n}^{(k,i)}x_{n}-\\theta_{k,i}\\right),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          784,
-          317,
-          854,
-          317,
-          854,
-          341,
-          784,
-          341
-        ],
-        "anno_id": 389,
-        "order": 369,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[x\\in X.\\]"
+        "latex": "\\[a_{k}(x)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\left(\\sum_{n=1}^{\\infty}w_{n}^{(k,i)}x_{n}-\\theta_{k,i}\\right), \\quad x\\in X.\\]"
       },
       {
         "label": "段落",
@@ -922766,9 +922084,9 @@
         "poly": [
           373.28,
           501.2,
-          537.06,
+          815,
           501.2,
-          537.06,
+          815,
           569,
           373.28,
           569
@@ -922779,28 +922097,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[x\\longmapsto\\sum_{n=1}^{\\infty}w_{n}x_{n},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          588,
-          519,
-          815,
-          519,
-          815,
-          548,
-          588,
-          548
-        ],
-        "anno_id": 392,
-        "order": 372,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[w=(w_{1},w_{2},\\dots)\\in\\ell_{1}.\\]"
+        "latex": "\\[x\\longmapsto\\sum_{n=1}^{\\infty}w_{n}x_{n}, \\quad w=(w_{1},w_{2},\\dots)\\in\\ell_{1}.\\]"
       },
       {
         "label": "段落",
@@ -922871,9 +922168,9 @@
         "poly": [
           338.2,
           789,
-          733.8,
+          854,
           789,
-          733.8,
+          854,
           867,
           338.2,
           867
@@ -922884,28 +922181,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(x)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\left(\\sum_{n=1}^{\\infty}w_{n}^{(k,i)}x_{n}-\\theta_{k,i}\\right),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          784,
-          816,
-          854,
-          816,
-          854,
-          840,
-          784,
-          840
-        ],
-        "anno_id": 397,
-        "order": 377,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[x\\in X.\\]"
+        "latex": "\\[a_{k}(x)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\left(\\sum_{n=1}^{\\infty}w_{n}^{(k,i)}x_{n}-\\theta_{k,i}\\right), \\quad x\\in X.\\]"
       },
       {
         "label": "段落",
@@ -922934,9 +922210,9 @@
         "poly": [
           377.13,
           1022.16,
-          630.18,
+          813,
           1022.16,
-          630.18,
+          813,
           1082,
           377.13,
           1082
@@ -922947,28 +922223,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[f\\longmapsto\\int_{\\Omega}f(x)g(x)d\\mu(x),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          682,
-          1038,
-          813,
-          1038,
-          813,
-          1068,
-          682,
-          1068
-        ],
-        "anno_id": 400,
-        "order": 380,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[g\\in L_{q}(\\Omega,\\mu).\\]"
+        "latex": "\\[f\\longmapsto\\int_{\\Omega}f(x)g(x)d\\mu(x), \\quad g\\in L_{q}(\\Omega,\\mu).\\]"
       },
       {
         "label": "段落",
@@ -922997,9 +922252,9 @@
         "poly": [
           294.13,
           1233,
-          774.89,
+          897,
           1233,
-          774.89,
+          897,
           1304,
           294.13,
           1304
@@ -923010,28 +922265,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\biggl(\\int_{\\Omega}f(x)g_{k,i}(x)d\\mu(x)-\\theta_{k,i}\\biggr),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          826,
-          1256,
-          897,
-          1256,
-          897,
-          1280,
-          826,
-          1280
-        ],
-        "anno_id": 403,
-        "order": 383,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[f\\in X.\\]"
+        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma\\biggl(\\int_{\\Omega}f(x)g_{k,i}(x)d\\mu(x)-\\theta_{k,i}\\biggr), \\quad f\\in X.\\]"
       },
       {
         "label": "段落",
@@ -923060,12 +922294,12 @@
         "poly": [
           440.65,
           1440.16,
-          577.12,
+          747,
           1440.16,
-          577.12,
-          1470.16,
+          747,
+          1471,
           440.65,
-          1470.16
+          1471
         ],
         "anno_id": 405,
         "order": 385,
@@ -923073,28 +922307,7 @@
         "page_id": 19,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[f\\longmapsto\\langle T,f\\rangle,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          624,
-          1441,
-          747,
-          1441,
-          747,
-          1471,
-          624,
-          1471
-        ],
-        "anno_id": 406,
-        "order": 386,
-        "ignore": false,
-        "page_id": 19,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[T\\in\\mathcal{S}^{\\prime}(\\mathbb{R}^{n}).\\]"
+        "latex": "\\[f\\longmapsto\\langle T,f\\rangle, \\quad T\\in\\mathcal{S}^{\\prime}(\\mathbb{R}^{n}).\\]"
       },
       {
         "label": "段落",
@@ -923165,9 +922378,9 @@
         "poly": [
           363.03,
           229.45,
-          704.84,
+          825,
           229.45,
-          704.84,
+          825,
           298,
           363.03,
           298
@@ -923178,28 +922391,7 @@
         "page_id": 20,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma(\\langle T_{k,i},f\\rangle-\\theta_{k,i}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          757,
-          249,
-          825,
-          249,
-          825,
-          274,
-          757,
-          274
-        ],
-        "anno_id": 411,
-        "order": 390,
-        "ignore": false,
-        "page_id": 20,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[f\\in X.\\]"
+        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma(\\langle T_{k,i},f\\rangle-\\theta_{k,i}), \\quad f\\in X.\\]"
       },
       {
         "label": "段落",
@@ -923228,12 +922420,12 @@
         "poly": [
           445.17,
           429,
-          579.63,
+          742,
           429,
-          579.63,
-          461,
+          742,
+          461.14,
           445.17,
-          461
+          461.14
         ],
         "anno_id": 413,
         "order": 392,
@@ -923241,28 +922433,7 @@
         "page_id": 20,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[f\\longmapsto\\langle T,f\\rangle,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          628,
-          432.86,
-          742,
-          432.86,
-          742,
-          461.14,
-          628,
-          461.14
-        ],
-        "anno_id": 414,
-        "order": 393,
-        "ignore": false,
-        "page_id": 20,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[T\\in\\mathcal{D}^{\\prime}(U).\\]"
+        "latex": "\\[f\\longmapsto\\langle T,f\\rangle, \\quad T\\in\\mathcal{D}^{\\prime}(U).\\]"
       },
       {
         "label": "段落",
@@ -923291,9 +922462,9 @@
         "poly": [
           362.57,
           623.94,
-          705.8,
+          826,
           623.94,
-          705.8,
+          826,
           694,
           362.57,
           694
@@ -923304,28 +922475,7 @@
         "page_id": 20,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma(\\langle T_{k,i},f\\rangle-\\theta_{k,i}),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          757,
-          644,
-          826,
-          644,
-          826,
-          669,
-          757,
-          669
-        ],
-        "anno_id": 417,
-        "order": 396,
-        "ignore": false,
-        "page_id": 20,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[f\\in X.\\]"
+        "latex": "\\[a_{k}(f)=\\sum_{i=1}^{r_{k}}c_{k,i}\\sigma(\\langle T_{k,i},f\\rangle-\\theta_{k,i}), \\quad f\\in X.\\]"
       },
       {
         "label": "段落",
@@ -924068,11 +923218,6 @@
         },
         {
           "source_anno_id": 8,
-          "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 8,
           "target_anno_id": 22,
           "relation_type": "parent_son"
         },
@@ -924098,11 +923243,6 @@
         },
         {
           "source_anno_id": 8,
-          "target_anno_id": 28,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 8,
           "target_anno_id": 29,
           "relation_type": "parent_son"
         },
@@ -924124,11 +923264,6 @@
         {
           "source_anno_id": 8,
           "target_anno_id": 33,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 8,
-          "target_anno_id": 34,
           "relation_type": "parent_son"
         },
         {
@@ -924228,11 +923363,6 @@
         },
         {
           "source_anno_id": 40,
-          "target_anno_id": 55,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
           "target_anno_id": 56,
           "relation_type": "parent_son"
         },
@@ -924254,11 +923384,6 @@
         {
           "source_anno_id": 40,
           "target_anno_id": 60,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
-          "target_anno_id": 61,
           "relation_type": "parent_son"
         },
         {
@@ -924468,11 +923593,6 @@
         },
         {
           "source_anno_id": 40,
-          "target_anno_id": 105,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
           "target_anno_id": 106,
           "relation_type": "parent_son"
         },
@@ -924553,11 +923673,6 @@
         },
         {
           "source_anno_id": 40,
-          "target_anno_id": 123,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
           "target_anno_id": 124,
           "relation_type": "parent_son"
         },
@@ -924589,11 +923704,6 @@
         {
           "source_anno_id": 40,
           "target_anno_id": 130,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
-          "target_anno_id": 131,
           "relation_type": "parent_son"
         },
         {
@@ -924678,11 +923788,6 @@
         },
         {
           "source_anno_id": 40,
-          "target_anno_id": 149,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 40,
           "target_anno_id": 150,
           "relation_type": "parent_son"
         },
@@ -924724,11 +923829,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 159,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 160,
           "relation_type": "parent_son"
         },
         {
@@ -924813,16 +923913,6 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 177,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 178,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 179,
           "relation_type": "parent_son"
         },
@@ -924893,11 +923983,6 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 195,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 196,
           "relation_type": "parent_son"
         },
@@ -924923,22 +924008,12 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 201,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 202,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 155,
           "target_anno_id": 203,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 204,
           "relation_type": "parent_son"
         },
         {
@@ -925003,11 +924078,6 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 218,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 219,
           "relation_type": "parent_son"
         },
@@ -925019,11 +924089,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 221,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 222,
           "relation_type": "parent_son"
         },
         {
@@ -925088,22 +924153,12 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 235,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 236,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 155,
           "target_anno_id": 237,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 238,
           "relation_type": "parent_son"
         },
         {
@@ -925124,11 +924179,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 243,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 244,
           "relation_type": "parent_son"
         },
         {
@@ -925154,11 +924204,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 249,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 250,
           "relation_type": "parent_son"
         },
         {
@@ -925238,11 +924283,6 @@
         },
         {
           "source_anno_id": 155,
-          "target_anno_id": 266,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
           "target_anno_id": 267,
           "relation_type": "parent_son"
         },
@@ -925279,11 +924319,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 275,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 276,
           "relation_type": "parent_son"
         },
         {
@@ -925354,11 +924389,6 @@
         {
           "source_anno_id": 155,
           "target_anno_id": 290,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 155,
-          "target_anno_id": 291,
           "relation_type": "parent_son"
         },
         {
@@ -925703,16 +924733,6 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 364,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 365,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 366,
           "relation_type": "parent_son"
         },
@@ -925742,11 +924762,6 @@
           "relation_type": "parent_son"
         },
         {
-          "source_anno_id": 363,
-          "target_anno_id": 372,
-          "relation_type": "parent_son"
-        },
-        {
           "source_anno_id": 359,
           "target_anno_id": 373,
           "relation_type": "parent_son"
@@ -925759,11 +924774,6 @@
         {
           "source_anno_id": 359,
           "target_anno_id": 375,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 376,
           "relation_type": "parent_son"
         },
         {
@@ -925793,11 +924803,6 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 382,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 383,
           "relation_type": "parent_son"
         },
@@ -925823,22 +924828,12 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 389,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 390,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 359,
           "target_anno_id": 391,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 392,
           "relation_type": "parent_son"
         },
         {
@@ -925863,22 +924858,12 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 397,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 398,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 359,
           "target_anno_id": 399,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 400,
           "relation_type": "parent_son"
         },
         {
@@ -925893,22 +924878,12 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 403,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 404,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 359,
           "target_anno_id": 405,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 406,
           "relation_type": "parent_son"
         },
         {
@@ -925928,11 +924903,6 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 411,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 412,
           "relation_type": "parent_son"
         },
@@ -925943,22 +924913,12 @@
         },
         {
           "source_anno_id": 359,
-          "target_anno_id": 414,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
           "target_anno_id": 415,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 359,
           "target_anno_id": 416,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 359,
-          "target_anno_id": 417,
           "relation_type": "parent_son"
         },
         {
@@ -926625,9 +925585,9 @@
         "poly": [
           320,
           267,
-          755.71,
+          937,
           267,
-          755.71,
+          937,
           334,
           320,
           334
@@ -926638,28 +925598,7 @@
         "page_id": 2,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[E_{N}\\big(\\sigma\\big)=\\frac{\\beta}{\\sqrt{N}}\\sum_{i,j=1}^{N}W_{i j}\\sigma_{i}\\sigma_{j}+\\left(\\frac{1}{\\sqrt{N}}\\sum_{i=1}^{N}\\chi_{i}\\sigma_{i}\\right)^{2},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          800,
-          286.91,
-          937,
-          286.91,
-          937,
-          318.16,
-          800,
-          318.16
-        ],
-        "anno_id": 21,
-        "order": 15,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall\\sigma\\in\\{-1,1\\}^{N},\\]"
+        "latex": "\\[E_{N}\\big(\\sigma\\big)=\\frac{\\beta}{\\sqrt{N}}\\sum_{i,j=1}^{N}W_{i j}\\sigma_{i}\\sigma_{j}+\\left(\\frac{1}{\\sqrt{N}}\\sum_{i=1}^{N}\\chi_{i}\\sigma_{i}\\right)^{2}, \\quad \\forall\\sigma\\in\\{-1,1\\}^{N},\\]"
       },
       {
         "label": "段落",
@@ -927528,9 +926467,9 @@
         "poly": [
           362,
           389,
-          670.31,
+          854,
           389,
-          670.31,
+          854,
           427,
           362,
           427
@@ -927541,28 +926480,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\mathbb{E}\\left[H_{N}(\\sigma)H_{N}(\\sigma^{\\prime})\\right]=N\\xi\\left(\\frac{\\sigma\\sigma^{\\prime\\top}}{N}\\right),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          716,
-          394.1,
-          854,
-          394.1,
-          854,
-          421.98,
-          716,
-          421.98
-        ],
-        "anno_id": 64,
-        "order": 52,
-        "ignore": false,
-        "page_id": 5,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall\\sigma,\\sigma^{\\prime}\\in\\mathbb{R}^{D\\times N}.\\]"
+        "latex": "\\[\\mathbb{E}\\left[H_{N}(\\sigma)H_{N}(\\sigma^{\\prime})\\right]=N\\xi\\left(\\frac{\\sigma\\sigma^{\\prime\\top}}{N}\\right), \\quad \\forall\\sigma,\\sigma^{\\prime}\\in\\mathbb{R}^{D\\times N}.\\]"
       },
       {
         "label": "段落",
@@ -927611,10 +926529,10 @@
         "category_type": "equation_isolated",
         "poly": [
           436.08,
-          477.08,
-          655.86,
-          477.08,
-          655.86,
+          472.66,
+          787,
+          472.66,
+          787,
           503,
           436.08,
           503
@@ -927625,28 +926543,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\theta(a)=a\\cdot\\nabla\\xi(a)-\\xi(a),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          678,
-          472.66,
-          787,
-          472.66,
-          787,
-          499,
-          678,
-          499
-        ],
-        "anno_id": 68,
-        "order": 56,
-        "ignore": false,
-        "page_id": 5,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall a\\in\\mathbb{R}^{D\\times D}.\\]"
+        "latex": "\\[\\theta(a)=a\\cdot\\nabla\\xi(a)-\\xi(a), \\quad \\forall a\\in\\mathbb{R}^{D\\times D}.\\]"
       },
       {
         "label": "段落",
@@ -931986,11 +930883,6 @@
         },
         {
           "source_anno_id": 11,
-          "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
           "target_anno_id": 22,
           "relation_type": "parent_son"
         },
@@ -932171,11 +931063,6 @@
         },
         {
           "source_anno_id": 11,
-          "target_anno_id": 64,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
           "target_anno_id": 65,
           "relation_type": "parent_son"
         },
@@ -932187,11 +931074,6 @@
         {
           "source_anno_id": 11,
           "target_anno_id": 67,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
-          "target_anno_id": 68,
           "relation_type": "parent_son"
         },
         {
@@ -934384,9 +933266,9 @@
         "poly": [
           399,
           866,
-          485.3,
+          676,
           866,
-          485.3,
+          676,
           893,
           399,
           893
@@ -934397,28 +933279,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[p(0)=1,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          507,
-          869,
-          676,
-          869,
-          676,
-          893,
-          507,
-          893
-        ],
-        "anno_id": 57,
-        "order": 53,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\dot{p}=-(1-m c)^{+}I p,\\]"
+        "latex": "\\[p(0)=1, \\quad \\dot{p}=-(1-m c)^{+}I p,\\]"
       },
       {
         "label": "段落",
@@ -934446,13 +933307,13 @@
         "category_type": "equation_isolated",
         "poly": [
           398.79,
-          902.11,
-          485.77,
-          902.11,
-          485.77,
-          926,
+          898,
+          711,
+          898,
+          711,
+          927,
           398.79,
-          926
+          927
         ],
         "anno_id": 59,
         "order": 55,
@@ -934460,28 +933321,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I(0)=I_{0},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          507,
-          898,
-          711,
-          898,
-          711,
-          927,
-          507,
-          927
-        ],
-        "anno_id": 60,
-        "order": 56,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\dot{I}=(1-m\\overline{{{c}}})^{+}I(1-I),\\]"
+        "latex": "\\[I(0)=I_{0}, \\quad \\dot{I}=(1-m\\overline{{{c}}})^{+}I(1-I),\\]"
       },
       {
         "label": "段落",
@@ -935221,9 +934061,9 @@
         "poly": [
           238.77,
           678,
-          669.02,
+          912.88,
           678,
-          669.02,
+          912.88,
           776,
           238.77,
           776
@@ -935234,28 +934074,7 @@
         "page_id": 6,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[x^{*}(m,I_{0},t_{f})=\\begin{cases}0\\\\ t_{f}\\\\ m-1-\\mathrm{W}\\left(\\left(\\frac{1}{I_{0}}-1\\right)e^{m-1-t_{f}}\\right)\\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          688,
-          683,
-          912.88,
-          683,
-          912.88,
-          763.66,
-          688,
-          763.66
-        ],
-        "anno_id": 97,
-        "order": 91,
-        "ignore": false,
-        "page_id": 6,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{aligned}&if I_{0}(1+(m-1)e^{t_{f}})<1,\\\\&if I_{0}(m-t_{f})>1,\\\\&otherwise.\\end{aligned}\\]"
+        "latex": "\\[x^{*}(m,I_{0},t_{f})=\\begin{cases}0&\\mathrm{if}~I_{0}(1+(m-1)e^{t_{f}})<1,\\\\ t_{f}&\\mathrm{if}~I_{0}(m-t_{f})>1,\\\\ m-1-\\mathrm{W}\\left(\\left(\\frac{1}{I_{0}}-1\\right)e^{m-1-t_{f}}\\right)&\\mathrm{otherwise.}\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -935849,12 +934668,12 @@
         "poly": [
           343.2,
           330.96,
-          669.45,
+          808.44,
           330.96,
-          669.45,
-          416.96,
+          808.44,
+          416.99,
           343.2,
-          416.96
+          416.99
         ],
         "anno_id": 126,
         "order": 118,
@@ -935862,28 +934681,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\mathcal{E}(x^{*})=\\begin{cases}{(1-I(t_{f}))/{(1-I_{0})},}\\\\ {(1+x^{*}-m I_{0})/m(1-I_{0}),}\\\\ {t_{f}/m,}\\\\ \\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          687,
-          335,
-          808.44,
-          335,
-          808.44,
-          416.99,
-          687,
-          416.99
-        ],
-        "anno_id": 127,
-        "order": 119,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{aligned}&if x^{*}=0,\\\\&if x^{*}\\in(0,t_{f}),\\\\&if x^{*}=t_{f}.\\end{aligned}\\]"
+        "latex": "\\[\\mathcal{E}(x^{*})=\\begin{cases}{(1-I(t_{f}))/{(1-I_{0})},}&\\mathrm{if}~x^{*}=0,\\\\ {(1+x^{*}-m I_{0})/m(1-I_{0}),}&\\mathrm{if}~x^{*}\\in(0,t_{f}),\\\\ {t_{f}/m,}&\\mathrm{if}~x^{*}=t_{f}.\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -937608,10 +936406,10 @@
         "category_type": "equation_isolated",
         "poly": [
           458.55,
-          677.38,
-          592.12,
-          677.38,
-          592.12,
+          677,
+          694,
+          677,
+          694,
           753.41,
           458.55,
           753.41
@@ -937622,28 +936420,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[c^{*}(\\Phi)\\in\\begin{cases}\\{0\\}&\\\\ [0,\\frac{1}{m}]&\\\\ \\{\\frac{1}{m}\\}&\\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          609,
-          677,
-          694,
-          677,
-          694,
-          749,
-          609,
-          749
-        ],
-        "anno_id": 211,
-        "order": 199,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{array}{r l}&{\\mathrm{i f~}\\Phi<\\frac{1}{m},}\\\\ &{\\mathrm{i f~}\\Phi=\\frac{1}{m},}\\\\ &{\\mathrm{e l s e.}}\\end{array}\\]"
+        "latex": "\\[c^{*}(\\Phi)\\in\\begin{cases}\\{0\\}&\\mathrm{if}~\\Phi<\\frac{1}{m},\\\\ {[0,\\frac{1}{m}]}&\\mathrm{if}~\\Phi=\\frac{1}{m},\\\\ \\{\\frac{1}{m}\\}&\\mathrm{else.}\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -942761,22 +941538,12 @@
         },
         {
           "source_anno_id": 18,
-          "target_anno_id": 57,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 18,
           "target_anno_id": 58,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 18,
           "target_anno_id": 59,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 18,
-          "target_anno_id": 60,
           "relation_type": "parent_son"
         },
         {
@@ -942951,11 +941718,6 @@
         },
         {
           "source_anno_id": 86,
-          "target_anno_id": 97,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 86,
           "target_anno_id": 98,
           "relation_type": "parent_son"
         },
@@ -943087,11 +941849,6 @@
         {
           "source_anno_id": 106,
           "target_anno_id": 126,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 106,
-          "target_anno_id": 127,
           "relation_type": "parent_son"
         },
         {
@@ -943487,11 +942244,6 @@
         {
           "source_anno_id": 144,
           "target_anno_id": 210,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 144,
-          "target_anno_id": 211,
           "relation_type": "parent_son"
         },
         {
