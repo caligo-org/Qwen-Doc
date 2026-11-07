@@ -925637,9 +925637,9 @@
         "poly": [
           320,
           267,
-          755.71,
+          937,
           267,
-          755.71,
+          937,
           334,
           320,
           334
@@ -925650,28 +925650,7 @@
         "page_id": 2,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[E_{N}\\big(\\sigma\\big)=\\frac{\\beta}{\\sqrt{N}}\\sum_{i,j=1}^{N}W_{i j}\\sigma_{i}\\sigma_{j}+\\left(\\frac{1}{\\sqrt{N}}\\sum_{i=1}^{N}\\chi_{i}\\sigma_{i}\\right)^{2},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          800,
-          286.91,
-          937,
-          286.91,
-          937,
-          318.16,
-          800,
-          318.16
-        ],
-        "anno_id": 21,
-        "order": 15,
-        "ignore": false,
-        "page_id": 2,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall\\sigma\\in\\{-1,1\\}^{N},\\]"
+        "latex": "\\[E_{N}\\big(\\sigma\\big)=\\frac{\\beta}{\\sqrt{N}}\\sum_{i,j=1}^{N}W_{i j}\\sigma_{i}\\sigma_{j}+\\left(\\frac{1}{\\sqrt{N}}\\sum_{i=1}^{N}\\chi_{i}\\sigma_{i}\\right)^{2}, \\quad \\forall\\sigma\\in\\{-1,1\\}^{N},\\]"
       },
       {
         "label": "段落",
@@ -926540,9 +926519,9 @@
         "poly": [
           362,
           389,
-          670.31,
+          854,
           389,
-          670.31,
+          854,
           427,
           362,
           427
@@ -926553,28 +926532,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\mathbb{E}\\left[H_{N}(\\sigma)H_{N}(\\sigma^{\\prime})\\right]=N\\xi\\left(\\frac{\\sigma\\sigma^{\\prime\\top}}{N}\\right),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          716,
-          394.1,
-          854,
-          394.1,
-          854,
-          421.98,
-          716,
-          421.98
-        ],
-        "anno_id": 64,
-        "order": 52,
-        "ignore": false,
-        "page_id": 5,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall\\sigma,\\sigma^{\\prime}\\in\\mathbb{R}^{D\\times N}.\\]"
+        "latex": "\\[\\mathbb{E}\\left[H_{N}(\\sigma)H_{N}(\\sigma^{\\prime})\\right]=N\\xi\\left(\\frac{\\sigma\\sigma^{\\prime\\top}}{N}\\right), \\quad \\forall\\sigma,\\sigma^{\\prime}\\in\\mathbb{R}^{D\\times N}.\\]"
       },
       {
         "label": "段落",
@@ -926623,10 +926581,10 @@
         "category_type": "equation_isolated",
         "poly": [
           436.08,
-          477.08,
-          655.86,
-          477.08,
-          655.86,
+          472.66,
+          787,
+          472.66,
+          787,
           503,
           436.08,
           503
@@ -926637,28 +926595,7 @@
         "page_id": 5,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\theta(a)=a\\cdot\\nabla\\xi(a)-\\xi(a),\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          678,
-          472.66,
-          787,
-          472.66,
-          787,
-          499,
-          678,
-          499
-        ],
-        "anno_id": 68,
-        "order": 56,
-        "ignore": false,
-        "page_id": 5,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\forall a\\in\\mathbb{R}^{D\\times D}.\\]"
+        "latex": "\\[\\theta(a)=a\\cdot\\nabla\\xi(a)-\\xi(a), \\quad \\forall a\\in\\mathbb{R}^{D\\times D}.\\]"
       },
       {
         "label": "段落",
@@ -930998,11 +930935,6 @@
         },
         {
           "source_anno_id": 11,
-          "target_anno_id": 21,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
           "target_anno_id": 22,
           "relation_type": "parent_son"
         },
@@ -931183,11 +931115,6 @@
         },
         {
           "source_anno_id": 11,
-          "target_anno_id": 64,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
           "target_anno_id": 65,
           "relation_type": "parent_son"
         },
@@ -931199,11 +931126,6 @@
         {
           "source_anno_id": 11,
           "target_anno_id": 67,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 11,
-          "target_anno_id": 68,
           "relation_type": "parent_son"
         },
         {
