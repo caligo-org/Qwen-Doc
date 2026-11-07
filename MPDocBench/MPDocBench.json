@@ -848386,10 +848386,10 @@
         "category_type": "equation_isolated",
         "poly": [
           178.61,
-          1307.31,
-          337.83,
-          1307.31,
-          337.83,
+          1303,
+          505,
+          1303,
+          505,
           1330,
           178.61,
           1330
@@ -848400,28 +848400,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I_{\\mathrm{b w}}{=}I_{\\mathrm{s w}}\\times(29{-}N)/28\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          388,
-          1303,
-          505,
-          1303,
-          505,
-          1329,
-          388,
-          1329
-        ],
-        "anno_id": 25,
-        "order": 22,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[(1<N\\leqslant15);\\]"
+        "latex": "\\[I_{\\mathrm{b w}}{=}I_{\\mathrm{s w}}\\times(29{-}N)/28 \\quad (1<N\\leqslant15);\\]"
       },
       {
         "label": "段落",
@@ -848449,13 +848428,13 @@
         "category_type": "equation_isolated",
         "poly": [
           174.45,
-          1338.72,
-          268.58,
-          1338.72,
-          268.58,
-          1363,
+          1338,
+          504,
+          1338,
+          504,
+          1364,
           174.45,
-          1363
+          1364
         ],
         "anno_id": 27,
         "order": 24,
@@ -848463,28 +848442,7 @@
         "page_id": 1,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I_{\\mathrm{b w}}{=}0.5I_{\\mathrm{s w}}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          421,
-          1338,
-          504,
-          1338,
-          504,
-          1364,
-          421,
-          1364
-        ],
-        "anno_id": 28,
-        "order": 25,
-        "ignore": false,
-        "page_id": 1,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[(N>15);\\]"
+        "latex": "\\[I_{\\mathrm{b w}}{=}0.5I_{\\mathrm{s w}} \\quad (N>15);\\]"
       },
       {
         "label": "段落",
@@ -849960,22 +849918,12 @@
         },
         {
           "source_anno_id": 17,
-          "target_anno_id": 25,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
           "target_anno_id": 26,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 17,
           "target_anno_id": 27,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 17,
-          "target_anno_id": 28,
           "relation_type": "parent_son"
         },
         {
