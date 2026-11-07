@@ -25,11 +25,11 @@ _NUMBER = r'\(\s*(?:[A-Z]\.)?[0-9]+(?:[.\-][0-9]+)*\s*\)'
 _ELLIPSIS = r'(?:\.{3}|…|\\[lc]?dots(?![A-Za-z]))'
 _LEADER = r'(?:\.{4,}|(?:' + _ELLIPSIS + r'\s*){2,})'
 _LONG_LEADER = r'(?:\.{6,}|(?:' + _ELLIPSIS + r'\s*){3,})'
-_TRAILING_NUMBER = re.compile(
-    _SPACING + r'(?:' + _LONG_LEADER + r'\s*(?:' + _NUMBER + r')?'
-    + r'|' + _LEADER + r'\s*' + _NUMBER
+_TO_NUMBER = re.compile(
+    _SPACING + r'(?:' + _LEADER + r'\s*' + _NUMBER
     + r'|(?:\\q?quad|\\hfill)\s*' + _NUMBER + r')\s*$'
 )
+_LEADER_TO_TAG = re.compile(_SPACING + _LONG_LEADER + r'\s*$')
 
 
 def strip_equation_number(latex):
@@ -43,15 +43,19 @@ def strip_equation_number(latex):
 
     - every `\\tag{..}` / `\\tag*{..}`;
     - a trailing `(n)` after a leader of two or more ellipses (`...`, `…`,
-      `\\cdots`, `\\ldots`, `\\dots`) or four or more dots;
-    - a trailing leader of three or more ellipses or six or more dots, with
-      or without `(n)`;
-    - a trailing `(n)` set off by `\\quad`, `\\qquad` or `\\hfill`.
+      `\\cdots`, `\\ldots`, `\\dots`) or four or more dots, with the leader;
+    - a trailing `(n)` set off by `\\quad`, `\\qquad` or `\\hfill`;
+    - in a formula that had a `\\tag`, the trailing leader (three or more
+      ellipses or six or more dots) that led to it.
 
     `(n)` is a number such as `(1)`, `(2.4)`, `(2-2)` or `(A.1)`. A shorter
-    trailing run of dots or ellipses without `(n)` (`x_1, x_2, \\cdots`,
-    `0.3333....`) and a parenthesized term that is not a number
+    trailing run of dots or ellipses without `(n)` or `\\tag` (`x_1, x_2, \\cdots`,
+    `0.3333......`) and a parenthesized term that is not a number
     (`\\quad (1-x)`, `\\quad (N > 15)`) are content and are kept.
     """
+    tagged = bool(_TAG.search(latex))
     latex = _TAG.sub('', latex)
-    return _TRAILING_NUMBER.sub('', latex).strip()
+    latex = _TO_NUMBER.sub('', latex)
+    if tagged:
+        latex = _LEADER_TO_TAG.sub('', latex)
+    return latex.strip()
