@@ -15,6 +15,7 @@ import pdb
 import copy
 import pandas as pd
 from .cdm_metric import CDM
+from utils.formula_notation import strip_equation_number
 from .head_metric import HeadTEDS
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import multiprocessing
@@ -209,6 +210,9 @@ def _process_single_cdm_sample(args):
     sample_copy['pred'] = re.sub(r'^\\\[|\\\]$', '', sample_copy['pred'].strip()).strip()
     sample_copy['gt'] = re.sub(r'^\\\(|\\\)$', '', sample_copy['gt'].strip()).strip()
     sample_copy['pred'] = re.sub(r'^\\\(|\\\)$', '', sample_copy['pred'].strip()).strip()
+    # An equation number labels the formula and is not part of it
+    sample_copy['gt'] = strip_equation_number(sample_copy['gt'])
+    sample_copy['pred'] = strip_equation_number(sample_copy['pred'])
     
     # Calculate CDM score
     cdm_score = cal_cdm.evaluate(sample_copy['gt'], sample_copy['pred'], sample_copy['img_id_cdm'])["F1_score"]

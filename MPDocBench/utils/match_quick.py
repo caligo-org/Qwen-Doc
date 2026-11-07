@@ -4,6 +4,7 @@ import Levenshtein
 from collections import defaultdict
 import copy
 from utils.match import compute_edit_distance_matrix_new, get_gt_pred_lines, get_pred_category_type
+from utils.formula_notation import strip_display_delimiters
 import pdb
 import numpy as np
 import evaluate
@@ -572,7 +573,7 @@ def match_gt2pred_quick(gt_items, pred_items, line_type, img_name):
         entry['pred_position'] = no_ignores_pred_items[entry['pred_idx'][0]]['position'][0] if entry['pred_idx'] != [""] else "" 
         #  0507 多行公式拼接修改
         if entry['gt_category_type'] == 'equation_isolated' and len(entry['gt_idx']) > 1:
-            mutli_formula  = ' \\\\ '.join(['{'+no_ignores_ori_gt_lines[_].strip('$$').strip('\n')+'}' for _ in  entry['gt_idx']]) if entry['gt_idx'] != [""] else ""
+            mutli_formula  = ' \\\\ '.join(['{'+strip_display_delimiters(no_ignores_ori_gt_lines[_].strip('$$').strip('\n'))+'}' for _ in  entry['gt_idx']]) if entry['gt_idx'] != [""] else ""
             mutli_formula = '\\begin{array}{l} ' + mutli_formula + ' \end{array}'
             entry['gt'] = mutli_formula
         else:
@@ -584,7 +585,7 @@ def match_gt2pred_quick(gt_items, pred_items, line_type, img_name):
         
         #  0724 多行公式拼接修改pred
         if 'equation' in entry['pred_category_type'] and len(entry['pred_idx']) > 1:
-            mutli_formula  = ' \\\\ '.join(['{'+no_ignores_ori_pred_lines[_].strip('$$').strip('\n')+'}' for _ in  entry['pred_idx']]) if entry['pred_idx'] != [""] else ""
+            mutli_formula  = ' \\\\ '.join(['{'+strip_display_delimiters(no_ignores_ori_pred_lines[_].strip('$$').strip('\n'))+'}' for _ in  entry['pred_idx']]) if entry['pred_idx'] != [""] else ""
             mutli_formula = '\\begin{array}{l} ' + mutli_formula + ' \end{array}'
             entry['pred'] = mutli_formula
         else:
