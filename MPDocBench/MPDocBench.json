@@ -933396,9 +933396,9 @@
         "poly": [
           399,
           866,
-          485.3,
+          676,
           866,
-          485.3,
+          676,
           893,
           399,
           893
@@ -933409,28 +933409,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[p(0)=1,\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          507,
-          869,
-          676,
-          869,
-          676,
-          893,
-          507,
-          893
-        ],
-        "anno_id": 57,
-        "order": 53,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\dot{p}=-(1-m c)^{+}I p,\\]"
+        "latex": "\\[p(0)=1, \\quad \\dot{p}=-(1-m c)^{+}I p,\\]"
       },
       {
         "label": "段落",
@@ -933458,13 +933437,13 @@
         "category_type": "equation_isolated",
         "poly": [
           398.79,
-          902.11,
-          485.77,
-          902.11,
-          485.77,
-          926,
+          898,
+          711,
+          898,
+          711,
+          927,
           398.79,
-          926
+          927
         ],
         "anno_id": 59,
         "order": 55,
@@ -933472,28 +933451,7 @@
         "page_id": 4,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[I(0)=I_{0},\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          507,
-          898,
-          711,
-          898,
-          711,
-          927,
-          507,
-          927
-        ],
-        "anno_id": 60,
-        "order": 56,
-        "ignore": false,
-        "page_id": 4,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\dot{I}=(1-m\\overline{{{c}}})^{+}I(1-I),\\]"
+        "latex": "\\[I(0)=I_{0}, \\quad \\dot{I}=(1-m\\overline{{{c}}})^{+}I(1-I),\\]"
       },
       {
         "label": "段落",
@@ -934233,9 +934191,9 @@
         "poly": [
           238.77,
           678,
-          669.02,
+          912.88,
           678,
-          669.02,
+          912.88,
           776,
           238.77,
           776
@@ -934246,28 +934204,7 @@
         "page_id": 6,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[x^{*}(m,I_{0},t_{f})=\\begin{cases}0\\\\ t_{f}\\\\ m-1-\\mathrm{W}\\left(\\left(\\frac{1}{I_{0}}-1\\right)e^{m-1-t_{f}}\\right)\\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          688,
-          683,
-          912.88,
-          683,
-          912.88,
-          763.66,
-          688,
-          763.66
-        ],
-        "anno_id": 97,
-        "order": 91,
-        "ignore": false,
-        "page_id": 6,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{aligned}&if I_{0}(1+(m-1)e^{t_{f}})<1,\\\\&if I_{0}(m-t_{f})>1,\\\\&otherwise.\\end{aligned}\\]"
+        "latex": "\\[x^{*}(m,I_{0},t_{f})=\\begin{cases}0&\\mathrm{if}~I_{0}(1+(m-1)e^{t_{f}})<1,\\\\ t_{f}&\\mathrm{if}~I_{0}(m-t_{f})>1,\\\\ m-1-\\mathrm{W}\\left(\\left(\\frac{1}{I_{0}}-1\\right)e^{m-1-t_{f}}\\right)&\\mathrm{otherwise.}\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -934861,12 +934798,12 @@
         "poly": [
           343.2,
           330.96,
-          669.45,
+          808.44,
           330.96,
-          669.45,
-          416.96,
+          808.44,
+          416.99,
           343.2,
-          416.96
+          416.99
         ],
         "anno_id": 126,
         "order": 118,
@@ -934874,28 +934811,7 @@
         "page_id": 8,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[\\mathcal{E}(x^{*})=\\begin{cases}{(1-I(t_{f}))/{(1-I_{0})},}\\\\ {(1+x^{*}-m I_{0})/m(1-I_{0}),}\\\\ {t_{f}/m,}\\\\ \\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          687,
-          335,
-          808.44,
-          335,
-          808.44,
-          416.99,
-          687,
-          416.99
-        ],
-        "anno_id": 127,
-        "order": 119,
-        "ignore": false,
-        "page_id": 8,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{aligned}&if x^{*}=0,\\\\&if x^{*}\\in(0,t_{f}),\\\\&if x^{*}=t_{f}.\\end{aligned}\\]"
+        "latex": "\\[\\mathcal{E}(x^{*})=\\begin{cases}{(1-I(t_{f}))/{(1-I_{0})},}&\\mathrm{if}~x^{*}=0,\\\\ {(1+x^{*}-m I_{0})/m(1-I_{0}),}&\\mathrm{if}~x^{*}\\in(0,t_{f}),\\\\ {t_{f}/m,}&\\mathrm{if}~x^{*}=t_{f}.\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -936620,10 +936536,10 @@
         "category_type": "equation_isolated",
         "poly": [
           458.55,
-          677.38,
-          592.12,
-          677.38,
-          592.12,
+          677,
+          694,
+          677,
+          694,
           753.41,
           458.55,
           753.41
@@ -936634,28 +936550,7 @@
         "page_id": 12,
         "block_fenduan": "",
         "block_bbox_type": "BBOX",
-        "latex": "\\[c^{*}(\\Phi)\\in\\begin{cases}\\{0\\}&\\\\ [0,\\frac{1}{m}]&\\\\ \\{\\frac{1}{m}\\}&\\end{cases}\\]"
-      },
-      {
-        "label": "公式",
-        "category_type": "equation_isolated",
-        "poly": [
-          609,
-          677,
-          694,
-          677,
-          694,
-          749,
-          609,
-          749
-        ],
-        "anno_id": 211,
-        "order": 199,
-        "ignore": false,
-        "page_id": 12,
-        "block_fenduan": "",
-        "block_bbox_type": "BBOX",
-        "latex": "\\[\\begin{array}{r l}&{\\mathrm{i f~}\\Phi<\\frac{1}{m},}\\\\ &{\\mathrm{i f~}\\Phi=\\frac{1}{m},}\\\\ &{\\mathrm{e l s e.}}\\end{array}\\]"
+        "latex": "\\[c^{*}(\\Phi)\\in\\begin{cases}\\{0\\}&\\mathrm{if}~\\Phi<\\frac{1}{m},\\\\ {[0,\\frac{1}{m}]}&\\mathrm{if}~\\Phi=\\frac{1}{m},\\\\ \\{\\frac{1}{m}\\}&\\mathrm{else.}\\end{cases}\\]"
       },
       {
         "label": "段落",
@@ -941773,22 +941668,12 @@
         },
         {
           "source_anno_id": 18,
-          "target_anno_id": 57,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 18,
           "target_anno_id": 58,
           "relation_type": "parent_son"
         },
         {
           "source_anno_id": 18,
           "target_anno_id": 59,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 18,
-          "target_anno_id": 60,
           "relation_type": "parent_son"
         },
         {
@@ -941963,11 +941848,6 @@
         },
         {
           "source_anno_id": 86,
-          "target_anno_id": 97,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 86,
           "target_anno_id": 98,
           "relation_type": "parent_son"
         },
@@ -942099,11 +941979,6 @@
         {
           "source_anno_id": 106,
           "target_anno_id": 126,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 106,
-          "target_anno_id": 127,
           "relation_type": "parent_son"
         },
         {
@@ -942499,11 +942374,6 @@
         {
           "source_anno_id": 144,
           "target_anno_id": 210,
-          "relation_type": "parent_son"
-        },
-        {
-          "source_anno_id": 144,
-          "target_anno_id": 211,
           "relation_type": "parent_son"
         },
         {
