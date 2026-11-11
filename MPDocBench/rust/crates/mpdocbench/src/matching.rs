@@ -377,9 +377,33 @@ struct Fuzzy<'a> {
     /// sub_pred_fuzzy_matching(gt[g], pred[p]) → None for Python's False
     sub_pred: HashMap<(usize, usize), Option<f64>>,
     pred_patterns: HashMap<usize, Pattern>,
+    gt_hist: Vec<Option<lev::Hist>>,
+    pred_hist: Vec<Option<lev::Hist>>,
 }
 
 impl<'a> Fuzzy<'a> {
+    fn new(gt: &'a [Vec<u32>], pred: &'a [Vec<u32>]) -> Fuzzy<'a> {
+        Fuzzy {
+            gt,
+            pred,
+            sub_pred: HashMap::new(),
+            pred_patterns: HashMap::new(),
+            gt_hist: (0..gt.len()).map(|_| None).collect(),
+            pred_hist: (0..pred.len()).map(|_| None).collect(),
+        }
+    }
+
+    /// inter(gt[g], pred[p]) with cached histograms.
+    fn inter(&mut self, g: usize, p: usize) -> usize {
+        if self.gt_hist[g].is_none() {
+            self.gt_hist[g] = Some(lev::hist(&self.gt[g]));
+        }
+        if self.pred_hist[p].is_none() {
+            self.pred_hist[p] = Some(lev::hist(&self.pred[p]));
+        }
+        lev::inter(self.gt_hist[g].as_ref().unwrap(), self.pred_hist[p].as_ref().unwrap())
+    }
+
     /// min over windows of gt (length len(pred)) of Lev(window, pred) / len(pred).
     fn sub_pred(&mut self, g: usize, p: usize) -> Option<f64> {
         if let Some(v) = self.sub_pred.get(&(g, p)) {
@@ -388,10 +412,17 @@ impl<'a> Fuzzy<'a> {
         let gt = &self.gt[g];
         let pr = &self.pred[p];
         let r = if gt.len() >= pr.len() && !pr.is_empty() {
-            let pat = self.pred_patterns.entry(p).or_insert_with(|| Pattern::new(pr));
             // only compared against 0.6 (`> 0.6`, `< 0.6`): exact below the first k/m > 0.6
-            let cap = first_k(pr.len(), |d| d > 0.6);
-            Some(lev::min_window_capped(gt, pat, cap) as f64 / pr.len() as f64)
+            let w = pr.len();
+            let cap = first_k(w, |d| d > 0.6);
+            // every window's distance is >= w - inter(gt, pred): skip when that already reaches cap
+            if w - self.inter(g, p).min(w) >= cap {
+                Some(cap as f64 / w as f64)
+            } else {
+                let gt = &self.gt[g];
+                let pat = self.pred_patterns.entry(p).or_insert_with(|| Pattern::new(&self.pred[p]));
+                Some(lev::min_window_capped(gt, pat, cap) as f64 / w as f64)
+            }
         } else {
             None
         };
@@ -406,10 +437,15 @@ fn first_k(m: usize, pred: impl Fn(f64) -> bool) -> usize {
 }
 
 /// sub_gt_fuzzy_matching(pred, gt)[0], exact whenever it is below 0.4 (the only test applied).
-fn sub_gt_fuzzy(pred: &[u32], gt: &[u32], gt_pat: &Pattern) -> f64 {
+/// `common` is inter(pred, gt): every window's distance is >= len(gt) - common.
+fn sub_gt_fuzzy(pred: &[u32], gt: &[u32], gt_pat: &Pattern, common: usize) -> f64 {
     if pred.len() >= gt.len() && !gt.is_empty() {
-        let cap = first_k(gt.len(), |d| d >= 0.4);
-        lev::min_window_capped(pred, gt_pat, cap) as f64 / gt.len() as f64
+        let w = gt.len();
+        let cap = first_k(w, |d| d >= 0.4);
+        if w - common.min(w) >= cap {
+            return cap as f64 / w as f64;
+        }
+        lev::min_window_capped(pred, gt_pat, cap) as f64 / w as f64
     } else {
         1.0
     }
@@ -436,16 +472,8 @@ fn judge_pred_merge(fz: &mut Fuzzy, g: usize, ks: &[usize]) -> (bool, bool) {
     if ks.len() == 1 {
         return (false, false);
     }
-    let gt = &fz.gt[g];
-    let cur: Vec<&Vec<u32>> = ks[..ks.len() - 1].iter().map(|&k| &fz.pred[k]).collect();
-    let all: Vec<&Vec<u32>> = ks.iter().map(|&k| &fz.pred[k]).collect();
-    let cur_pred = join_chars(&cur);
-    let merged_pred = join_chars(&all);
-    let cur_dist = ndist(gt, &cur_pred);
-    let merged_dist = ndist(gt, &merged_pred);
-    if merged_dist > cur_dist {
-        return (false, false);
-    }
+    // The original computes the two full distances first; every test here is pure, so testing
+    // the (cached, bounded) fuzzy windows first gives the same result far more cheaply.
     for &k in &ks[..ks.len() - 1] {
         match fz.sub_pred(g, k) {
             None => return (false, false),
@@ -457,6 +485,16 @@ fn judge_pred_merge(fz: &mut Fuzzy, g: usize, ks: &[usize]) -> (bool, bool) {
         None => return (false, false),
         Some(d) => d,
     };
+    let gt = &fz.gt[g];
+    let cur: Vec<&Vec<u32>> = ks[..ks.len() - 1].iter().map(|&k| &fz.pred[k]).collect();
+    let all: Vec<&Vec<u32>> = ks.iter().map(|&k| &fz.pred[k]).collect();
+    let cur_pred = join_chars(&cur);
+    let merged_pred = join_chars(&all);
+    let cur_dist = ndist(gt, &cur_pred);
+    let merged_dist = ndist(gt, &merged_pred);
+    if merged_dist > cur_dist {
+        return (false, false);
+    }
     (add < 0.6, merged_pred.len() <= fz.gt[g].len())
 }
 
@@ -486,7 +524,7 @@ fn cal_final_match(
     }
     let unmasked_gt: Vec<usize> = (0..nr).filter(|&i| !masked_gt[i]).collect();
     let unmasked_pred: Vec<usize> = (0..nc).filter(|&j| !masked_pred[j]).collect();
-    let mut fz = Fuzzy { gt, pred, sub_pred: HashMap::new(), pred_patterns: HashMap::new() };
+    let mut fz = Fuzzy::new(gt, pred);
     let mut subset_certain: Vec<Vec<usize>> = Vec::new();
     let mut subset_cost: Vec<f64> = Vec::new();
     for &g in &unmasked_gt {
@@ -511,13 +549,15 @@ fn cal_final_match(
             }
             let run: Vec<usize> = (p..p + step).collect();
             let line = join_chars(&run.iter().map(|&k| &pred[k]).collect::<Vec<_>>());
-            let d = if gt[g].is_empty() && line.is_empty() {
-                f64::NAN // ZeroDivisionError in Python; cannot happen (lines are non-empty)
-            } else if line.len() >= gt[g].len() || true {
-                gpat.as_ref().unwrap().distance(&line) as f64 / line.len().max(gt[g].len()) as f64
-            } else {
-                unreachable!()
-            };
+            let maxlen = line.len().max(gt[g].len());
+            // only a strictly smaller d replaces `best`: skip when a lower bound already can't
+            if let Some((b, _)) = &best {
+                let common = if step == 1 { fz.inter(g, p) } else { lev::inter(&lev::hist(&gt[g]), &lev::hist(&line)) };
+                if (maxlen - common.min(maxlen)) as f64 / maxlen as f64 >= *b {
+                    continue;
+                }
+            }
+            let d = gpat.as_ref().unwrap().distance(&line) as f64 / maxlen as f64;
             // min() keeps the first minimum, like list.index(min(...))
             if best.as_ref().map_or(true, |(b, _)| d < *b) {
                 best = Some((d, run));
@@ -1208,10 +1248,12 @@ pub fn match_gt2pred_quick(gt_items: &[V], pred_items_in: &[V], img_name: &str, 
     let mut matching: Vec<(usize, Vec<usize>)> = Vec::new();
     if !unmatched_gt.is_empty() {
         let gpats: Vec<Pattern> = unmatched_gt.iter().map(|&g| Pattern::new(&no_gtc[g])).collect();
+        let ghists: Vec<lev::Hist> = unmatched_gt.iter().map(|&g| lev::hist(&no_gtc[g])).collect();
         for (p, pcont) in no_pc.iter().enumerate() {
             let mut idx = Vec::new();
+            let phist = lev::hist(pcont);
             for (k, &g) in unmatched_gt.iter().enumerate() {
-                if sub_gt_fuzzy(pcont, &no_gtc[g], &gpats[k]) < 0.4 {
+                if sub_gt_fuzzy(pcont, &no_gtc[g], &gpats[k], lev::inter(&phist, &ghists[k])) < 0.4 {
                     idx.push(g);
                 }
             }

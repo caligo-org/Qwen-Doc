@@ -190,6 +190,42 @@ pub fn distance(a: &[u32], b: &[u32]) -> usize {
     }
 }
 
+/// Sorted (symbol, count) histogram of a sequence, for cheap Levenshtein lower bounds.
+pub struct Hist(Vec<(u32, u32)>);
+
+pub fn hist(v: &[u32]) -> Hist {
+    let mut s = v.to_vec();
+    s.sort_unstable();
+    let mut out: Vec<(u32, u32)> = Vec::new();
+    for c in s {
+        match out.last_mut() {
+            Some((x, n)) if *x == c => *n += 1,
+            _ => out.push((c, 1)),
+        }
+    }
+    Hist(out)
+}
+
+/// Size of the multiset intersection. For any sequences a, b:
+/// Lev(a, b) >= max(len a, len b) - inter(a, b), and for a window w of a,
+/// inter(w, b) <= inter(a, b).
+pub fn inter(a: &Hist, b: &Hist) -> usize {
+    let (a, b) = (&a.0, &b.0);
+    let (mut i, mut j, mut n) = (0, 0, 0usize);
+    while i < a.len() && j < b.len() {
+        if a[i].0 == b[j].0 {
+            n += a[i].1.min(b[j].1) as usize;
+            i += 1;
+            j += 1;
+        } else if a[i].0 < b[j].0 {
+            i += 1;
+        } else {
+            j += 1;
+        }
+    }
+    n
+}
+
 pub fn chars(s: &str) -> Vec<u32> {
     s.chars().map(|c| c as u32).collect()
 }

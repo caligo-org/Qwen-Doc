@@ -164,9 +164,12 @@ fn main() {
 
 fn run_task(args: &Args, tcfg: &V, t0: Instant) {
     let metric_keys: Vec<String> = tcfg.get("metrics").as_dict().map(|d| d.keys().cloned().collect()).unwrap_or_default();
-    let skip_text = !metric_keys.is_empty()
-        && !metric_keys.iter().any(|k| ["text_block", "merged_text_block", "display_formula", "reading_order"].contains(&k.as_str()));
-    let opts = Opts { marathon: args.marathon, skip_text };
+    let wants = |ks: &[&str]| metric_keys.is_empty() || metric_keys.iter().any(|k| ks.contains(&k.as_str()));
+    let opts = Opts {
+        marathon: args.marathon,
+        skip_quick: !wants(&["text_block", "display_formula", "reading_order"]),
+        skip_merged: !wants(&["merged_text_block"]),
+    };
     let ds = tcfg.get("dataset");
     let gt_path = ds.get("ground_truth").get("data_path").py_str();
     let pred_path = ds.get("prediction").get("data_path").py_str();

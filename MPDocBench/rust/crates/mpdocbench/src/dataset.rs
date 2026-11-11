@@ -12,9 +12,11 @@ use std::collections::HashMap;
 pub struct Opts {
     /// MarathonDocBench evaluator patch semantics
     pub marathon: bool,
-    /// no requested element uses the text match (text_block, merged_text_block,
-    /// display_formula, reading_order): skip it; the other elements do not depend on it
-    pub skip_text: bool,
+    /// no requested element uses the quick text match (text_block, display_formula,
+    /// reading_order): skip it; no other element depends on it
+    pub skip_quick: bool,
+    /// merged_text_block is not requested: skip its simple match
+    pub skip_merged: bool,
 }
 
 /// Hashable form of a GT `anno_id` (ints in both benchmarks).
@@ -565,7 +567,7 @@ pub fn process_get_matched_elements(sample: &V, pred_content: &str, img_name: &s
     let head = HeadSample { sample: V::from(hs), relations: rels, nodes: head_nodes, pred: md_heads };
 
     // `simple`: the original's func_timeout fallback (match_gt2pred_simple) for this document
-    let matched = if opts.skip_text {
+    let matched = if opts.skip_quick {
         Vec::new()
     } else if simple {
         match_gt2pred_simple(&gt_mix, &pred_mix, LineType::TextAll, img_name, mk).0
@@ -575,7 +577,7 @@ pub fn process_get_matched_elements(sample: &V, pred_content: &str, img_name: &s
 
     let merged_gt_mix: Vec<V> =
         gt_mix.iter().filter(|g| g.get("is_merged").as_str() == Some("text_block")).cloned().collect();
-    let (m, _) = if opts.skip_text {
+    let (m, _) = if opts.skip_merged {
         (Vec::new(), None)
     } else {
         match_gt2pred_simple(&merged_gt_mix, &pred_mix, LineType::TextAll, img_name, mk)
