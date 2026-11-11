@@ -87,8 +87,8 @@ class HeadTEDS(object):
         This writes every annotated heading at its annotated depth, in reading order (the anno_id
         order that build_json_head_tree sorts children by), and builds the tree from those levels with
         the same rule as build_md_head_tree. A tree whose pre-order is reading order comes out
-        unchanged; otherwise only the parents that levels cannot express change. Text, order and the
-        number of headings are kept.
+        unchanged; otherwise only the parents that levels cannot express change. Order and the number
+        of headings are kept; each text is written as one heading line carries it (markdown_text).
         """
         nodes = []
         stack = [(root, 0)]
@@ -102,13 +102,23 @@ class HeadTEDS(object):
         new_root = TedsHeadNode(root.content, 0, root.order)
         path = [new_root]
         for node, depth in nodes:
-            cur_node = TedsHeadNode(node.content, depth, node.order)
+            cur_node = TedsHeadNode(self.markdown_text(node.content), depth, node.order)
             while depth <= path[-1].depth:
                 path.pop()
             cur_node.parent = path[-1]
             path[-1].children.append(cur_node)
             path.append(cur_node)
         return new_root
+
+    @staticmethod
+    def markdown_text(text):
+        """Annotated heading text as one Markdown heading line can carry it.
+
+        A heading line ends at a line break, and build_md_head_tree strips the predicted text. So a line
+        break inside the text, with the whitespace around it, becomes one space (as Markdown renders a
+        soft line break), and leading and trailing whitespace is removed. Other text is kept.
+        """
+        return re.sub(r'\s*\n\s*', ' ', text).strip()
 
     def get_max_depth(self, node):
         """返回节点（root）下的最大深度（root 不计入深度）。
