@@ -131,6 +131,19 @@ code_block_reg = re.compile(
     re.DOTALL
 )
 
+def remove_latex_style(content):
+    """Unwrap \\title{}, \\text{} and \\section{} as md_tex_filter does for predictions.
+
+    metrics/head_metric.py applies the same to ground-truth heading text.
+    """
+    content = re.sub(r'\\title\{(.*?)\}', r'\1', content)
+    content = re.sub(r'\\title\s*\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
+    content = re.sub(r'\\text\s*\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
+    content = re.sub(r'\\section\*?\{(.*?)\}', r'\1', content)
+    content = re.sub(r'\\section\*?\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
+    return content
+
+
 def md_tex_filter(content):
     '''
     Input: 1 page md or tex content - String
@@ -348,12 +361,7 @@ def md_tex_filter(content):
 
     # print('----------After delete extracted: \n', content)
 
-    # Remove latex style
-    content = re.sub(r'\\title\{(.*?)\}', r'\1', content)
-    content = re.sub(r'\\title\s*\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
-    content = re.sub(r'\\text\s*\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
-    content = re.sub(r'\\section\*?\{(.*?)\}', r'\1', content)
-    content = re.sub(r'\\section\*?\{\s*(.*?)\s*\}', r'\1', content, flags=re.DOTALL)
+    content = remove_latex_style(content)
 
     # extract texts
     res = content.split('\n\n')
