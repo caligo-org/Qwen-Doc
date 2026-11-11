@@ -62,17 +62,53 @@ class HeadTEDS(object):
 
         if isinstance(node_list_gold, list) and (len(node_list_gold) == 0 or isinstance(node_list_gold[0], str)):
             gold_tree = self.build_md_head_tree(node_list_gold)
+            gold_depth = self.get_max_depth(gold_tree)
         elif isinstance(node_list_gold, list) and len(node_list_gold) == 2 and isinstance(node_list_gold[0], list) and isinstance(node_list_gold[1], dict):
-            gold_tree = self.build_json_head_tree(node_list_gold)
+            annotated_tree = self.build_json_head_tree(node_list_gold)
+            gold_depth = self.get_max_depth(annotated_tree)
+            gold_tree = self.markdown_head_tree(annotated_tree)
         else:
             print(node_list_gold)
             raise TypeError('Invalid node list')
-            
-        tree_distance = APTED(pred_tree, gold_tree, TedsHeadConfig()).compute_edit_distance()   
+
+        tree_distance = APTED(pred_tree, gold_tree, TedsHeadConfig()).compute_edit_distance()
         pred_count = self.count_nodes(pred_tree)
         gold_count = self.count_nodes(gold_tree)
         teds = 1.0 - (float(tree_distance) / max(gold_count, pred_count))
-        return teds, self.get_max_depth(gold_tree)
+        return teds, gold_depth
+
+    def markdown_head_tree(self, root):
+        """The annotated heading tree as a Markdown heading list can express it.
+
+        A prediction lists its headings in reading order, and build_md_head_tree makes each heading's
+        parent the nearest preceding heading with a smaller level. So a prediction can only express a
+        tree whose pre-order is reading order. An annotated parent that a heading of the same or a
+        smaller depth has already closed, or that comes after its child, cannot be written as levels.
+        This writes every annotated heading at its annotated depth, in reading order (the anno_id
+        order that build_json_head_tree sorts children by), and builds the tree from those levels with
+        the same rule as build_md_head_tree. A tree whose pre-order is reading order comes out
+        unchanged; otherwise only the parents that levels cannot express change. Text, order and the
+        number of headings are kept.
+        """
+        nodes = []
+        stack = [(root, 0)]
+        while stack:
+            node, depth = stack.pop()
+            if node is not root:
+                nodes.append((node, depth))
+            stack.extend((child, depth + 1) for child in node.children)
+        nodes.sort(key=lambda item: item[0].order)
+
+        new_root = TedsHeadNode(root.content, 0, root.order)
+        path = [new_root]
+        for node, depth in nodes:
+            cur_node = TedsHeadNode(node.content, depth, node.order)
+            while depth <= path[-1].depth:
+                path.pop()
+            cur_node.parent = path[-1]
+            path[-1].children.append(cur_node)
+            path.append(cur_node)
+        return new_root
 
     def get_max_depth(self, node):
         """返回节点（root）下的最大深度（root 不计入深度）。
