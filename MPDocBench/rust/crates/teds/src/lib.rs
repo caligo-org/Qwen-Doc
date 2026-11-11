@@ -3,8 +3,12 @@
 //! * [`teds`]: `metrics/table_metric.py::TEDS(structure_only).evaluate(pred, true)`
 //!   (HTML parsed with libxml2's HTML parser the way lxml 5.3.0 does it);
 //! * [`head_teds`]: `metrics/head_metric.py::HeadTEDS().evaluate(pred, gold)`;
-//! * [`tree_edit_distance`]: the exact ordered tree edit distance both use (APTED's result).
+//! * [`apted()`]: a faithful port of Python `apted` 1.0.3, which both metrics use. It is not
+//!   always optimal, and the scores are defined by what it returns;
+//! * [`tree_edit_distance`]: an exact (optimal) ordered tree edit distance (Zhang–Shasha),
+//!   for reference and other uses.
 
+mod apted;
 mod compat;
 mod head;
 pub mod html;
@@ -13,6 +17,7 @@ pub mod pystr;
 mod table;
 mod ted;
 
+pub use apted::apted;
 pub use head::{head_teds, markdown_text, HeadId, HeadNode};
 pub use table::{debug_parse, teds, DebugNode};
 pub use ted::{tree_edit_distance, unit_tree_edit_distance};
@@ -34,6 +39,8 @@ pub enum Error {
     HeadingSplit,
     /// `RecursionError`: the annotated heading relations have a cycle reachable from the root.
     Cycle,
+    /// `IndexError` inside apted.
+    Apted,
 }
 
 impl std::fmt::Display for Error {

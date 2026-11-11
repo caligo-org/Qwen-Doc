@@ -31,7 +31,10 @@ fn main() {
         if got != want {
             bad += 1;
             if bad <= show {
-                println!("MISMATCH line {lineno}: html={:?}", html.chars().take(400).collect::<String>());
+                println!(
+                    "MISMATCH line {lineno}: html={:?}",
+                    html.chars().take(400).collect::<String>()
+                );
                 if let (Some(g), Some(w)) = (got["nodes"].as_array(), want["nodes"].as_array()) {
                     println!("  n rust={} python={}", got["n"], want["n"]);
                     for (k, (a, b)) in g.iter().zip(w.iter()).enumerate() {
@@ -44,10 +47,17 @@ fn main() {
                         println!("  node count rust={} python={}", g.len(), w.len());
                     }
                 } else {
-                    println!("  rust={} python={}", got.to_string().chars().take(200).collect::<String>(), want.to_string().chars().take(200).collect::<String>());
+                    println!(
+                        "  rust={} python={}",
+                        got.to_string().chars().take(200).collect::<String>(),
+                        want.to_string().chars().take(200).collect::<String>()
+                    );
                 }
             }
         }
     }
-    println!("{}: {n} documents ({skipped} skipped), {bad} parse mismatches", args[1]);
+    println!(
+        "{}: {n} documents ({skipped} skipped), {bad} parse mismatches",
+        args[1]
+    );
 }

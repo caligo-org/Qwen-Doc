@@ -3,7 +3,6 @@
 
 use crate::lev::Pattern;
 use crate::pystr::{is_py_space, py_strip};
-use crate::ted::unit_tree_edit_distance;
 use crate::Error;
 use std::collections::HashMap;
 
@@ -34,7 +33,10 @@ struct Tree {
 
 impl Tree {
     fn new_root() -> Tree {
-        Tree { content: vec![chars("root")], children: vec![Vec::new()] }
+        Tree {
+            content: vec![chars("root")],
+            children: vec![Vec::new()],
+        }
     }
 
     fn add(&mut self, parent: usize, content: Vec<u32>) -> usize {
@@ -204,9 +206,9 @@ fn build_json_head_tree(
     map.insert(HeadId::Root, 0);
     for &(s, t) in relations {
         for id in [s, t] {
-            if !map.contains_key(&id) {
+            if let std::collections::hash_map::Entry::Vacant(e) = map.entry(id) {
                 let item = items.get(&id).ok_or(Error::MissingNode)?;
-                map.insert(id, arena.len());
+                e.insert(arena.len());
                 map_order.push(id);
                 arena.push(JsonNode {
                     text: item.text.clone(),
@@ -267,7 +269,12 @@ fn get_max_depth(arena: &[JsonNode]) -> Result<i64, Error> {
         } else {
             stack.pop();
             state[n] = 2;
-            depth[n] = 1 + arena[n].children.iter().map(|&c| depth[c]).max().unwrap_or(0);
+            depth[n] = 1 + arena[n]
+                .children
+                .iter()
+                .map(|&c| depth[c])
+                .max()
+                .unwrap_or(0);
         }
     }
     Ok(arena[0].children.iter().map(|&c| depth[c]).max().unwrap())
@@ -306,18 +313,20 @@ pub fn head_teds(
     let gold_depth = get_max_depth(&annotated)?;
     let gold_tree = markdown_head_tree(&annotated)?;
     let patterns: Vec<Pattern> = pred_tree.content.iter().map(|c| Pattern::new(c)).collect();
-    let distance =
-        unit_tree_edit_distance(&pred_tree.children, 0, &gold_tree.children, 0, |i, j| {
-            let (a, b) = (&pred_tree.content[i], &gold_tree.content[j]);
-            if a.is_empty() && b.is_empty() {
-                return 0.0;
-            }
-            let d = if a == b { 0 } else { patterns[i].distance(b) };
-            d as f64 / a.len().max(b.len()) as f64
-        });
+    let distance = crate::apted::apted(&pred_tree.children, 0, &gold_tree.children, 0, |i, j| {
+        let (a, b) = (&pred_tree.content[i], &gold_tree.content[j]);
+        if a.is_empty() && b.is_empty() {
+            return 0.0;
+        }
+        let d = if a == b { 0 } else { patterns[i].distance(b) };
+        d as f64 / a.len().max(b.len()) as f64
+    })?;
     let pred_count = pred_tree.content.len();
     let gold_count = gold_tree.content.len();
-    Ok((1.0 - distance / pred_count.max(gold_count) as f64, gold_depth))
+    Ok((
+        1.0 - distance / pred_count.max(gold_count) as f64,
+        gold_depth,
+    ))
 }
 
 #[cfg(test)]

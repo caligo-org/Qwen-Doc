@@ -147,7 +147,10 @@ unsafe fn collect_text(n: Node) -> Option<String> {
 
 /// lxml `_isElement`
 unsafe fn is_lxml_element(n: Node) -> bool {
-    matches!(node_type(n), ELEMENT_NODE | COMMENT_NODE | ENTITY_REF_NODE | PI_NODE)
+    matches!(
+        node_type(n),
+        ELEMENT_NODE | COMMENT_NODE | ENTITY_REF_NODE | PI_NODE
+    )
 }
 
 unsafe fn get_prop(n: Node, name: &CStr) -> Option<String> {
@@ -191,7 +194,12 @@ unsafe fn build(table: Node) -> Table {
             ),
             // _ProcessingInstruction / __ContentOnlyElement .text
             PI_NODE => (Tag::Pi, None, None, Some(cstr(ffi::teds_node_content(n)))),
-            COMMENT_NODE => (Tag::Comment, None, None, Some(cstr(ffi::teds_node_content(n)))),
+            COMMENT_NODE => (
+                Tag::Comment,
+                None,
+                None,
+                Some(cstr(ffi::teds_node_content(n))),
+            ),
             _ => (Tag::Entity, None, None, None),
         };
         elems.push(Elem {
@@ -219,7 +227,10 @@ unsafe fn build(table: Node) -> Table {
             }
         }
     }
-    Table { descendant_elements: count_descendant_elements(table), elems }
+    Table {
+        descendant_elements: count_descendant_elements(table),
+        elems,
+    }
 }
 
 /// lxml `__HAS_XML_ENCODING`:
@@ -279,9 +290,8 @@ fn looks_like_full_html(s: &str) -> bool {
     let Some(t) = t.strip_prefix('<') else {
         return false;
     };
-    let starts_ci = |p: &str| {
-        t.len() >= p.len() && t.as_bytes()[..p.len()].eq_ignore_ascii_case(p.as_bytes())
-    };
+    let starts_ci =
+        |p: &str| t.len() >= p.len() && t.as_bytes()[..p.len()].eq_ignore_ascii_case(p.as_bytes());
     starts_ci("html") || starts_ci("!doctype")
 }
 
@@ -313,7 +323,9 @@ fn python_buffer(s: &str) -> (Vec<u8>, &'static CStr) {
 pub fn parse_table(s: &str) -> Result<Option<Table>, Error> {
     INIT.call_once(|| unsafe { ffi::teds_init() });
     if has_encoding_declaration(s) {
-        return Err(Error::Parse("Unicode strings with encoding declaration are not supported"));
+        return Err(Error::Parse(
+            "Unicode strings with encoding declaration are not supported",
+        ));
     }
     let emulated;
     let input = if libxml_version() < 21200 {
@@ -323,7 +335,10 @@ pub fn parse_table(s: &str) -> Result<Option<Table>, Error> {
         s
     };
     let (buf, encoding) = python_buffer(input);
-    let len: c_int = buf.len().try_into().map_err(|_| Error::Parse("input too large"))?;
+    let len: c_int = buf
+        .len()
+        .try_into()
+        .map_err(|_| Error::Parse("input too large"))?;
     unsafe {
         let doc = ffi::teds_parse(buf.as_ptr() as *const c_char, len, encoding.as_ptr());
         if doc.is_null() {

@@ -157,21 +157,61 @@ fn name_end(c: &[char], mut j: usize) -> usize {
 
 fn starts_with_ci(c: &[char], at: usize, word: &str) -> bool {
     let w: Vec<char> = word.chars().collect();
-    at + w.len() <= c.len() && c[at..at + w.len()].iter().zip(&w).all(|(a, b)| a.to_ascii_lowercase() == *b)
+    at + w.len() <= c.len()
+        && c[at..at + w.len()]
+            .iter()
+            .zip(&w)
+            .all(|(a, b)| a.to_ascii_lowercase() == *b)
 }
+
+/// Elements libxml2 never keeps open (`htmlNoContentElements`-like empty elements).
+const VOID: &[&str] = &[
+    "area", "base", "basefont", "br", "col", "embed", "frame", "hr", "img", "input", "isindex",
+    "keygen", "link", "meta", "param", "source", "track", "wbr",
+];
 
 pub fn emulate_libxml2_2_12(s: &str) -> String {
     let c: Vec<char> = s.chars().collect();
     let n = c.len();
     let mut out = String::with_capacity(s.len() + 16);
     let mut raw: Option<&'static str> = None;
+    let mut open: Vec<String> = Vec::new();
     let mut i = 0;
     let push = |out: &mut String, from: usize, to: usize| out.extend(&c[from..to]);
     while i < n {
         if let Some(name) = raw {
+            // The content loop looks for an end tag before it hands over to the script
+            // parser, so `</` right at the start of the raw text is markup.
+            if c[i] == '<' && c.get(i + 1) == Some(&'/') {
+                if c.get(i + 2).is_some_and(|&x| is_name_start(x)) {
+                    // An end tag of the script/style or of an ancestor closes it; one for
+                    // an element that is not open is ignored and the raw text goes on.
+                    // (`open` is a rough model of the parser's element stack.)
+                    let name_end = name_end(&c, i + 2);
+                    let end = past_gt(&c, name_end);
+                    out.push_str("</");
+                    push_name(&mut out, &c, i + 2, name_end);
+                    push(&mut out, name_end, end);
+                    let tag: String = c[i + 2..name_end]
+                        .iter()
+                        .map(|x| x.to_ascii_lowercase())
+                        .collect();
+                    if let Some(k) = open.iter().rposition(|t| *t == tag) {
+                        open.truncate(k);
+                        raw = None;
+                    }
+                    i = end;
+                } else {
+                    push(&mut out, i, i + 2);
+                    i += 2;
+                }
+                continue;
+            }
             // script/style content runs to `</` + the element name (recovery mode).
             let mut j = i;
-            while j < n && !(c[j] == '<' && c.get(j + 1) == Some(&'/') && starts_with_ci(&c, j + 2, name)) {
+            while j < n
+                && !(c[j] == '<' && c.get(j + 1) == Some(&'/') && starts_with_ci(&c, j + 2, name))
+            {
                 j += 1;
             }
             push(&mut out, i, j);
@@ -191,6 +231,9 @@ pub fn emulate_libxml2_2_12(s: &str) -> String {
             i = end;
             if tag == name {
                 raw = None;
+                if let Some(k) = open.iter().rposition(|t| t == name) {
+                    open.truncate(k);
+                }
             }
             continue;
         }
@@ -224,7 +267,9 @@ pub fn emulate_libxml2_2_12(s: &str) -> String {
                 }
             }
             Some('?') => {
-                let start = c.get(i + 2).is_some_and(|&x| x == '_' || x == ':' || x.is_alphabetic());
+                let start = c
+                    .get(i + 2)
+                    .is_some_and(|&x| x == '_' || x == ':' || x.is_alphabetic());
                 let end = if start { past_gt(&c, i + 2) } else { i + 2 };
                 push(&mut out, i, end);
                 i = end;
@@ -236,6 +281,13 @@ pub fn emulate_libxml2_2_12(s: &str) -> String {
                     out.push_str("</");
                     push_name(&mut out, &c, i + 2, name_end);
                     push(&mut out, name_end, end);
+                    let tag: String = c[i + 2..name_end]
+                        .iter()
+                        .map(|x| x.to_ascii_lowercase())
+                        .collect();
+                    if let Some(k) = open.iter().rposition(|t| *t == tag) {
+                        open.truncate(k);
+                    }
                     i = end;
                 } else {
                     push(&mut out, i, i + 2);
@@ -249,6 +301,9 @@ pub fn emulate_libxml2_2_12(s: &str) -> String {
                 push_name(&mut out, &c, i + 1, name_end);
                 push(&mut out, name_end, end);
                 i = end;
+                if !self_closing && !VOID.contains(&name.as_str()) {
+                    open.push(name.clone());
+                }
                 if !self_closing && end <= n && c[end - 1] == '>' {
                     raw = match name.as_str() {
                         "script" => Some("script"),

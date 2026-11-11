@@ -22,7 +22,12 @@ impl Pattern {
             let k = symbols.binary_search(s).unwrap();
             masks[k * blocks + pos / 64] |= 1u64 << (pos % 64);
         }
-        Pattern { len, blocks, symbols, masks }
+        Pattern {
+            len,
+            blocks,
+            symbols,
+            masks,
+        }
     }
 
     pub fn len(&self) -> usize {

@@ -41,6 +41,56 @@ impl Pattern {
         }
     }
 
+    /// Sellers search: for every end position j of `t`, the minimum distance between the
+    /// pattern and any substring of `t` ending at j (a lower bound for every window that
+    /// ends at j).
+    pub fn search(&self, t: &[u32]) -> Vec<usize> {
+        let m = self.len;
+        let mut out = Vec::with_capacity(t.len());
+        if m == 0 {
+            out.resize(t.len(), 0);
+            return out;
+        }
+        let words = self.words;
+        let mut vp = vec![!0u64; words];
+        let mut vn = vec![0u64; words];
+        let last = 1u64 << ((m - 1) % 64);
+        let mut score = m;
+        for &c in t {
+            let mut hp_carry: u64 = 0; // D[0][j] = 0: no carry-in
+            let mut hn_carry: u64 = 0;
+            let mut add_carry: u64 = 0;
+            for w in 0..words {
+                let pm = self.mask(c, w);
+                let vpw = vp[w];
+                let vnw = vn[w];
+                let x = pm | vnw;
+                let a = x & vpw;
+                let (s1, c1) = a.overflowing_add(vpw);
+                let (s2, c2) = s1.overflowing_add(add_carry);
+                add_carry = (c1 || c2) as u64;
+                let d0 = (s2 ^ vpw) | x;
+                let hp = vnw | !(d0 | vpw);
+                let hn = vpw & d0;
+                if w == words - 1 {
+                    if hp & last != 0 {
+                        score += 1;
+                    } else if hn & last != 0 {
+                        score -= 1;
+                    }
+                }
+                let hp_s = (hp << 1) | hp_carry;
+                hp_carry = hp >> 63;
+                let hn_s = (hn << 1) | hn_carry;
+                hn_carry = hn >> 63;
+                vp[w] = hn_s | !(d0 | hp_s);
+                vn[w] = hp_s & d0;
+            }
+            out.push(score);
+        }
+        out
+    }
+
     /// Distance between the pattern and `t`.
     pub fn distance(&self, t: &[u32]) -> usize {
         let m = self.len;
@@ -149,9 +199,64 @@ pub fn str_distance(a: &str, b: &str) -> usize {
     distance(&chars(a), &chars(b))
 }
 
+/// min over windows `text[i..i+w]` (w = pattern length) of Lev(window, pattern), but only
+/// exactly when it is below `cap`; otherwise returns some value >= `cap`.
+/// Windows are visited cheapest-lower-bound first (Sellers bounds), so most are skipped.
+pub fn min_window_capped(text: &[u32], pat: &Pattern, cap: usize) -> usize {
+    let w = pat.len;
+    debug_assert!(text.len() >= w && w > 0);
+    let bounds = pat.search(text);
+    let mut cand: Vec<(usize, usize)> = (w - 1..text.len()).map(|j| (bounds[j], j + 1 - w)).filter(|&(b, _)| b < cap).collect();
+    cand.sort_unstable();
+    let mut best = cap;
+    for (b, start) in cand {
+        if b >= best {
+            break;
+        }
+        let d = pat.distance(&text[start..start + w]);
+        if d < best {
+            best = d;
+        }
+    }
+    best
+}
+
+/// Plain min over all windows (reference for tests).
+pub fn min_window_naive(text: &[u32], pat: &Pattern) -> usize {
+    let w = pat.len;
+    (0..=text.len() - w).map(|i| pat.distance(&text[i..i + w])).min().unwrap()
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
+    #[test]
+    fn windows() {
+        let mut seed: u64 = 777;
+        let mut rnd = || {
+            seed ^= seed << 13;
+            seed ^= seed >> 7;
+            seed ^= seed << 17;
+            seed
+        };
+        for _ in 0..3000 {
+            let lp = 1 + (rnd() % 150) as usize;
+            let lt = lp + (rnd() % 200) as usize;
+            let alpha = 2 + rnd() % 4;
+            let p: Vec<u32> = (0..lp).map(|_| (rnd() % alpha) as u32 + 97).collect();
+            let t: Vec<u32> = (0..lt).map(|_| (rnd() % alpha) as u32 + 97).collect();
+            let pat = Pattern::new(&p);
+            let exact = min_window_naive(&t, &pat);
+            for cap in [0, 1, exact, exact + 1, lp / 2, lp + 1] {
+                let r = min_window_capped(&t, &pat, cap);
+                if exact < cap {
+                    assert_eq!(r, exact);
+                } else {
+                    assert!(r >= cap);
+                }
+            }
+        }
+    }
     fn naive(a: &[u32], b: &[u32]) -> usize {
         let mut prev: Vec<usize> = (0..=b.len()).collect();
         for i in 1..=a.len() {

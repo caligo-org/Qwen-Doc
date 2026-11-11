@@ -389,7 +389,9 @@ impl<'a> Fuzzy<'a> {
         let pr = &self.pred[p];
         let r = if gt.len() >= pr.len() && !pr.is_empty() {
             let pat = self.pred_patterns.entry(p).or_insert_with(|| Pattern::new(pr));
-            Some(min_window(gt, pr.len(), pat) as f64 / pr.len() as f64)
+            // only compared against 0.6 (`> 0.6`, `< 0.6`): exact below the first k/m > 0.6
+            let cap = first_k(pr.len(), |d| d > 0.6);
+            Some(lev::min_window_capped(gt, pat, cap) as f64 / pr.len() as f64)
         } else {
             None
         };
@@ -398,25 +400,16 @@ impl<'a> Fuzzy<'a> {
     }
 }
 
-/// min_i Lev(text[i..i+w], pattern) for all windows of length w.
-fn min_window(text: &[u32], w: usize, pat: &Pattern) -> usize {
-    let mut best = usize::MAX;
-    for i in 0..=(text.len() - w) {
-        let d = pat.distance(&text[i..i + w]);
-        if d < best {
-            best = d;
-            if d == 0 {
-                break;
-            }
-        }
-    }
-    best
+/// Smallest integer k with `k as f64 / m as f64` passing `pred` (monotone in k).
+fn first_k(m: usize, pred: impl Fn(f64) -> bool) -> usize {
+    (0..=m + 1).find(|&k| pred(k as f64 / m as f64)).unwrap_or(m + 1)
 }
 
-/// sub_gt_fuzzy_matching(pred, gt).0: min over windows of pred (length len(gt)).
+/// sub_gt_fuzzy_matching(pred, gt)[0], exact whenever it is below 0.4 (the only test applied).
 fn sub_gt_fuzzy(pred: &[u32], gt: &[u32], gt_pat: &Pattern) -> f64 {
     if pred.len() >= gt.len() && !gt.is_empty() {
-        min_window(pred, gt.len(), gt_pat) as f64 / gt.len() as f64
+        let cap = first_k(gt.len(), |d| d >= 0.4);
+        lev::min_window_capped(pred, gt_pat, cap) as f64 / gt.len() as f64
     } else {
         1.0
     }

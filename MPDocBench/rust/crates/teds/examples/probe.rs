@@ -6,7 +6,11 @@ fn main() {
             Ok((n, nodes)) => {
                 println!("n={n}");
                 for (d, tag, c, r, toks) in nodes {
-                    println!("{}{tag} {c:?} {r:?} {}", "  ".repeat(d), toks.map(|t| t.concat()).unwrap_or_default());
+                    println!(
+                        "{}{tag} {c:?} {r:?} {}",
+                        "  ".repeat(d),
+                        toks.map(|t| t.concat()).unwrap_or_default()
+                    );
                 }
             }
         }

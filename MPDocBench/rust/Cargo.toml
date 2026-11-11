@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["crates/pylatexenc", "crates/pysoup", "crates/teds", "crates/mpdocbench"]
+members = ["crates/pylatexenc", "crates/pysoup", "crates/teds", "crates/mpdocbench", "crates/cdm"]
 
 [workspace.package]
 edition = "2021"

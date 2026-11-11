@@ -3,8 +3,8 @@
 //! Trees are given as child lists indexed by node id (`children[id]` lists the ids of the
 //! children of `id`, in order) plus a root id; only nodes reachable from the root take part,
 //! and the reachable part must be a tree (each node reached once). Costs are callbacks on
-//! node ids. The result equals APTED's (`apted` 1.0.3) for the same costs: the minimum is
-//! unique, only the floating-point summation order differs.
+//! node ids. This is the optimal distance; Python `apted` 1.0.3 (which the MPDocBench metrics
+//! use, see [`crate::apted()`]) sometimes returns a larger value.
 
 /// Postorder numbering of the nodes reachable from `root`.
 struct Indexed {
@@ -131,7 +131,7 @@ where
     td[n1 * n2 - 1]
 }
 
-/// Tree edit distance with insert and delete cost 1 (APTED's default `Config`).
+/// Optimal tree edit distance with insert and delete cost 1.
 pub fn unit_tree_edit_distance<R>(
     children1: &[Vec<usize>],
     root1: usize,

@@ -3,7 +3,6 @@
 use crate::html::{parse_table, Elem, Table, Tag};
 use crate::lev::Pattern;
 use crate::pystr::py_int;
-use crate::ted::unit_tree_edit_distance;
 use crate::Error;
 use std::collections::HashMap;
 
@@ -105,14 +104,22 @@ fn load_tree(
                 tokenize(elems, ei, interner, &mut toks);
                 toks[1..toks.len() - 1].to_vec()
             };
-            let colspan = py_int(e.colspan.as_deref().unwrap_or("1"))
-                .ok_or(Error::InvalidInt("colspan"))?;
-            let rowspan = py_int(e.rowspan.as_deref().unwrap_or("1"))
-                .ok_or(Error::InvalidInt("rowspan"))?;
+            let colspan =
+                py_int(e.colspan.as_deref().unwrap_or("1")).ok_or(Error::InvalidInt("colspan"))?;
+            let rowspan =
+                py_int(e.rowspan.as_deref().unwrap_or("1")).ok_or(Error::InvalidInt("rowspan"))?;
             let spans = (interner.id(&colspan), interner.id(&rowspan));
-            nodes.push(TNode { tag, spans: Some(spans), content });
+            nodes.push(TNode {
+                tag,
+                spans: Some(spans),
+                content,
+            });
         } else {
-            nodes.push(TNode { tag, spans: None, content: Vec::new() });
+            nodes.push(TNode {
+                tag,
+                spans: None,
+                content: Vec::new(),
+            });
         }
         children.push(Vec::new());
         if parent != usize::MAX {
@@ -141,7 +148,9 @@ pub fn teds(pred: &str, gt: &str, structure_only: bool) -> Result<f64, Error> {
     let (Some(pred_table), Some(gt_table)) = (pred_table, gt_table) else {
         return Ok(0.0);
     };
-    let n_nodes = pred_table.descendant_elements.max(gt_table.descendant_elements);
+    let n_nodes = pred_table
+        .descendant_elements
+        .max(gt_table.descendant_elements);
     let mut interner = Interner::default();
     let (c1, n1) = load_tree(&pred_table, structure_only, &mut interner)?;
     let (c2, n2) = load_tree(&gt_table, structure_only, &mut interner)?;
@@ -153,7 +162,7 @@ pub fn teds(pred: &str, gt: &str, structure_only: bool) -> Result<f64, Error> {
         .iter()
         .map(|n| (n.spans.is_some() && !n.content.is_empty()).then(|| Pattern::new(&n.content)))
         .collect();
-    let distance = unit_tree_edit_distance(&c1, 0, &c2, 0, |i, j| {
+    let distance = crate::apted::apted(&c1, 0, &c2, 0, |i, j| {
         let (a, b) = (&n1[i], &n2[j]);
         if a.tag != b.tag || a.spans != b.spans {
             return 1.0;
@@ -173,12 +182,18 @@ pub fn teds(pred: &str, gt: &str, structure_only: bool) -> Result<f64, Error> {
             return d as f64 / max as f64;
         }
         0.0
-    });
+    })?;
     Ok(1.0 - distance / n_nodes as f64)
 }
 
 /// One node of [`debug_parse`]: depth, tag, raw `colspan`/`rowspan` and cell tokens (`td` only).
-pub type DebugNode = (usize, String, Option<String>, Option<String>, Option<Vec<String>>);
+pub type DebugNode = (
+    usize,
+    String,
+    Option<String>,
+    Option<String>,
+    Option<Vec<String>>,
+);
 
 /// Debug view of the parse: the nodes `load_html_tree` visits in pre-order with the raw span
 /// attributes and the (full-mode) cell tokens of `td`s, plus `len(.//*)`.
@@ -202,7 +217,13 @@ pub fn debug_parse(html: &str) -> Result<(usize, Vec<DebugNode>), String> {
             toks_by_elem.push(t.clone());
             t[1..t.len() - 1].to_vec()
         });
-        out.push((d, tag_str(&e.tag).to_owned(), e.colspan.clone(), e.rowspan.clone(), toks));
+        out.push((
+            d,
+            tag_str(&e.tag).to_owned(),
+            e.colspan.clone(),
+            e.rowspan.clone(),
+            toks,
+        ));
         if !td {
             for &c in e.children.iter().rev() {
                 stack.push((c, d + 1));
@@ -216,7 +237,13 @@ pub fn debug_parse(html: &str) -> Result<(usize, Vec<DebugNode>), String> {
     let out = out
         .into_iter()
         .map(|(d, t, c, r, toks)| {
-            (d, t, c, r, toks.map(|v| v.iter().map(|&x| names[x as usize].clone()).collect()))
+            (
+                d,
+                t,
+                c,
+                r,
+                toks.map(|v| v.iter().map(|&x| names[x as usize].clone()).collect()),
+            )
         })
         .collect();
     Ok((table.descendant_elements, out))
