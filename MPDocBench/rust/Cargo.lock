@@ -204,6 +204,7 @@ dependencies = [
 name = "mpdocbench"
 version = "0.1.0"
 dependencies = [
+ "cdm",
  "fancy-regex",
  "indexmap",
  "pylatexenc",

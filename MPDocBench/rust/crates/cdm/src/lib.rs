@@ -134,6 +134,13 @@ pub fn cdm_sample(idx: usize, gt: &str, pred: &str, output_root: &Path, marathon
     Ok(CdmScore { gt, pred, score })
 }
 
+/// Test hook: `normalize_latex` + the `token_add_color_RGB` loop + colour substitution of
+/// `latex2bbox_color` on an already tokenized string. Returns (rgb_latex, token_list).
+#[doc(hidden)]
+pub fn __normalize_and_color(latex: &str) -> Result<(String, Vec<String>), String> {
+    render::normalize_and_color(latex).map_err(|e| e.0)
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -145,11 +152,4 @@ mod tests {
         assert_eq!(clean("\\]", "\\["), ("".into(), "".into()));
         assert_eq!(clean("$\\[a$", "x```"), ("a".into(), "x".into()));
     }
-}
-
-/// Test hook: `normalize_latex` + the `token_add_color_RGB` loop + colour substitution of
-/// `latex2bbox_color` on an already tokenized string. Returns (rgb_latex, token_list).
-#[doc(hidden)]
-pub fn __normalize_and_color(latex: &str) -> Result<(String, Vec<String>), String> {
-    render::normalize_and_color(latex).map_err(|e| e.0)
 }

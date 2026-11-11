@@ -53,27 +53,11 @@ pub fn isprintable(c: char) -> bool {
 pub fn strip(s: &str) -> &str {
     s.trim_matches(isspace)
 }
-pub fn lstrip(s: &str) -> &str {
-    s.trim_start_matches(isspace)
-}
-pub fn rstrip(s: &str) -> &str {
-    s.trim_end_matches(isspace)
-}
 /// Python `s.strip(chars)`.
 pub fn strip_chars<'a>(s: &'a str, chars: &str) -> &'a str {
     s.trim_matches(|c| chars.contains(c))
 }
-pub fn lstrip_chars<'a>(s: &'a str, chars: &str) -> &'a str {
-    s.trim_start_matches(|c| chars.contains(c))
-}
-pub fn rstrip_chars<'a>(s: &'a str, chars: &str) -> &'a str {
-    s.trim_end_matches(|c| chars.contains(c))
-}
 
-/// Python `s.split()` (no separator).
-pub fn split_ws(s: &str) -> Vec<&str> {
-    s.split(isspace).filter(|p| !p.is_empty()).collect()
-}
 
 /// Python `len(s)`.
 pub fn len(s: &str) -> usize {
@@ -110,17 +94,6 @@ pub fn byte_of_char(s: &str, ci: usize) -> usize {
     s.char_indices().nth(ci).map(|(b, _)| b).unwrap_or(s.len())
 }
 
-/// Python `s[a:b]` with code point indices (clamped).
-pub fn slice(s: &str, a: usize, b: usize) -> &str {
-    if s.is_ascii() {
-        let a = a.min(s.len());
-        let b = b.min(s.len()).max(a);
-        return &s[a..b];
-    }
-    let ba = byte_of_char(s, a);
-    let bb = byte_of_char(s, b).max(ba);
-    &s[ba..bb]
-}
 
 /// Python `s.replace(old, new, 1)`.
 pub fn replace_first(s: &str, old: &str, new: &str) -> String {
@@ -144,14 +117,8 @@ pub fn lower(s: &str) -> String {
     s.to_lowercase()
 }
 
-/// Python `s.count(sub)` for a single char.
-pub fn count_char(s: &str, c: char) -> usize {
-    s.chars().filter(|&x| x == c).count()
-}
 
-/// Character class strings to splice into `regex` patterns for Python's `\s` and `\w`.
 pub const RE_S: &str = r"[\s\x1c-\x1f]";
-pub const RE_NOT_S: &str = r"[^\s\x1c-\x1f]";
 
 #[cfg(test)]
 mod tests {
@@ -161,7 +128,6 @@ mod tests {
         assert!(isspace('\u{1c}'));
         assert!(!isspace('\u{200b}'));
         assert_eq!(strip("\u{1f} a \u{3000}"), "a");
-        assert_eq!(split_ws(" a  b\u{1c}c "), vec!["a", "b", "c"]);
         assert!(isalnum('²'));
         assert!(isalnum('一'));
         assert!(!isalnum('\u{94d}')); // devanagari virama (Mn)

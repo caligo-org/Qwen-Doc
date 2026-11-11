@@ -1,0 +1,19 @@
+{"bbox": [], "token": "牙"}
+{"bbox": [], "token": "列"}
+{"bbox": [], "token": "指"}
+{"bbox": [], "token": "数"}
+{"bbox": [7, 20, 31, 29], "token": "="}
+{"bbox": [], "token": "\\frac"}
+{"bbox": [], "token": "牙"}
+{"bbox": [], "token": "列"}
+{"bbox": [], "token": "宽"}
+{"bbox": [], "token": "度"}
+{"bbox": [], "token": "牙"}
+{"bbox": [], "token": "列"}
+{"bbox": [], "token": "长"}
+{"bbox": [], "token": "度"}
+{"bbox": [43, 15, 60, 33], "token": "\\times"}
+{"bbox": [67, 10, 79, 33], "token": "1"}
+{"bbox": [81, 9, 96, 34], "token": "0"}
+{"bbox": [97, 9, 112, 34], "token": "0"}
+{"bbox": [113, 7, 139, 35], "token": "\\%"}

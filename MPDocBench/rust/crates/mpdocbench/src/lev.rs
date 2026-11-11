@@ -222,6 +222,7 @@ pub fn min_window_capped(text: &[u32], pat: &Pattern, cap: usize) -> usize {
 }
 
 /// Plain min over all windows (reference for tests).
+#[cfg(test)]
 pub fn min_window_naive(text: &[u32], pat: &Pattern) -> usize {
     let w = pat.len;
     (0..=text.len() - w).map(|i| pat.distance(&text[i..i + w])).min().unwrap()

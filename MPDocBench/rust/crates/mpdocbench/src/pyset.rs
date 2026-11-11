@@ -164,10 +164,7 @@ impl IntSet {
         self.table.iter().filter_map(|s| if let Slot::Key(k) = s { Some(*k) } else { None })
     }
 
-    pub fn to_vec(&self) -> Vec<i64> {
-        self.iter().collect()
-    }
-
+    
     /// `set(self)` — set_copy via set_merge.
     fn copy(&self) -> IntSet {
         let mut s = IntSet::new();

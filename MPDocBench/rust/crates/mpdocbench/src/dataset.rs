@@ -251,7 +251,6 @@ pub struct MainResult {
 }
 
 pub struct DocResult {
-    pub img_name: String,
     pub figure: Option<V>,
     pub main: Option<MainResult>,
 }
@@ -646,7 +645,7 @@ pub fn process_doc(sample: &V, pred_folder: &std::path::Path, opts: Opts, need_m
     let content = read_md_file(&path).unwrap_or_else(|e| panic!("cannot read {}: {}", path.display(), e));
     let figure = if need_figure { get_figure_matched(sample, &extract::extract_figure_boxes(&content), &img_name) } else { None };
     let main = if need_main { Some(process_get_matched_elements(sample, &content, &img_name, opts, simple)) } else { None };
-    Some(DocResult { img_name, figure, main })
+    Some(DocResult { figure, main })
 }
 
 /// The display-formula → text conversion of get_matched_elements for formulas matched to

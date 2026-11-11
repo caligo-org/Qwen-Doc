@@ -19,7 +19,7 @@ mod pyval;
 use dataset::{DocResult, Opts};
 use pyval::{Map, V};
 use rayon::prelude::*;
-use std::path::{Path, PathBuf};
+use std::path::PathBuf;
 use std::time::Instant;
 
 const USAGE: &str = "usage: mpdocbench-score --config CONFIG.yaml [options]
@@ -35,9 +35,8 @@ options:
                      MarathonDocBench's evaluator patch: utils/mpdocbench_patch)
   --jobs N           documents matched in parallel (default: MPDOC_EVAL_NPROC or all cores)
   --cdm-jobs N       CDM worker processes, one thread each (default: MPDOC_CDM_NPROC or all cores)
-  --python PATH      Python with the toolkit's CDM dependencies (default: $MPDOC_PYTHON or python3)
-  --toolkit DIR      toolkit root holding metrics/cdm_metric.py (default: the config's parent
-                     directory's parent, e.g. MPDocBench/ for MPDocBench/configs/x.yaml)
+  --toolkit DIR      toolkit root whose metrics/cdm/modules/tokenize_latex JS (KaTeX) CDM runs
+                     with node (default: the MPDocBench/ directory this binary was built from)
   --teds-zero FILE   tables to score 0, one \"<element>/<img_id>_<gt_idx>\" per line (e.g.
                      table/doc.pdf_[3]), to reproduce a Python run (MarathonDocBench patch) in
                      which MPDOC_TEDS_TIMEOUT cut those tables off
@@ -51,7 +50,6 @@ struct Args {
     marathon: bool,
     jobs: usize,
     cdm_jobs: usize,
-    python: PathBuf,
     toolkit: Option<PathBuf>,
     teds_zero: std::collections::HashSet<String>,
     simple_match: std::collections::HashSet<String>,
@@ -78,7 +76,6 @@ fn parse_args() -> Args {
         marathon: false,
         jobs: env_usize("MPDOC_EVAL_NPROC").unwrap_or(cores),
         cdm_jobs: env_usize("MPDOC_CDM_NPROC").unwrap_or(cores),
-        python: std::env::var("MPDOC_PYTHON").map(PathBuf::from).unwrap_or_else(|_| PathBuf::from("python3")),
         toolkit: None,
         teds_zero: Default::default(),
         simple_match: Default::default(),
@@ -108,7 +105,6 @@ fn parse_args() -> Args {
             }
             "--jobs" => a.jobs = val(&mut i).parse().expect("--jobs N"),
             "--cdm-jobs" => a.cdm_jobs = val(&mut i).parse().expect("--cdm-jobs N"),
-            "--python" => a.python = PathBuf::from(val(&mut i)),
             "--toolkit" => a.toolkit = Some(PathBuf::from(val(&mut i))),
             "--teds-zero" => a.teds_zero = read_lines(&val(&mut i)),
             "--simple-match" => a.simple_match = read_lines(&val(&mut i)),
@@ -145,10 +141,9 @@ fn main() {
     let t0 = Instant::now();
     let cfg_text = std::fs::read_to_string(&args.config).unwrap_or_else(|e| panic!("{}: {}", args.config.display(), e));
     let cfg = yaml_to_v(serde_yaml::from_str(&cfg_text).expect("YAML config"));
-    let toolkit = args.toolkit.clone().unwrap_or_else(|| {
-        let p = std::fs::canonicalize(&args.config).unwrap();
-        p.parent().and_then(|d| d.parent()).map(Path::to_path_buf).unwrap_or_default()
-    });
+    if let Some(t) = &args.toolkit {
+        std::env::set_var("MPD_CDM_TOKENIZE_DIR", t.join("metrics/cdm/modules/tokenize_latex"));
+    }
     rayon::ThreadPoolBuilder::new().num_threads(args.jobs.max(1)).build_global().unwrap();
 
     for (task, tcfg) in cfg.as_dict().expect("config mapping").iter() {
@@ -163,11 +158,11 @@ fn main() {
         if !mm.is_null() && mm.as_str() != Some("quick_match") {
             panic!("match_method {} not supported (only quick_match)", mm.py_repr());
         }
-        run_task(&args, tcfg, &toolkit, t0);
+        run_task(&args, tcfg, t0);
     }
 }
 
-fn run_task(args: &Args, tcfg: &V, toolkit: &Path, t0: Instant) {
+fn run_task(args: &Args, tcfg: &V, t0: Instant) {
     let metric_keys: Vec<String> = tcfg.get("metrics").as_dict().map(|d| d.keys().cloned().collect()).unwrap_or_default();
     let skip_text = !metric_keys.is_empty()
         && !metric_keys.iter().any(|k| ["text_block", "merged_text_block", "display_formula", "reading_order"].contains(&k.as_str()));
@@ -324,7 +319,7 @@ fn run_task(args: &Args, tcfg: &V, toolkit: &Path, t0: Instant) {
 
     let out_dir = args.out.join("result").join(&save_name);
     std::fs::create_dir_all(&out_dir).unwrap();
-    let cdm_cfg = cdm::CdmConfig { workers: args.cdm_jobs, marathon: args.marathon };
+    let cdm_cfg = cdm::CdmConfig { workers: args.cdm_jobs, marathon: args.marathon, base: args.out.clone() };
 
     let mut result_all = Map::new();
     for (element, ecfg) in metrics_cfg.iter() {

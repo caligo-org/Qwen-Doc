@@ -1,0 +1,129 @@
+[
+ {
+  "idx": 0,
+  "gt_raw": "牙列指数 =\\frac{ 牙列宽度 }{ 牙列长度 }\\times100\\%",
+  "pred_raw": "\\text{牙列指数} = \\frac{\\text{牙列宽度}}{\\text{牙列长度}} \\times 100\\%",
+  "gt": "牙列指数 =\\frac{ 牙列宽度 }{ 牙列长度 }\\times100\\%",
+  "pred": "\\text{牙列指数} = \\frac{\\text{牙列宽度}}{\\text{牙列长度}} \\times 100\\%",
+  "score": 1.0,
+  "type": "float"
+ },
+ {
+  "idx": 70,
+  "gt_raw": "\\begin{aligned}q(N+1)&=\\sum_{k=0}^{N}r^{k}Q_{N,k}(N+1)=\\sum_{k=0}^{N}r^{k}\\frac{T_{N,k}(N+1)}{T_{N,k}(k)}\\\\&=\\sum_{k=0}^{N}r^{k}\\frac{(N+1)!/(N+1-k)}{k!(-1)^{N-k}(N-k)!}\\\\&=\\sum_{k=0}^N{(-1)^{N-k}r^k}\\frac{(N+1)!}{k!\\left(N+1-k\\right)!}=\\sum_{k=0}^N{(-1)^{N-k}r^k}\\binom{N+1}{k}\\\\&=-\\sum_{k=0}^{N+1}\\left(-1\\right)^{N+1-k}r^k\\begin{pmatrix}N+1\\\\k\\end{pmatrix}+r^{N+1}=r^{N+1}-(r-1)^{N+1},\\end{aligned}",
+  "pred_raw": "\\begin{array}{l} q (N + 1) = \\sum_ {k = 0} ^ {N} r ^ {k} Q _ {N, k} (N + 1) = \\sum_ {k = 0} ^ {N} r ^ {k} \\frac {T _ {N , k} (N + 1)}{T _ {N , k} (k)} \\\\ = \\sum_ {k = 0} ^ {N} r ^ {k} \\frac {(N + 1) ! / (N + 1 - k)}{k ! (- 1) ^ {N - k} (N - k) !} \\\\ = \\sum_ {k = 0} ^ {N} (- 1) ^ {N - k} r ^ {k} \\frac {(N + 1) !}{k ! (N + 1 - k) !} = \\sum_ {k = 0} ^ {N} (- 1) ^ {N - k} r ^ {k} \\binom {N + 1} {k} \\\\ = - \\sum_ {k = 0} ^ {N + 1} (- 1) ^ {N + 1 - k} r ^ {k} \\binom {N + 1} {k} + r ^ {N + 1} = r ^ {N + 1} - (r - 1) ^ {N + 1}, \\end{array}",
+  "gt": "\\begin{aligned}q(N+1)&=\\sum_{k=0}^{N}r^{k}Q_{N,k}(N+1)=\\sum_{k=0}^{N}r^{k}\\frac{T_{N,k}(N+1)}{T_{N,k}(k)}\\\\&=\\sum_{k=0}^{N}r^{k}\\frac{(N+1)!/(N+1-k)}{k!(-1)^{N-k}(N-k)!}\\\\&=\\sum_{k=0}^N{(-1)^{N-k}r^k}\\frac{(N+1)!}{k!\\left(N+1-k\\right)!}=\\sum_{k=0}^N{(-1)^{N-k}r^k}\\binom{N+1}{k}\\\\&=-\\sum_{k=0}^{N+1}\\left(-1\\right)^{N+1-k}r^k\\begin{pmatrix}N+1\\\\k\\end{pmatrix}+r^{N+1}=r^{N+1}-(r-1)^{N+1},\\end{aligned}",
+  "pred": "\\begin{array}{l} q (N + 1) = \\sum_ {k = 0} ^ {N} r ^ {k} Q _ {N, k} (N + 1) = \\sum_ {k = 0} ^ {N} r ^ {k} \\frac {T _ {N , k} (N + 1)}{T _ {N , k} (k)} \\\\ = \\sum_ {k = 0} ^ {N} r ^ {k} \\frac {(N + 1) ! / (N + 1 - k)}{k ! (- 1) ^ {N - k} (N - k) !} \\\\ = \\sum_ {k = 0} ^ {N} (- 1) ^ {N - k} r ^ {k} \\frac {(N + 1) !}{k ! (N + 1 - k) !} = \\sum_ {k = 0} ^ {N} (- 1) ^ {N - k} r ^ {k} \\binom {N + 1} {k} \\\\ = - \\sum_ {k = 0} ^ {N + 1} (- 1) ^ {N + 1 - k} r ^ {k} \\binom {N + 1} {k} + r ^ {N + 1} = r ^ {N + 1} - (r - 1) ^ {N + 1}, \\end{array}",
+  "score": 0.992,
+  "type": "float"
+ },
+ {
+  "idx": 1944,
+  "gt_raw": "x^2+y^2",
+  "pred_raw": "",
+  "gt": "x^2+y^2",
+  "pred": "",
+  "score": 0,
+  "type": "int"
+ },
+ {
+  "idx": 1949,
+  "gt_raw": "$$x^2$$",
+  "pred_raw": "```latex\n$$x^{2}$$\n```",
+  "gt": "x^2",
+  "pred": "x^{2}",
+  "score": 1.0,
+  "type": "float"
+ },
+ {
+  "idx": 1953,
+  "gt_raw": "\\begin{tabular}{cc} a & b \\\\ c & d \\end{tabular}",
+  "pred_raw": "\\begin{tabular}{|c|c|} \\hline a & b \\\\ \\hline c & d \\\\ \\hline \\end{tabular}",
+  "gt": "\\begin{tabular}{cc} a & b \\\\ c & d \\end{tabular}",
+  "pred": "\\begin{tabular}{|c|c|} \\hline a & b \\\\ \\hline c & d \\\\ \\hline \\end{tabular}",
+  "score": 1.0,
+  "type": "float"
+ },
+ {
+  "idx": 1955,
+  "gt_raw": "\\begin{tabular}{c} \\hskip 2pt a \\cmidrule(lr){1-1} b \\end{tabular}",
+  "pred_raw": "\\begin{tabular}{c} a % comment\n b",
+  "gt": "\\begin{tabular}{c} \\hskip 2pt a \\cmidrule(lr){1-1} b \\end{tabular}",
+  "pred": "\\begin{tabular}{c} a % comment\n b",
+  "score": 0.667,
+  "type": "float"
+ },
+ {
+  "idx": 1960,
+  "gt_raw": "\\frac{a",
+  "pred_raw": "\\frac{a}{b",
+  "gt": "\\frac{a",
+  "pred": "\\frac{a}{b",
+  "score": 0.0,
+  "type": "float"
+ },
+ {
+  "idx": 1966,
+  "gt_raw": "\\undefinedcommand x",
+  "pred_raw": "\\foo{y}",
+  "gt": "\\undefinedcommand x",
+  "pred": "\\foo{y}",
+  "score": 0.0,
+  "type": "float"
+ },
+ {
+  "idx": 1974,
+  "gt_raw": "\\begin{split} a &= b \\end{split}",
+  "pred_raw": "\\begin{align*} a &= b \\end{align*}",
+  "gt": "\\begin{split} a &= b \\end{split}",
+  "pred": "\\begin{align*} a &= b \\end{align*}",
+  "score": 1.0,
+  "type": "float"
+ },
+ {
+  "idx": 1983,
+  "gt_raw": "\\operatorname{sin} x + \\operatorname{arg\\,max} y",
+  "pred_raw": "\\sin x + \\arg\\max y",
+  "gt": "\\operatorname{sin} x + \\operatorname{arg\\,max} y",
+  "pred": "\\sin x + \\arg\\max y",
+  "score": 0.818,
+  "type": "float"
+ },
+ {
+  "idx": 1990,
+  "gt_raw": "a \\not= b \\not< c",
+  "pred_raw": "a \\neq b \\nless c",
+  "gt": "a \\not= b \\not< c",
+  "pred": "a \\neq b \\nless c",
+  "score": 0.6,
+  "type": "float"
+ },
+ {
+  "idx": 2003,
+  "gt_raw": "\\leq \\geq \\Vert",
+  "pred_raw": "\\le \\ge \\|",
+  "gt": "\\leq \\geq \\Vert",
+  "pred": "\\le \\ge \\|",
+  "score": 1.0,
+  "type": "float"
+ },
+ {
+  "idx": 2026,
+  "gt_raw": "~",
+  "pred_raw": "\\quad",
+  "gt": "~",
+  "pred": "\\quad",
+  "score": 0,
+  "type": "int"
+ },
+ {
+  "idx": 5000,
+  "gt_raw": "x^2+y^2",
+  "pred_raw": "",
+  "gt": "x^2+y^2",
+  "pred": "",
+  "score": 0,
+  "type": "int",
+  "marathon": true
+ }
+]

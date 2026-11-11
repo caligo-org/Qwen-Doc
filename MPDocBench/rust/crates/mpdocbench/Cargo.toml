@@ -12,6 +12,7 @@ path = "src/main.rs"
 pylatexenc = { path = "../pylatexenc" }
 pysoup = { path = "../pysoup" }
 teds = { path = "../teds" }
+cdm = { path = "../cdm" }
 indexmap = "2"
 serde_json = { version = "1", features = ["preserve_order", "float_roundtrip"] }
 serde_yaml = "0.9"
