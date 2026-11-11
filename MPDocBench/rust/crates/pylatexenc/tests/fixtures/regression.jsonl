@@ -1,0 +1,439 @@
+{"i": "\\begin{matrix}\\end{matrix}", "o": ""}
+{"i": "\\begin{pmatrix}\\end{pmatrix}", "e": "ValueError"}
+{"i": "\\begin{array}{cc}\\end{array}", "e": "ValueError"}
+{"i": "\\begin{array}{cc} a & b \\\\ c & d \\end{array}", "o": "[ a b; c d ]"}
+{"i": "\\begin{pmatrix} 1 & 22 \\\\ 333 & 4 \\end{pmatrix}", "o": "[   1  22; 333   4 ]"}
+{"i": "{{{", "o": ""}
+{"i": "}}}", "o": ""}
+{"i": "{a}}", "o": "a"}
+{"i": "\\frac{", "o": "%s/%s"}
+{"i": "\\frac{a}{b", "o": "a/b"}
+{"i": "\\frac{a}", "o": "%s/%sa"}
+{"i": "\\sqrt[3]{x}", "o": "√(x)"}
+{"i": "\\sqrt[3]", "e": "KeyError"}
+{"i": "\\sqrt", "e": "KeyError"}
+{"i": "\\unknownmacro{x}", "o": "x"}
+{"i": "% comment", "o": ""}
+{"i": "a % c\nb", "o": "a \nb"}
+{"i": "a %c\n\n b", "o": "a \n\n b"}
+{"i": "100%", "o": "100"}
+{"i": "a~b", "o": "a b"}
+{"i": "``q''", "o": "“q”"}
+{"i": "--- -- -", "o": "— – -"}
+{"i": "\\'e \\`a \\^o \\\"u \\c c \\~n \\H o \\k a \\=a \\b b \\.z \\d d \\r a \\u g \\v s", "o": "é à ô ü ç ñ ő ą ā ḇ ż ḍ å ğ š"}
+{"i": "\\vec x \\hat{y} \\bar{\\i}", "o": "x⃗ ŷ i̅"}
+{"i": "a \\\\ b", "o": "a \n b"}
+{"i": "a\\\\[1em]b", "o": "a\nb"}
+{"i": "a \\\\ [b]", "o": "a \n [b]"}
+{"i": "\\\\", "o": "\n"}
+{"i": "\\", "o": ""}
+{"i": "a \\", "o": "a"}
+{"i": "a \\ ", "o": "a  "}
+{"i": "\\begin{align} a &= b \\\\ c &= d \\end{align}", "o": "\n    a    = b \n     c    = d\n"}
+{"i": "\\begin{itemize}\\item a \\item[b] c\\end{itemize}", "o": "\n  * a \n  b c"}
+{"i": "\\section{Hello ß}", "o": "\n\n§ HELLO SS\n"}
+{"i": "\\subsection{a}", "o": "\n\n §.§ a\n"}
+{"i": "\\title{T}\\author{A}\\date{D}\\maketitle", "o": "T\n    A\n    D\n=====\n\n"}
+{"i": "\\title", "e": "AttributeError"}
+{"i": "\\href{u}{t}", "e": "IndexError"}
+{"i": "\\url{http://x}", "o": "<http://x>"}
+{"i": "\\footnote{f}", "o": "[f]"}
+{"i": "\\footnote", "e": "KeyError"}
+{"i": "\\mathbf{AbZ}", "o": "𝐀𝐛𝐙"}
+{"i": "\\mathcal{BEFxyz}", "o": "ℬℰℱ𝓍𝓎𝓏"}
+{"i": "\\mathbb{RNZ1}", "o": "ℝℕℤ1"}
+{"i": "\\verb|x y|", "o": ""}
+{"i": "\\verb", "e": "IndexError"}
+{"i": "\\verb  ", "e": "IndexError"}
+{"i": "\\verb|abc", "o": "|abc"}
+{"i": "\\begin{verbatim} \\x{ \\end{verbatim}", "o": ""}
+{"i": "$a$", "o": "a"}
+{"i": "$$a$$", "o": "\n    a\n"}
+{"i": "\\(a\\)", "o": "a"}
+{"i": "\\[a\\]b", "o": "\n    a\nb"}
+{"i": "$a", "o": "a"}
+{"i": "a\\)", "o": "a"}
+{"i": "\\text{$x$}", "o": "x"}
+{"i": "\\begin{a}\\begin{b}\\end{a}\\end{b}", "o": ""}
+{"i": "\\begin x", "o": "\\begin x"}
+{"i": "\\begin{}", "o": "\\begin"}
+{"i": "\\input{f}", "o": ""}
+{"i": "\\input", "e": "IndexError"}
+{"i": "\\texorpdfstring{a}{b}", "o": "b"}
+{"i": "\\texorpdfstring\\title", "e": "AttributeError"}
+{"i": "\\exercise{a}[b]", "o": "\na\n[b]\n"}
+{"i": "\\exercise", "e": "IndexError"}
+{"i": "\\frac\\sqrt{2}", "e": "KeyError"}
+{"i": "\\frac 12", "o": "1/2"}
+{"i": "\\alpha x \\beta  y", "o": "αx βy"}
+{"i": "$\\alpha x$", "o": "α x"}
+{"i": "{a  ", "o": "a  "}
+{"i": "a}b", "o": "ab"}
+{"i": "\\ss x", "o": "ßx"}
+{"i": "\\中文 x", "o": "x"}
+{"i": "\\é x", "o": "x"}
+{"i": "\\alpha\n\nb", "o": "α\n\nb"}
+{"i": "%c\r\n  \n", "o": "\r\n  \n"}
+{"i": "\f\u001c 　x", "o": "\f\u001c 　x"}
+{"i": "\\, \\; \\: \\! \\ \\quad \\qquad", "o": "              "}
+{"i": "\\ket{\\psi}", "o": "|ψ⟩"}
+{"i": "\\braket{a}{b}", "o": "⟨a|b⟩"}
+{"i": "\\not=", "o": "≠"}
+{"i": "\\CYRA \\textasciicircum", "o": "Аˆ"}
+{"i": "{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{x}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}", "o": "x"}
+{"i": "\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{\\frac{x}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}}{y}", "o": "x/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y/y"}
+{"i": "\\section\\end{x}\\)\\section\\author", "e": "AttributeError"}
+{"i": "\\end{equation}\\subsection\\date\\i]\\hint\\mbox\\ss", "e": "AttributeError"}
+{"i": "\\i  \\title\\begin{center}\\author", "e": "AttributeError"}
+{"i": "\\begin''\\^\\href", "e": "AttributeError"}
+{"i": "\\subsection\\\"\\ensuremath\\hint\\overline\\begin{pmatrix}\\begin{pmatrix}\\end{itemize}\\title\r\\href", "e": "AttributeError"}
+{"i": "\\hint\\begin{center}\\vec\\title\\input\\paragraph\f", "e": "AttributeError"}
+{"i": "中\\leq\\paragraph\\mathfrak\\^\\section\\mathit\\exercise\\leq中\\date", "e": "AttributeError"}
+{"i": "\\)\\nicefrac\\href\\ket\\begin{bmatrix}\n", "e": "AttributeError"}
+{"i": "\\begin{itemize}\\,\\section\\title\\end^\\today\\begin{center}_\\alpha\\verb|a|\\end{verbatim}", "e": "AttributeError"}
+{"i": "\\ \\ensuremath\\title\\paragraph\\maketitle''\\mathbb\\title\\begin{align}", "e": "AttributeError"}
+{"i": "& \n\n--\\sqrté\\end\\unknown\\hint\\author", "e": "AttributeError"}
+{"i": "\\textbf\n\n}\\begin{pmatrix}\\)\\title\\mathfrak12\\end{bmatrix}\\url\\date\\uebung", "e": "AttributeError"}
+{"i": "\\textbf\\end{bmatrix}---\\date", "e": "AttributeError"}
+{"i": "\\end{array}\\exercise\\author", "e": "AttributeError"}
+{"i": "\\alpha~\\begin{itemize}``\\overline\\date\\exercise\\begin{align}", "e": "AttributeError"}
+{"i": "中\\href\\right)*}", "e": "IndexError"}
+{"i": "\\href\\begin{equation*}{c}{l}\\\\ [x]\\end{equation*}", "e": "IndexError"}
+{"i": "\\end{itemize}\\ &\n\n\\href\\begin\\]\\subsection''{\\unknown", "e": "IndexError"}
+{"i": "{ .\f.{a}中--]中?r{$a^}\\frac\\verb", "e": "IndexError"}
+{"i": "}\n\n\n\\href\\,yz\\begin{pmatrix}\\nicefrac\\href\\ket", "e": "IndexError"}
+{"i": "^\nv}\\verb", "e": "IndexError"}
+{"i": "\\mathbb\\begin{align}&\\sqrtx\\href", "e": "IndexError"}
+{"i": "\\begin{center}\\href\\hspace\\mathfrak\\c\\ss~\\\\\\texorpdfstring\\mathit", "e": "IndexError"}
+{"i": "é\\sqrt.\\\\)n)&v\fg\\section\";}`&}\t\\section\\text[\\verb", "e": "IndexError"}
+{"i": "\\mathbf^\\input", "e": "IndexError"}
+{"i": "\\begin{itemize}\\author]\\href\\label\\o[\\mathbb\\footnote ", "e": "IndexError"}
+{"i": "\\[_\\c\\mbox\\verb|a|\\footnote\\o\\verb", "e": "IndexError"}
+{"i": "(\r *\\verb\f", "e": "IndexError"}
+{"i": "́=}e\\frac\\sqrt\\end\\sectionn\\verb", "e": "IndexError"}
+{"i": "\\(\\verb ", "e": "IndexError"}
+{"i": "\\ensuremath\\^\\\\*\\sqrt", "e": "KeyError"}
+{"i": "\\maketitle\\ensuremath\\end{array}\\chapter\\colorbox\\exercise12\\!", "e": "KeyError"}
+{"i": "\\frac\\sqrt²中a\\begin!`中=;\\text\\text", "e": "KeyError"}
+{"i": "d\"\"\\sqrt\\sqrt\\section\\]d}'?\\mathbf?},='\rx.", "e": "KeyError"}
+{"i": "\\stackrel{$\\textcolor{\\({\\begin{verbatim}\\]}{א}{/}\\}\\begin{verbatim}{c}{l}\\AA\\end{verbatim}\\cite{|}{\\ldots}{\\right}}{\\not{\\vert}%c\n}", "e": "KeyError"}
+{"i": "{.ก\u001c\\foo\\today}\\begin{eqnarray}$$\\mid$$\\end{other}\\textcolor\n\\mathscr", "e": "KeyError"}
+{"i": "(\\frać\\sqrt\fb\\fracb\\section ]\r=\\c%én\f?\\end{", "e": "KeyError"}
+{"i": "²\\sqrt%\\verbd\\mathbfé\f(²\\begin\\c'\\end\\end\\sqrtbv\\begin]\\itemx", "e": "KeyError"}
+{"i": "{²\\item=\\end?'(\\sqrt]é.~\\begina){{ \\item\\sqrt", "e": "KeyError"}
+{"i": "{a}};\\sqrt", "e": "KeyError"}
+{"i": "\\section\\ket\\not\\begin{verbatim}\\infty\\unknown\\textcolor", "e": "KeyError"}
+{"i": "\\cite[\\textcolor]", "e": "KeyError"}
+{"i": "yz\\end{align}\n\\c\\infty\\'\\footnote\\end{bmatrix}\\url\\begin{itemize}", "e": "KeyError"}
+{"i": "yz$    \\date\\end{bmatrix}\\end{align}\\footnote", "e": "KeyError"}
+{"i": "ab\\section!\\section\\sqrt. }\r\\\\) \\textévv\\verb \\sqrt\f_)", "e": "KeyError"}
+{"i": "\\end{equation}\\'\\uebung\\end{equation}\\mathcal\\end{bmatrix}\\nicefrac$\\verb|a|\\leq_", "e": "TypeError"}
+{"i": "\\alphayz\\not\\verb\\mathbf\\uebung^", "e": "TypeError"}
+{"i": "\\ket\\exercise``12x\\frac\\infty\\\\\n\n\\item\\end{x}", "e": "TypeError"}
+{"i": "\\left(\\mbox\\exercise\\end{array}\\end{verbatim}\\colorbox\\exercise\\maketitle中", "e": "TypeError"}
+{"i": "{\\\"\\label\\title\\input12\\maketitle\\end{itemize}", "e": "TypeError"}
+{"i": "{\t}$$\\begin{verbatim}[t]\\é\\end{verbatim}$$\\=\\verb|a b|{\\begin{tabular}[t][ & \n & %c\n\n & \\&\\end{tabular}}[$\\Alpha$]\\mathbb\\exercise;\\-", "e": "TypeError"}
+{"i": "x\\leq\\[ \\date\\bar\\end{array}\\textcolor\\textbf\\input", "e": "TypeError"}
+{"i": "\\author\\texorpdfstring  \\begin{equation}", "e": "TypeError"}
+{"i": "\\textcolor\\uebung \\begin{bmatrix}\r\\mathbb\\end中\\cite", "e": "TypeError"}
+{"i": "\\frac]\\input\\not\\uebung\\end{align} \\bar\\!", "e": "TypeError"}
+{"i": "\\text\\end{array}\\maketitle\\nicefrac''\\texorpdfstring``\\ \\c", "e": "TypeError"}
+{"i": "\\c\\input\\overline\\o", "e": "TypeError"}
+{"i": "[[\\mid]]$\\}א[$$\\begin{tabularx}\\verb*a*\\end{tabularx}$$]\\[\\ketbra[\\uebung{½}{)}{ }]\\]$\\foo{\\varepsilon}\\label[\\to]\n*{[\\to]}$", "e": "TypeError"}
+{"i": " \\c\\alpha\\ket\\input\\ref\\end{equation}{\\leq\\infty", "e": "TypeError"}
+{"i": "\\)\\hint\\mbox\\maketitle\\mathfrak\\texorpdfstring\\verb\\vec\\leq", "e": "TypeError"}
+{"i": "\\leq\\begin{array}{cc}\\end{array}", "e": "ValueError"}
+{"i": "\\mathbb''\\begin{array}", "e": "ValueError"}
+{"i": "[\\color{\\today}]\\bra$$:\\begin{equation*}\\item\\² \\begin{　x}\\end{equation*}[ ½\\vert\\begin{smallmatrix}\\end{smallmatrix}\u001c{\\DeclareMathOperator{[\\to]}{\r\n}?`$${\\ʰ}", "e": "ValueError"}
+{"i": "中\\emph  ---\\textbf\\i\\begin{bmatrix}", "e": "ValueError"}
+{"i": "\\begin{array}_", "e": "ValueError"}
+{"i": "\\bar\\hat$$\\end{verbatim}~\\begin{bmatrix}", "e": "ValueError"}
+{"i": "\\leq\\uebung\\end{align}é\r\\maketitle\\unknown\\begin{bmatrix}", "e": "ValueError"}
+{"i": "&\\begin{bmatrix}", "e": "ValueError"}
+{"i": "é\\not\\\\*\\texorpdfstring\n\n\\part\\begin{pmatrix}", "e": "ValueError"}
+{"i": "{\\begin{array}\\unknown ", "e": "ValueError"}
+{"i": "\\ʰ\\color\\textcolor%c\n[\\begin{alignat}{cc}\\qquad\\end{alignat}]%c\n$$\\begin{array}{\\pm}\\end{array}$$\\begin{table}*\\,\\beginก{\\.{&}{@}{\\j}\\%{%\n\r\\end{table}", "e": "ValueError"}
+{"i": "\\\"\\item\\begin{array}\\exercise\\o\\right)\\begin{x}\\overline\\left(\\left(\\begin{pmatrix}", "e": "ValueError"}
+{"i": "\\textbf\\mathbb\\end{verbatim} \\begin{array}\\overline\\end{array}\\vec", "e": "ValueError"}
+{"i": "\\begin{eqnarray}{c}{l}\\begin{array}\\end{other}\\end{other}", "e": "ValueError"}
+{"i": "{\\acute{\\begin{bmatrix}\\end{bmatrix}}[\\not\"]}", "e": "ValueError"}
+{"i": "\\mathit\\rowcolors{\\)}[{\\!}]", "o": "[]"}
+{"i": "  =rŕ\n;*\\item?", "o": "  =rŕ\n;*\n  * ?"}
+{"i": "\\emph{\\[\\begin\\]}", "o": "\n    \\begin\n"}
+{"i": "r=.\"$nx\\'", "o": "r=.\"nx ́"}
+{"i": ";\f&́\\\\v}\\text& \\mathbf\n{", "o": ";\f   ́\nv    "}
+{"i": "\\not ", "o": "̸"}
+{"i": "`b\n!}*", "o": "`b\n!*"}
+{"i": "\\section{⚊}", "o": "\n\n§ ⚊\n"}
+{"i": "\\not 򦪰", "o": "򦪰̸"}
+{"i": "\n=~r^b^a$\\\\中", "o": "\n= r^b^a中"}
+{"i": "\\c{⫎}", "o": "⫎̧"}
+{"i": "\\overrightarrow{\\end} ", "o": "\\end "}
+{"i": "\\begin\\leq%\\'\\,\\emph \\text``\\end{x}''", "o": "\\begin≤"}
+{"i": "\\section{򥄯}", "o": "\n\n§ 򥄯\n"}
+{"i": "\\v򁆽", "o": "򁆽̌"}
+{"i": "{$ͅ}", "o": "ͅ"}
+{"i": ";\\text*\\itemg^b\f-\\sqrt \\text\\\\e\r;ai", "o": ";*^b\f-√()\ne\r;ai"}
+{"i": "\\'૩", "o": "૩́"}
+{"i": " _;\\c", "o": " _; ̧"}
+{"i": "\\c{󜔉}", "o": "󜔉̧"}
+{"i": "{\\underbrace{+}$$\\over$$\\infty", "o": "+\n    \n∞"}
+{"i": "12---\\verb|a|", "o": "12—"}
+{"i": "\\c{⤎}", "o": "⤎̧"}
+{"i": "\\k{[$$​$$]}[\\begin{table}\\[--\\]\\end{table}]{[\\(\\begin {x}\\)]}", "o": "[̨\n̨ ̨ ̨ ̨ ̨​̨\n̨]̨[\n    –\n][]"}
+{"i": "\\section{ᔢ}", "o": "\n\n§ ᔢ\n"}
+{"i": "\\begin{gather}[t]?`", "o": "\n    [t]¿\n"}
+{"i": "\\v⸷", "o": "⸷̌"}
+{"i": "\\򋏛x", "o": "x"}
+{"i": "^?中 }", "o": "^?中 "}
+{"i": "\\begin{theorem}{cc}$\\j$\\end{theorem}", "o": "ccȷ"}
+{"i": "\\section{񓠜}", "o": "\n\n§ 񓠜\n"}
+{"i": "\\Ὰx", "o": ""}
+{"i": "\\̫x", "o": "x"}
+{"i": "\\section{ᜩ}", "o": "\n\n§ ᜩ\n"}
+{"i": "\\mathcal{򇀶}%򇀶\n򇀶", "o": "򇀶\n򇀶"}
+{"i": "\\c{𕥟}", "o": "𕥟̧"}
+{"i": "\"\"́\\begin \r}{}biń;\\verb)", "o": "\"\"́\\begin \rbiń;)"}
+{"i": "\\DeclareMathOperator{{\\begin{a b}}{\\_%\n\r\\limab!`}{\\²}{)}", "o": "_\n\r¡)"}
+{"i": "\\item$]\\text\\verb\\\\\n?[-́²\t\\text*\\c.}\\begin}r", "o": "\n  * ]\n\n?[-́²\t*.̧\\beginr"}
+{"i": "\\c{௼}", "o": "௼̧"}
+{"i": "\\[y\\in K,\\]", "o": "\n    y∈ K,\n"}
+{"i": "\\[A\\longmapsto\\mathrm{t r a c e}(W^{T}A),\\]", "o": "\n    A⟼t r a c e(W^TA),\n"}
+{"i": "\\[\n\\text { 里德伯 } (\\mathrm{Rydberg}) \\text { 常数 } (R _ {\\mathrm{H}}) = 1. 0 9 6 7 7 5 8 \\times 1 0 ^ {7} \\mathrm{m} ^ {- 1}\n\\]", "o": "\n    里德伯  (Rydberg)  常数  (R _ H) = 1. 0 9 6 7 7 5 8 × 1 0 ^ 7m ^ - 1\n"}
+{"i": "$$\\$100{,}000.00 \\times (1+5\\%-5\\%)=\\$100{,}000.00 \\times 1=\\$100{,}000.00$$", "o": "\n    $100,000.00 × (1+5%-5%)=$100,000.00 × 1=$100,000.00\n"}
+{"i": "\\[(P_{2}-\\mathsf{\\Omega}_{2}g h_{3})S(H-h_{3})=\\frac{m}{M}R T_{3}\\]", "o": "\n    (P_2-Ω_2g h_3)S(H-h_3)=m/MR T_3\n"}
+{"i": "$$ \\lambda=d\\sin\\left(\\theta-\\frac{\\delta}{2}\\right)\\Rightarrow\\Delta\\lambda=\\lambda\\sqrt{\\left(\\frac{\\Delta d}{d}\\right)^{2}+\\cot^{2}\\left(\\theta-\\frac{\\delta}{2}\\right)\\left(\\Delta\\theta^{2}+\\frac{\\Delta\\delta^{2}}{4}\\right)}\\approx d\\cos(\\theta)\\left(\\frac{0.1\\pi}{180}\\right) $$", "o": "\n    λ=dsin(θ-δ/2)⇒Δλ=λ√((Δ d/d)^2+^2(θ-δ/2)(Δθ^2+Δδ^2/4))≈ dcos(θ)(0.1π/180)\n"}
+{"i": "\\[\nN _ {0} = 1 2 0 7 6 \\times 0. 6 7 \\times 5 2 \\times (1 + \\sqrt {1 . 2 4 3} + 1. 1 \\times 1. 2 4 3) = 1 4 6 5 \\mathrm{kN}\n\\]", "o": "\n    N _ 0 = 1 2 0 7 6 × 0. 6 7 × 5 2 × (1 + √(1 . 2 4 3) + 1. 1 × 1. 2 4 3) = 1 4 6 5 kN\n"}
+{"i": "\\[2H_{2}O\\xlongequal{通电}2H_{2}\\uparrow+O_{2}\\uparrow\\]", "o": "\n    2H_2O通电2H_2↑+O_2↑\n"}
+{"i": "$$ t_{f}=\\frac{m(I_{0}-\\Phi_{0})}{I_{0}}, $$", "o": "\n    t_f=m(I_0-Φ_0)/I_0,\n"}
+{"i": "\\[\\frac{N_{u}}{N_{0}}+0.74\\frac{M_{u}}{M_{0}}=\\varphi_{1}\\]", "o": "\n    N_u/N_0+0.74M_u/M_0=φ_1\n"}
+{"i": "\\[\nr _ {u, i} ^ {c} = \\frac {r _ {u , i} ^ {b}}{\\xi_ {a}} = \\frac {5 9 . 7 7 k N m}{1 . 0 0 2} = 5 9. 6 6 k N m\n\\]", "o": "\n    r _ u, i ^ c = r _ u , i ^ b/ξ_ a = 5 9 . 7 7 k N m/1 . 0 0 2 = 5 9. 6 6 k N m\n"}
+{"i": "$$(\\text{E 种绝缘}) \\text{测试报告的}~75^\\circ\\text{C} \\text{时线间电阻值}~(\\Omega) \\times 0.92 \\times \\frac{1}{2}$$\n$$(\\text{B 种绝缘}) \\text{测试报告的}~75^\\circ\\text{C} \\text{时线间电阻值}~(\\Omega) \\times 0.92 \\times \\frac{1}{2}$$\n$$(\\text{F 种绝缘}) \\text{测试报告的}~75^\\circ\\text{C} \\text{时线间电阻值}~(\\Omega) \\times 0.87 \\times \\frac{1}{2}$$", "o": "\n    (E 种绝缘) 测试报告的 75^∘C时线间电阻值 (Ω) × 0.92 ×1/2\n\n\n    (B 种绝缘) 测试报告的 75^∘C时线间电阻值 (Ω) × 0.92 ×1/2\n\n\n    (F 种绝缘) 测试报告的 75^∘C时线间电阻值 (Ω) × 0.87 ×1/2\n"}
+{"i": "$$ \\begin{aligned}\\int_{0}^{\\pi}\\int_{0}^{2\\pi}f(c+\\cos\\phi)\\sin\\phi d\\theta d\\phi&=2\\pi\\int_{0}^{\\pi}f(c+\\cos\\phi)\\sin\\phi d\\phi\\\\&=2\\pi\\int_{c-1}^{c+1}f(z)dz.\\end{aligned} $$", "o": "\n    ∫_0^π∫_0^2πf(c+cosϕ)sinϕ dθ dϕ   =2π∫_0^πf(c+cosϕ)sinϕ dϕ\n       =2π∫_c-1^c+1f(z)dz.\n"}
+{"i": "\\[m g(O H)_{2}+2H C l=m g C l_{2}+H_{2}O+C O_{2}\\uparrow\\]", "o": "\n    m g(O H)_2+2H C l=m g C l_2+H_2O+C O_2↑\n"}
+{"i": "\\[\nR _ {k, b} = e ^ {(y _ {5})} = e ^ {(3. 8 7)} = 4 7. 9 4 k N c m\n\\]", "o": "\n    R _ k, b = e ^ (y _ 5) = e ^ (3. 8 7) = 4 7. 9 4 k N c m\n"}
+{"i": "\\[\nE _ {\\mathrm{sc}} = \\frac {E _ {\\mathrm{BC}} A _ {\\mathrm{BC}} + E _ {\\mathrm{COR}} A _ {\\mathrm{COR}}}{A _ {\\mathrm{sc}}}\n\\]", "o": "\n    E _ sc = E _ BC A _ BC + E _ COR A _ COR/A _ sc\n"}
+{"i": "\\[\n\\times \\times \\times \\times \\text {年} \\times \\text {月} \\times \\text {日}\n\\]", "o": "\n    ××××年×月×日\n"}
+{"i": "\\[1升=10合=20 盒=240铢=24,000 黍\\]", "o": "\n    1升=10合=20 盒=240铢=24,000 黍\n"}
+{"i": "$$\na _ {k}: C \\left(K _ {1}\\right)\\rightarrow \\mathbb {R}, \\quad k = 1, \\dots , p,\n$$", "o": "\n    a _ k: C (K _ 1)→ℝ,    k = 1, … , p,\n"}
+{"i": "\\[C a C O_{3}+2H C l=C a C l_{2}+H_{2}O+C O_{2}\\uparrow\\]", "o": "\n    C a C O_3+2H C l=C a C l_2+H_2O+C O_2↑\n"}
+{"i": "\\[\n1, 2 5 \\geq \\gamma_ {R 2} = - 0. 0 2 5 \\cdot \\overline {{{{q}}}} _ {e} + 1. 2 7 5 \\geq 1. 0 0\n\\]", "o": "\n    1, 2 5 ≥γ_ R 2 = - 0. 0 2 5 ·q _ e + 1. 2 7 5 ≥ 1. 0 0\n"}
+{"i": "$$Q=\\frac{q_1}{Q_1}+\\frac{q_2}{Q_2}+\\cdots+\\frac{q_n}{Q_n}$$", "o": "\n    Q=q_1/Q_1+q_2/Q_2+⋯+q_n/Q_n\n"}
+{"i": "\\[F_{2}=(R/d)^{2}\\cos\\beta\\]", "o": "\n    F_2=(R/d)^2cosβ\n"}
+{"i": "\\[f=\\frac{A_{1}}{A_{0}}\\times100\\%\\]", "o": "\n    f=A_1/A_0×100%\n"}
+{"i": "$$\n3 0 - 8 = 2 2\n$$", "o": "\n    3 0 - 8 = 2 2\n"}
+{"i": "\\[ IAP 低边界 =0x0FFF-IAP+1.\\]", "o": "\n    IAP 低边界 =0x0FFF-IAP+1.\n"}
+{"i": "$$\n\\widehat {G} (u) (y) = \\langle b (u), t (y) \\rangle ,\n$$", "o": "\n    G (u) (y) = ⟨ b (u), t (y) ⟩ ,\n"}
+{"i": "$$\n(I _ {m} + I _ {c}). \\omega_ {0} = (I _ {m} + I _ {c} - \\Delta I _ {m}). \\omega_ {2} \\rightarrow \\Delta I _ {m} = (I _ {m} + I _ {c}). \\frac {\\omega_ {2} - \\omega_ {0}}{\\omega_ {2}}\n$$", "o": "\n    (I _ m + I _ c). ω_ 0 = (I _ m + I _ c - Δ I _ m). ω_ 2→Δ I _ m = (I _ m + I _ c). ω_ 2 - ω_ 0/ω_ 2\n"}
+{"i": "\\[N_{c}^{r c}=N-N_{c}^{s s}=404.88\\mathrm{k N}\\]", "o": "\n    N_c^r c=N-N_c^s s=404.88k N\n"}
+{"i": "\\[\n\\text { 利潤 } = \\frac {\\mathbb {S} 8 1 , 7 0 0 . 0 0}{(\\text { 賣價總值 })} \\times \\frac {\\text { 利潤率 }}{1 + (\\text { 佣金率 } + \\text { 利潤率 })}\n\\]", "o": "\n    利潤  = 𝕊 8 1 , 7 0 0 . 0 0/( 賣價總值 )× 利潤率 /1 + ( 佣金率  +  利潤率 )\n"}
+{"i": "$$a_1 = \\frac{x_b^\\circ}{\\beta}\\left(1 - \\frac{\\varepsilon_{ya}^\\circ}{\\varepsilon_{cu}^\\circ}\\right) - a_a$$", "o": "\n    a_1 = x_b^∘/β(1 - ε_ya^∘/ε_cu^∘) - a_a\n"}
+{"i": "\\[Q_{e i}=(a_{s i}S_{e}F_{e1}+a_{e i}E_{e2}F_{e2}+a_{s i}E_{e3}F_{e3})^{*}A_{i}\\]", "o": "\n    Q_e i=(a_s iS_eF_e1+a_e iE_e2F_e2+a_s iE_e3F_e3)^*A_i\n"}
+{"i": "\\[\n\\text { Average } \\pm 1. 9 6 \\text { standard   errors }\n\\]", "o": "\n    Average ± 1. 9 6  standard   errors\n"}
+{"i": "$$\nN = \\frac {\\log \\left(\\frac {E - M}{a - b}\\right) - \\log \\left(\\frac {E - M}{a - b} - C\\right)}{\\log \\left(\\frac {1 + a}{1 + b}\\right)}\n$$", "o": "\n    N = log(E - M/a - b) - log(E - M/a - b - C)/log(1 + a/1 + b)\n"}
+{"i": "\\[\nC O + H _ {2} O \\rightarrow C O _ {2} + H _ {2}\n\\]", "o": "\n    C O + H _ 2 O → C O _ 2 + H _ 2\n"}
+{"i": "\\[\\mathrm{H_{2}O_{2}+Cl_{2}\\longrightarrow HCl+O_{2}^{*}}\\]", "o": "\n    H_2O_2+Cl_2⟶ HCl+O_2^*\n"}
+{"i": "$$\n\\left| G (u) (y) - \\left\\langle \\mathcal {B} \\left(u \\left(x _ {1}\\right), \\dots , u \\left(x _ {r}\\right)\\right), \\mathcal {T} (y) \\right\\rangle \\right| <   \\varepsilon\n$$", "o": "\n    | G (u) (y) - ⟨ℬ(u (x _ 1), … , u (x _ r)), 𝒯 (y) ⟩| <   ε\n"}
+{"i": "$$\n\\sup  _ {u \\in V} \\sup  _ {y \\in K _ {2}} | G (u) (y) - \\left\\langle \\mathcal {B} \\big (u (x _ {1}), \\dots , u (x _ {r}) \\big), \\mathcal {T} (y) \\right\\rangle | <   \\varepsilon ,\n$$", "o": "\n    sup  _ u ∈ Vsup  _ y ∈ K _ 2 | G (u) (y) - ⟨ℬ (u (x _ 1), … , u (x _ r) ), 𝒯 (y) ⟩ | <   ε ,\n"}
+{"i": "$$\nM _ {k} := \\max  _ {y \\in K} | \\phi_ {k} (y) | <   \\infty .\n$$", "o": "\n    M _ k := max  _ y ∈ K | ϕ_ k (y) | <   ∞ .\n"}
+{"i": "\\[B a C l_{2}+H_{2}S O_{4}=B a S O_{4}\\downarrow+2H C l\\]", "o": "\n    B a C l_2+H_2S O_4=B a S O_4↓+2H C l\n"}
+{"i": " {}^{22} ", "o": " ^22 "}
+{"i": " 1.66\\times 10^6 ", "o": " 1.66×10^6 "}
+{"i": " p_{rep} ", "o": " p_rep "}
+{"i": " \\left( 4200 \\times \\frac{1.45}{4.128} = \\right) 1475.3 ", "o": " ( 4200 ×1.45/4.128 = ) 1475.3 "}
+{"i": "\\text{equation 3-13}", "o": "equation 3-13"}
+{"i": "x \\in \\mathbb{R}^d", "o": "x ∈ℝ^d"}
+{"i": " {\\mathrm{{BaI}}}_{2} ", "o": " BaI_2 "}
+{"i": " 2.5 \\times 10^{-10} (粉红) ", "o": " 2.5 ×10^-10 (粉红) "}
+{"i": "\\text{NF}_3", "o": "NF_3"}
+{"i": " 1.24 \\times 10^{4} ", "o": " 1.24 ×10^4 "}
+{"i": " CuInS_2 ", "o": " CuInS_2 "}
+{"i": " (750 \\div 2000 = ) 0.38(+) ", "o": " (750 ÷2000 = ) 0.38(+) "}
+{"i": " ^{46}Ti ", "o": " ^46Ti "}
+{"i": " X_8 ", "o": " X_8 "}
+{"i": " pK_{1} ", "o": " pK_1 "}
+{"i": "U_{2}", "o": "U_2"}
+{"i": "\\underline{\\text{was the force of explosion}}", "o": "was the force of explosion"}
+{"i": " \\text{ク用} ", "o": " ク用 "}
+{"i": " \\nu_{1} ", "o": " ν_1 "}
+{"i": " x^{*} ", "o": " x^* "}
+{"i": " C_3 ", "o": " C_3 "}
+{"i": " ^{68} ", "o": " ^68 "}
+{"i": "\\sqrt{v}", "o": "√(v)"}
+{"i": "\\Omega", "o": "Ω"}
+{"i": " {\\mathrm{{MgSO}}}_{4} \\cdot 7{\\mathrm{H}}_{2}\\mathrm{O} ", "o": " MgSO_4 ·7H_2O "}
+{"i": "\\widehat{\\Lambda}", "o": "Λ"}
+{"i": " ^{147} ", "o": " ^147 "}
+{"i": "2.55 \\times 10^{{5}}", "o": "2.55 ×10^5"}
+{"i": "Na_2HPO_4 \\cdot 12H_2O", "o": "Na_2HPO_4 ·12H_2O"}
+{"i": " g(x) = \\frac{e^x}{1 + e^x} ", "o": " g(x) = e^x/1 + e^x "}
+{"i": "******^{*}", "o": "******^*"}
+{"i": " K^{+} ", "o": " K^+ "}
+{"i": " ^{166}\\text{Er} ", "o": " ^166Er "}
+{"i": " ^{112}Cd ", "o": " ^112Cd "}
+{"i": "\\{x \\mid x < -1\\} \\cup \\{x \\mid x > 2\\}", "o": "{x |x < -1} ∪{x |x > 2}"}
+{"i": " {\\mathrm{{PM}}}_{2.5} ", "o": " PM_2.5 "}
+{"i": "138.5^{\\circ}", "o": "138.5^∘"}
+{"i": "1000\\Omega", "o": "1000Ω"}
+{"i": "a_{5}", "o": "a_5"}
+{"i": " C_6 ", "o": " C_6 "}
+{"i": "Johnston said Comperatore put \"God first, his family second and everybody third.\"", "o": "Johnston said Comperatore put \"God first, his family second and everybody third.\""}
+{"i": "良应收账款的收购处置业务，帮助企业获得资金支持。", "o": "良应收账款的收购处置业务，帮助企业获得资金支持。"}
+{"i": "宋代進士之試，初重詩賦。神宗熙寧二年，用王安石議，罷詩賦，代以經義。哲宗元祐四年，宣仁太后詔詩賦經義並行。但時僅六載，紹聖改元，詩賦又罷。當國者，以詞章經義，截然兩途，取士僅用經義，代言之人，日久將感缺乏。而於紹述議論鼎盛之際，又不便更改熙寧法度。於是遂另謀補救之方，斟酌唐制，而有宏詞科之立。《續國朝會要》述其經過曰：", "o": "宋代進士之試，初重詩賦。神宗熙寧二年，用王安石議，罷詩賦，代以經義。哲宗元祐四年，宣仁太后詔詩賦經義並行。但時僅六載，紹聖改元，詩賦又罷。當國者，以詞章經義，截然兩途，取士僅用經義，代言之人，日久將感缺乏。而於紹述議論鼎盛之際，又不便更改熙寧法度。於是遂另謀補救之方，斟酌唐制，而有宏詞科之立。《續國朝會要》述其經過曰："}
+{"i": "② 跳河時如落在河中，即作爲被捕。", "o": "② 跳河時如落在河中，即作爲被捕。"}
+{"i": "Minimize overall Project risk through application of low-cost, commercially available and proven technical solutions that meet DOE requirements", "o": "Minimize overall Project risk through application of low-cost, commercially available and proven technical solutions that meet DOE requirements"}
+{"i": "JUN 84 79P", "o": "JUN 84 79P"}
+{"i": "JERRY MURPHY (Warehouseman).", "o": "JERRY MURPHY (Warehouseman)."}
+{"i": "① 岢嵐、寧化、火山皆在河東,平塞、威虜、破虜、平戎、靜戎、乾寧、靜安、寧邊、順\n安皆在河北;以防契丹。保安、威塞､清遠、威遠、鎮戎皆在陝西,以制党項。", "o": "① 岢嵐、寧化、火山皆在河東,平塞、威虜、破虜、平戎、靜戎、乾寧、靜安、寧邊、順\n安皆在河北;以防契丹。保安、威塞､清遠、威遠、鎮戎皆在陝西,以制党項。"}
+{"i": "Health: She employed imagery techniques to release whatever anxiety and resentment she had with her partner and began eye exercises on a daily basis to increase blood circulation and movement of energy within her eye region. Now she is back to using reading glasses (2.00) hoping to gain her normal eye sight back in the future.", "o": "Health: She employed imagery techniques to release whatever anxiety and resentment she had with her partner and began eye exercises on a daily basis to increase blood circulation and movement of energy within her eye region. Now she is back to using reading glasses (2.00) hoping to gain her normal eye sight back in the future."}
+{"i": "Method 1: eDAMIS Web Application (eWA) (Local installation in NSI)", "o": "Method 1: eDAMIS Web Application (eWA) (Local installation in NSI)"}
+{"i": "(b) 與長江製衣有限公司，其附屬公司及聯營公司（「長江製衣集團」）進行之交易及向其支付之數額（本公司若干董事乃同時為長江製衣集團及本集團之控權股東）：", "o": "(b) 與長江製衣有限公司，其附屬公司及聯營公司（「長江製衣集團」）進行之交易及向其支付之數額（本公司若干董事乃同時為長江製衣集團及本集團之控權股東）："}
+{"i": "ADDRESS FOR TELEGRAMS:", "o": "ADDRESS FOR TELEGRAMS:"}
+{"i": "但在判定某一种食物是不是某种营养素的良好补充来源时,仍有一些误解:①没有考虑到该种营养素的吸收利用率;②没有考虑到营养素的含量与相关营养素之间的均衡关系;③没有考虑到人体吸收效率;④个体差异;⑤疾病种类及病情轻重程度差异;⑥地区性或饮食习惯、民族风情、宗教信仰差异等;⑦烹饪技术对营养成分和人体吸收的影响。例如,有人认为海带是补充铁、钙和碘的食品,因为其中铁、钙、碘的含量高。然而海带中铁的吸收率低,加上海带中含有大量的海藻胶,对矿物质的吸收有干扰作用,难以收到补铁的效果。同样,菠菜中含铁亦较多,然而因其富含草酸,使铁的生物利用率极低,很难发挥补铁的作用。", "o": "但在判定某一种食物是不是某种营养素的良好补充来源时,仍有一些误解:①没有考虑到该种营养素的吸收利用率;②没有考虑到营养素的含量与相关营养素之间的均衡关系;③没有考虑到人体吸收效率;④个体差异;⑤疾病种类及病情轻重程度差异;⑥地区性或饮食习惯、民族风情、宗教信仰差异等;⑦烹饪技术对营养成分和人体吸收的影响。例如,有人认为海带是补充铁、钙和碘的食品,因为其中铁、钙、碘的含量高。然而海带中铁的吸收率低,加上海带中含有大量的海藻胶,对矿物质的吸收有干扰作用,难以收到补铁的效果。同样,菠菜中含铁亦较多,然而因其富含草酸,使铁的生物利用率极低,很难发挥补铁的作用。"}
+{"i": "\\(^{53}\\) 孫大川（2003：52）以1993年《〈山海世界—《山海文化》暨月刊創刊號序文〉，一文提出這個主張。這一段敘述分析，參採自陳芷凡（2014：117-118）。", "o": "^53 孫大川（2003：52）以1993年《〈山海世界—《山海文化》暨月刊創刊號序文〉，一文提出這個主張。這一段敘述分析，參採自陳芷凡（2014：117-118）。"}
+{"i": "不论是被动安全还是主动安全，都只是实现微波制样安全保证的一些外在条件，最终还必须由使用者加以掌握和正确操作，才能实现真正的安全。上述所谓的“主动安全”，也只是在微波消解设备的设计和制作上的措施。下面将要叙述的内容，都是一些主动安全措施，而且是更重要的措施。", "o": "不论是被动安全还是主动安全，都只是实现微波制样安全保证的一些外在条件，最终还必须由使用者加以掌握和正确操作，才能实现真正的安全。上述所谓的“主动安全”，也只是在微波消解设备的设计和制作上的措施。下面将要叙述的内容，都是一些主动安全措施，而且是更重要的措施。"}
+{"i": "本公司投资性房地产由公司聘请的具有房地产评估资质的第三方机构出具评估报告，以评估报告的估价结论作为其公允价值。", "o": "本公司投资性房地产由公司聘请的具有房地产评估资质的第三方机构出具评估报告，以评估报告的估价结论作为其公允价值。"}
+{"i": "• During cargo operations the correct functioning of P/V valves should be monitored; and tested.", "o": "• During cargo operations the correct functioning of P/V valves should be monitored; and tested."}
+{"i": "（4）条据写好后不要涂改；如要更改，必须在更改处加盖印章，以免事后发生误会。", "o": "（4）条据写好后不要涂改；如要更改，必须在更改处加盖印章，以免事后发生误会。"}
+{"i": "V60 (59-66) v4", "o": "V60 (59-66) v4"}
+{"i": "I. 怦然心动 潸然泪下 悠然自得 怡然自得 跃然纸上  \n浑然天成 超然物外 截然不同 迥然不同 黯然失色  \n浑然不觉 戛然而止 截然相反 巍然屹立", "o": "I. 怦然心动 潸然泪下 悠然自得 怡然自得 跃然纸上  \n浑然天成 超然物外 截然不同 迥然不同 黯然失色  \n浑然不觉 戛然而止 截然相反 巍然屹立"}
+{"i": "0: P4.0 默认驱动输出", "o": "0: P4.0 默认驱动输出"}
+{"i": "2019年3月，韩华以晶科德国销售的组件产品侵犯其专利权为由向德国杜塞尔多夫地方法院提起诉讼，要求对晶科德国的直接专利侵权行为发出禁止令，并且销毁和召回侵权产品；", "o": "2019年3月，韩华以晶科德国销售的组件产品侵犯其专利权为由向德国杜塞尔多夫地方法院提起诉讼，要求对晶科德国的直接专利侵权行为发出禁止令，并且销毁和召回侵权产品；"}
+{"i": "报告期内，公司对前五名客户的销售收入合计占当期营业收入的比例为\\(63.61\\%\\)，其中对正泰电器及其子公司的销售收入占当期营业收入的 \\(23.55\\%\\)，如果公司与主要客户的合作出现问题，或者公司主要客户的生产经营情况发生变化，有可能给公司的正常经营带来风险。", "o": "报告期内，公司对前五名客户的销售收入合计占当期营业收入的比例为63.61%，其中对正泰电器及其子公司的销售收入占当期营业收入的 23.55%，如果公司与主要客户的合作出现问题，或者公司主要客户的生产经营情况发生变化，有可能给公司的正常经营带来风险。"}
+{"i": "2. 工程内容: 位于表左上方, 是指该工程项目的主要工作内容。", "o": "2. 工程内容: 位于表左上方, 是指该工程项目的主要工作内容。"}
+{"i": "AfeRicadthe East) 派 W、Wilson 及 H、O、jachson 来福州传教。", "o": "AfeRicadthe East) 派 W、Wilson 及 H、O、jachson 来福州传教。"}
+{"i": "(4）对于内销收入，以抽样方式检查与收入确认相关的支持性文件，包括销售合同、销售发票、出库单、客户签收单及货运单等；对于出口收入，获取电子口岸信息并与账面记录核对，并以抽样方式检查销售合同、出口报关单、货运提单等支持性文件；", "o": "(4）对于内销收入，以抽样方式检查与收入确认相关的支持性文件，包括销售合同、销售发票、出库单、客户签收单及货运单等；对于出口收入，获取电子口岸信息并与账面记录核对，并以抽样方式检查销售合同、出口报关单、货运提单等支持性文件；"}
+{"i": "– You cannot restore the Recoverable Items folder and subfolder hierarchy to a mailbox restore destination. You can restore only the mail items in the folders.", "o": "– You cannot restore the Recoverable Items folder and subfolder hierarchy to a mailbox restore destination. You can restore only the mail items in the folders."}
+{"i": "Traditionally, these rounds have been used for the instruction of junior doctors, but they can also be used for interdisciplinary teaching involving nursing, midwifery and pharmacy staff as well as medical officers. They also give patients and their families an opportunity to ask questions of all the people involved in their care.", "o": "Traditionally, these rounds have been used for the instruction of junior doctors, but they can also be used for interdisciplinary teaching involving nursing, midwifery and pharmacy staff as well as medical officers. They also give patients and their families an opportunity to ask questions of all the people involved in their care."}
+{"i": "When a patient has been admitted to inpatient hospital care for a minimum of 8 hours but less than 24 hours and discharged on the same calendar date, Observation or Inpatient Hospital Care Services (Including Admission and Discharge Services), from CPT code range 99234 – 99236, shall be reported.", "o": "When a patient has been admitted to inpatient hospital care for a minimum of 8 hours but less than 24 hours and discharged on the same calendar date, Observation or Inpatient Hospital Care Services (Including Admission and Discharge Services), from CPT code range 99234 – 99236, shall be reported."}
+{"i": "You either allow your unconscious mind to be in charge and react unconsciously OR you are aware, take action and choose to interpret your experience consciously.", "o": "You either allow your unconscious mind to be in charge and react unconsciously OR you are aware, take action and choose to interpret your experience consciously."}
+{"i": "报告日期：2025年4月25日", "o": "报告日期：2025年4月25日"}
+{"i": "Representing, as it does, contributions from many individuals and many organizations with practical experience in the fields of nutrition and education as they apply in Alaska, the manual should prove adaptable for use in a variety of situations.", "o": "Representing, as it does, contributions from many individuals and many organizations with practical experience in the fields of nutrition and education as they apply in Alaska, the manual should prove adaptable for use in a variety of situations."}
+{"i": "• Display: 1024 x 768 or more", "o": "• Display: 1024 x 768 or more"}
+{"i": "②The rope or chain should be easily visible by everyone around the robot.", "o": "②The rope or chain should be easily visible by everyone around the robot."}
+{"i": "(b) Selection through written examination only.", "o": "(b) Selection through written examination only."}
+{"i": "Customs has no control over the premiums that sureties charge for bonds. However, there is nothing inherent in the proposal which would dictate an increase in premiums.", "o": "Customs has no control over the premiums that sureties charge for bonds. However, there is nothing inherent in the proposal which would dictate an increase in premiums."}
+{"i": "[来源：GB/T2703—2017，2.2.10，有修改]", "o": "[来源：GB/T2703—2017，2.2.10，有修改]"}
+{"i": "If the problem is resolved, replace the interface cable.", "o": "If the problem is resolved, replace the interface cable."}
+{"i": "VALIDATION OF MODEL TRAINING COURSES", "o": "VALIDATION OF MODEL TRAINING COURSES"}
+{"i": "贵公司管理层（以下简称管理层）对其他信息负责。其他信息包括贵公司2024年年度报告中涵盖的信息，但不包括财务报表和我们的审计报告。", "o": "贵公司管理层（以下简称管理层）对其他信息负责。其他信息包括贵公司2024年年度报告中涵盖的信息，但不包括财务报表和我们的审计报告。"}
+{"i": "\n\\therefore \\boxed {\\sim} | D D\n", "o": "\n∴∼ | D D\n"}
+{"i": "\n\\lim _ {N \\to \\infty} \\overline {{F}} _ {N} ^ {G} = \\inf _ {m} \\sup _ {x, p} \\left\\{\\psi (q + t \\nabla \\xi (p); x) - \\int_ {0} ^ {1} \\theta (p (s)) \\mathrm{d} s + m \\cdot x - G (m) \\right\\},\n", "o": "\nlim_ N →∞ F _ N ^ G = inf_ m sup_ x, p {ψ(q + t ∇ξ(p); x) - ∫_ 0 ^ 1 θ(p (s)) d s + m ·x - G (m) },\n"}
+{"i": "\n\\varphi = \\tan^ {- 1} \\frac {1 7 0 0 m m}{1 0 3 4 m m} = 5 8. 6 9 0 5 ^ {\\circ}\n", "o": "\nφ= tan^ - 1 1 7 0 0 m m/1 0 3 4 m m = 5 8. 6 9 0 5 ^ ∘\n"}
+{"i": "\n\\begin{array}{l} \\text {第24页} 2 4 - 1 - 4 - 8 2; 2 4 - 1 - 4 - 8 4; 2 4 - 1 - 4 - 8 5; 2 4 - 1 - 4 - 8 6; 2 4 - 1 - 4 \\\\ - 8 7; 2 4 - 1 - 4 - 8 8 \\end{array}\n", "o": "\n[ 第24页 2 4 - 1 - 4 - 8 2; 2 4 - 1 - 4 - 8 4; 2 4 - 1 - 4 - 8 5; 2 4 - 1 - 4 - 8 6; 2 4 - 1 - 4;                                                                     - 8 7; 2 4 - 1 - 4 - 8 8 ]\n"}
+{"i": "\n\\dot {V} = I (V + 1) <  0.\n", "o": "\nV̇ = I (V + 1) <  0.\n"}
+{"i": "\n\\mathbf {h} _ {i} ^ {\\prime} = \\sum_ {\\tau \\in \\mathcal {T} _ {E}} \\sum_ {j \\in \\mathcal {N} _ {i} ^ {(\\tau)}} \\alpha_ {i j} ^ {(\\tau)} \\mathbf {W} ^ {(\\tau)} \\mathbf {h} _ {j},\n", "o": "\n𝐡 _ i ^ ' = ∑_ τ∈𝒯 _ E ∑_ j ∈𝒩 _ i ^ (τ) α_ i j ^ (τ) 𝐖 ^ (τ) 𝐡 _ j,\n"}
+{"i": "\nR _ {h} (y) := (R _ {h, 1} (y), \\ldots , R _ {h, m} (y)), \\qquad y \\in K.\n", "o": "\nR _ h (y) := (R _ h, 1 (y), …, R _ h, m (y)),     y ∈K.\n"}
+{"i": "\n\\sigma_ {c} = \\sigma_ {0} (1 - q) + \\sigma_ {0} q \\left(\\frac {\\varepsilon_ {c}}{\\varepsilon_ {0}}\\right) ^ {0. 1 \\xi}, \\quad \\xi \\geqslant 1. 1 2, \\quad \\varepsilon_ {c} > \\varepsilon_ {0}\n", "o": "\nσ_ c = σ_ 0 (1 - q) + σ_ 0 q (ε_ c/ε_ 0) ^ 0. 1 ξ,   ξ⩾1. 1 2,   ε_ c > ε_ 0\n"}
+{"i": "\nl + u a = l u a (u a \\text {是变音韵母} = \\text {汉语拼音的} u a n, \\text {见京韵汉字韵母表})\n", "o": "\nl + u a = l u a (u a 是变音韵母 = 汉语拼音的 u a n, 见京韵汉字韵母表)\n"}
+{"i": "\n\\bar {\\mathrm{F}} = \\sum_ {i = 1} ^ {6} \\bar {\\mathrm{F}} _ {i}.\n", "o": "\nF̅ = ∑_ i = 1 ^ 6 F̅ _ i.\n"}
+{"i": "\np (\\mathbf {y} \\mid \\mathbf {q}, \\mathcal {V}) = \\underbrace {p (\\mathbf {y} \\mid \\mathbf {q} , \\mathbf {c} ^ {K} , \\mathbf {m} ^ {K})} _ {\\text {Direct Answer}} \\prod_ {k = 1} ^ {K - 1} \\underbrace {p (\\mathbf {z} ^ {k} \\mid \\mathbf {c} ^ {k} , \\mathbf {m} ^ {k - 1})} _ {\\text {Streaming Thinking}}.\n", "o": "\np (𝐲 |𝐪, 𝒱) = p (𝐲 |𝐪 , 𝐜 ^ K , 𝐦 ^ K) _ Direct Answer ∏_ k = 1 ^ K - 1 p (𝐳 ^ k |𝐜 ^ k , 𝐦 ^ k - 1) _ Streaming Thinking.\n"}
+{"i": "\n\\$ 100 \\times 100 \\text{打} = \\$ 10,000.00\n", "o": "\n$ 100 ×100 打 = $ 10,000.00\n"}
+{"i": "\n2 7 7\n", "o": "\n2 7 7\n"}
+{"i": "\n\\frac {U S 9 5 . 4 0 \\times 2 0 \\text {立方呎}}{3 5 . 3 2 \\text {立方呎}} = U S 5 4. 0 2\n", "o": "\nU S 9 5 . 4 0 ×2 0 立方呎/3 5 . 3 2 立方呎 = U S 5 4. 0 2\n"}
+{"i": "\nE = E ^ {0} + \\frac {R _ {e} T}{2 F} l n \\left(\\frac {\\alpha \\beta^ {\\frac {1}{2}}}{\\delta}\\right) + \\frac {R _ {e} T}{2 F} \\ln (P)\n", "o": "\nE = E ^ 0 + R _ e T/2 F l n (αβ^ 1/2/δ) + R _ e T/2 F ln(P)\n"}
+{"i": "\nF _ {3} = F _ {2} \\max (\\cos \\Phi , 0)\n", "o": "\nF _ 3 = F _ 2 max(cosΦ, 0)\n"}
+{"i": "\n\\left\\{ \\begin{array}{l} \\frac {d i _ {L}}{d t} = \\frac {1}{L} (V _ {i n}) \\\\ \\frac {d v _ {0}}{d t} = \\frac {1}{C} (- \\frac {v _ {0}}{R}) \\end{array} , 0 <  t <  d T \\right.\n", "o": "\n{ [   d i _ L/d t = 1/L (V _ i n); d v _ 0/d t = 1/C (- v _ 0/R) ] , 0 <  t <  d T .\n"}
+{"i": "\n\\lim _ {N \\rightarrow \\infty} \\overline {{{F}}} _ {N} ^ {m \\mapsto x \\cdot m} = \\sup _ {p \\in \\mathcal {Q} _ {\\infty}} \\left\\{\\psi (q + t \\nabla \\xi (p); x) - t \\int_ {0} ^ {1} \\theta (p (s)) \\mathrm{d} s \\right\\}.\n", "o": "\nlim_ N →∞ F _ N ^ m ↦x ·m = sup_ p ∈𝒬 _ ∞ {ψ(q + t ∇ξ(p); x) - t ∫_ 0 ^ 1 θ(p (s)) d s }.\n"}
+{"i": "\n\\mathrm{Ca(OH)} _ {2} + \\mathrm{CO} _ {2} \\longrightarrow \\mathrm{CaCO} _ {3} \\downarrow + \\mathrm{H} _ {2} \\mathrm{O}\n", "o": "\nCa(OH) _ 2 + CO _ 2 ⟶CaCO _ 3 ↓+ H _ 2 O\n"}
+{"i": "\nP (a _ {n}) = a _ {n + 1} a _ {n + 2} \\cdot \\cdot \\cdot a _ {n + k}\n", "o": "\nP (a _ n) = a _ n + 1 a _ n + 2 ···a _ n + k\n"}
+{"i": "\n2H_{2}O_{2}\\xlongequal{MnO_{2}}2H_{2}O+O_{2}\\uparrow\n", "o": "\n2H_2O_2MnO_22H_2O+O_2↑"}
+{"i": "\n\\mathrm{HK}\\$227,827.88\\times0.5\\%\n", "o": "\nHK$227,827.88×0.5%\n"}
+{"i": "\n4 = 6 1, 0 0 0 - 8 0, 9 9 9\n", "o": "\n4 = 6 1, 0 0 0 - 8 0, 9 9 9\n"}
+{"i": "\n1632\\sim1687\\quad\\text{義大利}\\rightarrow\\text{法國}\n", "o": "\n1632∼1687  義大利→法國\n"}
+{"i": "\ny ^ {\\prime} = \\lim _ {x \\to 0} \\frac {\\partial y}{\\partial x} = \\lim _ {x \\to 0} (2 x + 5 x) = 2 x\n", "o": "\ny ^ ' = lim_ x →0 ∂y/∂x = lim_ x →0 (2 x + 5 x) = 2 x\n"}
+{"i": "\n0. 4 4 5 5 \\div 0. 5 1 6 5 = 0. 8 6 (+)\n", "o": "\n0. 4 4 5 5 ÷0. 5 1 6 5 = 0. 8 6 (+)\n"}
+{"i": "\nNaHCO_{3}+HCl=NaCl+H_{2}O+CO_{2}\\uparrow\n", "o": "\nNaHCO_3+HCl=NaCl+H_2O+CO_2↑"}
+{"i": "\n\\mathrm{div} = \\mathrm{ding} (\\text {汉语拼音})\n", "o": "\ndiv = ding (汉语拼音)\n"}
+{"i": "\n2 5 0 * , * *\n", "o": "\n2 5 0 * , * *\n"}
+{"i": "\n\\left. \\begin{array}{l} N _ {\\mathrm{c}} ^ {\\mathrm{ss}} = N - N _ {\\mathrm{co}} ^ {\\mathrm{rc}} \\\\ M _ {\\mathrm{c}} ^ {\\mathrm{ss}} = M \\end{array} \\right\\}\n", "o": "\n. [ N _ c ^ ss = N - N _ co ^ rc;               M _ c ^ ss = M ] }\n"}
+{"i": "\n\\rightarrow 3 4 7\n", "o": "\n→3 4 7\n"}
+{"i": "\n\\mathrm{碘} (\\times 1 0 ^ {- 6}) = \\frac {(C _ {1} - C _ {0}) \\times 2 5 0 \\times 0 . 0 0 1}{M}\n", "o": "\n碘 (×1 0 ^ - 6) = (C _ 1 - C _ 0) ×2 5 0 ×0 . 0 0 1/M\n"}
+{"i": "\n\\int_{-\\infty}^{+\\infty}\\delta^{(n)}(t)f(t)dt=(-1)^{n}\\int_{-\\infty}^{+\\infty}\\delta(t)f^{(n)}(t)dt\n", "o": "\n∫_-∞^+∞δ^(n)(t)f(t)dt=(-1)^n∫_-∞^+∞δ(t)f^(n)(t)dt\n"}
+{"i": "\nE _ {2} = (1 - \\rho) S _ {e} / 4\n", "o": "\nE _ 2 = (1 - ρ) S _ e / 4\n"}
+{"i": "\n\\rightarrow 3 1 0 4 \\cdot 1 1 9 \\cdot 1 2 6\n", "o": "\n→3 1 0 4 ·1 1 9 ·1 2 6\n"}
+{"i": "\n\\begin{array}{l} 5 \\% = \\$ 2,532.15 \\$ 5,064.30 \\\\ \\text {賣價} \\dots \\dots \\dots \\$ 55,707.26 \\\\ \\end{array}\n", "o": "\n[ 5 % = $ 2,532.15 $ 5,064.30;           賣價 ………$ 55,707.26;                             ]\n"}
+{"i": "\n\\Delta rGm\\cong\\Delta rHm(298k)-T\\Delta rSm(298k)\n", "o": "\nΔrGm≅ΔrHm(298k)-TΔrSm(298k)\n"}
+{"i": "\n\\begin{array}{c c c c} x & \\circ & \\circ \\\\ x & \\circ & \\circ \\\\ x & \\circ & \\circ \\\\ x & \\circ & \\end{array}\n", "o": "\n[ x ∘ ∘; x ∘ ∘; x ∘ ∘; x ∘   ]\n"}
+{"i": "\n\\text {否定句} + \\left\\{ \\begin{array}{l} \\text {neither} \\\\ \\text {nor} \\end{array} \\right\\} + \\text {倒装结构(同一人但不同的谓语动词)}\n", "o": "\n否定句 + { [ neither;     nor ] } + 倒装结构(同一人但不同的谓语动词)\n"}
+{"i": "\nx (t) = A \\sin (\\omega_ {0} t + \\varphi)\n", "o": "\nx (t) = A sin(ω_ 0 t + φ)\n"}
+{"i": "s_1=5, s_2=10, \\cdots, s_{15}=240", "o": "s_1=5, s_2=10, ⋯, s_15=240"}
+{"i": "\\frac{1}{2}S_4O_8^{2-} + e^- = S_2O_3^{2-}", "o": "1/2S_4O_8^2- + e^- = S_2O_3^2-"}
+{"i": "= 2.997925 \\times 10^{8} \\mathrm{~ms}^{-1}", "o": "= 2.997925 ×10^8  ms^-1"}
+{"i": "\\ell \\in X^*", "o": "ℓ∈X^*"}
+{"i": "\\mathrm{EC}_7", "o": "EC_7"}
+{"i": "K_3Fe(CN)_6", "o": "K_3Fe(CN)_6"}
+{"i": " \\beta_{5} ", "o": " β_5 "}
+{"i": "KBrO_{3}/KBr", "o": "KBrO_3/KBr"}
+{"i": " t^* ", "o": " t^* "}
+{"i": "A_{j,k} \\in \\mathbb{R}^m", "o": "A_j,k ∈ℝ^m"}
+{"i": "8\\mathrm{g}\\beta", "o": "8gβ"}
+{"i": " \\Delta A ", "o": " ΔA "}
+{"i": " ^{8,9} ", "o": " ^8,9 "}
+{"i": "X_8", "o": "X_8"}
+{"i": " \\frac{\\text{Total service brake effort}}{\\text{DGW/MAM}} \\times 100 =  \\text{ Efficiency} ", "o": " Total service brake effort/DGW/MAM ×100 =   Efficiency "}
+{"i": " ^{156} ", "o": " ^156 "}
+{"i": " NH_{4}Cl ", "o": " NH_4Cl "}
+{"i": "E_{g}", "o": "E_g"}
+{"i": "P_{ss'} = P(S_{t+1} = s'|S_t = s)", "o": "P_ss' = P(S_t+1 = s'|S_t = s)"}
+{"i": "c^{*}/mol dm^{-3}", "o": "c^*/mol dm^-3"}
+{"i": "^{126}Xe", "o": "^126Xe"}
+{"i": "6.5 \\times 10^{-18}", "o": "6.5 ×10^-18"}
+{"i": " x^{*} < y ", "o": " x^* < y "}
+{"i": "G_{i} =", "o": "G_i ="}
+{"i": " 1118_{6}-1123_{2} ", "o": " 1118_6-1123_2 "}
+{"i": " J\\pi ", "o": " Jπ"}
+{"i": " COD_{Cr}<50mg/L ", "o": " COD_Cr<50mg/L "}
+{"i": "Hg_2Cl_2 + 2e^- = 2Hg + 2Cl^-", "o": "Hg_2Cl_2 + 2e^- = 2Hg + 2Cl^-"}
+{"i": "1.60 \\times 10^{-6}", "o": "1.60 ×10^-6"}
+{"i": "-\\frac{rNt}{2} \\theta(p(1))", "o": "-rNt/2 θ(p(1))"}
+{"i": "d_{o} =", "o": "d_o ="}
+{"i": " \\frac{29}{3\\frac{1}{2}} ", "o": " 29/31/2 "}
+{"i": "1.0 \\times 10^{-25}", "o": "1.0 ×10^-25"}
+{"i": "(n_{2}=2)", "o": "(n_2=2)"}
+{"i": "N_{2}H_{5}Cl", "o": "N_2H_5Cl"}
+{"i": "P \\cup Q = (\\quad)", "o": "P ∪Q = (  )"}
+{"i": "9\\mathrm{m}^3 /\\mathrm{min}", "o": "9m^3 /min"}
+{"i": "SiH_4", "o": "SiH_4"}
+{"i": " H = \\text{const} ", "o": " H = const "}
+{"i": "\\mathcal{O}(k + n)", "o": "𝒪(k + n)"}
+{"i": "True Intellectual System of the Universe. R. Cudworth.", "o": "True Intellectual System of the Universe. R. Cudworth."}
+{"i": "![](page43_309_346_443_418.jpg)", "o": "![](page43_309_346_443_418.jpg)"}
+{"i": "### Department of Computer Systems and Mathematics", "o": "### Department of Computer Systems and Mathematics"}
+{"i": "# ## 3.3.2 微波密封消解罐", "o": "# ## 3.3.2 微波密封消解罐"}
+{"i": "#### SKIN", "o": "#### SKIN"}
+{"i": "一般家用微波炉就可以作微波干燥的设备。CEM公司的SAM-155微波干燥系统[8]可快速、大范围、大幅度减少样品干燥时间，比传统干燥炉快100倍；可精确控制功率，设定9步的时间和功率模式，而且操作简单，符合USDHHS微波干燥标准。它可以同时干燥样品量达100g的30个样品。", "o": "一般家用微波炉就可以作微波干燥的设备。CEM公司的SAM-155微波干燥系统[8]可快速、大范围、大幅度减少样品干燥时间，比传统干燥炉快100倍；可精确控制功率，设定9步的时间和功率模式，而且操作简单，符合USDHHS微波干燥标准。它可以同时干燥样品量达100g的30个样品。"}
+{"i": "(jie)", "o": "(jie)"}
+{"i": "O No, don't know or not sure.", "o": "O No, don't know or not sure."}
+{"i": "### ## Burne (1971): Similarity Attraction Hypothesis", "o": "### ## Burne (1971): Similarity Attraction Hypothesis"}
+{"i": "四、发行人具有直接面向市场独立持续经营的能力...327  ", "o": "四、发行人具有直接面向市场独立持续经营的能力...327  "}
+{"i": "Eq. 3.1", "o": "Eq. 3.1"}
+{"i": "# 10. Ability to manage and supervise personnel with cargo-related responsibilities", "o": "# 10. Ability to manage and supervise personnel with cargo-related responsibilities"}
+{"i": "tempdbrestorepath parameter", "o": "tempdbrestorepath parameter"}
+{"i": "#### ## 5.2.e. Auxiliary analog input (AA)", "o": "#### ## 5.2.e. Auxiliary analog input (AA)"}
+{"i": "③2 同註2。", "o": "③2 同註2。"}
+{"i": "Mildenberger, P., Eichenberg, M., & Martin, E. (2002). Introduction to the DICOM standard. European Radiolology, 12, 920–027. doi:10.1007/s003300101100", "o": "Mildenberger, P., Eichenberg, M.,     Martin, E. (2002). Introduction to the DICOM standard. European Radiolology, 12, 920–027. doi:10.1007/s003300101100"}
+{"i": "nutritive contribution, 61, 62, 64", "o": "nutritive contribution, 61, 62, 64"}
+{"i": "Bit 7~0: 每个 P1 引脚键盘输入功能使能控制位。", "o": "Bit 7 0: 每个 P1 引脚键盘输入功能使能控制位。"}
+{"i": "###### ## 3. 挟球賽跑", "o": "###### ## 3. 挟球賽跑"}
+{"i": "val=func(i)+fac*(func(i+1)-func(i))", "o": "val=func(i)+fac*(func(i+1)-func(i))"}
+{"i": "#### ## B. How does personal experience with health care services in Alberta affect Albertans' perceptions of accessibility to health care services in Alberta?", "o": "#### ## B. How does personal experience with health care services in Alberta affect Albertans' perceptions of accessibility to health care services in Alberta?"}
+{"i": "用 i.LINK 電纜（DV 連接電纜）（選購）連接時，請按照以下步驟操作。", "o": "用 i.LINK 電纜（DV 連接電纜）（選購）連接時，請按照以下步驟操作。"}
+{"i": "# AVERTISSEMENT", "o": "# AVERTISSEMENT"}
+{"i": "JOHNSON COUNTY Mr. Morris Woodring", "o": "JOHNSON COUNTY Mr. Morris Woodring"}
+{"i": "丙烯酸甲酯（MA） 分析纯； 乙二胺（EDA） 分析纯；", "o": "丙烯酸甲酯（MA） 分析纯； 乙二胺（EDA） 分析纯；"}
+{"i": "Amount of data changed/added/deleted per hr: 50MB  ", "o": "Amount of data changed/added/deleted per hr: 50MB  "}
+{"i": "#### 1. 磁性 \\(\\mathrm{Fe}_{3} \\mathrm{O}_{4}\\) 纳米材料的制备", "o": "#### 1. 磁性 Fe_3O_4 纳米材料的制备"}
+{"i": "##### ## 8.6.2 Nomination of Proposed Awardees", "o": "##### ## 8.6.2 Nomination of Proposed Awardees"}
+{"i": ":ret_sqlstate = RETURNED_SQLSTATE,", "o": ":ret_sqlstate = RETURNED_SQLSTATE,"}
+{"i": "# ## Input Ports", "o": "# ## Input Ports"}
+{"i": "mdb.models['LBA'].MultipointConstraint(controlPoint=Region(vertices=mdb.models['LBA'].rootAssembly.instances['Overlap-", "o": "mdb.models['LBA'].MultipointConstraint(controlPoint=Region(vertices=mdb.models['LBA'].rootAssembly.instances['Overlap-"}
+{"i": "指為小孩而作的歌。廣義來說，童歌和唱遊曲也包括在内。童器在此指出現於民國以來，作曲家為口語詩所譜成的曲。", "o": "指為小孩而作的歌。廣義來說，童歌和唱遊曲也包括在内。童器在此指出現於民國以來，作曲家為口語詩所譜成的曲。"}
+{"i": "81/2448", "o": "81/2448"}
+{"i": "#### ## 3.3.4 Roles, Responsibilities, and Charters", "o": "#### ## 3.3.4 Roles, Responsibilities, and Charters"}
+{"i": "<table><tr><td>n018的设定值</td><td>内容</td></tr><tr><td>0</td><td>不继续运行</td></tr><tr><td>\\(1^{*1}\\)</td><td>0.5秒以内复电时,运行继续</td></tr><tr><td>\\(2^{*1*2}\\)</td><td>复电后,运行继续(无故障输出)</td></tr></table>", "o": "<table><tr><td>n018的设定值</td><td>内容</td></tr><tr><td>0</td><td>不继续运行</td></tr><tr><td>1^*1</td><td>0.5秒以内复电时,运行继续</td></tr><tr><td>2^*1*2</td><td>复电后,运行继续(无故障输出)</td></tr></table>"}
+{"i": "# SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS", "o": "# SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS"}
+{"i": "[5] Bodie, Z., Kane, A., & Marcus, A. J. (2009). Invesments. New York: McGraw Hill.", "o": "[5] Bodie, Z., Kane, A.,     Marcus, A. J. (2009). Invesments. New York: McGraw Hill."}
+{"i": "# VATICAN CITY", "o": "# VATICAN CITY"}
+{"i": "3. 京韵汉字与汉语拼音同音不同拼式 70 字对照表 ... 119", "o": "3. 京韵汉字与汉语拼音同音不同拼式 70 字对照表 ... 119"}
+{"i": "要求：用楷体书写，字要写得正确、规范、端正、美观。每个字的结构要合理、准确、清楚。（时间限在一小时内完成）。", "o": "要求：用楷体书写，字要写得正确、规范、端正、美观。每个字的结构要合理、准确、清楚。（时间限在一小时内完成）。"}
