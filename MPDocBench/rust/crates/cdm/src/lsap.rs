@@ -1,3 +1,4 @@
+#![allow(clippy::needless_range_loop)]
 //! Port of scipy 1.10 `scipy.optimize.linear_sum_assignment` (rectangular_lsap.cpp,
 //! Crouse's shortest augmenting path), including its tie-breaking, so that the
 //! returned assignment is the same as scipy's when several optima exist.

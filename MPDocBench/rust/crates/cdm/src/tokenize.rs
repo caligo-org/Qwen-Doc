@@ -182,7 +182,7 @@ pub fn tokenize_latex(latex_code: &str, middle_file: &str) -> PyResult<(bool, St
         if !lc.contains("\\end{tabular}") {
             lc.push_str("\\end{tabular}");
         }
-        write_text(middle_file, &lc.replace('\r', " ").replace('\n', " "))?;
+        write_text(middle_file, &lc.replace(['\r', '\n'], " "))?;
         let cmd = format!(
             "perl -pe 's|hskip(.*?)(cm\\|in\\|pt\\|mm\\|em)|hspace{{\\1\\2}}|g' {middle_file} > {temp_file}"
         );

@@ -92,13 +92,16 @@ fn update_inliers(ori: &[bool], sub: &[bool]) -> Vec<bool> {
     inliers
 }
 
+/// Matched (gt, pred) index pairs and their inlier flags.
+pub(crate) type MatchResult = (Vec<(usize, usize)>, Vec<bool>);
+
 /// `CDM._match_boxes`; None where the matcher raises (an empty box list).
 pub(crate) fn match_boxes(
     box_gt: &[BoxTok],
     box_pred: &[BoxTok],
     gt_size: (usize, usize),
     pred_size: (usize, usize),
-) -> Option<(Vec<(usize, usize)>, Vec<bool>)> {
+) -> Option<MatchResult> {
     let m = hungarian_match(box_gt, box_pred, gt_size, pred_size)?;
     let src: Vec<[f64; 2]> = m
         .pairs

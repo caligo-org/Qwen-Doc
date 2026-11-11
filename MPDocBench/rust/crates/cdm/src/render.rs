@@ -94,17 +94,9 @@ fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[
     let latex = latex.replace('\n', " ");
     let latex = latex.replace("\\%", "<PERCENTAGETOKEN>");
     let (ret, new_latex) = tokenize_latex(&latex, &path_join(temp_dir, &format!("{basename}.txt")))?;
-    let new_latex = if !(ret && !new_latex.is_empty()) { latex.clone() } else { new_latex };
+    let new_latex = if !ret || new_latex.is_empty() { latex.clone() } else { new_latex };
     let new_latex = new_latex.replace("< P E R C E N T A G E T O K E N >", "\\%");
-    let latex = normalize_latex(&new_latex)?;
-    let mut token_list: Vec<String> = Vec::new();
-    let mut l_split: Vec<String> = py::strip(&latex).split(' ').map(|x| x.to_string()).collect();
-    let n_colors = l_split.len().min(total_color_list.len());
-    let mut idx: i64 = 0;
-    while idx < l_split.len() as i64 {
-        idx = token_add_color_rgb(&mut l_split, idx, &mut token_list, false, 0)?;
-    }
-    let rgb_latex = replace_color_placeholders(&l_split.join(" "), &total_color_list[..n_colors]);
+    let (rgb_latex, token_list, n_colors) = color_tokens(&new_latex, total_color_list)?;
     let paper_size = if token_list.len() > 1300 {
         3
     } else if token_list.len() > 600 {
@@ -115,6 +107,25 @@ fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[
     let head = FORMULAR_TEMPLATE_HEAD.replace("<PaperSize>", &paper_size.to_string());
     let final_latex = format!("{head}{rgb_latex}{FORMULAR_TEMPLATE_TAIL}");
     Ok((final_latex, token_list, n_colors))
+}
+
+pub(crate) fn normalize_and_color(latex: &str) -> PyResult<(String, Vec<String>)> {
+    let colors = gen_color_list(5800, 15);
+    let (s, t, _) = color_tokens(latex, &colors)?;
+    Ok((s, t))
+}
+
+fn color_tokens(new_latex: &str, total_color_list: &[[u8; 3]]) -> PyResult<(String, Vec<String>, usize)> {
+    let latex = normalize_latex(new_latex)?;
+    let mut token_list: Vec<String> = Vec::new();
+    let mut l_split: Vec<String> = py::strip(&latex).split(' ').map(|x| x.to_string()).collect();
+    let n_colors = l_split.len().min(total_color_list.len());
+    let mut idx: i64 = 0;
+    while idx < l_split.len() as i64 {
+        idx = token_add_color_rgb(&mut l_split, idx, &mut token_list, false, 0)?;
+    }
+    let rgb_latex = replace_color_placeholders(&l_split.join(" "), &total_color_list[..n_colors]);
+    Ok((rgb_latex, token_list, n_colors))
 }
 
 /// `for idx, color in enumerate(color_list): s = s.replace(f"<color_{idx}>", "R,G,B")`
@@ -175,7 +186,7 @@ pub fn latex2bbox_color(latex: &str, basename: &str, output_path: &str, temp_dir
     };
     let color_list = &total_color_list[..n_colors];
 
-    let pre_name = format!("{}_{}", output_path.replace('/', "_").replace('.', "_"), basename);
+    let pre_name = format!("{}_{}", output_path.replace(['/', '.'], "_"), basename);
     let tex_filename = path_join(temp_dir, &format!("{pre_name}.tex"));
     fs::write(&tex_filename, final_latex.replace(r"\mathcolor", r"\color"))
         .map_err(|e| PyErr::new(format!("OSError: {tex_filename}: {e}")))?;
