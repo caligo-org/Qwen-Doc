@@ -2,6 +2,7 @@
 import re
 from apted import APTED, Config
 from Levenshtein import distance
+from utils.extract import remove_latex_style
 
 
 class TedsHeadNode:
@@ -112,13 +113,15 @@ class HeadTEDS(object):
 
     @staticmethod
     def markdown_text(text):
-        """Annotated heading text as one Markdown heading line can carry it.
+        """Annotated heading text as a predicted heading line reaches the metric.
 
-        A heading line ends at a line break, and build_md_head_tree strips the predicted text. So a line
-        break inside the text, with the whitespace around it, becomes one space (as Markdown renders a
-        soft line break), and leading and trailing whitespace is removed. Other text is kept.
+        md_tex_filter unwraps \\title{}, \\text{} and \\section{} in the prediction (remove_latex_style),
+        so the same is done here. A heading line ends at a line break, and build_md_head_tree strips the
+        predicted text. So a line break inside the text, with the whitespace around it, becomes one
+        space (as Markdown renders a soft line break), and leading and trailing whitespace is removed.
+        Other text is kept.
         """
-        return re.sub(r'\s*\n\s*', ' ', text).strip()
+        return re.sub(r'\s*\n\s*', ' ', remove_latex_style(text)).strip()
 
     def get_max_depth(self, node):
         """返回节点（root）下的最大深度（root 不计入深度）。
