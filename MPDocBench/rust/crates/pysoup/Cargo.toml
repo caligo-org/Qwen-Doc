@@ -1,0 +1,12 @@
+[package]
+name = "pysoup"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+description = "Bit-exact ports of CPython 3.11 html.parser / html.unescape and the parts of BeautifulSoup 4.11.1 used by the MPDocBench table scorer."
+
+[dependencies]
+unicode-normalization = "0.1.25"
+
+[dev-dependencies]
+serde_json = "1"
