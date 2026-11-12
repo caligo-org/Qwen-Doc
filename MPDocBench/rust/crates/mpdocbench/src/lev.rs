@@ -41,6 +41,53 @@ impl Pattern {
         }
     }
 
+    /// Start an incremental distance computation against a text read left to right:
+    /// after `feed`ing the text in pieces, `Stream::score` is Levenshtein(pattern, text so far).
+    pub fn start(&self) -> Stream {
+        Stream { vp: vec![!0u64; self.words.max(1)], vn: vec![0u64; self.words.max(1)], score: self.len }
+    }
+
+    pub fn feed(&self, st: &mut Stream, t: &[u32]) {
+        let m = self.len;
+        if m == 0 {
+            st.score += t.len();
+            return;
+        }
+        let words = self.words;
+        let last = 1u64 << ((m - 1) % 64);
+        for &c in t {
+            let mut hp_carry: u64 = 1;
+            let mut hn_carry: u64 = 0;
+            let mut add_carry: u64 = 0;
+            for w in 0..words {
+                let pm = self.mask(c, w);
+                let vpw = st.vp[w];
+                let vnw = st.vn[w];
+                let x = pm | vnw;
+                let a = x & vpw;
+                let (s1, c1) = a.overflowing_add(vpw);
+                let (s2, c2) = s1.overflowing_add(add_carry);
+                add_carry = (c1 || c2) as u64;
+                let d0 = (s2 ^ vpw) | x;
+                let hp = vnw | !(d0 | vpw);
+                let hn = vpw & d0;
+                if w == words - 1 {
+                    if hp & last != 0 {
+                        st.score += 1;
+                    } else if hn & last != 0 {
+                        st.score -= 1;
+                    }
+                }
+                let hp_s = (hp << 1) | hp_carry;
+                hp_carry = hp >> 63;
+                let hn_s = (hn << 1) | hn_carry;
+                hn_carry = hn >> 63;
+                st.vp[w] = hn_s | !(d0 | hp_s);
+                st.vn[w] = hp_s & d0;
+            }
+        }
+    }
+
     /// Sellers search: for every end position j of `t`, the minimum distance between the
     /// pattern and any substring of `t` ending at j (a lower bound for every window that
     /// ends at j).
@@ -190,6 +237,14 @@ pub fn distance(a: &[u32], b: &[u32]) -> usize {
     }
 }
 
+/// State of an incremental `Pattern` distance (see `Pattern::start`).
+#[derive(Clone)]
+pub struct Stream {
+    vp: Vec<u64>,
+    vn: Vec<u64>,
+    pub score: usize,
+}
+
 /// Sorted (symbol, count) histogram of a sequence, for cheap Levenshtein lower bounds.
 pub struct Hist(Vec<(u32, u32)>);
 
@@ -267,6 +322,31 @@ pub fn min_window_naive(text: &[u32], pat: &Pattern) -> usize {
 #[cfg(test)]
 mod tests {
     use super::*;
+    #[test]
+    fn stream() {
+        let mut seed: u64 = 99;
+        let mut rnd = || {
+            seed ^= seed << 13;
+            seed ^= seed >> 7;
+            seed ^= seed << 17;
+            seed
+        };
+        for _ in 0..2000 {
+            let lp = 1 + (rnd() % 150) as usize;
+            let p: Vec<u32> = (0..lp).map(|_| (rnd() % 4) as u32 + 97).collect();
+            let pat = Pattern::new(&p);
+            let mut st = pat.start();
+            let mut text: Vec<u32> = Vec::new();
+            for _ in 0..(rnd() % 6) {
+                let piece: Vec<u32> = (0..(rnd() % 90)).map(|_| (rnd() % 4) as u32 + 97).collect();
+                pat.feed(&mut st, &piece);
+                text.extend_from_slice(&piece);
+                assert_eq!(st.score, naive(&p, &text));
+                assert_eq!(st.score, distance(&p, &text));
+            }
+        }
+    }
+
     #[test]
     fn windows() {
         let mut seed: u64 = 777;

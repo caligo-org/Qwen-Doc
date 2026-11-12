@@ -467,35 +467,19 @@ fn ndist(a: &[u32], b: &[u32]) -> f64 {
     lev::distance(a, b) as f64 / a.len().max(b.len()) as f64
 }
 
-/// judge_pred_merge([gt], [norm_pred[k] for k in ks]) with threshold 0.6.
-fn judge_pred_merge(fz: &mut Fuzzy, g: usize, ks: &[usize]) -> (bool, bool) {
-    if ks.len() == 1 {
-        return (false, false);
-    }
-    // The original computes the two full distances first; every test here is pure, so testing
-    // the (cached, bounded) fuzzy windows first gives the same result far more cheaply.
+/// The fuzzy-window part of judge_pred_merge([gt], [norm_pred[k] for k in ks]) (threshold 0.6):
+/// None where it returns (False, False); else the last pred's window distance (`add_fuzzy_dist`).
+/// The original computes two full distances before these tests; all tests are pure, so the
+/// order does not change the result, and the distances are only needed when these pass.
+fn judge_fuzzy(fz: &mut Fuzzy, g: usize, ks: &[usize]) -> Option<f64> {
     for &k in &ks[..ks.len() - 1] {
         match fz.sub_pred(g, k) {
-            None => return (false, false),
-            Some(d) if d > 0.6 => return (false, false),
+            None => return None,
+            Some(d) if d > 0.6 => return None,
             _ => {}
         }
     }
-    let add = match fz.sub_pred(g, *ks.last().unwrap()) {
-        None => return (false, false),
-        Some(d) => d,
-    };
-    let gt = &fz.gt[g];
-    let cur: Vec<&Vec<u32>> = ks[..ks.len() - 1].iter().map(|&k| &fz.pred[k]).collect();
-    let all: Vec<&Vec<u32>> = ks.iter().map(|&k| &fz.pred[k]).collect();
-    let cur_pred = join_chars(&cur);
-    let merged_pred = join_chars(&all);
-    let cur_dist = ndist(gt, &cur_pred);
-    let merged_dist = ndist(gt, &merged_pred);
-    if merged_dist > cur_dist {
-        return (false, false);
-    }
-    (add < 0.6, merged_pred.len() <= fz.gt[g].len())
+    fz.sub_pred(g, *ks.last().unwrap())
 }
 
 /// An entry of `final_pred_idx_list`: a pred index or a merged run of them.
@@ -531,6 +515,13 @@ fn cal_final_match(
         let mut best: Option<(f64, Vec<usize>)> = None;
         let gpat = if unmasked_pred.is_empty() { None } else { Some(Pattern::new(&gt[g])) };
         for &p in &unmasked_pred {
+            // Levenshtein(gt, run joined with ' ') is kept as a resumable state over the run,
+            // so each step costs the appended line only (the same arithmetic as from scratch).
+            let gp = gpat.as_ref().unwrap();
+            let glen = gt[g].len();
+            let mut st = gp.start();
+            gp.feed(&mut st, &pred[p]);
+            let mut run_len = pred[p].len();
             let mut step = 1;
             let mut ks = vec![p];
             loop {
@@ -538,26 +529,27 @@ fn cal_final_match(
                     break;
                 }
                 ks.push(p + step);
-                let (flag, cont) = judge_pred_merge(&mut fz, g, &ks);
-                if !flag {
+                // judge_pred_merge
+                let Some(add) = judge_fuzzy(&mut fz, g, &ks) else { break };
+                let mut merged = st.clone();
+                gp.feed(&mut merged, &[' ' as u32]);
+                gp.feed(&mut merged, &pred[p + step]);
+                let merged_len = run_len + 1 + pred[p + step].len();
+                let cur_dist = st.score as f64 / glen.max(run_len) as f64;
+                let merged_dist = merged.score as f64 / glen.max(merged_len) as f64;
+                if merged_dist > cur_dist || !(add < 0.6) {
                     break;
                 }
                 step += 1;
-                if !cont {
+                st = merged;
+                run_len = merged_len;
+                if !(merged_len <= glen) {
                     break;
                 }
             }
             let run: Vec<usize> = (p..p + step).collect();
-            let line = join_chars(&run.iter().map(|&k| &pred[k]).collect::<Vec<_>>());
-            let maxlen = line.len().max(gt[g].len());
-            // only a strictly smaller d replaces `best`: skip when a lower bound already can't
-            if let Some((b, _)) = &best {
-                let common = if step == 1 { fz.inter(g, p) } else { lev::inter(&lev::hist(&gt[g]), &lev::hist(&line)) };
-                if (maxlen - common.min(maxlen)) as f64 / maxlen as f64 >= *b {
-                    continue;
-                }
-            }
-            let d = gpat.as_ref().unwrap().distance(&line) as f64 / maxlen as f64;
+            let maxlen = run_len.max(glen);
+            let d = st.score as f64 / maxlen as f64;
             // min() keeps the first minimum, like list.index(min(...))
             if best.as_ref().map_or(true, |(b, _)| d < *b) {
                 best = Some((d, run));
