@@ -398,64 +398,109 @@ fn simple_body(l: &Lines, gt_items: &[V], pred_items: &[V], line_type: LineType,
 
 // ------------------------------------------------------------------ quick match
 
-/// Fuzzy window distances, memoised per (gt line, pred line).
+/// Per-gold-line memo of the fuzzy window distance and the single-line Levenshtein distance,
+/// keyed by the prediction line's *text* (identical lines give identical results, and looped
+/// model output repeats a few texts thousands of times).
 struct Fuzzy<'a> {
     gt: &'a [Vec<u32>],
     pred: &'a [Vec<u32>],
-    /// sub_pred_fuzzy_matching(gt[g], pred[p]) → None for Python's False
-    sub_pred: HashMap<(usize, usize), Option<f64>>,
-    pred_patterns: HashMap<usize, Pattern>,
-    gt_hist: Vec<Option<lev::Hist>>,
+    /// pred index -> text id; text id -> one pred index with that text
+    cid: Vec<usize>,
+    rep: Vec<usize>,
+    pred_patterns: Vec<Option<Pattern>>,
     pred_hist: Vec<Option<lev::Hist>>,
+    /// the gold line the per-text caches below belong to
+    cur_g: usize,
+    gt_hist: Option<lev::Hist>,
+    /// sub_pred_fuzzy_matching(gt[cur_g], text) (outer None = not computed)
+    sub_pred: Vec<Option<Option<f64>>>,
+    /// Levenshtein(gt[cur_g], text)
+    dist1: Vec<Option<usize>>,
 }
 
 impl<'a> Fuzzy<'a> {
     fn new(gt: &'a [Vec<u32>], pred: &'a [Vec<u32>]) -> Fuzzy<'a> {
+        let mut ids: HashMap<&[u32], usize> = HashMap::new();
+        let mut rep = Vec::new();
+        let cid: Vec<usize> = pred
+            .iter()
+            .enumerate()
+            .map(|(i, l)| {
+                *ids.entry(l.as_slice()).or_insert_with(|| {
+                    rep.push(i);
+                    rep.len() - 1
+                })
+            })
+            .collect();
+        let u = rep.len();
         Fuzzy {
             gt,
             pred,
-            sub_pred: HashMap::new(),
-            pred_patterns: HashMap::new(),
-            gt_hist: (0..gt.len()).map(|_| None).collect(),
-            pred_hist: (0..pred.len()).map(|_| None).collect(),
+            cid,
+            rep,
+            pred_patterns: (0..u).map(|_| None).collect(),
+            pred_hist: (0..u).map(|_| None).collect(),
+            cur_g: usize::MAX,
+            gt_hist: None,
+            sub_pred: vec![None; u],
+            dist1: vec![None; u],
         }
     }
 
-    /// inter(gt[g], pred[p]) with cached histograms.
-    fn inter(&mut self, g: usize, p: usize) -> usize {
-        if self.gt_hist[g].is_none() {
-            self.gt_hist[g] = Some(lev::hist(&self.gt[g]));
+    fn set_g(&mut self, g: usize) {
+        if self.cur_g != g {
+            self.cur_g = g;
+            self.gt_hist = Some(lev::hist(&self.gt[g]));
+            self.sub_pred.iter_mut().for_each(|x| *x = None);
+            self.dist1.iter_mut().for_each(|x| *x = None);
         }
-        if self.pred_hist[p].is_none() {
-            self.pred_hist[p] = Some(lev::hist(&self.pred[p]));
+    }
+
+    /// inter(gt[cur_g], pred[p]) with cached histograms.
+    fn inter(&mut self, p: usize) -> usize {
+        let c = self.cid[p];
+        if self.pred_hist[c].is_none() {
+            self.pred_hist[c] = Some(lev::hist(&self.pred[p]));
         }
-        lev::inter(self.gt_hist[g].as_ref().unwrap(), self.pred_hist[p].as_ref().unwrap())
+        lev::inter(self.gt_hist.as_ref().unwrap(), self.pred_hist[c].as_ref().unwrap())
     }
 
     /// min over windows of gt (length len(pred)) of Lev(window, pred) / len(pred).
-    fn sub_pred(&mut self, g: usize, p: usize) -> Option<f64> {
-        if let Some(v) = self.sub_pred.get(&(g, p)) {
-            return *v;
+    fn sub_pred(&mut self, p: usize) -> Option<f64> {
+        let c = self.cid[p];
+        if let Some(v) = self.sub_pred[c] {
+            return v;
         }
-        let gt = &self.gt[g];
+        let gt = &self.gt[self.cur_g];
         let pr = &self.pred[p];
         let r = if gt.len() >= pr.len() && !pr.is_empty() {
             // only compared against 0.6 (`> 0.6`, `< 0.6`): exact below the first k/m > 0.6
             let w = pr.len();
             let cap = first_k(w, |d| d > 0.6);
             // every window's distance is >= w - inter(gt, pred): skip when that already reaches cap
-            if w - self.inter(g, p).min(w) >= cap {
+            if w - self.inter(p).min(w) >= cap {
                 Some(cap as f64 / w as f64)
             } else {
-                let gt = &self.gt[g];
-                let pat = self.pred_patterns.entry(p).or_insert_with(|| Pattern::new(&self.pred[p]));
-                Some(lev::min_window_capped(gt, pat, cap) as f64 / w as f64)
+                let rep = self.rep[c];
+                let pat = self.pred_patterns[c].get_or_insert_with(|| Pattern::new(&self.pred[rep]));
+                Some(lev::min_window_capped(&self.gt[self.cur_g], pat, cap) as f64 / w as f64)
             }
         } else {
             None
         };
-        self.sub_pred.insert((g, p), r);
+        self.sub_pred[c] = Some(r);
         r
+    }
+
+    /// Levenshtein(gt[cur_g], pred[p]) via the gold line's pattern.
+    fn dist1(&mut self, p: usize, gpat: &Pattern) -> usize {
+        let c = self.cid[p];
+        if let Some(d) = self.dist1[c] {
+            return d;
+        }
+        let d = gpat.distance(&self.pred[p]);
+        self.dist1[c] = Some(d);
+        d
     }
 }
 
@@ -495,21 +540,6 @@ fn ndist(a: &[u32], b: &[u32]) -> f64 {
     lev::distance(a, b) as f64 / a.len().max(b.len()) as f64
 }
 
-/// The fuzzy-window part of judge_pred_merge([gt], [norm_pred[k] for k in ks]) (threshold 0.6):
-/// None where it returns (False, False); else the last pred's window distance (`add_fuzzy_dist`).
-/// The original computes two full distances before these tests; all tests are pure, so the
-/// order does not change the result, and the distances are only needed when these pass.
-fn judge_fuzzy(fz: &mut Fuzzy, g: usize, ks: &[usize]) -> Option<f64> {
-    for &k in &ks[..ks.len() - 1] {
-        match fz.sub_pred(g, k) {
-            None => return None,
-            Some(d) if d > 0.6 => return None,
-            _ => {}
-        }
-    }
-    fz.sub_pred(g, *ks.last().unwrap())
-}
-
 /// An entry of `final_pred_idx_list`: a pred index or a merged run of them.
 #[derive(Clone, Debug, PartialEq)]
 enum PredIdx {
@@ -540,47 +570,100 @@ fn cal_final_match(
     let mut subset_certain: Vec<Vec<usize>> = Vec::new();
     let mut subset_cost: Vec<f64> = Vec::new();
     for &g in &unmasked_gt {
+        if unmasked_pred.is_empty() {
+            continue;
+        }
+        fz.set_g(g);
+        let gp = Pattern::new(&gt[g]);
+        let glen = gt[g].len();
         let mut best: Option<(f64, Vec<usize>)> = None;
-        let gpat = if unmasked_pred.is_empty() { None } else { Some(Pattern::new(&gt[g])) };
+        // Run extension memo for this gold line: every decision below depends only on the
+        // sequence of line texts in the run, so runs that start at different positions with
+        // the same texts (looped model output) share their states. node -> (state, run length);
+        // (node, next text) -> the extended node, or None where the extension is refused.
+        let mut nodes: Vec<(lev::Stream, usize)> = Vec::new();
+        let mut roots: HashMap<usize, usize> = HashMap::new();
+        let mut edges: HashMap<(usize, usize), Option<usize>> = HashMap::new();
         for &p in &unmasked_pred {
-            // Levenshtein(gt, run joined with ' ') is kept as a resumable state over the run,
-            // so each step costs the appended line only (the same arithmetic as from scratch).
-            let gp = gpat.as_ref().unwrap();
-            let glen = gt[g].len();
-            let mut st = gp.start();
-            gp.feed(&mut st, &pred[p]);
+            // Extend the run p, p+1, ... as judge_pred_merge decides. Its fuzzy tests check every
+            // ks[..-1] for `None or > 0.6`; all but ks[0] passed `add < 0.6` (stricter) when they
+            // were added, so only ks[0] (first step) and the new one need checking. The two
+            // distances are only needed once the fuzzy tests pass; Levenshtein(gt, run) is a
+            // resumable state fed one line at a time (same arithmetic as from scratch).
+            let mut node: Option<usize> = None;
             let mut run_len = pred[p].len();
             let mut step = 1;
-            let mut ks = vec![p];
             loop {
                 if p + step >= nc || masked_pred[p + step] {
                     break;
                 }
-                ks.push(p + step);
-                // judge_pred_merge
-                let Some(add) = judge_fuzzy(&mut fz, g, &ks) else { break };
-                let mut merged = st.clone();
-                gp.feed(&mut merged, &[' ' as u32]);
-                gp.feed(&mut merged, &pred[p + step]);
-                let merged_len = run_len + 1 + pred[p + step].len();
-                let cur_dist = st.score as f64 / glen.max(run_len) as f64;
-                let merged_dist = merged.score as f64 / glen.max(merged_len) as f64;
-                if merged_dist > cur_dist || !(add < 0.6) {
+                if step == 1 {
+                    match fz.sub_pred(p) {
+                        None => break,
+                        Some(d) if d > 0.6 => break,
+                        _ => {}
+                    }
+                }
+                let Some(add) = fz.sub_pred(p + step) else { break };
+                if !(add < 0.6) {
                     break;
                 }
+                let cur = match node {
+                    Some(n) => n,
+                    None => *roots.entry(fz.cid[p]).or_insert_with(|| {
+                        let mut s = gp.start();
+                        gp.feed(&mut s, &pred[p]);
+                        nodes.push((s, pred[p].len()));
+                        nodes.len() - 1
+                    }),
+                };
+                node = Some(cur);
+                let key = (cur, fz.cid[p + step]);
+                let next = match edges.get(&key) {
+                    Some(r) => *r,
+                    None => {
+                        let (ref cst, clen) = nodes[cur];
+                        let mut merged = cst.clone();
+                        gp.feed(&mut merged, &[' ' as u32]);
+                        gp.feed(&mut merged, &pred[p + step]);
+                        let merged_len = clen + 1 + pred[p + step].len();
+                        let cur_dist = cst.score as f64 / glen.max(clen) as f64;
+                        let merged_dist = merged.score as f64 / glen.max(merged_len) as f64;
+                        let r = if merged_dist > cur_dist {
+                            None
+                        } else {
+                            nodes.push((merged, merged_len));
+                            Some(nodes.len() - 1)
+                        };
+                        edges.insert(key, r);
+                        r
+                    }
+                };
+                let Some(n) = next else { break };
                 step += 1;
-                st = merged;
-                run_len = merged_len;
-                if !(merged_len <= glen) {
+                node = Some(n);
+                run_len = nodes[n].1;
+                if !(run_len <= glen) {
                     break;
                 }
             }
-            let run: Vec<usize> = (p..p + step).collect();
             let maxlen = run_len.max(glen);
-            let d = st.score as f64 / maxlen as f64;
+            let d = if step > 1 {
+                nodes[node.unwrap()].0.score as f64 / maxlen as f64
+            } else {
+                // a single line: skip it when a lower bound already cannot beat `best`
+                // (only a strictly smaller d replaces it)
+                if let Some((b, _)) = &best {
+                    let common = fz.inter(p).min(maxlen);
+                    if (maxlen - common) as f64 / maxlen as f64 >= *b {
+                        continue;
+                    }
+                }
+                fz.dist1(p, &gp) as f64 / maxlen as f64
+            };
             // min() keeps the first minimum, like list.index(min(...))
             if best.as_ref().map_or(true, |(b, _)| d < *b) {
-                best = Some((d, run));
+                best = Some((d, (p..p + step).collect()));
             }
         }
         if let Some((c, run)) = best {
