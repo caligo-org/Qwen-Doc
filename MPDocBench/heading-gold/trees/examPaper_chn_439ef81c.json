@@ -1,0 +1,47 @@
+{
+ "doc": "examPaper_chn_439ef81c",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2016年4月浙江省普通高校招生选考科目考试 地理试题",
+   "merge": [
+    2
+   ],
+   "note": "title printed over two lines (exam + subject)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "选择题部分",
+   "note": "part"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 8,
+   "text": "一、选择题(本大题共25小题，每小题2分，共50分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分)"
+  },
+  {
+   "anno": 191,
+   "level": 2,
+   "parent": 1,
+   "text": "非选择题部分"
+  },
+  {
+   "anno": 192,
+   "level": 3,
+   "parent": 191,
+   "text": "二、非选择题(本大题共4小题，共50分)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 5,
+   "note": "instructions label (考生注意)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,200 @@
+{
+ "doc": "manualGuide_eng_714e4656",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet",
+   "merge": [
+    3,
+    4
+   ],
+   "note": "models + product type + manual type merged"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 2,
+   "text": "Contents"
+  },
+  {
+   "anno": 47,
+   "level": 2,
+   "parent": 2,
+   "text": "Safety instructions"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 47,
+   "text": "General safety"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 47,
+   "text": "Installation"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 47,
+   "text": "Child safety"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 47,
+   "text": "During use"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 2,
+   "text": "Disposal"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 78,
+   "text": "Packaging materials"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 78,
+   "text": "Machine"
+  },
+  {
+   "anno": 91,
+   "level": 2,
+   "parent": 2,
+   "text": "Tips for environmental protection"
+  },
+  {
+   "anno": 101,
+   "level": 2,
+   "parent": 2,
+   "text": "Main features of your washer-dryer"
+  },
+  {
+   "anno": 116,
+   "level": 2,
+   "parent": 2,
+   "text": "Description of the appliance"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 116,
+   "text": "Front view"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 116,
+   "text": "Control panel",
+   "note": "medium bold, same look as Front view (gold L2); the TOC indents it under Description of the appliance"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 116,
+   "text": "Programme selector dial",
+   "note": "same look as Control panel; TOC indents it one deeper (look decides)"
+  },
+  {
+   "anno": 150,
+   "level": 3,
+   "parent": 116,
+   "text": "ON/OFF button"
+  },
+  {
+   "anno": 152,
+   "level": 3,
+   "parent": 116,
+   "text": "Mains-on light"
+  },
+  {
+   "anno": 154,
+   "level": 3,
+   "parent": 116,
+   "text": "START/PAUSE button"
+  },
+  {
+   "anno": 156,
+   "level": 4,
+   "parent": 154,
+   "text": "a) Start"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 154,
+   "text": "b) Pause"
+  },
+  {
+   "anno": 161,
+   "level": 3,
+   "parent": 116,
+   "text": "DELAY START button"
+  },
+  {
+   "anno": 170,
+   "level": 3,
+   "parent": 116,
+   "text": "DRYING TIME button"
+  },
+  {
+   "anno": 174,
+   "level": 3,
+   "parent": 116,
+   "text": "Programme Option buttons"
+  },
+  {
+   "anno": 178,
+   "level": 3,
+   "parent": 116,
+   "text": "SPIN SPEED"
+  },
+  {
+   "anno": 180,
+   "level": 3,
+   "parent": 116,
+   "text": "RINSE HOLD"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 27,
+   "note": "callout box label \"Important\""
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 38,
+   "of": 34
+  },
+  {
+   "anno": 42,
+   "of": 34
+  },
+  {
+   "anno": 61,
+   "of": 47
+  },
+  {
+   "anno": 121,
+   "of": 116
+  },
+  {
+   "anno": 145,
+   "of": 116
+  },
+  {
+   "anno": 167,
+   "of": 116
+  }
+ ]
+}

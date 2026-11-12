@@ -1,0 +1,34 @@
+{
+ "doc": "pptSlides_eng_52c9fd59",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "DNA SEQUENCING"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 1,
+   "text": "HISTORY OF DNA SEQUENCING"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "label of a row of structure drawings (figure group label)"
+  },
+  {
+   "anno": 13,
+   "note": "label of a row of structure drawings (figure group label)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 4,
+   "of": 1
+  }
+ ]
+}

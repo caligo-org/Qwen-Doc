@@ -1,0 +1,255 @@
+{
+ "doc": "book_chn_0875d4ae",
+ "notation": "textbook chapter: L1 chapter label + title (merged); L2 提要, 第x节, 课后思考题; L3 一、; L4 （一）; own-line sub-heads one level below their section. Run-in grey labels (1. 乳牙殆特征 ...) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "第三章 牙列与咬合",
+   "merge": [
+    2
+   ]
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "-[提要]-"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "第一节 牙列"
+  },
+  {
+   "anno": 13,
+   "level": 3,
+   "parent": 9,
+   "text": "一、牙列分类"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 9,
+   "text": "二、牙列大小的测量方法"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 9,
+   "text": "三、牙正常排列时的倾斜规律"
+  },
+  {
+   "anno": 52,
+   "level": 4,
+   "parent": 47,
+   "text": "（一）近远中向的倾斜（图3-7~10）"
+  },
+  {
+   "anno": 63,
+   "level": 4,
+   "parent": 47,
+   "text": "（二）唇（颊)舌向的倾斜（见图3-7~10）"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 47,
+   "text": "（三）垂直向关系"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 9,
+   "text": "四、牙列的?面形态特征"
+  },
+  {
+   "anno": 80,
+   "level": 4,
+   "parent": 76,
+   "text": "（一）纵?曲线（sagittal curve of occlusion）"
+  },
+  {
+   "anno": 89,
+   "level": 4,
+   "parent": 76,
+   "text": "（二）横?曲线(transverse curve of occlusion）（图3-14）"
+  },
+  {
+   "anno": 96,
+   "level": 2,
+   "parent": 1,
+   "text": "第二节 牙尖交错?"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 96,
+   "text": "一、牙尖交错?的名称与定义"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 96,
+   "text": "二、牙尖交错?的特征"
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 104,
+   "text": "（一）近远中向关系（图3-15、16）"
+  },
+  {
+   "anno": 118,
+   "level": 4,
+   "parent": 104,
+   "text": "（二）唇（颊）舌向的关系"
+  },
+  {
+   "anno": 159,
+   "level": 4,
+   "parent": 104,
+   "text": "（三）垂直向关系"
+  },
+  {
+   "anno": 189,
+   "level": 4,
+   "parent": 104,
+   "text": "（四）牙尖交错?正常的标志"
+  },
+  {
+   "anno": 197,
+   "level": 4,
+   "parent": 104,
+   "text": "（五）异常牙尖交错?"
+  },
+  {
+   "anno": 221,
+   "level": 3,
+   "parent": 96,
+   "text": "三、?的建立"
+  },
+  {
+   "anno": 224,
+   "level": 4,
+   "parent": 221,
+   "text": "（一）建?动力平衡"
+  },
+  {
+   "anno": 240,
+   "level": 4,
+   "parent": 221,
+   "text": "（二）不同发育阶段?特征"
+  },
+  {
+   "anno": 247,
+   "level": 5,
+   "parent": 240,
+   "text": "4岁以前乳牙?特征",
+   "note": "own-line sub-head inside run-in item 1. 乳牙殆特征"
+  },
+  {
+   "anno": 257,
+   "level": 5,
+   "parent": 240,
+   "text": "4~6岁期间乳牙?特征是：",
+   "note": "own-line sub-head inside run-in item 1. 乳牙殆特征"
+  },
+  {
+   "anno": 306,
+   "level": 3,
+   "parent": 96,
+   "text": "四、面部标志与面部协调关系"
+  },
+  {
+   "anno": 311,
+   "level": 4,
+   "parent": 306,
+   "text": "2. 面部协调关系",
+   "note": "own-line numbered sub-head (gold missed it); its sibling 1. is run-in"
+  },
+  {
+   "anno": 329,
+   "level": 2,
+   "parent": 1,
+   "text": "课后思考题"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 12,
+   "of": 1
+  },
+  {
+   "anno": 29,
+   "of": 1
+  },
+  {
+   "anno": 50,
+   "of": 1
+  },
+  {
+   "anno": 66,
+   "of": 1
+  },
+  {
+   "anno": 83,
+   "of": 1
+  },
+  {
+   "anno": 99,
+   "of": 1
+  },
+  {
+   "anno": 114,
+   "of": 1
+  },
+  {
+   "anno": 128,
+   "of": 1
+  },
+  {
+   "anno": 149,
+   "of": 1
+  },
+  {
+   "anno": 168,
+   "of": 1
+  },
+  {
+   "anno": 184,
+   "of": 1
+  },
+  {
+   "anno": 208,
+   "of": 1
+  },
+  {
+   "anno": 228,
+   "of": 1
+  },
+  {
+   "anno": 243,
+   "of": 1
+  },
+  {
+   "anno": 269,
+   "of": 1
+  },
+  {
+   "anno": 290,
+   "of": 1
+  },
+  {
+   "anno": 305,
+   "of": 1
+  },
+  {
+   "anno": 320,
+   "of": 1
+  }
+ ]
+}

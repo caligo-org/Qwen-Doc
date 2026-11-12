@@ -1,0 +1,68 @@
+{
+ "doc": "paper_chn_74e3f89e",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "从生育水平估计到未来人口预测"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "一、1990～2000年总和生育率估计"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 1,
+   "text": "二、预测方案选择"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 41,
+   "text": "（一）预测初始年份人口数"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 41,
+   "text": "（二）生育方案"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 41,
+   "text": "（三）预测情景方案"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 1,
+   "text": "三、预测结果"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 1,
+   "text": "参考文献："
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 27,
+   "of": 1
+  },
+  {
+   "anno": 53,
+   "of": 1
+  },
+  {
+   "anno": 72,
+   "of": 1
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "doc": "goverment_eng_5a7b6d51",
+ "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block), so the underlined section heads are the top level (several L1). Routing, classification and page tags are text.",
+ "nodes": [
+  {
+   "anno": 10,
+   "level": 1,
+   "parent": "root",
+   "text": "TIMELINE TO THE NEW CONSTITUTION"
+  },
+  {
+   "anno": 14,
+   "level": 1,
+   "parent": "root",
+   "text": "THE ROLE OF THE SENATE"
+  },
+  {
+   "anno": 19,
+   "level": 1,
+   "parent": "root",
+   "text": "OTHER ISSUES AHEAD"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

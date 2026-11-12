@@ -1,0 +1,50 @@
+{
+ "doc": "book_eng_4ba599d0",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "SIDE JOBS",
+   "note": "the book title; the author name above it is printed bigger but is text"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 5,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 5,
+   "text": "ALSO BY JIM BUTCHER",
+   "note": "front-matter list page title"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 10,
+   "text": "THE DRESDEN FILES",
+   "note": "series group heading in the also-by list"
+  },
+  {
+   "anno": 13,
+   "level": 3,
+   "parent": 10,
+   "text": "THE CODEX ALERA"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "author name on the cover"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 16,
+   "of": 5
+  }
+ ]
+}

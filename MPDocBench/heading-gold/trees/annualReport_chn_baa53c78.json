@@ -1,0 +1,62 @@
+{
+ "doc": "annualReport_chn_baa53c78",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2019年年度报告",
+   "note": "report title; company name is a separate cover line"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 4,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 10,
+   "text": "1、原材料价格波动引致的存货跌价风险",
+   "note": "numbered risk items printed as heading lines with body below"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 10,
+   "text": "2、市场与行业风险"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 10,
+   "text": "3、客户集中的风险"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 10,
+   "text": "4、技术泄密和核心技术人员流失的风险"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 10,
+   "text": "5、疫情冲击风险"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 10,
+   "text": "目录"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "company name printed apart from the report title (address and logo between them)"
+  }
+ ],
+ "repeats": []
+}

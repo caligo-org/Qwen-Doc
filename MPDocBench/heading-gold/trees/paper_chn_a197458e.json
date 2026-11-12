@@ -1,0 +1,55 @@
+{
+ "doc": "paper_chn_a197458e",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "佛坪县板栗、核桃为主的干果基地建设"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 7,
+   "text": "1 目的和意义"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 7,
+   "text": "2 国内现状"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 7,
+   "text": "3 可行性分析"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 7,
+   "text": "4 基地建设",
+   "note": "this paper's section 4, printed below the other article on p2"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 31,
+   "note": "title of a different article that starts on p2 (journal p62); not part of this document's outline (this paper continues below it)"
+  },
+  {
+   "anno": 35,
+   "note": "English title of that other article"
+  },
+  {
+   "anno": 41,
+   "note": "section of the other article"
+  },
+  {
+   "anno": 42,
+   "note": "subsection of the other article"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,102 @@
+{
+ "doc": "newspaper_chn_ed6aed31",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 光明日报, same family as newspaper_chn_eb87830d.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "note": "masthead (pinyin in the same box is text)"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "《习近平关于民政工作论述摘编》出版发行"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 1,
+   "text": "古树有了“双保险”"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 1,
+   "text": "天山焕新颜 丝路著华章",
+   "note": "——综述 subtitle in the same box is text"
+  },
+  {
+   "anno": 24,
+   "level": 4,
+   "parent": 20,
+   "text": "西部边疆日新月异"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 20,
+   "text": "民生福祉持续提升"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 1,
+   "text": "目的是为老百姓过好日子",
+   "note": "光明时评 figure rubric"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 1,
+   "text": "“争鸣专版让学术讨论别开生面”"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 1,
+   "text": "与经典对话，同现实交友"
+  },
+  {
+   "anno": 84,
+   "level": 2,
+   "parent": 1,
+   "text": "评论",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 84,
+   "text": "乐见更多青年 扎根西部建功立业"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 84,
+   "text": "为智慧生活添加更多想象空间"
+  },
+  {
+   "anno": 118,
+   "level": 3,
+   "parent": 84,
+   "text": "守护青少年成长，向网络烂梗说“不”"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 84,
+   "text": "多措并举为制造业高质量发展蓄势赋能"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 84,
+   "text": "让“幼有所育” 惠及千家万户"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

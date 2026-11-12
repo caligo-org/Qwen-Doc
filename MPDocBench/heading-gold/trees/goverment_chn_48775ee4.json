@@ -1,0 +1,14 @@
+{
+ "doc": "goverment_chn_48775ee4",
+ "notation": "goverment-v2: L1 regulation title; 第N条 article labels start their paragraphs (run-in) and are text; adoption/promulgation note is text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "密云水库水源保护条例"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

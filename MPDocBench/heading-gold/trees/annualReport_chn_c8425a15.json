@@ -1,0 +1,308 @@
+{
+ "doc": "annualReport_chn_c8425a15",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2019 年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "第一节 重要提示、目录和释义"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 8,
+   "text": "目录"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 3,
+   "text": "第二节 公司简介和主要财务指标"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 27,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 27,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 27,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 27,
+   "text": "四、注册变更情况"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 27,
+   "text": "五、其他有关资料"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 27,
+   "text": "六、主要会计数据和财务指标"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 27,
+   "text": "七、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 54,
+   "level": 4,
+   "parent": 53,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 53,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 27,
+   "text": "八、分季度主要财务指标"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 27,
+   "text": "九、非经常性损益项目及金额"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 3,
+   "text": "第三节 公司业务概要"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 79,
+   "text": "一、报告期内公司从事的主要业务"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 80,
+   "text": "（一）公司主要业务"
+  },
+  {
+   "anno": 83,
+   "level": 4,
+   "parent": 80,
+   "text": "（二）行业发展情况及公司所处行业地位"
+  },
+  {
+   "anno": 84,
+   "level": 5,
+   "parent": 83,
+   "text": "1. 白酒行业"
+  },
+  {
+   "anno": 87,
+   "level": 5,
+   "parent": 83,
+   "text": "2.猪肉行业"
+  },
+  {
+   "anno": 90,
+   "level": 3,
+   "parent": 79,
+   "text": "二、主要资产重大变化情况"
+  },
+  {
+   "anno": 91,
+   "level": 4,
+   "parent": 90,
+   "text": "1、主要资产重大变化情况"
+  },
+  {
+   "anno": 97,
+   "level": 4,
+   "parent": 90,
+   "text": "2、主要境外资产情况"
+  },
+  {
+   "anno": 99,
+   "level": 3,
+   "parent": 79,
+   "text": "三、核心竞争力分析"
+  },
+  {
+   "anno": 101,
+   "level": 4,
+   "parent": 99,
+   "text": "（一）白酒酿造与销售"
+  },
+  {
+   "anno": 102,
+   "level": 5,
+   "parent": 101,
+   "text": "1. 品牌与文化优势"
+  },
+  {
+   "anno": 104,
+   "level": 5,
+   "parent": 101,
+   "text": "2.市场及渠道优势"
+  },
+  {
+   "anno": 106,
+   "level": 5,
+   "parent": 101,
+   "text": "3.技术及人才优势"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 99,
+   "text": "（二）种猪繁育、生猪养殖、屠宰及肉制品加工"
+  },
+  {
+   "anno": 109,
+   "level": 5,
+   "parent": 108,
+   "text": "1. 品牌优势"
+  },
+  {
+   "anno": 111,
+   "level": 5,
+   "parent": 108,
+   "text": "2.全产业链优势"
+  },
+  {
+   "anno": 113,
+   "level": 5,
+   "parent": 108,
+   "text": "3. 技术优势"
+  },
+  {
+   "anno": 121,
+   "level": 2,
+   "parent": 3,
+   "text": "第四节 经营情况讨论与分析"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 121,
+   "text": "一、概述"
+  },
+  {
+   "anno": 123,
+   "level": 4,
+   "parent": 122,
+   "text": "（一）整体经营情况"
+  },
+  {
+   "anno": 125,
+   "level": 4,
+   "parent": 122,
+   "text": "（二）重要事项说明"
+  },
+  {
+   "anno": 127,
+   "level": 4,
+   "parent": 122,
+   "text": "（三）产业经营情况"
+  },
+  {
+   "anno": 128,
+   "level": 5,
+   "parent": 127,
+   "text": "1、白酒产业"
+  },
+  {
+   "anno": 132,
+   "level": 5,
+   "parent": 127,
+   "text": "2、猪肉产业"
+  },
+  {
+   "anno": 136,
+   "level": 5,
+   "parent": 127,
+   "text": "3、房地产业"
+  },
+  {
+   "anno": 138,
+   "level": 3,
+   "parent": 121,
+   "text": "二、主营业务分析"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 138,
+   "text": "1、概述"
+  },
+  {
+   "anno": 144,
+   "level": 4,
+   "parent": 138,
+   "text": "2、收入与成本"
+  },
+  {
+   "anno": 145,
+   "level": 5,
+   "parent": 144,
+   "text": "（1）营业收入构成"
+  },
+  {
+   "anno": 148,
+   "level": 5,
+   "parent": 144,
+   "text": "（2）占公司营业收入或营业利润 \\(10\\%\\) 以上的行业、产品或地区情况"
+  },
+  {
+   "anno": 157,
+   "level": 5,
+   "parent": 144,
+   "text": "（3）公司实物销售收入是否大于劳务收入"
+  },
+  {
+   "anno": 163,
+   "level": 5,
+   "parent": 144,
+   "text": "（4）公司已签订的重大销售合同截至本报告期的履行情况"
+  },
+  {
+   "anno": 165,
+   "level": 5,
+   "parent": 144,
+   "text": "（5）营业成本构成"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

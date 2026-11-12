@@ -1,0 +1,91 @@
+{
+ "doc": "researchReport_chn_a2f46550",
+ "notation": "researchReport (company note): L1 = headline + ——report-type subtitle (merged); company/stock line above is a kicker (text); L2 cover sections, body sections, appendix, disclaimer-part titles; L3 rating-definition subsections. Table titles, related reports and the office contact box are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预告点评",
+   "merge": [
+    5
+   ],
+   "note": "headline + ——report-type subtitle"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 4,
+   "text": "核心观点"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 4,
+   "text": "财务预测与投资建议"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 4,
+   "text": "投资建议"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 4,
+   "text": "风险提示"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 4,
+   "text": "附表：财务报表预测与比率分析"
+  },
+  {
+   "anno": 59,
+   "level": 2,
+   "parent": 4,
+   "text": "分析师申明"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 4,
+   "text": "投资评级和相关定义"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 62,
+   "text": "公司投资评级的量化标准"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 62,
+   "text": "行业投资评级的量化标准："
+  },
+  {
+   "anno": 80,
+   "level": 2,
+   "parent": 4,
+   "text": "免责声明"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 14,
+   "note": "公司主要财务信息: table title"
+  },
+  {
+   "anno": 26,
+   "note": "相关报告: related-reports list"
+  },
+  {
+   "anno": 90,
+   "note": "东方证券研究所: office contact box"
+  }
+ ],
+ "repeats": []
+}

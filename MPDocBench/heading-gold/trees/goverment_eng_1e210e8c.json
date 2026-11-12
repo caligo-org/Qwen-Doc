@@ -1,0 +1,50 @@
+{
+ "doc": "goverment_eng_1e210e8c",
+ "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block #6), so the underlined section heads are the top level (several L1 nodes). Routing lines, classification markings, page tags (ACCRA ... OF 004), signature are text.",
+ "nodes": [
+  {
+   "anno": 9,
+   "level": 1,
+   "parent": "root",
+   "text": "Statistics"
+  },
+  {
+   "anno": 19,
+   "level": 1,
+   "parent": "root",
+   "text": "Textiles"
+  },
+  {
+   "anno": 27,
+   "level": 1,
+   "parent": "root",
+   "text": "Apparel"
+  },
+  {
+   "anno": 29,
+   "level": 1,
+   "parent": "root",
+   "text": "AGOA Exports"
+  },
+  {
+   "anno": 37,
+   "level": 1,
+   "parent": "root",
+   "text": "China"
+  },
+  {
+   "anno": 41,
+   "level": 1,
+   "parent": "root",
+   "text": "Efforts to Increase Competitiveness"
+  },
+  {
+   "anno": 46,
+   "level": 1,
+   "parent": "root",
+   "text": "Overall Assessment of Future Competitiveness"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,74 @@
+{
+ "doc": "prospectus_eng_edf49303",
+ "notation": "prospectus-v2: L1 cover document title (PROSPECTUS); fund name and legal-form line text. L2 CONTENTS, IMPORTANT INFORMATION; L3 arrow-marked subheads.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "PROSPECTUS",
+   "note": "cover document title line (text_block missed by gold)"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 3,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 3,
+   "text": "IMPORTANT INFORMATION"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 10,
+   "text": "United States of America"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 10,
+   "text": "Canada"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 10,
+   "text": "Hong Kong"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 10,
+   "text": "Bank Holding Company Act"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 10,
+   "text": "Telephone Recording and Data Protection"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 10,
+   "text": "Luxembourg Stock Exchange"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 10,
+   "text": "Additional Information"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover"
+  }
+ ],
+ "repeats": []
+}

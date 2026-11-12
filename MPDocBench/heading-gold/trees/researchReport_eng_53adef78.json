@@ -1,0 +1,27 @@
+{
+ "doc": "researchReport_eng_53adef78",
+ "notation": "researchReport (English): L1 headline; L2 Table of Contents and body sections. Bold paragraph lead-ins are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "A new era for ESG in Asia Pacific",
+   "note": "the box also holds the series kicker GS SUSTAIN: APAC ESG Regulation, which is text"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 4,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 4,
+   "text": "Executive summary"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

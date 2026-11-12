@@ -1,0 +1,322 @@
+{
+ "doc": "magazine_eng_22066f34",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "model Boats",
+   "note": "masthead (gold text also picked up the issue line)"
+  },
+  {
+   "anno": 91,
+   "level": 2,
+   "parent": 3,
+   "text": "contents",
+   "note": "contents title"
+  },
+  {
+   "anno": 103,
+   "level": 2,
+   "parent": 3,
+   "text": "WELCOME TO THE NOVEMBER 2025 ISSUE OF MODEL BOATS",
+   "note": "editor's letter; no section printed, directly under the masthead"
+  },
+  {
+   "anno": 269,
+   "level": 2,
+   "parent": 3,
+   "text": "Signals",
+   "note": "section tag Signals"
+  },
+  {
+   "anno": 270,
+   "level": 3,
+   "parent": 269,
+   "text": "Compass 360",
+   "note": "news column label"
+  },
+  {
+   "anno": 272,
+   "level": 4,
+   "parent": 270,
+   "text": "Redcar MBC Boating Lake: fixed, filled and fabulous!"
+  },
+  {
+   "anno": 287,
+   "level": 4,
+   "parent": 270,
+   "text": "Scale Model World 2025"
+  },
+  {
+   "anno": 296,
+   "level": 4,
+   "parent": 270,
+   "text": "Blackpool Model Show 2025",
+   "note": "item continuing the Compass 360 column on p9 (Signals tag repeated = running head)"
+  },
+  {
+   "anno": 324,
+   "level": 4,
+   "parent": 270,
+   "text": "Coastal Motor Boats – Thornycroft and the origins of Fast Attack Craft"
+  },
+  {
+   "anno": 329,
+   "level": 4,
+   "parent": 270,
+   "text": "Waveny winner!"
+  },
+  {
+   "anno": 336,
+   "level": 2,
+   "parent": 3,
+   "text": "SEAL of approval",
+   "note": "section tag in the same place and style as Signals (SEAL of approval); section changes"
+  },
+  {
+   "anno": 338,
+   "level": 3,
+   "parent": 336,
+   "text": "Brown-Water Navy Revival"
+  },
+  {
+   "anno": 344,
+   "level": 4,
+   "parent": 338,
+   "text": "The LSSC"
+  },
+  {
+   "anno": 347,
+   "level": 4,
+   "parent": 338,
+   "text": "We are, indeed, most fortunate!"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 19,
+   "note": "advertisement"
+  },
+  {
+   "anno": 45,
+   "note": "advertisement"
+  },
+  {
+   "anno": 53,
+   "note": "advertisement"
+  },
+  {
+   "anno": 64,
+   "note": "colophon label"
+  },
+  {
+   "anno": 67,
+   "note": "colophon label"
+  },
+  {
+   "anno": 70,
+   "note": "colophon label"
+  },
+  {
+   "anno": 74,
+   "note": "colophon label"
+  },
+  {
+   "anno": 76,
+   "note": "colophon label"
+  },
+  {
+   "anno": 78,
+   "note": "colophon label"
+  },
+  {
+   "anno": 81,
+   "note": "colophon label"
+  },
+  {
+   "anno": 114,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 119,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 121,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 128,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 133,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 137,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 140,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 145,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 148,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 151,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 153,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 157,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 159,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 162,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 163,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 166,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 168,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 171,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 177,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 184,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 186,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 192,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 196,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 199,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 202,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 204,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 208,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 212,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 217,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 220,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 229,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 234,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 239,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 242,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 248,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 251,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 257,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 259,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 265,
+   "note": "advertisement (Howes Models, pp. 6-7)"
+  },
+  {
+   "anno": 286,
+   "note": "rubric banner above an item headline"
+  },
+  {
+   "anno": 321,
+   "note": "advertisement banner inside the page"
+  },
+  {
+   "anno": 323,
+   "note": "rubric banner above an item headline"
+  },
+  {
+   "anno": 328,
+   "note": "rubric banner above an item headline"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 63,
+   "of": 3
+  },
+  {
+   "anno": 295,
+   "of": 269
+  }
+ ]
+}

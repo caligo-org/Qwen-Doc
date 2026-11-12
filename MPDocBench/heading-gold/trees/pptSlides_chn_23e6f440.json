@@ -1,0 +1,191 @@
+{
+ "doc": "pptSlides_chn_23e6f440",
+ "notation": "pptSlides-v2 (report laid out as slides): L1 report title; L2 contents, overview spread and the coloured top sections (绿色低碳); L3 sub-sections (协同多元…) and the overview's category panels; L4 pill-framed box titles and the overview's item labels that head their own paragraph. Running header, page numbers, logo labels, infographic icon labels and stat lead-ins are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "蚂蚁集团 2022年社会公益报告"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "目录"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "2022年进展一览",
+   "note": "overview spread p3-p4"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 6,
+   "text": "绿色低碳",
+   "note": "overview category panel"
+  },
+  {
+   "anno": 10,
+   "level": 4,
+   "parent": 8,
+   "text": "生态保护修复"
+  },
+  {
+   "anno": 12,
+   "level": 4,
+   "parent": 8,
+   "text": "低碳生活倡导"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 6,
+   "text": "⼥性发展"
+  },
+  {
+   "anno": 16,
+   "level": 4,
+   "parent": 14,
+   "text": "一份基础保障"
+  },
+  {
+   "anno": 18,
+   "level": 4,
+   "parent": 14,
+   "text": "一套创就业计划"
+  },
+  {
+   "anno": 20,
+   "level": 4,
+   "parent": 14,
+   "text": "一句十年承诺"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 6,
+   "text": "乡村振兴"
+  },
+  {
+   "anno": 26,
+   "level": 4,
+   "parent": 23,
+   "text": "消费助农"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 23,
+   "text": "金融科技助农"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 6,
+   "text": "人人公益"
+  },
+  {
+   "anno": 33,
+   "level": 4,
+   "parent": 30,
+   "text": "平台带动人人参与"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 6,
+   "text": "有爱无碍"
+  },
+  {
+   "anno": 38,
+   "level": 4,
+   "parent": 35,
+   "text": "助老公益行动"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 35,
+   "text": "助残公益项目"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 1,
+   "text": "绿色低碳"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 44,
+   "text": "协同多元社会力量，助力生态保护与修复"
+  },
+  {
+   "anno": 91,
+   "level": 4,
+   "parent": 75,
+   "text": "联合国《生物多样性公约》第十五次缔约方大会，向全球展示中国企业的ESG绿色理念"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 75,
+   "text": "探索滨海湿地生态修复"
+  },
+  {
+   "anno": 98,
+   "level": 4,
+   "parent": 75,
+   "text": "沙棘模式——探索靠山吃山的“新吃法”，让沙棘成为助农增收的“金果果”"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 44,
+   "text": "倡导人人可参与的绿色低碳生活"
+  },
+  {
+   "anno": 107,
+   "level": 4,
+   "parent": 104,
+   "text": "“蚂蚁森林”绿色低碳倡导场景",
+   "note": "title of the green scenario box; its icon labels are text"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 83,
+   "note": "label rule"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 5,
+   "of": 1
+  },
+  {
+   "anno": 22,
+   "of": 1
+  },
+  {
+   "anno": 42,
+   "of": 1
+  },
+  {
+   "anno": 73,
+   "of": 1
+  },
+  {
+   "anno": 81,
+   "of": 1
+  },
+  {
+   "anno": 102,
+   "of": 1
+  }
+ ]
+}

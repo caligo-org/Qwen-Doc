@@ -1,0 +1,90 @@
+{
+ "doc": "paper_chn_95da6884",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "不同光密度对不结球白菜的生长与品质的影响"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 3,
+   "text": "材料与方法"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 23,
+   "text": "1材料与试验方法"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 23,
+   "text": "2 测定指标与方法"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 23,
+   "text": "3 数据处理"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 3,
+   "text": "实验结果"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 31,
+   "text": "1 不同光密度对不结球白菜的生物量和形态指标的影响"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 31,
+   "text": "2 不同光密度对不结球白菜的根系活力的影响"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 31,
+   "text": "3 不同光密度对不结球白菜光合色素含量的影响"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 31,
+   "text": "4 不同光密度对不结球白菜的硝酸盐和亚硝酸盐含量的影响"
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 31,
+   "text": "5 不同光密度对不结球白菜的营养品质的影响"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 3,
+   "text": "讨论"
+  },
+  {
+   "anno": 87,
+   "level": 2,
+   "parent": 3,
+   "text": "参考文献"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "English translation of the title"
+  }
+ ],
+ "repeats": []
+}

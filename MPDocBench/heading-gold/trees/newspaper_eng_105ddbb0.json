@@ -1,0 +1,356 @@
+{
+ "doc": "newspaper_eng_105ddbb0",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Washington Post A section: front page and A2 have no section tag (stories L3 under the masthead); POLITICS & THE NATION banner p3 = L2 and holds through A10 (ELECTION 2024 page label is a rubric); jumps with their own jump headline are continuation nodes.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "The Washington Post",
+   "note": "masthead"
+  },
+  {
+   "anno": 7,
+   "level": 3,
+   "parent": 1,
+   "text": "Iran's new president, a reformer, courts U.S."
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 1,
+   "text": "NFL rookie and former teammates die in crash"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 1,
+   "text": "4.1 million migrants: Where they're from, where they stay"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 1,
+   "text": "She took on a Miss. city's police. They arrested her."
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 1,
+   "text": "Biden digs in as walls close in",
+   "note": "'PUSH FOR HIS EXIT IS GAINING STEAM' above is a kicker"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 1,
+   "text": "President felt that he had a handle on the fallout, at first"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 1,
+   "text": "Biden responds to his critics with defiance. But they see him as being in denial.",
+   "note": "The Sunday Take column, A2"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 1,
+   "text": "CORRECTIONS",
+   "note": "corrections column (as 'For the record' in the reference)"
+  },
+  {
+   "anno": 145,
+   "level": 2,
+   "parent": 1,
+   "text": "POLITICS & THE NATION",
+   "note": "section banner A3"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 145,
+   "text": "Supreme Court term saw declining faith in neutrality, ethical standards"
+  },
+  {
+   "anno": 193,
+   "level": 3,
+   "parent": 145,
+   "text": "Trump tries to back away from Project 2025 as Democrats pounce"
+  },
+  {
+   "anno": 225,
+   "level": 3,
+   "parent": 145,
+   "text": "Biden's base has been the Senate, which has gone eerily quiet since the debate",
+   "note": "@PKCapitol column; 'ELECTION 2024' rubric is text"
+  },
+  {
+   "anno": 277,
+   "level": 3,
+   "parent": 145,
+   "text": "Trump allies prepare to tie Harris to president on vulnerable issues"
+  },
+  {
+   "anno": 313,
+   "level": 3,
+   "parent": 145,
+   "text": "Debate left Biden team flailing, unable to remedy worsening political narrative",
+   "continues": 51,
+   "note": "jump: BIDEN FROM A1"
+  },
+  {
+   "anno": 325,
+   "level": 4,
+   "parent": 313,
+   "text": "One bad night"
+  },
+  {
+   "anno": 342,
+   "level": 4,
+   "parent": 313,
+   "text": "Lost days"
+  },
+  {
+   "anno": 356,
+   "level": 4,
+   "parent": 313,
+   "text": "Doubling down"
+  },
+  {
+   "anno": 417,
+   "level": 3,
+   "parent": 145,
+   "text": "Civil right lawyer confronts police force in Miss. town",
+   "continues": 29,
+   "note": "jump: MISSISSIPPI FROM A1"
+  },
+  {
+   "anno": 433,
+   "level": 4,
+   "parent": 417,
+   "text": "A secret recording"
+  },
+  {
+   "anno": 448,
+   "level": 4,
+   "parent": 417,
+   "text": "A family story"
+  },
+  {
+   "anno": 482,
+   "level": 4,
+   "parent": 417,
+   "text": "Pulled over, then hired"
+  },
+  {
+   "anno": 508,
+   "level": 4,
+   "parent": 417,
+   "text": "Arrest logbooks and a trial"
+  },
+  {
+   "anno": 539,
+   "level": 3,
+   "parent": 145,
+   "text": "8 policies that could be vulnerable to challenges"
+  },
+  {
+   "anno": 549,
+   "level": 4,
+   "parent": 539,
+   "text": "1. Student loan forgiveness"
+  },
+  {
+   "anno": 557,
+   "level": 4,
+   "parent": 539,
+   "text": "2. Protections for transgender students"
+  },
+  {
+   "anno": 563,
+   "level": 4,
+   "parent": 539,
+   "text": "3. Workers' rights"
+  },
+  {
+   "anno": 571,
+   "level": 4,
+   "parent": 539,
+   "text": "4. Electric vehicle support and emissions limits"
+  },
+  {
+   "anno": 579,
+   "level": 4,
+   "parent": 539,
+   "text": "5. Corporate climate disclosures"
+  },
+  {
+   "anno": 585,
+   "level": 4,
+   "parent": 539,
+   "text": "6. Net neutrality"
+  },
+  {
+   "anno": 590,
+   "level": 4,
+   "parent": 539,
+   "text": "7. Intellectual property rights"
+  },
+  {
+   "anno": 596,
+   "level": 4,
+   "parent": 539,
+   "text": "8. Lab-developed medical tests"
+  },
+  {
+   "anno": 609,
+   "level": 3,
+   "parent": 145,
+   "text": "As Biden doubles down on staying in the race, Craig calls on him to withdraw",
+   "continues": 39,
+   "note": "jump: CANDIDACY FROM A1"
+  },
+  {
+   "anno": 675,
+   "level": 3,
+   "parent": 145,
+   "text": "The major Supreme Court rulings of 2024"
+  },
+  {
+   "anno": 679,
+   "level": 4,
+   "parent": 675,
+   "text": "Prosecuting Trump for trying to block the 2020 election results"
+  },
+  {
+   "anno": 686,
+   "level": 4,
+   "parent": 675,
+   "text": "Limits on social media posts",
+   "note": "missed by gold (same style as its siblings)"
+  },
+  {
+   "anno": 696,
+   "level": 4,
+   "parent": 675,
+   "text": "Charging Jan. 6 rioters with obstruction"
+  },
+  {
+   "anno": 702,
+   "level": 4,
+   "parent": 675,
+   "text": "Power of federal agencies",
+   "note": "missed by gold"
+  },
+  {
+   "anno": 713,
+   "level": 4,
+   "parent": 675,
+   "text": "Homeless encampments in public spaces"
+  },
+  {
+   "anno": 719,
+   "level": 4,
+   "parent": 675,
+   "text": "Emergency room abortions"
+  },
+  {
+   "anno": 727,
+   "level": 4,
+   "parent": 675,
+   "text": "SEC tribunals"
+  },
+  {
+   "anno": 733,
+   "level": 4,
+   "parent": 675,
+   "text": "Opioid lawsuit settlement"
+  },
+  {
+   "anno": 743,
+   "level": 4,
+   "parent": 675,
+   "text": "Downwind industrial pollution"
+  },
+  {
+   "anno": 749,
+   "level": 4,
+   "parent": 675,
+   "text": "White House communicating with social media companies on misinformation"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 60,
+   "note": "front-page teaser strip label"
+  },
+  {
+   "anno": 62,
+   "note": "teaser strip label"
+  },
+  {
+   "anno": 65,
+   "note": "teaser strip label"
+  },
+  {
+   "anno": 67,
+   "note": "teaser strip label"
+  },
+  {
+   "anno": 70,
+   "note": "teaser strip label"
+  },
+  {
+   "anno": 72,
+   "note": "teaser strip label"
+  },
+  {
+   "anno": 121,
+   "note": "colophon field"
+  },
+  {
+   "anno": 123,
+   "note": "colophon field"
+  },
+  {
+   "anno": 125,
+   "note": "colophon field"
+  },
+  {
+   "anno": 127,
+   "note": "colophon field"
+  },
+  {
+   "anno": 129,
+   "note": "colophon field"
+  },
+  {
+   "anno": 131,
+   "note": "colophon field"
+  },
+  {
+   "anno": 377,
+   "note": "ad"
+  },
+  {
+   "anno": 602,
+   "note": "ad"
+  },
+  {
+   "anno": 664,
+   "note": "ad"
+  },
+  {
+   "anno": 666,
+   "note": "ad"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 120,
+   "of": 1
+  }
+ ]
+}

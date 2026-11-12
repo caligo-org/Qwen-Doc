@@ -1,0 +1,167 @@
+{
+ "doc": "annualReport_eng_0c770734",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2018 ANNUAL REPORT",
+   "note": "cover title (company only as logo)"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 3,
+   "text": "FORM 10-K",
+   "note": "the embedded Form 10-K is the report's main part; the shareholder letter before it has no printed title"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 22,
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 22,
+   "text": "CRAY INC. FORM 10-K For Fiscal Year Ended December 31, 2018 INDEX",
+   "note": "contents title block (title restated + INDEX)"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 22,
+   "text": "Forward-Looking Statements"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 22,
+   "text": "PART I"
+  },
+  {
+   "anno": 62,
+   "level": 4,
+   "parent": 61,
+   "text": "Item 1. Business"
+  },
+  {
+   "anno": 63,
+   "level": 5,
+   "parent": 62,
+   "text": "General"
+  },
+  {
+   "anno": 71,
+   "level": 5,
+   "parent": 62,
+   "text": "Overview"
+  },
+  {
+   "anno": 77,
+   "level": 5,
+   "parent": 62,
+   "text": "Products, Services and Customer Support"
+  },
+  {
+   "anno": 79,
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Supercomputing Systems"
+  },
+  {
+   "anno": 96,
+   "level": 6,
+   "parent": 77,
+   "text": "Software"
+  },
+  {
+   "anno": 98,
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Analytics and AI Products"
+  },
+  {
+   "anno": 102,
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Storage and Data Management Products"
+  },
+  {
+   "anno": 106,
+   "level": 6,
+   "parent": 77,
+   "text": "Customer Support"
+  },
+  {
+   "anno": 108,
+   "level": 5,
+   "parent": 62,
+   "text": "Sales and Marketing"
+  },
+  {
+   "anno": 113,
+   "level": 5,
+   "parent": 62,
+   "text": "Manufacturing and Supply Chain"
+  },
+  {
+   "anno": 116,
+   "level": 5,
+   "parent": 62,
+   "text": "Our Markets"
+  },
+  {
+   "anno": 130,
+   "level": 5,
+   "parent": 62,
+   "text": "Competition"
+  },
+  {
+   "anno": 136,
+   "level": 5,
+   "parent": 62,
+   "text": "Intellectual Property"
+  },
+  {
+   "anno": 140,
+   "level": 5,
+   "parent": 62,
+   "text": "Employees"
+  },
+  {
+   "anno": 142,
+   "level": 5,
+   "parent": 62,
+   "text": "Corporation Information"
+  },
+  {
+   "anno": 144,
+   "level": 5,
+   "parent": 62,
+   "text": "Available Information"
+  },
+  {
+   "anno": 147,
+   "level": 4,
+   "parent": 61,
+   "text": "Item 1A. Risk Factors"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "cover slogan"
+  },
+  {
+   "anno": 2,
+   "note": "cover slogan"
+  },
+  {
+   "anno": 21,
+   "note": "issuing body on the Form 10-K cover"
+  }
+ ],
+ "repeats": []
+}

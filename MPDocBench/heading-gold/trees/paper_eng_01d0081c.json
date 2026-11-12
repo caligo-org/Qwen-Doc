@@ -1,0 +1,49 @@
+{
+ "doc": "paper_eng_01d0081c",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 2,
+   "text": "1 Introduction"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "2 Basic Definitions and Lemmas"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "3 Main Results"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 2,
+   "text": "4 Conclusion"
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

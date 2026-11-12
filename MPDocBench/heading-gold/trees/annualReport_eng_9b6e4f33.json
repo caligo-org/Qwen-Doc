@@ -1,0 +1,133 @@
+{
+ "doc": "annualReport_eng_9b6e4f33",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "FORM 10-K",
+   "note": "document title on the Form 10-K cover"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 2,
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 2,
+   "text": "Bloom Energy Corporation Annual Report on Form 10-K for the Year Ended December 31, 2024 Table of Contents"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 2,
+   "text": "SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 2,
+   "text": "Part I"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 50,
+   "text": "ITEM 1-BUSINESS"
+  },
+  {
+   "anno": 52,
+   "level": 4,
+   "parent": 51,
+   "text": "Overview"
+  },
+  {
+   "anno": 53,
+   "level": 5,
+   "parent": 52,
+   "text": "Description of Bloom Energy"
+  },
+  {
+   "anno": 55,
+   "level": 5,
+   "parent": 52,
+   "text": "Key Macro Trends"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 51,
+   "text": "Our Markets"
+  },
+  {
+   "anno": 79,
+   "level": 4,
+   "parent": 51,
+   "text": "Products & Services"
+  },
+  {
+   "anno": 80,
+   "level": 5,
+   "parent": 79,
+   "text": "Solid Oxide Platform"
+  },
+  {
+   "anno": 86,
+   "level": 5,
+   "parent": 79,
+   "text": "The Bloom Energy Server System"
+  },
+  {
+   "anno": 97,
+   "level": 5,
+   "parent": 79,
+   "text": "Value Proposition"
+  },
+  {
+   "anno": 105,
+   "level": 5,
+   "parent": 79,
+   "text": "Competition"
+  },
+  {
+   "anno": 122,
+   "level": 5,
+   "parent": 79,
+   "text": "Bloom Electrolyzer"
+  },
+  {
+   "anno": 126,
+   "level": 5,
+   "parent": 79,
+   "text": "Value Proposition"
+  },
+  {
+   "anno": 129,
+   "level": 5,
+   "parent": 79,
+   "text": "Electrolyzer Competition"
+  },
+  {
+   "anno": 131,
+   "level": 4,
+   "parent": 51,
+   "text": "Research and Development"
+  },
+  {
+   "anno": 134,
+   "level": 4,
+   "parent": 51,
+   "text": "Intellectual Property"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "issuing body on the Form 10-K cover"
+  }
+ ],
+ "repeats": []
+}

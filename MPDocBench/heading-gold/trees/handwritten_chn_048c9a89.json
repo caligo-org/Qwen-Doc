@@ -1,0 +1,85 @@
+{
+ "doc": "handwritten_chn_048c9a89",
+ "notation": "handwritten-v2: each lesson's title L1 (two lessons, two L1); numbered sections 一/二 and styled section lines (阶梯训练, 差的最大值经典习题(n), (5) 架桥选址问题) L2; exercise statements are body text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "初二数学将军饮马问题教案"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "一：“将军饮马”问题的由来"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "二：“将军饮马”数学模型(有很多模型,第一节课先探讨最常见的四种)"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 1,
+   "text": "阶梯训练.",
+   "note": "practice section label, same banner style as 一/二"
+  },
+  {
+   "anno": 44,
+   "level": 1,
+   "parent": "root",
+   "text": "“将军饮马”问题深度拓展第二课时“(新课)",
+   "note": "second lesson's title"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 44,
+   "text": "差的最大值经典习题(1)"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 44,
+   "text": "差的最大值经典习题(2)"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 44,
+   "text": "差的最大值经典习题(3)"
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 44,
+   "text": "(5) 架桥选址问题 (平移版的“将军饮马”问题)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 22,
+   "note": "exercise statement (question 1 is plain text too)"
+  },
+  {
+   "anno": 25,
+   "note": "exercise statement"
+  },
+  {
+   "anno": 30,
+   "note": "exercise statement"
+  },
+  {
+   "anno": 37,
+   "note": "exercise statement"
+  },
+  {
+   "anno": 41,
+   "note": "exercise statement"
+  }
+ ],
+ "repeats": []
+}

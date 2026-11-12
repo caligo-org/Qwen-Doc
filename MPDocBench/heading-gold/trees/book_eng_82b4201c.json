@@ -1,0 +1,309 @@
+{
+ "doc": "book_eng_82b4201c",
+ "notation": "tutorial book: L1 title; L2 roman-numbered sections; L3 lettered subsections. Each page repeats its section title: a continuation node (L2, continues the first occurrence); a repeated subsection title likewise (L3).",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Image Editing with Photoshop"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 3,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 3,
+   "text": "I. Overview of Photoshop"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 21,
+   "text": "a. What Photoshop is"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 21,
+   "text": "b. What Photoshop is used for/what it is not used for (raster vs. vector graphics)"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 21,
+   "text": "c. Where Photoshop stands in the Graphic Design world today"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 21,
+   "text": "d. Other Photoshop software"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 3,
+   "text": "II. Starting a New Project"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 40,
+   "text": "a. Opening a New Project"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 40,
+   "text": "b. Opening an Existing Project"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 40,
+   "text": "c. Color Modes"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 40,
+   "text": "d. Resolution"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 40,
+   "text": "c. The Interface Overview"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 40,
+   "text": "d. Photoshop Menus"
+  },
+  {
+   "anno": 90,
+   "level": 3,
+   "parent": 40,
+   "text": "e. Photoshop Layers Palette"
+  },
+  {
+   "anno": 109,
+   "level": 3,
+   "parent": 40,
+   "text": "f. Photoshop Other Palettes"
+  },
+  {
+   "anno": 130,
+   "level": 2,
+   "parent": 3,
+   "text": "III. Basic Tools"
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 130,
+   "text": "a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool)"
+  },
+  {
+   "anno": 133,
+   "level": 4,
+   "parent": 131,
+   "text": "Marquee Tool"
+  },
+  {
+   "anno": 136,
+   "level": 4,
+   "parent": 131,
+   "text": "Lasso, Polygonal Lasso, Magnetic Lasso"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 131,
+   "text": "Magic Wand, Quick Selection Tool"
+  },
+  {
+   "anno": 142,
+   "level": 4,
+   "parent": 131,
+   "text": "Pen Tool"
+  },
+  {
+   "anno": 145,
+   "level": 4,
+   "parent": 131,
+   "text": "Quick Mask"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 130,
+   "text": "b. Moving an Image, Transforming the Scale, Rotation, and Shear."
+  },
+  {
+   "anno": 154,
+   "level": 3,
+   "parent": 130,
+   "text": "c. Copying a Layer or Area of a Layer"
+  },
+  {
+   "anno": 162,
+   "level": 3,
+   "parent": 130,
+   "text": "d. Adding and Deleting Layers"
+  },
+  {
+   "anno": 167,
+   "level": 3,
+   "parent": 130,
+   "text": "e. Changing a Color"
+  },
+  {
+   "anno": 176,
+   "level": 3,
+   "parent": 130,
+   "text": "f. Cropping"
+  },
+  {
+   "anno": 179,
+   "level": 3,
+   "parent": 130,
+   "text": "g. Basic Drawing tools"
+  },
+  {
+   "anno": 203,
+   "level": 3,
+   "parent": 130,
+   "text": "h. Adding Text"
+  },
+  {
+   "anno": 219,
+   "level": 3,
+   "parent": 130,
+   "text": "i. Cloning"
+  },
+  {
+   "anno": 228,
+   "level": 3,
+   "parent": 130,
+   "text": "j. Other tools"
+  },
+  {
+   "anno": 242,
+   "level": 2,
+   "parent": 3,
+   "text": "IV. Saving and Printing Projects"
+  },
+  {
+   "anno": 243,
+   "level": 3,
+   "parent": 242,
+   "text": "a. Photoshop Documents (layers and effects)"
+  },
+  {
+   "anno": 245,
+   "level": 3,
+   "parent": 242,
+   "text": "b. JPG, GIF, PNG (Flattened)"
+  },
+  {
+   "anno": 254,
+   "level": 3,
+   "parent": 242,
+   "text": "c. Other Types (PDF, TIFF, EPS, BMP)"
+  },
+  {
+   "anno": 264,
+   "level": 3,
+   "parent": 242,
+   "text": "d. Print Options"
+  },
+  {
+   "anno": 267,
+   "level": 3,
+   "parent": 242,
+   "text": "e. Best Results"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 30,
+   "of": 21
+  },
+  {
+   "anno": 57,
+   "of": 40
+  },
+  {
+   "anno": 67,
+   "of": 40
+  },
+  {
+   "anno": 74,
+   "of": 40
+  },
+  {
+   "anno": 89,
+   "of": 40
+  },
+  {
+   "anno": 108,
+   "of": 40
+  },
+  {
+   "anno": 120,
+   "of": 40
+  },
+  {
+   "anno": 121,
+   "of": 109
+  },
+  {
+   "anno": 150,
+   "of": 130
+  },
+  {
+   "anno": 161,
+   "of": 130
+  },
+  {
+   "anno": 175,
+   "of": 130
+  },
+  {
+   "anno": 191,
+   "of": 130
+  },
+  {
+   "anno": 192,
+   "of": 179
+  },
+  {
+   "anno": 202,
+   "of": 130
+  },
+  {
+   "anno": 218,
+   "of": 130
+  },
+  {
+   "anno": 227,
+   "of": 130
+  },
+  {
+   "anno": 253,
+   "of": 242
+  },
+  {
+   "anno": 263,
+   "of": 242
+  }
+ ]
+}

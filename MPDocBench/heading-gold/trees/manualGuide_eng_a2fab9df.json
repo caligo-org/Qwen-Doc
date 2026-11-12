@@ -1,0 +1,37 @@
+{
+ "doc": "manualGuide_eng_a2fab9df",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "PHARRELL WILLIAMS OVER THE MOON",
+   "note": "set name; LEGO logo is a figure"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 3,
+   "text": "ÉVEILLER L'IMAGINATION"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 3,
+   "text": "ENFLAMMER LA CRÉATIVITÉ"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 3,
+   "text": "PROPULSÉ PAR LA CURIOSITÉ"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 9,
+   "note": "pull quote with attribution"
+  }
+ ],
+ "repeats": []
+}

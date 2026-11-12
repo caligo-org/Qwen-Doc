@@ -1,0 +1,40 @@
+{
+ "doc": "examPaper_chn_7603db95",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2021年6月浙江省普通高校招生选考科目考试地理试题"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "一．选择题I（本大题共20小题，每小题2分，共40分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）"
+  },
+  {
+   "anno": 138,
+   "level": 2,
+   "parent": 1,
+   "text": "二．选择题Ⅱ（本大题共5小题，每小题3分，共15分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）"
+  },
+  {
+   "anno": 177,
+   "level": 2,
+   "parent": 1,
+   "text": "三．非选择题（本大题共4小题，共45分）"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 178,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 188,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  }
+ ],
+ "repeats": []
+}

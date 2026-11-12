@@ -1,0 +1,49 @@
+{
+ "doc": "goverment_eng_d4c4a9f2",
+ "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block), so the dashed-underlined section heads are the top level (several L1). The underlined SENSITIVE BUT UNCLASSIFIED line is a classification marking (text) even though it is printed like a section head. Routing, page tags, signature are text.",
+ "nodes": [
+  {
+   "anno": 9,
+   "level": 1,
+   "parent": "root",
+   "text": "BACKGROUND TO THE MINISTERIAL"
+  },
+  {
+   "anno": 14,
+   "level": 1,
+   "parent": "root",
+   "text": "ASEAN+3 PREPARED BUT NEEDS RESEARCH, VACCINE CAPACITY"
+  },
+  {
+   "anno": 17,
+   "level": 1,
+   "parent": "root",
+   "text": "INDONESIAN NEGATIVITY TOWARDS CDC"
+  },
+  {
+   "anno": 19,
+   "level": 1,
+   "parent": "root",
+   "text": "REMARKS PRAISE DONOR COOPERATION"
+  },
+  {
+   "anno": 21,
+   "level": 1,
+   "parent": "root",
+   "text": "JOINT MINISTER'S STATEMENT"
+  },
+  {
+   "anno": 26,
+   "level": 1,
+   "parent": "root",
+   "text": "COMMENT:"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 7,
+   "note": "classification/handling marking printed in section-head style (text)"
+  }
+ ],
+ "repeats": []
+}

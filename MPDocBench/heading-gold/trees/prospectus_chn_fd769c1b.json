@@ -1,0 +1,45 @@
+{
+ "doc": "prospectus_chn_fd769c1b",
+ "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections. Cover issuer name/English name/address/sponsor/risk box are text.",
+ "nodes": [
+  {
+   "anno": 8,
+   "level": 1,
+   "parent": "root",
+   "text": "首次公开发行股票并在科创板上市招股说明书"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 8,
+   "text": "声明"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 8,
+   "text": "发行概况"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 8,
+   "text": "目录"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "cover risk-warning box title (regulatory banner)"
+  },
+  {
+   "anno": 4,
+   "note": "issuer name on cover"
+  },
+  {
+   "anno": 5,
+   "note": "issuer English name on cover"
+  }
+ ],
+ "repeats": []
+}

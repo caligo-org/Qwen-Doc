@@ -1,0 +1,72 @@
+{
+ "doc": "pptSlides_chn_39aa7ee1",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2.7 光电式传感元件"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "定义",
+   "note": "slide title (no divider slides in this deck: slide titles are L2)"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "光电检测系统"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 6,
+   "text": "两个光电式检测例子",
+   "note": "example slide for 光电检测系统; lighter style, no rule"
+  },
+  {
+   "anno": 10,
+   "level": 4,
+   "parent": 9,
+   "text": "溶液浓度或者浊度的检测",
+   "note": "block title for the first example"
+  },
+  {
+   "anno": 13,
+   "level": 4,
+   "parent": 9,
+   "text": "电机转速的检测"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "光源"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 14,
+   "text": "1）热辐射光源",
+   "note": "numbered sub-slides of 光源: numbering settles the level"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 14,
+   "text": "2）气体放电光源"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 14,
+   "text": "3）发光二极管"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

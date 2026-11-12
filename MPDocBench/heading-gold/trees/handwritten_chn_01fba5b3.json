@@ -1,0 +1,83 @@
+{
+ "doc": "handwritten_chn_01fba5b3",
+ "notation": "handwritten-v2: each note sheet's own title is L1 (several L1 when the sheets carry different titles); the title repeated on later sheets is text; circled topic headings L2; a topic repeated at the top of the next sheet is a continuation node.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "海南五天四晚行程",
+   "note": "itinerary sheet title; DAY1-DAY5 labels sit inside figure boxes (not separate elements)"
+  },
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "海南旅游攻略",
+   "note": "guide sheet title"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 7,
+   "text": "预约指南"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 7,
+   "text": "住宿指南"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 7,
+   "text": "注意事项"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 7,
+   "text": "美食安利"
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 7,
+   "text": "抵达海南"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 7,
+   "text": "日常出行"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 26,
+   "of": 7
+  },
+  {
+   "anno": 39,
+   "of": 7
+  },
+  {
+   "anno": 40,
+   "of": 27
+  },
+  {
+   "anno": 50,
+   "of": 7
+  },
+  {
+   "anno": 51,
+   "of": 27
+  },
+  {
+   "anno": 63,
+   "of": 7
+  }
+ ]
+}

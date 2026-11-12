@@ -1,0 +1,61 @@
+{
+ "doc": "manualGuide_chn_561cd575",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "AiLink 4G 血糖仪应用说明"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 3,
+   "text": "修改记录"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 3,
+   "text": "1 概述"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 3,
+   "text": "2 说明"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 3,
+   "text": "3 硬件接口"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 42,
+   "text": "3.1 硬件连接参考框图"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 42,
+   "text": "3.2串口UART"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 42,
+   "text": "3.3MCU_ON/OFF"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

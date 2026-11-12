@@ -1,0 +1,25 @@
+{
+ "doc": "financialReport_chn_d1c80a8f",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "二零二五年 上半年度 財務報告"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 2,
+   "text": "我們的宗旨",
+   "note": "small section label of the purpose spread; the large line under it is a slogan"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "slogan under the 我們的宗旨 label"
+  }
+ ],
+ "repeats": []
+}

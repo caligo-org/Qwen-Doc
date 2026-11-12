@@ -1,0 +1,630 @@
+{
+ "doc": "newspaper_eng_ad370234",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY with three sections: A (front + NEWS tag), B MONEY, C SPORTS; jumps are continuation nodes.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "USA TODAY",
+   "note": "masthead"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 6,
+   "text": "Homeless killing raises questions",
+   "note": "kicker 'MILWAUKEE SHOOTING' is text"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 6,
+   "text": "Rallygoer's death opens raw wounds"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 6,
+   "text": "'Black Death' killed 50 million people in Europe and still lingers in US today"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 6,
+   "text": "NEWS",
+   "note": "running section tag p2"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 65,
+   "text": "Shooting",
+   "continues": 14,
+   "note": "jump: Continued from Page 1A"
+  },
+  {
+   "anno": 78,
+   "level": 4,
+   "parent": 66,
+   "text": "Neighbors critical of out-of-state cops police patrolling area"
+  },
+  {
+   "anno": 88,
+   "level": 4,
+   "parent": 66,
+   "text": "Thousands of additional cops in Milwaukee for convention"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 66,
+   "text": "Milwaukee homeless shelter expanded services for convention"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 65,
+   "text": "Plague",
+   "continues": 50,
+   "note": "jump"
+  },
+  {
+   "anno": 110,
+   "level": 4,
+   "parent": 106,
+   "text": "Plague terrorized the globe, killed millions of people"
+  },
+  {
+   "anno": 121,
+   "level": 4,
+   "parent": 106,
+   "text": "Plague never went away, still circulating out West"
+  },
+  {
+   "anno": 130,
+   "level": 4,
+   "parent": 106,
+   "text": "Bubonic plague, thankfully, does not spread person-to-person"
+  },
+  {
+   "anno": 136,
+   "level": 4,
+   "parent": 106,
+   "text": "Take plague seriously, but don't worry too much"
+  },
+  {
+   "anno": 155,
+   "level": 3,
+   "parent": 65,
+   "text": "Trump rally security to be probed"
+  },
+  {
+   "anno": 168,
+   "level": 4,
+   "parent": 155,
+   "text": "Victim has 'life-altering injuries'"
+  },
+  {
+   "anno": 175,
+   "level": 4,
+   "parent": 155,
+   "text": "Iran denies plotting to kill Trump"
+  },
+  {
+   "anno": 183,
+   "level": 3,
+   "parent": 65,
+   "text": "Comperatore",
+   "continues": 33,
+   "note": "jump"
+  },
+  {
+   "anno": 192,
+   "level": 4,
+   "parent": 183,
+   "text": "Decades of service"
+  },
+  {
+   "anno": 199,
+   "level": 4,
+   "parent": 183,
+   "text": "'God first, his family second'"
+  },
+  {
+   "anno": 208,
+   "level": 4,
+   "parent": 183,
+   "text": "Gunshots, then 'Get down!'"
+  },
+  {
+   "anno": 220,
+   "level": 4,
+   "parent": 183,
+   "text": "Outpouring of support"
+  },
+  {
+   "anno": 229,
+   "level": 4,
+   "parent": 183,
+   "text": "Friends left with memories"
+  },
+  {
+   "anno": 237,
+   "level": 3,
+   "parent": 65,
+   "text": "Freedom Summer helped change US"
+  },
+  {
+   "anno": 252,
+   "level": 4,
+   "parent": 237,
+   "text": "Saluting the power of local activists"
+  },
+  {
+   "anno": 267,
+   "level": 4,
+   "parent": 237,
+   "text": "What was Freedom Summer?"
+  },
+  {
+   "anno": 276,
+   "level": 4,
+   "parent": 237,
+   "text": "'Still work to be done'"
+  },
+  {
+   "anno": 289,
+   "level": 3,
+   "parent": 65,
+   "text": "Causes of bird flu outbreak targeted"
+  },
+  {
+   "anno": 302,
+   "level": 4,
+   "parent": 289,
+   "text": "The unfolding route of transmission"
+  },
+  {
+   "anno": 309,
+   "level": 4,
+   "parent": 289,
+   "text": "Sweltering barns, feathers flying"
+  },
+  {
+   "anno": 317,
+   "level": 4,
+   "parent": 289,
+   "text": "What preparedness looks like"
+  },
+  {
+   "anno": 340,
+   "level": 3,
+   "parent": 65,
+   "text": "At least 3 dead after severe storms"
+  },
+  {
+   "anno": 370,
+   "level": 3,
+   "parent": 65,
+   "text": "Justices halt Gutierrez execution in Texas"
+  },
+  {
+   "anno": 378,
+   "level": 4,
+   "parent": 370,
+   "text": "Gutierrez's conviction and DNA testing argument"
+  },
+  {
+   "anno": 391,
+   "level": 4,
+   "parent": 370,
+   "text": "Gutierrez's execution stay is 'devastating,' nephew says"
+  },
+  {
+   "anno": 404,
+   "level": 4,
+   "parent": 370,
+   "text": "Escolastica Harrison was enjoying retirement when attacked"
+  },
+  {
+   "anno": 419,
+   "level": 2,
+   "parent": 6,
+   "text": "OPINION",
+   "note": "banner p7"
+  },
+  {
+   "anno": 421,
+   "level": 3,
+   "parent": 419,
+   "text": "DOJ went too far against Trump case"
+  },
+  {
+   "anno": 433,
+   "level": 4,
+   "parent": 421,
+   "text": "Justice Thomas raised same issue"
+  },
+  {
+   "anno": 443,
+   "level": 4,
+   "parent": 421,
+   "text": "'Very little oversight or supervision'"
+  },
+  {
+   "anno": 454,
+   "level": 4,
+   "parent": 421,
+   "text": "Immunity case could go up to Inauguration Day"
+  },
+  {
+   "anno": 459,
+   "level": 3,
+   "parent": 419,
+   "text": "Let's look at Trump's judge on documents"
+  },
+  {
+   "anno": 469,
+   "level": 4,
+   "parent": 459,
+   "text": "Judge Aileen Cannon did her part in the Trump document case."
+  },
+  {
+   "anno": 479,
+   "level": 4,
+   "parent": 459,
+   "text": "Decision to throw out document case started years ago"
+  },
+  {
+   "anno": 486,
+   "level": 4,
+   "parent": 459,
+   "text": "Let's not forget Supreme Court's role"
+  },
+  {
+   "anno": 497,
+   "level": 4,
+   "parent": 459,
+   "text": "'Future Supreme Court Justice Cannon'?"
+  },
+  {
+   "anno": 533,
+   "level": 2,
+   "parent": 6,
+   "text": "MONEY",
+   "note": "section B banner (date/section line is text)"
+  },
+  {
+   "anno": 538,
+   "level": 3,
+   "parent": 533,
+   "text": "Immigrants' effect on economy eyed"
+  },
+  {
+   "anno": 552,
+   "level": 3,
+   "parent": 533,
+   "text": "MONEYLINE",
+   "note": "briefs column label"
+  },
+  {
+   "anno": 553,
+   "level": 4,
+   "parent": 552,
+   "text": "MERCEDES BENZ, STARBUCKS JOIN IN CHARGING STATIONS"
+  },
+  {
+   "anno": 555,
+   "level": 4,
+   "parent": 552,
+   "text": "RANSOMWARE ATTACK COST CAR DEALERS $1BILLION"
+  },
+  {
+   "anno": 557,
+   "level": 4,
+   "parent": 552,
+   "text": "DISNEY SPRINGS CARRYSCUSTOMIZABLE HEADBANDS"
+  },
+  {
+   "anno": 561,
+   "level": 3,
+   "parent": 533,
+   "text": "Group: 3 cities own best conditions for renters"
+  },
+  {
+   "anno": 566,
+   "level": 4,
+   "parent": 561,
+   "text": "What cities are best for renters?"
+  },
+  {
+   "anno": 573,
+   "level": 4,
+   "parent": 561,
+   "text": "Which cities are the worst for renters?"
+  },
+  {
+   "anno": 582,
+   "level": 3,
+   "parent": 533,
+   "text": "Beware AI voice scams that could rip you off"
+  },
+  {
+   "anno": 587,
+   "level": 4,
+   "parent": 582,
+   "text": "10 popular tactics"
+  },
+  {
+   "anno": 603,
+   "level": 4,
+   "parent": 582,
+   "text": "Your plan of action"
+  },
+  {
+   "anno": 612,
+   "level": 3,
+   "parent": 533,
+   "text": "Economy",
+   "continues": 538,
+   "note": "jump: Continued from Page 1B"
+  },
+  {
+   "anno": 616,
+   "level": 4,
+   "parent": 612,
+   "text": "How many immigrants enter the US per year?"
+  },
+  {
+   "anno": 619,
+   "level": 4,
+   "parent": 612,
+   "text": "How is the US economy affected by immigration?"
+  },
+  {
+   "anno": 626,
+   "level": 4,
+   "parent": 612,
+   "text": "What percentage of jobs is filled by immigrants?"
+  },
+  {
+   "anno": 629,
+   "level": 4,
+   "parent": 612,
+   "text": "Can immigration fix labor shortages?"
+  },
+  {
+   "anno": 639,
+   "level": 4,
+   "parent": 612,
+   "text": "How does wage growth affect inflation?"
+  },
+  {
+   "anno": 647,
+   "level": 4,
+   "parent": 612,
+   "text": "Do immigrants take jobs from Americans?"
+  },
+  {
+   "anno": 650,
+   "level": 4,
+   "parent": 612,
+   "text": "Are immigrants depressing wages for Americans?"
+  },
+  {
+   "anno": 658,
+   "level": 4,
+   "parent": 612,
+   "text": "Can immigration cause inflation?"
+  },
+  {
+   "anno": 665,
+   "level": 4,
+   "parent": 612,
+   "text": "Do immigrants have a positive net impact on the economy?"
+  },
+  {
+   "anno": 671,
+   "level": 3,
+   "parent": 533,
+   "text": "Pain of Freedman's Bank collapse remains",
+   "note": "Q&A: bold questions are run-in text"
+  },
+  {
+   "anno": 696,
+   "level": 3,
+   "parent": 533,
+   "text": "Disney World's sites offer accessibility for wheelchair users"
+  },
+  {
+   "anno": 703,
+   "level": 4,
+   "parent": 696,
+   "text": "Accessibility at Orlando International Airport"
+  },
+  {
+   "anno": 707,
+   "level": 4,
+   "parent": 696,
+   "text": "Accessibility within Disney's theme parks in Orlando"
+  },
+  {
+   "anno": 718,
+   "level": 4,
+   "parent": 696,
+   "text": "Accessibility at Walt Disney World Resort hotels"
+  },
+  {
+   "anno": 730,
+   "level": 3,
+   "parent": 533,
+   "text": "50 States",
+   "note": "page-wide briefs feature under MONEY (running tag MONEY); state items are run-in text"
+  },
+  {
+   "anno": 732,
+   "level": 4,
+   "parent": 730,
+   "text": "HIGHLIGHT: INDIANA",
+   "note": "highlighted item with its own label"
+  },
+  {
+   "anno": 787,
+   "level": 2,
+   "parent": 6,
+   "text": "SPORTS",
+   "note": "section C banner"
+  },
+  {
+   "anno": 793,
+   "level": 3,
+   "parent": 787,
+   "text": "STAMPED WITH GREATNESS"
+  },
+  {
+   "anno": 808,
+   "level": 3,
+   "parent": 787,
+   "text": "Trade rumors surround All-Star fireballers"
+  },
+  {
+   "anno": 823,
+   "level": 3,
+   "parent": 787,
+   "text": "Gymnastics needs to be more accessible for kids of color"
+  },
+  {
+   "anno": 839,
+   "level": 3,
+   "parent": 787,
+   "text": "Troon",
+   "continues": 793,
+   "note": "jump: Continued from Page 1C"
+  },
+  {
+   "anno": 857,
+   "level": 3,
+   "parent": 787,
+   "text": "Armour",
+   "continues": 823,
+   "note": "jump"
+  },
+  {
+   "anno": 883,
+   "level": 3,
+   "parent": 787,
+   "text": "Rumors",
+   "continues": 808,
+   "note": "jump"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "skybox teaser"
+  },
+  {
+   "anno": 13,
+   "note": "kicker"
+  },
+  {
+   "anno": 41,
+   "note": "MORE COVERAGE pointer box"
+  },
+  {
+   "anno": 42,
+   "note": "pointer item (3A)"
+  },
+  {
+   "anno": 143,
+   "note": "colophon field"
+  },
+  {
+   "anno": 145,
+   "note": "colophon field"
+  },
+  {
+   "anno": 147,
+   "note": "colophon field"
+  },
+  {
+   "anno": 149,
+   "note": "colophon field"
+  },
+  {
+   "anno": 151,
+   "note": "colophon field"
+  },
+  {
+   "anno": 516,
+   "note": "ad"
+  },
+  {
+   "anno": 518,
+   "note": "ad"
+  },
+  {
+   "anno": 534,
+   "note": "skybox teaser"
+  },
+  {
+   "anno": 535,
+   "note": "skybox teaser"
+  },
+  {
+   "anno": 789,
+   "note": "skybox teaser"
+  },
+  {
+   "anno": 791,
+   "note": "skybox teaser"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 141,
+   "of": 6
+  },
+  {
+   "anno": 153,
+   "of": 65
+  },
+  {
+   "anno": 236,
+   "of": 65
+  },
+  {
+   "anno": 286,
+   "of": 65
+  },
+  {
+   "anno": 339,
+   "of": 65
+  },
+  {
+   "anno": 416,
+   "of": 65
+  },
+  {
+   "anno": 505,
+   "of": 6
+  },
+  {
+   "anno": 581,
+   "of": 533
+  },
+  {
+   "anno": 668,
+   "of": 533
+  },
+  {
+   "anno": 729,
+   "of": 533
+  },
+  {
+   "anno": 838,
+   "of": 787
+  }
+ ]
+}

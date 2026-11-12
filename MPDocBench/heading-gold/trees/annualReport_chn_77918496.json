@@ -1,0 +1,297 @@
+{
+ "doc": "annualReport_chn_77918496",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2019年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 4,
+   "text": "重要提示"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 7,
+   "text": "二、未出席董事情况",
+   "note": "item with a table below"
+  },
+  {
+   "anno": 13,
+   "level": 3,
+   "parent": 7,
+   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 7,
+   "text": "六、前瞻性陈述的风险声明"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 7,
+   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 7,
+   "text": "八、是否存在违反规定决策程序对外提供担保的情况？"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 7,
+   "text": "九、 重大风险提示"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 7,
+   "text": "十、其他"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 4,
+   "text": "目录"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 4,
+   "text": "第一节 释义"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 33,
+   "text": "一、释义"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 4,
+   "text": "第二节 公司简介和主要财务指标"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 37,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 37,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 37,
+   "text": "三、基本情况简介"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 37,
+   "text": "四、信息披露及备置地点"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 37,
+   "text": "五、公司股票简况"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 37,
+   "text": "六、其他相关资料"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 37,
+   "text": "七、近三年主要会计数据和财务指标"
+  },
+  {
+   "anno": 53,
+   "level": 4,
+   "parent": 52,
+   "text": "(一)主要会计数据"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 52,
+   "text": "（二） 主要财务指标"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 37,
+   "text": "八、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 64,
+   "level": 4,
+   "parent": 63,
+   "text": "(一)同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 63,
+   "text": "(二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 63,
+   "text": "(三)境内外会计准则差异的说明："
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 37,
+   "text": "九、2019年分季度主要财务数据"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 37,
+   "text": "十、非经常性损益项目和金额"
+  },
+  {
+   "anno": 82,
+   "level": 3,
+   "parent": 37,
+   "text": "十一、采用公允价值计量的项目"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 37,
+   "text": "十二、 其他"
+  },
+  {
+   "anno": 86,
+   "level": 2,
+   "parent": 4,
+   "text": "第三节 公司业务概要"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 86,
+   "text": "一、报告期内公司所从事的主要业务、经营模式及行业情况说明"
+  },
+  {
+   "anno": 88,
+   "level": 4,
+   "parent": 87,
+   "text": "1、公司主要业务"
+  },
+  {
+   "anno": 93,
+   "level": 4,
+   "parent": 87,
+   "text": "2、公司经营模式"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 87,
+   "text": "3、行业情况说明"
+  },
+  {
+   "anno": 97,
+   "level": 3,
+   "parent": 86,
+   "text": "二、报告期内公司主要资产发生重大变化情况的说明"
+  },
+  {
+   "anno": 99,
+   "level": 3,
+   "parent": 86,
+   "text": "三、报告期内核心竞争力分析"
+  },
+  {
+   "anno": 102,
+   "level": 2,
+   "parent": 4,
+   "text": "第四节 经营情况讨论与分析"
+  },
+  {
+   "anno": 103,
+   "level": 3,
+   "parent": 102,
+   "text": "一、经营情况讨论与分析"
+  },
+  {
+   "anno": 113,
+   "level": 3,
+   "parent": 102,
+   "text": "二、报告期内主要经营情况"
+  },
+  {
+   "anno": 115,
+   "level": 4,
+   "parent": 113,
+   "text": "（一） 主营业务分析"
+  },
+  {
+   "anno": 116,
+   "level": 5,
+   "parent": 115,
+   "text": "1. 利润表及现金流量表相关科目变动分析表"
+  },
+  {
+   "anno": 119,
+   "level": 5,
+   "parent": 115,
+   "text": "2. 收入和成本分析"
+  },
+  {
+   "anno": 124,
+   "level": 6,
+   "parent": 119,
+   "text": "(1). 主营业务分行业、分产品、分地区情况"
+  },
+  {
+   "anno": 132,
+   "level": 6,
+   "parent": 119,
+   "text": "(2). 产销量情况分析表"
+  },
+  {
+   "anno": 137,
+   "level": 6,
+   "parent": 119,
+   "text": "(3). 成本分析表"
+  },
+  {
+   "anno": 144,
+   "level": 6,
+   "parent": 119,
+   "text": "(4). 主要销售客户及主要供应商情况"
+  },
+  {
+   "anno": 149,
+   "level": 5,
+   "parent": 115,
+   "text": "3. 费用"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

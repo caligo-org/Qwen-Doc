@@ -1,0 +1,77 @@
+{
+ "doc": "researchReport_chn_4064c117",
+ "notation": "researchReport (company note): L1 headline + ——company/report-type subtitle line (merged); L2 事件：/点评：; L3 the bullet heading lines under 点评. Sidebar banners (基本数据, 股价走势, 相关研究报告, 报告作者) are data-box labels and lists: text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评",
+   "merge": [
+    7
+   ],
+   "note": "headline + subtitle naming company and report type"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 6,
+   "text": "事件："
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 6,
+   "text": "点评："
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 10,
+   "text": "- 疫情影响逐步消退，2020年第四季度业绩增速显著恢复"
+  },
+  {
+   "anno": 13,
+   "level": 3,
+   "parent": 10,
+   "text": "加大研发投入保障未来可持续成长，盈利能力有望不断提升"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 10,
+   "text": "· 医保IT竞争优势明显，连续中标省级新医保项目"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 10,
+   "text": "· 投资建议与盈利预测"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 10,
+   "text": "· 风险提示"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 24,
+   "note": "基本数据: sidebar data-table label"
+  },
+  {
+   "anno": 26,
+   "note": "股价走势: sidebar chart label"
+  },
+  {
+   "anno": 29,
+   "note": "相关研究报告: related-reports list"
+  },
+  {
+   "anno": 32,
+   "note": "报告作者: analyst list"
+  }
+ ],
+ "repeats": []
+}

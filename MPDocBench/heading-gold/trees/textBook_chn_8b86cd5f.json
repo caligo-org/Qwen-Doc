@@ -1,0 +1,67 @@
+{
+ "doc": "textBook_chn_8b86cd5f",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and units; L3 课; L4 框 (bar heading); L5 目.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "道德与法治",
+   "note": "cover title; series and grade/volume lines are text"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 3,
+   "text": "第一单元 富强与创新"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 29,
+   "text": "第一课 踏上强国之路"
+  },
+  {
+   "anno": 38,
+   "level": 4,
+   "parent": 35,
+   "text": "坚持改革开放"
+  },
+  {
+   "anno": 46,
+   "level": 5,
+   "parent": 38,
+   "text": "改革开放促发展"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 40,
+   "note": "activity label 运用你的经验"
+  },
+  {
+   "anno": 52,
+   "note": "activity label 阅读感悟"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 8,
+   "of": 3
+  },
+  {
+   "anno": 45,
+   "of": 29
+  },
+  {
+   "anno": 56,
+   "of": 35
+  }
+ ]
+}

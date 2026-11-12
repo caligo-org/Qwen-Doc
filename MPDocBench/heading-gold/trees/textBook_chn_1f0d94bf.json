@@ -1,0 +1,123 @@
+{
+ "doc": "textBook_chn_1f0d94bf",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and 单元; L3 课; L4 框 (bar headings); L5 目 (coloured headings).",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "思想政治",
+   "note": "cover title; 必修3 / 政治与法治 volume lines are text"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 3,
+   "text": "第一单元 中国共产党的领导",
+   "note": "unit label + unit title in one box"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 24,
+   "text": "1 第一课 历史和人民的选择",
+   "note": "lesson number badge + 第一课 + title in one box"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 26,
+   "text": "中华人民共和国成立前各种政治力量"
+  },
+  {
+   "anno": 38,
+   "level": 5,
+   "parent": 28,
+   "text": "近代中国的基本国情和主要矛盾"
+  },
+  {
+   "anno": 59,
+   "level": 5,
+   "parent": 28,
+   "text": "各种政治力量解决中国问题的方案"
+  },
+  {
+   "anno": 91,
+   "level": 5,
+   "parent": 28,
+   "text": "没有共产党就没有新中国"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 26,
+   "text": "中国共产党领导人民站起来、富起来、强起来"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 30,
+   "note": "activity box label 探究与分享"
+  },
+  {
+   "anno": 40,
+   "note": "activity box label 探究与分享"
+  },
+  {
+   "anno": 50,
+   "note": "term-box label 名词点击"
+  },
+  {
+   "anno": 51,
+   "note": "glossary terms inside the term box"
+  },
+  {
+   "anno": 61,
+   "note": "activity box label 探究与分享"
+  },
+  {
+   "anno": 75,
+   "note": "diagram title (三种建国方案 chart banner)"
+  },
+  {
+   "anno": 93,
+   "note": "activity box label 探究与分享"
+  },
+  {
+   "anno": 105,
+   "note": "activity box label 探究与分享"
+  },
+  {
+   "anno": 115,
+   "note": "activity box label 探究与分享"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 8,
+   "of": 3
+  },
+  {
+   "anno": 37,
+   "of": 24
+  },
+  {
+   "anno": 58,
+   "of": 24
+  },
+  {
+   "anno": 89,
+   "of": 24
+  },
+  {
+   "anno": 118,
+   "of": 24
+  }
+ ]
+}

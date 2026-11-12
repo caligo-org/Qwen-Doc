@@ -1,0 +1,26 @@
+{
+ "doc": "prospectus_eng_0ec528dd",
+ "notation": "prospectus-v2: L1 cover document title line (Prospectus ...); fund name, revision date and management company are text. L2 Contents.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus including fund management regulations",
+   "note": "cover document title line (Prospectus including fund management regulations)"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 2,
+   "text": "Contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover; document title is the Prospectus line"
+  }
+ ],
+ "repeats": []
+}

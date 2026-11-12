@@ -1,0 +1,98 @@
+{
+ "doc": "handwritten_chn_eac2d8c2",
+ "notation": "handwritten-v2 (course notes): chapter 第三章 L1; 3.x sections L2; (n) items L3. Own-line principle labels naming the content under them (最低能量原理（焓变判据）：, Gibbs 函数(变)判据：) are headings one level below their section (label rule); lead-ins (对于一般的化学反应：, 任意状态下：) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "第三章 化学反应的自发性."
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "3.1 自发过程"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "3.2 焓和自发变化"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 4,
+   "text": "最低能量原理（焓变判据）："
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "3.3 熵与自发过程"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 15,
+   "text": "(1) 熵"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 15,
+   "text": "(2)标准熵"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 15,
+   "text": "(3)标准摩尔熵"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 15,
+   "text": "(4)化学反应熵变."
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 15,
+   "text": "(5)热力学第二定律"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 1,
+   "text": "3.4 Gibbs函数与自发过程"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 43,
+   "text": "Gibbs 函数(变)判据："
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 43,
+   "text": "(1)标准摩尔生成Gibbs函数"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 43,
+   "text": "(2) 反应商}"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 43,
+   "text": "(3)非标摩尔反应Gibbs函数的计算"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

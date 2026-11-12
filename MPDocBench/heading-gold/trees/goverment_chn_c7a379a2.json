@@ -1,0 +1,14 @@
+{
+ "doc": "goverment_chn_c7a379a2",
+ "notation": "goverment-v2: L1 regulation title; 第N条 articles are run-in text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "废旧金属收购业治安管理办法"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

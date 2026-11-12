@@ -1,0 +1,32 @@
+{
+ "doc": "examPaper_eng_658ab010",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "\\(40^{\\mathrm{th}}\\) International Mathematical Olympiad Bucharest"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "Day I",
+   "note": "part label (first paper day) printed under the title block (missed by gold)"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "Day II",
+   "note": "part label (second paper day) (missed by gold)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 14,
+   "note": "title repeated at the top of the second day's page"
+  }
+ ],
+ "repeats": []
+}

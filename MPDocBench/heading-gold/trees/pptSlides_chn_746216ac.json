@@ -1,0 +1,158 @@
+{
+ "doc": "pptSlides_chn_746216ac",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "2022中国科技产业投资机构调研报告"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "目录 CONTENTS",
+   "merge": [
+    10
+   ],
+   "note": "contents title with its English translation"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "Part 01 科技产业投资现状",
+   "note": "the contents slide highlights Part 01 (others greyed): it is also the divider for Part 01; text = highlighted entry"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 12,
+   "text": "1.1 市场环境PEST"
+  },
+  {
+   "anno": 17,
+   "level": 4,
+   "parent": 15,
+   "text": "科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂”",
+   "note": "slide headline under the numbered slide title"
+  },
+  {
+   "anno": 18,
+   "level": 5,
+   "parent": 17,
+   "text": "政策",
+   "note": "PEST quadrant block titles"
+  },
+  {
+   "anno": 21,
+   "level": 5,
+   "parent": 17,
+   "text": "社会"
+  },
+  {
+   "anno": 22,
+   "level": 5,
+   "parent": 17,
+   "text": "经济"
+  },
+  {
+   "anno": 25,
+   "level": 5,
+   "parent": 17,
+   "text": "技术"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 12,
+   "text": "1.2 投资格局分析"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 30,
+   "text": "科技产业已是投资机构“必选项”，科技产业融资项目月均达160个"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 30,
+   "text": "科技投资数字产业化、产业数字化两手抓，智能制造依旧深受喜爱"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 12,
+   "text": "1.3科技产业生态体系：传统产业投资布局方式"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 54,
+   "text": "基于初级数字经济体系的传统科技产业布局已然无法满足新时代经济新动能需求"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 12,
+   "text": "1.3科技产业生态体系：新型生态体系投资布局方式",
+   "note": "second 1.3 slide with a different title: sibling, not a child"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 64,
+   "text": "科技产业投资布局体系的升级至关重要，投资机构应尝试构建Web3.0体系下的新生态"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 12,
+   "text": "1.4科技投资机构经营情况"
+  },
+  {
+   "anno": 75,
+   "level": 4,
+   "parent": 73,
+   "text": "“差异”显现，国企央企与政府单位类机构与民营机构收入更容易达百亿"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 12,
+   "text": "1.5 科技投资机构基金类型情况"
+  },
+  {
+   "anno": 87,
+   "level": 4,
+   "parent": 85,
+   "text": "个人和外企类偏好天使基金和VC基金，政府和民营类涉猎PE基金居多"
+  },
+  {
+   "anno": 97,
+   "level": 3,
+   "parent": 12,
+   "text": "1.6科技投资机构基金募集周期和管理费率"
+  },
+  {
+   "anno": 99,
+   "level": 4,
+   "parent": 97,
+   "text": "超七成机构偏好9个月内完成融资，管理费率多集中在2%-3%"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 26,
+   "note": "centre label of the PEST diagram (takeaway), not a block title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 42,
+   "of": 30
+  }
+ ]
+}

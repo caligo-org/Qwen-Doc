@@ -1,0 +1,23 @@
+{
+ "doc": "goverment_eng_b95bd887",
+ "notation": "goverment-v2 report: L1 = cover title, the act name and the report type (Report to Congress, printed lower on the cover) merged into one heading. Title page repeat, issuing bureau, date, photo credits are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Senator Paul Simon Water for the Poor Act Report to Congress",
+   "merge": [
+    4
+   ],
+   "note": "cover title: act name + report type"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 9,
+   "note": "title repeated on the title page"
+  }
+ ],
+ "repeats": []
+}

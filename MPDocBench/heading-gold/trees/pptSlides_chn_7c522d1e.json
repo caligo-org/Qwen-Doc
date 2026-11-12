@@ -1,0 +1,71 @@
+{
+ "doc": "pptSlides_chn_7c522d1e",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "第三章 离散信号的分析"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示",
+   "note": "section-opening slide listing its sub-topics: divider"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 9,
+   "text": "复习 傅里叶变换的离散性与周期性"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 9,
+   "text": "计算机能够处理的数据"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 9,
+   "text": "复习 傅里叶变换的离散性与周期性",
+   "continues": 16
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 9,
+   "text": "从有限长序列的DTFT到DFT"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 9,
+   "text": "DFT的引出"
+  },
+  {
+   "anno": 48,
+   "level": 4,
+   "parent": 46,
+   "text": "1、 DFT 的引出",
+   "note": "numbered red block title inside the slide"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 9,
+   "text": "能量有限、时间长度为 L 的有限长序列的 DTFT 为"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 9,
+   "text": "从DFS到DFT"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

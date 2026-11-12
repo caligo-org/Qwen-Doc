@@ -1,0 +1,106 @@
+{
+ "doc": "researchReport_eng_b3735ab5",
+ "notation": "researchReport (Top of Mind special issue in charts): L1 = masthead + issue title (one box); L2 = page banners. Crossword list labels (Across:/Down:), the theme-number badge on the divider panel, and exhibit/table titles under a banner (Short history..., Which US banks..., Which global banks...) are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "TOP of MIND 2023: 3 THEMES IN CHARTS",
+   "note": "masthead and issue title share one box"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 4,
+   "text": "Revisiting 2023 themes, crossword-style"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 4,
+   "text": "In the words of our 2023 interviewees"
+  },
+  {
+   "anno": 131,
+   "level": 2,
+   "parent": 4,
+   "text": "Ample soft landing evidence (so far)"
+  },
+  {
+   "anno": 161,
+   "level": 2,
+   "parent": 4,
+   "text": "Bonds are back…"
+  },
+  {
+   "anno": 190,
+   "level": 2,
+   "parent": 4,
+   "text": "...and JGBs are still in focus"
+  },
+  {
+   "anno": 219,
+   "level": 2,
+   "parent": 4,
+   "text": "JGB yields: higher, but still low"
+  },
+  {
+   "anno": 225,
+   "level": 2,
+   "parent": 4,
+   "text": "UST yields: higher, but near average"
+  },
+  {
+   "anno": 231,
+   "level": 2,
+   "parent": 4,
+   "text": "Higher-for-longer: banking tremors…"
+  },
+  {
+   "anno": 244,
+   "level": 2,
+   "parent": 4,
+   "text": "...have since subsided"
+  },
+  {
+   "anno": 275,
+   "level": 2,
+   "parent": 4,
+   "text": "...but new bank regulation is on the way"
+  },
+  {
+   "anno": 287,
+   "level": 2,
+   "parent": 4,
+   "text": "Higher-for-longer: credit still holding up"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 19,
+   "note": "Across: crossword clue-list label"
+  },
+  {
+   "anno": 39,
+   "note": "Down: crossword clue-list label"
+  },
+  {
+   "anno": 114,
+   "note": "theme number badge (1) on a divider panel with no printed title"
+  },
+  {
+   "anno": 238,
+   "note": "exhibit title on the continuation page of the banking-tremors spread"
+  },
+  {
+   "anno": 276,
+   "note": "table title bar"
+  },
+  {
+   "anno": 279,
+   "note": "figure title"
+  }
+ ],
+ "repeats": []
+}

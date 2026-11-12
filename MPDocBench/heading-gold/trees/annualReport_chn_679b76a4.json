@@ -1,0 +1,212 @@
+{
+ "doc": "annualReport_chn_679b76a4",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2019 年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 8,
+   "text": "目录"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 31,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 31,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 31,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 31,
+   "text": "四、注册变更情况"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 31,
+   "text": "五、其他有关资料"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 31,
+   "text": "六、主要会计数据和财务指标"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 31,
+   "text": "七、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 60,
+   "level": 4,
+   "parent": 59,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 63,
+   "level": 4,
+   "parent": 59,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 31,
+   "text": "八、分季度主要财务指标"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 31,
+   "text": "九、非经常性损益项目及金额"
+  },
+  {
+   "anno": 85,
+   "level": 2,
+   "parent": 3,
+   "text": "第三节公司业务概要"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 85,
+   "text": "一、报告期内公司从事的主要业务"
+  },
+  {
+   "anno": 87,
+   "level": 4,
+   "parent": 86,
+   "text": "（一）公司主要业务"
+  },
+  {
+   "anno": 89,
+   "level": 4,
+   "parent": 86,
+   "text": "（二）公司业务经营模式"
+  },
+  {
+   "anno": 90,
+   "level": 5,
+   "parent": 89,
+   "text": "1、特种防伪环保纸的销售"
+  },
+  {
+   "anno": 92,
+   "level": 5,
+   "parent": 89,
+   "text": "2、印刷品的研发、生产与销售"
+  },
+  {
+   "anno": 94,
+   "level": 5,
+   "parent": 89,
+   "text": "3、工业大麻的种植、加工及应用场景研发"
+  },
+  {
+   "anno": 100,
+   "level": 5,
+   "parent": 89,
+   "text": "4、新型烟草和非烟草不燃制品的研发及销售。"
+  },
+  {
+   "anno": 102,
+   "level": 5,
+   "parent": 89,
+   "text": "5、有机生物农业土壤改造业务。"
+  },
+  {
+   "anno": 104,
+   "level": 4,
+   "parent": 86,
+   "text": "（三）行业发展及周期性特点"
+  },
+  {
+   "anno": 105,
+   "level": 5,
+   "parent": 104,
+   "text": "1、包装印刷行业市场前景广阔，绿色环保或成主要趋势"
+  },
+  {
+   "anno": 107,
+   "level": 5,
+   "parent": 104,
+   "text": "2、新型烟草制品行业增长态势明显"
+  },
+  {
+   "anno": 109,
+   "level": 5,
+   "parent": 104,
+   "text": "3、工业大麻全球市场逐步开放，应用场景广泛"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 85,
+   "text": "二、主要资产重大变化情况"
+  },
+  {
+   "anno": 117,
+   "level": 4,
+   "parent": 116,
+   "text": "1、主要资产重大变化情况"
+  },
+  {
+   "anno": 123,
+   "level": 4,
+   "parent": 116,
+   "text": "2、主要境外资产情况"
+  },
+  {
+   "anno": 126,
+   "level": 3,
+   "parent": 85,
+   "text": "三、核心竞争力分析"
+  },
+  {
+   "anno": 128,
+   "level": 4,
+   "parent": 126,
+   "text": "1. 自主创新，核心技术专利领先优势"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

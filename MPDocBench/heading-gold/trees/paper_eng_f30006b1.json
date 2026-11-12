@@ -1,0 +1,61 @@
+{
+ "doc": "paper_eng_f30006b1",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Deconstructing the Census Bureau's Retail Trade E-Commerce Figures"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 4,
+   "text": "Lessons Learned"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 4,
+   "text": "Introduction"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 4,
+   "text": "Where Can Users Find Census Bureau E-Commerce Data?"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 4,
+   "text": "What E-Commerce Data Does the Census Report?"
+  },
+  {
+   "anno": 104,
+   "level": 2,
+   "parent": 4,
+   "text": "Moving Towards a More Transparent E-Commerce Number"
+  },
+  {
+   "anno": 144,
+   "level": 2,
+   "parent": 4,
+   "text": "Convergence: The Omni-Channel Exemption"
+  },
+  {
+   "anno": 179,
+   "level": 2,
+   "parent": 4,
+   "text": "So Where Does That Leave Us?"
+  },
+  {
+   "anno": 191,
+   "level": 2,
+   "parent": 4,
+   "text": "Appendix: In Focus: Unpacking Amazon's Sales"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

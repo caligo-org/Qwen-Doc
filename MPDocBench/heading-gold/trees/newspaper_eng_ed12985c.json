@@ -1,0 +1,308 @@
+{
+ "doc": "newspaper_eng_ed12985c",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY, same family as newspaper_eng_e4dd9616.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "USA TODAY",
+   "note": "masthead"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 6,
+   "text": "Can Biden overcome damaging debate?",
+   "note": "Susan Page column"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 6,
+   "text": "Workplace safety rules may be next target of high court"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 6,
+   "text": "At 60, Civil Rights Act 'propelled a movement'"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 6,
+   "text": "Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 6,
+   "text": "NEWS",
+   "note": "running section tag p2"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 62,
+   "text": "In major decision, Supreme Court allows cities to ban homeless camps"
+  },
+  {
+   "anno": 71,
+   "level": 4,
+   "parent": 63,
+   "text": "Cruel and unusual punishment?"
+  },
+  {
+   "anno": 80,
+   "level": 4,
+   "parent": 63,
+   "text": "'Urgent relief' to communities"
+  },
+  {
+   "anno": 87,
+   "level": 4,
+   "parent": 63,
+   "text": "Criminalizing homelessness in a city without a homeless shelter"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 62,
+   "text": "Beryl",
+   "continues": 50,
+   "note": "jump: Continued from Page 1A"
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 95,
+   "text": "Will Hurricane Beryl hit the US?"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 95,
+   "text": "What is the outlook for the 2024 season?"
+  },
+  {
+   "anno": 118,
+   "level": 3,
+   "parent": 62,
+   "text": "Safety rules",
+   "continues": 31,
+   "note": "jump"
+  },
+  {
+   "anno": 125,
+   "level": 4,
+   "parent": 118,
+   "text": "A falling catwalk brace injures a worker: The penalty is $5,967"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 118,
+   "text": "Safety law OK'd by Richard Nixon"
+  },
+  {
+   "anno": 133,
+   "level": 4,
+   "parent": 118,
+   "text": "'Nearly unfettered discretion'?"
+  },
+  {
+   "anno": 158,
+   "level": 3,
+   "parent": 62,
+   "text": "Civil rights",
+   "continues": 43,
+   "note": "jump"
+  },
+  {
+   "anno": 165,
+   "level": 4,
+   "parent": 158,
+   "text": "Extended lives, improved educational success, helped people get better jobs",
+   "note": "contributor essay title"
+  },
+  {
+   "anno": 176,
+   "level": 4,
+   "parent": 158,
+   "text": "We are living proof of progress"
+  },
+  {
+   "anno": 186,
+   "level": 4,
+   "parent": 158,
+   "text": "Still need to protect the civil liberties of all citizens"
+  },
+  {
+   "anno": 195,
+   "level": 4,
+   "parent": 158,
+   "text": "A conservative perspective: We've gone too far"
+  },
+  {
+   "anno": 203,
+   "level": 4,
+   "parent": 158,
+   "text": "Our 'abiding commitment to freedom' is being undermined"
+  },
+  {
+   "anno": 216,
+   "level": 4,
+   "parent": 158,
+   "text": "Souls lost to exploitation, racism"
+  },
+  {
+   "anno": 226,
+   "level": 4,
+   "parent": 158,
+   "text": "Every generation makes progress"
+  },
+  {
+   "anno": 234,
+   "level": 4,
+   "parent": 158,
+   "text": "We still have a very long way to go."
+  },
+  {
+   "anno": 244,
+   "level": 4,
+   "parent": 158,
+   "text": "Channel discontent"
+  },
+  {
+   "anno": 255,
+   "level": 4,
+   "parent": 158,
+   "text": "All created in the image of God"
+  },
+  {
+   "anno": 265,
+   "level": 4,
+   "parent": 158,
+   "text": "It is all of our responsibility"
+  },
+  {
+   "anno": 274,
+   "level": 4,
+   "parent": 158,
+   "text": "We must take an active role in protecting its legacy"
+  },
+  {
+   "anno": 286,
+   "level": 3,
+   "parent": 62,
+   "text": "Refugees in NY mourn teens shot and killed by police"
+  },
+  {
+   "anno": 296,
+   "level": 4,
+   "parent": 286,
+   "text": "Timeline of events"
+  },
+  {
+   "anno": 306,
+   "level": 4,
+   "parent": 286,
+   "text": "Family present"
+  },
+  {
+   "anno": 311,
+   "level": 4,
+   "parent": 286,
+   "text": "State attorney investigation"
+  },
+  {
+   "anno": 316,
+   "level": 4,
+   "parent": 286,
+   "text": "Further questions"
+  },
+  {
+   "anno": 322,
+   "level": 4,
+   "parent": 286,
+   "text": "Social media video"
+  },
+  {
+   "anno": 329,
+   "level": 3,
+   "parent": 62,
+   "text": "Page",
+   "continues": 14,
+   "note": "jump of the Susan Page column, jump head is the columnist's name as printed"
+  },
+  {
+   "anno": 332,
+   "level": 4,
+   "parent": 329,
+   "text": "The lessons of 'Access Hollywood'"
+  },
+  {
+   "anno": 339,
+   "level": 4,
+   "parent": 329,
+   "text": "Chaos at the convention: Not a political asset"
+  },
+  {
+   "anno": 357,
+   "level": 3,
+   "parent": 62,
+   "text": "Gathering of 10,000 hippies shut down before it starts"
+  },
+  {
+   "anno": 363,
+   "level": 4,
+   "parent": 357,
+   "text": "Rainbow Family roots go back more than 50 years"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 24,
+   "note": "front-page teaser pointing to 6A"
+  },
+  {
+   "anno": 46,
+   "note": "deck under the photo"
+  },
+  {
+   "anno": 145,
+   "note": "colophon field"
+  },
+  {
+   "anno": 147,
+   "note": "colophon field"
+  },
+  {
+   "anno": 149,
+   "note": "colophon field"
+  },
+  {
+   "anno": 151,
+   "note": "colophon field"
+  },
+  {
+   "anno": 153,
+   "note": "colophon field"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 143,
+   "of": 6
+  },
+  {
+   "anno": 155,
+   "of": 62
+  },
+  {
+   "anno": 285,
+   "of": 62
+  }
+ ]
+}

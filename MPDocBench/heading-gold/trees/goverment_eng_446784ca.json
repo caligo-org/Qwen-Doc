@@ -1,0 +1,110 @@
+{
+ "doc": "goverment_eng_446784ca",
+ "notation": "goverment-v2 directory: L1 cover title (issuer line and title share one box); L2 report section; L3 country; post entries (bold city name run-in before the address) and officer tables are text; running footers text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "United States Department of State Telephone Directory"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "Key Officers of Foreign Service Posts"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 7,
+   "text": "Afghanistan"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 7,
+   "text": "Albania"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 7,
+   "text": "Algeria"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 7,
+   "text": "Angola"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 7,
+   "text": "Argentina"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 7,
+   "text": "Armenia"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 7,
+   "text": "Australia"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 7,
+   "text": "Austria"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 7,
+   "text": "Azerbaijan"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 7,
+   "text": "BAHAMAS, THE"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 7,
+   "text": "Bahrain"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 7,
+   "text": "Bangladesh"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 7,
+   "text": "Barbados"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 7,
+   "text": "BELARUS"
+  },
+  {
+   "anno": 88,
+   "level": 3,
+   "parent": 7,
+   "text": "Belgium"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

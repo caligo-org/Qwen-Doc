@@ -1,0 +1,35 @@
+{
+ "doc": "nationalStandard_chn_1a47ad75",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "民用无人驾驶航空器系统安全要求 Safety requirements for civil unmanned aircraft system",
+   "merge": [
+    6
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 5,
+   "text": "目次"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 5,
+   "text": "前言"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  }
+ ],
+ "repeats": []
+}

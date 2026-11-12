@@ -1,0 +1,65 @@
+{
+ "doc": "manualGuide_chn_b4d94d54",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "大宗农产品进口报告 用户操作手册",
+   "merge": [
+    5
+   ],
+   "note": "system name + manual type (用户操作手册, missed by gold) merged"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 4,
+   "text": "目录"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 4,
+   "text": "1 引言"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 13,
+   "text": "1.1编写目的"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 13,
+   "text": "1.2背景"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 13,
+   "text": "1.3定义"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 4,
+   "text": "2 用途功能"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 23,
+   "text": "2.1功能"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 23,
+   "text": "2.2系统要求"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

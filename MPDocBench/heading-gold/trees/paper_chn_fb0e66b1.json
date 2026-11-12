@@ -1,0 +1,88 @@
+{
+ "doc": "paper_chn_fb0e66b1",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 7,
+   "text": "1 材料与方法"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 38,
+   "text": "1.1 数据来源"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 38,
+   "text": "1.2 研究方法"
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 7,
+   "text": "2 结果与讨论"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 70,
+   "text": "2.1 数据预处理"
+  },
+  {
+   "anno": 72,
+   "level": 4,
+   "parent": 71,
+   "text": "2.1.1 数据正态分布检验"
+  },
+  {
+   "anno": 83,
+   "level": 4,
+   "parent": 71,
+   "text": "2.1.2 克里格插值参数选择及块金效应计算"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 70,
+   "text": "2.2 开采对土壤物理性质扰动的统计变化规律"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 70,
+   "text": "2.3 开采对土壤物理性质扰动的空间变异规律"
+  },
+  {
+   "anno": 121,
+   "level": 2,
+   "parent": 7,
+   "text": "3 结论与建议"
+  },
+  {
+   "anno": 127,
+   "level": 2,
+   "parent": 7,
+   "text": "参考文献："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 15,
+   "note": "English translation of the title"
+  },
+  {
+   "anno": 173,
+   "note": "journal subscription notice (ad)"
+  }
+ ],
+ "repeats": []
+}

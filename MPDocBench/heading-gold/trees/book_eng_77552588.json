@@ -1,0 +1,327 @@
+{
+ "doc": "book_eng_77552588",
+ "notation": "manual chapter: L1 chapter title; L2 numbered sections (1.x banner); L3 uppercase bold heads; mixed-case bold heads one level below the uppercase head they follow (L4), or L3 where the section has no uppercase head. KEY POINTS boxes, pull quotes and epigraph attributions are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Organization and management of the district hospital surgical service"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "1.1 THE DISTRICT HOSPITAL"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 3,
+   "text": "You, your staff, systems and site",
+   "note": "mixed-case bold head (gold missed it); section 1.1 has no uppercase head"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 3,
+   "text": "Community partners"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 1,
+   "text": "1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 36,
+   "text": "ROLE OF THE LEADER WITHIN A HEALTH CARE TEAM"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 36,
+   "text": "LEADERSHIP STYLES"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 64,
+   "text": "Democratic"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 64,
+   "text": "Autocratic"
+  },
+  {
+   "anno": 70,
+   "level": 4,
+   "parent": 64,
+   "text": "Laissez-faire"
+  },
+  {
+   "anno": 72,
+   "level": 4,
+   "parent": 64,
+   "text": "Anarchic"
+  },
+  {
+   "anno": 74,
+   "level": 4,
+   "parent": 64,
+   "text": "Consensus"
+  },
+  {
+   "anno": 76,
+   "level": 4,
+   "parent": 64,
+   "text": "Situational"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 36,
+   "text": "COMMUNICATION"
+  },
+  {
+   "anno": 94,
+   "level": 4,
+   "parent": 79,
+   "text": "Listening",
+   "note": "mixed-case head after COMMUNICATION"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 36,
+   "text": "WORKING WITH OTHERS"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 96,
+   "text": "Meetings"
+  },
+  {
+   "anno": 140,
+   "level": 4,
+   "parent": 96,
+   "text": "Feedback"
+  },
+  {
+   "anno": 149,
+   "level": 2,
+   "parent": 1,
+   "text": "1.3 ETHICS"
+  },
+  {
+   "anno": 152,
+   "level": 3,
+   "parent": 149,
+   "text": "PATIENT CONSENT"
+  },
+  {
+   "anno": 172,
+   "level": 3,
+   "parent": 149,
+   "text": "DISCLOSURE"
+  },
+  {
+   "anno": 177,
+   "level": 3,
+   "parent": 149,
+   "text": "CARING FOR CARE GIVERS"
+  },
+  {
+   "anno": 182,
+   "level": 2,
+   "parent": 1,
+   "text": "1.4 EDUCATION"
+  },
+  {
+   "anno": 184,
+   "level": 3,
+   "parent": 182,
+   "text": "PLANNING"
+  },
+  {
+   "anno": 228,
+   "level": 3,
+   "parent": 182,
+   "text": "ROUNDS"
+  },
+  {
+   "anno": 229,
+   "level": 4,
+   "parent": 228,
+   "text": "Morning report"
+  },
+  {
+   "anno": 234,
+   "level": 4,
+   "parent": 228,
+   "text": "Bedside teaching rounds"
+  },
+  {
+   "anno": 238,
+   "level": 4,
+   "parent": 228,
+   "text": "Formal educational rounds"
+  },
+  {
+   "anno": 240,
+   "level": 4,
+   "parent": 228,
+   "text": "Morbidity and mortality meetings"
+  },
+  {
+   "anno": 242,
+   "level": 4,
+   "parent": 228,
+   "text": "Team training in critical care practice"
+  },
+  {
+   "anno": 247,
+   "level": 4,
+   "parent": 228,
+   "text": "Hospital library",
+   "note": "same look as the other ROUNDS items"
+  },
+  {
+   "anno": 251,
+   "level": 2,
+   "parent": 1,
+   "text": "1.5 RECORD KEEPING"
+  },
+  {
+   "anno": 269,
+   "level": 3,
+   "parent": 251,
+   "text": "Admission note/preoperative note"
+  },
+  {
+   "anno": 271,
+   "level": 3,
+   "parent": 251,
+   "text": "Operating room records"
+  },
+  {
+   "anno": 279,
+   "level": 3,
+   "parent": 251,
+   "text": "Delivery book"
+  },
+  {
+   "anno": 281,
+   "level": 3,
+   "parent": 251,
+   "text": "The operative note"
+  },
+  {
+   "anno": 283,
+   "level": 3,
+   "parent": 251,
+   "text": "Postoperative note"
+  },
+  {
+   "anno": 294,
+   "level": 3,
+   "parent": 251,
+   "text": "Discharge note"
+  },
+  {
+   "anno": 299,
+   "level": 3,
+   "parent": 251,
+   "text": "Standard operating procedures"
+  },
+  {
+   "anno": 301,
+   "level": 3,
+   "parent": 251,
+   "text": "Interhospital communication"
+  },
+  {
+   "anno": 307,
+   "level": 2,
+   "parent": 1,
+   "text": "1.6 EVALUATION"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 17,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 33,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 117,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 120,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 161,
+   "note": "KEY POINT box label"
+  },
+  {
+   "anno": 187,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 191,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 197,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 263,
+   "note": "KEY POINTS box label"
+  },
+  {
+   "anno": 317,
+   "note": "KEY POINTS box label"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 40,
+   "of": 1
+  },
+  {
+   "anno": 90,
+   "of": 1
+  },
+  {
+   "anno": 143,
+   "of": 1
+  },
+  {
+   "anno": 176,
+   "of": 1
+  },
+  {
+   "anno": 221,
+   "of": 1
+  },
+  {
+   "anno": 246,
+   "of": 1
+  },
+  {
+   "anno": 290,
+   "of": 1
+  }
+ ]
+}

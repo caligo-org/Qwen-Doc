@@ -1,0 +1,41 @@
+{
+ "doc": "annualReport_eng_dd7d06a3",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2024 Annual Report",
+   "merge": [
+    2
+   ],
+   "note": "year printed above the report title: one title in two boxes"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 3,
+   "text": "FORM 10-K",
+   "note": "embedded Form 10-K"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 7,
+   "text": "Documents Incorporated By Reference"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 7,
+   "text": "INDEX"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "issuing body on the Form 10-K cover"
+  }
+ ],
+ "repeats": []
+}

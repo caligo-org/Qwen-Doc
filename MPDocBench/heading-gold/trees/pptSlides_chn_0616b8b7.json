@@ -1,0 +1,78 @@
+{
+ "doc": "pptSlides_chn_0616b8b7",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "7.2 马尔可夫决策过程",
+   "note": "deck title; the book/chapter line above is the series line"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "马尔可夫决策过程简介",
+   "note": "intro slide before the first divider"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 3,
+   "text": "01 马尔可夫过程 (Markov Process)",
+   "note": "agenda divider slide highlighting entry 01; text = the highlighted entry of the list box"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 17,
+   "text": "随机过程"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 17,
+   "text": "马尔可夫性质"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 17,
+   "text": "状态转移矩阵"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 17,
+   "text": "马尔可夫过程"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 17,
+   "text": "示例：通勤问题"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "series line: book title + chapter (第7章：强化学习) above the deck title"
+  },
+  {
+   "anno": 16,
+   "note": "repeated contents title on the divider slide; the highlighted entry #17 is the heading"
+  },
+  {
+   "anno": 37,
+   "note": "callout label 定义 (definition box label)"
+  }
+ ],
+ "repeats": []
+}

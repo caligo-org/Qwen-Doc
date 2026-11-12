@@ -1,0 +1,245 @@
+{
+ "doc": "book_chn_f0c264a5",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "第九章 头颈部淋巴结和淋巴管",
+   "merge": [
+    2
+   ]
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "提要"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "第一节 头面部淋巴结"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 15,
+   "text": "一、枕淋巴结"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 15,
+   "text": "二、耳后淋巴结"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 15,
+   "text": "三、腮腺淋巴结"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 26,
+   "text": "（一）腮腺浅淋巴结"
+  },
+  {
+   "anno": 37,
+   "level": 4,
+   "parent": 26,
+   "text": "（二）腮腺深淋巴结"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 15,
+   "text": "四、面淋巴结"
+  },
+  {
+   "anno": 47,
+   "level": 2,
+   "parent": 1,
+   "text": "第二节 颈部淋巴结"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 47,
+   "text": "一、I区淋巴结(LevelI）"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 64,
+   "text": "（一）颏下淋巴结"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 64,
+   "text": "（二）下颌下淋巴结"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 47,
+   "text": "二、Ⅱ区淋巴结（LevelⅡ）"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 47,
+   "text": "三、Ⅲ区淋巴结（Level III）"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 47,
+   "text": "四、IV区淋巴结（Level IV）"
+  },
+  {
+   "anno": 93,
+   "level": 3,
+   "parent": 47,
+   "text": "五、V区淋巴结(Level V)"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 93,
+   "text": "（一）副神经淋巴结"
+  },
+  {
+   "anno": 98,
+   "level": 4,
+   "parent": 93,
+   "text": "（二）锁骨上淋巴结"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 47,
+   "text": "六、VI区淋巴结（Level VI）"
+  },
+  {
+   "anno": 103,
+   "level": 4,
+   "parent": 101,
+   "text": "（一）颈前群"
+  },
+  {
+   "anno": 127,
+   "level": 4,
+   "parent": 101,
+   "text": "（二）咽后群"
+  },
+  {
+   "anno": 136,
+   "level": 2,
+   "parent": 1,
+   "text": "第三节 颈淋巴干及淋巴导管"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 136,
+   "text": "一、颈淋巴干"
+  },
+  {
+   "anno": 142,
+   "level": 3,
+   "parent": 136,
+   "text": "二、右淋巴导管"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 136,
+   "text": "三、胸导管颈段"
+  },
+  {
+   "anno": 149,
+   "level": 2,
+   "parent": 1,
+   "text": "第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组"
+  },
+  {
+   "anno": 150,
+   "level": 3,
+   "parent": 149,
+   "text": "一、颈深淋巴结的划分"
+  },
+  {
+   "anno": 156,
+   "level": 3,
+   "parent": 149,
+   "text": "二、头颈部淋巴结的传统分组"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 156,
+   "text": "（一）环形组淋巴结群"
+  },
+  {
+   "anno": 163,
+   "level": 4,
+   "parent": 156,
+   "text": "（二）纵形组淋巴结群"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 11,
+   "of": 1
+  },
+  {
+   "anno": 20,
+   "of": 1
+  },
+  {
+   "anno": 31,
+   "of": 1
+  },
+  {
+   "anno": 50,
+   "of": 1
+  },
+  {
+   "anno": 61,
+   "of": 1
+  },
+  {
+   "anno": 78,
+   "of": 1
+  },
+  {
+   "anno": 92,
+   "of": 1
+  },
+  {
+   "anno": 111,
+   "of": 1
+  },
+  {
+   "anno": 125,
+   "of": 1
+  },
+  {
+   "anno": 140,
+   "of": 1
+  },
+  {
+   "anno": 155,
+   "of": 1
+  },
+  {
+   "anno": 167,
+   "of": 1
+  }
+ ]
+}

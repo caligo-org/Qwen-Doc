@@ -1,0 +1,115 @@
+{
+ "doc": "book_eng_b155f179",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Modern Robotics with OpenCV"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "Preface"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "Chapter 1 Introduction to Intelligent Robotics",
+   "merge": [
+    17
+   ]
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 16,
+   "text": "Introduction"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 16,
+   "text": "History of Robot"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 16,
+   "text": "Types of Robot"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 16,
+   "text": "Embedded Systems for Robot"
+  },
+  {
+   "anno": 145,
+   "level": 3,
+   "parent": 16,
+   "text": "Robot Vision"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 31,
+   "of": 1
+  },
+  {
+   "anno": 39,
+   "of": 16
+  },
+  {
+   "anno": 46,
+   "of": 1
+  },
+  {
+   "anno": 51,
+   "of": 16
+  },
+  {
+   "anno": 63,
+   "of": 1
+  },
+  {
+   "anno": 76,
+   "of": 16
+  },
+  {
+   "anno": 88,
+   "of": 1
+  },
+  {
+   "anno": 95,
+   "of": 16
+  },
+  {
+   "anno": 114,
+   "of": 1
+  },
+  {
+   "anno": 122,
+   "of": 16
+  },
+  {
+   "anno": 131,
+   "of": 1
+  },
+  {
+   "anno": 142,
+   "of": 16
+  },
+  {
+   "anno": 149,
+   "of": 1
+  },
+  {
+   "anno": 160,
+   "of": 16
+  }
+ ]
+}

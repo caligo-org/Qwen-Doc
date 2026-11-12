@@ -1,0 +1,32 @@
+{
+ "doc": "prospectus_eng_29c1e521",
+ "notation": "prospectus-v2: L1 cover title (Prospectus + fund name, one box); L2 front sections.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus SEB Concept Biotechnology"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 2,
+   "text": "Important information"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "Glossary of terms"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 2,
+   "text": "TABLE OF CONTENTS"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

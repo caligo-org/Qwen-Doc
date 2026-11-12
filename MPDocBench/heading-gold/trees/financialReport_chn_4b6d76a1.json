@@ -1,0 +1,197 @@
+{
+ "doc": "financialReport_chn_4b6d76a1",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 2,
+   "parent": "root",
+   "text": "目录",
+   "note": "excerpt has no cover; title role not printed"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": "root",
+   "text": "审计报告"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 8,
+   "text": "一、审计意见"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 8,
+   "text": "二、形成审计意见的基础"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 8,
+   "text": "三、关键审计事项"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 16,
+   "text": "（一）收入确认"
+  },
+  {
+   "anno": 23,
+   "level": 5,
+   "parent": 22,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 27,
+   "level": 5,
+   "parent": 22,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 36,
+   "level": 4,
+   "parent": 16,
+   "text": "（二）应收账款减值"
+  },
+  {
+   "anno": 37,
+   "level": 5,
+   "parent": 36,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 44,
+   "level": 5,
+   "parent": 36,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 53,
+   "level": 4,
+   "parent": 16,
+   "text": "（三）存货的减值"
+  },
+  {
+   "anno": 54,
+   "level": 5,
+   "parent": 53,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 62,
+   "level": 5,
+   "parent": 53,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 8,
+   "text": "四、其他信息"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 8,
+   "text": "五、管理层和治理层对财务报表的责任"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 8,
+   "text": "六、注册会计师对财务报表审计的责任"
+  },
+  {
+   "anno": 108,
+   "level": 2,
+   "parent": "root",
+   "text": "合并资产负债表"
+  },
+  {
+   "anno": 123,
+   "level": 2,
+   "parent": "root",
+   "text": "母公司资产负债表"
+  },
+  {
+   "anno": 139,
+   "level": 2,
+   "parent": "root",
+   "text": "合并利润表"
+  },
+  {
+   "anno": 154,
+   "level": 2,
+   "parent": "root",
+   "text": "母公司利润表"
+  },
+  {
+   "anno": 170,
+   "level": 2,
+   "parent": "root",
+   "text": "合并现金流量表"
+  },
+  {
+   "anno": 186,
+   "level": 2,
+   "parent": "root",
+   "text": "母公司现金流量表"
+  },
+  {
+   "anno": 202,
+   "level": 2,
+   "parent": "root",
+   "text": "合并所有者权益变动表",
+   "note": "title printed rotated beside the landscape table"
+  },
+  {
+   "anno": 217,
+   "level": 2,
+   "parent": "root",
+   "text": "母公司所有者权益变动表"
+  },
+  {
+   "anno": 233,
+   "level": 2,
+   "parent": "root",
+   "text": "财务报表附注",
+   "note": "notes title; company name above it is text"
+  },
+  {
+   "anno": 236,
+   "level": 3,
+   "parent": 233,
+   "text": "一、公司基本情况"
+  },
+  {
+   "anno": 240,
+   "level": 3,
+   "parent": 233,
+   "text": "二、财务报表的编制基础"
+  },
+  {
+   "anno": 241,
+   "level": 4,
+   "parent": 240,
+   "text": "（一）编制基础",
+   "note": "numbered subsection on its own line, missed by gold"
+  },
+  {
+   "anno": 243,
+   "level": 4,
+   "parent": 240,
+   "text": "（二）持续经营能力评价",
+   "note": "numbered subsection on its own line, missed by gold"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 232,
+   "note": "company name above the notes title"
+  }
+ ],
+ "repeats": []
+}

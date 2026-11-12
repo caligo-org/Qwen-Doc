@@ -1,0 +1,103 @@
+{
+ "doc": "paper_eng_b8670bda",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Social Distancing Equilibria in Games under Conventional SI Dynamics"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "1 Introduction"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 2,
+   "text": "2 SI Distancing Game"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 2,
+   "text": "3 Preliminary analysis"
+  },
+  {
+   "anno": 73,
+   "level": 2,
+   "parent": 2,
+   "text": "4 Delay strategies"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 73,
+   "text": "4.1 Equilibrium Solution"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 73,
+   "text": "4.2 Interpretation"
+  },
+  {
+   "anno": 144,
+   "level": 2,
+   "parent": 2,
+   "text": "5 General Analysis"
+  },
+  {
+   "anno": 224,
+   "level": 2,
+   "parent": 2,
+   "text": "6 Proof of Uniqueness"
+  },
+  {
+   "anno": 301,
+   "level": 2,
+   "parent": 2,
+   "text": "7 Discussion"
+  },
+  {
+   "anno": 309,
+   "level": 2,
+   "parent": 2,
+   "text": "Declarations"
+  },
+  {
+   "anno": 313,
+   "level": 2,
+   "parent": 2,
+   "text": "Appendix A Minima of Special Functions"
+  },
+  {
+   "anno": 338,
+   "level": 2,
+   "parent": 2,
+   "text": "Appendix B Differentiability of restricted disutility"
+  },
+  {
+   "anno": 357,
+   "level": 2,
+   "parent": 2,
+   "text": "Appendix C ESS Proof"
+  },
+  {
+   "anno": 412,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

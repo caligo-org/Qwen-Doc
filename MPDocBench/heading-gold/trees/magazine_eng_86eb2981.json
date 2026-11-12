@@ -1,0 +1,187 @@
+{
+ "doc": "magazine_eng_86eb2981",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Tools & Shops",
+   "note": "issue title on the cover (ANNUAL ISSUE line in the box is text; Fine WoodWorking logo is the brand line)"
+  },
+  {
+   "anno": 142,
+   "level": 2,
+   "parent": 3,
+   "text": "features",
+   "note": "contents group (features)"
+  },
+  {
+   "anno": 148,
+   "level": 2,
+   "parent": 3,
+   "text": "in every issue",
+   "note": "contents group (in every issue)"
+  },
+  {
+   "anno": 166,
+   "level": 2,
+   "parent": 3,
+   "text": "Fine WoodWorking UNLIMITED",
+   "note": "department banner (On the Web in the contents)"
+  },
+  {
+   "anno": 168,
+   "level": 3,
+   "parent": 166,
+   "text": "Online extras"
+  },
+  {
+   "anno": 172,
+   "level": 4,
+   "parent": 168,
+   "text": "Evolution of a tool chest"
+  },
+  {
+   "anno": 177,
+   "level": 4,
+   "parent": 168,
+   "text": "Tough grain? Try a bevel-up plane"
+  },
+  {
+   "anno": 181,
+   "level": 4,
+   "parent": 168,
+   "text": "Align the spine"
+  },
+  {
+   "anno": 186,
+   "level": 4,
+   "parent": 168,
+   "text": "Bright ideas"
+  },
+  {
+   "anno": 191,
+   "level": 4,
+   "parent": 168,
+   "text": "Fresh fence"
+  },
+  {
+   "anno": 195,
+   "level": 4,
+   "parent": 168,
+   "text": "The not-so-big workbench"
+  },
+  {
+   "anno": 201,
+   "level": 3,
+   "parent": 166,
+   "text": "Additional perks of Unlimited"
+  },
+  {
+   "anno": 203,
+   "level": 4,
+   "parent": 201,
+   "text": "FREE PLANS"
+  },
+  {
+   "anno": 205,
+   "level": 4,
+   "parent": 201,
+   "text": "ONLINE ARCHIVES"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "cover-line label"
+  },
+  {
+   "anno": 8,
+   "note": "cover-line label"
+  },
+  {
+   "anno": 10,
+   "note": "cover-line label"
+  },
+  {
+   "anno": 12,
+   "note": "advertisement (p2)"
+  },
+  {
+   "anno": 21,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 33,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 45,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 58,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 70,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 84,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 96,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 108,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 119,
+   "note": "advertisement product title"
+  },
+  {
+   "anno": 156,
+   "note": "advertisement (p5)"
+  },
+  {
+   "anno": 171,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 176,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 180,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 185,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 190,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 194,
+   "note": "kicker label above an item headline"
+  },
+  {
+   "anno": 210,
+   "note": "advertisement (p7)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 137,
+   "of": 3
+  }
+ ]
+}

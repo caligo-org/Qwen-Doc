@@ -1,0 +1,80 @@
+{
+ "doc": "researchReport_chn_7033db6d",
+ "notation": "researchReport (industry weekly): L1 headline; L2 cover summary title (核心观点) with its numbered items at L3; 目录 and 最新研究观点 L2 with 一、 at L3. Sidebar analyst/contact/chart/related-research labels are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "快递专题：双十一临近，利好快递板块"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 4,
+   "text": "核心观点（10.8-10.12）：",
+   "note": "cover summary title (like 投资要点); gold had it as text"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 5,
+   "text": "1. 上周行业热点"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 5,
+   "text": "2. 最新观点"
+  },
+  {
+   "anno": 13,
+   "level": 3,
+   "parent": 5,
+   "text": "3. 核心组合表现"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 4,
+   "text": "目录"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 4,
+   "text": "最新研究观点"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 46,
+   "text": "一、上周热点动态跟踪"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 46,
+   "text": "二、最新观点"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 17,
+   "note": "分析师: analyst name box"
+  },
+  {
+   "anno": 20,
+   "note": "联系人: contact box"
+  },
+  {
+   "anno": 23,
+   "note": "sidebar chart label"
+  },
+  {
+   "anno": 25,
+   "note": "相关研究: related-reports list"
+  }
+ ],
+ "repeats": []
+}

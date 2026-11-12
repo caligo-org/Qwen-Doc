@@ -1,0 +1,119 @@
+{
+ "doc": "nationalStandard_chn_f3f3a014",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "土方机械 噪声限值 Earth-moving machinery—Noise limits",
+   "merge": [
+    7
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 6,
+   "text": "前 言"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 6,
+   "text": "引 言"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 48,
+   "text": "3.1 轮胎式叉装机 forklift wheel loader",
+   "merge": [
+    51
+   ],
+   "note": "term entry: 3.1 + 轮胎式叉装机 forklift wheel loader"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 48,
+   "text": "3.2 水平定向钻机 horizontal directional drilling machine",
+   "merge": [
+    56
+   ],
+   "note": "term entry: 3.2 + 水平定向钻机 horizontal directional drilling machine"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 6,
+   "text": "4 噪声限值"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 63,
+   "text": "4.1 机外发射噪声限值"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 63,
+   "text": "4.2 司机位置噪声限值"
+  },
+  {
+   "anno": 74,
+   "level": 2,
+   "parent": 6,
+   "text": "5 试验方法"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 74,
+   "text": "5.1 声功率级的测定"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 74,
+   "text": "5.2 司机位置处发射声压级的测定"
+  },
+  {
+   "anno": 84,
+   "level": 2,
+   "parent": 6,
+   "text": "参 考 文 献"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 31,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

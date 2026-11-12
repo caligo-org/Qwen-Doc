@@ -1,0 +1,211 @@
+{
+ "doc": "manualGuide_chn_db260b52",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "AC781x 数据手册"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "修订记录"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 2,
+   "text": "文档目录"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 2,
+   "text": "1 主要特性"
+  },
+  {
+   "anno": 86,
+   "level": 2,
+   "parent": 2,
+   "text": "2 器件标识"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 86,
+   "text": "2.1 说明"
+  },
+  {
+   "anno": 89,
+   "level": 3,
+   "parent": 86,
+   "text": "2.2 格式"
+  },
+  {
+   "anno": 92,
+   "level": 3,
+   "parent": 86,
+   "text": "2.3 字段"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 86,
+   "text": "2.4 示例"
+  },
+  {
+   "anno": 104,
+   "level": 2,
+   "parent": 2,
+   "text": "3 参数分类"
+  },
+  {
+   "anno": 114,
+   "level": 2,
+   "parent": 2,
+   "text": "4 额定值"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 114,
+   "text": "4.1 热学操作额定值"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 114,
+   "text": "4.2 湿度操作额定值"
+  },
+  {
+   "anno": 124,
+   "level": 3,
+   "parent": 114,
+   "text": "4.3 ESD操作额定值"
+  },
+  {
+   "anno": 138,
+   "level": 3,
+   "parent": 114,
+   "text": "4.4 电压和电流操作额定值"
+  },
+  {
+   "anno": 150,
+   "level": 2,
+   "parent": 2,
+   "text": "5 通用"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 150,
+   "text": "5.1 静态电气规格"
+  },
+  {
+   "anno": 152,
+   "level": 4,
+   "parent": 151,
+   "text": "5.1.1 电源和地引脚"
+  },
+  {
+   "anno": 159,
+   "level": 4,
+   "parent": 151,
+   "text": "5.1.2 DC特性"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "company logo"
+  },
+  {
+   "anno": 36,
+   "note": "first-level bullet of a nested feature list (• item with ➤ sub-items), not a heading line"
+  },
+  {
+   "anno": 39,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 43,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 46,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 50,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 59,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 62,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 65,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 71,
+   "note": "bullet list item"
+  },
+  {
+   "anno": 77,
+   "note": "bullet list item"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 11,
+   "of": 2
+  },
+  {
+   "anno": 19,
+   "of": 2
+  },
+  {
+   "anno": 27,
+   "of": 2
+  },
+  {
+   "anno": 34,
+   "of": 2
+  },
+  {
+   "anno": 85,
+   "of": 2
+  },
+  {
+   "anno": 103,
+   "of": 2
+  },
+  {
+   "anno": 113,
+   "of": 2
+  },
+  {
+   "anno": 137,
+   "of": 2
+  },
+  {
+   "anno": 149,
+   "of": 2
+  },
+  {
+   "anno": 168,
+   "of": 2
+  },
+  {
+   "anno": 175,
+   "of": 2
+  }
+ ]
+}

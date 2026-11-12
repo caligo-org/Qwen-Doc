@@ -1,0 +1,61 @@
+{
+ "doc": "researchReport_chn_d07a67be",
+ "notation": "researchReport (event note): L1 headline + ——subtitle line (merged); L2 事件/点评 and back-matter titles. Sidebar date banner, analyst box and office address box are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评",
+   "merge": [
+    3
+   ],
+   "note": "headline + subtitle naming the event"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "事件"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 2,
+   "text": "点评"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 2,
+   "text": "分析师声明"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 2,
+   "text": "投资评级说明"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 2,
+   "text": "免责声明"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 9,
+   "note": "date banner in the sidebar"
+  },
+  {
+   "anno": 12,
+   "note": "执业分析师: analyst box label"
+  },
+  {
+   "anno": 17,
+   "note": "川财研究所: office address box"
+  }
+ ],
+ "repeats": []
+}

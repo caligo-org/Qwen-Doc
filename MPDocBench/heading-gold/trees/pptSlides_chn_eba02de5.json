@@ -1,0 +1,92 @@
+{
+ "doc": "pptSlides_chn_eba02de5",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇",
+   "merge": [
+    3
+   ],
+   "note": "volume line ({…}篇) is part of the title"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "赛道说明"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 6,
+   "text": "个性化美妆",
+   "note": "banner block titles"
+  },
+  {
+   "anno": 10,
+   "level": 3,
+   "parent": 6,
+   "text": "个性化服饰"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "一、个性化美妆",
+   "note": "contents slide of part 一; its numbered entries are TOC text"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 16,
+   "text": "PART 01. 社媒平台个性表达赛道热度分析",
+   "merge": [
+    26
+   ],
+   "note": "divider slide: part number + title"
+  },
+  {
+   "anno": 33,
+   "level": 4,
+   "parent": 25,
+   "text": "销售概览：护肤市场显示出强劲的增长势头，护肤套装和精华仍是市场的主力品类"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 25,
+   "text": "赛道表现：抗老持续热门，抗敏护肤显著增长，美白仍具潜力，祛痘控油稳定前行"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 34,
+   "note": "KPI panel label (banner over the stat tiles), like a chart title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 13,
+   "of": 1
+  },
+  {
+   "anno": 15,
+   "of": 1
+  },
+  {
+   "anno": 29,
+   "of": 1
+  },
+  {
+   "anno": 32,
+   "of": 1
+  },
+  {
+   "anno": 55,
+   "of": 1
+  }
+ ]
+}

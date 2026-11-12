@@ -1,0 +1,74 @@
+{
+ "doc": "annualReport_chn_bad1d0cc",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2019年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 8,
+   "text": "目录"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 28,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 28,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 28,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 28,
+   "text": "四、其他有关资料"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 28,
+   "text": "五、主要会计数据和财务指标"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 28,
+   "text": "六、分季度主要财务指标"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

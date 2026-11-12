@@ -1,0 +1,55 @@
+{
+ "doc": "manualGuide_eng_43edf789",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "New Product Announcement"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 4,
+   "text": "Features"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 4,
+   "text": "Product Configuration"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 30,
+   "text": "quatix™"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 4,
+   "text": "Featured New Accessories"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 41,
+   "text": "GNT™ 10 NMEA Transceiver"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 4,
+   "text": "Additional quatix Accessories"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 4,
+   "text": "Shipping and Case Pack Information"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,25 @@
+{
+ "doc": "textBook_eng_499f6e93",
+ "notation": "textBook-v2: L1 cover title (title + subtitle in one box); L2 front matter.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Think Java How to Think Like a Computer Scientist"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 3,
+   "of": 1
+  }
+ ]
+}

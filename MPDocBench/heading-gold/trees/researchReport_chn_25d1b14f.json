@@ -1,0 +1,103 @@
+{
+ "doc": "researchReport_chn_25d1b14f",
+ "notation": "researchReport (industry weekly): L1 headline with its ——series subtitle; cover summary heading lines (● 周观点, ● 保险：, ● 券商：, ● 受益标的组合) are L2 (same look); 目录 and numbered chapters L2; their sub-lines L3. Industry label and related-reports box are text.",
+ "nodes": [
+  {
+   "anno": 16,
+   "level": 1,
+   "parent": "root",
+   "text": "3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 16,
+   "text": "● 周观点：非银3季报符合预期，继续看好保险股投资机会",
+   "note": "cover summary heading line"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 16,
+   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期",
+   "note": "same look as #18 on the cover"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 16,
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 16,
+   "text": "\\(\\bullet\\) 受益标的组合："
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 16,
+   "text": "目录"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 16,
+   "text": "1、一周观点：非银3季报符合预期，继续看好保险股投资机会"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 37,
+   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 37,
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 37,
+   "text": "受益标的组合："
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 16,
+   "text": "2、市场回顾：A股整体下跌，非银板块跑输指数"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 16,
+   "text": "3、数据追踪：融券余额破千亿，占两融比重持续攀升"
+  },
+  {
+   "anno": 98,
+   "level": 2,
+   "parent": 16,
+   "text": "4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排"
+  },
+  {
+   "anno": 99,
+   "level": 3,
+   "parent": 98,
+   "text": "\\(\\bullet\\) 行业要闻："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "industry label on the cover"
+  },
+  {
+   "anno": 12,
+   "note": "related-reports list title"
+  }
+ ],
+ "repeats": []
+}

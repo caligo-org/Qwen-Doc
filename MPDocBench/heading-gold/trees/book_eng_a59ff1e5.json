@@ -1,0 +1,261 @@
+{
+ "doc": "book_eng_a59ff1e5",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Home Landscape Design"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 1,
+   "text": "Professional Help"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 1,
+   "text": "Sources of Inspiration"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 1,
+   "text": "Value of Landscaping"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 21,
+   "text": "Aesthetic",
+   "note": "smaller than 'Value of Landscaping': its subsection"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 21,
+   "text": "Economic"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 21,
+   "text": "Function"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 21,
+   "text": "Environment"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 1,
+   "text": "Steps in Developing a Landscape Plan"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 1. Develop base plan or plot plan",
+   "note": "step headings print like 'Steps in Developing a Landscape Plan' (same look, same level)"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 36,
+   "text": "Identifying Your Property Lines"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 36,
+   "text": "Gathering Equipment"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 36,
+   "text": "Taking Measurements"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 48,
+   "text": "Identifying Property Lines",
+   "note": "underlined subhead, same look as Measuring Curved Areas (gold missed it); 'Locating House on Property' and 'Locating Outlying Landscape Features' on p5 have no element of their own"
+  },
+  {
+   "anno": 100,
+   "level": 4,
+   "parent": 48,
+   "text": "Measuring Curved Areas"
+  },
+  {
+   "anno": 105,
+   "level": 4,
+   "parent": 48,
+   "text": "Measuring Angled Features"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 36,
+   "text": "Transferring Measurements to Final Base Plan"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 36,
+   "text": "Step 1 Checklist"
+  },
+  {
+   "anno": 137,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 2. Conduct a site analysis"
+  },
+  {
+   "anno": 140,
+   "level": 3,
+   "parent": 137,
+   "text": "Observing Over Time"
+  },
+  {
+   "anno": 147,
+   "level": 3,
+   "parent": 137,
+   "text": "Recording the Landscape"
+  },
+  {
+   "anno": 150,
+   "level": 3,
+   "parent": 137,
+   "text": "Understanding Environmental Features or Patterns"
+  },
+  {
+   "anno": 151,
+   "level": 4,
+   "parent": 150,
+   "text": "Sun and Shade"
+  },
+  {
+   "anno": 154,
+   "level": 4,
+   "parent": 150,
+   "text": "Wind"
+  },
+  {
+   "anno": 156,
+   "level": 4,
+   "parent": 150,
+   "text": "Noise"
+  },
+  {
+   "anno": 159,
+   "level": 4,
+   "parent": 150,
+   "text": "Soils and Land Form"
+  },
+  {
+   "anno": 162,
+   "level": 4,
+   "parent": 150,
+   "text": "Surface Drainage"
+  },
+  {
+   "anno": 164,
+   "level": 4,
+   "parent": 150,
+   "text": "Views"
+  },
+  {
+   "anno": 167,
+   "level": 3,
+   "parent": 137,
+   "text": "Step 2 Checklist"
+  },
+  {
+   "anno": 193,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 3. List the family's wants and needs"
+  },
+  {
+   "anno": 194,
+   "level": 3,
+   "parent": 193,
+   "text": "Assessing your family's needs"
+  },
+  {
+   "anno": 205,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 4. Locate the use areas"
+  },
+  {
+   "anno": 209,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 5. Develop outdoor use areas"
+  },
+  {
+   "anno": 213,
+   "level": 3,
+   "parent": 209,
+   "text": "Considerations for designing or creating outdoor living spaces"
+  },
+  {
+   "anno": 241,
+   "level": 4,
+   "parent": 213,
+   "text": "Vehicular access and parking"
+  },
+  {
+   "anno": 243,
+   "level": 4,
+   "parent": 213,
+   "text": "Walkways"
+  },
+  {
+   "anno": 249,
+   "level": 4,
+   "parent": 213,
+   "text": "Accenting the main entrance"
+  },
+  {
+   "anno": 263,
+   "level": 2,
+   "parent": 1,
+   "text": "Step 6. Select and place plant symbols on plan"
+  },
+  {
+   "anno": 264,
+   "level": 3,
+   "parent": 263,
+   "text": "Section One: Selecting plants"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 37,
+   "note": "label rule"
+  },
+  {
+   "anno": 43,
+   "note": "label rule"
+  },
+  {
+   "anno": 138,
+   "note": "label rule"
+  },
+  {
+   "anno": 144,
+   "note": "label rule"
+  }
+ ],
+ "repeats": []
+}

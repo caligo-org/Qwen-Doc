@@ -1,0 +1,77 @@
+{
+ "doc": "textBook_chn_83116662",
+ "notation": "textBook-v2: L1 cover subject title; L2 preface, 目录, chapters (第N章 + title merged); L3 节; L4 subsections.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "科学",
+   "note": "cover title; series, pinyin, grade lines are text"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 3,
+   "text": "前言"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 3,
+   "text": "第1章 演化的自然",
+   "merge": [
+    34
+   ],
+   "note": "chapter label + chapter title"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 33,
+   "text": "第1节 人类对宇宙的认识"
+  },
+  {
+   "anno": 41,
+   "level": 4,
+   "parent": 39,
+   "text": "古代人的宇宙观"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 39,
+   "text": "从地心说到日心说"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 30,
+   "note": "English twin of 目录 heading the second contents page"
+  },
+  {
+   "anno": 44,
+   "note": "callout label 思考与讨论"
+  },
+  {
+   "anno": 56,
+   "note": "callout label 思考与讨论"
+  },
+  {
+   "anno": 63,
+   "note": "callout label 思考与讨论"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 8,
+   "of": 3
+  }
+ ]
+}

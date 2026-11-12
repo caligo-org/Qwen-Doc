@@ -1,0 +1,45 @@
+{
+ "doc": "researchReport_eng_f653f866",
+ "notation": "researchReport (English): L1 headline (series kicker Oil shares the box and is text); L2 body sections.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Squaring Russia's missing barrels",
+   "note": "the box also holds the series kicker Oil"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 4,
+   "text": "A potentially enormous oil supply shock"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 4,
+   "text": "China key to determining how the oil market will rebalance"
+  },
+  {
+   "anno": 68,
+   "level": 2,
+   "parent": 4,
+   "text": "Supply relief would come at a higher price and require core-OPEC, Iran and Venezuela"
+  },
+  {
+   "anno": 112,
+   "level": 2,
+   "parent": 4,
+   "text": "Demand destruction the solver of last resort"
+  },
+  {
+   "anno": 163,
+   "level": 2,
+   "parent": 4,
+   "text": "Squaring the unknown - a probability weighted approach to solving the global oil market"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

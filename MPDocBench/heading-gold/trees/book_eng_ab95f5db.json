@@ -1,0 +1,228 @@
+{
+ "doc": "book_eng_ab95f5db",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Introduction to Data Analysis Handbook"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "Acknowledgments"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 1,
+   "text": "I. Introduction"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 18,
+   "text": "Introduction to the Handbook"
+  },
+  {
+   "anno": 27,
+   "level": 4,
+   "parent": 19,
+   "text": "Learning Objectives"
+  },
+  {
+   "anno": 33,
+   "level": 4,
+   "parent": 19,
+   "text": "Guiding Principles for Approaching Data Analysis"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 18,
+   "text": "What This Handbook Does NOT Do"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 18,
+   "text": "Why Do We Need Data Analysis?"
+  },
+  {
+   "anno": 55,
+   "level": 4,
+   "parent": 48,
+   "text": "From the Head Start Bureau website (October 4, 2005):",
+   "note": "bold label of a quoted source excerpt"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 48,
+   "text": "From Information Memorandum ACYF-IM-HS-05-08 (10/04/05):",
+   "note": "same look as #55 (gold missed it)"
+  },
+  {
+   "anno": 58,
+   "level": 4,
+   "parent": 48,
+   "text": "Changes to the PRISM Process",
+   "note": "same look as #55/#57"
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": 1,
+   "text": "II. Ways of Thinking About Data"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 67,
+   "text": "Data is..."
+  },
+  {
+   "anno": 83,
+   "level": 4,
+   "parent": 68,
+   "text": "Why the Soliloquy? Types of Data"
+  },
+  {
+   "anno": 90,
+   "level": 3,
+   "parent": 67,
+   "text": "Qualitative data"
+  },
+  {
+   "anno": 92,
+   "level": 4,
+   "parent": 90,
+   "text": "Sample Qualitative Data: Transcript from Parent Interview"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 67,
+   "text": "Quantitative data"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 106,
+   "text": "Sample Quantitative Data from PIR"
+  },
+  {
+   "anno": 111,
+   "level": 4,
+   "parent": 106,
+   "text": "Contrasting Types of Data in Head Start"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 67,
+   "text": "Data Strategies"
+  },
+  {
+   "anno": 118,
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Visualizing the Data",
+   "note": "titled strategy box"
+  },
+  {
+   "anno": 121,
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Exploratory Analyses"
+  },
+  {
+   "anno": 124,
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Trend Analysis"
+  },
+  {
+   "anno": 127,
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Estimation"
+  },
+  {
+   "anno": 134,
+   "level": 4,
+   "parent": 116,
+   "text": "Visualizing Data"
+  },
+  {
+   "anno": 150,
+   "level": 4,
+   "parent": 116,
+   "text": "Exploratory Analysis"
+  },
+  {
+   "anno": 152,
+   "level": 4,
+   "parent": 116,
+   "text": "Trend Analysis"
+  },
+  {
+   "anno": 154,
+   "level": 4,
+   "parent": 116,
+   "text": "Estimation"
+  },
+  {
+   "anno": 159,
+   "level": 2,
+   "parent": 1,
+   "text": "III. Conceptualizing Data Analysis as a Process"
+  },
+  {
+   "anno": 160,
+   "level": 3,
+   "parent": 159,
+   "text": "The \"Problem\" with Data Analysis"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 7,
+   "note": "organisation box on the inside cover (publisher information)"
+  },
+  {
+   "anno": 8,
+   "note": "label in the organisation box"
+  },
+  {
+   "anno": 11,
+   "note": "organisation box on the inside cover (publisher information)"
+  },
+  {
+   "anno": 12,
+   "note": "label in the organisation box"
+  },
+  {
+   "anno": 93,
+   "note": "speaker label in an interview transcript"
+  },
+  {
+   "anno": 95,
+   "note": "speaker label in an interview transcript"
+  },
+  {
+   "anno": 97,
+   "note": "speaker label in an interview transcript"
+  },
+  {
+   "anno": 99,
+   "note": "speaker label in an interview transcript"
+  },
+  {
+   "anno": 104,
+   "note": "speaker label in an interview transcript"
+  }
+ ],
+ "repeats": []
+}

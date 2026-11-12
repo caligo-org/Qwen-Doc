@@ -1,0 +1,39 @@
+{
+ "doc": "newspaper_eng_79250562",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Magazine cover + contents page; cover lines are teasers (text).",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES MAGAZINE",
+   "merge": [
+    3
+   ],
+   "note": "masthead: 'THE TIMES' + 'MAGAZINE'"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 1,
+   "text": "FAB FIVE: POSH SOUPS",
+   "note": "boxed feature with its own title on the contents page; no section printed"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 11,
+   "note": "ad (M&S)"
+  },
+  {
+   "anno": 13,
+   "note": "ad product name"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 34,
+   "of": 1
+  }
+ ]
+}

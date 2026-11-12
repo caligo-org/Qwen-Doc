@@ -1,0 +1,273 @@
+{
+ "doc": "nationalStandard_chn_7b396eb8",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "冷轧带肋钢筋 Cold rolled ribbed steel bars"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 6,
+   "text": "前言"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 43,
+   "text": "3.1 冷轧带肋钢筋 cold rolled ribbed steel bars",
+   "merge": [
+    46
+   ],
+   "note": "term entry: 3.1 + 冷轧带肋钢筋 cold rolled ribbed steel bars"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 43,
+   "text": "3.2 公称直径 nominal diameter",
+   "merge": [
+    49
+   ],
+   "note": "term entry: 3.2 + 公称直径 nominal diameter"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 43,
+   "text": "3.3 相对肋面积 specific projected rib area",
+   "merge": [
+    52
+   ],
+   "note": "term entry: 3.3 + 相对肋面积 specific projected rib area"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 43,
+   "text": "3.4 横肋间隙rib spacing",
+   "merge": [
+    55
+   ],
+   "note": "term entry: 3.4 + 横肋间隙rib spacing"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 6,
+   "text": "4 牌号"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 6,
+   "text": "5 尺寸、外形、重量及允许偏差"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 63,
+   "text": "5.1 公称直径范围"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 63,
+   "text": "5.2 外形"
+  },
+  {
+   "anno": 67,
+   "level": 4,
+   "parent": 66,
+   "text": "5.2.1 外形要求"
+  },
+  {
+   "anno": 91,
+   "level": 4,
+   "parent": 66,
+   "text": "5.2.2 横肋要求"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 63,
+   "text": "5.3 尺寸、重量及允许偏差"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 63,
+   "text": "5.4 交货型式、长度及允许偏差"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 63,
+   "text": "5.5 弯曲度"
+  },
+  {
+   "anno": 126,
+   "level": 3,
+   "parent": 63,
+   "text": "5.6 重量"
+  },
+  {
+   "anno": 129,
+   "level": 2,
+   "parent": 6,
+   "text": "6 原料及性能"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 129,
+   "text": "6.1 原料"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 129,
+   "text": "6.2 交货状态"
+  },
+  {
+   "anno": 134,
+   "level": 3,
+   "parent": 129,
+   "text": "6.3 力学性能和工艺性能"
+  },
+  {
+   "anno": 145,
+   "level": 3,
+   "parent": 129,
+   "text": "6.4 表面质量"
+  },
+  {
+   "anno": 148,
+   "level": 2,
+   "parent": 6,
+   "text": "7 试验方法"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 148,
+   "text": "7.1 检验项目"
+  },
+  {
+   "anno": 153,
+   "level": 3,
+   "parent": 148,
+   "text": "7.2 力学性能"
+  },
+  {
+   "anno": 155,
+   "level": 3,
+   "parent": 148,
+   "text": "7.3 应力松弛试验"
+  },
+  {
+   "anno": 162,
+   "level": 3,
+   "parent": 148,
+   "text": "7.4 尺寸测量"
+  },
+  {
+   "anno": 167,
+   "level": 3,
+   "parent": 148,
+   "text": "7.5 重量偏差的测量"
+  },
+  {
+   "anno": 175,
+   "level": 3,
+   "parent": 148,
+   "text": "7.6 数值修约"
+  },
+  {
+   "anno": 177,
+   "level": 2,
+   "parent": 6,
+   "text": "8 检验规则"
+  },
+  {
+   "anno": 178,
+   "level": 3,
+   "parent": 177,
+   "text": "8.1 检查和验收"
+  },
+  {
+   "anno": 180,
+   "level": 3,
+   "parent": 177,
+   "text": "8.2 组批规则"
+  },
+  {
+   "anno": 182,
+   "level": 3,
+   "parent": 177,
+   "text": "8.3 取样数量"
+  },
+  {
+   "anno": 184,
+   "level": 3,
+   "parent": 177,
+   "text": "8.4 复验与判定"
+  },
+  {
+   "anno": 186,
+   "level": 2,
+   "parent": 6,
+   "text": "9 包装、标志和质量证明书"
+  },
+  {
+   "anno": 199,
+   "level": 2,
+   "parent": 6,
+   "text": "附录A (规范性) 冷轧带肋钢筋用热轧盘条"
+  },
+  {
+   "anno": 200,
+   "level": 3,
+   "parent": 199,
+   "text": "A.1 牌号及化学成分"
+  },
+  {
+   "anno": 205,
+   "level": 3,
+   "parent": 199,
+   "text": "A.2 力学性能和工艺性能"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 30,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

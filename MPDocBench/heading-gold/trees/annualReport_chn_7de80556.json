@@ -1,0 +1,134 @@
+{
+ "doc": "annualReport_chn_7de80556",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "2019 年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 2,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 8,
+   "text": "目录"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "第二节公司简介和主要财务指标"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 28,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 28,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 28,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 28,
+   "text": "四、注册变更情况"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 28,
+   "text": "五、其他有关资料"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 28,
+   "text": "六、主要会计数据和财务指标"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 28,
+   "text": "七、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 55,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 59,
+   "level": 4,
+   "parent": 55,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 28,
+   "text": "八、分季度主要财务指标"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 28,
+   "text": "九、非经常性损益项目及金额"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 2,
+   "text": "第三节公司业务概要"
+  },
+  {
+   "anno": 82,
+   "level": 3,
+   "parent": 81,
+   "text": "一、报告期内公司从事的主要业务"
+  },
+  {
+   "anno": 102,
+   "level": 3,
+   "parent": 81,
+   "text": "二、主要资产重大变化情况"
+  },
+  {
+   "anno": 103,
+   "level": 4,
+   "parent": 102,
+   "text": "1、主要资产重大变化情况"
+  },
+  {
+   "anno": 105,
+   "level": 4,
+   "parent": 102,
+   "text": "2、主要境外资产情况"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,14 @@
+{
+ "doc": "handwritten_chn_eac3f5a2",
+ "notation": "handwritten-v2 (annotated textbook lesson): the lesson title (number + title, with its printed pinyin) is L1; handwritten margin labels ([中心思想], 近义词, 反义词) and annotations are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "bào yè 26 西门豹治邺"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,112 @@
+{
+ "doc": "manualGuide_chn_f3fc9a26",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "第一章 系统简介",
+   "note": "chapter excerpt, no document title printed: the chapter is the top level"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "1.1系统软硬件兼容性说明"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "1.2产品硬件配置"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 9,
+   "text": "1. CPU"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 9,
+   "text": "2. Chipset"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 9,
+   "text": "3. 内存"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 9,
+   "text": "4. L2 Cache"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 9,
+   "text": "5. 硬盘"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 9,
+   "text": "6. 声音系统"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 9,
+   "text": "7. 显示系统"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 9,
+   "text": "8. AV控制面板"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 9,
+   "text": "9. 光驱"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 9,
+   "text": "10. 外置设备"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 9,
+   "text": "11. 84 键 Windows 键盘",
+   "note": "missed: item 11 of the numbered hardware list (siblings 1-12 are headings)"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 9,
+   "text": "12. 扩展接口"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 9,
+   "text": "笔记本电脑重量尺寸：",
+   "note": "bold unnumbered group head in the same style as the numbered items, with bullets under it"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 1,
+   "text": "1.3 快速开始"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

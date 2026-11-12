@@ -1,0 +1,26 @@
+{
+ "doc": "handwritten_chn_d1ec88bb",
+ "notation": "handwritten-v2: three printed worksheets answered by hand, each with its own title (L1); student name, solution hints and numbered problems are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "间隔问题专项一一锯木头、剪绳子"
+  },
+  {
+   "anno": 15,
+   "level": 1,
+   "parent": "root",
+   "text": "间隔问题专项-一爬楼梯"
+  },
+  {
+   "anno": 27,
+   "level": 1,
+   "parent": "root",
+   "text": "间隔问题专项一一植树问题"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

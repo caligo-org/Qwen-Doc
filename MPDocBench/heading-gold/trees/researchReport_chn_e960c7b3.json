@@ -1,0 +1,71 @@
+{
+ "doc": "researchReport_chn_e960c7b3",
+ "notation": "researchReport (macro note): L1 headline; L2 报告要点 and back-matter titles. The blue summary bullets are key-point sentences; those ending in a colon over a 1) 2) list are lead-ins (label rule) and, like the whole-paragraph bullets in the same style, text. Sidebar banners and the office box are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "输入性通缩的有限发酵：3月物价数据印象"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 4,
+   "text": "报告要点："
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 4,
+   "text": "投资评级说明："
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 4,
+   "text": "分析师声明"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 4,
+   "text": "证券投资咨询业务的说明"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 4,
+   "text": "一般性声明"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 4,
+   "text": "免责条款"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 23,
+   "note": "主要数据: sidebar data-table label"
+  },
+  {
+   "anno": 25,
+   "note": "sidebar chart label"
+  },
+  {
+   "anno": 28,
+   "note": "相关研究报告: related-reports list"
+  },
+  {
+   "anno": 31,
+   "note": "报告作者: analyst list"
+  },
+  {
+   "anno": 48,
+   "note": "国元证券研究所: office address box"
+  }
+ ],
+ "repeats": []
+}

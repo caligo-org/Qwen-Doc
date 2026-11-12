@@ -1,0 +1,29 @@
+{
+ "doc": "researchReport_eng_39be8c41",
+ "notation": "researchReport: L1 = series title + subtitle (merged; the report cites itself as \"Carbonomics: The third American energy revolution\"); L2 Table of Contents. The All Authors list title is text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Carbonomics The third American energy revolution",
+   "merge": [
+    5
+   ],
+   "note": "title + subtitle printed as one title block"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 4,
+   "text": "Table of Contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 20,
+   "note": "All Authors: list of analyst names"
+  }
+ ],
+ "repeats": []
+}

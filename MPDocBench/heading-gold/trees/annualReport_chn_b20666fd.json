@@ -1,0 +1,302 @@
+{
+ "doc": "annualReport_chn_b20666fd",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2019 年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 4,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 9,
+   "text": "目录"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 9,
+   "text": "释义"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 4,
+   "text": "第二节公司简介和主要财务指标"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 32,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 32,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 32,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 32,
+   "text": "四、其他有关资料"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 32,
+   "text": "五、主要会计数据和财务指标"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 32,
+   "text": "六、分季度主要财务指标"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 32,
+   "text": "七、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 63,
+   "level": 4,
+   "parent": 62,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 62,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 32,
+   "text": "八、非经常性损益项目及金额"
+  },
+  {
+   "anno": 83,
+   "level": 2,
+   "parent": 4,
+   "text": "第三节公司业务概要"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 83,
+   "text": "一、报告期内公司从事的主要业务"
+  },
+  {
+   "anno": 85,
+   "level": 4,
+   "parent": 84,
+   "text": "（一）报告期内公司所从事的主要业务"
+  },
+  {
+   "anno": 88,
+   "level": 5,
+   "parent": 85,
+   "text": "1、采购模式"
+  },
+  {
+   "anno": 92,
+   "level": 5,
+   "parent": 85,
+   "text": "2、生产模式"
+  },
+  {
+   "anno": 94,
+   "level": 5,
+   "parent": 85,
+   "text": "3、销售模式"
+  },
+  {
+   "anno": 99,
+   "level": 4,
+   "parent": 84,
+   "text": "（二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 83,
+   "text": "二、主要资产重大变化情况"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 107,
+   "text": "1、主要资产重大变化情况"
+  },
+  {
+   "anno": 110,
+   "level": 4,
+   "parent": 107,
+   "text": "2、主要境外资产情况"
+  },
+  {
+   "anno": 112,
+   "level": 3,
+   "parent": 83,
+   "text": "三、核心竞争力分析"
+  },
+  {
+   "anno": 117,
+   "level": 4,
+   "parent": 112,
+   "text": "1、客户资源优势"
+  },
+  {
+   "anno": 119,
+   "level": 4,
+   "parent": 112,
+   "text": "2、技术领先优势"
+  },
+  {
+   "anno": 126,
+   "level": 4,
+   "parent": 112,
+   "text": "3. 配套同步开发优势"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 112,
+   "text": "4. 质量管理优势"
+  },
+  {
+   "anno": 135,
+   "level": 2,
+   "parent": 4,
+   "text": "第四节经营情况讨论与分析"
+  },
+  {
+   "anno": 136,
+   "level": 3,
+   "parent": 135,
+   "text": "一、概述"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 136,
+   "text": "1、技术研发方面"
+  },
+  {
+   "anno": 142,
+   "level": 4,
+   "parent": 136,
+   "text": "2、市场营销方面"
+  },
+  {
+   "anno": 147,
+   "level": 4,
+   "parent": 136,
+   "text": "3、综合管理方面"
+  },
+  {
+   "anno": 151,
+   "level": 4,
+   "parent": 136,
+   "text": "4、安全环保方面"
+  },
+  {
+   "anno": 157,
+   "level": 3,
+   "parent": 135,
+   "text": "二、主营业务分析"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 157,
+   "text": "1、概述"
+  },
+  {
+   "anno": 160,
+   "level": 4,
+   "parent": 157,
+   "text": "2、收入与成本"
+  },
+  {
+   "anno": 161,
+   "level": 5,
+   "parent": 160,
+   "text": "（1）营业收入构成"
+  },
+  {
+   "anno": 165,
+   "level": 5,
+   "parent": 160,
+   "text": "（2）占公司营业收入或营业利润 \\(10\\%\\) 以上的行业、产品或地区情况"
+  },
+  {
+   "anno": 175,
+   "level": 5,
+   "parent": 160,
+   "text": "（3）公司实物销售收入是否大于劳务收入"
+  },
+  {
+   "anno": 181,
+   "level": 5,
+   "parent": 160,
+   "text": "（4）公司已签订的重大销售合同截至本报告期的履行情况"
+  },
+  {
+   "anno": 183,
+   "level": 5,
+   "parent": 160,
+   "text": "（5）营业成本构成"
+  },
+  {
+   "anno": 194,
+   "level": 5,
+   "parent": 160,
+   "text": "（6）报告期内合并范围是否发生变动"
+  },
+  {
+   "anno": 199,
+   "level": 5,
+   "parent": 160,
+   "text": "（7）公司报告期内业务、产品或服务发生重大变化或调整有关情况"
+  },
+  {
+   "anno": 201,
+   "level": 5,
+   "parent": 160,
+   "text": "（8）主要销售客户和主要供应商情况"
+  },
+  {
+   "anno": 218,
+   "level": 4,
+   "parent": 157,
+   "text": "3、费用"
+  },
+  {
+   "anno": 221,
+   "level": 4,
+   "parent": 157,
+   "text": "4、研发投入"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

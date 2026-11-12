@@ -1,0 +1,39 @@
+{
+ "doc": "researchReport_chn_1c78bccd",
+ "notation": "researchReport (periodic commentary): L1 = publication name in the banner; L2 = articles and the disclaimer title. The small blue column rubric above the first headline is text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "中國市場及A股點評",
+   "note": "banner name of the periodic commentary; no other title"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "年報季來臨，佈局高送轉"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 1,
+   "text": "有色金屬：小金屬全面上漲"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 1,
+   "text": "免責聲明",
+   "note": "disclaimer back-matter title"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 5,
+   "note": "大市導航: small column rubric above the first headline"
+  }
+ ],
+ "repeats": []
+}

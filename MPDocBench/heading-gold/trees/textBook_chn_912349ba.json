@@ -1,0 +1,70 @@
+{
+ "doc": "textBook_chn_912349ba",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and units; L3 unit-opener block title (活动任务单); L4 task items.",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "语文",
+   "note": "cover title; award, series, grade/volume lines are text"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 7,
+   "text": "目录"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 7,
+   "text": "第一单元 活动·探究"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 36,
+   "text": "活动任务单",
+   "note": "unit-opener task list banner"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 37,
+   "text": "任务一",
+   "note": "task heading line in the task list (its name is the run-in bold lead of the paragraph)"
+  },
+  {
+   "anno": 42,
+   "level": 4,
+   "parent": 37,
+   "text": "任务二"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 37,
+   "text": "任务三"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 10,
+   "of": 7
+  },
+  {
+   "anno": 28,
+   "of": 22
+  },
+  {
+   "anno": 30,
+   "of": 22
+  },
+  {
+   "anno": 35,
+   "of": 22
+  }
+ ]
+}

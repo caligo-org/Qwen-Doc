@@ -1,0 +1,71 @@
+{
+ "doc": "researchReport_eng_4872e373",
+ "notation": "researchReport (English): L1 headline; L2 body sections (PM Summary, Recommendations). Series kicker above the headline is text. Exhibit 1 on p2 is an infographic under an exhibit caption: its panel titles (The three P's..., Plan, Path, Performance, Five metrics..., Green Revenue, ...) are figure content, text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "Accelerating the Energy Transition: Metrics and tools to measure progress"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 5,
+   "text": "PM Summary"
+  },
+  {
+   "anno": 90,
+   "level": 2,
+   "parent": 5,
+   "text": "Recommendations"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 21,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 23,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 26,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 29,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 31,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 33,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 36,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 39,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 42,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 45,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  },
+  {
+   "anno": 48,
+   "note": "panel title inside the Exhibit 1 infographic (figure content)"
+  }
+ ],
+ "repeats": []
+}

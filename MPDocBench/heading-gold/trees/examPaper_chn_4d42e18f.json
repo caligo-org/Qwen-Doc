@@ -1,0 +1,41 @@
+{
+ "doc": "examPaper_chn_4d42e18f",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2018年全国统一高考物理试卷（新课标I）"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "一、选择题 本题共8小题，每小题6分，共48分.在每小题给出的四个选项中，第 \\(1\\sim 5\\) 题只有一项符合题目要求，第 \\(6\\sim 8\\) 题有多项符合题目要求.全部选对的得6分，选对但不全的得3分，有选错的得0分."
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 1,
+   "text": "二、非选择题：共174分。第 \\(9\\sim 12\\) 题为必考题，每个试题考生都必须作答。第 \\(13\\sim 16\\) 题为选考题.考生根据要求作答。（一）必考题：共129分."
+  },
+  {
+   "anno": 83,
+   "level": 2,
+   "parent": 1,
+   "text": "三、选考题：共45分.请考生从2道物理题、2道化学题、2道生物题中每科任 选一题作答.如果多做，则每科按所做的第一题计分.[物理--选修3-3]（15分）",
+   "merge": [
+    85
+   ],
+   "note": "group line split across the page break (p6 bottom, p7 top); the box on p7 also carries the [物理--选修3-3] module label"
+  },
+  {
+   "anno": 95,
+   "level": 2,
+   "parent": 1,
+   "text": "四、[物理--选修3-4]（15分）"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

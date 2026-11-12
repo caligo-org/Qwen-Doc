@@ -1,0 +1,41 @@
+{
+ "doc": "prospectus_chn_5a8c16de",
+ "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections. Cover issuer name/English name/address/sponsor are text.",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "首次公开发行股票并在科创板上市招股说明书"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 7,
+   "text": "发行人声明"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 7,
+   "text": "发行概况"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 7,
+   "text": "目录"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "issuer name on cover"
+  },
+  {
+   "anno": 5,
+   "note": "issuer English name on cover"
+  }
+ ],
+ "repeats": []
+}

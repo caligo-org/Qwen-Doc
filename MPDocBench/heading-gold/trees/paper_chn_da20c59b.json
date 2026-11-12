@@ -1,0 +1,84 @@
+{
+ "doc": "paper_chn_da20c59b",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "“蒸发悖论”在黄河流域的探讨"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 4,
+   "text": "1 引言"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 4,
+   "text": "2 数据与方法"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 22,
+   "text": "2.1 研究区概况"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 22,
+   "text": "2.2 数据处理"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 22,
+   "text": "2.3 研究方法"
+  },
+  {
+   "anno": 66,
+   "level": 2,
+   "parent": 4,
+   "text": "3 “蒸发悖论”的探讨"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 66,
+   "text": "3.1 “蒸发悖论”的规律分析"
+  },
+  {
+   "anno": 126,
+   "level": 3,
+   "parent": 66,
+   "text": "3.2 潜在蒸散量与降水的关系"
+  },
+  {
+   "anno": 140,
+   "level": 3,
+   "parent": 66,
+   "text": "3.3年及四季潜在蒸散量下降原因分析"
+  },
+  {
+   "anno": 153,
+   "level": 2,
+   "parent": 4,
+   "text": "4 结论"
+  },
+  {
+   "anno": 164,
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献 (References)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 219,
+   "note": "English translation of the title (back-placed English abstract)"
+  }
+ ],
+ "repeats": []
+}

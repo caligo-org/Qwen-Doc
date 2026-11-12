@@ -1,0 +1,144 @@
+{
+ "doc": "manualGuide_eng_a3556095",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3)",
+   "merge": [
+    3
+   ],
+   "note": "manual type + product/model lines (missed by gold) as the title"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 2,
+   "text": "Declaration of Conformity"
+  },
+  {
+   "anno": 7,
+   "level": 3,
+   "parent": 5,
+   "text": "Manufacturer's Name and Address"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 5,
+   "text": "Product Information:"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 5,
+   "text": "Declaration:"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 2,
+   "text": "Déclaration de conformité"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 29,
+   "text": "Nom et adresse du fabricant"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 29,
+   "text": "Détails du produit"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 29,
+   "text": "Déclaration:"
+  },
+  {
+   "anno": 51,
+   "level": 2,
+   "parent": 2,
+   "text": "Limited Warranty"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 2,
+   "text": "Garantie Limitée"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 2,
+   "text": "Eingeschrankte Garantie"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 2,
+   "text": "Garantia limitada"
+  },
+  {
+   "anno": 59,
+   "level": 2,
+   "parent": 2,
+   "text": "Ограниченная гарантия"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 2,
+   "text": "Garantia Limitada"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 2,
+   "text": "Piiratud garantii"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 2,
+   "text": "Garanzia limitata"
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": 2,
+   "text": "Certifications"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 2,
+   "text": "Technical Support"
+  },
+  {
+   "anno": 80,
+   "level": 2,
+   "parent": 2,
+   "text": "Product Warranty Registration"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "brand logo"
+  },
+  {
+   "anno": 74,
+   "note": "callout label \"Note\""
+  },
+  {
+   "anno": 76,
+   "note": "callout label \"Advertencia\" (warning)"
+  }
+ ],
+ "repeats": []
+}

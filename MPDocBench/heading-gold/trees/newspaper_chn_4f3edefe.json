@@ -1,0 +1,487 @@
+{
+ "doc": "newspaper_chn_4f3edefe",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 经济日报, same family as newspaper_chn_43c21ee3: page tags (要闻, 综合, 国际, 时评, 地方, 企业) = L2; headlines L3; 引题/副题 and column rubrics are text; in-story subheads L4.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "經濟日報",
+   "note": "masthead"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平会见泰国国王哇集拉隆功"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 1,
+   "text": "神舟二十号航天员乘组顺利返回",
+   "note": "the line below is a deck"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 1,
+   "text": "扩大服务消费稳增长惠民生",
+   "note": "rubric 经济论坛 is text"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 1,
+   "text": "迎峰度冬能源供应有保障",
+   "note": "引题 above is text"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 1,
+   "text": "我国经济转型升级态势持续",
+   "note": "引题 above is text"
+  },
+  {
+   "anno": 58,
+   "level": 4,
+   "parent": 55,
+   "text": "经济运行总体平稳"
+  },
+  {
+   "anno": 72,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 72,
+   "text": "李强主持召开国务院常务会议"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 72,
+   "text": "李强会见泰国国王哇集拉隆功"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 72,
+   "text": "公布修订后的《对外使用国徽图案的办法》",
+   "note": "引题 '李强签署国务院令' is text"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 72,
+   "text": "丁薛祥出席2025世界中文大会开幕式并发表主旨讲话"
+  },
+  {
+   "anno": 112,
+   "level": 3,
+   "parent": 72,
+   "text": "越共中央总书记苏林会见李书磊"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 72,
+   "text": "深入学习领会习近平总书记关于思想建设、理论强党的重要论述 自觉做党的创新理论的笃信笃行者",
+   "note": "two-line main headline; 引题 above is text"
+  },
+  {
+   "anno": 128,
+   "level": 3,
+   "parent": 72,
+   "text": "（上接第一版）",
+   "continues": 55,
+   "note": "jump of 我国经济转型升级态势持续; no headline printed, the jump line is the only marker"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 128,
+   "text": "新动能培育壮大"
+  },
+  {
+   "anno": 137,
+   "level": 4,
+   "parent": 128,
+   "text": "实现全年目标具备较多有利条件"
+  },
+  {
+   "anno": 145,
+   "level": 3,
+   "parent": 72,
+   "text": "建设国际化消费环境当重细节",
+   "note": "rubric 金视角 is text"
+  },
+  {
+   "anno": 156,
+   "level": 2,
+   "parent": 1,
+   "text": "综合",
+   "note": "page tag p3"
+  },
+  {
+   "anno": 160,
+   "level": 3,
+   "parent": 156,
+   "text": "多地推进物流行业降本增效"
+  },
+  {
+   "anno": 165,
+   "level": 4,
+   "parent": 160,
+   "text": "高效衔接完善网络"
+  },
+  {
+   "anno": 173,
+   "level": 4,
+   "parent": 160,
+   "text": "资源整合打通堵点"
+  },
+  {
+   "anno": 179,
+   "level": 4,
+   "parent": 160,
+   "text": "服务创新降低成本"
+  },
+  {
+   "anno": 185,
+   "level": 3,
+   "parent": 156,
+   "text": "『一赛跨三地』带火湾区游",
+   "note": "rubric 文体市场面面观 is text"
+  },
+  {
+   "anno": 197,
+   "level": 3,
+   "parent": 156,
+   "text": "我国探明首个千吨级金矿"
+  },
+  {
+   "anno": 203,
+   "level": 3,
+   "parent": 156,
+   "text": "老场馆 新功能 利共享",
+   "note": "rubric 直击十五运会 is text"
+  },
+  {
+   "anno": 219,
+   "level": 3,
+   "parent": 156,
+   "text": "为奋力开创中国式现代化建设新局面提供坚强财政保障",
+   "note": "rubric above and ——访 line below are text"
+  },
+  {
+   "anno": 223,
+   "level": 4,
+   "parent": 219,
+   "text": "因时因势施策不断深化对财政宏观调控的规律性认识"
+  },
+  {
+   "anno": 229,
+   "level": 4,
+   "parent": 219,
+   "text": "把准形势任务有力有效实施积极的财政政策"
+  },
+  {
+   "anno": 237,
+   "level": 4,
+   "parent": 219,
+   "text": "坚持扩大内需支持建设强大国内市场"
+  },
+  {
+   "anno": 243,
+   "level": 4,
+   "parent": 219,
+   "text": "推进财政改革管理加快构建高水平社会主义市场经济体制"
+  },
+  {
+   "anno": 253,
+   "level": 2,
+   "parent": 1,
+   "text": "国际",
+   "note": "page tag p4"
+  },
+  {
+   "anno": 256,
+   "level": 3,
+   "parent": 253,
+   "text": "二十国集团峰会带给非洲新机遇"
+  },
+  {
+   "anno": 275,
+   "level": 3,
+   "parent": 253,
+   "text": "AI成科技行业重构关键推手",
+   "note": "rubric 外企新语 is text"
+  },
+  {
+   "anno": 286,
+   "level": 3,
+   "parent": 253,
+   "text": "中国农业设备助力科威特沙漠变田园"
+  },
+  {
+   "anno": 302,
+   "level": 3,
+   "parent": 253,
+   "text": "欧洲能源在安全与自主间“徘徊”"
+  },
+  {
+   "anno": 317,
+   "level": 2,
+   "parent": 1,
+   "text": "时评",
+   "note": "page tag p5"
+  },
+  {
+   "anno": 321,
+   "level": 3,
+   "parent": 317,
+   "text": "出实招化痛点激发民间投资活力",
+   "note": "rubric 每周经济观察 is text"
+  },
+  {
+   "anno": 334,
+   "level": 3,
+   "parent": 317,
+   "text": "打好京津冀“大健康”这张牌"
+  },
+  {
+   "anno": 344,
+   "level": 3,
+   "parent": 317,
+   "text": "联农带农闯出乡村振兴路"
+  },
+  {
+   "anno": 358,
+   "level": 3,
+   "parent": 317,
+   "text": "发展数据岂容“美颜”",
+   "note": "cartoon box with its own title and text"
+  },
+  {
+   "anno": 361,
+   "level": 3,
+   "parent": 317,
+   "text": "打通物流业降本增效『经络』",
+   "note": "rubric 洞见 is text"
+  },
+  {
+   "anno": 373,
+   "level": 3,
+   "parent": 317,
+   "text": "守好从农田到餐桌每道关口"
+  },
+  {
+   "anno": 386,
+   "level": 2,
+   "parent": 1,
+   "text": "地方",
+   "note": "page tag p6"
+  },
+  {
+   "anno": 391,
+   "level": 3,
+   "parent": 386,
+   "text": "天津和平区 文旅融合破圈重生",
+   "note": "rubric 各地新亮点 is text"
+  },
+  {
+   "anno": 395,
+   "level": 4,
+   "parent": 391,
+   "text": "寸土也能生金"
+  },
+  {
+   "anno": 403,
+   "level": 4,
+   "parent": 391,
+   "text": "金篮子装金蛋"
+  },
+  {
+   "anno": 410,
+   "level": 4,
+   "parent": 391,
+   "text": "文旅盘活老街区"
+  },
+  {
+   "anno": 419,
+   "level": 3,
+   "parent": 386,
+   "text": "冰雪经济莫止步于冰雪",
+   "note": "rubric 记者来信 is text"
+  },
+  {
+   "anno": 428,
+   "level": 3,
+   "parent": 386,
+   "text": "厦门邮轮母港优势加速释放"
+  },
+  {
+   "anno": 441,
+   "level": 3,
+   "parent": 386,
+   "text": "东川礼村这样盘活集体资产",
+   "note": "rubric 共富路上·乡村创变 is text"
+  },
+  {
+   "anno": 454,
+   "level": 2,
+   "parent": 1,
+   "text": "企业",
+   "note": "page tag p7"
+  },
+  {
+   "anno": 458,
+   "level": 3,
+   "parent": 454,
+   "text": "车企亟待驶出“极端营销”怪圈",
+   "note": "rubric 忠阳车评 is text"
+  },
+  {
+   "anno": 472,
+   "level": 3,
+   "parent": 454,
+   "text": "探寻绿色航空解决方案",
+   "note": "引题 above is text"
+  },
+  {
+   "anno": 479,
+   "level": 4,
+   "parent": 472,
+   "text": "优化航路"
+  },
+  {
+   "anno": 488,
+   "level": 4,
+   "parent": 472,
+   "text": "节油减排"
+  },
+  {
+   "anno": 495,
+   "level": 4,
+   "parent": 472,
+   "text": "精细管控"
+  },
+  {
+   "anno": 504,
+   "level": 3,
+   "parent": 454,
+   "text": "啃下环保技术硬骨头",
+   "note": "vertical; 引题 '青岛榕信破解『内卷』困局——' in the same box is text"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 32,
+   "note": "rubric 经济论坛"
+  },
+  {
+   "anno": 43,
+   "note": "引题"
+  },
+  {
+   "anno": 54,
+   "note": "引题"
+  },
+  {
+   "anno": 68,
+   "note": "导读 index box"
+  },
+  {
+   "anno": 94,
+   "note": "引题"
+  },
+  {
+   "anno": 121,
+   "note": "引题"
+  },
+  {
+   "anno": 144,
+   "note": "rubric 金视角"
+  },
+  {
+   "anno": 159,
+   "note": "引题"
+  },
+  {
+   "anno": 184,
+   "note": "rubric"
+  },
+  {
+   "anno": 202,
+   "note": "rubric"
+  },
+  {
+   "anno": 217,
+   "note": "rubric"
+  },
+  {
+   "anno": 274,
+   "note": "rubric"
+  },
+  {
+   "anno": 320,
+   "note": "rubric"
+  },
+  {
+   "anno": 360,
+   "note": "rubric"
+  },
+  {
+   "anno": 389,
+   "note": "rubric"
+  },
+  {
+   "anno": 418,
+   "note": "rubric"
+  },
+  {
+   "anno": 440,
+   "note": "rubric"
+  },
+  {
+   "anno": 457,
+   "note": "rubric"
+  },
+  {
+   "anno": 471,
+   "note": "引题"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 74,
+   "of": 1
+  },
+  {
+   "anno": 158,
+   "of": 1
+  },
+  {
+   "anno": 255,
+   "of": 1
+  },
+  {
+   "anno": 319,
+   "of": 1
+  },
+  {
+   "anno": 388,
+   "of": 1
+  },
+  {
+   "anno": 456,
+   "of": 1
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "doc": "book_eng_04edb0ff",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Sustainable Best Management Practices for Beef Production"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 1,
+   "text": "1. Why BMPs Are Important to Louisiana"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 1,
+   "text": "2. Introduction"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 1,
+   "text": "3. The Practical Side of BMPs"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 1,
+   "text": "4. Whole Farm Nutrient Planning"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 44,
+   "text": "Whole Farm Nutrient Balance"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 44,
+   "text": "Typical Nutrient Balances"
+  },
+  {
+   "anno": 97,
+   "level": 2,
+   "parent": 1,
+   "text": "5. Beef Management Practices"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 97,
+   "text": "Hay Management"
+  },
+  {
+   "anno": 102,
+   "level": 3,
+   "parent": 97,
+   "text": "Hay Waste"
+  },
+  {
+   "anno": 109,
+   "level": 3,
+   "parent": 97,
+   "text": "Practical Recommendations"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 97,
+   "text": "Management Practices for the Herd"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 97,
+   "text": "Management Practices for Pastures and Forage"
+  },
+  {
+   "anno": 149,
+   "level": 4,
+   "parent": 127,
+   "text": "Forage Quantity"
+  },
+  {
+   "anno": 151,
+   "level": 4,
+   "parent": 127,
+   "text": "Forage Nutritive Value"
+  },
+  {
+   "anno": 164,
+   "level": 3,
+   "parent": 97,
+   "text": "Beef Cattle Herd Requirements"
+  },
+  {
+   "anno": 182,
+   "level": 3,
+   "parent": 97,
+   "text": "Matching Cow Requirements with Forage Production"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

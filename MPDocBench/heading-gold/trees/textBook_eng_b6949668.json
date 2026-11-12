@@ -1,0 +1,19 @@
+{
+ "doc": "textBook_eng_b6949668",
+ "notation": "textBook-v2: L1 cover title only.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Introduction to Applied Statistics for Psychology Students"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 2,
+   "of": 1
+  }
+ ]
+}

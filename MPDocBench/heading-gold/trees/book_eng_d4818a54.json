@@ -1,0 +1,43 @@
+{
+ "doc": "book_eng_d4818a54",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "WHISKEY lies",
+   "note": "OCR drops the script 'lies'"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 2,
+   "text": "Dedication"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 2,
+   "text": "Whiskey Lies Playlist"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 2,
+   "text": "CHAPTER1"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 45,
+   "note": "point-of-view narrator label under the chapter title"
+  }
+ ],
+ "repeats": []
+}

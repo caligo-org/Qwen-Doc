@@ -1,0 +1,171 @@
+{
+ "doc": "newspaper_chn_e73ccfbf",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 人民日报, same family as newspaper_chn_11ae9c36.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "人民日報",
+   "note": "masthead (pinyin in the same box is text)"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平就尼泊尔发生客机坠毁事故 向尼泊尔总统班达里致慰问电",
+   "note": "副题 line in the same box is text"
+  },
+  {
+   "anno": 7,
+   "level": 3,
+   "parent": 1,
+   "text": "中共中央印发《中国共产党处分违纪党员批准权限和程序规定》"
+  },
+  {
+   "anno": 12,
+   "level": 4,
+   "parent": 7,
+   "text": "中国共产党处分违纪党员批准权限和程序规定",
+   "note": "title of the published regulation inside the story"
+  },
+  {
+   "anno": 14,
+   "level": 5,
+   "parent": 12,
+   "text": "第一章 总 则"
+  },
+  {
+   "anno": 22,
+   "level": 5,
+   "parent": 12,
+   "text": "第二章 处分批准权限和程序一般规定"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 1,
+   "text": "全国政协十三届常委会第二十五次会议闭幕",
+   "note": "the line below is a deck"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 1,
+   "text": "天津消费动能持续释放",
+   "note": "引题 above is text"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 1,
+   "text": "我国经济总量超120万亿元",
+   "note": "副题 in the same box is text"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 1,
+   "text": "确保电力等能源稳定供应 满足民生需求服务发展大局",
+   "note": "引题 '李克强考察国家电网公司并慰问基层干部职工时强调' in the same box is text"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 1,
+   "text": "王沪宁出席全国性宗教团体负责人迎春座谈会"
+  },
+  {
+   "anno": 76,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 76,
+   "text": "充分民主协商，广纳各方英才，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴凝心聚力",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 76,
+   "text": "关于召开中国人民政治协商会议第十四届全国委员会第一次会议的决定"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 76,
+   "text": "全国政协向不再连任的委员致信表示敬意和感谢"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 76,
+   "text": "沈跃跃会见古巴妇联领导人"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 76,
+   "text": "夏宝龙会见俄罗斯新任驻华大使莫尔古洛夫"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 76,
+   "text": "秦刚分别同蒙古国外长、马来西亚外长通电话"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 76,
+   "text": "世界经济论坛2023年年会举行",
+   "note": "副题 in the same box is text"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 76,
+   "text": "中国为世界经济复苏注入信心和力量"
+  },
+  {
+   "anno": 126,
+   "level": 4,
+   "parent": 123,
+   "text": "积极发挥“稳定器”作用"
+  },
+  {
+   "anno": 136,
+   "level": 4,
+   "parent": 123,
+   "text": "努力促进全球共同发展"
+  },
+  {
+   "anno": 146,
+   "level": 4,
+   "parent": 123,
+   "text": "推动建设开放型世界经济"
+  },
+  {
+   "anno": 159,
+   "level": 3,
+   "parent": 76,
+   "text": "匈牙利发行兔年生肖邮票"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 37,
+   "note": "引题"
+  },
+  {
+   "anno": 46,
+   "note": "导读 index box"
+  }
+ ],
+ "repeats": []
+}

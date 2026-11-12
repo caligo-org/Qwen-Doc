@@ -1,0 +1,31 @@
+{
+ "doc": "textBook_eng_a5d8350e",
+ "notation": "textBook-v2: L1 title; L2 front-matter titles. Author name is text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Measure, Integration & Real Analysis"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "About the Author"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "author name under the title"
+  }
+ ],
+ "repeats": []
+}

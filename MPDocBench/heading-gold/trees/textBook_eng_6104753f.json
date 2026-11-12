@@ -1,0 +1,48 @@
+{
+ "doc": "textBook_eng_6104753f",
+ "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Discrete Math with SageMath",
+   "note": "cover title; subtitle line (Learn Math with open-source software) and authors are text"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 4,
+   "text": "Preface"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 4,
+   "text": "Acknowledgements"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 4,
+   "text": "From the Student Authors"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 4,
+   "text": "Authors and Contributors"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 5,
+   "note": "half-title repeat"
+  },
+  {
+   "anno": 6,
+   "note": "title repeated on title page"
+  }
+ ],
+ "repeats": []
+}

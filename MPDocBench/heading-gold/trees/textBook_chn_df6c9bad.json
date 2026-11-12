@@ -1,0 +1,29 @@
+{
+ "doc": "textBook_chn_df6c9bad",
+ "notation": "textBook-v2: L1 cover subject title; cover/title page only.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "数学",
+   "note": "cover title; pinyin, grade/volume, series lines are text"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "pinyin transliteration of the title"
+  },
+  {
+   "anno": 16,
+   "note": "pinyin transliteration on title page"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 15,
+   "of": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "doc": "manualGuide_chn_1a73fd62",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "人工呼吸器 決策指南 Ventilator Decision Aid",
+   "merge": [
+    2
+   ],
+   "note": "bilingual title; English line merged"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "什麽是人工呼吸器？ What is a ventilator?",
+   "merge": [
+    5
+   ]
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 1,
+   "text": "當病人連上人工呼吸器時會發生什麼情況？如何操作？ What happens when someone is attached to a ventilator? How is it done?",
+   "merge": [
+    8
+   ]
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 1,
+   "text": "什麼時候須要人工呼吸器？ When do people need a ventilator?",
+   "merge": [
+    13
+   ]
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 1,
+   "text": "誰應該使用這份指南？ Who should use this guide?",
+   "merge": [
+    30
+   ]
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 1,
+   "text": "人工呼吸器可能有何帮助？How might using a ventilator help?"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 1,
+   "text": "人工呼吸器可能造成哪些傷害？How might a ventilator cause harm?"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 1,
+   "text": "人工呼吸器能使病情好转嗎？Does a ventilator help people to get better?"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 1,
+   "text": "人工呼吸器對哪些病人最有益？Who is most likely to be helped from being on a ventilator?"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 1,
+   "text": "人工呼吸器對哪些病人較無益？Who is less likely to be helped by using a ventilator?"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 1,
+   "text": "使用人工呼吸器，會是什麼樣的情況？ What is it like being on a ventilator?"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 1,
+   "text": "一旦用了人工呼吸器，他們可以停止不用嗎？ Once someone is on a ventilator, can they come off?",
+   "merge": [
+    58
+   ]
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 1,
+   "text": "如果有人需要長時間使用人工呼吸器，會有什麼情況出現呢？ What happens if someone needs a ventilator for a long time?",
+   "merge": [
+    61
+   ]
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 1,
+   "text": "對決定不嘗試人工呼吸器的病人，會有什麼情況？ What happens to people who decide NOT to try a ventilator?",
+   "merge": [
+    65
+   ]
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 1,
+   "text": "人們如何決定是否要試用人工呼吸器？ How do people decide whether or not to try a ventilator?",
+   "merge": [
+    76
+   ]
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 16,
+   "note": "label rule"
+  },
+  {
+   "anno": 17,
+   "note": "label rule (English half of the lead-in)"
+  },
+  {
+   "anno": 22,
+   "note": "label rule"
+  },
+  {
+   "anno": 23,
+   "note": "label rule (English half of the lead-in)"
+  },
+  {
+   "anno": 78,
+   "note": "bold black list lead-in, same style as the run-in lines #66/#72 (text)"
+  }
+ ],
+ "repeats": []
+}

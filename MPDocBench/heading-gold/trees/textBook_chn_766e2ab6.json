@@ -1,0 +1,49 @@
+{
+ "doc": "textBook_chn_766e2ab6",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and units; L3 lessons (number badge merged); L4 activity titles.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "科学",
+   "note": "cover title; grade/volume lines and publishers are text"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "目录"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 2,
+   "text": "第一单元 土壤和岩石"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 16,
+   "text": "1 土壤里有什么",
+   "merge": [
+    18
+   ],
+   "note": "lesson number badge + lesson title"
+  },
+  {
+   "anno": 24,
+   "level": 4,
+   "parent": 19,
+   "text": "探究土壤的成分",
+   "note": "activity title under the lesson"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 23,
+   "note": "activity-kind label 科学实践 (kind only; the activity title follows)"
+  }
+ ],
+ "repeats": []
+}

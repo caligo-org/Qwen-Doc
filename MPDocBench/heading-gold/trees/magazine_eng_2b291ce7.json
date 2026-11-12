@@ -1,0 +1,256 @@
+{
+ "doc": "magazine_eng_2b291ce7",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "BEIJINGREVIEW",
+   "note": "masthead"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "note": "contents title"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 2,
+   "text": "EDITOR'S DESK",
+   "note": "section banner EDITOR'S DESK"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 24,
+   "text": "The Urban Imperative",
+   "note": "editorial"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 2,
+   "text": "THIS WEEK",
+   "note": "section tag THIS WEEK"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 55,
+   "text": "URGENT MISSION ACCOMPLISHED",
+   "note": "photo story"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 55,
+   "text": "THIS WEEK SOCIETY",
+   "note": "subsection tag (THIS WEEK + SOCIETY)"
+  },
+  {
+   "anno": 64,
+   "level": 4,
+   "parent": 62,
+   "text": "Aircraft Maintenance",
+   "note": "photo story; sibling of the briefs, not their parent"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 62,
+   "text": "Domestic Violence"
+  },
+  {
+   "anno": 73,
+   "level": 4,
+   "parent": 62,
+   "text": "Curbing Tax Evasion"
+  },
+  {
+   "anno": 79,
+   "level": 4,
+   "parent": 62,
+   "text": "Science Forum"
+  },
+  {
+   "anno": 84,
+   "level": 4,
+   "parent": 62,
+   "text": "Ice Building"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 62,
+   "text": "Giant Panda Population"
+  },
+  {
+   "anno": 102,
+   "level": 4,
+   "parent": 62,
+   "text": "College Graduates"
+  },
+  {
+   "anno": 105,
+   "level": 4,
+   "parent": 62,
+   "text": "A Flourishing Industry",
+   "note": "photo story"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 62,
+   "text": "World Hello Day",
+   "note": "photo story"
+  },
+  {
+   "anno": 118,
+   "level": 3,
+   "parent": 55,
+   "text": "THIS WEEK ECONOMY",
+   "note": "subsection tag (THIS WEEK + ECONOMY)"
+  },
+  {
+   "anno": 119,
+   "level": 4,
+   "parent": 118,
+   "text": "Green Electricity Certificates"
+  },
+  {
+   "anno": 127,
+   "level": 4,
+   "parent": 118,
+   "text": "Civil Aviation"
+  },
+  {
+   "anno": 134,
+   "level": 4,
+   "parent": 118,
+   "text": "Emerging Industries"
+  },
+  {
+   "anno": 140,
+   "level": 4,
+   "parent": 118,
+   "text": "Carbon Market Expansion"
+  },
+  {
+   "anno": 142,
+   "level": 4,
+   "parent": 118,
+   "text": "NUMBERS",
+   "note": "data box title"
+  },
+  {
+   "anno": 161,
+   "level": 4,
+   "parent": 118,
+   "text": "Installed Power Capacity"
+  },
+  {
+   "anno": 169,
+   "level": 4,
+   "parent": 118,
+   "text": "Rural Banks"
+  },
+  {
+   "anno": 180,
+   "level": 3,
+   "parent": 55,
+   "text": "THIS WEEK WORLD",
+   "note": "subsection tag (THIS WEEK + WORLD); country labels on the photos are caption labels"
+  },
+  {
+   "anno": 206,
+   "level": 3,
+   "parent": 55,
+   "text": "THIS WEEK PEOPLE & POINTS",
+   "note": "subsection tag (THIS WEEK + PEOPLE & POINTS)"
+  },
+  {
+   "anno": 207,
+   "level": 4,
+   "parent": 206,
+   "text": "DESIGNER BEHIND POPULAR MASCOTS"
+  },
+  {
+   "anno": 213,
+   "level": 4,
+   "parent": 206,
+   "text": "From Playgrounds to Python"
+  },
+  {
+   "anno": 220,
+   "level": 4,
+   "parent": 206,
+   "text": "Sports Mean Business"
+  },
+  {
+   "anno": 234,
+   "level": 4,
+   "parent": 206,
+   "text": "Work Without Barriers"
+  },
+  {
+   "anno": 240,
+   "level": 4,
+   "parent": 206,
+   "text": "YOUNGEST CAS MEMBER"
+  },
+  {
+   "anno": 254,
+   "level": 2,
+   "parent": 2,
+   "text": "COVER STORY",
+   "note": "section banner COVER STORY"
+  },
+  {
+   "anno": 255,
+   "level": 3,
+   "parent": 254,
+   "text": "A NEW URBAN LIFE"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 5,
+   "note": "cover line"
+  },
+  {
+   "anno": 7,
+   "note": "advertisement (p2)"
+  },
+  {
+   "anno": 25,
+   "note": "masthead logo in the colophon column"
+  },
+  {
+   "anno": 47,
+   "note": "contact box title in the colophon area"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 90,
+   "of": 55
+  },
+  {
+   "anno": 153,
+   "of": 55
+  },
+  {
+   "anno": 193,
+   "of": 55
+  },
+  {
+   "anno": 230,
+   "of": 55
+  }
+ ]
+}

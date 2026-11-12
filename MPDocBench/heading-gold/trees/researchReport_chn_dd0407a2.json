@@ -1,0 +1,131 @@
+{
+ "doc": "researchReport_chn_dd0407a2",
+ "notation": "researchReport (company note): L1 headline; L2 ■ section titles and back-matter titles; L3 sub-headlines and rating-definition subsections. Rating, sidebar data-box labels, related reports, table titles and analyst names are text.",
+ "nodes": [
+  {
+   "anno": 19,
+   "level": 1,
+   "parent": "root",
+   "text": "业绩增长略超预期，坚果品类扩充"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 19,
+   "text": "公司动态事项"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 19,
+   "text": "■ 事项点评"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 22,
+   "text": "瓜子延续快增长，Q2坚果逐步恢复"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 22,
+   "text": "受益销售费用率下降，净利率提升"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 22,
+   "text": "产品矩阵扩充，全渠道发力"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 19,
+   "text": "投资建议"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 19,
+   "text": "风险提示"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 19,
+   "text": "分析师声明"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 19,
+   "text": "公司业务资格说明"
+  },
+  {
+   "anno": 58,
+   "level": 2,
+   "parent": 19,
+   "text": "投资评级体系与评级定义"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 58,
+   "text": "股票投资评级："
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 58,
+   "text": "行业投资评级："
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 58,
+   "text": "投资评级说明："
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": 19,
+   "text": "免责声明"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "rating (增持 ——维持)"
+  },
+  {
+   "anno": 8,
+   "note": "sidebar data-table label"
+  },
+  {
+   "anno": 10,
+   "note": "sidebar data-table label"
+  },
+  {
+   "anno": 12,
+   "note": "sidebar data-table label"
+  },
+  {
+   "anno": 14,
+   "note": "sidebar chart label"
+  },
+  {
+   "anno": 16,
+   "note": "相关报告: related-reports list"
+  },
+  {
+   "anno": 36,
+   "note": "数据预测与估值: table title"
+  },
+  {
+   "anno": 54,
+   "note": "analyst name"
+  }
+ ],
+ "repeats": []
+}

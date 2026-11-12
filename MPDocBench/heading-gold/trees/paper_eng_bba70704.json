@@ -1,0 +1,132 @@
+{
+ "doc": "paper_eng_bba70704",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 4,
+   "text": "ABSTRACT"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 4,
+   "text": "I. INTRODUCTION"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 4,
+   "text": "II. LITERATURE STUDIES"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 22,
+   "text": "II.1 GLOBAL CRISIS"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 22,
+   "text": "II.2 FINANCIAL MANAGEMENT"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 22,
+   "text": "II.3 FINANCIAL STATEMENT ANALYSIS"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 22,
+   "text": "II.4 FINANCIAL PERFORMANCE MEASURE"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 4,
+   "text": "III. METHODOLOGY"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 55,
+   "text": "III.1 RESEARCH MODEL"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 55,
+   "text": "III.2 HYPOTHESIS"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 55,
+   "text": "III.3 RESEARCH OBJECT"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 55,
+   "text": "III.4 VARIABLE OPERATION"
+  },
+  {
+   "anno": 89,
+   "level": 2,
+   "parent": 4,
+   "text": "IV. DATA ANALYSIS"
+  },
+  {
+   "anno": 92,
+   "level": 3,
+   "parent": 89,
+   "text": "IV.1 RESULT AND DISCUSSION"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 89,
+   "text": "IV.2 PROFITABILITY"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 89,
+   "text": "IV.3 LIQUIDITY"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 89,
+   "text": "IV.4 PRICE TO EARNING RATIO"
+  },
+  {
+   "anno": 112,
+   "level": 2,
+   "parent": 4,
+   "text": "V. CONCLUSION"
+  },
+  {
+   "anno": 116,
+   "level": 2,
+   "parent": 4,
+   "text": "VI. REFERENCE"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "journal logo (Review of Integrative Business & Economics Research)"
+  }
+ ],
+ "repeats": []
+}

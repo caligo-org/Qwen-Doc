@@ -1,0 +1,115 @@
+{
+ "doc": "researchReport_eng_02963ff9",
+ "notation": "researchReport (English equity research): L1 headline; L2 body sections and Disclosure Appendix; L3 disclosure parts; L4 underlined sub-parts. Region kicker above the headline, analyst list and bold run-in questions are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "Equities Reform: Shareholder returns and enhanced disclosures to drive the next phase"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 5,
+   "text": "What happened and what has worked so far?"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 5,
+   "text": "What's next?"
+  },
+  {
+   "anno": 82,
+   "level": 2,
+   "parent": 5,
+   "text": "Disclosure Appendix"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 82,
+   "text": "Reg AC"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 82,
+   "text": "GS Factor Profile"
+  },
+  {
+   "anno": 92,
+   "level": 3,
+   "parent": 82,
+   "text": "M&A Rank"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 82,
+   "text": "Quantum"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 82,
+   "text": "Company-specific regulatory disclosures"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 82,
+   "text": "Distribution of ratings/investment banking relationships"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 82,
+   "text": "Price target and rating history chart(s)"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 82,
+   "text": "Regulatory disclosures"
+  },
+  {
+   "anno": 109,
+   "level": 4,
+   "parent": 108,
+   "text": "Disclosures required by United States laws and regulations"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 108,
+   "text": "Additional disclosures required under the laws and regulations of jurisdictions other than the United States"
+  },
+  {
+   "anno": 122,
+   "level": 4,
+   "parent": 108,
+   "text": "Ratings, coverage universe and related definitions"
+  },
+  {
+   "anno": 127,
+   "level": 4,
+   "parent": 108,
+   "text": "Global product; distributing entities"
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 82,
+   "text": "General disclosures"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "Singapore: region kicker above the headline"
+  }
+ ],
+ "repeats": []
+}

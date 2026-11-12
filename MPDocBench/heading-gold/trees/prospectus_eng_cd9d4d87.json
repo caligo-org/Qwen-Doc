@@ -1,0 +1,50 @@
+{
+ "doc": "prospectus_eng_cd9d4d87",
+ "notation": "prospectus-v2: L1 cover document title (PROSPECTUS); fund name and legal-form block text. L2 CONTENTS, INTRODUCTION, DEFINITIONS and numbered chapters (same style); L3 1.1.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "PROSPECTUS"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 3,
+   "text": "INTRODUCTION"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 3,
+   "text": "DEFINITIONS"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 3,
+   "text": "1. GENERAL CHARACTERISTICS OF THE OYSTER MUTUAL FUND",
+   "note": "same style as DEFINITIONS (top-level chapter)"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 28,
+   "text": "1.1. Structure"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "fund (issuer) name and legal form on cover"
+  }
+ ],
+ "repeats": []
+}

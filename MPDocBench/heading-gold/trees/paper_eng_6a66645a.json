@@ -1,0 +1,97 @@
+{
+ "doc": "paper_eng_6a66645a",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "1. Introduction"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 2,
+   "text": "2. Design Details"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 13,
+   "text": "2.1 Building-material-housing Solar Cooker (BMHSC)"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 13,
+   "text": "2.2 Commercial Hotbox Solar Cooker (CSC)"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "3. Experimental Studies"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 28,
+   "text": "3.1 Thermal Performance"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 28,
+   "text": "3.2 Cooking Performance"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 28,
+   "text": "3.3 Figures of Merit"
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 2,
+   "text": "4. Energy Savings and Payback Periods"
+  },
+  {
+   "anno": 74,
+   "level": 2,
+   "parent": 2,
+   "text": "5. Results and Discussion"
+  },
+  {
+   "anno": 84,
+   "level": 2,
+   "parent": 2,
+   "text": "6. Conclusions"
+  },
+  {
+   "anno": 88,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  },
+  {
+   "anno": 107,
+   "level": 2,
+   "parent": 2,
+   "text": "Authors"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

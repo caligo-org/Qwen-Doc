@@ -1,0 +1,314 @@
+{
+ "doc": "newspaper_eng_1153fb03",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Boston Globe, same family as the reference.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "The Boston Globe",
+   "note": "masthead"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "Maine shooting panel sees widespread failures"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 1,
+   "text": "From fractured past, a connection"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 1,
+   "text": "Legal challenges complicate plan for Steward hospitals"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 1,
+   "text": "Obamas lead the charge for Democrats"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 1,
+   "text": "Harris loyalists from 2020 say it's the party that's evolved"
+  },
+  {
+   "anno": 82,
+   "level": 2,
+   "parent": 1,
+   "text": "The Nation",
+   "note": "banner p2"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 82,
+   "text": "Amtrak stumbles along with century-old system"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 82,
+   "text": "DAILY BRIEFING"
+  },
+  {
+   "anno": 115,
+   "level": 4,
+   "parent": 111,
+   "text": "Greenpeace tries a novel tactic in lawsuit over Dakota Access Pipeline"
+  },
+  {
+   "anno": 126,
+   "level": 4,
+   "parent": 111,
+   "text": "S.D. bridge collapse cleanup begins"
+  },
+  {
+   "anno": 135,
+   "level": 4,
+   "parent": 111,
+   "text": "Ill. bans corporal punishment in schools"
+  },
+  {
+   "anno": 144,
+   "level": 4,
+   "parent": 111,
+   "text": "Former officer in Floyd killing moved to Texas prison"
+  },
+  {
+   "anno": 155,
+   "level": 3,
+   "parent": 82,
+   "text": "Biden approved nuclear strategy to focus on China",
+   "note": "separate story with deck and byline"
+  },
+  {
+   "anno": 171,
+   "level": 3,
+   "parent": 82,
+   "text": "For the record",
+   "note": "corrections column"
+  },
+  {
+   "anno": 177,
+   "level": 2,
+   "parent": 1,
+   "text": "The World",
+   "note": "banner p3"
+  },
+  {
+   "anno": 178,
+   "level": 3,
+   "parent": 177,
+   "text": "War draining Ukraine's male workforce"
+  },
+  {
+   "anno": 206,
+   "level": 3,
+   "parent": 177,
+   "text": "Israel says it recovered bodies of 6 hostages"
+  },
+  {
+   "anno": 233,
+   "level": 3,
+   "parent": 177,
+   "text": "DAILY BRIEFING"
+  },
+  {
+   "anno": 234,
+   "level": 4,
+   "parent": 233,
+   "text": "Accused serial killer escapes custody in Kenya"
+  },
+  {
+   "anno": 241,
+   "level": 4,
+   "parent": 233,
+   "text": "Panama deports 29 Colombians on US-paid flight"
+  },
+  {
+   "anno": 248,
+   "level": 4,
+   "parent": 233,
+   "text": "Mexico judges vote to strike with court staff"
+  },
+  {
+   "anno": 255,
+   "level": 2,
+   "parent": 1,
+   "text": "The Nation",
+   "continues": 82,
+   "note": "running section tag p4, section resumed after The World"
+  },
+  {
+   "anno": 260,
+   "level": 3,
+   "parent": 255,
+   "text": "President's speech was one he never wanted to give",
+   "note": "kicker 'BITTERSWEET MOMENT' is text"
+  },
+  {
+   "anno": 288,
+   "level": 3,
+   "parent": 255,
+   "text": "Obama, Harris share a long bond and a kindred spirit",
+   "note": "kicker 'CLOSE CONNECTION' is text"
+  },
+  {
+   "anno": 318,
+   "level": 3,
+   "parent": 255,
+   "text": "The DNC might feature a lot of white pantsuits. It's not just fashion.",
+   "note": "kicker 'FASHION AND A STATEMENT' is text"
+  },
+  {
+   "anno": 352,
+   "level": 3,
+   "parent": 255,
+   "text": "Obamas leading the charge for Democrats",
+   "continues": 52,
+   "note": "jump: DEMOCRATS Continued from Page A1"
+  },
+  {
+   "anno": 383,
+   "level": 3,
+   "parent": 255,
+   "text": "Harris loyalists from 2020 say it's the party that's evolved",
+   "continues": 70,
+   "note": "jump: DELEGATES Continued from Page A1"
+  },
+  {
+   "anno": 422,
+   "level": 3,
+   "parent": 255,
+   "text": "Emhoff: Harris will lead with joy and toughness",
+   "note": "'POLITICAL NOTEBOOK' rubric is text"
+  },
+  {
+   "anno": 442,
+   "level": 3,
+   "parent": 255,
+   "text": "Kennedy running mate says they may endorse Trump"
+  },
+  {
+   "anno": 454,
+   "level": 3,
+   "parent": 255,
+   "text": "New York's top court upholds mail-in ballot law"
+  },
+  {
+   "anno": 460,
+   "level": 3,
+   "parent": 255,
+   "text": "Ex-city council wins nomination for Ariz, US seat"
+  },
+  {
+   "anno": 468,
+   "level": 3,
+   "parent": 255,
+   "text": "Legal questions complicate plan for Steward hospitals",
+   "continues": 45,
+   "note": "jump: HOSPITALS Continued from Page A1"
+  },
+  {
+   "anno": 502,
+   "level": 3,
+   "parent": 255,
+   "text": "Putin visits Chechnya 3 weeks into incursion"
+  },
+  {
+   "anno": 524,
+   "level": 2,
+   "parent": 1,
+   "text": "The Region",
+   "note": "running section tag p7 (section changes)"
+  },
+  {
+   "anno": 526,
+   "level": 3,
+   "parent": 524,
+   "text": "Maine shooting panel sees widespread failures",
+   "continues": 4,
+   "note": "jump: MASS SHOOTING Continued from Page A1"
+  },
+  {
+   "anno": 564,
+   "level": 3,
+   "parent": 524,
+   "text": "From a Black family's lost story, a connection emerges",
+   "continues": 20,
+   "note": "jump: SLAVERY Continued from Page A1"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 38,
+   "note": "front-page photo teaser pointing to C1"
+  },
+  {
+   "anno": 43,
+   "note": "weather box"
+  },
+  {
+   "anno": 259,
+   "note": "kicker"
+  },
+  {
+   "anno": 287,
+   "note": "kicker"
+  },
+  {
+   "anno": 317,
+   "note": "kicker"
+  },
+  {
+   "anno": 608,
+   "note": "colophon"
+  },
+  {
+   "anno": 612,
+   "note": "subscription rates (colophon)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 80,
+   "of": 1
+  },
+  {
+   "anno": 175,
+   "of": 1
+  },
+  {
+   "anno": 256,
+   "of": 1
+  },
+  {
+   "anno": 348,
+   "of": 1
+  },
+  {
+   "anno": 349,
+   "of": 255
+  },
+  {
+   "anno": 419,
+   "of": 255
+  },
+  {
+   "anno": 420,
+   "of": 1
+  },
+  {
+   "anno": 523,
+   "of": 1
+  }
+ ]
+}

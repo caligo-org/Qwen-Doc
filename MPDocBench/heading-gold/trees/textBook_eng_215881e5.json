@@ -1,0 +1,42 @@
+{
+ "doc": "textBook_eng_215881e5",
+ "notation": "textBook-v2: L1 book title; L2 front-matter titles.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Nature of Geographic Information"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 1,
+   "text": "About this Book"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 1,
+   "text": "Acknowledgements"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 20,
+   "note": "subtitle (An Open Geospatial Textbook) restated above the author line inside the acknowledgements"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 2,
+   "of": 1
+  }
+ ]
+}

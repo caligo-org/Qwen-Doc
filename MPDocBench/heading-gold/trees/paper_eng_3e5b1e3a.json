@@ -1,0 +1,55 @@
+{
+ "doc": "paper_eng_3e5b1e3a",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Factors Impinging Farmers' Use of Agriculture Technology"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 2,
+   "text": "1. Agriculture in Malaysia"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "2. Farmers in Malaysia"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 2,
+   "text": "3. Benefits of Technologies to Farmers"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 2,
+   "text": "4. Factors Affecting Technology Usage among Farmers"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 2,
+   "text": "5. Conclusion"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,85 @@
+{
+ "doc": "paper_eng_ce403572",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 3,
+   "text": "ABSTRACT"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "1. INTRODUCTION"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 3,
+   "text": "2. LITERATURE REVIEW"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 17,
+   "text": "2.1 Profitability and Capital Structure"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 17,
+   "text": "2.2 Liquidity and Capital Structure"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 17,
+   "text": "2.3 Tangibility and Capital Structure"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 17,
+   "text": "2.4 Firm Size and Capital Structure"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 17,
+   "text": "2.5 Asset Turnover and Capital Structure"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 3,
+   "text": "3. METHODS"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 3,
+   "text": "4. RESULTS"
+  },
+  {
+   "anno": 73,
+   "level": 2,
+   "parent": 3,
+   "text": "5. CONCLUSIONS"
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 3,
+   "text": "REFERENCES"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

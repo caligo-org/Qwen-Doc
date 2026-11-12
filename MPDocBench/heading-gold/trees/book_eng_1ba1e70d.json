@@ -1,0 +1,34 @@
+{
+ "doc": "book_eng_1ba1e70d",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "212",
+   "note": "cover title; 'a novel' in the same box is a genre line"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "Contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "author name on the cover"
+  },
+  {
+   "anno": 6,
+   "note": "author name on the title page"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 4,
+   "of": 3
+  }
+ ]
+}

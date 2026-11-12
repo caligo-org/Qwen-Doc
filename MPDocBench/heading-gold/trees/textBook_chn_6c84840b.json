@@ -1,0 +1,49 @@
+{
+ "doc": "textBook_chn_6c84840b",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and chapters; L3 节; L4 subsections.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "地理",
+   "note": "cover title; 必修/第一册 are text"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 4,
+   "text": "目录"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 4,
+   "text": "第一章 宇宙中的地球"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 36,
+   "text": "第一节 地球的宇宙环境",
+   "note": "section label and title on two lines, one box"
+  },
+  {
+   "anno": 48,
+   "level": 4,
+   "parent": 44,
+   "text": "地球在宇宙中的位置"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 4
+  },
+  {
+   "anno": 61,
+   "of": 36
+  }
+ ]
+}

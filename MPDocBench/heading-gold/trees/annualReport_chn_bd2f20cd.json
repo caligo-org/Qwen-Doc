@@ -1,0 +1,164 @@
+{
+ "doc": "annualReport_chn_bd2f20cd",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "2019年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 6,
+   "text": "重要提示"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 12,
+   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 12,
+   "text": "六、前瞻性陈述的风险声明"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 12,
+   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 12,
+   "text": "八、是否存在违反规定决策程序对外提供担保的情况？"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 12,
+   "text": "九、重大风险提示"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 12,
+   "text": "十、其他"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 6,
+   "text": "目录"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 6,
+   "text": "第一节 释义"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 38,
+   "text": "一、释义"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 6,
+   "text": "第二节 公司简介和主要财务指标"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 42,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 42,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 42,
+   "text": "三、基本情况简介"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 42,
+   "text": "四、信息披露及备置地点"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 42,
+   "text": "五、公司股票简况"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 42,
+   "text": "六、其他相关资料"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 42,
+   "text": "七、近三年主要会计数据和财务指标"
+  },
+  {
+   "anno": 60,
+   "level": 4,
+   "parent": 59,
+   "text": "(一)主要会计数据"
+  },
+  {
+   "anno": 67,
+   "level": 4,
+   "parent": 59,
+   "text": "（二） 主要财务指标"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 42,
+   "text": "八、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 74,
+   "level": 4,
+   "parent": 73,
+   "text": "(一) 同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况"
+  },
+  {
+   "anno": 76,
+   "level": 4,
+   "parent": 73,
+   "text": "(二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况"
+  },
+  {
+   "anno": 78,
+   "level": 4,
+   "parent": 73,
+   "text": "(三) 境内外会计准则差异的说明："
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 42,
+   "text": "九、2019年分季度主要财务数据"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

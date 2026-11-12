@@ -1,0 +1,32 @@
+{
+ "doc": "examPaper_eng_dd12c9cc",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Solution (The Experimental Question):"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "Task 1",
+   "note": "task heading; part numbers 1a., 1b. alone on a line are labels"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 1,
+   "text": "Task 2."
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 1,
+   "text": "Task 3."
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

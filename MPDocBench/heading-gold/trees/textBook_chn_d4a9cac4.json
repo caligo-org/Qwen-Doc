@@ -1,0 +1,38 @@
+{
+ "doc": "textBook_chn_d4a9cac4",
+ "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "高等数学 习题全解指南",
+   "note": "cover title on two lines; series, volume/edition, editor lines are text"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 3,
+   "text": "内容提要"
+  },
+  {
+   "anno": 47,
+   "level": 2,
+   "parent": 3,
+   "text": "前言"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 8,
+   "of": 3
+  }
+ ]
+}

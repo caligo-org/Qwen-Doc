@@ -1,0 +1,83 @@
+{
+ "doc": "textBook_chn_0505fdad",
+ "notation": "textBook-v2: L1 subject title + book type; L2 front matter and chapters; L3 节; L4 recurring teaching-part headings.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "体育与健康 教师用书",
+   "merge": [
+    3
+   ],
+   "note": "title 体育与健康 + book type 教师用书; series line 义务教育教科书 and grade/volume line are text"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 2,
+   "text": "前言"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 2,
+   "text": "目录"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 2,
+   "text": "第一章 健康基础知识",
+   "merge": [
+    37
+   ],
+   "note": "chapter label + chapter title"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 36,
+   "text": "第一节 肌肉力量与肌肉耐力"
+  },
+  {
+   "anno": 43,
+   "level": 4,
+   "parent": 41,
+   "text": "教学目标",
+   "note": "recurring teaching part heading inside each section"
+  },
+  {
+   "anno": 45,
+   "level": 4,
+   "parent": 41,
+   "text": "知识要点"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 41,
+   "text": "教学内容"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 41,
+   "text": "教学策略"
+  },
+  {
+   "anno": 62,
+   "level": 4,
+   "parent": 41,
+   "text": "教学评价",
+   "note": "boxed, same role as the other teaching parts"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "series line (义务教育教科书) above the title"
+  }
+ ],
+ "repeats": []
+}

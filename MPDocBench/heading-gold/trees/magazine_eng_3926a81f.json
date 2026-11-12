@@ -1,0 +1,101 @@
+{
+ "doc": "magazine_eng_3926a81f",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "FourFourTwo",
+   "note": "masthead (AWARDS 2025 issue banner in the same box is text)"
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 1,
+   "text": "WELCOME",
+   "note": "editor's letter; no section printed"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 5,
+   "note": "advertisement (pp. 2-3)"
+  },
+  {
+   "anno": 14,
+   "note": "house ad (newsletter)"
+  },
+  {
+   "anno": 26,
+   "note": "colophon label"
+  },
+  {
+   "anno": 29,
+   "note": "colophon label"
+  },
+  {
+   "anno": 31,
+   "note": "colophon label"
+  },
+  {
+   "anno": 33,
+   "note": "colophon label"
+  },
+  {
+   "anno": 35,
+   "note": "colophon label"
+  },
+  {
+   "anno": 37,
+   "note": "colophon label"
+  },
+  {
+   "anno": 39,
+   "note": "colophon label"
+  },
+  {
+   "anno": 41,
+   "note": "colophon label"
+  },
+  {
+   "anno": 43,
+   "note": "colophon label"
+  },
+  {
+   "anno": 45,
+   "note": "colophon label"
+  },
+  {
+   "anno": 47,
+   "note": "colophon label"
+  },
+  {
+   "anno": 49,
+   "note": "colophon label"
+  },
+  {
+   "anno": 51,
+   "note": "colophon label"
+  },
+  {
+   "anno": 76,
+   "note": "social-media box (FOLLOW US HERE)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 24,
+   "of": 1
+  },
+  {
+   "anno": 78,
+   "of": 1
+  },
+  {
+   "anno": 79,
+   "of": 1
+  }
+ ]
+}

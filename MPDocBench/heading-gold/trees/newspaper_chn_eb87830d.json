@@ -1,0 +1,281 @@
+{
+ "doc": "newspaper_chn_eb87830d",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 光明日报: front page implicit section; page tags (要闻, 评论, 综合新闻) and the special-supplement banner 红船初心专刊 = L2; headlines L3 (引题/副题/rubrics text, node text = main title); subheads L4; advertorials marked ·广告· are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "note": "masthead (pinyin in the same box is text)"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 1,
+   "text": "为乡村振兴尽情放歌",
+   "note": "one of two essays under the figure banner '十五五' 我所思·我所盼"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 1,
+   "text": "盼文学力量更加彰显"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 1,
+   "text": "坚定发展信心 汇聚发展合力",
+   "note": "red rubric above and ——综述 subtitle in the same box are text"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 36,
+   "text": "顶层谋划推进掀起宣讲热潮"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 1,
+   "text": "从近及远，由物及人"
+  },
+  {
+   "anno": 72,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 72,
+   "text": "王沪宁对老挝进行正式友好访问 并出席老挝建国50周年庆祝活动"
+  },
+  {
+   "anno": 89,
+   "level": 3,
+   "parent": 72,
+   "text": "（上接1版）",
+   "continues": 36,
+   "note": "jump of 坚定发展信心 汇聚发展合力, no headline printed"
+  },
+  {
+   "anno": 93,
+   "level": 4,
+   "parent": 89,
+   "text": "深入基层一线 力求鲜活生动"
+  },
+  {
+   "anno": 111,
+   "level": 4,
+   "parent": 89,
+   "text": "面向青年群体 激扬青春力量"
+  },
+  {
+   "anno": 129,
+   "level": 3,
+   "parent": 72,
+   "text": "让老兵的故事传遍神州大地",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 132,
+   "level": 4,
+   "parent": 129,
+   "text": "（一）",
+   "note": "numbered part heading printed alone"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 129,
+   "text": "（二）"
+  },
+  {
+   "anno": 147,
+   "level": 4,
+   "parent": 129,
+   "text": "（三）"
+  },
+  {
+   "anno": 158,
+   "level": 3,
+   "parent": 72,
+   "text": "万羽天鹅舞翩跹",
+   "note": "引题 '河南三门峡：' is text"
+  },
+  {
+   "anno": 172,
+   "level": 2,
+   "parent": 1,
+   "text": "评论",
+   "note": "page tag p3"
+  },
+  {
+   "anno": 174,
+   "level": 3,
+   "parent": 172,
+   "text": "以合作凝众力 为乡村谋复兴"
+  },
+  {
+   "anno": 191,
+   "level": 3,
+   "parent": 172,
+   "text": "推动资源环境要素高效配置"
+  },
+  {
+   "anno": 205,
+   "level": 3,
+   "parent": 172,
+   "text": "『小菜园』中的治理智慧"
+  },
+  {
+   "anno": 238,
+   "level": 2,
+   "parent": 1,
+   "text": "综合新闻",
+   "note": "page tag p4"
+  },
+  {
+   "anno": 241,
+   "level": 3,
+   "parent": 238,
+   "text": "让青春在祖国西部绽放绚丽光芒"
+  },
+  {
+   "anno": 263,
+   "level": 3,
+   "parent": 238,
+   "text": "国家特殊教育数字化资源中心正式启动建设"
+  },
+  {
+   "anno": 268,
+   "level": 3,
+   "parent": 238,
+   "text": "乡村企业 便民就业",
+   "note": "photo story title"
+  },
+  {
+   "anno": 271,
+   "level": 3,
+   "parent": 238,
+   "text": "内蒙古乌海半固态锂电池储能项目成功并网发电"
+  },
+  {
+   "anno": 277,
+   "level": 3,
+   "parent": 238,
+   "text": "村寨里的“约定”",
+   "note": "引题 '广西河池宜州区：' in the same box is text"
+  },
+  {
+   "anno": 281,
+   "level": 4,
+   "parent": 277,
+   "text": "村规民约焕发时代生机"
+  },
+  {
+   "anno": 286,
+   "level": 4,
+   "parent": 277,
+   "text": "文明新风吹遍山乡村寨"
+  },
+  {
+   "anno": 292,
+   "level": 4,
+   "parent": 277,
+   "text": "凝聚合力助推产业兴旺"
+  },
+  {
+   "anno": 317,
+   "level": 2,
+   "parent": 1,
+   "text": "红船初心专刊",
+   "note": "special-supplement page banner"
+  },
+  {
+   "anno": 322,
+   "level": 3,
+   "parent": 317,
+   "text": "一方青绿润百业",
+   "note": "vertical; 引题 '江苏省淮安市盱眙县天泉湖镇陡山村：' in the same box is text"
+  },
+  {
+   "anno": 340,
+   "level": 3,
+   "parent": 317,
+   "text": "遍野金黄甜万家",
+   "note": "vertical; 引题 in the same box is text"
+  },
+  {
+   "anno": 361,
+   "level": 3,
+   "parent": 317,
+   "text": "以文化力量激发乡村振兴蓬勃生机"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 35,
+   "note": "rubric"
+  },
+  {
+   "anno": 157,
+   "note": "引题"
+  },
+  {
+   "anno": 216,
+   "note": "advertorial (·广告·)"
+  },
+  {
+   "anno": 217,
+   "note": "advertorial"
+  },
+  {
+   "anno": 219,
+   "note": "advertorial"
+  },
+  {
+   "anno": 222,
+   "note": "advertorial"
+  },
+  {
+   "anno": 227,
+   "note": "advertorial"
+  },
+  {
+   "anno": 232,
+   "note": "advertorial"
+  },
+  {
+   "anno": 297,
+   "note": "advertorial (·广告·)"
+  },
+  {
+   "anno": 298,
+   "note": "advertorial"
+  },
+  {
+   "anno": 300,
+   "note": "advertorial"
+  },
+  {
+   "anno": 304,
+   "note": "advertorial"
+  },
+  {
+   "anno": 308,
+   "note": "advertorial"
+  }
+ ],
+ "repeats": []
+}

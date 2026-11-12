@@ -1,0 +1,32 @@
+{
+ "doc": "goverment_chn_dec4c579",
+ "notation": "goverment-v2: L1 regulation title; L2 第N章; 第N条 articles are run-in text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "烈士褒扬条例"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 烈士的评定"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 烈士褒扬金和烈士遗属的抚恤优待"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

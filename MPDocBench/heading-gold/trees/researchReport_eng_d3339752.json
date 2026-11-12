@@ -1,0 +1,52 @@
+{
+ "doc": "researchReport_eng_d3339752",
+ "notation": "researchReport (English): L1 headline (series kicker GS SUSTAIN: Investing in the Sustainable Development Goals shares the box and is text); L2 Table of Contents and the full-page infographic section title (no exhibit caption above it); L3 its four column titles.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Social Capital: How business can drive impact through affordability",
+   "note": "the box also holds the series kicker"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 4,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 4,
+   "text": "Impact through Affordability in numbers",
+   "note": "full-page section, not under an exhibit caption"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 28,
+   "text": "FOOD"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 28,
+   "text": "HEALTHCARE"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 28,
+   "text": "EDUCATION"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 28,
+   "text": "HOUSING & MOBILITY"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

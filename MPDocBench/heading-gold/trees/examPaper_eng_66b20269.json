@@ -1,0 +1,43 @@
+{
+ "doc": "examPaper_eng_66b20269",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Dungeons Game"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 3,
+   "text": "Implementation details"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 3,
+   "text": "Example"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 3,
+   "text": "Constraints"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 3,
+   "text": "Subtasks"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 3,
+   "text": "Sample grader"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

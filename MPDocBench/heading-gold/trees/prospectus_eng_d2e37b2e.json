@@ -1,0 +1,225 @@
+{
+ "doc": "prospectus_eng_d2e37b2e",
+ "notation": "prospectus-v2: L1 cover document title (Sales Prospectus March 2015); fund name and legal-form lines text. L2 underlined capital sections (TABLE OF CONTENTS, MANAGEMENT, ADMINISTRATION, INTRODUCTION, THE COMPANY, ...); L3 bold capital subsections; L4 bold bulleted subheads (bullet marker dropped). Directory labels and list lead-ins are text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "Sales Prospectus March 2015",
+   "note": "cover document title line (text_block missed by gold)"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 6,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 6,
+   "text": "MANAGEMENT"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 6,
+   "text": "ADMINISTRATION"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 6,
+   "text": "INTRODUCTION"
+  },
+  {
+   "anno": 80,
+   "level": 2,
+   "parent": 6,
+   "text": "THE COMPANY"
+  },
+  {
+   "anno": 94,
+   "level": 2,
+   "parent": 6,
+   "text": "CAPITAL STOCK"
+  },
+  {
+   "anno": 112,
+   "level": 2,
+   "parent": 6,
+   "text": "INVESTMENT OBJECTIVE AND POLICY"
+  },
+  {
+   "anno": 119,
+   "level": 3,
+   "parent": 112,
+   "text": "Renewable Energy:",
+   "note": "label rule: specific own-line label"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 112,
+   "text": "Energy Efficiency:",
+   "note": "label rule: specific own-line label"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 112,
+   "text": "Resource Efficiency:",
+   "note": "label rule: specific own-line label"
+  },
+  {
+   "anno": 148,
+   "level": 2,
+   "parent": 6,
+   "text": "TECHNIQUES AND INSTRUMENTS"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 148,
+   "text": "GENERAL PROVISIONS"
+  },
+  {
+   "anno": 153,
+   "level": 3,
+   "parent": 148,
+   "text": "USE OF DERIVATIVE INSTRUMENTS"
+  },
+  {
+   "anno": 154,
+   "level": 4,
+   "parent": 153,
+   "text": "Limits"
+  },
+  {
+   "anno": 164,
+   "level": 4,
+   "parent": 153,
+   "text": "Special limits relating to credit derivatives"
+  },
+  {
+   "anno": 181,
+   "level": 4,
+   "parent": 153,
+   "text": "Special limits relating to equity swaps and index swaps"
+  },
+  {
+   "anno": 189,
+   "level": 4,
+   "parent": 153,
+   "text": "Conclusion of \"Contracts for Difference\" (\"CFD\")"
+  },
+  {
+   "anno": 193,
+   "level": 4,
+   "parent": 153,
+   "text": "Intervention on currency markets"
+  },
+  {
+   "anno": 197,
+   "level": 3,
+   "parent": 148,
+   "text": "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)"
+  },
+  {
+   "anno": 198,
+   "level": 4,
+   "parent": 197,
+   "text": "Securities lending transactions"
+  },
+  {
+   "anno": 203,
+   "level": 4,
+   "parent": 197,
+   "text": "Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions"
+  },
+  {
+   "anno": 219,
+   "level": 4,
+   "parent": 197,
+   "text": "Common provisions to EMT"
+  },
+  {
+   "anno": 229,
+   "level": 4,
+   "parent": 197,
+   "text": "Management of collateral for OTC financial derivatives transactions and EMT"
+  },
+  {
+   "anno": 253,
+   "level": 2,
+   "parent": 6,
+   "text": "INVESTMENT POSSIBILITIES"
+  },
+  {
+   "anno": 280,
+   "level": 2,
+   "parent": 6,
+   "text": "INVESTMENT RESTRICTIONS"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 3,
+   "note": "legal-form line on cover (first half)"
+  },
+  {
+   "anno": 4,
+   "note": "legal-form line on cover (second half)"
+  },
+  {
+   "anno": 36,
+   "note": "directory label (board member list)"
+  },
+  {
+   "anno": 40,
+   "note": "directory label (board member list)"
+  },
+  {
+   "anno": 47,
+   "note": "directory label (board member list)"
+  },
+  {
+   "anno": 51,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 53,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 55,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 57,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 61,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 63,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 65,
+   "note": "directory label (service provider name/address)"
+  },
+  {
+   "anno": 67,
+   "note": "directory label (service provider name/address)"
+  }
+ ],
+ "repeats": []
+}

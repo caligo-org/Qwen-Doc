@@ -1,0 +1,55 @@
+{
+ "doc": "paper_eng_20a93115",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 2,
+   "text": "1 Introduction"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 2,
+   "text": "2 Topological networks on locally convex spaces"
+  },
+  {
+   "anno": 155,
+   "level": 2,
+   "parent": 2,
+   "text": "3 DeepONets on locally convex spaces and operator approximation"
+  },
+  {
+   "anno": 359,
+   "level": 2,
+   "parent": 2,
+   "text": "4 Examples illustrating Theorem 3.1"
+  },
+  {
+   "anno": 419,
+   "level": 2,
+   "parent": 2,
+   "text": "5 Conclusion"
+  },
+  {
+   "anno": 422,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

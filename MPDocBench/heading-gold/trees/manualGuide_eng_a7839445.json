@@ -1,0 +1,74 @@
+{
+ "doc": "manualGuide_eng_a7839445",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Connection & Control Box Operation Guide",
+   "note": "product + manual type; model code ELPCB02 and EPSON logo are text"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 3,
+   "text": "How To Switch Input Sources"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 3,
+   "text": "Part Names and Functions"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 3,
+   "text": "Input Ports"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 3,
+   "text": "Connection Examples"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 34,
+   "text": "Connecting Using a Computer Cable"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 34,
+   "text": "Connecting Using a USB Cable"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 34,
+   "text": "Connecting with HDMI Cables"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 3,
+   "text": "Switching Images"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 56,
+   "text": "Names and Functions of the Input Source Buttons"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 3,
+   "text": "Troubleshooting"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

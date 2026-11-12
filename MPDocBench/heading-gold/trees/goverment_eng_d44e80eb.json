@@ -1,0 +1,39 @@
+{
+ "doc": "goverment_eng_d44e80eb",
+ "notation": "goverment-v2 publication: L1 cover title; L2 front-matter section titles (Preface, National Holidays); L3 centered bold heads of the quoted convention articles inside the Preface. Edition/season line, publication number, sales notice, NOTE paragraph are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Diplomatic List"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "Preface"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 6,
+   "text": "Article 29",
+   "note": "centered bold head of a quoted convention article"
+  },
+  {
+   "anno": 10,
+   "level": 3,
+   "parent": 6,
+   "text": "Article 31"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 1,
+   "text": "National Holidays"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

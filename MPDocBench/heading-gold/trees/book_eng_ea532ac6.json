@@ -1,0 +1,19 @@
+{
+ "doc": "book_eng_ea532ac6",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "THE Devil's KEEPSAKE",
+   "note": "OCR reads 'eovile'; text as printed on the cover"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 5,
+   "of": 2
+  }
+ ]
+}

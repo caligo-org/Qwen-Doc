@@ -1,0 +1,68 @@
+{
+ "doc": "examPaper_chn_9627d6c2",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2010年山东高考数学理科"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "第Ⅰ卷（共60分）"
+  },
+  {
+   "anno": 3,
+   "level": 3,
+   "parent": 2,
+   "text": "一、选择题：本大题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 1,
+   "text": "第Ⅱ卷（共90分）"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 65,
+   "text": "二、填空题：本大题共4小题，每小题4分，共16分。"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 65,
+   "text": "三、解答题：本大题共6小题，共74分。"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 74,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 78,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 82,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 89,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 98,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 104,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  }
+ ],
+ "repeats": []
+}

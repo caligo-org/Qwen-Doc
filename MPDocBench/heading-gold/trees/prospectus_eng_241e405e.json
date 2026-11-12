@@ -1,0 +1,145 @@
+{
+ "doc": "prospectus_eng_241e405e",
+ "notation": "prospectus-v2: L1 cover document title (PROSPECTUS); fund name on cover and title-page issuer block are text. L2 front sections (IMPORTANT INFORMATION, CONTENTS, DEFINITIONS, ADMINISTRATION INFORMATION, FUND INFORMATION...); L3 subsections and per-fund sections. Directory labels (CHAIRMAN:, DIRECTORS:, ...) and run-in labels (Asset Class, Investment Policy) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "PROSPECTUS",
+   "note": "cover document title"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 2,
+   "text": "FRANKLIN TEMPLETON INVESTMENT FUNDS -IMPORTANT INFORMATION"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 15,
+   "text": "The Company"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 15,
+   "text": "Board of Directors' Powers"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 2,
+   "text": "DEFINITIONS"
+  },
+  {
+   "anno": 120,
+   "level": 2,
+   "parent": 2,
+   "text": "ADMINISTRATION INFORMATION"
+  },
+  {
+   "anno": 210,
+   "level": 2,
+   "parent": 2,
+   "text": "FUND INFORMATION, OBJECTIVES AND INVESTMENT POLICIES"
+  },
+  {
+   "anno": 219,
+   "level": 3,
+   "parent": 210,
+   "text": "FRANKLIN ASIAN FLEX CAP FUND",
+   "note": "per-fund section"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 10,
+   "note": "title-page issuer block (name, legal form, registered office)"
+  },
+  {
+   "anno": 11,
+   "note": "OFFER: first word of the title-page offer statement, not a section"
+  },
+  {
+   "anno": 121,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 123,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 135,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 138,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 149,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 151,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 153,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 164,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 166,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 168,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 170,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 172,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 174,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 176,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 200,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 204,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  },
+  {
+   "anno": 206,
+   "note": "directory label in ADMINISTRATION INFORMATION (list of names/addresses)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,95 @@
+{
+ "doc": "pptSlides_eng_a04b6aef",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "THE NERVOUS SYSTEM"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 4,
+   "text": "FUNCTIONS OF THE NERVOUS SYSTEM",
+   "note": "slide titles L2 (no dividers)"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 4,
+   "text": "STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 4,
+   "text": "FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 4,
+   "text": "ORGANIZATION OF THE NERVOUS SYSTEM",
+   "note": "gold text included the figure label below it"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 4,
+   "text": "FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM",
+   "continues": 35
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 4,
+   "text": "NERVOUS TISSUE: SUPPORT CELLS"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 7,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 10,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 13,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 28,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 31,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 36,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 38,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
+  },
+  {
+   "anno": 44,
+   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading (marked \"(continued)\")"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 12,
+   "of": 6
+  },
+  {
+   "anno": 17,
+   "of": 6
+  }
+ ]
+}

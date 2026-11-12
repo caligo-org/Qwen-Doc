@@ -1,0 +1,129 @@
+{
+ "doc": "researchReport_eng_1588f970",
+ "notation": "researchReport (periodical issue, Top of Mind): L1 masthead; L2 the issue theme (cover headline); L3 contents box and articles (banners); L4 region boxes inside Macro news and views. The two list labels repeated in every box (Latest GS proprietary datapoints/major changes in views, Datapoints/trends we're focused on) are generic labels: text (label rule). Pull quotes, quote attributions, interview questions, chart titles, editor and contact lines are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "TOP of MIND",
+   "note": "masthead"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 4,
+   "text": "ALL ABOUT BANK(PANIC)S"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 5,
+   "text": "WHAT'S INSIDE"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 5,
+   "text": "Macro news and views"
+  },
+  {
+   "anno": 36,
+   "level": 4,
+   "parent": 34,
+   "text": "US"
+  },
+  {
+   "anno": 45,
+   "level": 4,
+   "parent": 34,
+   "text": "Europe"
+  },
+  {
+   "anno": 55,
+   "level": 4,
+   "parent": 34,
+   "text": "Japan"
+  },
+  {
+   "anno": 65,
+   "level": 4,
+   "parent": 34,
+   "text": "Emerging Markets (EM)"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 5,
+   "text": "All about bank(panic)s"
+  },
+  {
+   "anno": 99,
+   "level": 3,
+   "parent": 5,
+   "text": "Interview with Daniel K. Tarullo"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 5,
+   "text": "Interview with Thomas Hoenig"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 37,
+   "note": "label rule"
+  },
+  {
+   "anno": 40,
+   "note": "label rule"
+  },
+  {
+   "anno": 46,
+   "note": "label rule"
+  },
+  {
+   "anno": 49,
+   "note": "label rule"
+  },
+  {
+   "anno": 56,
+   "note": "label rule"
+  },
+  {
+   "anno": 58,
+   "note": "label rule"
+  },
+  {
+   "anno": 66,
+   "note": "label rule"
+  },
+  {
+   "anno": 68,
+   "note": "label rule"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 32,
+   "of": 4
+  },
+  {
+   "anno": 77,
+   "of": 4
+  },
+  {
+   "anno": 97,
+   "of": 4
+  },
+  {
+   "anno": 117,
+   "of": 4
+  },
+  {
+   "anno": 135,
+   "of": 4
+  }
+ ]
+}

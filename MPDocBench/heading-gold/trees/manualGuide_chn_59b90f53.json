@@ -1,0 +1,127 @@
+{
+ "doc": "manualGuide_chn_59b90f53",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "富士数码相机 FINEPIX Z200fd 用户手册",
+   "merge": [
+    3
+   ],
+   "note": "product line + manual type merged into the title"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 2,
+   "text": "目录"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 2,
+   "text": "可使用的存储卡",
+   "note": "front-matter notice box on its own page"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "产品中有毒有害物质或元素的名称及含量",
+   "note": "front-matter regulatory section (■ style, but front matter sits at the top-section level)"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 2,
+   "text": "标志的含义"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 2,
+   "text": "盒内各类同装物品的包装材料的标识"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 2,
+   "text": "关于本手册"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 37,
+   "text": "关于标记"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 37,
+   "text": "可使用的存储卡"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 37,
+   "text": "十字键（▲▼◀▶）"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 37,
+   "text": "关于电缆"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 37,
+   "text": "关于LCD显示屏显示的插图"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 37,
+   "text": "使用拨盘"
+  },
+  {
+   "anno": 61,
+   "level": 4,
+   "parent": 59,
+   "text": "选择缩略图（见40页）"
+  },
+  {
+   "anno": 64,
+   "level": 4,
+   "parent": 59,
+   "text": "选择菜单（见51，65，83页）"
+  },
+  {
+   "anno": 67,
+   "level": 4,
+   "parent": 59,
+   "text": "改变文件夹（见26页）"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "brand logo text"
+  },
+  {
+   "anno": 57,
+   "note": "■-styled callout \"注\" (note label)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 24,
+   "of": 17
+  },
+  {
+   "anno": 56,
+   "of": 37
+  }
+ ]
+}

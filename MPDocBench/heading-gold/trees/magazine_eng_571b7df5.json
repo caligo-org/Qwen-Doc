@@ -1,0 +1,118 @@
+{
+ "doc": "magazine_eng_571b7df5",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "WINTER GEAR GUIDE",
+   "note": "title of the special issue (FROM THE MAKERS OF TRAIL MAGAZINE / 2025 are cover lines)"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 3,
+   "text": "52 TRAIL-TESTED PRODUCTS",
+   "note": "introduction"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 3,
+   "text": "Contents",
+   "note": "contents title"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 3,
+   "text": "TRAIL AWARDS",
+   "note": "box with its own title (award key) on the front-matter page"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 3,
+   "text": "YOUR TESTERS",
+   "note": "box with its own title (testers); the tester names are a list of names"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 3,
+   "text": "INSULATED JACKETS buying guide",
+   "note": "category section (buying guide)"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 53,
+   "text": "1 TYPE OF INSULATION",
+   "merge": [
+    57
+   ],
+   "note": "number badge merged with its title"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 53,
+   "text": "2 FILL POWER",
+   "merge": [
+    61
+   ]
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 53,
+   "text": "3 BODY MAPPING",
+   "merge": [
+    65
+   ]
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 53,
+   "text": "4 SHELL FABRIC",
+   "merge": [
+    70
+   ]
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 53,
+   "text": "5 FEATURES",
+   "merge": [
+    74
+   ]
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 38,
+   "note": "person name in the testers list"
+  },
+  {
+   "anno": 41,
+   "note": "person name in the testers list"
+  },
+  {
+   "anno": 44,
+   "note": "person name in the testers list"
+  },
+  {
+   "anno": 47,
+   "note": "person name in the testers list"
+  },
+  {
+   "anno": 49,
+   "note": "colophon title (masthead repeat)"
+  }
+ ],
+ "repeats": []
+}

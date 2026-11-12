@@ -1,0 +1,117 @@
+{
+ "doc": "financialReport_chn_07ebf5d6",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 2,
+   "parent": "root",
+   "text": "目录",
+   "note": "excerpt has no cover; title role not printed, so top sections stay L2 (as in ad31878f)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": "root",
+   "text": "审计报告"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 8,
+   "text": "一、审计意见"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 8,
+   "text": "二、形成审计意见的基础"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 8,
+   "text": "三、关键审计事项"
+  },
+  {
+   "anno": 23,
+   "level": 4,
+   "parent": 16,
+   "text": "（一）收入确认"
+  },
+  {
+   "anno": 24,
+   "level": 5,
+   "parent": 23,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 28,
+   "level": 5,
+   "parent": 23,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 42,
+   "level": 4,
+   "parent": 16,
+   "text": "（二）长期资产减值"
+  },
+  {
+   "anno": 43,
+   "level": 5,
+   "parent": 42,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 47,
+   "level": 5,
+   "parent": 42,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 60,
+   "level": 4,
+   "parent": 16,
+   "text": "（三）商誉减值"
+  },
+  {
+   "anno": 61,
+   "level": 5,
+   "parent": 60,
+   "text": "1. 事项描述"
+  },
+  {
+   "anno": 65,
+   "level": 5,
+   "parent": 60,
+   "text": "2.审计应对"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 8,
+   "text": "四、其他信息"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 8,
+   "text": "五、管理层和治理层对财务报表的责任"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 8,
+   "text": "六、注册会计师对财务报表审计的责任"
+  },
+  {
+   "anno": 119,
+   "level": 2,
+   "parent": "root",
+   "text": "合并资产负债表",
+   "note": "statement page title; the 二、财务报表 group of the TOC is not printed as a heading"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

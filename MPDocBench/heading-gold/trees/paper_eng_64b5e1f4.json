@@ -1,0 +1,109 @@
+{
+ "doc": "paper_eng_64b5e1f4",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "I. INTRODUCTION"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 1,
+   "text": "II. APPROACH OVERVIEW"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "III. DISCOVRE"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 28,
+   "text": "A. Data Set"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 28,
+   "text": "B. Numeric filter"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 28,
+   "text": "C. Structural Similarity"
+  },
+  {
+   "anno": 148,
+   "level": 2,
+   "parent": 1,
+   "text": "IV. EVALUATION"
+  },
+  {
+   "anno": 152,
+   "level": 3,
+   "parent": 148,
+   "text": "A. Similarity Metric"
+  },
+  {
+   "anno": 159,
+   "level": 3,
+   "parent": 148,
+   "text": "B. Cross-Architecture Bug Search"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 148,
+   "text": "C. Comparison to BinDiff"
+  },
+  {
+   "anno": 191,
+   "level": 2,
+   "parent": 1,
+   "text": "V. LIMITATIONS"
+  },
+  {
+   "anno": 196,
+   "level": 2,
+   "parent": 1,
+   "text": "VI. RELATED WORK"
+  },
+  {
+   "anno": 209,
+   "level": 2,
+   "parent": 1,
+   "text": "VII. CONCLUSION AND FUTURE WORK"
+  },
+  {
+   "anno": 214,
+   "level": 3,
+   "parent": 209,
+   "text": "A. Future Work"
+  },
+  {
+   "anno": 218,
+   "level": 2,
+   "parent": 1,
+   "text": "ACKNOWLEDGEMENTS"
+  },
+  {
+   "anno": 220,
+   "level": 2,
+   "parent": 1,
+   "text": "REFERENCES"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

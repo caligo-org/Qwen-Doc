@@ -1,0 +1,20 @@
+{
+ "doc": "examPaper_eng_08960d5c",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Solution",
+   "note": "no document title printed (only the running head \"Problem 1 – Solution\"); the two same-styled section titles are the top level"
+  },
+  {
+   "anno": 17,
+   "level": 1,
+   "parent": "root",
+   "text": "Grading guidelines"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

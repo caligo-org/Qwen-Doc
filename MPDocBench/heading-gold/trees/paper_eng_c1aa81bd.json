@@ -1,0 +1,43 @@
+{
+ "doc": "paper_eng_c1aa81bd",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 2,
+   "text": "1. INTRODUCTION"
+  },
+  {
+   "anno": 134,
+   "level": 2,
+   "parent": 2,
+   "text": "2. IDENTIFICATION OF THE LIMIT FREE ENERGY WITH LINEAR MATTIS INTERACTION"
+  },
+  {
+   "anno": 199,
+   "level": 2,
+   "parent": 2,
+   "text": "3. PROOFS OF MAIN RESULTS"
+  },
+  {
+   "anno": 232,
+   "level": 2,
+   "parent": 2,
+   "text": "REFERENCES"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

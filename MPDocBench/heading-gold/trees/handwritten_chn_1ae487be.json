@@ -1,0 +1,198 @@
+{
+ "doc": "handwritten_chn_1ae487be",
+ "notation": "handwritten-v2 (printed drill workbook filled by hand): no title printed; rounds (第二轮/第三轮, large bold box) L1; days (第N天 small box) L2, the first round's banner is not printed so days 1-5 are L2 under root; 类型/考法 L3; unnumbered sub-type lines L4. Last page is a separate notebook sheet with its own title (L1).",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 2,
+   "parent": "root",
+   "text": "第1天",
+   "note": "round 1 banner not printed"
+  },
+  {
+   "anno": 2,
+   "level": 3,
+   "parent": 1,
+   "text": "类型一 化合反应"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": "root",
+   "text": "第2天"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 19,
+   "text": "类型二 分解反应"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": "root",
+   "text": "第3天"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 37,
+   "text": "类型三 置换反应"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 38,
+   "text": "金属与金属盐溶液的反应",
+   "note": "sub-type of 置换反应 (unnumbered bold line)"
+  },
+  {
+   "anno": 62,
+   "level": 4,
+   "parent": 38,
+   "text": "金属的冶炼"
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": "root",
+   "text": "第4天"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 67,
+   "text": "类型四 复分解反应"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 68,
+   "text": "金属氧化物与酸的反应"
+  },
+  {
+   "anno": 76,
+   "level": 4,
+   "parent": 68,
+   "text": "酸与碱的反应"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 68,
+   "text": "碳酸盐与酸的反应"
+  },
+  {
+   "anno": 92,
+   "level": 4,
+   "parent": 68,
+   "text": "非碳酸盐与酸的反应"
+  },
+  {
+   "anno": 98,
+   "level": 4,
+   "parent": 68,
+   "text": "盐与碱的反应"
+  },
+  {
+   "anno": 106,
+   "level": 2,
+   "parent": "root",
+   "text": "第5天"
+  },
+  {
+   "anno": 107,
+   "level": 4,
+   "parent": 106,
+   "text": "盐与盐的反应",
+   "note": "sub-type of 复分解反应 resumed after the day break; level kept by look (skips L3 under the day)"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 106,
+   "text": "类型五 非四大基本反应类型"
+  },
+  {
+   "anno": 129,
+   "level": 1,
+   "parent": "root",
+   "text": "第二轮 中考化学方程式变式练"
+  },
+  {
+   "anno": 130,
+   "level": 2,
+   "parent": 129,
+   "text": "第6天"
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 130,
+   "text": "考法一 根据制气装置图书写"
+  },
+  {
+   "anno": 147,
+   "level": 2,
+   "parent": 129,
+   "text": "第7天"
+  },
+  {
+   "anno": 148,
+   "level": 3,
+   "parent": 147,
+   "text": "考法二 根据原理、用途书写"
+  },
+  {
+   "anno": 166,
+   "level": 2,
+   "parent": 129,
+   "text": "第8天"
+  },
+  {
+   "anno": 187,
+   "level": 2,
+   "parent": 129,
+   "text": "第9天"
+  },
+  {
+   "anno": 208,
+   "level": 1,
+   "parent": "root",
+   "text": "第三轮 中考高频化学方程式强化练"
+  },
+  {
+   "anno": 209,
+   "level": 2,
+   "parent": 208,
+   "text": "第10天"
+  },
+  {
+   "anno": 237,
+   "level": 1,
+   "parent": "root",
+   "text": "初中常见化学方程式",
+   "note": "separate notebook sheet with its own title"
+  },
+  {
+   "anno": 238,
+   "level": 2,
+   "parent": 237,
+   "text": "1. 化合反应"
+  },
+  {
+   "anno": 240,
+   "level": 2,
+   "parent": 237,
+   "text": "二. 分解反应"
+  },
+  {
+   "anno": 242,
+   "level": 2,
+   "parent": 237,
+   "text": "三. 置换反应"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

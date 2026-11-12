@@ -1,0 +1,161 @@
+{
+ "doc": "goverment_eng_10e7766e",
+ "notation": "newsletter (newspaper-v2): L1 masthead; no sections printed, so stories and titled sidebar boxes are L3 directly under the masthead (level skip); in-story subheads and sidebar tip titles L4. A story resumed after a sidebar box or a sidebar marked (Continued) is its own node with continues. Issue box (Inside this issue:), sender block, date, bylines, quotes are text.",
+ "nodes": [
+  {
+   "anno": 8,
+   "level": 1,
+   "parent": "root",
+   "text": "CTC NEWSLETTER"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 8,
+   "text": "RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE"
+  },
+  {
+   "anno": 13,
+   "level": 4,
+   "parent": 9,
+   "text": "Video, Podcasts and Interactive media"
+  },
+  {
+   "anno": 20,
+   "level": 4,
+   "parent": 9,
+   "text": "Digital dirt, Digital attraction"
+  },
+  {
+   "anno": 30,
+   "level": 4,
+   "parent": 9,
+   "text": "Job boards"
+  },
+  {
+   "anno": 39,
+   "level": 4,
+   "parent": 9,
+   "text": "Ensuring a good fit"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 8,
+   "text": "RECRUITERS JOB HUNTING TIPS",
+   "note": "sidebar box (gray column) with its own title"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 42,
+   "text": "Small Details"
+  },
+  {
+   "anno": 46,
+   "level": 4,
+   "parent": 42,
+   "text": "Corporate Culture"
+  },
+  {
+   "anno": 48,
+   "level": 4,
+   "parent": 42,
+   "text": "Kill The Cell Phone"
+  },
+  {
+   "anno": 50,
+   "level": 4,
+   "parent": 42,
+   "text": "Breaking News"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 8,
+   "text": "Video interviews",
+   "continues": 9,
+   "note": "main story resumes on p4 after the p3 sidebar; first printed head on p4 is this subhead, used as the resumption node"
+  },
+  {
+   "anno": 59,
+   "level": 4,
+   "parent": 56,
+   "text": "MORE ON WEB RECRUITING"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 8,
+   "text": "JOB HUNTING TIPS (Continued)",
+   "continues": 42
+  },
+  {
+   "anno": 65,
+   "level": 4,
+   "parent": 64,
+   "text": "First Impression"
+  },
+  {
+   "anno": 67,
+   "level": 4,
+   "parent": 64,
+   "text": "Keep It Short"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 64,
+   "text": "Play it Straight"
+  },
+  {
+   "anno": 71,
+   "level": 4,
+   "parent": 64,
+   "text": "Say Thanks"
+  },
+  {
+   "anno": 77,
+   "level": 3,
+   "parent": 8,
+   "text": "LISTEN UP, JOB HUNTERS"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 8,
+   "text": "MAKE YOUR NETWORK WORK FOR YOU"
+  },
+  {
+   "anno": 100,
+   "level": 4,
+   "parent": 96,
+   "text": "Be Patient"
+  },
+  {
+   "anno": 102,
+   "level": 4,
+   "parent": 96,
+   "text": "Be Authentic"
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 96,
+   "text": "Be a Conduit"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 96,
+   "text": "Be a Teacher"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "issue/index box title (newsletter index box = text, as newspaper index boxes)"
+  }
+ ],
+ "repeats": []
+}

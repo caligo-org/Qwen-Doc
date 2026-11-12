@@ -1,0 +1,168 @@
+{
+ "doc": "newspaper_chn_11ae9c36",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 人民日报: front page = implicit section; page tag 要闻 on p2 = L2; story headline L3 (main headline lines split over boxes merge; 引题/副题 decks are text); in-story segment heads L4/L5.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "人民日报",
+   "note": "masthead; pinyin RENMIN RIBAO is text"
+  },
+  {
+   "anno": 5,
+   "level": 3,
+   "parent": 1,
+   "text": "坚定信心、顽强拼搏，实现新征程良好开局",
+   "note": "本报评论员 commentary"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 1,
+   "text": "中共中央国务院举行春节团拜会 习近平发表讲话",
+   "merge": [
+    13
+   ],
+   "note": "two-line main headline; the lines below are decks"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 1,
+   "text": "在二〇二三年春节团拜会上的讲话",
+   "note": "speech text; date and speaker are text"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page section tag p2"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 61,
+   "text": "情牵人民 春暖中国",
+   "note": "the ——line in the same box is its subtitle (deck)"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头一：2013年 甘肃】"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头二：2013年 北京】"
+  },
+  {
+   "anno": 92,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头三：2014年 内蒙古】"
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头四：2015年 陕西】"
+  },
+  {
+   "anno": 117,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头五：2016年 江西】"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头六：2017年 河北】"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头七：2018年 四川】"
+  },
+  {
+   "anno": 151,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头八：2019年 北京】"
+  },
+  {
+   "anno": 163,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头九：2020年 云南】"
+  },
+  {
+   "anno": 176,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头十：2021年 贵州】"
+  },
+  {
+   "anno": 186,
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头十一：2022年 山西】"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "masthead pinyin"
+  },
+  {
+   "anno": 72,
+   "note": "label rule"
+  },
+  {
+   "anno": 85,
+   "note": "label rule"
+  },
+  {
+   "anno": 98,
+   "note": "label rule"
+  },
+  {
+   "anno": 110,
+   "note": "label rule"
+  },
+  {
+   "anno": 122,
+   "note": "label rule"
+  },
+  {
+   "anno": 132,
+   "note": "label rule"
+  },
+  {
+   "anno": 144,
+   "note": "label rule"
+  },
+  {
+   "anno": 155,
+   "note": "label rule"
+  },
+  {
+   "anno": 168,
+   "note": "label rule"
+  },
+  {
+   "anno": 179,
+   "note": "label rule"
+  },
+  {
+   "anno": 193,
+   "note": "label rule"
+  }
+ ],
+ "repeats": []
+}

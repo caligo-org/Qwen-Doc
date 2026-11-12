@@ -1,0 +1,273 @@
+{
+ "doc": "prospectus_eng_60d1e00b",
+ "notation": "prospectus-v2: L1 cover document title (Sales Prospectus); fund name text. L2 Contents and numbered chapters; L3 fund-group headings (larger bold) and, before the first group, the chapter's bold subheads (Investment Objective ... Reference Currency); L4 sub-fund headings under each group.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Sales Prospectus"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 4,
+   "text": "Contents"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 4,
+   "text": "1. Information for Prospective Investors"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 4,
+   "text": "2. Credit Suisse Equity Fund (Lux) - Summary of Unit Classes (1)"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 4,
+   "text": "3. The Fund"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 4,
+   "text": "4. Investment Principles"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 60,
+   "text": "Investment Objective",
+   "note": "bold subhead directly under chapter 4 (same face as sub-fund names, but no group heading above it)"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 60,
+   "text": "Investment Policy"
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 60,
+   "text": "General Investment Suitability"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 60,
+   "text": "Risk Profile"
+  },
+  {
+   "anno": 74,
+   "level": 3,
+   "parent": 60,
+   "text": "Reference Currency"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 60,
+   "text": "Country and Regional Funds - \"Developed Markets\"",
+   "note": "fund-group heading (larger bold)"
+  },
+  {
+   "anno": 78,
+   "level": 4,
+   "parent": 76,
+   "text": "Credit Suisse Equity Fund (Lux) European Blue Chips Aberdeen"
+  },
+  {
+   "anno": 80,
+   "level": 4,
+   "parent": 76,
+   "text": "Credit Suisse Equity Fund (Lux) Italy"
+  },
+  {
+   "anno": 82,
+   "level": 4,
+   "parent": 76,
+   "text": "Credit Suisse Equity Fund (Lux) Japan Megatrend Aberdeen"
+  },
+  {
+   "anno": 85,
+   "level": 4,
+   "parent": 76,
+   "text": "Credit Suisse Equity Fund (Lux) USA"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 60,
+   "text": "Country and Regional Funds - \"Small and Mid Caps\""
+  },
+  {
+   "anno": 89,
+   "level": 4,
+   "parent": 87,
+   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Germany"
+  },
+  {
+   "anno": 92,
+   "level": 4,
+   "parent": 87,
+   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Europe"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 87,
+   "text": "Credit Suisse Equity Fund (Lux) Small Cap Japan Aberdeen"
+  },
+  {
+   "anno": 98,
+   "level": 4,
+   "parent": 87,
+   "text": "Credit Suisse Equity Fund (Lux) Small Cap USA"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 60,
+   "text": "Global and Regional Funds - \"Developing Markets\""
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Asian Tigers Aberdeen"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Brazil"
+  },
+  {
+   "anno": 110,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Convergence Europe Aberdeen"
+  },
+  {
+   "anno": 114,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Eastern Europe Aberdeen"
+  },
+  {
+   "anno": 118,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Emerging Markets Aberdeen"
+  },
+  {
+   "anno": 120,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Greater China Aberdeen"
+  },
+  {
+   "anno": 122,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Latin America Aberdeen"
+  },
+  {
+   "anno": 124,
+   "level": 4,
+   "parent": 101,
+   "text": "Credit Suisse Equity Fund (Lux) Russia Explorer Aberdeen"
+  },
+  {
+   "anno": 128,
+   "level": 3,
+   "parent": 60,
+   "text": "Global Sector Funds"
+  },
+  {
+   "anno": 137,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Future Energy Aberdeen"
+  },
+  {
+   "anno": 140,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Global Biotech Aberdeen"
+  },
+  {
+   "anno": 144,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Global Communications Aberdeen"
+  },
+  {
+   "anno": 148,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Global InfoTech Aberdeen"
+  },
+  {
+   "anno": 152,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Global Prestige"
+  },
+  {
+   "anno": 155,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Global Resources Aberdeen"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 128,
+   "text": "Credit Suisse Equity Fund (Lux) Infrastructure Aberdeen"
+  },
+  {
+   "anno": 162,
+   "level": 3,
+   "parent": 60,
+   "text": "Real estate equity funds"
+  },
+  {
+   "anno": 165,
+   "level": 4,
+   "parent": 162,
+   "text": "Credit Suisse Equity Fund (Lux) Asian Property Aberdeen"
+  },
+  {
+   "anno": 173,
+   "level": 4,
+   "parent": 162,
+   "text": "Credit Suisse Equity Fund (Lux) European Property"
+  },
+  {
+   "anno": 179,
+   "level": 3,
+   "parent": 60,
+   "text": "Other Equity Funds"
+  },
+  {
+   "anno": 180,
+   "level": 4,
+   "parent": 179,
+   "text": "Credit Suisse Equity Fund (Lux) Dividend Europe Aberdeen"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "fund (issuer) name on cover"
+  }
+ ],
+ "repeats": []
+}

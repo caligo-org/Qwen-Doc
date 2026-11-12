@@ -1,0 +1,65 @@
+{
+ "doc": "textBook_chn_47c3d791",
+ "notation": "textBook-v2: L1 cover subject title; L2 front matter and lessons (第N课 + title merged); L3 lesson parts (问题导入, 一、); L4 （一）.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "美术",
+   "note": "cover title; series line, 选择性必修 and module name 绘画 are text"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 3,
+   "text": "编者的话"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 3,
+   "text": "第1课 绘画语言",
+   "merge": [
+    27
+   ],
+   "note": "lesson label + lesson title"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 26,
+   "text": "问题导入",
+   "note": "recurring lesson part 问题导入, own heading line; sibling of 一、"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 26,
+   "text": "一、绘画的造型要素"
+  },
+  {
+   "anno": 54,
+   "level": 4,
+   "parent": 52,
+   "text": "（一）点、线、面"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 3
+  },
+  {
+   "anno": 34,
+   "of": 26
+  }
+ ]
+}

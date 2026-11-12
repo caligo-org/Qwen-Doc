@@ -1,0 +1,71 @@
+{
+ "doc": "book_eng_10fbf0e9",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "The Little Prince"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "1",
+   "note": "chapter number printed alone at the top of the chapter's first page (labelled header); the chapter's only title"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 1,
+   "text": "2"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 1,
+   "text": "3"
+  },
+  {
+   "anno": 106,
+   "level": 2,
+   "parent": 1,
+   "text": "4"
+  },
+  {
+   "anno": 127,
+   "level": 2,
+   "parent": 1,
+   "text": "5"
+  },
+  {
+   "anno": 155,
+   "level": 2,
+   "parent": 1,
+   "text": "6"
+  },
+  {
+   "anno": 171,
+   "level": 2,
+   "parent": 1,
+   "text": "7"
+  },
+  {
+   "anno": 209,
+   "level": 2,
+   "parent": 1,
+   "text": "8"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "dedication line (the dedication itself, not a section title)"
+  },
+  {
+   "anno": 6,
+   "note": "dedication line (corrected dedication)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,56 @@
+{
+ "doc": "examPaper_chn_ff633fd0",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "2023年6月浙江省普通高校招生选考科目考试 物理",
+   "merge": [
+    3
+   ],
+   "note": "title printed over two lines (exam + subject 物理)"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "选择题部分"
+  },
+  {
+   "anno": 10,
+   "level": 3,
+   "parent": 9,
+   "text": "一、选择题I（本题共13小题，每小题3分，共39分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 9,
+   "text": "二、选择题Ⅱ（本题共2小题，每小题3分，共6分。每小题列出的四个备选项中至少有一个是符合题目要求的。全部选对的得3分，选对但不全的得2分，有选错的得0分）"
+  },
+  {
+   "anno": 98,
+   "level": 2,
+   "parent": 2,
+   "text": "非选择题部分"
+  },
+  {
+   "anno": 99,
+   "level": 3,
+   "parent": 98,
+   "text": "三、非选择题（本题共5小题，共55分）"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "instructions label (考生注意)"
+  },
+  {
+   "anno": 100,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  }
+ ],
+ "repeats": []
+}

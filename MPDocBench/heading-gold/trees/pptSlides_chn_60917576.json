@@ -1,0 +1,55 @@
+{
+ "doc": "pptSlides_chn_60917576",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "第二章 连续信号的分析",
+   "note": "deck title; the course name above is the series line"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "回顾",
+   "note": "slide title; no divider slides, so slide titles are L2"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 3,
+   "text": "非周期信号的频谱分析"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 37,
+   "text": "常用非周期信号的傅立叶变换",
+   "note": "block title inside the slide (arrow-marked)"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 37,
+   "text": "常用周期信号的傅立叶变换"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "course name printed above the chapter title (series line)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 25,
+   "of": 9
+  },
+  {
+   "anno": 48,
+   "of": 37
+  }
+ ]
+}

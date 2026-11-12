@@ -1,0 +1,100 @@
+{
+ "doc": "pptSlides_eng_26f4ebca",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "The Vertical API Opportunity"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "What Is An API?",
+   "note": "slide titles L2 (no dividers)"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "What The Big Deal?"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 2,
+   "text": "API Proliferation Is Exponential"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 2,
+   "text": "The API Explosion Is Transforming Software Development"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "Opportunity: API As Core Product"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 2,
+   "text": "APIs as Product: Horizontal v. Vertical"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 2,
+   "text": "Horizontal APIs – Template For Success"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical APIs – Emerging Investment Frontier"
+  },
+  {
+   "anno": 66,
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical API Market Breakdown"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical API Market Map"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical APIs in Finance"
+  },
+  {
+   "anno": 82,
+   "level": 3,
+   "parent": 81,
+   "text": "Financial Services Industry",
+   "note": "column box titles inside the slide"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 81,
+   "text": "Vertical APIs"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 81,
+   "text": "FinTech Startups"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

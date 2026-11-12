@@ -1,0 +1,106 @@
+{
+ "doc": "newspaper_eng_30d4d13c",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Front page = implicit section; 'News' running tag on p2 = L2; jumps are continuation nodes.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES",
+   "merge": [
+    5
+   ],
+   "note": "masthead split around the crest"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 1,
+   "text": "Edwards pleads guilty to viewing indecent images"
+  },
+  {
+   "anno": 32,
+   "level": 3,
+   "parent": 1,
+   "text": "Farage denies 'whipping up' street riots in Southport"
+  },
+  {
+   "anno": 58,
+   "level": 2,
+   "parent": 1,
+   "text": "News",
+   "note": "running section tag p2 (section changes from the front page)"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 58,
+   "text": "Increasing pay threshold for spouses' visas is put on hold"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 58,
+   "text": "Sick days and illness leave have doubled in six years"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 58,
+   "text": "Edwards pleads guilty",
+   "continues": 12,
+   "note": "jump: CONTINUED FROM PAGE 1 (label is text)"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 58,
+   "text": "Farage denies 'whipping up' riot",
+   "continues": 32,
+   "note": "jump: CONTINUED FROM PAGE 1"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 43,
+   "note": "IN THE NEWS: front-page teaser box, every item points to an inside page"
+  },
+  {
+   "anno": 44,
+   "note": "teaser"
+  },
+  {
+   "anno": 46,
+   "note": "teaser"
+  },
+  {
+   "anno": 48,
+   "note": "teaser"
+  },
+  {
+   "anno": 50,
+   "note": "teaser"
+  },
+  {
+   "anno": 52,
+   "note": "teaser"
+  },
+  {
+   "anno": 54,
+   "note": "teaser"
+  },
+  {
+   "anno": 60,
+   "note": "TODAY'S EDITION (index box)"
+  },
+  {
+   "anno": 69,
+   "note": "podcast promo"
+  },
+  {
+   "anno": 74,
+   "note": "weather box"
+  }
+ ],
+ "repeats": []
+}

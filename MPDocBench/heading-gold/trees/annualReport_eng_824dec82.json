@@ -1,0 +1,94 @@
+{
+ "doc": "annualReport_eng_824dec82",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Annual Report 2024"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 2,
+   "text": "Engineering the world's most advanced chips"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "LETTER TO OUR STOCKHOLDERS"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 2,
+   "text": "Solid financial results with continued focus on investments in research and development."
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 36,
+   "text": "Performance Overview - Fiscal Year 2024"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 2,
+   "text": "INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "note": "heading line inside a text box that also holds the body; same look as STOCK LISTING"
+  },
+  {
+   "anno": 47,
+   "level": 2,
+   "parent": 2,
+   "text": "TRANSFER AGENT AND REGISTRAR",
+   "note": "heading line inside a text box that also holds the body"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 2,
+   "text": "STOCK LISTING"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTOR RELATIONS"
+  },
+  {
+   "anno": 58,
+   "level": 2,
+   "parent": 2,
+   "text": "ANNUAL MEETING"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 2,
+   "text": "CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 2,
+   "text": "TRADEMARK INFORMATION"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 40,
+   "note": "chart title"
+  },
+  {
+   "anno": 42,
+   "note": "chart title"
+  },
+  {
+   "anno": 44,
+   "note": "chart title"
+  }
+ ],
+ "repeats": []
+}

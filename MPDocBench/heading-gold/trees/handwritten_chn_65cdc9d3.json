@@ -1,0 +1,40 @@
+{
+ "doc": "handwritten_chn_65cdc9d3",
+ "notation": "handwritten-v2: printed exam problems (one per sheet) with handwritten solutions; no title. Problem statements and their sub-question parts ((Ⅰ)/(Ⅱ)) are content, not headings; brand and date running headers are text. No nodes.",
+ "nodes": [],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "problem statement"
+  },
+  {
+   "anno": 14,
+   "note": "problem statement"
+  },
+  {
+   "anno": 19,
+   "note": "problem statement"
+  },
+  {
+   "anno": 21,
+   "note": "sub-question of the problem"
+  },
+  {
+   "anno": 22,
+   "note": "sub-question of the problem"
+  },
+  {
+   "anno": 28,
+   "note": "problem statement"
+  },
+  {
+   "anno": 30,
+   "note": "sub-question of the problem"
+  },
+  {
+   "anno": 31,
+   "note": "sub-question of the problem"
+  }
+ ],
+ "repeats": []
+}

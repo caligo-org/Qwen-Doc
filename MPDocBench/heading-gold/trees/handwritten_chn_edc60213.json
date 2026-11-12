@@ -1,0 +1,44 @@
+{
+ "doc": "handwritten_chn_edc60213",
+ "notation": "handwritten-v2 (study notes, sheets photographed out of order: notebook pages 5, ?, 3): bracketed section label [方法突破] L1; numbered topics (1. 集合中元素的特性, 2.-4. 集合问题与…思想) L2. The section holding topics 2-4 is not in the photos, so they are L2 under root. 启示： and [例] are labels (text).",
+ "nodes": [
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": "root",
+   "text": "4. 集合问题与分类讨论思想",
+   "note": "topic 4; its section heading is not among the photographed pages"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": "root",
+   "text": "2. 集合问题与数形结合思想："
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": "root",
+   "text": "3. 集合问题与等价转化思想"
+  },
+  {
+   "anno": 36,
+   "level": 1,
+   "parent": "root",
+   "text": "[方法突破]"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 36,
+   "text": "1. 集合中元素的特性："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "callout label 启示： before a paragraph"
+  }
+ ],
+ "repeats": []
+}

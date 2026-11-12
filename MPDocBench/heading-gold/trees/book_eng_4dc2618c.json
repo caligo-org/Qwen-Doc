@@ -1,0 +1,26 @@
+{
+ "doc": "book_eng_4dc2618c",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "THE LAST of the PRESIDENT'S MEN"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "publisher's ebook sign-up insert (ad box)"
+  },
+  {
+   "anno": 5,
+   "note": "sign-up link button in the ad box"
+  },
+  {
+   "anno": 7,
+   "note": "author name (title page)"
+  }
+ ],
+ "repeats": []
+}

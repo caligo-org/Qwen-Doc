@@ -1,0 +1,108 @@
+{
+ "doc": "paper_chn_fdabe9a2",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "航天器低频电缆网的设计"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 4,
+   "text": "0 引言"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 4,
+   "text": "1 电缆网的设计"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 15,
+   "text": "1.1 电缆网导线的选用"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 15,
+   "text": "1.2 电缆网简化设计"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 4,
+   "text": "2 电缆网星表插座设计"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 48,
+   "text": "2.1 推进供电星表设计"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 48,
+   "text": "2.2 火工品供电星表设计"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 48,
+   "text": "2.3 驱动机构供电星表设计"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 48,
+   "text": "2.4 蓄电池充放电星表设计"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 48,
+   "text": "2.5 地面测试星表设计"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 4,
+   "text": "3 电缆网脱分插设计"
+  },
+  {
+   "anno": 72,
+   "level": 2,
+   "parent": 4,
+   "text": "4 电缆网的接地设计"
+  },
+  {
+   "anno": 77,
+   "level": 2,
+   "parent": 4,
+   "text": "5 电缆网的布局设计"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 4,
+   "text": "6 结束语"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献（References）"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 88,
+   "note": "English translation of the title (back-placed English abstract)"
+  }
+ ],
+ "repeats": []
+}

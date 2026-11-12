@@ -1,0 +1,57 @@
+{
+ "doc": "magazine_chn_5b74dff1",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "知音",
+   "note": "masthead"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 1,
+   "text": "目录",
+   "note": "contents title (box also holds the logo and the issue line, which are text)"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 1,
+   "text": "坝底江心修理大国重器:星垂山河阔,月涌大江流",
+   "note": "article; its section (中国力量 in the TOC) is not printed, so directly under the masthead"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 49,
+   "text": "工作上全情投入，技术大拿初炼成"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 49,
+   "text": "你在江心保通航，我在岸上守护家"
+  },
+  {
+   "anno": 103,
+   "level": 3,
+   "parent": 49,
+   "text": "大国重器护理员，誓将韶华献三峡"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 29,
+   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+  },
+  {
+   "anno": 46,
+   "note": "colophon notice (本刊声明)"
+  }
+ ],
+ "repeats": []
+}

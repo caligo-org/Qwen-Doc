@@ -1,0 +1,117 @@
+{
+ "doc": "magazine_eng_a217be3f",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "GARDENS ILLUSTRATED",
+   "note": "masthead"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "Welcome",
+   "note": "editor's letter"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 2,
+   "text": "Contents",
+   "note": "contents title (DECEMBER 2025 in the box is text)"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 31,
+   "text": "COVER IMAGE",
+   "note": "info box with its own title in the contents sidebar"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 31,
+   "text": "ON THE COVER",
+   "note": "info box with its own title in the contents sidebar"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 31,
+   "text": "EVENTS AND OFFERS",
+   "note": "info box with its own title in the contents sidebar"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 31,
+   "text": "Our packaging",
+   "note": "info box with its own title in the contents sidebar"
+  },
+  {
+   "anno": 62,
+   "level": 2,
+   "parent": 2,
+   "text": "Contributors",
+   "note": "Contributors page"
+  },
+  {
+   "anno": 74,
+   "level": 3,
+   "parent": 62,
+   "text": "CONTRIBUTING EDITORS",
+   "note": "second block of the contributors page with its own title"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 37,
+   "note": "house-ad teaser (subscription) in the contents sidebar"
+  },
+  {
+   "anno": 53,
+   "note": "advertisement"
+  },
+  {
+   "anno": 65,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 68,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 72,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 84,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 86,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 88,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 90,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 92,
+   "note": "contributor name (list of names with bios)"
+  },
+  {
+   "anno": 94,
+   "note": "contributor name (list of names with bios)"
+  }
+ ],
+ "repeats": []
+}

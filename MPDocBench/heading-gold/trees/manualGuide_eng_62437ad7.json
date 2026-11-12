@@ -1,0 +1,248 @@
+{
+ "doc": "manualGuide_eng_62437ad7",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "ECHOMAP™ UHD INSTALLATION INSTRUCTIONS",
+   "note": "GARMIN logo is text"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 3,
+   "text": "Important Safety Information"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 4,
+   "text": "ECHOMAP UHD 6x Connector View"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 4,
+   "text": "ECHOMAP UHD 7x/9x Connector View"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 4,
+   "text": "Software Update"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 4,
+   "text": "Tools Needed"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 3,
+   "text": "Mounting Considerations"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 3,
+   "text": "Bail Mounting a Device with a Swivel Base"
+  },
+  {
+   "anno": 68,
+   "level": 2,
+   "parent": 3,
+   "text": "Fixed-Bail Mounting the Device"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 3,
+   "text": "Flush Mounting the Device"
+  },
+  {
+   "anno": 108,
+   "level": 2,
+   "parent": 3,
+   "text": "Connection Considerations"
+  },
+  {
+   "anno": 110,
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Cables to the ECHOMAP UHD 6x Cradle"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Cables to the ECHOMAP UHD 7x/9x Cradle"
+  },
+  {
+   "anno": 124,
+   "level": 3,
+   "parent": 108,
+   "text": "Power and Data Cable"
+  },
+  {
+   "anno": 132,
+   "level": 4,
+   "parent": 124,
+   "text": "Connecting to Power",
+   "note": "bold italic, a less prominent style than the bold L3 heads: subsection of Power and Data Cable"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Device to a Transducer"
+  },
+  {
+   "anno": 148,
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting to a Garmin Device to Share User Data"
+  },
+  {
+   "anno": 157,
+   "level": 3,
+   "parent": 108,
+   "text": "Installing the Ferrite Bead on the Transducer Cable"
+  },
+  {
+   "anno": 161,
+   "level": 3,
+   "parent": 108,
+   "text": "NMEA 2000 Considerations"
+  },
+  {
+   "anno": 171,
+   "level": 2,
+   "parent": 3,
+   "text": "Installing the Device in the Cradle"
+  },
+  {
+   "anno": 179,
+   "level": 3,
+   "parent": 171,
+   "text": "Removing the Device from the Cradle"
+  },
+  {
+   "anno": 183,
+   "level": 2,
+   "parent": 3,
+   "text": "Specifications"
+  },
+  {
+   "anno": 184,
+   "level": 3,
+   "parent": 183,
+   "text": "All Models"
+  },
+  {
+   "anno": 186,
+   "level": 3,
+   "parent": 183,
+   "text": "6x Models"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 183,
+   "text": "7x Models"
+  },
+  {
+   "anno": 193,
+   "level": 3,
+   "parent": 183,
+   "text": "9x Models"
+  },
+  {
+   "anno": 195,
+   "level": 3,
+   "parent": 183,
+   "text": "NMEA 2000 PGN Information"
+  },
+  {
+   "anno": 205,
+   "level": 3,
+   "parent": 183,
+   "text": "NMEA 0183 Information"
+  },
+  {
+   "anno": 212,
+   "level": 3,
+   "parent": 183,
+   "text": "物質宣言"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 6,
+   "note": "callout band WARNING"
+  },
+  {
+   "anno": 11,
+   "note": "callout band CAUTION"
+  },
+  {
+   "anno": 15,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 22,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 27,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 56,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 69,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 80,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 134,
+   "note": "callout band WARNING"
+  },
+  {
+   "anno": 162,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 177,
+   "note": "callout band NOTICE"
+  },
+  {
+   "anno": 196,
+   "note": "label rule"
+  },
+  {
+   "anno": 198,
+   "note": "label rule"
+  },
+  {
+   "anno": 200,
+   "note": "label rule"
+  },
+  {
+   "anno": 206,
+   "note": "label rule"
+  },
+  {
+   "anno": 208,
+   "note": "label rule"
+  }
+ ],
+ "repeats": []
+}

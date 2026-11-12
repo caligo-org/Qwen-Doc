@@ -1,0 +1,33 @@
+{
+ "doc": "annualReport_chn_00114ac3",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2019年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 4,
+   "text": "第一节 重要提示、目录和释义"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "note": "目录 is part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

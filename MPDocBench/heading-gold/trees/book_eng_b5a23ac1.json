@@ -1,0 +1,85 @@
+{
+ "doc": "book_eng_b5a23ac1",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "General Chemistry Laboratory Manual"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "Introduction"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 2,
+   "text": "Laboratory Safety Guidelines",
+   "note": "the box also holds the institution lines under the title (text)"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 25,
+   "text": "Introduction"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 25,
+   "text": "Laboratory Apparel"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 25,
+   "text": "Safety Equipment"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 25,
+   "text": "General Behavior"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 25,
+   "text": "Fire"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 25,
+   "text": "Chemicals and Chemical Spills"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 25,
+   "text": "Laboratory Equipment"
+  },
+  {
+   "anno": 110,
+   "level": 3,
+   "parent": 25,
+   "text": "General Guidelines"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "institution name on the cover"
+  }
+ ],
+ "repeats": []
+}

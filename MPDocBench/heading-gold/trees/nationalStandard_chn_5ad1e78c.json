@@ -1,0 +1,535 @@
+{
+ "doc": "nationalStandard_chn_5ad1e78c",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "儿童用品通用安全要求 General safety requirements for children's products",
+   "merge": [
+    6
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 5,
+   "text": "目 次"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 5,
+   "text": "前言"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 5,
+   "text": "引言"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 56,
+   "text": "3.1 儿童用品 children's products",
+   "merge": [
+    59
+   ],
+   "note": "term entry: 3.1 + 儿童用品 children's products"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 56,
+   "text": "3.2 正常使用 normal use",
+   "merge": [
+    64
+   ],
+   "note": "term entry: 3.2 + 正常使用 normal use"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 56,
+   "text": "3.3 可预见的合理滥用 reasonably foreseeable abuse",
+   "merge": [
+    68
+   ],
+   "note": "term entry: 3.3 + 可预见的合理滥用 reasonably foreseeable abuse"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 56,
+   "text": "3.4 伤害 harm",
+   "merge": [
+    73
+   ],
+   "note": "term entry: 3.4 + 伤害 harm"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 56,
+   "text": "3.5 危险 hazard",
+   "merge": [
+    77
+   ],
+   "note": "term entry: 3.5 + 危险 hazard"
+  },
+  {
+   "anno": 81,
+   "level": 3,
+   "parent": 56,
+   "text": "3.6 风险 risk",
+   "merge": [
+    82
+   ],
+   "note": "term entry: 3.6 + 风险 risk"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 56,
+   "text": "3.7 可触及 accessible",
+   "merge": [
+    86
+   ],
+   "note": "term entry: 3.7 + 可触及 accessible"
+  },
+  {
+   "anno": 88,
+   "level": 3,
+   "parent": 56,
+   "text": "3.8 开口 opening",
+   "merge": [
+    89
+   ],
+   "note": "term entry: 3.8 + 开口 opening"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 56,
+   "text": "3.9 可拆卸部件 detachable/removable component",
+   "merge": [
+    92
+   ],
+   "note": "term entry: 3.9 + 可拆卸部件 detachable/removable component"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 56,
+   "text": "3.10 球 ball",
+   "merge": [
+    95
+   ],
+   "note": "term entry: 3.10 + 球 ball"
+  },
+  {
+   "anno": 102,
+   "level": 3,
+   "parent": 56,
+   "text": "3.11 折叠机构 folding mechanism",
+   "merge": [
+    103
+   ],
+   "note": "term entry: 3.11 + 折叠机构 folding mechanism"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 56,
+   "text": "3.12 危险突出物 hazardous projection",
+   "merge": [
+    107
+   ],
+   "note": "term entry: 3.12 + 危险突出物 hazardous projection"
+  },
+  {
+   "anno": 109,
+   "level": 3,
+   "parent": 56,
+   "text": "3.13 危险锐利边缘 hazardous sharp edge",
+   "merge": [
+    110
+   ],
+   "note": "term entry: 3.13 + 危险锐利边缘 hazardous sharp edge"
+  },
+  {
+   "anno": 112,
+   "level": 3,
+   "parent": 56,
+   "text": "3.14 危险锐利尖端 hazardous sharp point",
+   "merge": [
+    113
+   ],
+   "note": "term entry: 3.14 + 危险锐利尖端 hazardous sharp point"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 56,
+   "text": "3.15 总含量 totalcontent",
+   "merge": [
+    116
+   ],
+   "note": "term entry: 3.15 + 总含量 totalcontent"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 56,
+   "text": "3.16 填充物 filling materials",
+   "merge": [
+    121
+   ],
+   "note": "term entry: 3.16 + 填充物 filling materials"
+  },
+  {
+   "anno": 125,
+   "level": 3,
+   "parent": 56,
+   "text": "3.17 使用说明 instructions for use",
+   "merge": [
+    126
+   ],
+   "note": "term entry: 3.17 + 使用说明 instructions for use"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 56,
+   "text": "3.18 束缚系统 restraint system",
+   "merge": [
+    131
+   ],
+   "note": "term entry: 3.18 + 束缚系统 restraint system"
+  },
+  {
+   "anno": 134,
+   "level": 3,
+   "parent": 56,
+   "text": "3.19 尖刺 splinter",
+   "merge": [
+    135
+   ],
+   "note": "term entry: 3.19 + 尖刺 splinter"
+  },
+  {
+   "anno": 139,
+   "level": 2,
+   "parent": 5,
+   "text": "4 要求"
+  },
+  {
+   "anno": 140,
+   "level": 3,
+   "parent": 139,
+   "text": "4.1 总体要求"
+  },
+  {
+   "anno": 141,
+   "level": 4,
+   "parent": 140,
+   "text": "4.1.1 通用性"
+  },
+  {
+   "anno": 147,
+   "level": 4,
+   "parent": 140,
+   "text": "4.1.2 协调性"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 139,
+   "text": "4.2 一般要求"
+  },
+  {
+   "anno": 150,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.1 清洁"
+  },
+  {
+   "anno": 154,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.2 安全防护"
+  },
+  {
+   "anno": 156,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.3 外观"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.4 异味"
+  },
+  {
+   "anno": 160,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.5 易与食品混淆的产品"
+  },
+  {
+   "anno": 162,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.6 玻璃和陶瓷"
+  },
+  {
+   "anno": 171,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.7 液体"
+  },
+  {
+   "anno": 173,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.8 填充物"
+  },
+  {
+   "anno": 179,
+   "level": 4,
+   "parent": 149,
+   "text": "4.2.9 腐烂和昆虫侵害"
+  },
+  {
+   "anno": 181,
+   "level": 3,
+   "parent": 139,
+   "text": "4.3 机械和物理性能"
+  },
+  {
+   "anno": 182,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.1 形状及尺寸"
+  },
+  {
+   "anno": 183,
+   "level": 5,
+   "parent": 182,
+   "text": "4.3.1.1 小零件"
+  },
+  {
+   "anno": 205,
+   "level": 5,
+   "parent": 182,
+   "text": "4.3.1.2 小球"
+  },
+  {
+   "anno": 208,
+   "level": 5,
+   "parent": 182,
+   "text": "4.3.1.3 球形、半球形、卵形或椭圆形包装和包装上的可拆卸部件"
+  },
+  {
+   "anno": 211,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.2 开口和间隙"
+  },
+  {
+   "anno": 212,
+   "level": 5,
+   "parent": 211,
+   "text": "4.3.2.1 开口"
+  },
+  {
+   "anno": 215,
+   "level": 5,
+   "parent": 211,
+   "text": "4.3.2.2 活动部件间隙"
+  },
+  {
+   "anno": 220,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.3 边缘、尖端及转角"
+  },
+  {
+   "anno": 221,
+   "level": 5,
+   "parent": 220,
+   "text": "4.3.3.1 危险锐利边缘、危险锐利尖端和转角"
+  },
+  {
+   "anno": 224,
+   "level": 5,
+   "parent": 220,
+   "text": "4.3.3.2 功能性锐利边缘和功能性锐利尖端"
+  },
+  {
+   "anno": 229,
+   "level": 5,
+   "parent": 220,
+   "text": "4.3.3.3 尖刺"
+  },
+  {
+   "anno": 231,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.4 危险突出物"
+  },
+  {
+   "anno": 235,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.5 绳索或绳圈"
+  },
+  {
+   "anno": 244,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.6 密闭空间"
+  },
+  {
+   "anno": 248,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.7 稳定性能"
+  },
+  {
+   "anno": 254,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.8 结构强度和耐久性"
+  },
+  {
+   "anno": 256,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.9 运动和旋转物部件"
+  },
+  {
+   "anno": 263,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.10 折叠机构"
+  },
+  {
+   "anno": 265,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.11 限制活动区域类儿童用品"
+  },
+  {
+   "anno": 268,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.12 束缚系统"
+  },
+  {
+   "anno": 271,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.13 溺水危险"
+  },
+  {
+   "anno": 276,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.14 声响要求"
+  },
+  {
+   "anno": 282,
+   "level": 4,
+   "parent": 181,
+   "text": "4.3.15 用于包装和儿童用品中的塑料薄膜或塑料袋"
+  },
+  {
+   "anno": 290,
+   "level": 3,
+   "parent": 139,
+   "text": "4.4 热危险及易燃性能"
+  },
+  {
+   "anno": 291,
+   "level": 4,
+   "parent": 290,
+   "text": "4.4.1 易燃性能"
+  },
+  {
+   "anno": 300,
+   "level": 4,
+   "parent": 290,
+   "text": "4.4.2 非电热源产品烫伤危险"
+  },
+  {
+   "anno": 314,
+   "level": 4,
+   "parent": 290,
+   "text": "4.4.3 明火烧伤危险"
+  },
+  {
+   "anno": 316,
+   "level": 4,
+   "parent": 290,
+   "text": "4.4.4 封闭空间中的高温或低温危险"
+  },
+  {
+   "anno": 319,
+   "level": 3,
+   "parent": 139,
+   "text": "4.5 化学安全"
+  },
+  {
+   "anno": 320,
+   "level": 4,
+   "parent": 319,
+   "text": "4.5.1 一般要求"
+  },
+  {
+   "anno": 324,
+   "level": 4,
+   "parent": 319,
+   "text": "4.5.2 可迁移元素的最大限量要求"
+  },
+  {
+   "anno": 328,
+   "level": 4,
+   "parent": 319,
+   "text": "4.5.3 增塑剂的限量要求"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 29,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

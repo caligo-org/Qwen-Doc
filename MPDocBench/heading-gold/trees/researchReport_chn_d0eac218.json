@@ -1,0 +1,67 @@
+{
+ "doc": "researchReport_chn_d0eac218",
+ "notation": "researchReport (company note): L1 headline (the company line sits in the date/rating info box, not in the title block: text); L2 投资要点 and numbered chapters; L3 1.1 sections. Sidebar banners (research centre/analysts, chart, base data, related research) are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "连续三年动力电池全球第一"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 3,
+   "text": "投资要点"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 3,
+   "text": "1 2019 年年度报告点评"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 30,
+   "text": "1.1 动力电池业务"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 30,
+   "text": "1.2 储能系统业务和锂电材料业务"
+  },
+  {
+   "anno": 115,
+   "level": 2,
+   "parent": 3,
+   "text": "2 盈利预测与评级"
+  },
+  {
+   "anno": 129,
+   "level": 2,
+   "parent": 3,
+   "text": "3 风险提示"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 15,
+   "note": "research-centre banner over the analyst list"
+  },
+  {
+   "anno": 18,
+   "note": "sidebar chart label"
+  },
+  {
+   "anno": 21,
+   "note": "基础数据: sidebar data-table label"
+  },
+  {
+   "anno": 23,
+   "note": "相关研究: related-reports list"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,38 @@
+{
+ "doc": "goverment_chn_abd934b8",
+ "notation": "goverment-v2: L1 regulation title; L2 第N章; 第N条 articles are run-in text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "政务数据共享条例"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 管理体制"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 目录管理"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 1,
+   "text": "第四章 共享使用"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

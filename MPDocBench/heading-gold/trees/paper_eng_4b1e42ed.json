@@ -1,0 +1,85 @@
+{
+ "doc": "paper_eng_4b1e42ed",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "Abstract"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "1 Introduction"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 1,
+   "text": "2 Related Work"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 1,
+   "text": "3 Background and Notation"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "4 Cohort and Data Pre-Processing"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 1,
+   "text": "5 Methods"
+  },
+  {
+   "anno": 51,
+   "level": 2,
+   "parent": 1,
+   "text": "6 Results"
+  },
+  {
+   "anno": 82,
+   "level": 2,
+   "parent": 1,
+   "text": "7 Discussion"
+  },
+  {
+   "anno": 97,
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 1"
+  },
+  {
+   "anno": 100,
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 2"
+  },
+  {
+   "anno": 114,
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 3"
+  },
+  {
+   "anno": 128,
+   "level": 2,
+   "parent": 1,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

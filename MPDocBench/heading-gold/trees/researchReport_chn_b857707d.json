@@ -1,0 +1,67 @@
+{
+ "doc": "researchReport_chn_b857707d",
+ "notation": "researchReport (industry note): L1 headline; L2 事件/评论/风险提示 and back-matter titles. The industry + rating line above the headline and the office address boxes are text.",
+ "nodes": [
+  {
+   "anno": 10,
+   "level": 1,
+   "parent": "root",
+   "text": "短期调整不改长期趋势，静待电新板块估值修复"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 10,
+   "text": "事件"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 10,
+   "text": "评论"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 10,
+   "text": "风险提示"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 10,
+   "text": "公司投资评级的说明："
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 10,
+   "text": "行业投资评级的说明："
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 10,
+   "text": "特别声明："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "industry name + rating line (cover label, not the headline)"
+  },
+  {
+   "anno": 54,
+   "note": "office contact box"
+  },
+  {
+   "anno": 56,
+   "note": "office contact box"
+  },
+  {
+   "anno": 58,
+   "note": "office contact box"
+  }
+ ],
+ "repeats": []
+}

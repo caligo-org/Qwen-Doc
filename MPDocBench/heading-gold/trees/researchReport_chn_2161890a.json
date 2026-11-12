@@ -1,0 +1,103 @@
+{
+ "doc": "researchReport_chn_2161890a",
+ "notation": "researchReport (morning brief): L1 = brief name; L2 = 概览 cover box, body banners (核心观点, 财经要闻), disclaimer titles; L3 = blocks inside them. Table banner labels on the cover are table titles (text).",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "万联晨会"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 5,
+   "text": "概览",
+   "note": "cover overview"
+  },
+  {
+   "anno": 8,
+   "level": 3,
+   "parent": 7,
+   "text": "核心观点"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 7,
+   "text": "财经要闻",
+   "note": "headline list box on the cover"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 5,
+   "text": "核心观点"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 24,
+   "text": "市场回顾"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 24,
+   "text": "今日观点"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 5,
+   "text": "财经要闻"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 30,
+   "text": "看好民营经济活力与韧性推动小微贷款扩量降价"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 30,
+   "text": "份额逆势增长资金借道ETF布局A股"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 30,
+   "text": "商务部：我国连续5个月实现吸收外资增长"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 30,
+   "text": "多因素催化新股报价走低公募基金科创板打新更加谨慎"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 5,
+   "text": "证券分析师承诺"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 5,
+   "text": "免责声明"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 16,
+   "note": "国内市场表现: table title banner"
+  },
+  {
+   "anno": 18,
+   "note": "国际市场表现: table title banner"
+  }
+ ],
+ "repeats": []
+}

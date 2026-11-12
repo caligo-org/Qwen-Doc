@@ -1,0 +1,433 @@
+{
+ "doc": "book_chn_69dd792e",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "第十二章 口腔局部解剖及其生理功能",
+   "merge": [
+    2
+   ]
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "【提要"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "第一节 唇、颊、舌、腭、咽、喉的局部解剖"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 5,
+   "text": "一、唇"
+  },
+  {
+   "anno": 10,
+   "level": 4,
+   "parent": 9,
+   "text": "（一）表面解剖标志"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 9,
+   "text": "（二）区域解剖特点"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 5,
+   "text": "二、颊"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 46,
+   "text": "（一）境界"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 46,
+   "text": "（二）区域解剖特点"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 5,
+   "text": "三、舌"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 66,
+   "text": "（一）表面解剖标志"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 66,
+   "text": "（二）区域解剖特点"
+  },
+  {
+   "anno": 126,
+   "level": 5,
+   "parent": 81,
+   "text": "4. 神经分布和支配"
+  },
+  {
+   "anno": 129,
+   "level": 3,
+   "parent": 5,
+   "text": "四、舌下区（口底）"
+  },
+  {
+   "anno": 131,
+   "level": 4,
+   "parent": 129,
+   "text": "（一）表面解剖标志"
+  },
+  {
+   "anno": 134,
+   "level": 4,
+   "parent": 129,
+   "text": "（二）区域解剖特点"
+  },
+  {
+   "anno": 148,
+   "level": 3,
+   "parent": 5,
+   "text": "五、腭"
+  },
+  {
+   "anno": 153,
+   "level": 4,
+   "parent": 148,
+   "text": "（一）表面解剖标志"
+  },
+  {
+   "anno": 168,
+   "level": 4,
+   "parent": 148,
+   "text": "（二）区域解剖特点"
+  },
+  {
+   "anno": 192,
+   "level": 3,
+   "parent": 5,
+   "text": "六、咽"
+  },
+  {
+   "anno": 218,
+   "level": 3,
+   "parent": 5,
+   "text": "七、喉"
+  },
+  {
+   "anno": 232,
+   "level": 2,
+   "parent": 1,
+   "text": "第二节 口腔生理功能"
+  },
+  {
+   "anno": 234,
+   "level": 3,
+   "parent": 232,
+   "text": "一、吮吸"
+  },
+  {
+   "anno": 238,
+   "level": 3,
+   "parent": 232,
+   "text": "二、吞咽"
+  },
+  {
+   "anno": 240,
+   "level": 4,
+   "parent": 238,
+   "text": "（一）吞咽的反射控制"
+  },
+  {
+   "anno": 242,
+   "level": 4,
+   "parent": 238,
+   "text": "（二）吞咽过程"
+  },
+  {
+   "anno": 253,
+   "level": 4,
+   "parent": 238,
+   "text": "（三）吞咽对、颌、面生长发育的影响"
+  },
+  {
+   "anno": 272,
+   "level": 3,
+   "parent": 232,
+   "text": "三、呕 吐"
+  },
+  {
+   "anno": 274,
+   "level": 4,
+   "parent": 272,
+   "text": "（一）呕吐的反射控制"
+  },
+  {
+   "anno": 276,
+   "level": 4,
+   "parent": 272,
+   "text": "（二）呕吐过程"
+  },
+  {
+   "anno": 278,
+   "level": 4,
+   "parent": 272,
+   "text": "（三）呕吐的生理病理意义"
+  },
+  {
+   "anno": 283,
+   "level": 3,
+   "parent": 232,
+   "text": "四、言语"
+  },
+  {
+   "anno": 285,
+   "level": 4,
+   "parent": 283,
+   "text": "（一）言语（语音）的属性"
+  },
+  {
+   "anno": 288,
+   "level": 4,
+   "parent": 283,
+   "text": "（二）言语（语音）器官"
+  },
+  {
+   "anno": 293,
+   "level": 4,
+   "parent": 283,
+   "text": "（三）语音的组成"
+  },
+  {
+   "anno": 300,
+   "level": 4,
+   "parent": 283,
+   "text": "（四）言语的神经控制"
+  },
+  {
+   "anno": 308,
+   "level": 3,
+   "parent": 232,
+   "text": "五、表情"
+  },
+  {
+   "anno": 324,
+   "level": 3,
+   "parent": 232,
+   "text": "六、呼 吸"
+  },
+  {
+   "anno": 326,
+   "level": 4,
+   "parent": 324,
+   "text": "（一）喉的结构和功能"
+  },
+  {
+   "anno": 333,
+   "level": 4,
+   "parent": 324,
+   "text": "（二）呼吸功能的检查"
+  },
+  {
+   "anno": 335,
+   "level": 4,
+   "parent": 324,
+   "text": "（三）呼吸与咀嚼、吞咽的关系"
+  },
+  {
+   "anno": 346,
+   "level": 4,
+   "parent": 324,
+   "text": "（四）呼吸方式与颅面、验的发育"
+  },
+  {
+   "anno": 352,
+   "level": 2,
+   "parent": 1,
+   "text": "第三节 临床应用"
+  },
+  {
+   "anno": 353,
+   "level": 3,
+   "parent": 352,
+   "text": "一、重要的解剖结构与外科手术"
+  },
+  {
+   "anno": 354,
+   "level": 4,
+   "parent": 353,
+   "text": "1. 唾液腺导管"
+  },
+  {
+   "anno": 365,
+   "level": 4,
+   "parent": 353,
+   "text": "2. 舌神经和舌下神经"
+  },
+  {
+   "anno": 378,
+   "level": 4,
+   "parent": 353,
+   "text": "6. 舌动脉"
+  },
+  {
+   "anno": 391,
+   "level": 3,
+   "parent": 352,
+   "text": "二、解剖形态异常"
+  },
+  {
+   "anno": 428,
+   "level": 3,
+   "parent": 352,
+   "text": "三、功能异常"
+  },
+  {
+   "anno": 448,
+   "level": 2,
+   "parent": 1,
+   "text": "课后思考题"
+  },
+  {
+   "anno": 455,
+   "level": 2,
+   "parent": 1,
+   "text": "主要参考文献"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 15,
+   "of": 1
+  },
+  {
+   "anno": 26,
+   "of": 1
+  },
+  {
+   "anno": 42,
+   "of": 1
+  },
+  {
+   "anno": 58,
+   "of": 1
+  },
+  {
+   "anno": 74,
+   "of": 1
+  },
+  {
+   "anno": 92,
+   "of": 1
+  },
+  {
+   "anno": 110,
+   "of": 1
+  },
+  {
+   "anno": 125,
+   "of": 1
+  },
+  {
+   "anno": 142,
+   "of": 1
+  },
+  {
+   "anno": 156,
+   "of": 1
+  },
+  {
+   "anno": 180,
+   "of": 1
+  },
+  {
+   "anno": 201,
+   "of": 1
+  },
+  {
+   "anno": 211,
+   "of": 1
+  },
+  {
+   "anno": 222,
+   "of": 1
+  },
+  {
+   "anno": 231,
+   "of": 1
+  },
+  {
+   "anno": 246,
+   "of": 1
+  },
+  {
+   "anno": 260,
+   "of": 1
+  },
+  {
+   "anno": 281,
+   "of": 1
+  },
+  {
+   "anno": 298,
+   "of": 1
+  },
+  {
+   "anno": 321,
+   "of": 1
+  },
+  {
+   "anno": 332,
+   "of": 1
+  },
+  {
+   "anno": 344,
+   "of": 1
+  },
+  {
+   "anno": 357,
+   "of": 1
+  },
+  {
+   "anno": 369,
+   "of": 1
+  },
+  {
+   "anno": 382,
+   "of": 1
+  },
+  {
+   "anno": 400,
+   "of": 1
+  },
+  {
+   "anno": 418,
+   "of": 1
+  },
+  {
+   "anno": 431,
+   "of": 1
+  },
+  {
+   "anno": 441,
+   "of": 1
+  }
+ ]
+}

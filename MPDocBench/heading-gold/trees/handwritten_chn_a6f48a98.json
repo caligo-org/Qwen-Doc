@@ -1,0 +1,112 @@
+{
+ "doc": "handwritten_chn_a6f48a98",
+ "notation": "handwritten-v2 (study notes, no title): Chinese-numbered topics (一.商品 … 四.纸币, and the restarted 二.价格) L1; Arabic-numbered parts L2; (1)/(2) L3. Run-in definitions (1. 含义：用于交换的劳动产品) and the mostly run-in (1)-(4) list under 货币 are text; notebook No./Date headers and watermark footers are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "一.商品"
+  },
+  {
+   "anno": 9,
+   "level": 1,
+   "parent": "root",
+   "text": "二.商品的基本属性.$\\Rightarrow$ 使用价值和价值"
+  },
+  {
+   "anno": 19,
+   "level": 1,
+   "parent": "root",
+   "text": "二. 货币的产生的过程"
+  },
+  {
+   "anno": 44,
+   "level": 1,
+   "parent": "root",
+   "text": "四. 纸币."
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 44,
+   "text": "1. 含义："
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 45,
+   "text": "(1)国家(或某些地区)发行的"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 45,
+   "text": "(2)强制使用的"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 44,
+   "text": "2. 低币的职能：低币能代替金属货币执行货币的所有职能",
+   "note": "numbered part of the 纸币 outline (1., 2., 4.); title and statement on one line"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 44,
+   "text": "4. 纸币的发行规律."
+  },
+  {
+   "anno": 75,
+   "level": 1,
+   "parent": "root",
+   "text": "二. 价格 \\( \\rightarrow \\) 前因后果.",
+   "note": "same look as 一.商品; numbering restarts with a new topic (gold had it under 四.纸币)"
+  },
+  {
+   "anno": 107,
+   "level": 2,
+   "parent": 75,
+   "text": "1. 桑求曲线."
+  },
+  {
+   "anno": 109,
+   "level": 2,
+   "parent": 75,
+   "text": "2. 需求弹性."
+  },
+  {
+   "anno": 113,
+   "level": 2,
+   "parent": 75,
+   "text": "3. 相关商品需求曲线"
+  },
+  {
+   "anno": 117,
+   "level": 2,
+   "parent": 75,
+   "text": "4. 需求曲线平移图。"
+  },
+  {
+   "anno": 119,
+   "level": 2,
+   "parent": 75,
+   "text": "5. 供给曲线"
+  },
+  {
+   "anno": 121,
+   "level": 2,
+   "parent": 75,
+   "text": "6. 给予曲线平移图."
+  },
+  {
+   "anno": 123,
+   "level": 2,
+   "parent": 75,
+   "text": "7. 平衡价格"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

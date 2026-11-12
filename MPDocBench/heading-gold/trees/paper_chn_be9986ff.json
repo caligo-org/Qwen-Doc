@@ -1,0 +1,120 @@
+{
+ "doc": "paper_chn_be9986ff",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "载人深空探索中空间辐射防护技术的研究进展"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 5,
+   "text": "1 载人深空探索任务中空间辐射环境特点"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 5,
+   "text": "2 物理防护"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 41,
+   "text": "2.1 被动防护"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.1 辐射防护材料的筛选方法与应用"
+  },
+  {
+   "anno": 77,
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.2 载人航天器舱体辐射防护"
+  },
+  {
+   "anno": 97,
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.3 个性化辐射防护"
+  },
+  {
+   "anno": 105,
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.4 星体表面浮土"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 41,
+   "text": "2.2 主动防护"
+  },
+  {
+   "anno": 120,
+   "level": 2,
+   "parent": 5,
+   "text": "3 生物医学防护"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 120,
+   "text": "3.1 抗氧化剂"
+  },
+  {
+   "anno": 153,
+   "level": 3,
+   "parent": 120,
+   "text": "3.2 抑制剂"
+  },
+  {
+   "anno": 156,
+   "level": 3,
+   "parent": 120,
+   "text": "3.3 细胞因子、生长因子和激素类物质"
+  },
+  {
+   "anno": 159,
+   "level": 3,
+   "parent": 120,
+   "text": "3.4 蛋白质分子类物质"
+  },
+  {
+   "anno": 166,
+   "level": 3,
+   "parent": 120,
+   "text": "3.5 细胞治疗剂"
+  },
+  {
+   "anno": 168,
+   "level": 3,
+   "parent": 120,
+   "text": "3.6 植物来源的活性物质"
+  },
+  {
+   "anno": 172,
+   "level": 2,
+   "parent": 5,
+   "text": "4 结论"
+  },
+  {
+   "anno": 179,
+   "level": 2,
+   "parent": 5,
+   "text": "参考文献"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 288,
+   "note": "English translation of the title (back-placed English summary)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,231 @@
+{
+ "doc": "newspaper_eng_b6de1de8",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Weekly news magazine: cover lines are teasers; contents page has no contents title and its entries are TOC; numbered location labels on the Global report map are kickers.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "The Guardian Weekly",
+   "note": "masthead (tagline, date, volume are text)"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 2,
+   "text": "The rat pack",
+   "note": "photo story headline; 'Eyewitness Italy' is its rubric"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 2,
+   "text": "Global report",
+   "note": "section banner p4"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 56,
+   "text": "Russian and US officials hold talks in Saudi Arabia"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 56,
+   "text": "Two dead and 37 injured after Munich car attack"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 56,
+   "text": "Approval of supreme court sought for watchdog firing"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 56,
+   "text": "Man who rammed knife attacker hailed as hero"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 56,
+   "text": "Pope Francis in hospital for tests after infection"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 56,
+   "text": "At least 18 injured after plane crash lands in Toronto"
+  },
+  {
+   "anno": 97,
+   "level": 3,
+   "parent": 56,
+   "text": "Brasília asks UN to ditch carbon levy on shipping"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 56,
+   "text": "Language test for residence could stump some locals"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 56,
+   "text": "UN aviation meetings remain clouded in secrecy"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 56,
+   "text": "Conclave celebrates a divine night at the Baftas"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 56,
+   "text": "Collapse of illegally run goldmine kills 48 people"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 56,
+   "text": "M23 rebels take Bukavu in latest seizure of territory"
+  },
+  {
+   "anno": 128,
+   "level": 3,
+   "parent": 56,
+   "text": "First 'openly gay imam' shot to death in his car"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 56,
+   "text": "Plan for first Russian naval base in Africa agreed"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 19,
+   "note": "tagline and date"
+  },
+  {
+   "anno": 20,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 21,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 24,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 25,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 27,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 28,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 30,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 31,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 35,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 36,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 38,
+   "note": "TOC page number"
+  },
+  {
+   "anno": 39,
+   "note": "TOC section entry"
+  },
+  {
+   "anno": 45,
+   "note": "GW logo (colophon)"
+  },
+  {
+   "anno": 58,
+   "note": "location kicker"
+  },
+  {
+   "anno": 65,
+   "note": "location kicker"
+  },
+  {
+   "anno": 71,
+   "note": "location kicker"
+  },
+  {
+   "anno": 77,
+   "note": "location kicker"
+  },
+  {
+   "anno": 83,
+   "note": "location kicker"
+  },
+  {
+   "anno": 90,
+   "note": "location kicker"
+  },
+  {
+   "anno": 95,
+   "note": "location kicker"
+  },
+  {
+   "anno": 100,
+   "note": "location kicker"
+  },
+  {
+   "anno": 105,
+   "note": "location kicker"
+  },
+  {
+   "anno": 109,
+   "note": "location kicker"
+  },
+  {
+   "anno": 116,
+   "note": "location kicker"
+  },
+  {
+   "anno": 121,
+   "note": "location kicker"
+  },
+  {
+   "anno": 127,
+   "note": "location kicker"
+  },
+  {
+   "anno": 132,
+   "note": "location kicker"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 18,
+   "of": 2
+  }
+ ]
+}

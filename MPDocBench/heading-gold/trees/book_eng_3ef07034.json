@@ -1,0 +1,306 @@
+{
+ "doc": "book_eng_3ef07034",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Cooking Around the World"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "Cooking References"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 8,
+   "text": "Cooking Safely"
+  },
+  {
+   "anno": 15,
+   "level": 4,
+   "parent": 11,
+   "text": "Practice Good Hygiene"
+  },
+  {
+   "anno": 24,
+   "level": 4,
+   "parent": 11,
+   "text": "Cook to Safe Temperatures"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 11,
+   "text": "Separate Hazardous Foods"
+  },
+  {
+   "anno": 31,
+   "level": 4,
+   "parent": 11,
+   "text": "Refrigerate and Freeze Properly"
+  },
+  {
+   "anno": 33,
+   "level": 4,
+   "parent": 11,
+   "text": "Avoid the Danger Zone"
+  },
+  {
+   "anno": 38,
+   "level": 4,
+   "parent": 11,
+   "text": "Wash Produce"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 11,
+   "text": "When In Doubt, Throw It Out"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 8,
+   "text": "Measurements and Abbreviations"
+  },
+  {
+   "anno": 45,
+   "level": 4,
+   "parent": 44,
+   "text": "Common Abbreviations"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 44,
+   "text": "Volume Conversions"
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 1,
+   "text": "Recipes Inspired by Africa"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 70,
+   "text": "Apricot Chicken Tagine"
+  },
+  {
+   "anno": 110,
+   "level": 3,
+   "parent": 70,
+   "text": "Roasted Eggplant Spread"
+  },
+  {
+   "anno": 138,
+   "level": 3,
+   "parent": 70,
+   "text": "Baklava-Inspired Baked Oatmeal"
+  },
+  {
+   "anno": 160,
+   "level": 3,
+   "parent": 70,
+   "text": "Curried Chicken Salad"
+  },
+  {
+   "anno": 191,
+   "level": 3,
+   "parent": 70,
+   "text": "Kofta (Turkey Kebabs)"
+  },
+  {
+   "anno": 215,
+   "level": 3,
+   "parent": 70,
+   "text": "Microwave White Bean and Egg Shakshuka"
+  },
+  {
+   "anno": 244,
+   "level": 2,
+   "parent": 1,
+   "text": "Recipes Inspired by Eastern Asia"
+  },
+  {
+   "anno": 247,
+   "level": 3,
+   "parent": 244,
+   "text": "Black Rice Porridge"
+  },
+  {
+   "anno": 269,
+   "level": 3,
+   "parent": 244,
+   "text": "Chicken Chow Mein"
+  },
+  {
+   "anno": 308,
+   "level": 3,
+   "parent": 244,
+   "text": "Garlic Edamame"
+  },
+  {
+   "anno": 333,
+   "level": 3,
+   "parent": 244,
+   "text": "Hot-and-Sour Soup"
+  },
+  {
+   "anno": 364,
+   "level": 3,
+   "parent": 244,
+   "text": "Kimchi"
+  },
+  {
+   "anno": 395,
+   "level": 3,
+   "parent": 244,
+   "text": "Vegetable Pad Thai"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 77,
+   "note": "label rule"
+  },
+  {
+   "anno": 92,
+   "note": "label rule"
+  },
+  {
+   "anno": 103,
+   "note": "label rule"
+  },
+  {
+   "anno": 114,
+   "note": "label rule"
+  },
+  {
+   "anno": 122,
+   "note": "label rule"
+  },
+  {
+   "anno": 131,
+   "note": "label rule"
+  },
+  {
+   "anno": 142,
+   "note": "label rule"
+  },
+  {
+   "anno": 144,
+   "note": "label rule"
+  },
+  {
+   "anno": 152,
+   "note": "label rule"
+  },
+  {
+   "anno": 164,
+   "note": "label rule"
+  },
+  {
+   "anno": 178,
+   "note": "label rule"
+  },
+  {
+   "anno": 185,
+   "note": "label rule"
+  },
+  {
+   "anno": 195,
+   "note": "label rule"
+  },
+  {
+   "anno": 204,
+   "note": "label rule"
+  },
+  {
+   "anno": 219,
+   "note": "label rule"
+  },
+  {
+   "anno": 230,
+   "note": "label rule"
+  },
+  {
+   "anno": 237,
+   "note": "label rule"
+  },
+  {
+   "anno": 249,
+   "note": "label rule"
+  },
+  {
+   "anno": 257,
+   "note": "label rule"
+  },
+  {
+   "anno": 263,
+   "note": "label rule"
+  },
+  {
+   "anno": 273,
+   "note": "label rule"
+  },
+  {
+   "anno": 288,
+   "note": "label rule"
+  },
+  {
+   "anno": 301,
+   "note": "label rule"
+  },
+  {
+   "anno": 312,
+   "note": "label rule"
+  },
+  {
+   "anno": 319,
+   "note": "label rule"
+  },
+  {
+   "anno": 326,
+   "note": "label rule"
+  },
+  {
+   "anno": 337,
+   "note": "label rule"
+  },
+  {
+   "anno": 349,
+   "note": "label rule"
+  },
+  {
+   "anno": 357,
+   "note": "label rule"
+  },
+  {
+   "anno": 368,
+   "note": "label rule"
+  },
+  {
+   "anno": 380,
+   "note": "label rule"
+  },
+  {
+   "anno": 389,
+   "note": "label rule"
+  },
+  {
+   "anno": 399,
+   "note": "label rule"
+  },
+  {
+   "anno": 416,
+   "note": "label rule"
+  }
+ ],
+ "repeats": []
+}

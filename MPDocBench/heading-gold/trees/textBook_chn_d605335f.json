@@ -1,0 +1,26 @@
+{
+ "doc": "textBook_chn_d605335f",
+ "notation": "textBook-v2: L1 cover subject title; L2 front matter.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "数学",
+   "note": "cover title; grade/volume, publisher, series lines are text"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 3,
+   "text": "编者的话"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 8,
+   "of": 3
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "doc": "researchReport_chn_641838eb",
+ "notation": "researchReport: L1 headline; L2 投资要点, contents titles, numbered chapters; L3 2.1 sections. Report-type banner (行业月度报告), industry label (电子), sidebar chart label and related reports are text.",
+ "nodes": [
+  {
+   "anno": 17,
+   "level": 1,
+   "parent": "root",
+   "text": "三季度消费电子旺季来临，重点关注苹果产业链"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 17,
+   "text": "投资要点："
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 17,
+   "text": "内容目录"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 17,
+   "text": "图表目录"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 17,
+   "text": "1投资策略"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 17,
+   "text": "2市场运行情况"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 43,
+   "text": "2.1行业及个股运行情况"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "行业月度报告: report-type banner"
+  },
+  {
+   "anno": 7,
+   "note": "sidebar chart label"
+  },
+  {
+   "anno": 12,
+   "note": "相关报告: related-reports list"
+  },
+  {
+   "anno": 16,
+   "note": "电子: industry label banner"
+  }
+ ],
+ "repeats": []
+}

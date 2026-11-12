@@ -1,0 +1,85 @@
+{
+ "doc": "paper_chn_a8bfcf5f",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2008 年盛夏黄河中游枯水气象成因分析",
+   "note": "box also holds the column label 【水文·泥沙】, left out of the text"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 4,
+   "text": "1雨情"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 4,
+   "text": "2 水情"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 4,
+   "text": "3 环流特征"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 31,
+   "text": "3.1 西风带环流特点"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 33,
+   "text": "3.1.1 月平均环流形势"
+  },
+  {
+   "anno": 37,
+   "level": 4,
+   "parent": 33,
+   "text": "3.1.2 旬环流形势"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 31,
+   "text": "3.2 副热带高压变化特点"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 31,
+   "text": "3.3 台风活动"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 4,
+   "text": "4 结语"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 56,
+   "note": "section of a different article on p3 (journal p31); this paper only resumes below it without headings"
+  },
+  {
+   "anno": 59,
+   "note": "section of the other article"
+  },
+  {
+   "anno": 64,
+   "note": "section of the other article"
+  },
+  {
+   "anno": 66,
+   "note": "references of the other article"
+  }
+ ],
+ "repeats": []
+}

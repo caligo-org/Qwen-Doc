@@ -1,0 +1,131 @@
+{
+ "doc": "paper_eng_d054de2a",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 2,
+   "text": "I. INTRODUCTION"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "II. CIVIL AVIATION"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 10,
+   "text": "Airports"
+  },
+  {
+   "anno": 24,
+   "level": 3,
+   "parent": 10,
+   "text": "Air transport service"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 10,
+   "text": "Gross Domestic Product"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 2,
+   "text": "III. IMPORTANCE OF THE STUDY"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 2,
+   "text": "IV. REVIEW OF LITERATURE"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 2,
+   "text": "V. HYPOTHESIS OF THE STUDY"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 2,
+   "text": "VI. METHODOLOGY"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 44,
+   "text": "PERIOD OF THE STUDY",
+   "note": "italic caps subheading missed by gold"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 2,
+   "text": "VII. DATA ANALYSIS"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 48,
+   "text": "REGION-WISE FDI INFLOWS IN INDIA",
+   "note": "italic caps subheading missed by gold"
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 2,
+   "text": "VIII. CORRELATION ANALYSIS"
+  },
+  {
+   "anno": 88,
+   "level": 2,
+   "parent": 2,
+   "text": "IX. REGRESSION ANALYSIS"
+  },
+  {
+   "anno": 105,
+   "level": 2,
+   "parent": 2,
+   "text": "X. CONCLUSION"
+  },
+  {
+   "anno": 107,
+   "level": 2,
+   "parent": 2,
+   "text": "ACKNOWLEDGEMENT"
+  },
+  {
+   "anno": 109,
+   "level": 2,
+   "parent": 2,
+   "text": "REFERENCES",
+   "note": "same look as ACKNOWLEDGEMENT; back matter at top level"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 20,
+   "of": 2
+  },
+  {
+   "anno": 62,
+   "of": 2
+  },
+  {
+   "anno": 100,
+   "of": 2
+  }
+ ]
+}

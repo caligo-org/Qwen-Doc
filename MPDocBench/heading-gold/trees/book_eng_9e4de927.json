@@ -1,0 +1,49 @@
+{
+ "doc": "book_eng_9e4de927",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Angry GOD"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 2,
+   "text": "Theme Song",
+   "note": "front-matter page title"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 2,
+   "text": "Playlist",
+   "note": "front-matter page title, same style as Theme Song"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "Chapter ONE"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "title + author line on the copyright page (title repeated)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 5,
+   "of": 2
+  }
+ ]
+}

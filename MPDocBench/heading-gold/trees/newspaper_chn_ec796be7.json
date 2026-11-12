@@ -1,0 +1,144 @@
+{
+ "doc": "newspaper_chn_ec796be7",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 光明日报, same family as newspaper_chn_eb87830d.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "note": "masthead (pinyin in the same box is text)"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平回到北京",
+   "note": "引题 in the same box is text"
+  },
+  {
+   "anno": 10,
+   "level": 3,
+   "parent": 1,
+   "text": "为推动构建公正的世界和可持续的星球贡献力量",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 12,
+   "level": 4,
+   "parent": 10,
+   "text": "中国脱贫提供“杰出范例”"
+  },
+  {
+   "anno": 21,
+   "level": 4,
+   "parent": 10,
+   "text": "八项行动“令人振奋”"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 1,
+   "text": "跨越山海的友谊、团结、合作、开拓之旅",
+   "note": "vertical; 引题 and ——副题 in the same box are text"
+  },
+  {
+   "anno": 35,
+   "level": 4,
+   "parent": 31,
+   "text": "一、引领亚太开放合作启新程"
+  },
+  {
+   "anno": 41,
+   "level": 4,
+   "parent": 31,
+   "text": "二、推动全球治理改革再聚焦"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 1,
+   "text": "聆听大国外交的铿锵足音"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 1,
+   "text": "工布“毕秀”"
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 70,
+   "text": "赵乐际对葡萄牙进行正式友好访问"
+  },
+  {
+   "anno": 82,
+   "level": 3,
+   "parent": 70,
+   "text": "王沪宁会见哈萨克斯坦国务顾问卡林"
+  },
+  {
+   "anno": 109,
+   "level": 3,
+   "parent": 70,
+   "text": "民间交流是未来中美关系健康发展的重要基础",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 70,
+   "text": "（上接1版）",
+   "continues": 31,
+   "note": "jump of 跨越山海的友谊..., no headline printed; parts 三-六 follow"
+  },
+  {
+   "anno": 123,
+   "level": 4,
+   "parent": 122,
+   "text": "三、树立互利共赢合作新典范"
+  },
+  {
+   "anno": 128,
+   "level": 4,
+   "parent": 122,
+   "text": "四、开启中巴构建命运共同体新篇章"
+  },
+  {
+   "anno": 134,
+   "level": 4,
+   "parent": 122,
+   "text": "五、拓展全球伙伴关系新局面"
+  },
+  {
+   "anno": 141,
+   "level": 4,
+   "parent": 122,
+   "text": "六、唱响中国光明前景最雄音"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 70,
+   "text": "（上接1版）",
+   "continues": 10,
+   "note": "jump of 为推动构建公正的世界..., no headline printed"
+  },
+  {
+   "anno": 147,
+   "level": 4,
+   "parent": 146,
+   "text": "五大理念主张明确正确方向"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

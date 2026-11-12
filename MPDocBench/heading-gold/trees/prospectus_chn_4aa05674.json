@@ -1,0 +1,85 @@
+{
+ "doc": "prospectus_chn_4aa05674",
+ "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections and 第X节; L3 一、; L4 （一）. Cover issuer name/English name/address/sponsor are text.",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "首次公开发行股票并在科创板上市招股说明书"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 7,
+   "text": "声明"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 7,
+   "text": "本次发行概况"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 7,
+   "text": "目录"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 7,
+   "text": "第一节 释义"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 41,
+   "text": "一、一般术语"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 41,
+   "text": "二、专业术语"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 7,
+   "text": "第二节 概览"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 71,
+   "text": "一、重大事项提示"
+  },
+  {
+   "anno": 76,
+   "level": 4,
+   "parent": 73,
+   "text": "（一）发行人行业经验及影响力、市场占有率、经营规模等方面和行业龙头存在差距的风险",
+   "note": "bold (一) risk heading, text_block missed by gold"
+  },
+  {
+   "anno": 79,
+   "level": 4,
+   "parent": 73,
+   "text": "（二）关联交易占比较高的风险",
+   "note": "bold (二) risk heading, text_block missed by gold"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "issuer name on cover"
+  },
+  {
+   "anno": 4,
+   "note": "issuer English name on cover"
+  }
+ ],
+ "repeats": []
+}

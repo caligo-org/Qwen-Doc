@@ -1,0 +1,217 @@
+{
+ "doc": "nationalStandard_chn_733bf6f5",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "婴幼儿及儿童纺织产品安全技术规范 Safety technical code for infants and children textile products",
+   "merge": [
+    6
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 5,
+   "text": "前言"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 37,
+   "text": "3.1 纺织产品 textile products",
+   "merge": [
+    40
+   ],
+   "note": "term entry: 3.1 + 纺织产品 textile products"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 37,
+   "text": "3.2 婴幼儿纺织产品 textile products for infants",
+   "merge": [
+    44
+   ],
+   "note": "term entry: 3.2 + 婴幼儿纺织产品 textile products for infants"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 37,
+   "text": "3.3 儿童纺织产品 textile products for children",
+   "merge": [
+    49
+   ],
+   "note": "term entry: 3.3 + 儿童纺织产品 textile products for children"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 37,
+   "text": "3.4 直接接触皮肤的纺织产品 textile products with direct contact to skin",
+   "merge": [
+    55
+   ],
+   "note": "term entry: 3.4 + 直接接触皮肤的纺织产品 textile products with direct contact to skin"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 37,
+   "text": "3.5 非直接接触皮肤的纺织产品 textile products without direct contact to skin",
+   "merge": [
+    59
+   ],
+   "note": "term entry: 3.5 + 非直接接触皮肤的纺织产品 textile products without direct contact to skin"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 37,
+   "text": "3.6 附件 attached components",
+   "merge": [
+    63
+   ],
+   "note": "term entry: 3.6 + 附件 attached components"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 37,
+   "text": "3.7 绳带 cords and drawstrings",
+   "merge": [
+    66
+   ],
+   "note": "term entry: 3.7 + 绳带 cords and drawstrings"
+  },
+  {
+   "anno": 68,
+   "level": 2,
+   "parent": 5,
+   "text": "4 要求"
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 68,
+   "text": "4.1 总则"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 68,
+   "text": "4.2 织物的要求"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 68,
+   "text": "4.3 填充物的要求"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 68,
+   "text": "4.4 附件的要求"
+  },
+  {
+   "anno": 100,
+   "level": 3,
+   "parent": 68,
+   "text": "4.5 其他要求"
+  },
+  {
+   "anno": 104,
+   "level": 2,
+   "parent": 5,
+   "text": "5 试验方法"
+  },
+  {
+   "anno": 112,
+   "level": 2,
+   "parent": 5,
+   "text": "6 检验规则"
+  },
+  {
+   "anno": 119,
+   "level": 2,
+   "parent": 5,
+   "text": "附录A（规范性附录）附件抗拉强力试验方法"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 119,
+   "text": "A.1 原理"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 119,
+   "text": "A.2 设备"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 119,
+   "text": "A.3 样品"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 119,
+   "text": "A.4 步骤"
+  },
+  {
+   "anno": 131,
+   "level": 4,
+   "parent": 130,
+   "text": "A.4.1 抗拉强力试验"
+  },
+  {
+   "anno": 139,
+   "level": 4,
+   "parent": 130,
+   "text": "A.4.2 洗涤试验"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 119,
+   "text": "A.5 试验报告"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 21,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

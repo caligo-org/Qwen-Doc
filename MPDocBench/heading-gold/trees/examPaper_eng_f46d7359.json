@@ -1,0 +1,49 @@
+{
+ "doc": "examPaper_eng_f46d7359",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Distributing Candies"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "Implementation Details"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 3,
+   "text": "Examples"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 15,
+   "text": "Example 1"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 3,
+   "text": "Constraints"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 3,
+   "text": "Subtasks"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 3,
+   "text": "Sample Grader"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

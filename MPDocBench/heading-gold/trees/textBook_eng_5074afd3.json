@@ -1,0 +1,87 @@
+{
+ "doc": "textBook_eng_5074afd3",
+ "notation": "textBook-v2: L1 cover title; L2 front-matter titles; L3 preface subsections.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Introduction to GNU Octave A brief tutorial for linear algebra and calculus students",
+   "note": "cover title + subtitle in one box"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 1,
+   "text": "Preface"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 19,
+   "text": "How to use this book"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 19,
+   "text": "MATLAB"
+  },
+  {
+   "anno": 30,
+   "level": 3,
+   "parent": 19,
+   "text": "Formatting"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 19,
+   "text": "Feedback"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 19,
+   "text": "Revision history"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 35,
+   "note": "code-listing caption (Octave Script 1: Example)"
+  },
+  {
+   "anno": 46,
+   "note": "edition label of a revision-history list entry"
+  },
+  {
+   "anno": 49,
+   "note": "edition label of a revision-history list entry"
+  },
+  {
+   "anno": 54,
+   "note": "edition label of a revision-history list entry"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 4,
+   "of": 1
+  },
+  {
+   "anno": 17,
+   "of": 14
+  },
+  {
+   "anno": 29,
+   "of": 19
+  }
+ ]
+}

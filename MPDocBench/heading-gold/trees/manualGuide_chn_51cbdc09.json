@@ -1,0 +1,152 @@
+{
+ "doc": "manualGuide_chn_51cbdc09",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "序言",
+   "note": "no printed document title in this excerpt; chapter titles are the top level"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 4,
+   "text": "本手册编排介绍"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 4,
+   "text": "技术支持"
+  },
+  {
+   "anno": 16,
+   "level": 1,
+   "parent": "root",
+   "text": "目录"
+  },
+  {
+   "anno": 27,
+   "level": 1,
+   "parent": "root",
+   "text": "简介"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 27,
+   "text": "概述"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 27,
+   "text": "特征"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 30,
+   "text": "主板SB-810的主要配置"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 30,
+   "text": "CPU"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 30,
+   "text": "CRT接口"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 30,
+   "text": "LCD接口"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 30,
+   "text": "串口"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 30,
+   "text": "并口"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 30,
+   "text": "IDE接口"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 30,
+   "text": "DOC接口"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 30,
+   "text": "FDC接口"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 30,
+   "text": "USB接口"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 30,
+   "text": "网络接口"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 30,
+   "text": "声卡接口"
+  },
+  {
+   "anno": 69,
+   "level": 3,
+   "parent": 30,
+   "text": "物理特征"
+  },
+  {
+   "anno": 71,
+   "level": 1,
+   "parent": "root",
+   "text": "产品特征"
+  },
+  {
+   "anno": 72,
+   "level": 2,
+   "parent": 71,
+   "text": "功能原理示意图"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 71,
+   "text": "接口示意图"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 71,
+   "text": "主板机械示意图"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

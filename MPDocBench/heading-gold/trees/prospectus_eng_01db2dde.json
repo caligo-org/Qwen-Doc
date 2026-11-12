@@ -1,0 +1,56 @@
+{
+ "doc": "prospectus_eng_01db2dde",
+ "notation": "prospectus-v2: L1 cover document title (Prospectus + date line); fund/issuer name is text. L2 front-matter sections (WARNING, TABLE OF CONTENTS, ORGANISATION) and PART I/II; L3 numbered chapters and front-matter subheads.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus September 2015"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "WARNING"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 12,
+   "text": "Handling of data",
+   "note": "underlined subhead inside WARNING"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 2,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 2,
+   "text": "ORGANISATION"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 2,
+   "text": "PART I - GENERAL INFORMATION"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 56,
+   "text": "1. THE SICAV"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover; document title is the Prospectus line"
+  }
+ ],
+ "repeats": []
+}

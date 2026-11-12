@@ -1,0 +1,84 @@
+{
+ "doc": "paper_chn_3567e55d",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "太阳系行星际航天器外热流计算方法研究"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 6,
+   "text": "1 外热流计算方法"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 30,
+   "text": "1.1 航天器模型与互视遮挡判断"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 30,
+   "text": "1.2 \\(S, E_{2}, E_{3}\\) 的计算"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 30,
+   "text": "1.3 角系数计算"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.1 太阳辐射角系数 \\(F_{1}\\) 的计算"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.2 各行星以及行星自然卫星红外辐射角系数 \\(F_{2}\\) 的计算"
+  },
+  {
+   "anno": 74,
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.3 各行星以及行星自然卫星反照角系数 \\(F_{3}\\) 的计算"
+  },
+  {
+   "anno": 85,
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.4 遮挡问题"
+  },
+  {
+   "anno": 87,
+   "level": 2,
+   "parent": 6,
+   "text": "2 方案总结与计算结果分析"
+  },
+  {
+   "anno": 114,
+   "level": 2,
+   "parent": 6,
+   "text": "3结论"
+  },
+  {
+   "anno": 117,
+   "level": 2,
+   "parent": 6,
+   "text": "参考文献："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 14,
+   "note": "English translation of the title"
+  }
+ ],
+ "repeats": []
+}

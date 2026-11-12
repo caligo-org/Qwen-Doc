@@ -1,0 +1,36 @@
+{
+ "doc": "manualGuide_eng_8d2c3220",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD",
+   "merge": [
+    3
+   ],
+   "note": "manual type + product/model box merged; document number line left out of the text"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 2,
+   "text": "EG-conformiteitsverklaring",
+   "note": "missed: title of the declaration box (boxed as header)"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "Voorwoord",
+   "note": "running section tag printed on the first page of the foreword, the only printed name of that section"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 10,
+   "note": "manufacturer name inside the declaration text"
+  }
+ ],
+ "repeats": []
+}

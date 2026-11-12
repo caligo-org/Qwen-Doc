@@ -1,0 +1,154 @@
+{
+ "doc": "prospectus_eng_51f57153",
+ "notation": "prospectus-v2: L1 cover document title (Prospectus); fund name text. L2 navy section titles; L3 navy bold subsections; L4 black bold subheads (investment manager names). Directory labels on the Administration page and list labels (Man Sub-Funds:) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 2,
+   "text": "Important notices"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 2,
+   "text": "Table of contents"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 2,
+   "text": "Administration"
+  },
+  {
+   "anno": 77,
+   "level": 2,
+   "parent": 2,
+   "text": "The Fund"
+  },
+  {
+   "anno": 105,
+   "level": 2,
+   "parent": 2,
+   "text": "Management"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 105,
+   "text": "Board of Directors and senior management"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 105,
+   "text": "Management Company"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 105,
+   "text": "Investment Managers"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 127,
+   "text": "Man Investments (CH) AG",
+   "note": "black bold, smaller than navy L3 subsections"
+  },
+  {
+   "anno": 135,
+   "level": 4,
+   "parent": 127,
+   "text": "Man Investments Ltd."
+  },
+  {
+   "anno": 137,
+   "level": 4,
+   "parent": 127,
+   "text": "GLG Partners LP"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 39,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 40,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 42,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 45,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 47,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 49,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 54,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 57,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 59,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 63,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 67,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 69,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 71,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 73,
+   "note": "directory label (names/addresses list)"
+  },
+  {
+   "anno": 92,
+   "note": "list label introducing a list of sub-fund names"
+  },
+  {
+   "anno": 99,
+   "note": "list label introducing a list of sub-fund names"
+  },
+  {
+   "anno": 102,
+   "note": "list label introducing a list of sub-fund names"
+  }
+ ],
+ "repeats": []
+}

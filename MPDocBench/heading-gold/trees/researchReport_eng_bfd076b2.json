@@ -1,0 +1,50 @@
+{
+ "doc": "researchReport_eng_bfd076b2",
+ "notation": "researchReport (English economics note): L1 headline (series kicker Japan Economics Analyst shares the box and is text); the headline restated above the body is text; L2 parts, L3 numbered/sub sections, L4 their subheads.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "2023 Outlook: Focus on Wage Growth and BOJ Leadership Change",
+   "note": "the box also holds the series kicker"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 4,
+   "text": "Global Economic Outlook"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 16,
+   "text": "Further Slowdown Expected in 2023"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 4,
+   "text": "Japan's Economic Outlook"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 30,
+   "text": "1. Executive Summary"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 31,
+   "text": "Softening External Demand a Drag, but Reopening and Robust Capex to Maintain Above-Potential Growth"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 15,
+   "of": 4
+  }
+ ]
+}

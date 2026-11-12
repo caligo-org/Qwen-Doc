@@ -1,0 +1,349 @@
+{
+ "doc": "prospectus_eng_4da61756",
+ "notation": "prospectus-v2: L1 cover document title (Sales Prospectus with Management Regulations); fund name on cover and repeated title page are text. L2 TABLE OF CONTENTS and part banner SALES PROSPECTUS; L3 numbered sections and FUND OVERVIEW / MANAGEMENT AND ADMINISTRATION (part of A. SALES PROSPECTUS per contents); L4 sub-fund and risk subheads. Directory labels in MANAGEMENT AND ADMINISTRATION are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Sales Prospectus with Management Regulations",
+   "note": "cover document title"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 2,
+   "text": "SALES PROSPECTUS"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 16,
+   "text": "1. The Fund"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 16,
+   "text": "2. Investment Policy"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 27,
+   "text": "Bantleon Return"
+  },
+  {
+   "anno": 31,
+   "level": 4,
+   "parent": 27,
+   "text": "Bantleon Yield"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 27,
+   "text": "Bantleon Strategie"
+  },
+  {
+   "anno": 37,
+   "level": 4,
+   "parent": 27,
+   "text": "Bantleon Trend"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 27,
+   "text": "Bantleon Dynamic"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 16,
+   "text": "3. Risk Warning"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 46,
+   "text": "General"
+  },
+  {
+   "anno": 51,
+   "level": 4,
+   "parent": 46,
+   "text": "Risk Management"
+  },
+  {
+   "anno": 53,
+   "level": 4,
+   "parent": 46,
+   "text": "Leverage"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 46,
+   "text": "Market Risk"
+  },
+  {
+   "anno": 59,
+   "level": 4,
+   "parent": 46,
+   "text": "Interest Rate Risk"
+  },
+  {
+   "anno": 62,
+   "level": 4,
+   "parent": 46,
+   "text": "Credit Risk"
+  },
+  {
+   "anno": 67,
+   "level": 4,
+   "parent": 46,
+   "text": "Counter Party Risk"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 46,
+   "text": "Concentration Risk"
+  },
+  {
+   "anno": 71,
+   "level": 4,
+   "parent": 46,
+   "text": "Country or Transfer Risk"
+  },
+  {
+   "anno": 73,
+   "level": 4,
+   "parent": 46,
+   "text": "Custody Risk"
+  },
+  {
+   "anno": 75,
+   "level": 4,
+   "parent": 46,
+   "text": "Political Risk/Regulatory Risk"
+  },
+  {
+   "anno": 77,
+   "level": 4,
+   "parent": 46,
+   "text": "Inflation Risk"
+  },
+  {
+   "anno": 79,
+   "level": 4,
+   "parent": 46,
+   "text": "Key Persons Risk"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 46,
+   "text": "Change in Investment Policy"
+  },
+  {
+   "anno": 83,
+   "level": 4,
+   "parent": 46,
+   "text": "Change of Management Regulations; Dissolution or Merger"
+  },
+  {
+   "anno": 85,
+   "level": 4,
+   "parent": 46,
+   "text": "Liquidity Risk"
+  },
+  {
+   "anno": 87,
+   "level": 4,
+   "parent": 46,
+   "text": "Risks Associated with Derivative Transactions"
+  },
+  {
+   "anno": 91,
+   "level": 4,
+   "parent": 46,
+   "text": "Risk of Increased Sales"
+  },
+  {
+   "anno": 93,
+   "level": 3,
+   "parent": 16,
+   "text": "4. Investor Profile"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 16,
+   "text": "5. The Management Company"
+  },
+  {
+   "anno": 102,
+   "level": 3,
+   "parent": 16,
+   "text": "6. The Depositary Bank"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 16,
+   "text": "7. Management and Transfer Agent"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 16,
+   "text": "8. Prevention of Money Laundering"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 16,
+   "text": "9. Shares"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 16,
+   "text": "10. Share Prices"
+  },
+  {
+   "anno": 125,
+   "level": 3,
+   "parent": 16,
+   "text": "11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 16,
+   "text": "12. Charges and Fees"
+  },
+  {
+   "anno": 153,
+   "level": 3,
+   "parent": 16,
+   "text": "13. Further Notes"
+  },
+  {
+   "anno": 164,
+   "level": 3,
+   "parent": 16,
+   "text": "14. Publications and Information"
+  },
+  {
+   "anno": 167,
+   "level": 3,
+   "parent": 16,
+   "text": "15. The Management Regulations"
+  },
+  {
+   "anno": 169,
+   "level": 3,
+   "parent": 16,
+   "text": "16. Combating Market Timing and Late Trading Activities"
+  },
+  {
+   "anno": 174,
+   "level": 3,
+   "parent": 16,
+   "text": "FUND OVERVIEW",
+   "note": "listed under A. SALES PROSPECTUS in the contents; same style as numbered sections"
+  },
+  {
+   "anno": 178,
+   "level": 3,
+   "parent": 16,
+   "text": "MANAGEMENT AND ADMINISTRATION",
+   "note": "listed under A. SALES PROSPECTUS in the contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 128,
+   "note": "table title (label above an issue-surcharge table)"
+  },
+  {
+   "anno": 130,
+   "note": "table title (label above an issue-surcharge table)"
+  },
+  {
+   "anno": 179,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 186,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 188,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 190,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 192,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 194,
+   "note": "directory label (service provider name/address list)"
+  },
+  {
+   "anno": 201,
+   "note": "directory label (service provider name/address list)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 5,
+   "of": 2
+  },
+  {
+   "anno": 43,
+   "of": 2
+  },
+  {
+   "anno": 65,
+   "of": 16
+  },
+  {
+   "anno": 99,
+   "of": 2
+  },
+  {
+   "anno": 122,
+   "of": 16
+  },
+  {
+   "anno": 158,
+   "of": 2
+  },
+  {
+   "anno": 173,
+   "of": 16
+  },
+  {
+   "anno": 177,
+   "of": 2
+  }
+ ]
+}

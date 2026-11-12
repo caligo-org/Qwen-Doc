@@ -1,0 +1,32 @@
+{
+ "doc": "goverment_chn_c5e69969",
+ "notation": "goverment-v2: L1 regulation title; L2 第N章; 第N条 articles are run-in text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "无人驾驶航空器飞行管理暂行条例"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 民用无人驾驶航空器及操控员管理"
+  },
+  {
+   "anno": 59,
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 空域和飞行活动管理"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

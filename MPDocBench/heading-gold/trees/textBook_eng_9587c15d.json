@@ -1,0 +1,69 @@
+{
+ "doc": "textBook_eng_9587c15d",
+ "notation": "textBook-v2: L1 cover title; L2 front-matter titles; L3 preface subsections.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Electrolysers, Fuel Cells and Batteries: Analytical modelling"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 1,
+   "text": "Preface"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 11,
+   "text": "Prerequisites"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 11,
+   "text": "Reader guidelines"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 11,
+   "text": "Content"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 11,
+   "text": "Acknowledgements"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 1,
+   "text": "Nomenclature"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 4,
+   "of": 1
+  },
+  {
+   "anno": 32,
+   "of": 27
+  },
+  {
+   "anno": 37,
+   "of": 27
+  }
+ ]
+}

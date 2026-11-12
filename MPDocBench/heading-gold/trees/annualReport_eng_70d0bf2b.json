@@ -1,0 +1,25 @@
+{
+ "doc": "annualReport_eng_70d0bf2b",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Annual Report October 31, 2022",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 2,
+   "text": "Letter to Shareholders"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund name; company name is text; L1 = the document title only (user decision 2026-11-12)"
+  }
+ ],
+ "repeats": []
+}

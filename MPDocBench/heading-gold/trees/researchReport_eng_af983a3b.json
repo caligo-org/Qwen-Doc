@@ -1,0 +1,65 @@
+{
+ "doc": "researchReport_eng_af983a3b",
+ "notation": "researchReport (English economics note): L1 headline; the headline restated above the body is text; L2 the numbered questions. Series kicker (US Economics Analyst) above the headline is text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "10 Questions on the Political and Policy Outlook for 2022 (Phillips)"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 5,
+   "text": "1. Will Congress pass any reconciliation package this year?"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 5,
+   "text": "2. Will Congress pass any legislation this year to increase spending?"
+  },
+  {
+   "anno": 51,
+   "level": 2,
+   "parent": 5,
+   "text": "3. Will any of that legislation boost spending in 2022?"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 5,
+   "text": "4. What will happen to the expanded Child Tax Credit?"
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 5,
+   "text": "5. Will Congress pass tax increases in 2022?"
+  },
+  {
+   "anno": 86,
+   "level": 2,
+   "parent": 5,
+   "text": "6. Will Medicare drug pricing be cut?"
+  },
+  {
+   "anno": 88,
+   "level": 2,
+   "parent": 5,
+   "text": "7 Will Democrats meaningfully weaken (or eliminate) the filibuster in the Senate?"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "US Economics Analyst: series kicker above the headline"
+  },
+  {
+   "anno": 20,
+   "note": "headline restated at the top of the body"
+  }
+ ],
+ "repeats": []
+}

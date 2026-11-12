@@ -1,0 +1,58 @@
+{
+ "doc": "textBook_chn_6bc808b4",
+ "notation": "textBook-v2 (人教A版 数学): L1 cover subject title; L2 front matter and chapters; L3 numbered sections.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "数学",
+   "note": "cover title; 选择性必修/第三册/A版 are text"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 3,
+   "text": "本册导引"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 3,
+   "text": "第六章 计数原理",
+   "note": "chapter label + title in one box"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 34,
+   "text": "6.1 分类加法计数原理与分步乘法计数原理"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 40,
+   "note": "callout label 思考"
+  },
+  {
+   "anno": 45,
+   "note": "callout label 探究"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 3
+  },
+  {
+   "anno": 57,
+   "of": 34
+  }
+ ]
+}

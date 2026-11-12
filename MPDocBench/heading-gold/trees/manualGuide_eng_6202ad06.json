@@ -1,0 +1,206 @@
+{
+ "doc": "manualGuide_eng_6202ad06",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING",
+   "merge": [
+    3
+   ],
+   "note": "manual type + product line (missed) merged"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "DESIGNER SHAKE™ LAP SIDING",
+   "note": "product name restated as the head of the installation part; same look as the warranty and care heads (L2)"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 9,
+   "text": "Warranty Requirements"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 9,
+   "text": "Proper Storage"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 9,
+   "text": "Construction Essentials"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 19,
+   "text": "A. FRAMING"
+  },
+  {
+   "anno": 25,
+   "level": 4,
+   "parent": 19,
+   "text": "B. SHEATHING"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 19,
+   "text": "C. VAPOR BARRIERS, VENTILATION AND MOISTURE CONTROL"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 9,
+   "text": "Proper Installation"
+  },
+  {
+   "anno": 35,
+   "level": 4,
+   "parent": 34,
+   "text": "A. FASTENING"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 34,
+   "text": "B. GAPS, CLEARANCES, AND CORNERS"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 34,
+   "text": "C. CAULKING"
+  },
+  {
+   "anno": 60,
+   "level": 4,
+   "parent": 34,
+   "text": "D. PAINTING"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 9,
+   "text": "Installation Errors That Void the Warranty"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 9,
+   "text": "Key Homeowner Maintenance Responsibilities"
+  },
+  {
+   "anno": 89,
+   "level": 3,
+   "parent": 9,
+   "text": "Codes and Standards"
+  },
+  {
+   "anno": 100,
+   "level": 3,
+   "parent": 9,
+   "text": "Product Guidelines"
+  },
+  {
+   "anno": 113,
+   "level": 3,
+   "parent": 9,
+   "text": "California WUI Application Requirements"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 9,
+   "text": "Additional Requirements"
+  },
+  {
+   "anno": 119,
+   "level": 4,
+   "parent": 116,
+   "text": "Designer Shake Style Examples"
+  },
+  {
+   "anno": 133,
+   "level": 2,
+   "parent": 2,
+   "text": "TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY"
+  },
+  {
+   "anno": 134,
+   "level": 3,
+   "parent": 133,
+   "text": "1. LIMITED WARRANTY - TRANSFERABLE WARRANTY COVERAGE"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 133,
+   "text": "2. WARRANTY REMEDIES"
+  },
+  {
+   "anno": 141,
+   "level": 3,
+   "parent": 133,
+   "text": "3. WARRANTY LIMITATIONS"
+  },
+  {
+   "anno": 144,
+   "level": 3,
+   "parent": 133,
+   "text": "4. EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 133,
+   "text": "5. ADDITIONAL EXCLUSIONS"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 133,
+   "text": "6. STATE LAW"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 133,
+   "text": "7. CONTACT US"
+  },
+  {
+   "anno": 155,
+   "level": 2,
+   "parent": 2,
+   "text": "CARE AND MAINTENANCE"
+  },
+  {
+   "anno": 169,
+   "level": 3,
+   "parent": 155,
+   "text": "CONTACT US"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 135,
+   "note": "bold caps opening sentence of the clause (text)"
+  },
+  {
+   "anno": 138,
+   "note": "bold caps opening sentence of the clause (text)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 99,
+   "of": 9
+  }
+ ]
+}

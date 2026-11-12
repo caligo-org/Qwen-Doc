@@ -1,0 +1,66 @@
+{
+ "doc": "magazine_chn_5997ac40",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "知音 海外版",
+   "note": "masthead"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 2,
+   "text": "一滴墨香",
+   "note": "running section tag (vertical)"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 39,
+   "text": "荆棘上的雨滴",
+   "note": "poem title"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 2,
+   "text": "目录 CONTENTS",
+   "note": "contents title"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 14,
+   "note": "ad page (header 广告): subscription ad headline"
+  },
+  {
+   "anno": 20,
+   "note": "ad page: label in subscription ad"
+  },
+  {
+   "anno": 40,
+   "note": "masthead repeated on the colophon/contents page"
+  },
+  {
+   "anno": 52,
+   "note": "logo in the colophon column"
+  },
+  {
+   "anno": 57,
+   "note": "colophon-column notice box"
+  },
+  {
+   "anno": 61,
+   "note": "colophon-column recruiting notice"
+  },
+  {
+   "anno": 66,
+   "note": "colophon-column bank-account box"
+  }
+ ],
+ "repeats": []
+}

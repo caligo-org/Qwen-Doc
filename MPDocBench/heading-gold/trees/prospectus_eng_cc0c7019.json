@@ -1,0 +1,102 @@
+{
+ "doc": "prospectus_eng_cc0c7019",
+ "notation": "prospectus-v2: L1 cover document title (Prospectus); fund name, address and legal-form lines text. L2 top sections (TABLE OF CONTENTS, ADDITIONAL INFORMATION..., GENERAL PRESENTATION..., BOOK I ...); L3 small-caps sections (INTRODUCTION, REQUEST INFORMATION, NB, CONTACTS, LEGAL STRUCTURE). Directory labels under CONTACTS and list lead-ins are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 5,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 5,
+   "text": "ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 5,
+   "text": "GENERAL PRESENTATION OF THE PROSPECTUS"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 27,
+   "text": "INTRODUCTION"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 27,
+   "text": "REQUEST INFORMATION"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 27,
+   "text": "NB"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 5,
+   "text": "BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 48,
+   "text": "CONTACTS"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 48,
+   "text": "LEGAL STRUCTURE",
+   "note": "section of Book I after CONTACTS (not a directory entry)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 34,
+   "note": "bold lead-in introducing a bullet list"
+  },
+  {
+   "anno": 50,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  },
+  {
+   "anno": 52,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  },
+  {
+   "anno": 58,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  },
+  {
+   "anno": 61,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  },
+  {
+   "anno": 63,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  },
+  {
+   "anno": 65,
+   "note": "directory label (names/addresses list under CONTACTS)"
+  }
+ ],
+ "repeats": []
+}

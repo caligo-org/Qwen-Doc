@@ -1,0 +1,109 @@
+{
+ "doc": "financialReport_chn_58dd29fc",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "审计报告"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 2,
+   "text": "目录"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 2,
+   "text": "审计报告"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 14,
+   "text": "一、审计意见"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 14,
+   "text": "二、形成审计意见的基础"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 14,
+   "text": "三、关键审计事项"
+  },
+  {
+   "anno": 24,
+   "level": 4,
+   "parent": 22,
+   "text": "（一）收入确认"
+  },
+  {
+   "anno": 25,
+   "level": 5,
+   "parent": 24,
+   "text": "1、事项描述"
+  },
+  {
+   "anno": 32,
+   "level": 5,
+   "parent": 24,
+   "text": "2、审计应对"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 22,
+   "text": "（二）应收账款减值"
+  },
+  {
+   "anno": 45,
+   "level": 5,
+   "parent": 44,
+   "text": "1、事项描述"
+  },
+  {
+   "anno": 50,
+   "level": 5,
+   "parent": 44,
+   "text": "2、审计应对"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 14,
+   "text": "四、其他信息"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 14,
+   "text": "五、管理层和治理层对财务报表的责任"
+  },
+  {
+   "anno": 74,
+   "level": 3,
+   "parent": 14,
+   "text": "六、注册会计师对财务报表审计的责任"
+  },
+  {
+   "anno": 105,
+   "level": 2,
+   "parent": 2,
+   "text": "合并资产负债表"
+  },
+  {
+   "anno": 120,
+   "level": 2,
+   "parent": 2,
+   "text": "合并利润表"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

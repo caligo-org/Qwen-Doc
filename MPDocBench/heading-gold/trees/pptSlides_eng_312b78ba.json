@@ -1,0 +1,287 @@
+{
+ "doc": "pptSlides_eng_312b78ba",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Regional Key Account Strategy L'ORÉAL NORTH AMERICA"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL GROUP"
+  },
+  {
+   "anno": 7,
+   "level": 3,
+   "parent": 6,
+   "text": "Company Background"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 1,
+   "text": "Sales Performance by Market"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL – R&D, a Key to Success"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 41,
+   "text": "RESEARCH & DEVELOPMENT"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 41,
+   "text": "STRATEGIC DIRECTION:"
+  },
+  {
+   "anno": 61,
+   "level": 4,
+   "parent": 55,
+   "text": "Local research and adaptation of products",
+   "note": "subhead inside the pasted report excerpt"
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL in North America"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 67,
+   "text": "STRATEGIC DIRECTION"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 67,
+   "text": "PRODUCTION"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 67,
+   "text": "COMPETITIVE POSITIONING"
+  },
+  {
+   "anno": 89,
+   "level": 2,
+   "parent": 1,
+   "text": "Overview : North America"
+  },
+  {
+   "anno": 90,
+   "level": 3,
+   "parent": 89,
+   "text": "Key Financial Figures NA –Q1-12"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 89,
+   "text": "NA Sales as a % of Total BPC"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 89,
+   "text": "North American"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 89,
+   "text": "Operational Goals (see backup)"
+  },
+  {
+   "anno": 114,
+   "level": 2,
+   "parent": 1,
+   "text": "SWOT – L'Oréal Groupe"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 114,
+   "text": "Dedicated focus on BPC"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 114,
+   "text": "Products across different pricing tiers"
+  },
+  {
+   "anno": 119,
+   "level": 3,
+   "parent": 114,
+   "text": "Not utilising The Body Shop opportunity"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 114,
+   "text": "Organization"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 114,
+   "text": "Naturally-positioned cosmetics"
+  },
+  {
+   "anno": 129,
+   "level": 3,
+   "parent": 114,
+   "text": "Value-seeking consumers"
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 114,
+   "text": "Growing competition in the emerging countries"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 114,
+   "text": "Economic Issues"
+  },
+  {
+   "anno": 139,
+   "level": 2,
+   "parent": 1,
+   "text": "Strategic objectives and challenges"
+  },
+  {
+   "anno": 140,
+   "level": 3,
+   "parent": 139,
+   "text": "Doubling of consumer base"
+  },
+  {
+   "anno": 142,
+   "level": 3,
+   "parent": 139,
+   "text": "Regional expansion"
+  },
+  {
+   "anno": 144,
+   "level": 3,
+   "parent": 139,
+   "text": "Category expansion"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 139,
+   "text": "Sustainable development"
+  },
+  {
+   "anno": 150,
+   "level": 2,
+   "parent": 1,
+   "text": "Detailed strategies to expand consumer base"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 150,
+   "text": "Reach one billion new consumers"
+  },
+  {
+   "anno": 160,
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL Portfolio of Brands"
+  },
+  {
+   "anno": 161,
+   "level": 3,
+   "parent": 160,
+   "text": "OUR Brands"
+  },
+  {
+   "anno": 164,
+   "level": 4,
+   "parent": 161,
+   "text": "CONSUMER PRODUCTS"
+  },
+  {
+   "anno": 167,
+   "level": 4,
+   "parent": 161,
+   "text": "PROFESSIONAL PRODUCTS"
+  },
+  {
+   "anno": 170,
+   "level": 4,
+   "parent": 161,
+   "text": "LUXURY PRODUCTS"
+  },
+  {
+   "anno": 173,
+   "level": 4,
+   "parent": 161,
+   "text": "ACTIVE COSMETICS"
+  },
+  {
+   "anno": 176,
+   "level": 4,
+   "parent": 161,
+   "text": "THE BODY SHOP"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 10,
+   "note": "title of an embedded data panel (chart/table title)"
+  },
+  {
+   "anno": 13,
+   "note": "chart title"
+  },
+  {
+   "anno": 15,
+   "note": "chart title"
+  },
+  {
+   "anno": 17,
+   "note": "table title"
+  },
+  {
+   "anno": 19,
+   "note": "table title"
+  },
+  {
+   "anno": 21,
+   "note": "chart title"
+  },
+  {
+   "anno": 47,
+   "note": "table title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 54,
+   "of": 41
+  },
+  {
+   "anno": 78,
+   "of": 67
+  }
+ ]
+}

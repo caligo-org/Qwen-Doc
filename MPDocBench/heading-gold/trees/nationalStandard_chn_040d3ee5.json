@@ -1,0 +1,225 @@
+{
+ "doc": "nationalStandard_chn_040d3ee5",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "商品煤质量 民用型煤 Commercial coal quality—Civil briquette",
+   "merge": [
+    6
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 5,
+   "text": "前言"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 44,
+   "text": "3.1 商品煤 commercial coal",
+   "merge": [
+    47
+   ]
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 44,
+   "text": "3.2 动力用煤 steam coal",
+   "merge": [
+    53
+   ]
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 44,
+   "text": "3.3 民用煤 civil coal",
+   "merge": [
+    58
+   ]
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 44,
+   "text": "3.4 民用散煤 civil bulk coal",
+   "merge": [
+    61
+   ]
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 44,
+   "text": "3.5 民用型煤 civil briquette",
+   "merge": [
+    64
+   ]
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 44,
+   "text": "3.6 冷压强度 cold compressive strength",
+   "merge": [
+    67
+   ]
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 44,
+   "text": "3.7 落下强度 shatter strength",
+   "merge": [
+    71
+   ]
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 44,
+   "text": "3.8 限下率 undersize fraction",
+   "merge": [
+    74
+   ]
+  },
+  {
+   "anno": 77,
+   "level": 2,
+   "parent": 5,
+   "text": "4 原料要求"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 5,
+   "text": "5 产品分类"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 5,
+   "text": "6 要求和试验方法"
+  },
+  {
+   "anno": 93,
+   "level": 2,
+   "parent": 5,
+   "text": "7 检验规则"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 93,
+   "text": "7.1 组批"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 93,
+   "text": "7.2 采样与制备"
+  },
+  {
+   "anno": 97,
+   "level": 4,
+   "parent": 96,
+   "text": "7.2.1 蜂窝煤"
+  },
+  {
+   "anno": 99,
+   "level": 4,
+   "parent": 96,
+   "text": "7.2.2 其他型煤"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 93,
+   "text": "7.3 出厂检验"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 93,
+   "text": "7.4 型式检验"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 93,
+   "text": "7.5 判定规则"
+  },
+  {
+   "anno": 118,
+   "level": 2,
+   "parent": 5,
+   "text": "8 包装、标识、运输及贮存"
+  },
+  {
+   "anno": 119,
+   "level": 3,
+   "parent": 118,
+   "text": "8.1 包装"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 118,
+   "text": "8.2 标识"
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 118,
+   "text": "8.3 运输、卸装及贮存"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 20,
+   "note": "title restated above clause 1"
+  },
+  {
+   "anno": 54,
+   "note": "permitted synonym of the term (动力煤)"
+  },
+  {
+   "anno": 106,
+   "note": "untitled numbered clause (number + sentence)"
+  },
+  {
+   "anno": 114,
+   "note": "untitled numbered clause (number + sentence)"
+  }
+ ],
+ "repeats": []
+}

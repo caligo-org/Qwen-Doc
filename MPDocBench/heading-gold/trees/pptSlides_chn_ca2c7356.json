@@ -1,0 +1,79 @@
+{
+ "doc": "pptSlides_chn_ca2c7356",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "第二章 连续信号的分析",
+   "note": "deck title; course name above is the series line"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "连续信号的时域描述和分析",
+   "note": "overview slide listing the part's topics: divider"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 9,
+   "text": "(一) 时域描述"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 20,
+   "text": "普通信号的时域描述",
+   "note": "arrow-marked block title"
+  },
+  {
+   "anno": 25,
+   "level": 4,
+   "parent": 20,
+   "text": "奇异信号的描述"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 20,
+   "text": "普通信号：正弦信号",
+   "note": "slide title (template look); placed beside the block titles of (一) because parents must come earlier in reading order"
+  },
+  {
+   "anno": 36,
+   "level": 5,
+   "parent": 34,
+   "text": "欧拉公式",
+   "note": "arrow-marked block title"
+  },
+  {
+   "anno": 38,
+   "level": 5,
+   "parent": 34,
+   "text": "取虚部则为正弦信号"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "course name printed above the chapter title (series line)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 42,
+   "of": 34
+  },
+  {
+   "anno": 49,
+   "of": 34
+  },
+  {
+   "anno": 57,
+   "of": 34
+  }
+ ]
+}

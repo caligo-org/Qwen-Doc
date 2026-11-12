@@ -1,0 +1,92 @@
+{
+ "doc": "manualGuide_eng_e665d244",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Einbauanleitung / Installation Instructions Kit CSF48",
+   "merge": [
+    3
+   ],
+   "note": "manual type line + product name merged; order numbers and logos are text"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 2,
+   "text": "1 Identifizierung"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 13,
+   "text": "1.1 Lieferumfang"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 13,
+   "text": "1.2 Werkzeugliste"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 2,
+   "text": "2 Montage"
+  },
+  {
+   "anno": 88,
+   "level": 2,
+   "parent": 2,
+   "text": "3 Identification"
+  },
+  {
+   "anno": 89,
+   "level": 3,
+   "parent": 88,
+   "text": "3.1 Scope of delivery"
+  },
+  {
+   "anno": 97,
+   "level": 3,
+   "parent": 88,
+   "text": "3.2 Tool list"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 31,
+   "note": "safety-message signal word GEFAHR"
+  },
+  {
+   "anno": 32,
+   "note": "hazard name inside the safety message box (bold first line of the callout)"
+  },
+  {
+   "anno": 36,
+   "note": "safety-message signal word WARNUNG"
+  },
+  {
+   "anno": 37,
+   "note": "hazard name inside the safety message box"
+  },
+  {
+   "anno": 40,
+   "note": "safety-message signal word VORSICHT"
+  },
+  {
+   "anno": 41,
+   "note": "hazard name inside the safety message box"
+  },
+  {
+   "anno": 45,
+   "note": "safety-message signal word HINWEIS"
+  },
+  {
+   "anno": 47,
+   "note": "hazard name inside the safety message box"
+  }
+ ],
+ "repeats": []
+}

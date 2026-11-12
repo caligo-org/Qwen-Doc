@@ -1,0 +1,115 @@
+{
+ "doc": "magazine_eng_fe444622",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "BUILD ROCK HARD ABS IN JUST 4 WEEKS",
+   "note": "guide title on the cover (Men's Fitness GUIDE is the brand line; gold OCR BULD)"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 1,
+   "text": "CONTENTS",
+   "note": "contents title"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 1,
+   "text": "INTRODUCTION WORKOUT STRUCTURE",
+   "note": "running section tag INTRODUCTION + WORKOUT STRUCTURE"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 46,
+   "text": "SESSION BREAKDOWN"
+  },
+  {
+   "anno": 50,
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 1 ABS AND LEGS",
+   "merge": [
+    51
+   ],
+   "note": "workout number label merged with its title"
+  },
+  {
+   "anno": 53,
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 2 ABS, CHEST AND BACK",
+   "merge": [
+    54
+   ]
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 3 ABS, ARMS AND SHOULDERS",
+   "merge": [
+    58
+   ]
+  },
+  {
+   "anno": 61,
+   "level": 4,
+   "parent": 47,
+   "text": "HOW TO DO THE WORKOUTS"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 47,
+   "text": "SUPERSET STRUCTURE",
+   "note": "box continuing the Session breakdown on the facing page"
+  },
+  {
+   "anno": 73,
+   "level": 5,
+   "parent": 68,
+   "text": "TEMPO EXPLAINED",
+   "note": "subhead inside the box"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 1,
+   "text": "INTRODUCTION ANATOMY",
+   "note": "running section tag INTRODUCTION + ANATOMY (sub-tag changes)"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 78,
+   "text": "KNOW YOUR MUSCLES"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "house ad (subscription, p2)"
+  },
+  {
+   "anno": 11,
+   "note": "house ad box title"
+  },
+  {
+   "anno": 44,
+   "note": "title repeated as the opener of the INTRODUCTION part (its tag on p8 carries the section name)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 22,
+   "of": 1
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "doc": "prospectus_eng_bab1780c",
+ "notation": "prospectus-v2: L1 cover document title (PROSPECTUS); fund name and legal-form line text. L2 TABLE OF CONTENTS and numbered chapters. Table titles are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "PROSPECTUS"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 3,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 3,
+   "text": "1. INTRODUCTION"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "fund (issuer) name on cover"
+  },
+  {
+   "anno": 2,
+   "note": "legal-form line on cover"
+  },
+  {
+   "anno": 22,
+   "note": "table title above the subfund overview table"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 7,
+   "of": 3
+  },
+  {
+   "anno": 13,
+   "of": 3
+  },
+  {
+   "anno": 25,
+   "of": 3
+  }
+ ]
+}

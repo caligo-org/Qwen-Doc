@@ -1,0 +1,50 @@
+{
+ "doc": "examPaper_chn_12e76eb4",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2021年高考全国乙卷物理试卷"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "二、选择题：本题共8小题，每小题6分，共48分。在每小题给出的四个选项中，第$1\\sim 5$题只有一项符合题目要求，第$6\\sim 8$题有多项符合题目要求。全部选对的得6分，选对但不全的得3分，有选错的得0分。"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 1,
+   "text": "三、非选择题：第 $9\\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\\sim 16$ 题为选考题，考生根据要求作答。"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 61,
+   "text": "（一）必考题："
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 61,
+   "text": "（二）选考题："
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 94,
+   "text": "[物理—选修3-3]",
+   "note": "elective module title"
+  },
+  {
+   "anno": 106,
+   "level": 4,
+   "parent": 94,
+   "text": "【物理——选修3-4】"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

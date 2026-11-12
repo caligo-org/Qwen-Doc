@@ -1,0 +1,26 @@
+{
+ "doc": "examPaper_eng_75d067cd",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "32nd International Mathematical Olympiad"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "First Day July 17, 1991 Time Limit: \\(4\\frac{1}{2}\\) hours",
+   "note": "paper day heading; the box also carries the date and time limit"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "Second Day July 18, 1991 Time Limit: \\(4\\frac{1}{2}\\) hours"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

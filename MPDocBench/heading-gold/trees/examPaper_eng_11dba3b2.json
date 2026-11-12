@@ -1,0 +1,49 @@
+{
+ "doc": "examPaper_eng_11dba3b2",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Nowruz"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 4,
+   "text": "Implementation details"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 4,
+   "text": "Input format"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 4,
+   "text": "Output format"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 4,
+   "text": "Constraints"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 4,
+   "text": "Scoring"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 4,
+   "text": "Example"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

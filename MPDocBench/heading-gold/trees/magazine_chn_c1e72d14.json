@@ -1,0 +1,70 @@
+{
+ "doc": "magazine_chn_c1e72d14",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "知音",
+   "note": "masthead"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "note": "contents title (box also holds the logo and the issue line)"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 2,
+   "text": "“铁脚板”站长护林29载: 一夕山中月，万里故园心",
+   "note": "article; section not printed, directly under the masthead"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 53,
+   "text": "荒山野岭中护我家园"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 53,
+   "text": "万亩林海的平凡坚守"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 53,
+   "text": "不平凡的绿水青山"
+  },
+  {
+   "anno": 135,
+   "level": 2,
+   "parent": 2,
+   "text": "『冲天辫』老妈路过人间：姐的威风永不灭",
+   "note": "article; section not printed (gold OCR 冲天辩 misread)"
+  },
+  {
+   "anno": 138,
+   "level": 3,
+   "parent": 135,
+   "text": "不扫兴妈妈是个小公主"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 31,
+   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+  },
+  {
+   "anno": 48,
+   "note": "colophon notice (本刊声明)"
+  }
+ ],
+ "repeats": []
+}

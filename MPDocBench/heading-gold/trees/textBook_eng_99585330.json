@@ -1,0 +1,101 @@
+{
+ "doc": "textBook_eng_99585330",
+ "notation": "textBook-v2: L1 cover title; L2 Contents and chapters; L3 bold section heads; L4 light-weight subheads.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "General Microbiology"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 1,
+   "text": "I. Introduction to Microbiology"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 12,
+   "text": "Characteristics of Microbes"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 12,
+   "text": "Microbe Size"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 12,
+   "text": "The Discovery of Microbes"
+  },
+  {
+   "anno": 30,
+   "level": 4,
+   "parent": 27,
+   "text": "Robert Hooke (1635-1703)",
+   "note": "lighter weight than The Discovery of Microbes: its subsection"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 27,
+   "text": "Antony van Leeuwenhoek (1632-1723)",
+   "note": "lighter weight: subsection of The Discovery of Microbes"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 12,
+   "text": "Microbial Groups"
+  },
+  {
+   "anno": 43,
+   "level": 4,
+   "parent": 36,
+   "text": "Bacteria",
+   "note": "lighter weight: subsection of Microbial Groups"
+  },
+  {
+   "anno": 45,
+   "level": 4,
+   "parent": 36,
+   "text": "Archaea"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 36,
+   "text": "Eukarya"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 36,
+   "text": "Viruses"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 12,
+   "text": "Taxonomic Ranks",
+   "note": "bold like Microbial Groups"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 2,
+   "of": 1
+  }
+ ]
+}

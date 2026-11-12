@@ -1,0 +1,86 @@
+{
+ "doc": "paper_eng_fd23041b",
+ "nodes": [
+  {
+   "anno": 14,
+   "level": 1,
+   "parent": "root",
+   "text": "Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 14,
+   "text": "Abstract"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 14,
+   "text": "Introduction"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 14,
+   "text": "Material and Methods"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 34,
+   "text": "Study Design",
+   "note": "own-line subsection of Material and Methods, missed by gold"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 34,
+   "text": "Data Collection"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 34,
+   "text": "Statistical Analysis"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 34,
+   "text": "Ethical Aspects"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 14,
+   "text": "Results"
+  },
+  {
+   "anno": 66,
+   "level": 2,
+   "parent": 14,
+   "text": "Discussion"
+  },
+  {
+   "anno": 87,
+   "level": 2,
+   "parent": 14,
+   "text": "Conclusion"
+  },
+  {
+   "anno": 89,
+   "level": 2,
+   "parent": 14,
+   "text": "Acknowledgements"
+  },
+  {
+   "anno": 91,
+   "level": 2,
+   "parent": 14,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

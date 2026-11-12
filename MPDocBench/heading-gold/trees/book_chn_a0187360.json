@@ -1,0 +1,67 @@
+{
+ "doc": "book_chn_a0187360",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "黄文涛行政法主观题私塾班 内部十道模拟训练题"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 4,
+   "text": "目录"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 4,
+   "text": "案例一："
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 17,
+   "text": "***参考答案与重点法条***"
+  },
+  {
+   "anno": 110,
+   "level": 3,
+   "parent": 17,
+   "text": "***本题涉及的重点考点***"
+  },
+  {
+   "anno": 120,
+   "level": 2,
+   "parent": 4,
+   "text": "案例二："
+  },
+  {
+   "anno": 131,
+   "level": 3,
+   "parent": 120,
+   "text": "***参考答案与重点法条***"
+  },
+  {
+   "anno": 182,
+   "level": 3,
+   "parent": 120,
+   "text": "***本题涉及的重点考点***"
+  },
+  {
+   "anno": 196,
+   "level": 2,
+   "parent": 4,
+   "text": "案例三"
+  },
+  {
+   "anno": 213,
+   "level": 3,
+   "parent": 196,
+   "text": "***参考答案与重点法条***"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

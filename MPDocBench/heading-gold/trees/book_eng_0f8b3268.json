@@ -1,0 +1,281 @@
+{
+ "doc": "book_eng_0f8b3268",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "BASKETBALL"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 2,
+   "text": "About the Tutorial"
+  },
+  {
+   "anno": 13,
+   "level": 2,
+   "parent": 2,
+   "text": "Audience"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 2,
+   "text": "Prerequisite"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 2,
+   "text": "Copyright & Disclaimer"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 2,
+   "text": "1. Basketball – Overview"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 28,
+   "text": "Basketball - Objective"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 28,
+   "text": "Basketball - Team Size"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 28,
+   "text": "Participating Countries"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 2,
+   "text": "2. Basketball - Playing Environment"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 46,
+   "text": "Court Design"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 2,
+   "text": "3. Basketball - Equipment"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 54,
+   "text": "Basket"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 54,
+   "text": "Ball"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 54,
+   "text": "Other Equipment"
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 2,
+   "text": "4. Basketball – Common Terms"
+  },
+  {
+   "anno": 84,
+   "level": 2,
+   "parent": 2,
+   "text": "5. Basketball - How to Play?"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 84,
+   "text": "Rules of the Game"
+  },
+  {
+   "anno": 107,
+   "level": 4,
+   "parent": 95,
+   "text": "What a Basketball Player Should not Do?"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 84,
+   "text": "Regulating Bodies"
+  },
+  {
+   "anno": 126,
+   "level": 2,
+   "parent": 2,
+   "text": "6. Basketball - Variants"
+  },
+  {
+   "anno": 128,
+   "level": 3,
+   "parent": 126,
+   "text": "3-against-3 or 3-on-3"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 126,
+   "text": "21 or Cut Throat"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 126,
+   "text": "Chicago"
+  },
+  {
+   "anno": 134,
+   "level": 3,
+   "parent": 126,
+   "text": "Horse"
+  },
+  {
+   "anno": 141,
+   "level": 3,
+   "parent": 126,
+   "text": "Shooting Contest"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 126,
+   "text": "Slam Ball"
+  },
+  {
+   "anno": 145,
+   "level": 3,
+   "parent": 126,
+   "text": "Basketball - Tournaments"
+  },
+  {
+   "anno": 159,
+   "level": 2,
+   "parent": 2,
+   "text": "7. Basketball – Champions"
+  },
+  {
+   "anno": 163,
+   "level": 3,
+   "parent": 159,
+   "text": "Bob Cousy"
+  },
+  {
+   "anno": 165,
+   "level": 3,
+   "parent": 159,
+   "text": "Bill Russell"
+  },
+  {
+   "anno": 168,
+   "level": 3,
+   "parent": 159,
+   "text": "Wilt Chamberlain"
+  },
+  {
+   "anno": 171,
+   "level": 3,
+   "parent": 159,
+   "text": "Magic Johnson"
+  },
+  {
+   "anno": 176,
+   "level": 3,
+   "parent": 159,
+   "text": "Larry Bird"
+  },
+  {
+   "anno": 178,
+   "level": 3,
+   "parent": 159,
+   "text": "Michael Jordan"
+  },
+  {
+   "anno": 181,
+   "level": 3,
+   "parent": 159,
+   "text": "Kareem Abdul-Jabbar"
+  },
+  {
+   "anno": 183,
+   "level": 3,
+   "parent": 159,
+   "text": "Shaquille O'Neal"
+  },
+  {
+   "anno": 185,
+   "level": 3,
+   "parent": 159,
+   "text": "John Stockton"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 159,
+   "text": "LeBron James"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "publisher brand (logo text) on the cover"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 10,
+   "of": 2
+  },
+  {
+   "anno": 23,
+   "of": 2
+  },
+  {
+   "anno": 35,
+   "of": 2
+  },
+  {
+   "anno": 93,
+   "of": 2
+  },
+  {
+   "anno": 118,
+   "of": 2
+  },
+  {
+   "anno": 140,
+   "of": 2
+  },
+  {
+   "anno": 175,
+   "of": 2
+  }
+ ]
+}

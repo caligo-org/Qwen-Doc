@@ -1,0 +1,32 @@
+{
+ "doc": "handwritten_chn_9ad83bc1",
+ "notation": "handwritten-v2 (essay): essay title L1; the centred subtitles of its parts L2 (gold had them all at L1). Notebook NO/Date header and watermark are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "成长的代价"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 2,
+   "text": "灯火一夜未熄"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "挚友再难相见"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "爱好无奈放弃"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

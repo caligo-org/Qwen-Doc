@@ -1,0 +1,169 @@
+{
+ "doc": "paper_eng_d76efc79",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 2,
+   "text": "Introduction"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 2,
+   "text": "Related Works"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 33,
+   "text": "Learning-based PDE Solvers"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 33,
+   "text": "Deep Learning for FSI"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 33,
+   "text": "Heterogeneous Graph Neural Networks"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 2,
+   "text": "Preliminaries"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 40,
+   "text": "Governing Equations of FSI"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 40,
+   "text": "Graph Attention as a Neural Operator"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 40,
+   "text": "Heterogeneous Graphs as a Physical Inductive Bias"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 2,
+   "text": "Method"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 78,
+   "text": "Heterogeneous Graph Processor"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 78,
+   "text": "PCGM: Physics-Conditioned Gating Mechanism"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 78,
+   "text": "IGBL: Inter-domain Gradient-Balancing Loss"
+  },
+  {
+   "anno": 131,
+   "level": 2,
+   "parent": 2,
+   "text": "Experiments"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 131,
+   "text": "Dataset"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 131,
+   "text": "Baselines"
+  },
+  {
+   "anno": 139,
+   "level": 3,
+   "parent": 131,
+   "text": "Evaluation metrics"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 131,
+   "text": "Implementation Details"
+  },
+  {
+   "anno": 145,
+   "level": 3,
+   "parent": 131,
+   "text": "Main Results"
+  },
+  {
+   "anno": 150,
+   "level": 3,
+   "parent": 131,
+   "text": "Few-Shot Generalization Analysis"
+  },
+  {
+   "anno": 156,
+   "level": 3,
+   "parent": 131,
+   "text": "Qualitative Error Visualization"
+  },
+  {
+   "anno": 158,
+   "level": 3,
+   "parent": 131,
+   "text": "Ablation study"
+  },
+  {
+   "anno": 177,
+   "level": 2,
+   "parent": 2,
+   "text": "Conclusion"
+  },
+  {
+   "anno": 179,
+   "level": 2,
+   "parent": 2,
+   "text": "Acknowledgments"
+  },
+  {
+   "anno": 181,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

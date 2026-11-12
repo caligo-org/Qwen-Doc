@@ -1,0 +1,49 @@
+{
+ "doc": "paper_eng_54c94e58",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 3,
+   "text": "1. INTRODUCTION"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 3,
+   "text": "2. LITERATURE REVIEW"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 3,
+   "text": "3. RESEARCH METHOD"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 3,
+   "text": "4. RESULTS AND DISCUSSION"
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 3,
+   "text": "5. CONCLUSION"
+  },
+  {
+   "anno": 73,
+   "level": 2,
+   "parent": 3,
+   "text": "REFERENCES"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

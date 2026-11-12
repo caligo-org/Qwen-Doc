@@ -1,0 +1,77 @@
+{
+ "doc": "magazine_eng_757ea556",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "FUSION",
+   "note": "masthead (gold OCR FUSIOH)"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "note": "contents title"
+  },
+  {
+   "anno": 33,
+   "level": 2,
+   "parent": 2,
+   "text": "REVIEW",
+   "note": "section label REVIEW"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 33,
+   "text": "CASEBOOK 1899 THE LEIPZIG-MURDERS"
+  },
+  {
+   "anno": 80,
+   "level": 2,
+   "parent": 2,
+   "text": "In Good Faith",
+   "note": "opinion column title; no section printed"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 11,
+   "note": "masthead repeated over the colophon / editor's letter page"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 10,
+   "of": 2
+  },
+  {
+   "anno": 31,
+   "of": 2
+  },
+  {
+   "anno": 46,
+   "of": 2
+  },
+  {
+   "anno": 55,
+   "of": 2
+  },
+  {
+   "anno": 66,
+   "of": 2
+  },
+  {
+   "anno": 77,
+   "of": 2
+  },
+  {
+   "anno": 87,
+   "of": 2
+  }
+ ]
+}

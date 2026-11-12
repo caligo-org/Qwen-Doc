@@ -1,0 +1,229 @@
+{
+ "doc": "annualReport_eng_5a2b9698",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Appendix 4E",
+   "note": "bundle title (ASX Appendix 4E with the annual financial report attached)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "Results for announcement to the market"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 1,
+   "text": "Distribution Reinvestment Plan (DRP)"
+  },
+  {
+   "anno": 25,
+   "level": 2,
+   "parent": 1,
+   "text": "ANNUAL FINANCIAL REPORT",
+   "note": "attached report's title page"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 25,
+   "text": "Directory"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 25,
+   "text": "CONTENTS"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 25,
+   "text": "DIRECTORS' REPORT"
+  },
+  {
+   "anno": 43,
+   "level": 4,
+   "parent": 40,
+   "text": "PRINCIPAL ACTIVITIES AND STRUCTURE"
+  },
+  {
+   "anno": 46,
+   "level": 5,
+   "parent": 43,
+   "text": "Listed Structure / Entities"
+  },
+  {
+   "anno": 51,
+   "level": 5,
+   "parent": 43,
+   "text": "Abacus Group Consolidation"
+  },
+  {
+   "anno": 57,
+   "level": 4,
+   "parent": 40,
+   "text": "OPERATING AND FINANCIAL REVIEW"
+  },
+  {
+   "anno": 58,
+   "level": 5,
+   "parent": 57,
+   "text": "GROUP OVERVIEW"
+  },
+  {
+   "anno": 76,
+   "level": 5,
+   "parent": 57,
+   "text": "GROUP RESULTS SUMMARY"
+  },
+  {
+   "anno": 107,
+   "level": 6,
+   "parent": 76,
+   "text": "Capital management and allocation"
+  },
+  {
+   "anno": 123,
+   "level": 5,
+   "parent": 57,
+   "text": "KEY SEGMENT RESULTS SUMMARY"
+  },
+  {
+   "anno": 134,
+   "level": 6,
+   "parent": 123,
+   "text": "Office"
+  },
+  {
+   "anno": 148,
+   "level": 6,
+   "parent": 123,
+   "text": "Retail"
+  },
+  {
+   "anno": 150,
+   "level": 6,
+   "parent": 123,
+   "text": "Storage"
+  },
+  {
+   "anno": 153,
+   "level": 6,
+   "parent": 123,
+   "text": "Commercial Valuations"
+  },
+  {
+   "anno": 157,
+   "level": 6,
+   "parent": 123,
+   "text": "ESG"
+  },
+  {
+   "anno": 169,
+   "level": 5,
+   "parent": 57,
+   "text": "FUTURE PROSPECTS"
+  },
+  {
+   "anno": 172,
+   "level": 5,
+   "parent": 57,
+   "text": "RISK MANAGEMENT"
+  },
+  {
+   "anno": 181,
+   "level": 6,
+   "parent": 172,
+   "text": "Key Risks and Mitigations"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "issuer name"
+  },
+  {
+   "anno": 6,
+   "note": "subtitle naming the attached report, under the Appendix 4E title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 55,
+   "of": 40
+  },
+  {
+   "anno": 74,
+   "of": 40
+  },
+  {
+   "anno": 88,
+   "of": 40
+  },
+  {
+   "anno": 90,
+   "of": 76
+  },
+  {
+   "anno": 104,
+   "of": 40
+  },
+  {
+   "anno": 106,
+   "of": 76
+  },
+  {
+   "anno": 121,
+   "of": 40
+  },
+  {
+   "anno": 145,
+   "of": 40
+  },
+  {
+   "anno": 147,
+   "of": 123
+  },
+  {
+   "anno": 167,
+   "of": 40
+  },
+  {
+   "anno": 178,
+   "of": 40
+  },
+  {
+   "anno": 180,
+   "of": 172
+  },
+  {
+   "anno": 185,
+   "of": 40
+  },
+  {
+   "anno": 187,
+   "of": 172
+  },
+  {
+   "anno": 188,
+   "of": 181
+  },
+  {
+   "anno": 192,
+   "of": 40
+  },
+  {
+   "anno": 194,
+   "of": 172
+  },
+  {
+   "anno": 195,
+   "of": 181
+  }
+ ]
+}

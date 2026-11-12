@@ -1,0 +1,90 @@
+{
+ "doc": "nationalStandard_chn_4234f2c5",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "鞋类通用安全要求 General safety requirements for footwear",
+   "merge": [
+    7
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 6,
+   "text": "前言"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 61,
+   "text": "3.1 可触及 accessible",
+   "merge": [
+    64
+   ]
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 6,
+   "text": "4 技术要求"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 69,
+   "text": "4.1 钉尖和断针要求"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 69,
+   "text": "4.2 化学物质限量要求"
+  },
+  {
+   "anno": 77,
+   "level": 2,
+   "parent": 6,
+   "text": "5 试验方法"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 77,
+   "text": "5.1 钉尖和断针"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 39,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

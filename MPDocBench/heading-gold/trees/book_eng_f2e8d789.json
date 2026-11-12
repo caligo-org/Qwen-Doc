@@ -1,0 +1,151 @@
+{
+ "doc": "book_eng_f2e8d789",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "YOUR MINDPOWER JOURNEY",
+   "note": "subtitle 'Bringing Belief To Reality' in the same box is text"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "Table of CONTENTS"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 1,
+   "text": "Introduction",
+   "note": "author line in the same box is text"
+  },
+  {
+   "anno": 61,
+   "level": 2,
+   "parent": 1,
+   "text": "Chapter 1 My Mindpower Journey"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 61,
+   "text": "Re-Envisioning"
+  },
+  {
+   "anno": 124,
+   "level": 3,
+   "parent": 61,
+   "text": "The Visualization Exercise"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 61,
+   "text": "Neurogenesis & Neuroplasticity"
+  },
+  {
+   "anno": 165,
+   "level": 3,
+   "parent": 61,
+   "text": "The 3 Pillars of Mindpower"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 25,
+   "note": "sentence introducing a bullet list (ends with a colon)"
+  },
+  {
+   "anno": 36,
+   "note": "sentence introducing a list (ends with a colon)"
+  },
+  {
+   "anno": 63,
+   "note": "label of the chapter's learning-objectives box"
+  },
+  {
+   "anno": 146,
+   "note": "pull quote"
+  },
+  {
+   "anno": 154,
+   "note": "callout label (Did You Know?)"
+  },
+  {
+   "anno": 168,
+   "note": "numbered definition lead-in sentence (pillar 1; pillars 2 and 3 are text blocks of the same form)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 17,
+   "of": 1
+  },
+  {
+   "anno": 30,
+   "of": 7
+  },
+  {
+   "anno": 32,
+   "of": 1
+  },
+  {
+   "anno": 42,
+   "of": 7
+  },
+  {
+   "anno": 44,
+   "of": 1
+  },
+  {
+   "anno": 53,
+   "of": 7
+  },
+  {
+   "anno": 55,
+   "of": 1
+  },
+  {
+   "anno": 58,
+   "of": 7
+  },
+  {
+   "anno": 74,
+   "of": 1
+  },
+  {
+   "anno": 89,
+   "of": 1
+  },
+  {
+   "anno": 104,
+   "of": 1
+  },
+  {
+   "anno": 117,
+   "of": 1
+  },
+  {
+   "anno": 129,
+   "of": 1
+  },
+  {
+   "anno": 144,
+   "of": 1
+  },
+  {
+   "anno": 158,
+   "of": 1
+  },
+  {
+   "anno": 174,
+   "of": 1
+  },
+  {
+   "anno": 190,
+   "of": 1
+  }
+ ]
+}

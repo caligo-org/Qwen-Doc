@@ -1,0 +1,93 @@
+{
+ "doc": "textBook_chn_27d8ad59",
+ "notation": "textBook-v2: L1 cover subject title; L2 preface, 目录 and lessons. Lessons have no title line on the page: the lesson band (第N课 badge + lesson title) on the lesson's first page is the lesson heading; the same band on later pages is a running head. Pinyin ruby is dropped from node text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "美术",
+   "note": "cover title; pinyin MEI SHU, series and grade lines are text"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 3,
+   "text": "写给亲爱的同学们"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "note": "pinyin ruby dropped"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 3,
+   "text": "第1课 雪",
+   "merge": [
+    23
+   ],
+   "note": "lesson band on the lesson's first page (badge + title header boxes); only place the lesson title is printed"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 3,
+   "text": "第2课 图画与文字（一）",
+   "merge": [
+    64
+   ],
+   "note": "lesson band on the lesson's first page"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 10,
+   "note": "credits-block line on the colophon page (series + subject)"
+  },
+  {
+   "anno": 35,
+   "note": "box label 小窍门"
+  },
+  {
+   "anno": 54,
+   "note": "box label 学习建议"
+  },
+  {
+   "anno": 58,
+   "note": "box label 生活中的设计"
+  },
+  {
+   "anno": 66,
+   "note": "box label 走进博物馆"
+  },
+  {
+   "anno": 71,
+   "note": "box label 老师的话"
+  },
+  {
+   "anno": 96,
+   "note": "running lesson band on a later page of lesson 2"
+  },
+  {
+   "anno": 98,
+   "note": "box label 儿童美术馆"
+  },
+  {
+   "anno": 102,
+   "note": "box label 学习建议"
+  },
+  {
+   "anno": 109,
+   "note": "box label 生活中的设计"
+  },
+  {
+   "anno": 115,
+   "note": "box label 访问艺术家"
+  }
+ ],
+ "repeats": []
+}

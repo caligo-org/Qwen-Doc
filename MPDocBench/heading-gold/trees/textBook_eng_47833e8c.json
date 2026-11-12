@@ -1,0 +1,23 @@
+{
+ "doc": "textBook_eng_47833e8c",
+ "notation": "textBook-v2: L1 cover title; half-title and title page repeats are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "INTRODUCTION TO COMPUTER PROGRAMMING WITH PYTHON"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 3,
+   "of": 1
+  },
+  {
+   "anno": 5,
+   "of": 1
+  }
+ ]
+}

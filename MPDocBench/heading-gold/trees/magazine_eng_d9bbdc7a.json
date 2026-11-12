@@ -1,0 +1,67 @@
+{
+ "doc": "magazine_eng_d9bbdc7a",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Total TVguide",
+   "merge": [
+    1
+   ],
+   "note": "masthead printed in two boxes (Total + TVguide); date band in the box is text"
+  },
+  {
+   "anno": 29,
+   "level": 2,
+   "parent": 4,
+   "text": "Your Total TV WEEK",
+   "note": "front-matter page banner (editor's note + contents)"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 29,
+   "text": "From the Editor"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 29,
+   "text": "Inside",
+   "note": "contents title"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 4,
+   "text": "KOREA OPPORTUNITIES",
+   "merge": [
+    64
+   ],
+   "note": "headline split across the spread (KOREA OPP / ORTUNITIES); ENTERTAINMENT kicker is text"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 11,
+   "note": "advertisement (p2)"
+  },
+  {
+   "anno": 15,
+   "note": "advertisement (p2)"
+  },
+  {
+   "anno": 17,
+   "note": "advertisement (p2)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 91,
+   "of": 4
+  }
+ ]
+}

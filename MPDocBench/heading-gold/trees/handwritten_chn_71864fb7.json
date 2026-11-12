@@ -1,0 +1,32 @@
+{
+ "doc": "handwritten_chn_71864fb7",
+ "notation": "handwritten-v2 (math notes): title L1; Roman-numbered sections L2. Theorem labels (Newton公式, Waring公式) before a formula are run-in labels (text); platform watermark footers are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Waring 公式及其应用"
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "I. Newton 公式"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "Ⅱ. Waring 公式"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 1,
+   "text": "III. 组合反演公式"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

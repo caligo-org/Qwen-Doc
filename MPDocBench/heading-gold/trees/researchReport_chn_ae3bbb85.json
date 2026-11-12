@@ -1,0 +1,82 @@
+{
+ "doc": "researchReport_chn_ae3bbb85",
+ "notation": "researchReport (industry weekly): L1 headline + series subtitle line (merged); L2 投资要点, contents titles, numbered chapters; L3 summary label printed on its own line and 1.1 sections. Industry banner, analyst/assistant boxes, sidebar chart label and related research are text.",
+ "nodes": [
+  {
+   "anno": 18,
+   "level": 1,
+   "parent": "root",
+   "text": "万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
+   "merge": [
+    19
+   ],
+   "note": "headline + series subtitle"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 18,
+   "text": "投资要点："
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 20,
+   "text": "· 本周行业主要动态：",
+   "note": "bullet label printed on its own line (other bullet labels run in)"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 18,
+   "text": "内容目录"
+  },
+  {
+   "anno": 44,
+   "level": 2,
+   "parent": 18,
+   "text": "图表目录"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 18,
+   "text": "1.化工板块市场行情回顾"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 55,
+   "text": "1.1.化工板块整体表现"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 55,
+   "text": "1.2.化工板块个股表现"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "化工: industry label banner"
+  },
+  {
+   "anno": 5,
+   "note": "证券分析师: analyst box label"
+  },
+  {
+   "anno": 7,
+   "note": "研究助理: assistant box label"
+  },
+  {
+   "anno": 10,
+   "note": "市场表现: sidebar chart label"
+  },
+  {
+   "anno": 12,
+   "note": "相关研究: related-reports list"
+  }
+ ],
+ "repeats": []
+}

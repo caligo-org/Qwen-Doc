@@ -1,0 +1,46 @@
+{
+ "doc": "textBook_chn_b3181880",
+ "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "信号与系统 辅导与题解",
+   "note": "cover title on two lines; source-book line, authors, series line, pinyin are text"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 3,
+   "text": "内容提要",
+   "note": "book summary on the copyright page: front-matter title"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 3,
+   "text": "前言"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 10,
+   "note": "series line on the back cover (经典教材辅导用书)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 28,
+   "of": 3
+  },
+  {
+   "anno": 41,
+   "of": 3
+  },
+  {
+   "anno": 51,
+   "of": 3
+  }
+ ]
+}

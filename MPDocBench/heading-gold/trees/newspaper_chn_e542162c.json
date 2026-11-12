@@ -1,0 +1,595 @@
+{
+ "doc": "newspaper_chn_e542162c",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 经济日报, same family as newspaper_chn_4f3edefe: page tags L2 (p4 repeats 综合, no new node); headlines L3 with 引题/副题/rubrics as text (node text = main title); subheads L4.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "經濟日報",
+   "note": "masthead"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 1,
+   "text": "因地制宜发展新质生产力",
+   "note": "引题 '《求是》杂志发表习近平总书记重要文章' in the same box is text"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 1,
+   "text": "加快数智应用降低物流成本",
+   "note": "rubric 经济论坛 is text"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 1,
+   "text": "金融精准服务新型工业化",
+   "note": "引题 in the same box is text"
+  },
+  {
+   "anno": 35,
+   "level": 4,
+   "parent": 31,
+   "text": "深耕产业链金融"
+  },
+  {
+   "anno": 42,
+   "level": 4,
+   "parent": 31,
+   "text": "推动服务升级"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 1,
+   "text": "苏州积极布局具身智能产业",
+   "note": "副题 '培育应用场景 加快成果转化' in the same box is text"
+  },
+  {
+   "anno": 55,
+   "level": 3,
+   "parent": 1,
+   "text": "持续完善社会保障体系",
+   "note": "rubric '“十五五”经济社会发展主要目标解读' in the same box is text"
+  },
+  {
+   "anno": 58,
+   "level": 4,
+   "parent": 55,
+   "text": "与经济增长同频共振"
+  },
+  {
+   "anno": 64,
+   "level": 4,
+   "parent": 55,
+   "text": "主动适应社会变革"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 55,
+   "text": "有效促进社会流动"
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 75,
+   "text": "拉林铁路奏响加速发展新乐章",
+   "note": "rubric in the same box is text"
+  },
+  {
+   "anno": 81,
+   "level": 4,
+   "parent": 79,
+   "text": "用心用情服务旅客"
+  },
+  {
+   "anno": 87,
+   "level": 4,
+   "parent": 79,
+   "text": "严谨细致守护安全"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 79,
+   "text": "路通货畅带来机遇"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 75,
+   "text": "（上接第一版）",
+   "continues": 31,
+   "note": "jump of 金融精准服务新型工业化, no headline printed"
+  },
+  {
+   "anno": 107,
+   "level": 4,
+   "parent": 105,
+   "text": "丰富融资渠道"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 75,
+   "text": "刹住科研领域『逐帽』之风",
+   "note": "rubric 金视角 in the same box is text"
+  },
+  {
+   "anno": 125,
+   "level": 3,
+   "parent": 75,
+   "text": "“礼义长潭”新风润心",
+   "note": "rubric above is text"
+  },
+  {
+   "anno": 134,
+   "level": 3,
+   "parent": 75,
+   "text": "蓝色粮仓走上绿色发展路"
+  },
+  {
+   "anno": 144,
+   "level": 3,
+   "parent": 75,
+   "text": "文明乡风拓展振兴前景"
+  },
+  {
+   "anno": 162,
+   "level": 2,
+   "parent": 1,
+   "text": "综合",
+   "note": "page tag p3 (p4 repeats it)"
+  },
+  {
+   "anno": 166,
+   "level": 3,
+   "parent": 162,
+   "text": "共建共享人工智能发展新未来",
+   "note": "rubric 热点解析 in the same box is text"
+  },
+  {
+   "anno": 180,
+   "level": 3,
+   "parent": 162,
+   "text": "手机套餐不应『升易降难』",
+   "note": "rubric 民生谈 in the same box is text"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 162,
+   "text": "银行间市场经纪业务管理办法发布",
+   "note": "the line below is a deck"
+  },
+  {
+   "anno": 193,
+   "level": 3,
+   "parent": 162,
+   "text": "『云集市』打造助农新场景",
+   "note": "rubric 乡村振兴进行时 in the same box is text"
+  },
+  {
+   "anno": 207,
+   "level": 3,
+   "parent": 162,
+   "text": "加快新场景开放和大规模应用 培育壮大新兴产业和未来产业"
+  },
+  {
+   "anno": 210,
+   "level": 4,
+   "parent": 207,
+   "text": "为新质生产力发展提供支撑"
+  },
+  {
+   "anno": 215,
+   "level": 4,
+   "parent": 207,
+   "text": "加强新领域新赛道布局"
+  },
+  {
+   "anno": 222,
+   "level": 4,
+   "parent": 207,
+   "text": "加快推进《意见》落实"
+  },
+  {
+   "anno": 234,
+   "level": 3,
+   "parent": 162,
+   "text": "赛事重塑湾区时空版图",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 241,
+   "level": 4,
+   "parent": 234,
+   "text": "持续扩大机制体制衔接"
+  },
+  {
+   "anno": 250,
+   "level": 4,
+   "parent": 234,
+   "text": "立体交通激发聚合效应"
+  },
+  {
+   "anno": 260,
+   "level": 4,
+   "parent": 234,
+   "text": "超级场景赋能城市升级"
+  },
+  {
+   "anno": 270,
+   "level": 3,
+   "parent": 162,
+   "text": "路相通城相融心相连"
+  },
+  {
+   "anno": 284,
+   "level": 3,
+   "parent": 162,
+   "text": "白云机场拥抱世界"
+  },
+  {
+   "anno": 297,
+   "level": 2,
+   "parent": 1,
+   "text": "关注",
+   "note": "page tag p5"
+  },
+  {
+   "anno": 300,
+   "level": 3,
+   "parent": 297,
+   "text": "且看春雨润新苗",
+   "note": "rubric 科创之声 in the same box is text"
+  },
+  {
+   "anno": 314,
+   "level": 3,
+   "parent": 297,
+   "text": "秋播虽延后 丰收仍有盼",
+   "note": "rubric 视点 in the same box is text"
+  },
+  {
+   "anno": 316,
+   "level": 4,
+   "parent": 314,
+   "text": "把握好播种时机"
+  },
+  {
+   "anno": 324,
+   "level": 4,
+   "parent": 314,
+   "text": "靠科技与时间赛跑"
+  },
+  {
+   "anno": 333,
+   "level": 4,
+   "parent": 314,
+   "text": "晚播高产有门道"
+  },
+  {
+   "anno": 343,
+   "level": 3,
+   "parent": 297,
+   "text": "消费贷贴息政策初见成效",
+   "note": "引题 '实施已逾两月——' in the same box is text"
+  },
+  {
+   "anno": 356,
+   "level": 3,
+   "parent": 297,
+   "text": "300元以下买不到真羽绒服吗",
+   "note": "rubric 求真 in the same box is text"
+  },
+  {
+   "anno": 371,
+   "level": 2,
+   "parent": 1,
+   "text": "地方",
+   "note": "page tag p6"
+  },
+  {
+   "anno": 375,
+   "level": 3,
+   "parent": 371,
+   "text": "讲好特色文旅+融合故事",
+   "note": "rubric 各地新亮点 and ——副题 in the same box are text"
+  },
+  {
+   "anno": 378,
+   "level": 4,
+   "parent": 375,
+   "text": "消费新热潮"
+  },
+  {
+   "anno": 385,
+   "level": 4,
+   "parent": 375,
+   "text": "发展新活力"
+  },
+  {
+   "anno": 393,
+   "level": 4,
+   "parent": 375,
+   "text": "文旅新业态"
+  },
+  {
+   "anno": 404,
+   "level": 3,
+   "parent": 371,
+   "text": "以智提效激发口岸潜能",
+   "note": "rubric 区域谈 in the same box is text"
+  },
+  {
+   "anno": 414,
+   "level": 3,
+   "parent": 371,
+   "text": "能效服务匹配企业需求",
+   "note": "引题 '宁波工业园区——' in the same box is text"
+  },
+  {
+   "anno": 424,
+   "level": 3,
+   "parent": 371,
+   "text": "“机电之都”重塑核心竞争力",
+   "note": "引题 in the same box is text"
+  },
+  {
+   "anno": 439,
+   "level": 2,
+   "parent": 1,
+   "text": "港澳台",
+   "note": "page tag p7"
+  },
+  {
+   "anno": 442,
+   "level": 3,
+   "parent": 439,
+   "text": "双城生活“深”得“港”心"
+  },
+  {
+   "anno": 448,
+   "level": 4,
+   "parent": 442,
+   "text": "激活双向消费"
+  },
+  {
+   "anno": 460,
+   "level": 4,
+   "parent": 442,
+   "text": "打通创新动脉"
+  },
+  {
+   "anno": 472,
+   "level": 4,
+   "parent": 442,
+   "text": "重塑跨境体验"
+  },
+  {
+   "anno": 485,
+   "level": 3,
+   "parent": 439,
+   "text": "融入大局天地宽",
+   "note": "——副题 in the same box is text"
+  },
+  {
+   "anno": 491,
+   "level": 4,
+   "parent": 485,
+   "text": "从展品展示到生态输出"
+  },
+  {
+   "anno": 498,
+   "level": 4,
+   "parent": 485,
+   "text": "从区域合作到全球联动"
+  },
+  {
+   "anno": 501,
+   "level": 4,
+   "parent": 485,
+   "text": "从政策红利到内生动力"
+  },
+  {
+   "anno": 511,
+   "level": 3,
+   "parent": 439,
+   "text": "立法会选举体现良政善治",
+   "note": "rubric 香江观察 is text"
+  },
+  {
+   "anno": 522,
+   "level": 2,
+   "parent": 1,
+   "text": "视觉",
+   "note": "page tag p8"
+  },
+  {
+   "anno": 525,
+   "level": 3,
+   "parent": 522,
+   "text": "机遇海口",
+   "note": "photo spread title"
+  },
+  {
+   "anno": 552,
+   "level": 2,
+   "parent": 1,
+   "text": "副刊",
+   "note": "page tag p9"
+  },
+  {
+   "anno": 556,
+   "level": 3,
+   "parent": 552,
+   "text": "黄河上的筏子客",
+   "note": "rubric 非遗焕新 is text"
+  },
+  {
+   "anno": 560,
+   "level": 4,
+   "parent": 556,
+   "text": "漂流人生"
+  },
+  {
+   "anno": 573,
+   "level": 4,
+   "parent": 556,
+   "text": "筏上创业"
+  },
+  {
+   "anno": 587,
+   "level": 4,
+   "parent": 556,
+   "text": "青春选择"
+  },
+  {
+   "anno": 602,
+   "level": 3,
+   "parent": 552,
+   "text": "循化辣椒香满院"
+  },
+  {
+   "anno": 616,
+   "level": 3,
+   "parent": 552,
+   "text": "李沧电商直播忙",
+   "note": "rubric 速写 is text"
+  },
+  {
+   "anno": 629,
+   "level": 2,
+   "parent": 1,
+   "text": "消费",
+   "note": "page tag p10"
+  },
+  {
+   "anno": 633,
+   "level": 3,
+   "parent": 629,
+   "text": "中小学秋假来了",
+   "note": "rubric 文旅新意 is text"
+  },
+  {
+   "anno": 640,
+   "level": 4,
+   "parent": 633,
+   "text": "促成长又促消费"
+  },
+  {
+   "anno": 646,
+   "level": 4,
+   "parent": 633,
+   "text": "学生家长买账吗"
+  },
+  {
+   "anno": 654,
+   "level": 4,
+   "parent": 633,
+   "text": "配套问题要解决"
+  },
+  {
+   "anno": 664,
+   "level": 3,
+   "parent": 629,
+   "text": "学会把消费送上门",
+   "note": "rubric 市场瞭望 is text"
+  },
+  {
+   "anno": 675,
+   "level": 3,
+   "parent": 629,
+   "text": "点燃青少年篮球热情"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 15,
+   "note": "导读 index box"
+  },
+  {
+   "anno": 18,
+   "note": "rubric 经济论坛"
+  },
+  {
+   "anno": 124,
+   "note": "rubric"
+  },
+  {
+   "anno": 510,
+   "note": "rubric"
+  },
+  {
+   "anno": 555,
+   "note": "rubric"
+  },
+  {
+   "anno": 615,
+   "note": "rubric"
+  },
+  {
+   "anno": 632,
+   "note": "rubric"
+  },
+  {
+   "anno": 663,
+   "note": "rubric"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 77,
+   "of": 1
+  },
+  {
+   "anno": 164,
+   "of": 1
+  },
+  {
+   "anno": 231,
+   "of": 162
+  },
+  {
+   "anno": 233,
+   "of": 1
+  },
+  {
+   "anno": 299,
+   "of": 1
+  },
+  {
+   "anno": 373,
+   "of": 1
+  },
+  {
+   "anno": 441,
+   "of": 1
+  },
+  {
+   "anno": 524,
+   "of": 1
+  },
+  {
+   "anno": 554,
+   "of": 1
+  },
+  {
+   "anno": 631,
+   "of": 1
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "doc": "handwritten_chn_50d71ae2",
+ "notation": "handwritten-v2 (course notes): chapter (第八章) L1; numbered section (7.3) L2, its chapter not printed; Chinese-numbered titled items (四. 常用傅氏变换对, 一. 概念) L3; own-line numbered property titles (2. 位移性质) L4. Run-in labels with a formula on the same line (1. 定义：…, 1. 线性性质: F[…]) and formula-only numbered cases (一. ①当 f(t)=δ(t)) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 2,
+   "parent": "root",
+   "text": "7.3.单位脉冲函数",
+   "note": "section 7.3; chapter 7 heading not printed"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 1,
+   "text": "四. 常用傅氏变换对："
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 1,
+   "text": "五. 性质："
+  },
+  {
+   "anno": 58,
+   "level": 4,
+   "parent": 47,
+   "text": "2. 位移性质："
+  },
+  {
+   "anno": 65,
+   "level": 4,
+   "parent": 47,
+   "text": "三. 推理：",
+   "note": "own line; numbering read as 三 by OCR (property 3 under 五. 性质)"
+  },
+  {
+   "anno": 85,
+   "level": 1,
+   "parent": "root",
+   "text": "第八章. 拉普拉斯变换"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 85,
+   "text": "一. 概念：",
+   "note": "same look as 四./五. in 7.3; the 8.x section role is not printed in chapter 8"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 85,
+   "text": "二、常用的拉普拉斯变换"
+  },
+  {
+   "anno": 113,
+   "level": 3,
+   "parent": 85,
+   "text": "三、性质："
+  },
+  {
+   "anno": 122,
+   "level": 4,
+   "parent": 113,
+   "text": "拉普拉斯逆变换：",
+   "note": "starred own-line topic inside 三、性质"
+  },
+  {
+   "anno": 129,
+   "level": 4,
+   "parent": 113,
+   "text": "2. 位移性质:"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,157 @@
+{
+ "doc": "newspaper_chn_adf00537",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 农民日报: front page implicit section; page tag 综合新闻 p2 = L2; headlines L3 (引题/副题/rubrics text, node text = main title); repeated headline over a jump ((上接第一版)) = continuation node.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "農民日報",
+   "note": "masthead (English name, website in the same box are text)"
+  },
+  {
+   "anno": 4,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平同刚果(金)总统齐塞克迪举行会谈",
+   "note": "its p2 jump has no headline (body starts with (上接第一版))"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 1,
+   "text": "深学细悟勇担当 凝心聚力强三农",
+   "note": "——副题 in the same box is a deck"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 1,
+   "text": "安徽今年组织2122家规模养殖场实施“减抗”行动"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 1,
+   "text": "强农“蓝图”铺展全新画卷",
+   "note": "——纪实 subtitle in the same box is a deck; banner above is a rubric"
+  },
+  {
+   "anno": 39,
+   "level": 4,
+   "parent": 34,
+   "text": "聚焦种子与品牌，紧抓“微笑曲线”两端"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 34,
+   "text": "打造产业链闭环，融合贯通资金渠道"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 1,
+   "text": "切实巩固拓展脱贫攻坚成果扎实推进乡村振兴",
+   "note": "引题 '刘国中强调' is text"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 1,
+   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 1,
+   "text": "河南十项惠农举措助力“三夏”生产"
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 1,
+   "text": "综合新闻",
+   "note": "page tag p2"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 75,
+   "text": "期盼携手开创亚欧合作新局面",
+   "note": "——副题 in the same box is a deck"
+  },
+  {
+   "anno": 82,
+   "level": 4,
+   "parent": 78,
+   "text": "共享亚欧发展新机遇"
+  },
+  {
+   "anno": 90,
+   "level": 4,
+   "parent": 78,
+   "text": "开拓造福各国的“幸福路”"
+  },
+  {
+   "anno": 96,
+   "level": 4,
+   "parent": 78,
+   "text": "合作前景非常广阔"
+  },
+  {
+   "anno": 103,
+   "level": 3,
+   "parent": 75,
+   "text": "戏剧城内麦香飘",
+   "note": "photo story"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 75,
+   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知",
+   "continues": 59,
+   "note": "headline repeated over the jump (上接第一版)"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 75,
+   "text": "青海饲草产业呈现良好发展态势",
+   "note": "副题 '年产饲草鲜草达475万吨' is a deck"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 75,
+   "text": "黑龙江累计建成高标准农田10265万亩"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 75,
+   "text": "强农“蓝图”铺展全新画卷",
+   "continues": 34,
+   "note": "headline repeated over the jump"
+  },
+  {
+   "anno": 148,
+   "level": 4,
+   "parent": 137,
+   "text": "创新驱动升级，科技赋能协同资源整合"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 51,
+   "note": "引题"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 77,
+   "of": 1
+  }
+ ]
+}

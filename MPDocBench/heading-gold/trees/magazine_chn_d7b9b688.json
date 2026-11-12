@@ -1,0 +1,83 @@
+{
+ "doc": "magazine_chn_d7b9b688",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "知音",
+   "note": "masthead"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "note": "contents title (box also holds the logo and the issue line)"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 2,
+   "text": "定坝“神针”53载搏风击浪：浩浩南水，汤汤北上",
+   "note": "article; section (中国力量 in the TOC) not printed, directly under the masthead"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 48,
+   "text": "奋斗青春：搏风击浪汉江畔"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 48,
+   "text": "定坝“神针”：临近退休再担重任"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 48,
+   "text": "余热生辉：割舍不掉的“水利”情"
+  },
+  {
+   "anno": 122,
+   "level": 2,
+   "parent": 2,
+   "text": "长久的婚姻，都是势均力敌",
+   "note": "editorial headline (laid out as a figure) opening 本刊视点; no tag on its page"
+  },
+  {
+   "anno": 132,
+   "level": 2,
+   "parent": 2,
+   "text": "本刊视点",
+   "note": "running section tag 本刊视点, first printed on p9"
+  },
+  {
+   "anno": 136,
+   "level": 3,
+   "parent": 132,
+   "text": "作精遇到“程序猿”，一场大病复活爱"
+  },
+  {
+   "anno": 138,
+   "level": 4,
+   "parent": 136,
+   "text": "苦恼婚姻：作精遇到“程序猿”"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 28,
+   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+  },
+  {
+   "anno": 45,
+   "note": "colophon notice (本刊声明)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,62 @@
+{
+ "doc": "researchReport_eng_df933ffb",
+ "notation": "researchReport (English, Carbonomics family as researchReport_eng_39be8c41): L1 = title + subtitle (merged); L2 large section headings; L3 the smaller bold section subhead. AUTHORS list title and panel labels inside Exhibit 14 are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Carbonomics Updated cost curve shows diverging trends between power and transport",
+   "merge": [
+    5
+   ],
+   "note": "title + subtitle printed as one title block"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 4,
+   "text": "Carbonomics in 12 charts"
+  },
+  {
+   "anno": 89,
+   "level": 2,
+   "parent": 4,
+   "text": "Lower energy prices, clean tech inflation and higher interest rates impact the Carbonomics cost curve, with gas-substituting technologies moving higher on the cost curve, whilst battery cost deflation moves the cost curve lower"
+  },
+  {
+   "anno": 150,
+   "level": 3,
+   "parent": 89,
+   "text": "The Carbonomics cost curve is updated for the fifth consecutive year, with lower energy prices, clean tech inflation and higher interest rates moving the Carbonomics cost curve higher, whilst deflation in battery prices moves the cost curve lower",
+   "note": "smaller bold subhead under the large section heading #89"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 19,
+   "note": "AUTHORS: list of analyst names"
+  },
+  {
+   "anno": 112,
+   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+  },
+  {
+   "anno": 120,
+   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+  },
+  {
+   "anno": 129,
+   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+  },
+  {
+   "anno": 135,
+   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+  },
+  {
+   "anno": 140,
+   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+  }
+ ],
+ "repeats": []
+}

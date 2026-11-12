@@ -1,0 +1,70 @@
+{
+ "doc": "examPaper_chn_0d1c391f",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2011年江西高考理科数学真题"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "第I卷"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 15,
+   "text": "一、选择题：本大题共10小题，每小题5分，共50分.在每小题给出的四个选项中，只有一项是符合题目要求的."
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 1,
+   "text": "第II卷"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 70,
+   "text": "二.填空题：本大题共4小题，每小题5分，共20分."
+  },
+  {
+   "anno": 77,
+   "level": 3,
+   "parent": 70,
+   "text": "三.选做题：请考生在下列两题中任选一题作答.若两题都做，则按做的第一题评阅计分. 本题共5分."
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 70,
+   "text": "四.本大题共6小题，共75分.解答应写出文字说明、证明过程或演算步骤."
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "instructions label (考试注意); exam instructions are text"
+  },
+  {
+   "anno": 8,
+   "note": "reference-formula label in the front instructions; text like the instructions"
+  },
+  {
+   "anno": 81,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 87,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  },
+  {
+   "anno": 91,
+   "note": "exam question: questions are text (user decision 2026-11-12)"
+  }
+ ],
+ "repeats": []
+}

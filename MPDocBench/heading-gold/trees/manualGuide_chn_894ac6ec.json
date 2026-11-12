@@ -1,0 +1,84 @@
+{
+ "doc": "manualGuide_chn_894ac6ec",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "R-1000型变压器绕线机 使用说明书",
+   "merge": [
+    2
+   ],
+   "note": "product + manual type merged"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "一、概述："
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 1,
+   "text": "二、主要技术指标和性能参数："
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 1,
+   "text": "三、主要功能特点："
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 1,
+   "text": "四、调整绕线机及绕制变压器的操作步骤："
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 1,
+   "text": "五、脚踏操作形式："
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 1,
+   "text": "六、使用说明和异常处理："
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 43,
+   "text": "1、控制器显示说明："
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 43,
+   "text": "2、控制器面板按键说明："
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 43,
+   "text": "2、异常及处理方法："
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 1,
+   "text": "七、安装与维护："
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 1,
+   "text": "八、注意事项：",
+   "note": "numbered section title, not a callout"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

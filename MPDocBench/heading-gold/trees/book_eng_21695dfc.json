@@ -1,0 +1,75 @@
+{
+ "doc": "book_eng_21695dfc",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Artificial Intelligence and Robotics"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "1. INTRODUCTION"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "2. THE BIRTH AND BOOM OF AI"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 14,
+   "text": "Weak and Strong AI",
+   "note": "titled box (sidebar)"
+  },
+  {
+   "anno": 40,
+   "level": 2,
+   "parent": 1,
+   "text": "3. QUESTIONING THE IMPACT OF AI"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 40,
+   "text": "The 18 topics covered by the AI100",
+   "note": "titled box listing the topics"
+  },
+  {
+   "anno": 64,
+   "level": 2,
+   "parent": 1,
+   "text": "4. A CLOSER LOOK AT THE EVOLUTION OF AI"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 64,
+   "text": "4.1 SEASONS OF AI"
+  },
+  {
+   "anno": 74,
+   "level": 3,
+   "parent": 64,
+   "text": "4.2 INFLUENCE OF FUNDING"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 64,
+   "text": "4.3 PUBLICATION VERSUS PATENTING"
+  },
+  {
+   "anno": 95,
+   "level": 2,
+   "parent": 1,
+   "text": "5. FINANCIAL IMPACT OF AI"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,48 @@
+{
+ "doc": "pptSlides_eng_82a06813",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Space-Timeline Template"
+  },
+  {
+   "anno": 43,
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Problem-Solution Template"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Storyboard Template"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 1,
+   "text": "The Children and Many Faces Of The Dramatic Story Canvas",
+   "note": "title-only divider slide, missed by the gold"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 14,
+   "of": 3
+  },
+  {
+   "anno": 27,
+   "of": 3
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "doc": "paper_chn_0945f03a",
+ "notation": "paper-v2: L1 paper title; L2 numbered sections and front/back matter titles (references); L3 subsections. English title translation, authors, affiliations, CLC/doc codes, journal headers are text. Headings of other articles printed on the same pages are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "新型硅烷杂化有机硅弹性防水涂料"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 4,
+   "text": "0 前言"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 4,
+   "text": "1 Geniosil W 硅烷杂化有机硅防水涂料的组成"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 4,
+   "text": "2 固化原理"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 28,
+   "text": "2.1α-硅烷封端杂化聚醚的合成"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 28,
+   "text": "2.2α-硅烷封端杂化聚醚的固化机理"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 4,
+   "text": "3 性能特点"
+  },
+  {
+   "anno": 71,
+   "level": 2,
+   "parent": 4,
+   "text": "4 施工应用"
+  },
+  {
+   "anno": 74,
+   "level": 2,
+   "parent": 4,
+   "text": "5 结语"
+  },
+  {
+   "anno": 76,
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 12,
+   "note": "English translation of the title"
+  },
+  {
+   "anno": 81,
+   "note": "section of a different article continued on this page (上接第49页); not part of this document's outline"
+  },
+  {
+   "anno": 89,
+   "note": "section of the same foreign article"
+  }
+ ],
+ "repeats": []
+}

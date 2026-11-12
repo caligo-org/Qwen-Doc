@@ -1,0 +1,80 @@
+{
+ "doc": "paper_chn_ceb8680b",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "供需视角下煤炭安全评价指标体系与实证",
+   "note": "footnote marker left out"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 1,
+   "text": "1 经济学供求理论下煤炭安全影响因素分析"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 1,
+   "text": "2煤炭安全评价指标体系构建"
+  },
+  {
+   "anno": 22,
+   "level": 3,
+   "parent": 21,
+   "text": "2.1 评价指标设置原则"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 21,
+   "text": "2.2 评价指标优选"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 21,
+   "text": "2.3构建指标体系及确定指标权重"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 1,
+   "text": "3 实证评价"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 38,
+   "text": "3.1 确定指标值"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 38,
+   "text": "3.2 指标值标准化处理"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 38,
+   "text": "3.3 加权规范化决策矩阵计算"
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 1,
+   "text": "4结论与讨论"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 1,
+   "text": "参考文献"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

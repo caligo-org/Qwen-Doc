@@ -1,0 +1,79 @@
+{
+ "doc": "textBook_chn_87e64920",
+ "notation": "textBook-v2: L1 cover subject title; L2 目录 and units (label + title merged); L3 lessons; L4 目 (same style headings inside a lesson).",
+ "nodes": [
+  {
+   "anno": 7,
+   "level": 1,
+   "parent": "root",
+   "text": "中国 历史",
+   "note": "cover title printed on two lines; grade/volume, series and award lines are text"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 7,
+   "text": "目录"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 7,
+   "text": "第一单元 史前时期：中国境内早期人类与文明的起源",
+   "merge": [
+    25
+   ],
+   "note": "unit label + unit title"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 24,
+   "text": "第1课 中国境内早期人类的代表——北京人"
+  },
+  {
+   "anno": 29,
+   "level": 4,
+   "parent": 27,
+   "text": "我国境内的早期人类"
+  },
+  {
+   "anno": 43,
+   "level": 4,
+   "parent": 27,
+   "text": "北京人",
+   "note": "same style as 我国境内的早期人类: sibling 目, not a child"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 27,
+   "text": "山顶洞人",
+   "note": "same style as 我国境内的早期人类: sibling 目"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 36,
+   "note": "sidebar label 相关史事"
+  },
+  {
+   "anno": 39,
+   "note": "sidebar label 问题思考"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 10,
+   "of": 7
+  },
+  {
+   "anno": 47,
+   "of": 27
+  },
+  {
+   "anno": 73,
+   "of": 27
+  }
+ ]
+}

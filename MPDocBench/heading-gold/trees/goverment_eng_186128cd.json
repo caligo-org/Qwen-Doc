@@ -1,0 +1,28 @@
+{
+ "doc": "goverment_eng_186128cd",
+ "notation": "goverment-v2 memo: L1 bold title line; two standalone noun-phrase topic labels ending in a colon that head bullet groups are L2 (borderline: printed in body style). Submitted by/To/On header lines, lead-in sentence, figure title are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Summary Points: North American HFC Submission to the Montreal Protocol"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 4,
+   "text": "Relationship to HCFC phaseout:",
+   "note": "standalone topic label over a bullet group (body style, borderline)"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 4,
+   "text": "Relationship with the United Nations Framework Convention on Climate Change (UNFCCC):",
+   "note": "standalone topic label over a bullet group (body style, borderline)"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

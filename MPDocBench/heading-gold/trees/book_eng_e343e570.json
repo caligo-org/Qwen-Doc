@@ -1,0 +1,302 @@
+{
+ "doc": "book_eng_e343e570",
+ "notation": "L1 guide title; L2 banner sections and scenario titles (subtitle line \"Two design options ...\" is text); L3 section heads. CHALLENGES:/GOAL: box labels and SOLUTION n figure labels are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "The Florida-Friendly Landscaping? Guide to Plant Selection & Landscape Design"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "WHAT ARE FLORIDA-FRIENDLY LANDSCAPES?"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 1,
+   "text": "SERVICES"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "ACKNOWLEDGEMENTS"
+  },
+  {
+   "anno": 34,
+   "level": 2,
+   "parent": 1,
+   "text": "Introduction"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 34,
+   "text": "WHAT IS A FLORIDA-FRIENDLY LANDSCAPE?"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 34,
+   "text": "THE FLORIDA-FRIENDLY LANDSCAPING? PROGRAM"
+  },
+  {
+   "anno": 40,
+   "level": 3,
+   "parent": 34,
+   "text": "LANDSCAPE DESIGN & PLANT SELECTION"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 34,
+   "text": "HOW TO USE THIS BOOK"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 1,
+   "text": "The Nine Florida-Friendly Landscaping? Principles"
+  },
+  {
+   "anno": 48,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #1: RIGHT PLANT, RIGHT PLACE"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #2: WATER EFFICIENTLY"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #3: FERTILIZE APPROPRIATELY"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #4: MULCH"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #5: ATTRACT WILDLIFE"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #6: MANAGE YARD PESTS RESPONSIBLY"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #7: RECYCLE"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #8: MANAGE STORMWATER RUNOFF"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 46,
+   "text": "PRINCIPLE #9: PROTECT THE WATERFRONT"
+  },
+  {
+   "anno": 70,
+   "level": 2,
+   "parent": 1,
+   "text": "Designing Your Florida-Friendly Landscape"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 70,
+   "text": "WHAT IF I LIVE IN A PLANNED COMMUNITY?"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 70,
+   "text": "DESIGN SCENARIOS"
+  },
+  {
+   "anno": 81,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO A: FRONT ENTRY",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 114,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO B: ALONG WALLS",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 147,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO C: ALONG SIDEWALKs",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 176,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO D: UNDER WINDOWS",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 208,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO E: ALONG FENCES",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 244,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO F: UNDER TREES",
+   "note": "second line of the box is a subtitle"
+  },
+  {
+   "anno": 273,
+   "level": 2,
+   "parent": 1,
+   "text": "SCENARIO G: UTILITIES",
+   "note": "second line of the box is a subtitle"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 24,
+   "note": "contact box title (program office address)"
+  },
+  {
+   "anno": 85,
+   "note": "box label"
+  },
+  {
+   "anno": 88,
+   "note": "box label"
+  },
+  {
+   "anno": 104,
+   "note": "figure label"
+  },
+  {
+   "anno": 108,
+   "note": "figure label"
+  },
+  {
+   "anno": 118,
+   "note": "box label"
+  },
+  {
+   "anno": 121,
+   "note": "box label"
+  },
+  {
+   "anno": 137,
+   "note": "figure label"
+  },
+  {
+   "anno": 141,
+   "note": "figure label"
+  },
+  {
+   "anno": 151,
+   "note": "box label"
+  },
+  {
+   "anno": 153,
+   "note": "box label"
+  },
+  {
+   "anno": 166,
+   "note": "figure label"
+  },
+  {
+   "anno": 170,
+   "note": "figure label"
+  },
+  {
+   "anno": 180,
+   "note": "box label"
+  },
+  {
+   "anno": 183,
+   "note": "box label"
+  },
+  {
+   "anno": 198,
+   "note": "figure label"
+  },
+  {
+   "anno": 212,
+   "note": "box label"
+  },
+  {
+   "anno": 215,
+   "note": "box label"
+  },
+  {
+   "anno": 230,
+   "note": "figure label"
+  },
+  {
+   "anno": 234,
+   "note": "figure label"
+  },
+  {
+   "anno": 238,
+   "note": "figure label"
+  },
+  {
+   "anno": 239,
+   "note": "figure caption (With Full Screening)"
+  },
+  {
+   "anno": 248,
+   "note": "box label"
+  },
+  {
+   "anno": 252,
+   "note": "box label"
+  },
+  {
+   "anno": 263,
+   "note": "figure label"
+  },
+  {
+   "anno": 267,
+   "note": "figure label"
+  },
+  {
+   "anno": 277,
+   "note": "box label"
+  },
+  {
+   "anno": 279,
+   "note": "box label"
+  }
+ ],
+ "repeats": []
+}

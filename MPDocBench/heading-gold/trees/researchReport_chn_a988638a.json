@@ -1,0 +1,44 @@
+{
+ "doc": "researchReport_chn_a988638a",
+ "notation": "researchReport (strategy weekly): L1 headline; numbered bold lead-ins (一、二、三、) run into their paragraphs and are text; back-matter titles L2.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "急跌或暂息，仍需防风险"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 4,
+   "text": "公司评级说明："
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 4,
+   "text": "行业评级说明："
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 4,
+   "text": "分析师声明："
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 4,
+   "text": "本公司具备证券投资咨询业务资格的说明："
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 4,
+   "text": "免责声明："
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,252 @@
+{
+ "doc": "researchReport_eng_aaabf80f",
+ "notation": "researchReport (periodical issue, Top of Mind; same family as researchReport_eng_1588f970): L1 masthead; L2 issue theme; L3 contents box and article banners; L4 region boxes in Macro news and views. The two list labels repeated in every box (Latest GS proprietary datapoints/major changes in views, Datapoints/trends we're focused on) are generic labels: text (label rule). Deck under the banner, chart titles, editor byline and interview questions are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "TOP of MIND",
+   "note": "masthead"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 4,
+   "text": "THE IPO SPAC-TACLE",
+   "note": "issue theme (cover headline)"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 5,
+   "text": "WHAT'S INSIDE"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 5,
+   "text": "Macro news and views"
+  },
+  {
+   "anno": 33,
+   "level": 4,
+   "parent": 31,
+   "text": "US"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 31,
+   "text": "Europe"
+  },
+  {
+   "anno": 56,
+   "level": 4,
+   "parent": 31,
+   "text": "Japan"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 31,
+   "text": "Emerging Markets (EM)"
+  },
+  {
+   "anno": 84,
+   "level": 3,
+   "parent": 5,
+   "text": "The IPO SPAC-tacle"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 5,
+   "text": "Interview with Jay R. Ritter"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 5,
+   "text": "Interview with David Ludwig"
+  },
+  {
+   "anno": 187,
+   "level": 3,
+   "parent": 5,
+   "text": "Going public: the basics"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 32,
+   "note": "deck under the section banner"
+  },
+  {
+   "anno": 40,
+   "note": "chart title"
+  },
+  {
+   "anno": 52,
+   "note": "chart title"
+  },
+  {
+   "anno": 64,
+   "note": "chart title"
+  },
+  {
+   "anno": 76,
+   "note": "chart title"
+  },
+  {
+   "anno": 97,
+   "note": "editor byline"
+  },
+  {
+   "anno": 107,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 111,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 113,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 117,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 120,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 122,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 128,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 131,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 133,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 138,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 140,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 150,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 154,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 156,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 159,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 161,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 163,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 166,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 172,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 176,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 180,
+   "note": "interview question (Q&A turn)"
+  },
+  {
+   "anno": 34,
+   "note": "label rule"
+  },
+  {
+   "anno": 37,
+   "note": "label rule"
+  },
+  {
+   "anno": 45,
+   "note": "label rule"
+  },
+  {
+   "anno": 47,
+   "note": "label rule"
+  },
+  {
+   "anno": 57,
+   "note": "label rule"
+  },
+  {
+   "anno": 59,
+   "note": "label rule"
+  },
+  {
+   "anno": 69,
+   "note": "label rule"
+  },
+  {
+   "anno": 71,
+   "note": "label rule"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 29,
+   "of": 4
+  },
+  {
+   "anno": 82,
+   "of": 4
+  },
+  {
+   "anno": 102,
+   "of": 4
+  },
+  {
+   "anno": 125,
+   "of": 4
+  },
+  {
+   "anno": 144,
+   "of": 4
+  },
+  {
+   "anno": 169,
+   "of": 4
+  },
+  {
+   "anno": 185,
+   "of": 4
+  }
+ ]
+}

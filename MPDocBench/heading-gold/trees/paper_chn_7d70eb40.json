@@ -1,0 +1,211 @@
+{
+ "doc": "paper_chn_7d70eb40",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "自行车交通系统发展对策研究"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "1 背景"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 1,
+   "text": "2自行车交通特征分析"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 8,
+   "text": "2.1 适用性"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 8,
+   "text": "2.2 局限性"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 1,
+   "text": "3 国内外发展经验"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 14,
+   "text": "3.1国外经验"
+  },
+  {
+   "anno": 17,
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.1 哥本哈根"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.2 阿姆斯特丹"
+  },
+  {
+   "anno": 24,
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.3伦敦"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 14,
+   "text": "3.2 国内经验"
+  },
+  {
+   "anno": 35,
+   "level": 4,
+   "parent": 33,
+   "text": "3.2.1 重庆"
+  },
+  {
+   "anno": 40,
+   "level": 4,
+   "parent": 33,
+   "text": "3.2.2 杭州"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 1,
+   "text": "4自行车交通系统发展对策"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 42,
+   "text": "4.1 城市空间布局调整"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 42,
+   "text": "4.2 自行车通行空间保障"
+  },
+  {
+   "anno": 59,
+   "level": 4,
+   "parent": 53,
+   "text": "4.2.1 中心城区——改善为主"
+  },
+  {
+   "anno": 61,
+   "level": 5,
+   "parent": 59,
+   "text": "（1）现状道路断面优化调整"
+  },
+  {
+   "anno": 68,
+   "level": 5,
+   "parent": 59,
+   "text": "（2）设置高架自行车专用路"
+  },
+  {
+   "anno": 70,
+   "level": 4,
+   "parent": 53,
+   "text": "4.2.2 外围新区——规划、新建为主"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 42,
+   "text": "4.3停车设施建设"
+  },
+  {
+   "anno": 77,
+   "level": 3,
+   "parent": 42,
+   "text": "4.4 交通一体化衔接"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 42,
+   "text": "4.5 改变人们出行习惯"
+  },
+  {
+   "anno": 82,
+   "level": 2,
+   "parent": 1,
+   "text": "5厦门自行车交通系统规划和建设实践"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 82,
+   "text": "5.1 发展现状"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 82,
+   "text": "5.2 发展目标和策略"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 82,
+   "text": "5.3厦门实践"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.1 自行车道分级规划"
+  },
+  {
+   "anno": 100,
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.2 低碳道路断面设计"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.3公共自行车系统建设"
+  },
+  {
+   "anno": 117,
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.4 交通一体化衔接规划"
+  },
+  {
+   "anno": 120,
+   "level": 2,
+   "parent": 1,
+   "text": "6 结语"
+  },
+  {
+   "anno": 124,
+   "level": 2,
+   "parent": 1,
+   "text": "【参考文献】"
+  },
+  {
+   "anno": 132,
+   "level": 2,
+   "parent": 1,
+   "text": "【作者简介】"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

@@ -1,0 +1,23 @@
+{
+ "doc": "book_eng_9c2fed1c",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "SAVING the CEO"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "back-cover tagline above the blurb (also printed on the cover)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 12,
+   "of": 4
+  }
+ ]
+}

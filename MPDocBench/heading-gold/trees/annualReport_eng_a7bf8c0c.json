@@ -1,0 +1,300 @@
+{
+ "doc": "annualReport_eng_a7bf8c0c",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2024 Annual Report",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 1,
+   "text": "To Our Shareholders"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "Board of Directors"
+  },
+  {
+   "anno": 55,
+   "level": 2,
+   "parent": 1,
+   "text": "Executive Leadership"
+  },
+  {
+   "anno": 80,
+   "level": 2,
+   "parent": 1,
+   "text": "Corporate Information"
+  },
+  {
+   "anno": 81,
+   "level": 3,
+   "parent": 80,
+   "text": "Annual Meeting"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 80,
+   "text": "Investor Relations"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 80,
+   "text": "SEC Filings"
+  },
+  {
+   "anno": 88,
+   "level": 3,
+   "parent": 80,
+   "text": "Transfer Agent"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 80,
+   "text": "Independent Auditors"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 80,
+   "text": "Corporate Headquarters"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 80,
+   "text": "Stock Market Information"
+  },
+  {
+   "anno": 104,
+   "level": 2,
+   "parent": 1,
+   "text": "FORM 10-K",
+   "note": "embedded Form 10-K"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 104,
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 104,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "anno": 136,
+   "level": 3,
+   "parent": 104,
+   "text": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS"
+  },
+  {
+   "anno": 141,
+   "level": 3,
+   "parent": 104,
+   "text": "PARTI"
+  },
+  {
+   "anno": 142,
+   "level": 4,
+   "parent": 141,
+   "text": "ITEM 1. BUSINESS"
+  },
+  {
+   "anno": 150,
+   "level": 5,
+   "parent": 142,
+   "text": "AIR GROUP"
+  },
+  {
+   "anno": 157,
+   "level": 5,
+   "parent": 142,
+   "text": "ALASKA AIRLINES"
+  },
+  {
+   "anno": 164,
+   "level": 5,
+   "parent": 142,
+   "text": "HAWAIIAN AIRLINES"
+  },
+  {
+   "anno": 171,
+   "level": 5,
+   "parent": 142,
+   "text": "REGIONAL"
+  },
+  {
+   "anno": 175,
+   "level": 5,
+   "parent": 142,
+   "text": "CARGO AND OTHER REVENUE"
+  },
+  {
+   "anno": 179,
+   "level": 5,
+   "parent": 142,
+   "text": "LOYALTY PROGRAMS"
+  },
+  {
+   "anno": 184,
+   "level": 6,
+   "parent": 179,
+   "text": "Alaska Airlines"
+  },
+  {
+   "anno": 189,
+   "level": 6,
+   "parent": 179,
+   "text": "Hawaiian Airlines"
+  },
+  {
+   "anno": 194,
+   "level": 5,
+   "parent": 142,
+   "text": "AGREEMENTS WITH OTHER AIRLINES"
+  },
+  {
+   "anno": 216,
+   "level": 5,
+   "parent": 142,
+   "text": "GENERAL"
+  },
+  {
+   "anno": 218,
+   "level": 5,
+   "parent": 142,
+   "text": "SAFETY"
+  },
+  {
+   "anno": 222,
+   "level": 5,
+   "parent": 142,
+   "text": "FUEL"
+  },
+  {
+   "anno": 234,
+   "level": 5,
+   "parent": 142,
+   "text": "COMPETITION"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 29,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 31,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 33,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 35,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 37,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 39,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 41,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 43,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 45,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 47,
+   "note": "list of board member names"
+  },
+  {
+   "anno": 49,
+   "note": "run-in label above a list"
+  },
+  {
+   "anno": 56,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 58,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 60,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 62,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 64,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 66,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 68,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 70,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 72,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 74,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 76,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 78,
+   "note": "list of executive names"
+  },
+  {
+   "anno": 103,
+   "note": "issuing body on the Form 10-K cover"
+  },
+  {
+   "anno": 117,
+   "note": "form field value"
+  },
+  {
+   "anno": 132,
+   "note": "report title restated above the table of contents"
+  }
+ ],
+ "repeats": []
+}

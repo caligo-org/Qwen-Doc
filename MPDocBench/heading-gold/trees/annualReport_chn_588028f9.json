@@ -1,0 +1,219 @@
+{
+ "doc": "annualReport_chn_588028f9",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2019 年年度报告",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 8,
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 8,
+   "text": "目录"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 8,
+   "text": "释义"
+  },
+  {
+   "anno": 32,
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 32,
+   "text": "一、公司信息"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 32,
+   "text": "二、联系人和联系方式"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 32,
+   "text": "三、信息披露及备置地点"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 32,
+   "text": "四、注册变更情况"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 32,
+   "text": "五、其他有关资料"
+  },
+  {
+   "anno": 53,
+   "level": 3,
+   "parent": 32,
+   "text": "六、主要会计数据和财务指标"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 32,
+   "text": "七、境内外会计准则下会计数据差异"
+  },
+  {
+   "anno": 62,
+   "level": 4,
+   "parent": 61,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 65,
+   "level": 4,
+   "parent": 61,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 32,
+   "text": "八、分季度主要财务指标"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 32,
+   "text": "九、非经常性损益项目及金额"
+  },
+  {
+   "anno": 87,
+   "level": 2,
+   "parent": 3,
+   "text": "第三节公司业务概要"
+  },
+  {
+   "anno": 88,
+   "level": 3,
+   "parent": 87,
+   "text": "一、报告期内公司从事的主要业务"
+  },
+  {
+   "anno": 90,
+   "level": 4,
+   "parent": 88,
+   "text": "一、To B端业务：精准营销广告",
+   "note": "second 一、二、三、 series printed smaller, under the section's 一、"
+  },
+  {
+   "anno": 94,
+   "level": 4,
+   "parent": 88,
+   "text": "二、ToC端业务：精准营销跨境电商"
+  },
+  {
+   "anno": 99,
+   "level": 4,
+   "parent": 88,
+   "text": "三、线下：包装业务"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 87,
+   "text": "二、主要资产重大变化情况"
+  },
+  {
+   "anno": 107,
+   "level": 4,
+   "parent": 106,
+   "text": "1、主要资产重大变化情况"
+  },
+  {
+   "anno": 109,
+   "level": 4,
+   "parent": 106,
+   "text": "2、主要境外资产情况"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 87,
+   "text": "三、核心竞争力分析"
+  },
+  {
+   "anno": 116,
+   "level": 2,
+   "parent": 3,
+   "text": "第四节经营情况讨论与分析"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 116,
+   "text": "一、概述"
+  },
+  {
+   "anno": 119,
+   "level": 4,
+   "parent": 117,
+   "text": "一、ToB端业务：精准营销广告"
+  },
+  {
+   "anno": 121,
+   "level": 4,
+   "parent": 117,
+   "text": "二、ToC端业务：精准营销跨境电商"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 116,
+   "text": "二、主营业务分析"
+  },
+  {
+   "anno": 124,
+   "level": 4,
+   "parent": 123,
+   "text": "1、概述"
+  },
+  {
+   "anno": 126,
+   "level": 4,
+   "parent": 123,
+   "text": "2、收入与成本"
+  },
+  {
+   "anno": 127,
+   "level": 5,
+   "parent": 126,
+   "text": "（1）营业收入构成"
+  },
+  {
+   "anno": 134,
+   "level": 5,
+   "parent": 126,
+   "text": "（2）占公司营业收入或营业利润 10\\% 以上的行业、产品或地区情况"
+  },
+  {
+   "anno": 140,
+   "level": 5,
+   "parent": 126,
+   "text": "（3）公司实物销售收入是否大于劳务收入"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

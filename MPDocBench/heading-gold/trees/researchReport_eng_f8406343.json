@@ -1,0 +1,49 @@
+{
+ "doc": "researchReport_eng_f8406343",
+ "notation": "researchReport (English Q&A note): L1 headline; L2 the Q1..Q5 headings. Bold run-in questions in the cover bullets are text.",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "Strategy Espresso: Q&A on Womenomics: Where is Europe now?"
+  },
+  {
+   "anno": 21,
+   "level": 2,
+   "parent": 4,
+   "text": "Q1: The share of women on boards has improved; but isn't this all non-executive directors?"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 4,
+   "text": "Q2: But are things improving?"
+  },
+  {
+   "anno": 54,
+   "level": 2,
+   "parent": 4,
+   "text": "Q3: Are certain sectors/countries doing better?"
+  },
+  {
+   "anno": 74,
+   "level": 2,
+   "parent": 4,
+   "text": "Q4: What matters for the gender pay gap?"
+  },
+  {
+   "anno": 90,
+   "level": 2,
+   "parent": 4,
+   "text": "Q5: Have women been hit harder by Covid?"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 7,
+   "note": "bold run-in question starting a cover bullet"
+  }
+ ],
+ "repeats": []
+}

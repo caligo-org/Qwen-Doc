@@ -1,0 +1,141 @@
+{
+ "doc": "annualReport_eng_ea53b553",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "FORM 10-K",
+   "note": "document title on the Form 10-K cover"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 4,
+   "text": "Table of Contents"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 4,
+   "text": "Forward-Looking Statements"
+  },
+  {
+   "anno": 74,
+   "level": 2,
+   "parent": 4,
+   "text": "PART I"
+  },
+  {
+   "anno": 75,
+   "level": 3,
+   "parent": 74,
+   "text": "ITEM 1. BUSINESS"
+  },
+  {
+   "anno": 76,
+   "level": 4,
+   "parent": 75,
+   "text": "Overview"
+  },
+  {
+   "anno": 85,
+   "level": 4,
+   "parent": 75,
+   "text": "Our Strategy"
+  },
+  {
+   "anno": 93,
+   "level": 4,
+   "parent": 75,
+   "text": "Misuse or Abuse of Prescription Opioid Products and Development of Risk Mitigation Formulations"
+  },
+  {
+   "anno": 110,
+   "level": 4,
+   "parent": 75,
+   "text": "Overdose Risk Mitigation - Products and Development"
+  },
+  {
+   "anno": 114,
+   "level": 4,
+   "parent": 75,
+   "text": "LIMITx? Technology"
+  },
+  {
+   "anno": 118,
+   "level": 4,
+   "parent": 75,
+   "text": "LIMITx Technology Products in Development"
+  },
+  {
+   "anno": 124,
+   "level": 5,
+   "parent": 118,
+   "text": "LTX-03 Development"
+  },
+  {
+   "anno": 125,
+   "level": 6,
+   "parent": 124,
+   "text": "Study 301",
+   "note": "same bold-italic look as LTX-03 Development, so same level (no numbering)"
+  },
+  {
+   "anno": 129,
+   "level": 6,
+   "parent": 124,
+   "text": "Manufacturing"
+  },
+  {
+   "anno": 133,
+   "level": 6,
+   "parent": 124,
+   "text": "IND Update"
+  },
+  {
+   "anno": 141,
+   "level": 6,
+   "parent": 124,
+   "text": "Non-clinical Study APT-RDR-300"
+  },
+  {
+   "anno": 144,
+   "level": 6,
+   "parent": 124,
+   "text": "Non-clinical Study APT-RDR-301"
+  },
+  {
+   "anno": 150,
+   "level": 6,
+   "parent": 124,
+   "text": "Clinical Study AP-LTX-311"
+  },
+  {
+   "anno": 153,
+   "level": 6,
+   "parent": 124,
+   "text": "AD Pharma Amended Agreement covering LTX-03"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "issuing body on the Form 10-K cover"
+  },
+  {
+   "anno": 9,
+   "note": "registrant name, a cover form field"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 36,
+   "of": 4
+  },
+  {
+   "anno": 41,
+   "of": 38
+  }
+ ]
+}

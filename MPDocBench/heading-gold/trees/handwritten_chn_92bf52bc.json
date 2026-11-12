@@ -1,0 +1,63 @@
+{
+ "doc": "handwritten_chn_92bf52bc",
+ "notation": "handwritten-v2 (lab report): 实验名称 line is the title L1; 一…七 sections L2; an own-line numbered topic title (4. 离心技术) L3. Numbered statements (1. 肝糖原…, 2. 糖原与碘作用呈棕红色) and run-in labels (·注意事项：) are text.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "实验名称：肝糖原的提取与定性."
+  },
+  {
+   "anno": 2,
+   "level": 2,
+   "parent": 1,
+   "text": "一、实验目的"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 1,
+   "text": "二、实验原理"
+  },
+  {
+   "anno": 11,
+   "level": 3,
+   "parent": 4,
+   "text": "4. 离心技术",
+   "note": "own-line topic title over a multi-paragraph block; siblings 1-3 are one-line statements"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 1,
+   "text": "三、步骤与注意事项"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "四. 药品及设备"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 1,
+   "text": "五. 实验结果及现象分析"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 1,
+   "text": "六. 分析与讨论"
+  },
+  {
+   "anno": 39,
+   "level": 2,
+   "parent": 1,
+   "text": "七. 思考题"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

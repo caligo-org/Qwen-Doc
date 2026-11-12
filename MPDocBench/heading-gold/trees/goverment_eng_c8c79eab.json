@@ -1,0 +1,38 @@
+{
+ "doc": "goverment_eng_c8c79eab",
+ "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block), so the dashed-underlined section heads are the top level (several L1). Routing, classification, table title run-in in paragraph 9, signature are text.",
+ "nodes": [
+  {
+   "anno": 8,
+   "level": 1,
+   "parent": "root",
+   "text": "Summary"
+  },
+  {
+   "anno": 10,
+   "level": 1,
+   "parent": "root",
+   "text": "PAM: The Palace Party"
+  },
+  {
+   "anno": 16,
+   "level": 1,
+   "parent": "root",
+   "text": "Oujda Mayoral Selection Marred by Government Intervention"
+  },
+  {
+   "anno": 24,
+   "level": 1,
+   "parent": "root",
+   "text": "Normal Irregularities Are Bad Enough"
+  },
+  {
+   "anno": 28,
+   "level": 1,
+   "parent": "root",
+   "text": "COMMENT"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

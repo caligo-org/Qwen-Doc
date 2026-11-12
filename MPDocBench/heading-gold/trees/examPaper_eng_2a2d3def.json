@@ -1,0 +1,29 @@
+{
+ "doc": "examPaper_eng_2a2d3def",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "浙江大学2018-2019学年春夏学期 《Artificial Intelligence》课程期末考试试卷",
+   "merge": [
+    2
+   ],
+   "note": "title printed on two lines (term line + course exam title)"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 1,
+   "text": "1. Fill in the blanks (20 points, 1 points/each blank)"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 1,
+   "text": "2. Single Choice (50 points, only one of the options is correct. 2 points/one question)"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

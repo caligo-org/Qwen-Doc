@@ -1,0 +1,95 @@
+{
+ "doc": "prospectus_chn_5da38fd1",
+ "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections; L3 一、; L4 1、. Cover issuer name/English name/address/sponsor are text.",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "首次公开发行股票并在主板上市招股说明书"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 5,
+   "text": "发行人声明"
+  },
+  {
+   "anno": 18,
+   "level": 2,
+   "parent": 5,
+   "text": "致投资者的声明"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 18,
+   "text": "一、发行人上市的目的"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 18,
+   "text": "二、发行人现代企业制度的建立健全情况"
+  },
+  {
+   "anno": 29,
+   "level": 3,
+   "parent": 18,
+   "text": "三、发行人本次融资的必要性及募集资金使用规划"
+  },
+  {
+   "anno": 30,
+   "level": 4,
+   "parent": 29,
+   "text": "1、公司本次融资的必要性"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 29,
+   "text": "2、公司募集资金使用规划"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 18,
+   "text": "四、发行人持续经营能力及未来发展规划"
+  },
+  {
+   "anno": 37,
+   "level": 4,
+   "parent": 36,
+   "text": "1、公司持续经营能力"
+  },
+  {
+   "anno": 43,
+   "level": 4,
+   "parent": 36,
+   "text": "2、公司的未来发展规划"
+  },
+  {
+   "anno": 51,
+   "level": 2,
+   "parent": 5,
+   "text": "本次发行概况"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 5,
+   "text": "目录"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "issuer name on cover"
+  },
+  {
+   "anno": 2,
+   "note": "issuer English name on cover"
+  }
+ ],
+ "repeats": []
+}

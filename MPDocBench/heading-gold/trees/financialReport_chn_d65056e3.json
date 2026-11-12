@@ -1,0 +1,127 @@
+{
+ "doc": "financialReport_chn_d65056e3",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2024年财务报表审计报告书",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 1,
+   "text": "目 录"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 1,
+   "text": "审计报告"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 17,
+   "text": "一、审计意见"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 17,
+   "text": "二、形成审计意见的基础"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 17,
+   "text": "三、关键审计事项"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 25,
+   "text": "（一）应收账款坏账准备计提"
+  },
+  {
+   "anno": 33,
+   "level": 5,
+   "parent": 32,
+   "text": "1、事项描述"
+  },
+  {
+   "anno": 35,
+   "level": 5,
+   "parent": 32,
+   "text": "2、审计应对"
+  },
+  {
+   "anno": 42,
+   "level": 4,
+   "parent": 25,
+   "text": "（二）收入确认"
+  },
+  {
+   "anno": 43,
+   "level": 5,
+   "parent": 42,
+   "text": "1、事项描述"
+  },
+  {
+   "anno": 50,
+   "level": 5,
+   "parent": 42,
+   "text": "2、审计应对"
+  },
+  {
+   "anno": 58,
+   "level": 3,
+   "parent": 17,
+   "text": "四、其他信息"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 17,
+   "text": "五、管理层和治理层对财务报表的责任"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 17,
+   "text": "六、注册会计师对财务报表审计的责任"
+  },
+  {
+   "anno": 104,
+   "level": 2,
+   "parent": 1,
+   "text": "合并资产负债表"
+  },
+  {
+   "anno": 143,
+   "level": 2,
+   "parent": 1,
+   "text": "合并利润表"
+  },
+  {
+   "anno": 162,
+   "level": 2,
+   "parent": 1,
+   "text": "合并现金流量表"
+  },
+  {
+   "anno": 181,
+   "level": 2,
+   "parent": 1,
+   "text": "合并股东权益变动表"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 125,
+   "of": 104
+  }
+ ]
+}

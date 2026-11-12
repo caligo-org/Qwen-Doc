@@ -1,0 +1,61 @@
+{
+ "doc": "financialReport_chn_16e75a27",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "2025年半年度财务会计报告"
+  },
+  {
+   "anno": 3,
+   "level": 2,
+   "parent": 2,
+   "text": "一、审计报告"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "二、财务报表"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 7,
+   "text": "1、合并资产负债表"
+  },
+  {
+   "anno": 26,
+   "level": 3,
+   "parent": 7,
+   "text": "2、母公司资产负债表"
+  },
+  {
+   "anno": 35,
+   "level": 3,
+   "parent": 7,
+   "text": "3、合并利润表"
+  },
+  {
+   "anno": 47,
+   "level": 3,
+   "parent": 7,
+   "text": "4、母公司利润表"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 7,
+   "text": "5、合并现金流量表"
+  },
+  {
+   "anno": 62,
+   "level": 3,
+   "parent": 7,
+   "text": "6、母公司现金流量表"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

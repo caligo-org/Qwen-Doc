@@ -1,0 +1,77 @@
+{
+ "doc": "textBook_chn_12b0d2b4",
+ "notation": "textBook-v2: L1 cover subject title; L2 front matter and chapters; L3 numbered sections; L4 exercise banners (练习) inside a section.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "数学",
+   "note": "cover title; 选择性必修/第二册/A版 are text"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 3,
+   "text": "本册导引"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 3,
+   "text": "第四章 数 列",
+   "note": "chapter label + title in one box"
+  },
+  {
+   "anno": 34,
+   "level": 3,
+   "parent": 31,
+   "text": "4.1 数列的概念"
+  },
+  {
+   "anno": 92,
+   "level": 4,
+   "parent": 34,
+   "text": "练习",
+   "note": "exercise banner; the exercises follow under it"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 47,
+   "note": "callout label 思考 (box with a prompt question)"
+  },
+  {
+   "anno": 51,
+   "note": "callout label 归纳 (box with a prompt question)"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 3
+  },
+  {
+   "anno": 50,
+   "of": 31
+  },
+  {
+   "anno": 68,
+   "of": 31
+  },
+  {
+   "anno": 83,
+   "of": 31
+  },
+  {
+   "anno": 105,
+   "of": 31
+  }
+ ]
+}

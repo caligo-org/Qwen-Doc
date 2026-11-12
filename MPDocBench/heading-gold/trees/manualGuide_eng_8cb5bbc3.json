@@ -1,0 +1,86 @@
+{
+ "doc": "manualGuide_eng_8cb5bbc3",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "air-o-convect Touchline Electric Convection Oven 6GN 1/1",
+   "note": "product title under the photo (the boxed header #3 repeats it)"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 6,
+   "text": "Short Form Specification"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 6,
+   "text": "Main Features"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 6,
+   "text": "Construction"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 6,
+   "text": "Optional Accessories"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 6,
+   "text": "Electric",
+   "note": "grey-band spec section, same look as Short Form Specification; not part of Optional Accessories"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 6,
+   "text": "Water:"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 6,
+   "text": "Installation:"
+  },
+  {
+   "anno": 58,
+   "level": 2,
+   "parent": 6,
+   "text": "Capacity:"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 6,
+   "text": "Key Information:"
+  },
+  {
+   "anno": 67,
+   "level": 2,
+   "parent": 6,
+   "text": "Optional Accessories",
+   "continues": 41,
+   "note": "Optional Accessories resumed on page 3"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 48,
+   "of": 6
+  },
+  {
+   "anno": 66,
+   "of": 6
+  }
+ ]
+}

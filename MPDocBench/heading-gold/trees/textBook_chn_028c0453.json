@@ -1,0 +1,39 @@
+{
+ "doc": "textBook_chn_028c0453",
+ "notation": "textBook-v2: L1 book title from cover; L2 front matter titles and chapters (第N章 label+title one box).",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "物理",
+   "note": "cover title; 必修/第三册 volume lines are text"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 3,
+   "text": "亲爱的同学：",
+   "note": "preface letter salutation, functions as the preface title"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 46,
+   "level": 2,
+   "parent": 3,
+   "text": "第1章 电荷的相互作用"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 3
+  }
+ ]
+}

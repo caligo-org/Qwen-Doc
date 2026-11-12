@@ -1,0 +1,197 @@
+{
+ "doc": "manualGuide_chn_bf4b003e",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "用户手册 FORIS FS2331 彩色液晶显示器",
+   "merge": [
+    2,
+    3
+   ],
+   "note": "manual type + product/model lines merged"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 1,
+   "text": "警告声明的位置"
+  },
+  {
+   "anno": 15,
+   "level": 2,
+   "parent": 1,
+   "text": "有关此显示器的注意事项"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 1,
+   "text": "清洁"
+  },
+  {
+   "anno": 36,
+   "level": 5,
+   "parent": 31,
+   "text": "面板",
+   "note": "● level (L5 throughout); levels skip where no chapter/section/subhead is printed"
+  },
+  {
+   "anno": 39,
+   "level": 5,
+   "parent": 31,
+   "text": "机壳"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 1,
+   "text": "舒适地使用显示器"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 1,
+   "text": "目录"
+  },
+  {
+   "anno": 50,
+   "level": 2,
+   "parent": 1,
+   "text": "第 1 章 介绍"
+  },
+  {
+   "anno": 52,
+   "level": 3,
+   "parent": 50,
+   "text": "1-1. 特征"
+  },
+  {
+   "anno": 82,
+   "level": 3,
+   "parent": 50,
+   "text": "1-2. 控制和功能"
+  },
+  {
+   "anno": 83,
+   "level": 4,
+   "parent": 82,
+   "text": "显示器"
+  },
+  {
+   "anno": 90,
+   "level": 4,
+   "parent": 82,
+   "text": "遥控器"
+  },
+  {
+   "anno": 93,
+   "level": 5,
+   "parent": 90,
+   "text": "在使用遥控器之前"
+  },
+  {
+   "anno": 94,
+   "level": 6,
+   "parent": 93,
+   "text": "如何安装电池"
+  },
+  {
+   "anno": 101,
+   "level": 6,
+   "parent": 93,
+   "text": "遥控器的接收范围"
+  },
+  {
+   "anno": 106,
+   "level": 3,
+   "parent": 50,
+   "text": "1-3. EIZO LCD Utility Disk"
+  },
+  {
+   "anno": 108,
+   "level": 5,
+   "parent": 106,
+   "text": "光盘内容和软件概述"
+  },
+  {
+   "anno": 111,
+   "level": 5,
+   "parent": 106,
+   "text": "使用“ScreenManager Pro for LCD (DDC/CI)/EIZO ScreenSlicer”"
+  },
+  {
+   "anno": 115,
+   "level": 3,
+   "parent": 50,
+   "text": "1-4. 基本操作和功能"
+  },
+  {
+   "anno": 116,
+   "level": 5,
+   "parent": 115,
+   "text": "设定菜单的基本操作"
+  },
+  {
+   "anno": 117,
+   "level": 6,
+   "parent": 116,
+   "text": "1. 显示设定菜单"
+  },
+  {
+   "anno": 120,
+   "level": 6,
+   "parent": 116,
+   "text": "2. 调节/设定"
+  },
+  {
+   "anno": 126,
+   "level": 6,
+   "parent": 116,
+   "text": "3. 退出"
+  },
+  {
+   "anno": 131,
+   "level": 5,
+   "parent": 115,
+   "text": "功能"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "grey callout box label \"重要\" (Important)"
+  },
+  {
+   "anno": 32,
+   "note": "callout label 注意"
+  },
+  {
+   "anno": 34,
+   "note": "callout label 注"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 88,
+   "of": 50
+  },
+  {
+   "anno": 105,
+   "of": 50
+  },
+  {
+   "anno": 113,
+   "of": 50
+  },
+  {
+   "anno": 130,
+   "of": 50
+  },
+  {
+   "anno": 137,
+   "of": 50
+  }
+ ]
+}

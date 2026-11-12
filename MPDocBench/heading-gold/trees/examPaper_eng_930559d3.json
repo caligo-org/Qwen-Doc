@@ -1,0 +1,72 @@
+{
+ "doc": "examPaper_eng_930559d3",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "2024 MCM Problem C: Momentum in Tennis",
+   "note": "title printed on two lines in one box"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 1,
+   "text": "Files provided:"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 1,
+   "text": "Glossary"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 1,
+   "text": "Glossary of key terms/concepts:",
+   "note": "second glossary title on the next page; different wording, kept as a sibling section"
+  },
+  {
+   "anno": 51,
+   "level": 2,
+   "parent": 1,
+   "text": "References:"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 1,
+   "text": "Examples to Help Understand the Data Set"
+  },
+  {
+   "anno": 69,
+   "level": 2,
+   "parent": 1,
+   "text": "Use of Large Language Models and Generative AI Tools in COMAP Contests",
+   "note": "appended policy document; its sections follow at L3"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 69,
+   "text": "Guidance for teams",
+   "note": "section of the appended AI-use policy"
+  },
+  {
+   "anno": 85,
+   "level": 3,
+   "parent": 69,
+   "text": "Citation and Referencing Directions"
+  },
+  {
+   "anno": 89,
+   "level": 4,
+   "parent": 85,
+   "text": "Report on Use of AI",
+   "note": "centred title of the example report shown inside Citation and Referencing Directions"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

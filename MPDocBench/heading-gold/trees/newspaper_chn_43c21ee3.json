@@ -1,0 +1,157 @@
+{
+ "doc": "newspaper_chn_43c21ee3",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 经济日报: front page = implicit section, 要闻 page tag p2 = L2; headline L3 (引题/副题 decks and red 专栏 rubrics are text; node text = main title only); in-story subheads L4.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "經濟日報",
+   "note": "masthead"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 1,
+   "text": "『双十一』消费转向多点驱动",
+   "note": "vertical headline; the 引题 '商品与服务并重，体验和情绪主导——' in the same box is a deck"
+  },
+  {
+   "anno": 10,
+   "level": 4,
+   "parent": 6,
+   "text": "市场亮点纷呈"
+  },
+  {
+   "anno": 17,
+   "level": 4,
+   "parent": 6,
+   "text": "AI技术持续赋能"
+  },
+  {
+   "anno": 26,
+   "level": 4,
+   "parent": 6,
+   "text": "创造更多增量价值"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 1,
+   "text": "10月份我国新能源汽车销售171.5万辆"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 1,
+   "text": "习近平致电祝贺康诺利就任爱尔兰总统"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 1,
+   "text": "发挥重点区域增长极作用",
+   "note": "'经济论坛' column rubric and columnist are text"
+  },
+  {
+   "anno": 57,
+   "level": 3,
+   "parent": 1,
+   "text": "跨省跨区电力应急调度机制更完善",
+   "note": "引题 above is a deck"
+  },
+  {
+   "anno": 71,
+   "level": 3,
+   "parent": 1,
+   "text": "河北唐山做优特色产业集群",
+   "note": "副题 in the same box is a deck"
+  },
+  {
+   "anno": 78,
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "note": "page section tag p2"
+  },
+  {
+   "anno": 81,
+   "level": 3,
+   "parent": 78,
+   "text": "丁薛祥会见挪威外交大臣艾德"
+  },
+  {
+   "anno": 88,
+   "level": 3,
+   "parent": 78,
+   "text": "学习贯彻党的二十届四中全会精神 中央宣讲团报告会在住房城乡建设系统举行",
+   "note": "two-line headline; the small red line above is a 专栏 rubric"
+  },
+  {
+   "anno": 98,
+   "level": 3,
+   "parent": 78,
+   "text": "乡镇工业也能锚定高水平",
+   "note": "red rubric '四中全会精神在基层' is text"
+  },
+  {
+   "anno": 111,
+   "level": 3,
+   "parent": 78,
+   "text": "长期护理险守护老有所养",
+   "note": "column '金视角' label in the same box is a rubric"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 78,
+   "text": "2025年度中央安全生产考核巡查正式启动"
+  },
+  {
+   "anno": 128,
+   "level": 3,
+   "parent": 78,
+   "text": "工信部加快制造业中试平台体系化布局"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 78,
+   "text": "湾区品牌为啥这么火"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 78,
+   "text": "打好黄河“几字弯”攻坚战"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 41,
+   "note": "column rubric 经济论坛"
+  },
+  {
+   "anno": 53,
+   "note": "导读 index box"
+  },
+  {
+   "anno": 56,
+   "note": "引题 (deck)"
+  },
+  {
+   "anno": 87,
+   "note": "专栏 rubric"
+  },
+  {
+   "anno": 96,
+   "note": "专栏 rubric"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 80,
+   "of": 1
+  }
+ ]
+}

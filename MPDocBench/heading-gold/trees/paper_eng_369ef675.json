@@ -1,0 +1,235 @@
+{
+ "doc": "paper_eng_369ef675",
+ "nodes": [
+  {
+   "anno": 12,
+   "level": 1,
+   "parent": "root",
+   "text": "Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 12,
+   "text": "Abstract:"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 12,
+   "text": "Introduction"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 12,
+   "text": "Literature Review and Focus of Study"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 12,
+   "text": "Research Method"
+  },
+  {
+   "anno": 58,
+   "level": 2,
+   "parent": 12,
+   "text": "Result and Discussion"
+  },
+  {
+   "anno": 59,
+   "level": 3,
+   "parent": 58,
+   "text": "Classification of Article Categorization"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification Based on Year of Publication"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Analysis Unit"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Its Research Paradigm"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Research Methodology (Empirical vs. Non-Empirical)"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Research Methodology (Quantitative vs. Qualitative)"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 58,
+   "text": "Research Methods used in the Articles"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 58,
+   "text": "Classification of Article based on IFRS Convergence Stages"
+  },
+  {
+   "anno": 93,
+   "level": 4,
+   "parent": 91,
+   "text": "a. IFRS convergence implementation and issues in Indonesia"
+  },
+  {
+   "anno": 101,
+   "level": 4,
+   "parent": 91,
+   "text": "b. IFRS convergence development in Indonesia"
+  },
+  {
+   "anno": 105,
+   "level": 4,
+   "parent": 91,
+   "text": "c. The effect of IFRS convergence in Indonesia"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 58,
+   "text": "The Effect of IFRS Convergence in Indonesia"
+  },
+  {
+   "anno": 114,
+   "level": 4,
+   "parent": 107,
+   "text": "a. The Effect of IFRS Convergence in Indonesia on Value Relevance"
+  },
+  {
+   "anno": 124,
+   "level": 4,
+   "parent": 107,
+   "text": "b. The Effect of IFRS Convergence in Indonesia on Earnings Management"
+  },
+  {
+   "anno": 135,
+   "level": 4,
+   "parent": 107,
+   "text": "c. The Effect of IFRS Convergence in Indonesia on Company Financial Performance"
+  },
+  {
+   "anno": 146,
+   "level": 4,
+   "parent": 107,
+   "text": "d. The Effect of IFRS Convergence in Indonesia on Earnings Quality"
+  },
+  {
+   "anno": 159,
+   "level": 4,
+   "parent": 107,
+   "text": "e. The Effect of IFRS Convergence in Indonesia on Accounting Information Quality"
+  },
+  {
+   "anno": 168,
+   "level": 4,
+   "parent": 107,
+   "text": "f. The Effect of IFRS Convergence in Indonesia on Other Factors"
+  },
+  {
+   "anno": 175,
+   "level": 3,
+   "parent": 58,
+   "text": "Description of IFRS convergence effect on each factor"
+  },
+  {
+   "anno": 176,
+   "level": 4,
+   "parent": 175,
+   "text": "1. Report delay and audit delay"
+  },
+  {
+   "anno": 178,
+   "level": 4,
+   "parent": 175,
+   "text": "2. Accounting Conservatism"
+  },
+  {
+   "anno": 182,
+   "level": 4,
+   "parent": 175,
+   "text": "3. Stock return and stock risk"
+  },
+  {
+   "anno": 189,
+   "level": 4,
+   "parent": 175,
+   "text": "4. Information Assymmetry"
+  },
+  {
+   "anno": 192,
+   "level": 4,
+   "parent": 175,
+   "text": "5. External Audit Fee"
+  },
+  {
+   "anno": 195,
+   "level": 4,
+   "parent": 175,
+   "text": "6. Trading Volume Activity (TVA)"
+  },
+  {
+   "anno": 201,
+   "level": 4,
+   "parent": 175,
+   "text": "7. Cost of capital"
+  },
+  {
+   "anno": 203,
+   "level": 4,
+   "parent": 175,
+   "text": "8. Foreign Direct Investment (FDI)"
+  },
+  {
+   "anno": 205,
+   "level": 4,
+   "parent": 175,
+   "text": "9. Stock volatility and market efficiency"
+  },
+  {
+   "anno": 207,
+   "level": 4,
+   "parent": 175,
+   "text": "10. Analyst forecast error and analyst following"
+  },
+  {
+   "anno": 210,
+   "level": 2,
+   "parent": 12,
+   "text": "Conclusion"
+  },
+  {
+   "anno": 224,
+   "level": 2,
+   "parent": 12,
+   "text": "Appendix"
+  },
+  {
+   "anno": 238,
+   "level": 2,
+   "parent": 12,
+   "text": "References"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

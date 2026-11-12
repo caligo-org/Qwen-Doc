@@ -1,0 +1,147 @@
+{
+ "doc": "magazine_eng_7d53ba06",
+ "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
+ "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Baseball America",
+   "note": "masthead"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "NOVEMBER/DECEMBER Leading Off",
+   "note": "contents page title (the page lists the issue; no other contents heading)"
+  },
+  {
+   "anno": 49,
+   "level": 2,
+   "parent": 1,
+   "text": "Leading Off",
+   "note": "section tag Leading Off"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 49,
+   "text": "Numbers Game",
+   "note": "column title"
+  },
+  {
+   "anno": 52,
+   "level": 4,
+   "parent": 50,
+   "text": "MAKING THE GRADE"
+  },
+  {
+   "anno": 61,
+   "level": 5,
+   "parent": 52,
+   "text": "1. DRAKE BALDWIN",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 66,
+   "level": 5,
+   "parent": 52,
+   "text": "2. CADE HORTON",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 71,
+   "level": 5,
+   "parent": 52,
+   "text": "3. CHASE BURNS",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 76,
+   "level": 5,
+   "parent": 52,
+   "text": "4. JACOB MISIOROWSKI",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 81,
+   "level": 5,
+   "parent": 52,
+   "text": "5. MATT SHAW",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 86,
+   "level": 5,
+   "parent": 52,
+   "text": "6.ROKI SASAKI",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 95,
+   "level": 5,
+   "parent": 52,
+   "text": "7. DYLAN CREWS",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 100,
+   "level": 5,
+   "parent": 52,
+   "text": "8. CHASE DOLLANDER",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 106,
+   "level": 5,
+   "parent": 52,
+   "text": "9. DALTON RUSHING",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 111,
+   "level": 5,
+   "parent": 52,
+   "text": "10. JAKOB MARSEE",
+   "note": "ranked entry heading"
+  },
+  {
+   "anno": 116,
+   "level": 5,
+   "parent": 52,
+   "text": "THE REST OF OUR PICKS",
+   "note": "sidebar box with its own title inside the article"
+  },
+  {
+   "anno": 140,
+   "level": 3,
+   "parent": 49,
+   "text": "From Phenom To The Farm",
+   "note": "column title"
+  },
+  {
+   "anno": 142,
+   "level": 4,
+   "parent": 140,
+   "text": "FROM D-III TO MLB"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "cover line"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 27,
+   "of": 1
+  },
+  {
+   "anno": 139,
+   "of": 49
+  }
+ ]
+}

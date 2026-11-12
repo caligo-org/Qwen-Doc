@@ -1,0 +1,63 @@
+{
+ "doc": "researchReport_chn_17cde74d",
+ "notation": "researchReport: L1 = report headline (with its subtitle line when printed in the same title box); L2 = summary box title (投资要点), contents/figure-list titles, body chapters, disclaimer section titles; L3 = numbered sub-sections. Related reports, ratings, analysts, run-in bold lead-ins are text.",
+ "nodes": [
+  {
+   "anno": 8,
+   "level": 1,
+   "parent": "root",
+   "text": "优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 8,
+   "text": "投资要点：",
+   "note": "summary section title on the cover"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 8,
+   "text": "合规声明",
+   "note": "compliance statement box title (back-matter style section)"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 8,
+   "text": "内容目录"
+  },
+  {
+   "anno": 47,
+   "level": 2,
+   "parent": 8,
+   "text": "图表目录"
+  },
+  {
+   "anno": 53,
+   "level": 2,
+   "parent": 8,
+   "text": "1、打印耗材业务成长稳健"
+  },
+  {
+   "anno": 54,
+   "level": 3,
+   "parent": 53,
+   "text": "1.1、上半年下滑有因，全产业链布局是超越行业之本"
+  },
+  {
+   "anno": 77,
+   "level": 3,
+   "parent": 53,
+   "text": "1.2、彩打耗材市场规模稳中有升"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 14,
+   "note": "相关报告 (related-reports list title)"
+  }
+ ],
+ "repeats": []
+}

@@ -1,0 +1,355 @@
+{
+ "doc": "manualGuide_chn_5b94cfef",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "收音环绕扩音机 AVR-1912 开始使用",
+   "merge": [
+    3,
+    4
+   ],
+   "note": "product + model + manual type (开始使用 = getting-started guide) merged; DENON logo text"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "安全注意事项",
+   "note": "front-matter safety section"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 2,
+   "text": "使用注意事项"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 2,
+   "text": "安装注意事项"
+  },
+  {
+   "anno": 37,
+   "level": 2,
+   "parent": 2,
+   "text": "使用必读"
+  },
+  {
+   "anno": 41,
+   "level": 3,
+   "parent": 37,
+   "text": "目录"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 37,
+   "text": "附件"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 37,
+   "text": "关于本手册"
+  },
+  {
+   "anno": 51,
+   "level": 4,
+   "parent": 50,
+   "text": "操作按键"
+  },
+  {
+   "anno": 53,
+   "level": 4,
+   "parent": 50,
+   "text": "符号"
+  },
+  {
+   "anno": 58,
+   "level": 4,
+   "parent": 50,
+   "text": "插图"
+  },
+  {
+   "anno": 60,
+   "level": 4,
+   "parent": 50,
+   "text": "关于光盘"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 37,
+   "text": "操作注意事项"
+  },
+  {
+   "anno": 66,
+   "level": 4,
+   "parent": 65,
+   "text": "开启电源开关前"
+  },
+  {
+   "anno": 69,
+   "level": 4,
+   "parent": 65,
+   "text": "关于冷凝"
+  },
+  {
+   "anno": 71,
+   "level": 4,
+   "parent": 65,
+   "text": "使用移动电话的注意事项"
+  },
+  {
+   "anno": 73,
+   "level": 4,
+   "parent": 65,
+   "text": "移动本机"
+  },
+  {
+   "anno": 75,
+   "level": 4,
+   "parent": 65,
+   "text": "爱护本机"
+  },
+  {
+   "anno": 83,
+   "level": 2,
+   "parent": 2,
+   "text": "准备安装向导"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 83,
+   "text": "本步骤所需的部件"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 83,
+   "text": "1 将扬声器放置到合适的位置"
+  },
+  {
+   "anno": 117,
+   "level": 3,
+   "parent": 83,
+   "text": "2 使用HDMI电缆(单独出售)将此设备连接到电视机"
+  },
+  {
+   "anno": 121,
+   "level": 3,
+   "parent": 83,
+   "text": "3 打开电视机电源，并将视频输入切换到此设备（HDMI输入）"
+  },
+  {
+   "anno": 124,
+   "level": 3,
+   "parent": 83,
+   "text": "4 将提供的电池放入遥控器"
+  },
+  {
+   "anno": 135,
+   "level": 2,
+   "parent": 2,
+   "text": "安装向导"
+  },
+  {
+   "anno": 138,
+   "level": 3,
+   "parent": 135,
+   "text": "1 选择语言",
+   "merge": [
+    139
+   ],
+   "note": "step badge + step title"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 135,
+   "text": "2 音箱连接",
+   "merge": [
+    144
+   ]
+  },
+  {
+   "anno": 152,
+   "level": 3,
+   "parent": 135,
+   "text": "3 音箱设定",
+   "merge": [
+    153
+   ]
+  },
+  {
+   "anno": 157,
+   "level": 3,
+   "parent": 135,
+   "text": "4 音源设定",
+   "merge": [
+    158
+   ]
+  },
+  {
+   "anno": 162,
+   "level": 3,
+   "parent": 135,
+   "text": "5 遥控器设定",
+   "merge": [
+    163
+   ]
+  },
+  {
+   "anno": 167,
+   "level": 3,
+   "parent": 135,
+   "text": "6 网络设定",
+   "merge": [
+    168
+   ]
+  },
+  {
+   "anno": 175,
+   "level": 3,
+   "parent": 135,
+   "text": "安装向导的基本操作",
+   "note": "rounded box title inside the 安装向导 chapter"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 135,
+   "text": "开始使用"
+  },
+  {
+   "anno": 197,
+   "level": 4,
+   "parent": 188,
+   "text": "将电源切换到待机状态后",
+   "note": "box title inside the 开始使用 box"
+  },
+  {
+   "anno": 223,
+   "level": 3,
+   "parent": 135,
+   "text": "连接扬声器",
+   "note": "□ section of the 安装向导 chapter, sibling of the box sections"
+  },
+  {
+   "anno": 226,
+   "level": 4,
+   "parent": 223,
+   "text": "连接"
+  },
+  {
+   "anno": 228,
+   "level": 5,
+   "parent": 226,
+   "text": "连接扬声器电缆"
+  },
+  {
+   "anno": 236,
+   "level": 4,
+   "parent": 223,
+   "text": "7.1 声道"
+  },
+  {
+   "anno": 238,
+   "level": 4,
+   "parent": 223,
+   "text": "5.1 声道"
+  },
+  {
+   "anno": 241,
+   "level": 2,
+   "parent": 2,
+   "text": "播放(基本操作)"
+  },
+  {
+   "anno": 244,
+   "level": 3,
+   "parent": 241,
+   "text": "选择输入源"
+  },
+  {
+   "anno": 248,
+   "level": 4,
+   "parent": 244,
+   "text": "使用主机上的键"
+  },
+  {
+   "anno": 253,
+   "level": 4,
+   "parent": 244,
+   "text": "使用“音源选择”菜单"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 1,
+   "note": "brand logo"
+  },
+  {
+   "anno": 11,
+   "note": "callout label 注意："
+  },
+  {
+   "anno": 17,
+   "note": "callout label 警告："
+  },
+  {
+   "anno": 189,
+   "note": "step number badge of a bold instruction sentence (text)"
+  },
+  {
+   "anno": 190,
+   "note": "step instruction sentence, not a heading line"
+  },
+  {
+   "anno": 192,
+   "note": "step number badge"
+  },
+  {
+   "anno": 193,
+   "note": "step instruction sentence"
+  },
+  {
+   "anno": 206,
+   "note": "step number badge"
+  },
+  {
+   "anno": 207,
+   "note": "step instruction sentence"
+  },
+  {
+   "anno": 209,
+   "note": "step number badge"
+  },
+  {
+   "anno": 210,
+   "note": "step instruction sentence"
+  },
+  {
+   "anno": 214,
+   "note": "step number badge"
+  },
+  {
+   "anno": 215,
+   "note": "step instruction sentence"
+  },
+  {
+   "anno": 231,
+   "note": "callout label 注"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 221,
+   "of": 135
+  }
+ ]
+}

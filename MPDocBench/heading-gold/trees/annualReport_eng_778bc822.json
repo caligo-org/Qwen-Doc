@@ -1,0 +1,293 @@
+{
+ "doc": "annualReport_eng_778bc822",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "Annual Report & Accounts 2022",
+   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 6,
+   "text": "Who We Are"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 10,
+   "text": "Position Statement"
+  },
+  {
+   "anno": 16,
+   "level": 3,
+   "parent": 10,
+   "text": "Mission"
+  },
+  {
+   "anno": 18,
+   "level": 3,
+   "parent": 10,
+   "text": "Vision"
+  },
+  {
+   "anno": 41,
+   "level": 2,
+   "parent": 6,
+   "text": "We Stand For"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 41,
+   "text": "Service"
+  },
+  {
+   "anno": 44,
+   "level": 3,
+   "parent": 41,
+   "text": "Innovation"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 41,
+   "text": "Quality"
+  },
+  {
+   "anno": 52,
+   "level": 2,
+   "parent": 6,
+   "text": "Chairman's statement",
+   "note": "section title printed only as the running head; first page of the section"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 6,
+   "text": "Strategic report",
+   "note": "section title printed only as the running head; first page of the section"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 60,
+   "text": "Our business"
+  },
+  {
+   "anno": 64,
+   "level": 3,
+   "parent": 60,
+   "text": "Revenues (Continuing activities)"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 60,
+   "text": "Macroeconomic and industry trends"
+  },
+  {
+   "anno": 68,
+   "level": 4,
+   "parent": 67,
+   "text": "Industrial laser systems"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 60,
+   "text": "Our main markets"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 60,
+   "text": "Activity in the year"
+  },
+  {
+   "anno": 80,
+   "level": 4,
+   "parent": 79,
+   "text": "Industrial laser systems"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 60,
+   "text": "Discontinued Activity - Machine tools division"
+  },
+  {
+   "anno": 89,
+   "level": 3,
+   "parent": 60,
+   "text": "Group Results"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 60,
+   "text": "Adjusting items"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 60,
+   "text": "Taxation"
+  },
+  {
+   "anno": 104,
+   "level": 3,
+   "parent": 60,
+   "text": "Net profit and earnings per share"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 60,
+   "text": "Financial position and utilisation of resources"
+  },
+  {
+   "anno": 108,
+   "level": 4,
+   "parent": 107,
+   "text": "Cash flow"
+  },
+  {
+   "anno": 113,
+   "level": 3,
+   "parent": 60,
+   "text": "Net borrowings"
+  },
+  {
+   "anno": 119,
+   "level": 3,
+   "parent": 60,
+   "text": "Retirement benefits"
+  },
+  {
+   "anno": 124,
+   "level": 3,
+   "parent": 60,
+   "text": "Key performance indicators (KPIs)"
+  },
+  {
+   "anno": 132,
+   "level": 3,
+   "parent": 60,
+   "text": "S172 of the Companies Act"
+  },
+  {
+   "anno": 143,
+   "level": 3,
+   "parent": 60,
+   "text": "Principal risks"
+  },
+  {
+   "anno": 149,
+   "level": 3,
+   "parent": 60,
+   "text": "Market risks"
+  },
+  {
+   "anno": 152,
+   "level": 3,
+   "parent": 60,
+   "text": "Other risks and uncertainties"
+  },
+  {
+   "anno": 159,
+   "level": 2,
+   "parent": 6,
+   "text": "CFO Statement",
+   "note": "section title printed as the running header of this section only (like Chairman's statement, Strategic report, Corporate governance)"
+  },
+  {
+   "anno": 160,
+   "level": 3,
+   "parent": 159,
+   "text": "Chief Financial Officer Statement"
+  },
+  {
+   "anno": 162,
+   "level": 4,
+   "parent": 160,
+   "text": "Current year review"
+  },
+  {
+   "anno": 166,
+   "level": 4,
+   "parent": 160,
+   "text": "Statement of financial position"
+  },
+  {
+   "anno": 170,
+   "level": 4,
+   "parent": 160,
+   "text": "Next year outlook"
+  },
+  {
+   "anno": 172,
+   "level": 4,
+   "parent": 160,
+   "text": "Conclusion"
+  },
+  {
+   "anno": 176,
+   "level": 2,
+   "parent": 6,
+   "text": "Corporate governance",
+   "note": "section title printed only as the running head"
+  },
+  {
+   "anno": 180,
+   "level": 3,
+   "parent": 176,
+   "text": "The Board"
+  },
+  {
+   "anno": 190,
+   "level": 3,
+   "parent": 176,
+   "text": "Relations with shareholders"
+  },
+  {
+   "anno": 192,
+   "level": 3,
+   "parent": 176,
+   "text": "Social responsibility"
+  },
+  {
+   "anno": 194,
+   "level": 3,
+   "parent": 176,
+   "text": "Risk management"
+  },
+  {
+   "anno": 198,
+   "level": 3,
+   "parent": 176,
+   "text": "The QCA Code"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 77,
+   "of": 60
+  },
+  {
+   "anno": 99,
+   "of": 60
+  },
+  {
+   "anno": 122,
+   "of": 60
+  },
+  {
+   "anno": 140,
+   "of": 60
+  }
+ ]
+}

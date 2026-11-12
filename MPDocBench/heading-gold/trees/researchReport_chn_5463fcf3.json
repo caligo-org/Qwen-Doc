@@ -1,0 +1,42 @@
+{
+ "doc": "researchReport_chn_5463fcf3",
+ "notation": "researchReport (weekly product sheet): L1 = the large red report title (industry name of this issue); the generic 证券研究报告 and product-name lines are text; the 本周行业观点 heading line is L2; back-matter team section L2; sales-contact table title is text.",
+ "nodes": [
+  {
+   "anno": 12,
+   "level": 1,
+   "parent": "root",
+   "text": "家电行业",
+   "note": "large red title of this issue"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 12,
+   "text": "> 本周行业观点：中国家电协会启动对冰洗空厨电技术路线图的修订",
+   "note": "summary heading line printed on its own line"
+  },
+  {
+   "anno": 27,
+   "level": 2,
+   "parent": 12,
+   "text": "研究团队简介",
+   "note": "back-matter analyst section"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "证券研究报告: generic document-type line in the sidebar"
+  },
+  {
+   "anno": 7,
+   "note": "产品提示: sidebar product description box label"
+  },
+  {
+   "anno": 30,
+   "note": "机构销售联系人: sales-contact table title"
+  }
+ ],
+ "repeats": []
+}

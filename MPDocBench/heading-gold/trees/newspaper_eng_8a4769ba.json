@@ -1,0 +1,189 @@
+{
+ "doc": "newspaper_eng_8a4769ba",
+ "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Same family as newspaper_eng_30d4d13c (The Times).",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES",
+   "merge": [
+    5
+   ],
+   "note": "masthead split around the crest"
+  },
+  {
+   "anno": 12,
+   "level": 3,
+   "parent": 1,
+   "text": "Police have given up on punishing shoplifters"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 1,
+   "text": "Starmer: I'll bring back trust in politics"
+  },
+  {
+   "anno": 56,
+   "level": 2,
+   "parent": 1,
+   "text": "News",
+   "note": "running section tag p2 (section changes from the front page); p3/p4 tags repeat it"
+  },
+  {
+   "anno": 74,
+   "level": 3,
+   "parent": 56,
+   "text": "'Emergency powers' needed by Ofcom to stop online hate"
+  },
+  {
+   "anno": 91,
+   "level": 3,
+   "parent": 56,
+   "text": "Military training to be cut to fund pay rises for troops"
+  },
+  {
+   "anno": 100,
+   "level": 3,
+   "parent": 56,
+   "text": "Dig for victim of 1977 IRA murder"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 56,
+   "text": "Shoplifters go unpunished",
+   "continues": 12,
+   "note": "jump: CONTINUED FROM PAGE 1"
+  },
+  {
+   "anno": 122,
+   "level": 3,
+   "parent": 56,
+   "text": "It's a jungle out there after officials ban pesticides from their streets"
+  },
+  {
+   "anno": 146,
+   "level": 3,
+   "parent": 56,
+   "text": "Parental love is the mother and father of all loves, science agrees"
+  },
+  {
+   "anno": 170,
+   "level": 3,
+   "parent": 56,
+   "text": "Patients are treating their own injuries to avoid waiting in A&E"
+  },
+  {
+   "anno": 188,
+   "level": 3,
+   "parent": 56,
+   "text": "NHS launches a 24-hour mental health phone line"
+  },
+  {
+   "anno": 199,
+   "level": 3,
+   "parent": 56,
+   "text": "Quintagram No 2031",
+   "note": "puzzle box with its own title"
+  },
+  {
+   "anno": 213,
+   "level": 3,
+   "parent": 56,
+   "text": "Briton dies in Ukraine",
+   "note": "short story, no briefs label"
+  },
+  {
+   "anno": 215,
+   "level": 3,
+   "parent": 56,
+   "text": "Biodiversity warning"
+  },
+  {
+   "anno": 217,
+   "level": 3,
+   "parent": 56,
+   "text": "Ten stabbing arrests"
+  },
+  {
+   "anno": 219,
+   "level": 3,
+   "parent": 56,
+   "text": "Gravy wrestling champ"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 32,
+   "note": "byline"
+  },
+  {
+   "anno": 41,
+   "note": "IN THE NEWS teaser box (items point to pages)"
+  },
+  {
+   "anno": 42,
+   "note": "teaser"
+  },
+  {
+   "anno": 44,
+   "note": "teaser"
+  },
+  {
+   "anno": 46,
+   "note": "teaser"
+  },
+  {
+   "anno": 48,
+   "note": "teaser"
+  },
+  {
+   "anno": 50,
+   "note": "teaser"
+  },
+  {
+   "anno": 52,
+   "note": "teaser"
+  },
+  {
+   "anno": 58,
+   "note": "TODAY'S EDITION index box"
+  },
+  {
+   "anno": 60,
+   "note": "COMMENT pointer box"
+  },
+  {
+   "anno": 66,
+   "note": "podcast promo"
+  },
+  {
+   "anno": 69,
+   "note": "subscription offer (ad)"
+  },
+  {
+   "anno": 70,
+   "note": "weather box"
+  },
+  {
+   "anno": 75,
+   "note": "byline"
+  },
+  {
+   "anno": 221,
+   "note": "radio ad"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 121,
+   "of": 56
+  },
+  {
+   "anno": 167,
+   "of": 56
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "doc": "textBook_eng_7438dcd2",
+ "notation": "textBook-v2: L1 cover title only.",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "A Computational Introduction to Number Theory and Algebra",
+   "note": "version line and author are text"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

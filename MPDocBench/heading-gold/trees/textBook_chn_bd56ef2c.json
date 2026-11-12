@@ -1,0 +1,101 @@
+{
+ "doc": "textBook_chn_bd56ef2c",
+ "notation": "textBook-v2: L1 cover subject title; L2 preface, 目录, units; L3 主题; L4 bar headings and box titles in the topic; L5 icon subheadings; box titles one level below the section they sit in. Kind labels (探究, 阅读, 思考, 问题导引, 学习目标, 核心术语) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "地理",
+   "note": "cover title; series, 选择性必修3 module line are text"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 2,
+   "text": "致同学们"
+  },
+  {
+   "anno": 57,
+   "level": 2,
+   "parent": 2,
+   "text": "目录"
+  },
+  {
+   "anno": 60,
+   "level": 2,
+   "parent": 2,
+   "text": "第1单元 自然资源与人类活动"
+  },
+  {
+   "anno": 65,
+   "level": 3,
+   "parent": 60,
+   "text": "主题1 自然资源的类型和特征"
+  },
+  {
+   "anno": 80,
+   "level": 4,
+   "parent": 65,
+   "text": "“资源赌约”谁会赢",
+   "note": "title of the 探究 box opening the topic"
+  },
+  {
+   "anno": 91,
+   "level": 4,
+   "parent": 65,
+   "text": "自然资源的类型"
+  },
+  {
+   "anno": 95,
+   "level": 5,
+   "parent": 91,
+   "text": "可再生资源"
+  },
+  {
+   "anno": 100,
+   "level": 5,
+   "parent": 91,
+   "text": "不可再生资源"
+  },
+  {
+   "anno": 105,
+   "level": 6,
+   "parent": 100,
+   "text": "稀土资源",
+   "note": "title of the 阅读 box; sits after 不可再生资源 (rare earths are non-renewable)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 67,
+   "note": "panel label 问题导引"
+  },
+  {
+   "anno": 71,
+   "note": "panel label 学习目标"
+  },
+  {
+   "anno": 75,
+   "note": "panel label 核心术语"
+  },
+  {
+   "anno": 79,
+   "note": "box kind label 探究"
+  },
+  {
+   "anno": 93,
+   "note": "margin box label 思考"
+  },
+  {
+   "anno": 104,
+   "note": "box kind label 阅读"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 6,
+   "of": 2
+  }
+ ]
+}

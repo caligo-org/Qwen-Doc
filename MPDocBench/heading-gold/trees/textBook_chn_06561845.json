@@ -1,0 +1,40 @@
+{
+ "doc": "textBook_chn_06561845",
+ "notation": "textBook-v2: L1 cover subject title; L2 front matter.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "数学",
+   "note": "cover title; pinyin line and grade/volume line are text"
+  },
+  {
+   "anno": 23,
+   "level": 2,
+   "parent": 3,
+   "text": "致 同 学",
+   "note": "preface 致同学"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "pinyin transliteration of the title"
+  },
+  {
+   "anno": 10,
+   "note": "pinyin transliteration on title page"
+  },
+  {
+   "anno": 14,
+   "note": "CIP colophon block title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 3
+  }
+ ]
+}

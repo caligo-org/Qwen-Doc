@@ -1,0 +1,107 @@
+{
+ "doc": "manualGuide_chn_57d8d5ed",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "EM9161 嵌入式主板数据手册",
+   "note": "cover title; logo is text"
+  },
+  {
+   "anno": 35,
+   "level": 2,
+   "parent": 3,
+   "text": "目录"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 3,
+   "text": "1、主要技术指标"
+  },
+  {
+   "anno": 43,
+   "level": 3,
+   "parent": 42,
+   "text": "CPU单元"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 42,
+   "text": "通讯接口配置"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 42,
+   "text": "显示键盘单元"
+  },
+  {
+   "anno": 72,
+   "level": 3,
+   "parent": 42,
+   "text": "数字IO控制单元"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 42,
+   "text": "精简ISA扩展总线"
+  },
+  {
+   "anno": 81,
+   "level": 3,
+   "parent": 42,
+   "text": "电源及模块机械参数"
+  },
+  {
+   "anno": 86,
+   "level": 3,
+   "parent": 42,
+   "text": "基本软件环境"
+  },
+  {
+   "anno": 102,
+   "level": 2,
+   "parent": 3,
+   "text": "2、外形尺寸",
+   "note": "missed: numbered section 2 (in TOC), boxed as figure"
+  },
+  {
+   "anno": 110,
+   "level": 2,
+   "parent": 3,
+   "text": "3、模块信号管脚功能描述"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 110,
+   "text": "3.1 EM9161 的 CN1 信号定义",
+   "note": "missed: numbered subsection 3.1 (in TOC), boxed as table caption"
+  },
+  {
+   "anno": 151,
+   "level": 3,
+   "parent": 110,
+   "text": "3.2 EM9161的CN2信号定义"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 8,
+   "note": "body-size list lead-in with colon (\"主要特点：\") before the bullet list; front matter not in the TOC"
+  },
+  {
+   "anno": 131,
+   "note": "body-size lead-in with colon (\"关于CN1中相关信号的进一步说明：\") before bullets"
+  },
+  {
+   "anno": 163,
+   "note": "body-size lead-in with colon, same as #131"
+  }
+ ],
+ "repeats": []
+}

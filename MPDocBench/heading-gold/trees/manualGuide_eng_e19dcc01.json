@@ -1,0 +1,205 @@
+{
+ "doc": "manualGuide_eng_e19dcc01",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Oregon® Série 700 Manuel d'utilisation",
+   "merge": [
+    3
+   ],
+   "note": "product + manual type merged; GARMIN logo text"
+  },
+  {
+   "anno": 11,
+   "level": 2,
+   "parent": 1,
+   "text": "Table des matières"
+  },
+  {
+   "anno": 20,
+   "level": 2,
+   "parent": 1,
+   "text": "Introduction"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 20,
+   "text": "Présentation de l'appareil"
+  },
+  {
+   "anno": 26,
+   "level": 4,
+   "parent": 23,
+   "text": "Informations sur la batterie"
+  },
+  {
+   "anno": 34,
+   "level": 5,
+   "parent": 26,
+   "text": "Optimisation de l'autonomie de la batterie"
+  },
+  {
+   "anno": 40,
+   "level": 5,
+   "parent": 26,
+   "text": "Activation du mode Economie d'énergie"
+  },
+  {
+   "anno": 45,
+   "level": 5,
+   "parent": 26,
+   "text": "Rangement pour une longue période"
+  },
+  {
+   "anno": 47,
+   "level": 4,
+   "parent": 23,
+   "text": "Mise en place de piles AA"
+  },
+  {
+   "anno": 57,
+   "level": 5,
+   "parent": 47,
+   "text": "Informations sur la batterie"
+  },
+  {
+   "anno": 65,
+   "level": 4,
+   "parent": 23,
+   "text": "Installation de la batterie NiMH"
+  },
+  {
+   "anno": 75,
+   "level": 5,
+   "parent": 65,
+   "text": "Chargement de la batterie"
+  },
+  {
+   "anno": 90,
+   "level": 3,
+   "parent": 20,
+   "text": "Mise sous tension de l'appareil"
+  },
+  {
+   "anno": 92,
+   "level": 3,
+   "parent": 20,
+   "text": "Ecran d'accueil"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 92,
+   "text": "Utilisation de l'écran tactile"
+  },
+  {
+   "anno": 102,
+   "level": 4,
+   "parent": 92,
+   "text": "Verrouillage de l'écran tactile"
+  },
+  {
+   "anno": 105,
+   "level": 5,
+   "parent": 102,
+   "text": "Déverrouillage de l'écran tactile"
+  },
+  {
+   "anno": 107,
+   "level": 3,
+   "parent": 20,
+   "text": "Acquisition des signaux satellites"
+  },
+  {
+   "anno": 111,
+   "level": 2,
+   "parent": 1,
+   "text": "Fonctionnalités connectées"
+  },
+  {
+   "anno": 123,
+   "level": 3,
+   "parent": 111,
+   "text": "Prérequis pour les fonctions connectées"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 111,
+   "text": "Connexion à un réseau sans fil"
+  },
+  {
+   "anno": 135,
+   "level": 4,
+   "parent": 127,
+   "text": "Configuration des fonctions Wi-Fi"
+  },
+  {
+   "anno": 141,
+   "level": 3,
+   "parent": 111,
+   "text": "Couplage de votre smartphone"
+  },
+  {
+   "anno": 148,
+   "level": 3,
+   "parent": 111,
+   "text": "Affichage des widgets"
+  },
+  {
+   "anno": 153,
+   "level": 3,
+   "parent": 111,
+   "text": "Connect IQObjets"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 153,
+   "text": "Téléchargement d'objets Connect IQ"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 21,
+   "note": "callout band AVERTISSEMENT"
+  },
+  {
+   "anno": 27,
+   "note": "callout band AVERTISSEMENT"
+  },
+  {
+   "anno": 30,
+   "note": "callout band ATTENTION"
+  },
+  {
+   "anno": 32,
+   "note": "callout band AVIS"
+  },
+  {
+   "anno": 58,
+   "note": "callout band AVERTISSEMENT"
+  },
+  {
+   "anno": 61,
+   "note": "callout band ATTENTION"
+  },
+  {
+   "anno": 63,
+   "note": "callout band AVIS"
+  },
+  {
+   "anno": 76,
+   "note": "callout band AVIS"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 160,
+   "of": 111
+  }
+ ]
+}

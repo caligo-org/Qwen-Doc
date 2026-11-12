@@ -1,0 +1,65 @@
+{
+ "doc": "book_eng_600ba37c",
+ "notation": "excerpt without a printed book title (the title appears only as a running head): the numbered stories are the top level (L1); titled exercise boxes (Before Reading / After Reading) one level below.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "1. Introduction"
+  },
+  {
+   "anno": 29,
+   "level": 1,
+   "parent": "root",
+   "text": "2. Raggedy Ann Learns a Lesson"
+  },
+  {
+   "anno": 109,
+   "level": 1,
+   "parent": "root",
+   "text": "3. Raggedy Ann and the Washing"
+  },
+  {
+   "anno": 167,
+   "level": 1,
+   "parent": "root",
+   "text": "4. Raggedy Ann and the Kite"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "label rule"
+  },
+  {
+   "anno": 23,
+   "note": "label rule"
+  },
+  {
+   "anno": 30,
+   "note": "label rule"
+  },
+  {
+   "anno": 103,
+   "note": "label rule"
+  },
+  {
+   "anno": 110,
+   "note": "label rule"
+  },
+  {
+   "anno": 161,
+   "note": "label rule"
+  },
+  {
+   "anno": 168,
+   "note": "label rule"
+  },
+  {
+   "anno": 227,
+   "note": "label rule"
+  }
+ ],
+ "repeats": []
+}

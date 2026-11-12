@@ -1,0 +1,62 @@
+{
+ "doc": "pptSlides_eng_5bb58cde",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "OpenStack Architecture"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 2,
+   "text": "Provision a VM Request Flow",
+   "note": "divider slide; the deck title printed above it is a repeat"
+  },
+  {
+   "anno": 14,
+   "level": 3,
+   "parent": 10,
+   "text": "VM Provisioning"
+  },
+  {
+   "anno": 21,
+   "level": 3,
+   "parent": 10,
+   "text": "Initial State"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 10,
+   "text": "Step 1: Request Provisioning – From UI"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 10,
+   "text": "The OpenStack Dashboard (Horizon)"
+  },
+  {
+   "anno": 56,
+   "level": 3,
+   "parent": 10,
+   "text": "Horizon"
+  },
+  {
+   "anno": 66,
+   "level": 3,
+   "parent": 10,
+   "text": "Step 1: Request VM Provisioning via UI/CLI"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 9,
+   "of": 2
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "doc": "researchReport_eng_bcc8ee71",
+ "notation": "researchReport (English): L1 headline (series kicker Global Strategy Views shares the box and is text); L2 body section. Analyst names are text.",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "Diversify to Amplify",
+   "note": "the box also holds the series kicker Global Strategy Views"
+  },
+  {
+   "anno": 10,
+   "level": 2,
+   "parent": 3,
+   "text": "Where are we headed?"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 12,
+   "note": "analyst name"
+  },
+  {
+   "anno": 14,
+   "note": "analyst name"
+  },
+  {
+   "anno": 16,
+   "note": "analyst name"
+  },
+  {
+   "anno": 18,
+   "note": "analyst name"
+  }
+ ],
+ "repeats": []
+}

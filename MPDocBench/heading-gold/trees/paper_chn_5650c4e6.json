@@ -1,0 +1,150 @@
+{
+ "doc": "paper_chn_5650c4e6",
+ "nodes": [
+  {
+   "anno": 4,
+   "level": 1,
+   "parent": "root",
+   "text": "在轨服务航天器任务指派问题*"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 4,
+   "text": "1 问题描述"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 4,
+   "text": "2 求解可达区域"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 36,
+   "text": "2.1 求解步骤"
+  },
+  {
+   "anno": 70,
+   "level": 3,
+   "parent": 36,
+   "text": "2.2 求解结果"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 4,
+   "text": "3 多目标优化模型"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 79,
+   "text": "3.1 优化变量"
+  },
+  {
+   "anno": 93,
+   "level": 3,
+   "parent": 79,
+   "text": "3.2 目标函数"
+  },
+  {
+   "anno": 94,
+   "level": 4,
+   "parent": 93,
+   "text": "1）目标优先级",
+   "note": "own-line numbered item label, same look as 2）任务时间约束"
+  },
+  {
+   "anno": 98,
+   "level": 4,
+   "parent": 93,
+   "text": "2) 任务完成时间"
+  },
+  {
+   "anno": 104,
+   "level": 4,
+   "parent": 93,
+   "text": "3）燃料消耗"
+  },
+  {
+   "anno": 108,
+   "level": 3,
+   "parent": 79,
+   "text": "3.3 约束条件"
+  },
+  {
+   "anno": 109,
+   "level": 4,
+   "parent": 108,
+   "text": "1）“一对一”服务约束"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 108,
+   "text": "2）任务时间约束"
+  },
+  {
+   "anno": 121,
+   "level": 4,
+   "parent": 108,
+   "text": "3）变轨时刻约束"
+  },
+  {
+   "anno": 130,
+   "level": 4,
+   "parent": 108,
+   "text": "4）最大脉冲大小约束"
+  },
+  {
+   "anno": 134,
+   "level": 2,
+   "parent": 4,
+   "text": "4 多目标优化算法"
+  },
+  {
+   "anno": 136,
+   "level": 2,
+   "parent": 4,
+   "text": "5 应用示例"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 136,
+   "text": "5.1 算例1：任务指派多目标优化的一般结论"
+  },
+  {
+   "anno": 169,
+   "level": 3,
+   "parent": 136,
+   "text": "5.2 算例2：与分层-加权法优化的对比"
+  },
+  {
+   "anno": 179,
+   "level": 2,
+   "parent": 4,
+   "text": "6 结论"
+  },
+  {
+   "anno": 202,
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献(References)",
+   "note": "this paper's references, jumped from p30 to p51 (上接第30页)"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 11,
+   "note": "English translation of the title"
+  },
+  {
+   "anno": 188,
+   "note": "references of a different article that shares p6 (journal p51); not part of this document's outline"
+  }
+ ],
+ "repeats": []
+}

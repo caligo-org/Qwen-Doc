@@ -1,0 +1,219 @@
+{
+ "doc": "nationalStandard_chn_cf448e58",
+ "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "nodes": [
+  {
+   "anno": 6,
+   "level": 1,
+   "parent": "root",
+   "text": "童鞋安全技术规范 Safety technical specifications for infants' and children's footwear",
+   "merge": [
+    7
+   ],
+   "note": "Chinese title + English title"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 6,
+   "text": "前言"
+  },
+  {
+   "anno": 42,
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围"
+  },
+  {
+   "anno": 45,
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义"
+  },
+  {
+   "anno": 67,
+   "level": 3,
+   "parent": 65,
+   "text": "3.1 可触及 accessible",
+   "merge": [
+    68
+   ],
+   "note": "term entry: 3.1 + 可触及 accessible"
+  },
+  {
+   "anno": 73,
+   "level": 3,
+   "parent": 65,
+   "text": "3.2 锐利边缘 sharp edge",
+   "merge": [
+    74
+   ],
+   "note": "term entry: 3.2 + 锐利边缘 sharp edge"
+  },
+  {
+   "anno": 76,
+   "level": 3,
+   "parent": 65,
+   "text": "3.3 锐利尖端 sharp point",
+   "merge": [
+    77
+   ],
+   "note": "term entry: 3.3 + 锐利尖端 sharp point"
+  },
+  {
+   "anno": 79,
+   "level": 3,
+   "parent": 65,
+   "text": "3.4 可拆卸小附件 removable small accessory",
+   "merge": [
+    80
+   ],
+   "note": "term entry: 3.4 + 可拆卸小附件 removable small accessory"
+  },
+  {
+   "anno": 83,
+   "level": 3,
+   "parent": 65,
+   "text": "3.5 儿童鞋 children's footwear",
+   "merge": [
+    84
+   ],
+   "note": "term entry: 3.5 + 儿童鞋 children's footwear"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 65,
+   "text": "3.6 婴幼儿鞋 infants' footwear",
+   "merge": [
+    88
+   ],
+   "note": "term entry: 3.6 + 婴幼儿鞋 infants' footwear"
+  },
+  {
+   "anno": 91,
+   "level": 2,
+   "parent": 6,
+   "text": "4 产品分类"
+  },
+  {
+   "anno": 95,
+   "level": 2,
+   "parent": 6,
+   "text": "5 技术要求"
+  },
+  {
+   "anno": 96,
+   "level": 3,
+   "parent": 95,
+   "text": "5.1 基本要求"
+  },
+  {
+   "anno": 100,
+   "level": 3,
+   "parent": 95,
+   "text": "5.2 婴幼儿鞋小附件要求"
+  },
+  {
+   "anno": 105,
+   "level": 3,
+   "parent": 95,
+   "text": "5.3 化学物质限量要求"
+  },
+  {
+   "anno": 113,
+   "level": 2,
+   "parent": 6,
+   "text": "6 试验方法"
+  },
+  {
+   "anno": 114,
+   "level": 3,
+   "parent": 113,
+   "text": "6.1 断针"
+  },
+  {
+   "anno": 116,
+   "level": 3,
+   "parent": 113,
+   "text": "6.2 可触及的锐利边缘和锐利尖端"
+  },
+  {
+   "anno": 118,
+   "level": 3,
+   "parent": 113,
+   "text": "6.3 有效跟高"
+  },
+  {
+   "anno": 120,
+   "level": 3,
+   "parent": 113,
+   "text": "6.4 婴幼儿鞋小附件"
+  },
+  {
+   "anno": 121,
+   "level": 4,
+   "parent": 120,
+   "text": "6.4.1 不可拆卸小附件的拉力测试"
+  },
+  {
+   "anno": 123,
+   "level": 4,
+   "parent": 120,
+   "text": "6.4.2 小附件容入试验"
+  },
+  {
+   "anno": 125,
+   "level": 3,
+   "parent": 113,
+   "text": "6.5 六价铬"
+  },
+  {
+   "anno": 127,
+   "level": 3,
+   "parent": 113,
+   "text": "6.6 可分解致癌芳香胺染料"
+  },
+  {
+   "anno": 130,
+   "level": 3,
+   "parent": 113,
+   "text": "6.7 甲醛"
+  },
+  {
+   "anno": 133,
+   "level": 3,
+   "parent": 113,
+   "text": "6.8 重金属总量"
+  },
+  {
+   "anno": 135,
+   "level": 3,
+   "parent": 113,
+   "text": "6.9 富马酸二甲酯"
+  },
+  {
+   "anno": 137,
+   "level": 3,
+   "parent": 113,
+   "text": "6.10 含氯苯酚"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 3,
+   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+  },
+  {
+   "anno": 41,
+   "note": "title restated above clause 1"
+  }
+ ],
+ "repeats": []
+}

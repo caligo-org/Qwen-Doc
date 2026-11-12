@@ -1,0 +1,139 @@
+{
+ "doc": "paper_eng_ff3a3862",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously"
+  },
+  {
+   "anno": 7,
+   "level": 2,
+   "parent": 2,
+   "text": "1 Introduction"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 2,
+   "text": "2 Method"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 30,
+   "text": "2.1 The Video Streaming Thinking (VST) Paradigm"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 30,
+   "text": "2.2 Training Method for VST"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 30,
+   "text": "2.3 Data Synthesis Pipeline for VST"
+  },
+  {
+   "anno": 77,
+   "level": 2,
+   "parent": 2,
+   "text": "3 Experiment"
+  },
+  {
+   "anno": 78,
+   "level": 3,
+   "parent": 77,
+   "text": "3.1 Implementation Details"
+  },
+  {
+   "anno": 80,
+   "level": 3,
+   "parent": 77,
+   "text": "3.2 Benchmarks"
+  },
+  {
+   "anno": 87,
+   "level": 3,
+   "parent": 77,
+   "text": "3.3 Online Video Benchmark Results"
+  },
+  {
+   "anno": 95,
+   "level": 3,
+   "parent": 77,
+   "text": "3.4 Offline Video Benchmark Results"
+  },
+  {
+   "anno": 101,
+   "level": 3,
+   "parent": 77,
+   "text": "3.5 Ablation Study"
+  },
+  {
+   "anno": 114,
+   "level": 3,
+   "parent": 77,
+   "text": "3.6 Analysis"
+  },
+  {
+   "anno": 124,
+   "level": 2,
+   "parent": 2,
+   "text": "4 Related Work"
+  },
+  {
+   "anno": 130,
+   "level": 2,
+   "parent": 2,
+   "text": "5 Conclusion"
+  },
+  {
+   "anno": 135,
+   "level": 2,
+   "parent": 2,
+   "text": "References"
+  },
+  {
+   "anno": 203,
+   "level": 2,
+   "parent": 2,
+   "text": "Appendix"
+  },
+  {
+   "anno": 204,
+   "level": 3,
+   "parent": 203,
+   "text": "A Details of VST Inference"
+  },
+  {
+   "anno": 205,
+   "level": 4,
+   "parent": 204,
+   "text": "A.1 Inference Prompt"
+  },
+  {
+   "anno": 209,
+   "level": 4,
+   "parent": 204,
+   "text": "A.2 Streaming Inference Pipeline"
+  },
+  {
+   "anno": 215,
+   "level": 3,
+   "parent": 203,
+   "text": "B Details of VST-SFT / RL Training"
+  },
+  {
+   "anno": 218,
+   "level": 3,
+   "parent": 203,
+   "text": "C Details of VST Data Generation"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

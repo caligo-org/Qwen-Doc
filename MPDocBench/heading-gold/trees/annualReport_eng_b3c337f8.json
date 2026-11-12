@@ -1,0 +1,36 @@
+{
+ "doc": "annualReport_eng_b3c337f8",
+ "nodes": [
+  {
+   "anno": 3,
+   "level": 1,
+   "parent": "root",
+   "text": "2024 Annual Report"
+  },
+  {
+   "anno": 4,
+   "level": 2,
+   "parent": 3,
+   "text": "About MSCI Inc."
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 3,
+   "text": "Financial Highlights"
+  },
+  {
+   "anno": 14,
+   "level": 2,
+   "parent": 3,
+   "text": "Selected Quarterly Financial Data (unaudited)"
+  }
+ ],
+ "not_headings": [],
+ "repeats": [
+  {
+   "anno": 7,
+   "of": 3
+  }
+ ]
+}

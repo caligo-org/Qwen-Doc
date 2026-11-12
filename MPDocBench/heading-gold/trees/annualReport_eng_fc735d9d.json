@@ -1,0 +1,26 @@
+{
+ "doc": "annualReport_eng_fc735d9d",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "Annual Report 2024",
+   "note": "the second line in the same box is the title's translation (text)"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "About this report"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 1,
+   "text": "Contents"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

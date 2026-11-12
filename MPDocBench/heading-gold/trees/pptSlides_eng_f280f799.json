@@ -1,0 +1,68 @@
+{
+ "doc": "pptSlides_eng_f280f799",
+ "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "TRACKING THE FUTURE OF NEWS",
+   "note": "series line above and \"Supplementary Report\" below are text"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 2,
+   "text": "INFORMATION AND TERMS OF USE",
+   "note": "slide before the first divider"
+  },
+  {
+   "anno": 16,
+   "level": 2,
+   "parent": 2,
+   "text": "METHODOLOGY",
+   "note": "divider slide"
+  },
+  {
+   "anno": 17,
+   "level": 3,
+   "parent": 16,
+   "text": "METHODOLOGY",
+   "note": "slide title repeating its divider name (child, not a continuation)"
+  },
+  {
+   "anno": 24,
+   "level": 2,
+   "parent": 2,
+   "text": "EXECUTIVE SUMMARY",
+   "note": "divider slide"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 24,
+   "text": "PROPORTION THAT USE EACH DIGITAL DEVICE TO ACCESS NEWS BY COUNTRY"
+  },
+  {
+   "anno": 30,
+   "level": 4,
+   "parent": 25,
+   "text": "ALSO FROM 2015",
+   "note": "smaller title of the companion stat slide after a chart slide"
+  },
+  {
+   "anno": 42,
+   "level": 3,
+   "parent": 24,
+   "text": "PROPORTION THAT SAID EACH DEVICE WAS THEIR MAIN DIGITAL NEWS DEVICE BY COUNTRY (ORDERED BY COMPUTER)"
+  },
+  {
+   "anno": 49,
+   "level": 4,
+   "parent": 42,
+   "text": "ALSO FROM 2015"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

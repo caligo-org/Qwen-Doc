@@ -1,0 +1,145 @@
+{
+ "doc": "textBook_eng_a237ffc8",
+ "notation": "textBook-v2: L1 cover title; L2 Preface, Contents, chapters; L3 preface sections / numbered sections; L4 subsections of 'Other Boring Stuff'. Margin labels Definition N / Example are run-in labels (text).",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "THE JOY OF CRYPTOGRAPHY"
+  },
+  {
+   "anno": 6,
+   "level": 2,
+   "parent": 2,
+   "text": "Preface"
+  },
+  {
+   "anno": 9,
+   "level": 3,
+   "parent": 6,
+   "text": "What Is This Book About?"
+  },
+  {
+   "anno": 15,
+   "level": 3,
+   "parent": 6,
+   "text": "Who Is This Book For?"
+  },
+  {
+   "anno": 19,
+   "level": 3,
+   "parent": 6,
+   "text": "What Background Is Needed To Understand This Book?"
+  },
+  {
+   "anno": 23,
+   "level": 3,
+   "parent": 6,
+   "text": "Why Is Cryptography A Difficult Subject?"
+  },
+  {
+   "anno": 38,
+   "level": 3,
+   "parent": 6,
+   "text": "Known Shortcomings"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 6,
+   "text": "Code-Based Games Philosophy"
+  },
+  {
+   "anno": 60,
+   "level": 3,
+   "parent": 6,
+   "text": "Other Boring Stuff"
+  },
+  {
+   "anno": 61,
+   "level": 4,
+   "parent": 60,
+   "text": "Copyright"
+  },
+  {
+   "anno": 70,
+   "level": 4,
+   "parent": 60,
+   "text": "About the cover"
+  },
+  {
+   "anno": 75,
+   "level": 4,
+   "parent": 60,
+   "text": "Acknowledgements"
+  },
+  {
+   "anno": 78,
+   "level": 4,
+   "parent": 60,
+   "text": "Changelog"
+  },
+  {
+   "anno": 100,
+   "level": 3,
+   "parent": 6,
+   "text": "Road Map"
+  },
+  {
+   "anno": 107,
+   "level": 2,
+   "parent": 2,
+   "text": "Contents"
+  },
+  {
+   "anno": 116,
+   "level": 2,
+   "parent": 2,
+   "text": "0 Review of Concepts & Notation"
+  },
+  {
+   "anno": 118,
+   "level": 3,
+   "parent": 116,
+   "text": "0.1 Logs & Exponents"
+  },
+  {
+   "anno": 126,
+   "level": 3,
+   "parent": 116,
+   "text": "0.2 Modular Arithmetic"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 132,
+   "note": "margin label 'Definition 0.1' (run-in label of a definition)"
+  },
+  {
+   "anno": 135,
+   "note": "margin label 'Example'"
+  },
+  {
+   "anno": 144,
+   "note": "margin label 'Definition 0.2'"
+  },
+  {
+   "anno": 148,
+   "note": "margin label 'Example'"
+  },
+  {
+   "anno": 154,
+   "note": "margin label 'Definition 0.3'"
+  },
+  {
+   "anno": 156,
+   "note": "margin label 'Definition 0.4'"
+  },
+  {
+   "anno": 161,
+   "note": "margin label 'Example'"
+  }
+ ],
+ "repeats": []
+}

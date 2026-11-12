@@ -1,0 +1,77 @@
+{
+ "doc": "financialReport_chn_d603bfdc",
+ "nodes": [
+  {
+   "anno": 8,
+   "level": 1,
+   "parent": "root",
+   "text": "中期財務報告 截至二零二五年六月三十日止六個月",
+   "note": "report title; period line printed in the same title block"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 8,
+   "text": "目錄"
+  },
+  {
+   "anno": 12,
+   "level": 2,
+   "parent": 8,
+   "text": "綜合損益表",
+   "note": "statement page title (table caption)"
+  },
+  {
+   "anno": 17,
+   "level": 2,
+   "parent": 8,
+   "text": "綜合損益及其他全面收入表"
+  },
+  {
+   "anno": 22,
+   "level": 2,
+   "parent": 8,
+   "text": "綜合財務狀況表"
+  },
+  {
+   "anno": 31,
+   "level": 2,
+   "parent": 8,
+   "text": "簡明綜合權益變動報表"
+  },
+  {
+   "anno": 36,
+   "level": 2,
+   "parent": 8,
+   "text": "簡明綜合現金流量表"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 2,
+   "note": "brand/logo text"
+  },
+  {
+   "anno": 3,
+   "note": "issuer English name"
+  },
+  {
+   "anno": 4,
+   "note": "issuer name"
+  },
+  {
+   "anno": 43,
+   "note": "run-in label 附註： under the cash flow statement"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 26,
+   "of": 22
+  },
+  {
+   "anno": 40,
+   "of": 36
+  }
+ ]
+}

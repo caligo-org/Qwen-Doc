@@ -1,0 +1,114 @@
+{
+ "doc": "paper_chn_8fb8a35e",
+ "nodes": [
+  {
+   "anno": 5,
+   "level": 1,
+   "parent": "root",
+   "text": "葡萄籽低聚原花青素提取及性质分析"
+  },
+  {
+   "anno": 19,
+   "level": 2,
+   "parent": 5,
+   "text": "1 材料"
+  },
+  {
+   "anno": 20,
+   "level": 3,
+   "parent": 19,
+   "text": "1.1 原料与试剂"
+  },
+  {
+   "anno": 28,
+   "level": 3,
+   "parent": 19,
+   "text": "1.2 仪器"
+  },
+  {
+   "anno": 30,
+   "level": 2,
+   "parent": 5,
+   "text": "2 实验"
+  },
+  {
+   "anno": 31,
+   "level": 3,
+   "parent": 30,
+   "text": "2.1 低聚原花青素的提取"
+  },
+  {
+   "anno": 33,
+   "level": 3,
+   "parent": 30,
+   "text": "2.2 低聚原花青素质量浓度测定"
+  },
+  {
+   "anno": 36,
+   "level": 3,
+   "parent": 30,
+   "text": "2.3 低聚原花青素聚合度测定"
+  },
+  {
+   "anno": 38,
+   "level": 2,
+   "parent": 5,
+   "text": "3 结果与讨论"
+  },
+  {
+   "anno": 39,
+   "level": 3,
+   "parent": 38,
+   "text": "3.1 提取剂 pH 的影响"
+  },
+  {
+   "anno": 45,
+   "level": 3,
+   "parent": 38,
+   "text": "3.2 提取时间的影响"
+  },
+  {
+   "anno": 51,
+   "level": 3,
+   "parent": 38,
+   "text": "3.3 提取温度的影响"
+  },
+  {
+   "anno": 61,
+   "level": 3,
+   "parent": 38,
+   "text": "3.4 提取物聚合度分析"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 38,
+   "text": "3.5 产物提取率分析"
+  },
+  {
+   "anno": 68,
+   "level": 3,
+   "parent": 38,
+   "text": "3.6 提取物的红外光谱分析"
+  },
+  {
+   "anno": 73,
+   "level": 2,
+   "parent": 5,
+   "text": "4 结论"
+  },
+  {
+   "anno": 75,
+   "level": 2,
+   "parent": 5,
+   "text": "参考文献："
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 12,
+   "note": "English translation of the title"
+  }
+ ],
+ "repeats": []
+}

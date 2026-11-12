@@ -1,0 +1,44 @@
+{
+ "doc": "researchReport_chn_1f9ad79f",
+ "notation": "researchReport: L1 report title; L2 摘要 and 一、 chapters; L3 （一） sections. Agency/department and author lines are text.",
+ "nodes": [
+  {
+   "anno": 2,
+   "level": 1,
+   "parent": "root",
+   "text": "机场行业研究报告"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 2,
+   "text": "摘要"
+  },
+  {
+   "anno": 9,
+   "level": 2,
+   "parent": 2,
+   "text": "一、行业概况"
+  },
+  {
+   "anno": 26,
+   "level": 2,
+   "parent": 2,
+   "text": "二、行业环境"
+  },
+  {
+   "anno": 27,
+   "level": 3,
+   "parent": 26,
+   "text": "（一）宏观环境"
+  },
+  {
+   "anno": 37,
+   "level": 3,
+   "parent": 26,
+   "text": "（二）行业政策"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}

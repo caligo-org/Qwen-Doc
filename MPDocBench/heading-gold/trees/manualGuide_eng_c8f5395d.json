@@ -1,0 +1,81 @@
+{
+ "doc": "manualGuide_eng_c8f5395d",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "nüvi 2440",
+   "note": "product model on the cover band is the title of this product sheet"
+  },
+  {
+   "anno": 28,
+   "level": 2,
+   "parent": 1,
+   "text": "Fonctionnalités"
+  },
+  {
+   "anno": 46,
+   "level": 3,
+   "parent": 28,
+   "text": "nüRoute™",
+   "note": "feature box title next to the Fonctionnalités list"
+  },
+  {
+   "anno": 49,
+   "level": 3,
+   "parent": 28,
+   "text": "PhotoReal™"
+  },
+  {
+   "anno": 59,
+   "level": 2,
+   "parent": 1,
+   "text": "Cartographie"
+  },
+  {
+   "anno": 63,
+   "level": 2,
+   "parent": 1,
+   "text": "Caractéristiques physiques"
+  },
+  {
+   "anno": 65,
+   "level": 2,
+   "parent": 1,
+   "text": "Contenu du pack"
+  },
+  {
+   "anno": 72,
+   "level": 2,
+   "parent": 1,
+   "text": "Conditionnement"
+  },
+  {
+   "anno": 79,
+   "level": 2,
+   "parent": 1,
+   "text": "Accessoires"
+  }
+ ],
+ "not_headings": [
+  {
+   "anno": 4,
+   "note": "cover slogan headline"
+  },
+  {
+   "anno": 47,
+   "note": "deck under the box title"
+  },
+  {
+   "anno": 50,
+   "note": "deck under the box title"
+  }
+ ],
+ "repeats": [
+  {
+   "anno": 26,
+   "of": 1
+  }
+ ]
+}

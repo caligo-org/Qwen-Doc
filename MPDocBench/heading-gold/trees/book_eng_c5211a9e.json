@@ -1,0 +1,241 @@
+{
+ "doc": "book_eng_c5211a9e",
+ "nodes": [
+  {
+   "anno": 1,
+   "level": 1,
+   "parent": "root",
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING"
+  },
+  {
+   "anno": 5,
+   "level": 2,
+   "parent": 1,
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW"
+  },
+  {
+   "anno": 6,
+   "level": 3,
+   "parent": 5,
+   "text": "ABOUT"
+  },
+  {
+   "anno": 10,
+   "level": 3,
+   "parent": 5,
+   "text": "WHY WAS THE FFP DEVELOPED?"
+  },
+  {
+   "anno": 16,
+   "level": 4,
+   "parent": 10,
+   "text": "1. Specificity (individuality)"
+  },
+  {
+   "anno": 18,
+   "level": 4,
+   "parent": 10,
+   "text": "2. Overload"
+  },
+  {
+   "anno": 20,
+   "level": 4,
+   "parent": 10,
+   "text": "3. Progression"
+  },
+  {
+   "anno": 22,
+   "level": 4,
+   "parent": 10,
+   "text": "4. Variation"
+  },
+  {
+   "anno": 25,
+   "level": 3,
+   "parent": 5,
+   "text": "DESIGNING INDIVIDUALIZED FITNESS PROGRAMS"
+  },
+  {
+   "anno": 28,
+   "level": 4,
+   "parent": 25,
+   "text": "1. Consultation and Discussion of Goals"
+  },
+  {
+   "anno": 32,
+   "level": 4,
+   "parent": 25,
+   "text": "2. Evaluate Health History Forms and Perform a Fitness Assessment"
+  },
+  {
+   "anno": 34,
+   "level": 4,
+   "parent": 25,
+   "text": "3. Establish S.M.A.R.T. Goals"
+  },
+  {
+   "anno": 38,
+   "level": 5,
+   "parent": 34,
+   "text": "a. Agree Upon the Goals"
+  },
+  {
+   "anno": 40,
+   "level": 5,
+   "parent": 34,
+   "text": "b. Define Roles and Responsibilities"
+  },
+  {
+   "anno": 42,
+   "level": 5,
+   "parent": 34,
+   "text": "c. Identify and Address Roadblocks"
+  },
+  {
+   "anno": 44,
+   "level": 4,
+   "parent": 25,
+   "text": "4. Develop the Training Program"
+  },
+  {
+   "anno": 48,
+   "level": 2,
+   "parent": 1,
+   "text": "IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING"
+  },
+  {
+   "anno": 50,
+   "level": 3,
+   "parent": 48,
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING: INSTRUCTIONS AND APPLICATION"
+  },
+  {
+   "anno": 63,
+   "level": 3,
+   "parent": 48,
+   "text": "MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING"
+  },
+  {
+   "anno": 64,
+   "level": 4,
+   "parent": 63,
+   "text": "WARM-UP BENEFITS"
+  },
+  {
+   "anno": 72,
+   "level": 4,
+   "parent": 63,
+   "text": "DYNAMIC WARM-UP RECOMMENDATIONS"
+  },
+  {
+   "anno": 75,
+   "level": 4,
+   "parent": 63,
+   "text": "DYNAMIC WARM-UP PROGRAMMING CONSIDERATIONS AND RECOMMENDATIONS"
+  },
+  {
+   "anno": 90,
+   "level": 4,
+   "parent": 63,
+   "text": "FLEXIBILITY TRAINING"
+  },
+  {
+   "anno": 94,
+   "level": 3,
+   "parent": 48,
+   "text": "PROGRAM DESIGN: BASICS"
+  },
+  {
+   "anno": 95,
+   "level": 4,
+   "parent": 94,
+   "text": "CLASSIFYING TRAINING STATUS AND TRAINING FREQUENCY RECOMMENDATIONS"
+  },
+  {
+   "anno": 103,
+   "level": 4,
+   "parent": 94,
+   "text": "SEQUENCING OF TRAINING"
+  },
+  {
+   "anno": 113,
+   "level": 4,
+   "parent": 94,
+   "text": "EXERCISE SELECTION, REGRESSION, AND PROGRESSION"
+  },
+  {
+   "anno": 124,
+   "level": 4,
+   "parent": 94,
+   "text": "TRAINING VARIABLES"
+  },
+  {
+   "anno": 131,
+   "level": 4,
+   "parent": 94,
+   "text": "ASSIGNING LOAD"
+  },
+  {
+   "anno": 138,
+   "level": 4,
+   "parent": 94,
+   "text": "PROGRAM DESIGN METHODS AND DESCRIPTIONS"
+  },
+  {
+   "anno": 156,
+   "level": 3,
+   "parent": 48,
+   "text": "PROGRAM DESIGN: PHASES OF TRAINING"
+  },
+  {
+   "anno": 158,
+   "level": 4,
+   "parent": 156,
+   "text": "MUSCULAR ENDURANCE"
+  },
+  {
+   "anno": 166,
+   "level": 4,
+   "parent": 156,
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR ENDURANCE GOAL"
+  },
+  {
+   "anno": 171,
+   "level": 4,
+   "parent": 156,
+   "text": "HYPERTROPHY"
+  },
+  {
+   "anno": 181,
+   "level": 4,
+   "parent": 156,
+   "text": "SEQUENCING EXAMPLE FOR HYPERTROPHY GOAL"
+  },
+  {
+   "anno": 186,
+   "level": 4,
+   "parent": 156,
+   "text": "MUSCULAR STRENGTH"
+  },
+  {
+   "anno": 198,
+   "level": 4,
+   "parent": 156,
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR STRENGTH GOAL"
+  },
+  {
+   "anno": 203,
+   "level": 4,
+   "parent": 156,
+   "text": "MUSCULAR POWER"
+  },
+  {
+   "anno": 212,
+   "level": 4,
+   "parent": 156,
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR POWER GOAL"
+  }
+ ],
+ "not_headings": [],
+ "repeats": []
+}
