@@ -60,6 +60,9 @@ pub struct Lines {
     pub gt_cat: Vec<String>,
     pub pred_lines: Vec<String>,
     pub norm_pred: Vec<String>,
+    /// for each kept GT line, the index of its item in the (unfiltered) gt list; used only
+    /// to record which gold elements a pair contains (`--export-pairs`), never for scoring
+    pub gt_src: Vec<usize>,
 }
 
 fn cat_of(item: &V) -> String {
@@ -83,9 +86,11 @@ pub fn get_gt_pred_lines(gt_mix: &[V], pred_mix: &[V], line_type: LineType, mara
     let mut gt_lines = Vec::new();
     let mut norm_gt = Vec::new();
     let mut gt_cat = Vec::new();
+    let mut gt_src: Vec<usize> = Vec::new();
     let mut pred_lines = Vec::new();
     let mut norm_pred = Vec::new();
     if matches!(line_type, LineType::HtmlTable | LineType::LatexTable) {
+        gt_src = (0..gt_mix.len()).collect();
         let mut norm_html = Vec::new();
         for item in gt_mix {
             gt_cat.push(cat_of(item));
@@ -119,8 +124,11 @@ pub fn get_gt_pred_lines(gt_mix: &[V], pred_mix: &[V], line_type: LineType, mara
             pred_lines.push(content);
             norm_pred.push(norm);
         }
-        for item in gt_mix {
+        for (src, item) in gt_mix.iter().enumerate() {
             let cat = item.get("category_type").as_str().unwrap_or("").to_string();
+            if item.get("content").truthy() || TEXT_CATS.contains(&cat.as_str()) || cat == "equation_isolated" {
+                gt_src.push(src);
+            }
             if item.get("content").truthy() {
                 let content = item.get("content").py_str();
                 gt_lines.push(content.clone());
@@ -145,9 +153,10 @@ pub fn get_gt_pred_lines(gt_mix: &[V], pred_mix: &[V], line_type: LineType, mara
     }
     // keep (a, b[, c]) where a and b are non-empty (zip truncates to the shortest)
     let n = gt_lines.len().min(norm_gt.len()).min(gt_cat.len());
-    let mut l = Lines { gt_lines: vec![], norm_gt: vec![], gt_cat: vec![], pred_lines: vec![], norm_pred: vec![] };
+    let mut l = Lines { gt_lines: vec![], norm_gt: vec![], gt_cat: vec![], pred_lines: vec![], norm_pred: vec![], gt_src: vec![] };
     for i in 0..n {
         if !gt_lines[i].is_empty() && !norm_gt[i].is_empty() {
+            l.gt_src.push(gt_src[i]);
             l.gt_lines.push(std::mem::take(&mut gt_lines[i]));
             l.norm_gt.push(std::mem::take(&mut norm_gt[i]));
             l.gt_cat.push(std::mem::take(&mut gt_cat[i]));
@@ -238,6 +247,19 @@ fn chars_of(lines: &[String]) -> Vec<Vec<u32>> {
 }
 
 /// `match_gt2pred_simple` → (match list, unmatched-table-pred items or None).
+/// Attach the gold items of each entry's (filtered) `gt_idx` as `__gold` (not written to the
+/// result files; read by `--export-pairs`).
+fn attach_gold(entries: &mut [V], l: &Lines, gt_items: &[V]) {
+    for e in entries.iter_mut() {
+        let idx: Vec<usize> = match e.get("gt_idx").as_list() {
+            Some(list) => list.iter().filter_map(|x| x.as_i64()).map(|x| x as usize).collect(),
+            None => Vec::new(),
+        };
+        let gold: Vec<V> = idx.iter().filter_map(|&i| l.gt_src.get(i).and_then(|&s| gt_items.get(s)).cloned()).collect();
+        e.set("__gold", V::list(gold));
+    }
+}
+
 pub fn match_gt2pred_simple(
     gt_items: &[V],
     pred_items: &[V],
@@ -246,6 +268,12 @@ pub fn match_gt2pred_simple(
     marathon: bool,
 ) -> (Vec<V>, Option<Vec<V>>) {
     let l = get_gt_pred_lines(gt_items, pred_items, line_type, marathon);
+    let (mut out, extra) = simple_body(&l, gt_items, pred_items, line_type, img_name);
+    attach_gold(&mut out, &l, gt_items);
+    (out, extra)
+}
+
+fn simple_body(l: &Lines, gt_items: &[V], pred_items: &[V], line_type: LineType, img_name: &str) -> (Vec<V>, Option<Vec<V>>) {
     let mut out = Vec::new();
     if l.norm_gt.is_empty() && l.norm_pred.is_empty() {
         return (out, None);
@@ -1062,6 +1090,12 @@ pub fn match_gt2pred_quick(gt_items: &[V], pred_items_in: &[V], img_name: &str, 
     });
     let pred_items: Vec<V> = order.iter().map(|&i| pred_items_in[i].clone()).collect();
     let l = get_gt_pred_lines(gt_items, &pred_items, LineType::Untyped, marathon);
+    let mut out = quick_body(&l, gt_items, &pred_items, img_name);
+    attach_gold(&mut out, &l, gt_items);
+    out
+}
+
+fn quick_body(l: &Lines, gt_items: &[V], pred_items: &[V], img_name: &str) -> Vec<V> {
     let (ng, np) = (l.norm_gt.len(), l.norm_pred.len());
 
     if ng == 0 {

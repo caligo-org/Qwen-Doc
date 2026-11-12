@@ -10,6 +10,7 @@ mod lev;
 mod lsap;
 mod matching;
 mod metrics;
+mod pairs;
 mod pdnum;
 mod preprocess;
 mod py;
@@ -40,6 +41,9 @@ options:
   --teds-zero FILE   tables to score 0, one \"<element>/<img_id>_<gt_idx>\" per line (e.g.
                      table/doc.pdf_[3]), to reproduce a Python run (MarathonDocBench patch) in
                      which MPDOC_TEDS_TIMEOUT cut those tables off
+  --export-pairs DIR  also write DIR/<element>_pairs.jsonl for text_block, merged_text_block,
+                     table and merged_table: one line per scored pair with the gold elements it
+                     contains (anno_ids, pages, polys), the compared strings and its score
   --simple-match FILE  documents (image_path basenames) to match with match_gt2pred_simple, to
                      reproduce a Python run in which the 30 s func_timeout fired for them
 ";
@@ -53,6 +57,7 @@ struct Args {
     toolkit: Option<PathBuf>,
     teds_zero: std::collections::HashSet<String>,
     simple_match: std::collections::HashSet<String>,
+    export_pairs: Option<PathBuf>,
 }
 
 fn env_usize(name: &str) -> Option<usize> {
@@ -79,6 +84,7 @@ fn parse_args() -> Args {
         toolkit: None,
         teds_zero: Default::default(),
         simple_match: Default::default(),
+        export_pairs: None,
     };
     let argv: Vec<String> = std::env::args().skip(1).collect();
     let mut i = 0;
@@ -108,6 +114,7 @@ fn parse_args() -> Args {
             "--toolkit" => a.toolkit = Some(PathBuf::from(val(&mut i))),
             "--teds-zero" => a.teds_zero = read_lines(&val(&mut i)),
             "--simple-match" => a.simple_match = read_lines(&val(&mut i)),
+            "--export-pairs" => a.export_pairs = Some(PathBuf::from(val(&mut i))),
             "-h" | "--help" => {
                 print!("{}", USAGE);
                 std::process::exit(0)
@@ -384,6 +391,11 @@ fn run_task(args: &Args, tcfg: &V, t0: Instant) {
             entry.insert("figure_label".into(), metrics::figure_label_results(&samples));
         }
         result_all.insert(element.clone(), V::from(entry));
+        if let Some(dir) = &args.export_pairs {
+            if pairs::CATEGORIES.contains(&element.as_str()) {
+                pairs::export(dir, element, &samples);
+            }
+        }
         metrics::write_json(&out_dir.join(format!("{}_result.json", element)), &V::list(samples));
     }
     metrics::write_json(&out_dir.join("metric_result.json"), &V::from(result_all));

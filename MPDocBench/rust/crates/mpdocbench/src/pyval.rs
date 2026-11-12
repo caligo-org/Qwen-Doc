@@ -367,6 +367,50 @@ fn json_str(out: &mut String, s: &str) {
     out.push('"');
 }
 
+/// Internal per-sample annotation (the gold items of a pair, for `--export-pairs`); never
+/// written to the toolkit's result files.
+pub const INTERNAL_KEY: &str = "__gold";
+
+/// One-line JSON (for .jsonl exports): `json.dumps(v, ensure_ascii=False)`.
+pub fn to_json_line(v: &V) -> String {
+    let mut out = String::new();
+    write_compact(&mut out, v);
+    out
+}
+
+fn write_compact(out: &mut String, v: &V) {
+    match v {
+        V::List(l) => {
+            out.push('[');
+            for (i, x) in l.iter().enumerate() {
+                if i > 0 {
+                    out.push_str(", ");
+                }
+                write_compact(out, x);
+            }
+            out.push(']');
+        }
+        V::Dict(d) => {
+            out.push('{');
+            let mut first = true;
+            for (k, x) in d.iter() {
+                if k == INTERNAL_KEY {
+                    continue;
+                }
+                if !first {
+                    out.push_str(", ");
+                }
+                first = false;
+                json_str(out, k);
+                out.push_str(": ");
+                write_compact(out, x);
+            }
+            out.push('}');
+        }
+        other => write_json(out, other, 0),
+    }
+}
+
 /// Python `json.dumps(v, indent=4, ensure_ascii=False)`.
 pub fn to_json_indent4(v: &V) -> String {
     let mut out = String::new();
@@ -412,11 +456,20 @@ fn write_json(out: &mut String, v: &V, level: usize) {
                 out.push_str("{}");
                 return;
             }
+            if d.keys().all(|k| k == INTERNAL_KEY) {
+                out.push_str("{}");
+                return;
+            }
             out.push('{');
-            for (i, (k, x)) in d.iter().enumerate() {
-                if i > 0 {
+            let mut first = true;
+            for (k, x) in d.iter() {
+                if k == INTERNAL_KEY {
+                    continue;
+                }
+                if !first {
                     out.push(',');
                 }
+                first = false;
                 newline_indent(out, level + 1);
                 json_str(out, k);
                 out.push_str(": ");
