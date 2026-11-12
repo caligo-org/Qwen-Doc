@@ -23,6 +23,7 @@
 //! internally (the XeTeX engine has global state), so native renders of concurrent
 //! samples queue on one lock.
 
+mod batch;
 mod cdm;
 pub mod katex;
 mod latex_processor;
@@ -220,16 +221,77 @@ pub fn cdm_sample_with(
     marathon: bool,
     backend: &Backend,
 ) -> Result<CdmScore, Error> {
+    sample_inner(idx, gt, pred, output_root, marathon, backend, &cdm::NoOutput::new())
+}
+
+fn sample_inner(
+    idx: usize,
+    gt: &str,
+    pred: &str,
+    output_root: &Path,
+    marathon: bool,
+    backend: &Backend,
+    no_output: &cdm::NoOutput,
+) -> Result<CdmScore, Error> {
     let (gt, pred) = clean(gt, pred);
     let score = if marathon && py::strip(&pred).is_empty() {
         Score::Int(0)
     } else {
-        match evaluate(&gt, &pred, &idx.to_string(), output_root, backend)? {
+        let root = output_root.to_str().ok_or(Error::BadPath)?;
+        match cdm::evaluate_with(root, &gt, &pred, &idx.to_string(), backend, no_output).map_err(|e| Error::Raised(e.0))? {
             EvalResult::Zero => Score::Int(0),
             EvalResult::Scores { f1, .. } => Score::Float(f1),
         }
     };
     Ok(CdmScore { gt, pred, score })
+}
+
+/// Batch size for [`cdm_batch`]: `CDM_BATCH` (default 64; 0 or 1 renders every formula alone).
+pub fn batch_size_from_env() -> usize {
+    std::env::var("CDM_BATCH").ok().and_then(|v| v.parse().ok()).unwrap_or(64)
+}
+
+pub use batch::BatchStats;
+
+/// [`cdm_sample`] for many samples at once: `items` are `(idx, gt, pred)`; results come
+/// back in the same order and are the same as `cdm_sample` gives for each item. With the
+/// native backend the formulas are typeset in batches of [`batch_size_from_env`] per
+/// Tectonic run (module `batch`): the preamble loads once per batch instead of once per
+/// formula. Writes the same per-sample files as [`cdm_sample`]. Runs sequentially.
+pub fn cdm_batch(items: &[(usize, &str, &str)], output_root: &Path, marathon: bool) -> Vec<Result<CdmScore, Error>> {
+    cdm_batch_with(items, output_root, marathon, &Backend::from_env(), batch_size_from_env()).0
+}
+
+/// [`cdm_batch`] with an explicit backend and batch size; also returns batch statistics.
+pub fn cdm_batch_with(
+    items: &[(usize, &str, &str)],
+    output_root: &Path,
+    marathon: bool,
+    backend: &Backend,
+    batch_size: usize,
+) -> (Vec<Result<CdmScore, Error>>, BatchStats) {
+    let mut stats = BatchStats::default();
+    let mut no_output = cdm::NoOutput::new();
+    let batchable = *backend == Backend { coverage_threshold: backend.coverage_threshold, ..Backend::native() };
+    if batchable && batch_size > 1 {
+        if let Some(root) = output_root.to_str() {
+            let mut todo = Vec::new();
+            for &(idx, gt, pred) in items {
+                let (gt, pred) = clean(gt, pred);
+                if marathon && py::strip(&pred).is_empty() {
+                    continue;
+                }
+                todo.push((idx.to_string(), gt, pred));
+            }
+            // errors here only mean fewer formulas come from batches
+            if let Ok((s, n)) = batch::render_batched(root, &todo, batch_size, backend.coverage_threshold, std::env::var("CDM_BATCH_KEEP_ERRORS").map_or(true, |v| v != "0")) {
+                stats = s;
+                no_output = n;
+            }
+        }
+    }
+    let res = items.iter().map(|&(idx, gt, pred)| sample_inner(idx, gt, pred, output_root, marathon, backend, &no_output)).collect();
+    (res, stats)
 }
 
 /// Test hook: `normalize_latex` + the `token_add_color_RGB` loop + colour substitution of
@@ -299,5 +361,20 @@ mod tests {
         assert_eq!(clean("\\[a\\]", "\\(b\\)"), ("a".into(), "b".into()));
         assert_eq!(clean("\\]", "\\["), ("".into(), "".into()));
         assert_eq!(clean("$\\[a$", "x```"), ("a".into(), "x".into()));
+    }
+}
+
+/// Debug hook: batch document and log for some formulas.
+#[doc(hidden)]
+pub fn __batch_debug(latexes: &[&str]) -> (String, String) {
+    batch::debug(latexes)
+}
+
+/// Debug hook: Tectonic compile of a TeX source with its log (PDF size, log text).
+#[doc(hidden)]
+pub fn __compile_log(src: &str) -> (Option<usize>, String) {
+    match tex::compile_with_log(src, true) {
+        Ok((p, l)) => (p.map(|p| p.len()), String::from_utf8_lossy(&l.unwrap_or_default()).into_owned()),
+        Err(e) => (None, e),
     }
 }

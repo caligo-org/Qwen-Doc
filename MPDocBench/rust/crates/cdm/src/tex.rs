@@ -38,6 +38,14 @@ pub fn bundle_location() -> String {
 /// Compiles `tex` (the content of `<name>.tex`) and returns the PDF bytes, or None where
 /// xelatex would leave no PDF behind. Err only for setup failures (bundle unavailable).
 pub fn compile(tex: &str) -> Result<Option<Vec<u8>>, String> {
+    compile_with_log(tex, false).map(|(pdf, _)| pdf)
+}
+
+/// The PDF (None: no PDF) and the TeX log (when requested).
+pub type PdfAndLog = (Option<Vec<u8>>, Option<Vec<u8>>);
+
+/// [`compile`], also returning the TeX log when `log` is set.
+pub fn compile_with_log(tex: &str, log: bool) -> Result<PdfAndLog, String> {
     let root = cache_root();
     let only_cached = std::env::var("CDM_TECTONIC_ONLY_CACHED").is_ok_and(|v| v == "1");
     let bundle = tectonic_bundles::detect_bundle(bundle_location(), only_cached, root.as_ref().map(|r| r.join("bundles")))
@@ -55,7 +63,7 @@ pub fn compile(tex: &str) -> Result<Option<Vec<u8>>, String> {
         .tex_input_name("texput.tex")
         .format_name("latex")
         .format_cache_path(formats)
-        .keep_logs(false)
+        .keep_logs(log)
         .keep_intermediates(false)
         .print_stdout(false)
         .output_format(OutputFormat::Pdf)
@@ -69,5 +77,6 @@ pub fn compile(tex: &str) -> Result<Option<Vec<u8>>, String> {
     // left behind, as the Python code checks only for the file.
     let _ = sess.run(&mut status);
     let files = sess.into_file_data();
-    Ok(files.get("texput.pdf").map(|f| f.data.clone()).filter(|d| !d.is_empty()))
+    let pdf = files.get("texput.pdf").map(|f| f.data.clone()).filter(|d| !d.is_empty());
+    Ok((pdf, files.get("texput.log").map(|f| f.data.clone())))
 }

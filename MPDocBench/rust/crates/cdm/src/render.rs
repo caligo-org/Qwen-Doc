@@ -92,6 +92,33 @@ fn run_cmd(cmd: &str, temp_dir: Option<&str>) -> PyResult<()> {
 
 /// The `try:` block of `latex2bbox_color`: returns None where Python logs and returns.
 fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[u8; 3]], tok: Tokenizer) -> PyResult<(String, Vec<String>, usize)> {
+    let p = prepare(latex, basename, temp_dir, total_color_list, tok)?;
+    let head = FORMULAR_TEMPLATE_HEAD.replace("<PaperSize>", &p.paper_size.to_string());
+    let final_latex = format!("{head}{}{FORMULAR_TEMPLATE_TAIL}", p.rgb_latex);
+    Ok((final_latex, p.token_list, p.n_colors))
+}
+
+/// A formula ready to typeset: its coloured LaTeX, paper size and tokens.
+pub(crate) struct Prepared {
+    pub rgb_latex: String,
+    pub paper_size: u32,
+    pub token_list: Vec<String>,
+    pub n_colors: usize,
+}
+
+/// The template head up to (excluding) `\begin{displaymath}`, and the template tail
+/// after `\end{displaymath}`, for batched documents.
+pub(crate) fn template_head(paper_size: u32) -> String {
+    let h = FORMULAR_TEMPLATE_HEAD.replace("<PaperSize>", &paper_size.to_string());
+    h.strip_suffix("\\begin{displaymath}\n").unwrap().to_string()
+}
+
+/// `\begin{displaymath}` + formula + `\end{displaymath}` exactly as in the template.
+pub(crate) fn template_body(rgb_latex: &str) -> String {
+    format!("\\begin{{displaymath}}\n{rgb_latex}\n\\end{{displaymath}}\n")
+}
+
+pub(crate) fn prepare(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[u8; 3]], tok: Tokenizer) -> PyResult<Prepared> {
     let latex = latex.replace('\n', " ");
     let latex = latex.replace("\\%", "<PERCENTAGETOKEN>");
     let (ret, new_latex) = tokenize_latex(&latex, &path_join(temp_dir, &format!("{basename}.txt")), tok)?;
@@ -105,9 +132,7 @@ fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[
     } else {
         5
     };
-    let head = FORMULAR_TEMPLATE_HEAD.replace("<PaperSize>", &paper_size.to_string());
-    let final_latex = format!("{head}{rgb_latex}{FORMULAR_TEMPLATE_TAIL}");
-    Ok((final_latex, token_list, n_colors))
+    Ok(Prepared { rgb_latex, paper_size, token_list, n_colors })
 }
 
 pub(crate) fn normalize_and_color(latex: &str) -> PyResult<(String, Vec<String>)> {
@@ -233,6 +258,29 @@ pub fn latex2bbox_color(
         }
     };
 
+    write_boxes(&opened, &token_list, color_list, &output_bbox_path, &output_vis_path, &output_base_path)
+}
+
+/// The output paths of `latex2bbox_color` for one formula: (bbox jsonl, vis, base).
+pub(crate) fn output_paths(output_path: &str, basename: &str) -> (String, String, String) {
+    let basename = basename.replace(".jpg", "");
+    (
+        path_join(&path_join(output_path, "bbox"), &format!("{basename}.jsonl")),
+        path_join(&path_join(output_path, "vis"), &format!("{basename}.png")),
+        path_join(&path_join(output_path, "vis"), &format!("{basename}_base.png")),
+    )
+}
+
+/// From the page pixels on: `crop_image`, `extrac_bbox_from_color_image`, the bbox
+/// jsonl and the two PNGs.
+pub(crate) fn write_boxes(
+    opened: &pil::Opened,
+    token_list: &[String],
+    color_list: &[[u8; 3]],
+    output_bbox_path: &str,
+    output_vis_path: &str,
+    output_base_path: &str,
+) -> PyResult<()> {
     // crop_image(output_base_path): its file is re-read unchanged by the next step,
     // so the cropped image is kept in memory.
     let gray = opened.to_l();
@@ -274,7 +322,7 @@ pub fn latex2bbox_color(
     let bbox_list: Vec<Option<[i64; 4]>> =
         boxes.into_iter().map(|b| b.map(|b| [b[0] - 1, b[1] - 1, b[2] + 1, b[3] + 1])).collect();
     let base = img.binarize();
-    base.save_png(&output_base_path)?;
+    base.save_png(output_base_path)?;
 
     // bbox jsonl + vis (rectangles; the token text labels are not drawn)
     let mut vis = base;
@@ -285,8 +333,8 @@ pub fn latex2bbox_color(
             vis.rectangle_outline(b[0], b[1], b[2], b[3], [0, 250, 0], 1)?;
         }
     }
-    fs::write(&output_bbox_path, out).map_err(|e| PyErr::new(format!("OSError: {e}")))?;
-    vis.save_png(&output_vis_path)?;
+    fs::write(output_bbox_path, out).map_err(|e| PyErr::new(format!("OSError: {e}")))?;
+    vis.save_png(output_vis_path)?;
     Ok(())
 }
 

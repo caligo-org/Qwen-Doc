@@ -20,16 +20,21 @@ pub fn cdm_metric(cfg: &CdmConfig, samples: &[V], prefix: &str, output_root: &st
     let pool = rayon::ThreadPoolBuilder::new().num_threads(cfg.workers.max(1)).build().unwrap();
     let done = std::sync::atomic::AtomicUsize::new(0);
     let n = samples.len();
-    let run = |i: usize, s: &V| {
-        let r = cdm::cdm_sample(i, &s.get("gt").py_str(), &s.get("pred").py_str(), &root, cfg.marathon);
-        let k = done.fetch_add(1, std::sync::atomic::Ordering::Relaxed) + 1;
-        if k % 200 == 0 || k == n {
-            eprintln!("[CDM] {}/{}", k, n);
-        }
+    // Chunks of CDM_BATCH samples (default 64): each chunk is typeset in batched Tectonic
+    // runs (`cdm::cdm_batch`, same scores as `cdm_sample` per sample); chunks run on the pool.
+    let chunk = cdm::batch_size_from_env().max(1);
+    let strs: Vec<(String, String)> = samples.iter().map(|s| (s.get("gt").py_str(), s.get("pred").py_str())).collect();
+    let run = |c: usize| {
+        let lo = c * chunk;
+        let hi = (lo + chunk).min(n);
+        let items: Vec<(usize, &str, &str)> = (lo..hi).map(|i| (i, strs[i].0.as_str(), strs[i].1.as_str())).collect();
+        let r = cdm::cdm_batch(&items, &root, cfg.marathon);
+        let k = done.fetch_add(hi - lo, std::sync::atomic::Ordering::Relaxed) + hi - lo;
+        eprintln!("[CDM] {}/{}", k, n);
         r
     };
     let mut results: Vec<Result<cdm::CdmScore, cdm::Error>> =
-        pool.install(|| samples.par_iter().enumerate().map(|(i, s)| run(i, s)).collect());
+        pool.install(|| (0..n.div_ceil(chunk)).into_par_iter().map(run).collect::<Vec<_>>()).into_iter().flatten().collect();
     // failed samples are retried once, sequentially, as the original does
     for i in 0..n {
         if results[i].is_err() {

@@ -31,12 +31,21 @@ const DPI: f64 = 200.0;
 /// Rasterises the single page of `pdf`. Err where the `magick` call would leave no
 /// `X.png` (an unreadable PDF, or several pages, which magick writes as `X-0.png`, ...).
 pub fn rasterize(pdf: &[u8], threshold: u8) -> PyResult<Opened> {
-    let pdf = Pdf::new(pdf.to_vec()).map_err(|e| PyErr::new(format!("FileNotFoundError: PDF not rasterised: {e:?}")))?;
+    let pdf = parse(pdf)?;
     let pages = pdf.pages();
     if pages.len() != 1 {
         return Err(PyErr::new(format!("FileNotFoundError: PDF has {} pages", pages.len())));
     }
-    let page = &pages[0];
+    rasterize_page(&pages[0], threshold)
+}
+
+/// Parses a PDF for [`rasterize_page`].
+pub fn parse(pdf: &[u8]) -> PyResult<Pdf> {
+    Pdf::new(pdf.to_vec()).map_err(|e| PyErr::new(format!("FileNotFoundError: PDF not rasterised: {e:?}")))
+}
+
+/// Rasterises one page (as [`rasterize`] does the single page of a PDF).
+pub fn rasterize_page(page: &hayro::hayro_syntax::page::Page<'_>, threshold: u8) -> PyResult<Opened> {
     let mb = page.media_box();
     let s = DPI / 72.0;
     let w = ((mb.x1 - mb.x0) * s + 0.5).floor();

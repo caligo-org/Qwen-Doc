@@ -19,11 +19,11 @@ pub enum EvalResult {
     Scores { recall: f64, precision: f64, f1: f64 },
 }
 
-fn mkdirs(p: &str) -> PyResult<()> {
+pub(crate) fn mkdirs(p: &str) -> PyResult<()> {
     fs::create_dir_all(p).map_err(|e| PyErr::new(format!("OSError: {p}: {e}")))
 }
 
-fn prepare_directories(root: &str) -> PyResult<()> {
+pub(crate) fn prepare_directories(root: &str) -> PyResult<()> {
     for sub in ["gt/bbox", "gt/vis", "pred/bbox", "pred/vis", "vis_match"] {
         let mut p = root.to_string();
         for part in sub.split('/') {
@@ -34,13 +34,16 @@ fn prepare_directories(root: &str) -> PyResult<()> {
     Ok(())
 }
 
-fn generate_bboxes(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<()> {
+fn generate_bboxes(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend, no_output: &NoOutput) -> PyResult<()> {
     let colors = gen_color_list(5800, 15);
     for (subset, latex) in [("gt", gt), ("pred", pred)] {
         let output_path = path_join(root, subset);
         let temp_dir = path_join(root, &format!("temp_dir_{subset}_{img_id}"));
         mkdirs(&temp_dir)?;
-        latex2bbox_color(latex, img_id, &output_path, &temp_dir, &colors, backend)?;
+        // a formula a batch showed to leave no PDF: latex2bbox_color returns early
+        if !no_output.contains(&(subset, img_id.to_string())) {
+            latex2bbox_color(latex, img_id, &output_path, &temp_dir, &colors, backend)?;
+        }
         fs::remove_dir_all(&temp_dir).map_err(|e| PyErr::new(format!("OSError: {temp_dir}: {e}")))?;
     }
     Ok(())
@@ -159,9 +162,9 @@ struct Loaded {
     inliers: Vec<bool>,
 }
 
-fn match_and_load(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<Loaded> {
+fn match_and_load(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend, no_output: &NoOutput) -> PyResult<Loaded> {
     prepare_directories(root)?;
-    generate_bboxes(root, gt, pred, img_id, backend)?;
+    generate_bboxes(root, gt, pred, img_id, backend, no_output)?;
     let box_gt = load_box_file(&path_join(&path_join(&path_join(root, "gt"), "bbox"), &format!("{img_id}.jsonl")))?;
     let box_pred = load_box_file(&path_join(&path_join(&path_join(root, "pred"), "bbox"), &format!("{img_id}.jsonl")))?;
     let img_gt = pil::open_png(&path_join(&path_join(&path_join(root, "gt"), "vis"), &format!("{img_id}_base.png")))?.to_rgb();
@@ -212,7 +215,15 @@ fn visualize(root: &str, l: &Loaded, img_id: &str) -> PyResult<()> {
 /// `CDM(output_root).evaluate(gt_latex, pred_latex, img_id)`. Err where Python raises out
 /// of evaluate (after the `try:` block).
 pub fn evaluate(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<EvalResult> {
-    let l = match match_and_load(root, gt, pred, img_id, backend) {
+    evaluate_with(root, gt, pred, img_id, backend, &NoOutput::new())
+}
+
+/// (subset, img_id) of formulas whose render is known to leave no PDF (from a batch).
+pub(crate) type NoOutput = std::collections::HashSet<(&'static str, String)>;
+
+/// [`evaluate`] skipping the render of the formulas in `no_output`.
+pub(crate) fn evaluate_with(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend, no_output: &NoOutput) -> PyResult<EvalResult> {
+    let l = match match_and_load(root, gt, pred, img_id, backend, no_output) {
         Ok(l) => l,
         Err(_) => return Ok(EvalResult::Zero),
     };

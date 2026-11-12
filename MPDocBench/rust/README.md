@@ -14,6 +14,13 @@ slightly from TeX Live 2024 + Ghostscript, so CDM can differ slightly from the P
 (`crates/cdm/examples/cdm_compare.rs`). Set `CDM_TECTONIC_CACHE` to a durable folder for the
 TeX bundle (downloaded on first use; `CDM_TECTONIC_ONLY_CACHED=1` runs offline).
 
+Formulas are typeset in batches: one Tectonic run loads the template preamble once and
+typesets `CDM_BATCH` formulas (default 64), one page each, with each formula in its own TeX
+group. The TeX log tells which page belongs to which formula and whether TeX is back in a
+clean state after it. Pages are then rasterised and boxed as single renders are. On the
+1,868 Marathon formula pairs batching gives the same score for every pair, with no formula
+rendered alone, at about 16x less time per pair. `CDM_BATCH=1` renders every formula alone.
+
 ## Build and run
 
 ```bash
