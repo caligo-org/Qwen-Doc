@@ -1,6 +1,8 @@
 //! Port of `metrics/cdm/modules/tokenize_latex/tokenize_latex.py`. The KaTeX based
-//! tokenizers (`preprocess_formula.js`, `preprocess_tabular.js`) are the toolkit's own
-//! JavaScript and are run with `node` through `/bin/sh`, with the same command lines.
+//! tokenizers (`preprocess_formula.js`, `preprocess_tabular.js`) run as the Rust port in
+//! `crate::katex` ([`Tokenizer::Native`]), or as the toolkit's own JavaScript with `node`
+//! (and `perl` for tabular input) through `/bin/sh`, with the Python code's command lines
+//! ([`Tokenizer::External`]).
 
 use std::fs;
 use std::path::PathBuf;
@@ -9,6 +11,7 @@ use std::sync::OnceLock;
 
 use regex::Regex;
 
+use crate::katex::{self, Script};
 use crate::py::{self, PyErr, PyResult};
 
 /// Directory holding `preprocess_formula.js` / `preprocess_tabular.js` and `third_party/`.
@@ -136,24 +139,103 @@ fn sub_env(s: &str, names: &[&str], begin: &str, end: &str) -> String {
     out
 }
 
+/// Lines of a text as Python's `for line in open(path, 'r')` yields them (universal
+/// newlines).
+fn text_lines(t: &str) -> Vec<String> {
+    let t = t.replace("\r\n", "\n").replace('\r', "\n");
+    t.split_inclusive('\n').map(|x| x.to_string()).collect()
+}
+
+/// The tabular `perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g'` (inside the
+/// single-quoted perl program `\|` is alternation). The input has no newlines.
+pub fn hskip_rewrite(s: &str) -> String {
+    static R: OnceLock<Regex> = OnceLock::new();
+    let r = R.get_or_init(|| Regex::new(r"hskip(.*?)(cm|in|pt|mm|em)").unwrap());
+    r.replace_all(s, |c: &regex::Captures| format!("hspace{{{}{}}}", &c[1], &c[2])).into_owned()
+}
+
+/// Which tokenizer runs the toolkit's KaTeX scripts.
+#[derive(Clone, Copy, Debug, PartialEq, Eq)]
+pub enum Tokenizer {
+    /// The Rust port (`crate::katex`), perl's rewrite as a Rust regex.
+    Native,
+    /// `node` and `perl` on PATH through `/bin/sh`, as the Python code runs them.
+    External,
+}
+
+fn formula_post(lines: Vec<String>) -> PyResult<(bool, String)> {
+    let mut post: Option<String> = None;
+    for line in lines {
+        let joined = py::split_ws(&line).join(" ");
+        let p = ops_regex()
+            .replace_all(&joined, |c: &regex::Captures| format!("\\{}", c[1].replace(' ', "")))
+            .into_owned();
+        post = Some(p.replace(r"\\ \end{array}", r"\end{array}"));
+    }
+    match post {
+        Some(p) => Ok((true, p)),
+        None => Err(PyErr::new("UnboundLocalError: post")),
+    }
+}
+
+fn tabular_post(lines: Vec<String>) -> PyResult<(bool, String)> {
+    let mut post: Option<String> = None;
+    for line in lines {
+        post = Some(py::split_ws(&line).join(" "));
+    }
+    match post {
+        Some(p) => Ok((true, p)),
+        None => Err(PyErr::new("UnboundLocalError: post")),
+    }
+}
+
+/// The formula pre-processing before node: `\begin{split|align|...}` -> aligned,
+/// smallmatrix -> matrix.
+pub fn formula_prepre(latex_code: &str) -> String {
+    let prepre = sub_env(
+        latex_code,
+        &["split", "align", "alignedat", "alignat", "eqnarray"],
+        "\\begin{aligned}",
+        "\\end{aligned}",
+    );
+    sub_env(&prepre, &["smallmatrix"], "\\begin{matrix}", "\\end{matrix}")
+}
+
+/// The tabular pre-processing (`%` comments, missing `\end{tabular}`): returns the
+/// returned-on-failure code and the text written for perl.
+pub fn tabular_pre(latex_code: &str) -> (String, String) {
+    let mut lc = latex_code.replace("\\\\%", "\\\\ %");
+    lc = lc.replace("\\%", "<PERCENTAGE_TOKEN>");
+    lc = lc.split('%').next().unwrap().to_string();
+    lc = lc.replace("<PERCENTAGE_TOKEN>", "\\%");
+    if !lc.contains("\\end{tabular}") {
+        lc.push_str("\\end{tabular}");
+    }
+    let file = lc.replace(['\r', '\n'], " ");
+    (lc, file)
+}
+
 /// `tokenize_latex(latex_code, latex_type="", middle_file=...)`
-pub fn tokenize_latex(latex_code: &str, middle_file: &str) -> PyResult<(bool, String)> {
+pub fn tokenize_latex(latex_code: &str, middle_file: &str, tok: Tokenizer) -> PyResult<(bool, String)> {
     if latex_code.is_empty() {
         return Ok((false, latex_code.to_string()));
     }
     let tabular = latex_code.contains("tabular");
+    if tok == Tokenizer::Native {
+        return if !tabular {
+            let out = katex::run(&formula_prepre(latex_code), Script::FormulaNormalize);
+            formula_post(text_lines(&out))
+        } else {
+            let (_lc, file) = tabular_pre(latex_code);
+            let out = katex::run(&hskip_rewrite(&file), Script::TabularTokenize);
+            tabular_post(text_lines(&out))
+        };
+    }
+
     let temp_file = format!("{middle_file}.tmp");
     let dir = tokenize_dir();
-
     if !tabular {
-        let prepre = sub_env(
-            latex_code,
-            &["split", "align", "alignedat", "alignat", "eqnarray"],
-            "\\begin{aligned}",
-            "\\end{aligned}",
-        );
-        let prepre = sub_env(&prepre, &["smallmatrix"], "\\begin{matrix}", "\\end{matrix}");
-        write_text(&temp_file, &prepre)?;
+        write_text(&temp_file, &formula_prepre(latex_code))?;
         let js = py::path_join(dir, "preprocess_formula.js");
         let cmd = format!("cat {temp_file} | node {js} normalize > {middle_file} ");
         let ret = shell_call(&cmd)?;
@@ -161,28 +243,12 @@ pub fn tokenize_latex(latex_code: &str, middle_file: &str) -> PyResult<(bool, St
         if ret != 0 {
             return Ok((false, latex_code.to_string()));
         }
-        let mut post: Option<String> = None;
-        for line in read_lines(middle_file)? {
-            let joined = py::split_ws(&line).join(" ");
-            let p = ops_regex()
-                .replace_all(&joined, |c: &regex::Captures| format!("\\{}", c[1].replace(' ', "")))
-                .into_owned();
-            post = Some(p.replace(r"\\ \end{array}", r"\end{array}"));
-        }
+        let lines = read_lines(middle_file)?;
         remove(middle_file)?;
-        match post {
-            Some(p) => Ok((true, p)),
-            None => Err(PyErr::new("UnboundLocalError: post")),
-        }
+        formula_post(lines)
     } else {
-        let mut lc = latex_code.replace("\\\\%", "\\\\ %");
-        lc = lc.replace("\\%", "<PERCENTAGE_TOKEN>");
-        lc = lc.split('%').next().unwrap().to_string();
-        lc = lc.replace("<PERCENTAGE_TOKEN>", "\\%");
-        if !lc.contains("\\end{tabular}") {
-            lc.push_str("\\end{tabular}");
-        }
-        write_text(middle_file, &lc.replace(['\r', '\n'], " "))?;
+        let (lc, file) = tabular_pre(latex_code);
+        write_text(middle_file, &file)?;
         let cmd = format!(
             "perl -pe 's|hskip(.*?)(cm\\|in\\|pt\\|mm\\|em)|hspace{{\\1\\2}}|g' {middle_file} > {temp_file}"
         );
@@ -198,14 +264,19 @@ pub fn tokenize_latex(latex_code: &str, middle_file: &str) -> PyResult<(bool, St
         if ret != 0 {
             return Ok((false, lc));
         }
-        let mut post: Option<String> = None;
-        for line in read_lines(middle_file)? {
-            post = Some(py::split_ws(&line).join(" "));
-        }
+        let lines = read_lines(middle_file)?;
         remove(middle_file)?;
-        match post {
-            Some(p) => Ok((true, p)),
-            None => Err(PyErr::new("UnboundLocalError: post")),
-        }
+        tabular_post(lines)
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn hskip() {
+        assert_eq!(hskip_rewrite("x hskip 1.5 cm y \\hskip2pt z hskipabc"), "x hspace{ 1.5 cm} y \\hspace{2pt} z hskipabc");
+        assert_eq!(hskip_rewrite("hskip|in"), "hspace{|in}");
     }
 }

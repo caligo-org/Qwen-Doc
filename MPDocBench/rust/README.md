@@ -6,15 +6,20 @@ the same files to `<out>/result/<save_name>/`: `metric_result.json`,
 `<element>_result.json`, and the per-page, per-table and per-sample score files. The
 Python scorer in this directory stays the reference.
 
-No Python runs at score time. Formula CDM runs the same external programs the Python code
-runs: `node` with the toolkit's KaTeX tokenizer, `xelatex`, ImageMagick `magick` and
-Ghostscript, plus `perl` for tabular input. Put the same toolchain on `PATH` as for the
-Python scorer.
+No Python and no external programs run at score time. Formula CDM is Rust-native by default:
+the toolkit's KaTeX tokenizer is ported exactly, TeX runs in-process through the `tectonic`
+crate (XeTeX), and pages are rasterised with `hayro`. Typesetting and rasterising differ
+slightly from TeX Live 2024 + Ghostscript, so CDM can differ slightly from the Python scorer;
+`CDM_BACKEND=external` runs node/xelatex/magick exactly as the toolkit does, for comparison
+(`crates/cdm/examples/cdm_compare.rs`). Set `CDM_TECTONIC_CACHE` to a durable folder for the
+TeX bundle (downloaded on first use; `CDM_TECTONIC_ONLY_CACHED=1` runs offline).
 
 ## Build and run
 
 ```bash
 cd MPDocBench/rust
+# tectonic links Homebrew's keg-only icu4c, freetype, graphite2 and libpng (macOS)
+export PKG_CONFIG_PATH=/opt/homebrew/opt/icu4c/lib/pkgconfig:/opt/homebrew/lib/pkgconfig
 cargo build --release
 ./target/release/mpdocbench-score --config ../configs/end2end.yaml --out .. --jobs 16 --cdm-jobs 16
 ```
@@ -50,7 +55,7 @@ text match is skipped.
 | `pylatexenc` | `LatexNodes2Text().latex_to_text` (pylatexenc 2.10, default configuration) |
 | `pysoup` | `html.parser` (CPython 3.11.18) and BeautifulSoup 4.11.1, as far as table normalisation and `merge_tables` use them; `html.unescape` |
 | `teds` | table TEDS (lxml/libxml2 HTML parsing through a C shim) and Heading TEDS; a line-by-line port of `apted` 1.0.3, whose results are not always the optimal edit distance |
-| `cdm` | `metrics/cdm_metric.py` and `metrics/cdm/modules/*`; skimage 0.20 `ransac` with numpy's PCG64 random stream; the Pillow operations used |
+| `cdm` | `metrics/cdm_metric.py` and `metrics/cdm/modules/*`, including the KaTeX tokenizer; skimage 0.20 `ransac` with numpy's PCG64 random stream; the Pillow operations used; Tectonic + hayro rendering |
 
 The matcher's quirks are kept on purpose, because they decide the published numbers.
 Examples: indices into unfiltered item lists after filtering, `list.remove` while

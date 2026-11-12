@@ -1,5 +1,6 @@
 //! Formula CDM (`call_CDM.evaluate`) on top of the Rust CDM port (crate `cdm`), with a
-//! bounded pool of threads (each sample spawns its own xelatex/magick/node processes).
+//! bounded pool of threads. By default CDM is fully Rust-native (KaTeX tokenizer port,
+//! Tectonic, hayro); `CDM_BACKEND=external` uses node/xelatex/magick as the toolkit does.
 
 use crate::pdnum::py_mean;
 use crate::pyval::{Map, V};

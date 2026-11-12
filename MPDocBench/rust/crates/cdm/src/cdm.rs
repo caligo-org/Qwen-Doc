@@ -6,6 +6,7 @@ use crate::matcher::{hungarian_match, ransac_inliers, BoxTok};
 use crate::pil::{self, RgbImage};
 use crate::py::{path_join, round3, PyErr, PyResult};
 use crate::render::{gen_color_list, latex2bbox_color};
+use crate::Backend;
 
 const MAX_ITER: usize = 3;
 const MIN_SAMPLES: usize = 3;
@@ -33,13 +34,13 @@ fn prepare_directories(root: &str) -> PyResult<()> {
     Ok(())
 }
 
-fn generate_bboxes(root: &str, gt: &str, pred: &str, img_id: &str) -> PyResult<()> {
+fn generate_bboxes(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<()> {
     let colors = gen_color_list(5800, 15);
     for (subset, latex) in [("gt", gt), ("pred", pred)] {
         let output_path = path_join(root, subset);
         let temp_dir = path_join(root, &format!("temp_dir_{subset}_{img_id}"));
         mkdirs(&temp_dir)?;
-        latex2bbox_color(latex, img_id, &output_path, &temp_dir, &colors)?;
+        latex2bbox_color(latex, img_id, &output_path, &temp_dir, &colors, backend)?;
         fs::remove_dir_all(&temp_dir).map_err(|e| PyErr::new(format!("OSError: {temp_dir}: {e}")))?;
     }
     Ok(())
@@ -158,9 +159,9 @@ struct Loaded {
     inliers: Vec<bool>,
 }
 
-fn match_and_load(root: &str, gt: &str, pred: &str, img_id: &str) -> PyResult<Loaded> {
+fn match_and_load(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<Loaded> {
     prepare_directories(root)?;
-    generate_bboxes(root, gt, pred, img_id)?;
+    generate_bboxes(root, gt, pred, img_id, backend)?;
     let box_gt = load_box_file(&path_join(&path_join(&path_join(root, "gt"), "bbox"), &format!("{img_id}.jsonl")))?;
     let box_pred = load_box_file(&path_join(&path_join(&path_join(root, "pred"), "bbox"), &format!("{img_id}.jsonl")))?;
     let img_gt = pil::open_png(&path_join(&path_join(&path_join(root, "gt"), "vis"), &format!("{img_id}_base.png")))?.to_rgb();
@@ -210,8 +211,8 @@ fn visualize(root: &str, l: &Loaded, img_id: &str) -> PyResult<()> {
 
 /// `CDM(output_root).evaluate(gt_latex, pred_latex, img_id)`. Err where Python raises out
 /// of evaluate (after the `try:` block).
-pub fn evaluate(root: &str, gt: &str, pred: &str, img_id: &str) -> PyResult<EvalResult> {
-    let l = match match_and_load(root, gt, pred, img_id) {
+pub fn evaluate(root: &str, gt: &str, pred: &str, img_id: &str, backend: &Backend) -> PyResult<EvalResult> {
+    let l = match match_and_load(root, gt, pred, img_id, backend) {
         Ok(l) => l,
         Err(_) => return Ok(EvalResult::Zero),
     };

@@ -1,6 +1,6 @@
 //! Port of `metrics/cdm/modules/latex2bbox_color.py`: tokenize + colour every token,
-//! render with `xelatex`, rasterise with `magick`, crop, and recover one box per token
-//! colour.
+//! render (Tectonic, or `xelatex`), rasterise (hayro, or `magick`), crop, and recover one
+//! box per token colour.
 
 use std::collections::HashMap;
 use std::fs;
@@ -11,7 +11,8 @@ use std::time::{Duration, Instant};
 use crate::latex_processor::{normalize_latex, token_add_color_rgb};
 use crate::pil;
 use crate::py::{self, path_join, PyErr, PyResult};
-use crate::tokenize::tokenize_latex;
+use crate::tokenize::{tokenize_latex, Tokenizer};
+use crate::{raster, tex, Backend, Raster, Tex};
 
 const FORMULAR_TEMPLATE_HEAD: &str = r"
 \documentclass[12pt]{article}
@@ -90,10 +91,10 @@ fn run_cmd(cmd: &str, temp_dir: Option<&str>) -> PyResult<()> {
 }
 
 /// The `try:` block of `latex2bbox_color`: returns None where Python logs and returns.
-fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[u8; 3]]) -> PyResult<(String, Vec<String>, usize)> {
+fn preprocess(latex: &str, basename: &str, temp_dir: &str, total_color_list: &[[u8; 3]], tok: Tokenizer) -> PyResult<(String, Vec<String>, usize)> {
     let latex = latex.replace('\n', " ");
     let latex = latex.replace("\\%", "<PERCENTAGETOKEN>");
-    let (ret, new_latex) = tokenize_latex(&latex, &path_join(temp_dir, &format!("{basename}.txt")))?;
+    let (ret, new_latex) = tokenize_latex(&latex, &path_join(temp_dir, &format!("{basename}.txt")), tok)?;
     let new_latex = if !ret || new_latex.is_empty() { latex.clone() } else { new_latex };
     let new_latex = new_latex.replace("< P E R C E N T A G E T O K E N >", "\\%");
     let (rgb_latex, token_list, n_colors) = color_tokens(&new_latex, total_color_list)?;
@@ -171,7 +172,14 @@ fn bbox_line(token: &str, b: &Option<[i64; 4]>) -> String {
 
 /// `latex2bbox_color((latex, basename, output_path, temp_dir, total_color_list))`.
 /// Ok(()) also covers the early returns; Err is an exception escaping the function.
-pub fn latex2bbox_color(latex: &str, basename: &str, output_path: &str, temp_dir: &str, total_color_list: &[[u8; 3]]) -> PyResult<()> {
+pub fn latex2bbox_color(
+    latex: &str,
+    basename: &str,
+    output_path: &str,
+    temp_dir: &str,
+    total_color_list: &[[u8; 3]],
+    backend: &Backend,
+) -> PyResult<()> {
     let basename = basename.replace(".jpg", "");
     let output_bbox_path = path_join(&path_join(output_path, "bbox"), &format!("{basename}.jsonl"));
     let output_vis_path = path_join(&path_join(output_path, "vis"), &format!("{basename}.png"));
@@ -180,7 +188,7 @@ pub fn latex2bbox_color(latex: &str, basename: &str, output_path: &str, temp_dir
         return Ok(());
     }
 
-    let (final_latex, token_list, n_colors) = match preprocess(latex, &basename, temp_dir, total_color_list) {
+    let (final_latex, token_list, n_colors) = match preprocess(latex, &basename, temp_dir, total_color_list, backend.tokenizer) {
         Ok(x) => x,
         Err(_) => return Ok(()), // logging.info(...); return
     };
@@ -188,21 +196,45 @@ pub fn latex2bbox_color(latex: &str, basename: &str, output_path: &str, temp_dir
 
     let pre_name = format!("{}_{}", output_path.replace(['/', '.'], "_"), basename);
     let tex_filename = path_join(temp_dir, &format!("{pre_name}.tex"));
-    fs::write(&tex_filename, final_latex.replace(r"\mathcolor", r"\color"))
-        .map_err(|e| PyErr::new(format!("OSError: {tex_filename}: {e}")))?;
-    run_cmd(
-        &format!("xelatex -interaction=nonstopmode -output-directory={temp_dir} \"{tex_filename}\" >/dev/null"),
-        Some(temp_dir),
-    )?;
+    let tex_source = final_latex.replace(r"\mathcolor", r"\color");
     let pdf_filename = format!("{}.pdf", &tex_filename[..tex_filename.len() - 4]);
-    if !Path::new(&pdf_filename).exists() {
-        return Ok(());
-    }
-    run_cmd(&format!("magick -density 200 -quality 100 {pdf_filename} -alpha set {output_base_path}"), None)?;
+    // the PDF of a Tectonic render stays in memory
+    let pdf: Option<Vec<u8>> = match backend.tex {
+        Tex::Tectonic => match tex::compile(&tex_source).map_err(PyErr::new)? {
+            None => return Ok(()),
+            Some(p) => Some(p),
+        },
+        Tex::Xelatex => {
+            fs::write(&tex_filename, &tex_source).map_err(|e| PyErr::new(format!("OSError: {tex_filename}: {e}")))?;
+            run_cmd(
+                &format!("xelatex -interaction=nonstopmode -output-directory={temp_dir} \"{tex_filename}\" >/dev/null"),
+                Some(temp_dir),
+            )?;
+            if !Path::new(&pdf_filename).exists() {
+                return Ok(());
+            }
+            None
+        }
+    };
+    let opened = match backend.raster {
+        Raster::Native => {
+            let bytes = match pdf {
+                Some(p) => p,
+                None => fs::read(&pdf_filename).map_err(|e| PyErr::new(format!("OSError: {pdf_filename}: {e}")))?,
+            };
+            raster::rasterize(&bytes, backend.coverage_threshold)?
+        }
+        Raster::Magick => {
+            if let Some(p) = &pdf {
+                fs::write(&pdf_filename, p).map_err(|e| PyErr::new(format!("OSError: {pdf_filename}: {e}")))?;
+            }
+            run_cmd(&format!("magick -density 200 -quality 100 {pdf_filename} -alpha set {output_base_path}"), None)?;
+            pil::open_png(&output_base_path)?
+        }
+    };
 
     // crop_image(output_base_path): its file is re-read unchanged by the next step,
     // so the cropped image is kept in memory.
-    let opened = pil::open_png(&output_base_path)?;
     let gray = opened.to_l();
     let w = opened.w as i64;
     let (mut x_min, mut y_min, mut x_max, mut y_max) = (i64::MAX, i64::MAX, i64::MIN, i64::MIN);
@@ -276,4 +308,12 @@ mod tests {
         let c = gen_color_list(20, 15);
         assert_eq!(replace_color_placeholders("a<color_0>b<color_10><color_07><color_99>", &c), "a0,0,15b0,0,165<color_07><color_99>");
     }
+}
+
+/// Test hook: the document `latex2bbox_color` compiles for `latex` (native tokenizer)
+/// and the number of token colours in it.
+pub(crate) fn tex_document(latex: &str) -> PyResult<(String, usize)> {
+    let colors = gen_color_list(5800, 15);
+    let (doc, _, n) = preprocess(latex, "x", ".", &colors, Tokenizer::Native)?;
+    Ok((doc.replace(r"\mathcolor", r"\color"), n))
 }

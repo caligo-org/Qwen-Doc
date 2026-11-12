@@ -9,3 +9,10 @@ description = "Port of the MPDocBench Formula CDM metric (metrics/cdm_metric.py 
 regex = "1"
 serde_json = { version = "1", features = ["preserve_order", "float_roundtrip"] }
 png = "0.18"
+# KaTeX tokenizer port: deep-recursion safety and JS Number formatting
+stacker = "0.1"
+ryu-js = "1"
+# LaTeX -> PDF (XeTeX engine as a library) and PDF -> pixels, no external programs
+tectonic = { version = "0.17", default-features = false, features = ["geturl-reqwest"] }
+tectonic_bundles = { version = "0.4", default-features = false, features = ["geturl-reqwest"] }
+hayro = "0.9"
