@@ -294,8 +294,8 @@
    ],
    "level": 3,
    "parent": 255,
-   "text": "Ex-city council wins nomination for Ariz, US seat",
-   "why": "short story headline"
+   "text": "Ex-city councilor wins nomination for Ariz. US seat",
+   "why": "short story headline | final path check: text corrected to the print (box OCR garbled)"
   },
   {
    "boxes": [

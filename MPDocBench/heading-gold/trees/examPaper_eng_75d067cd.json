@@ -17,8 +17,8 @@
    ],
    "level": 2,
    "parent": 1,
-   "text": "First Day July 17, 1991 Time Limit: \\(4\\frac{1}{2}\\) hours",
-   "why": "part: First Day (with date/time limit in the same box)"
+   "text": "First Day",
+   "why": "part: First Day (with date/time limit in the same box); final path check: text = heading part only, the date and time limit in the same box are other fields (text)"
   },
   {
    "boxes": [
@@ -26,8 +26,8 @@
    ],
    "level": 2,
    "parent": 1,
-   "text": "Second Day July 18, 1991 Time Limit: \\(4\\frac{1}{2}\\) hours",
-   "why": "part: Second Day"
+   "text": "Second Day",
+   "why": "part: Second Day; final path check: text = heading part only, the date and time limit in the same box are other fields (text)"
   }
  ],
  "repeats": [],

@@ -464,8 +464,8 @@
    ],
    "level": 4,
    "parent": 552,
-   "text": "RANSOMWARE ATTACK COST CAR DEALERS $1BILLION",
-   "why": "brief headline under the briefs label"
+   "text": "RANSOMWARE ATTACK COST CAR DEALERS $1 BILLION",
+   "why": "brief headline under the briefs label | final path check: text corrected to the print (box OCR garbled)"
   },
   {
    "boxes": [
@@ -473,8 +473,8 @@
    ],
    "level": 4,
    "parent": 552,
-   "text": "DISNEY SPRINGS CARRYSCUSTOMIZABLE HEADBANDS",
-   "why": "brief headline under the briefs label"
+   "text": "DISNEY SPRINGS CARRIES CUSTOMIZABLE HEADBANDS",
+   "why": "brief headline under the briefs label | final path check: text corrected to the print (box OCR garbled)"
   },
   {
    "boxes": [

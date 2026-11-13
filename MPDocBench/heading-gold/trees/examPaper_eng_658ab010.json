@@ -8,8 +8,8 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "\\(40^{\\mathrm{th}}\\) International Mathematical Olympiad Bucharest",
-   "why": "title: competition paper title"
+   "text": "\\(40^{\\mathrm{th}}\\) International Mathematical Olympiad",
+   "why": "title: competition paper title; final path check: text = heading part only, the venue line \"Bucharest\" in the same box is a cover field (text)"
   },
   {
    "boxes": [

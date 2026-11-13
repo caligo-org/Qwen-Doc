@@ -1,0 +1,121 @@
+doc	node	page	verdict	note
+handwritten_chn_01fba5b3	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	7	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	8	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	21	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	27	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	56	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_01fba5b3	64	6	OK	抵达海南 over run-in items; own-line 机场： (#66, considered run-in) kept as text: undecided, its look matches the run-in siblings and the notation does not settle a wrapped run-in label
+handwritten_chn_01fba5b3	71	6	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	5	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	17	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	44	6	OK	second-lesson title; (3)/(4) model problems text, (5) titled model L3
+handwritten_chn_048c9a89	57	7	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	61	7	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	65	8	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_048c9a89	69	9	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	2	1	OK	type groups L2, 第一轮 title not on the pages; 第N天 day markers stay text
+handwritten_chn_1ae487be	26	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	38	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	49	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	62	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	68	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	69	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	76	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	81	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	92	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	98	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	107	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	117	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	129	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	131	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	148	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	208	4	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	237	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	238	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	240	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_1ae487be	242	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_375d58b7	-	-	OK	no nodes: no printed heading with its own box (forms/tables or exam questions only)
+handwritten_chn_50d71ae2	1	1	OK	7.3 section, chapter 7 not printed; run-in 1.-5. and formula cases 一./二./三. stay text
+handwritten_chn_50d71ae2	37	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	47	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	48	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	58	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	65	4	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	85	5	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	95	6	OK	L3 under chapter (8.x role not printed), same look as 四/五 under 7.3
+handwritten_chn_50d71ae2	105	6	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	113	6	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	114	6	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_50d71ae2	122	7	OK	kept L5 under 1. 线性性质: starred inverse-transform note worked by linearity; whether it is a narrower step of 线性性质 is not decided by the notation (undecided)
+handwritten_chn_50d71ae2	129	7	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_65cdc9d3	-	-	OK	no nodes: no printed heading with its own box (forms/tables or exam questions only)
+handwritten_chn_6a1cedac	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	5	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	7	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	8	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	9	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	13	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	16	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	29	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	40	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_6a1cedac	47	4	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_71864fb7	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_71864fb7	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_71864fb7	28	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_71864fb7	65	4	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_79c34515	-	-	OK	no nodes: no printed heading with its own box (forms/tables or exam questions only)
+handwritten_chn_92741860	6	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	4	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	11	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	22	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	28	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	30	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	35	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_92bf52bc	39	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_94af97ba	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_94af97ba	63	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_94af97ba	72	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_9ad83bc1	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_9ad83bc1	4	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_9ad83bc1	7	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_9ad83bc1	10	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	9	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	19	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	21	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	44	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	45	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	46	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	50	3	OK	own-line (2) over one note line; kept as series member of (1) (substance borderline, kept)
+handwritten_chn_a6f48a98	55	4	OK	own-line 4. over formulas and inflation table; break before #67 closes 四
+handwritten_chn_a6f48a98	75	6	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_a6f48a98	54	4	REMOVED	final path check: 2. 纸币的职能：… is a one-line statement with nothing below it before 4. (substance beats containment): text; break before #54 closes #45 so it sits under 四. 纸币
+handwritten_chn_d1ec88bb	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_d1ec88bb	15	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_d1ec88bb	27	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	1	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	4	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	6	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	15	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	17	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	24	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	26	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	35	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	40	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	43	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	44	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	51	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	61	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac2d8c2	67	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_eac3f5a2	2	1	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_edc60213	11	1	OK	page prints 4. (sequence 4,2,3 as printed); topic L2 with its bracket label not photographed
+handwritten_chn_edc60213	22	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_edc60213	30	2	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_edc60213	36	3	OK	text matches the page; path reads as a breadcrumb
+handwritten_chn_edc60213	37	3	OK	text matches the page; path reads as a breadcrumb

@@ -76,15 +76,6 @@
   },
   {
    "boxes": [
-    54
-   ],
-   "level": 2,
-   "parent": 44,
-   "text": "2. 纸币的职能：纸币能代替金属货币执行货币的所有职能",
-   "why": "numbered item 2 of the 纸币 series (title + statement on one line); series members 1./4. are own-line titles | round 4: page prints 纸币 (OCR box reads 低币)"
-  },
-  {
-   "boxes": [
     55
    ],
    "level": 2,
@@ -131,6 +122,10 @@
   {
    "box": 123,
    "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 54,
+   "why": "final path check: 2. 纸币的职能：… is a one-line numbered statement with nothing below it until 4. (substance beats containment): text; a break before it closes 1. 含义"
   }
  ],
  "considered": [
@@ -178,6 +173,11 @@
    "before": 127,
    "closes": 75,
    "why": "round 5: income/consumption lines on the last sheet are not about 价格; the notes print no heading for them"
+  },
+  {
+   "before": 54,
+   "closes": 45,
+   "why": "final path check: 2. 纸币的职能 (text) is not about 1. 含义 or its (2) 强制使用的; it belongs to 四. 纸币"
   }
  ]
 }

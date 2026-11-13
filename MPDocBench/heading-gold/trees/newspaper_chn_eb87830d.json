@@ -123,6 +123,33 @@
   },
   {
    "boxes": [
+    132
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（一）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（二）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（三）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
     157,
     158
    ],
@@ -375,18 +402,6 @@
   {
    "box": 35,
    "why": "red 专栏 rubric above a headline"
-  },
-  {
-   "box": 132,
-   "why": "bare part marker printed alone with no title: labels nothing, so it is text (NOTATIONS: a bare marker is text when it labels nothing) (breadcrumb round 3; was node: numbered part marker printed alone with its own block)"
-  },
-  {
-   "box": 139,
-   "why": "bare part marker printed alone with no title: labels nothing, so it is text (NOTATIONS: a bare marker is text when it labels nothing) (breadcrumb round 3; was node: numbered part marker printed alone with its own block)"
-  },
-  {
-   "box": 147,
-   "why": "bare part marker printed alone with no title: labels nothing, so it is text (NOTATIONS: a bare marker is text when it labels nothing) (breadcrumb round 3; was node: numbered part marker printed alone with its own block)"
   },
   {
    "box": 268,

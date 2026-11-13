@@ -107,8 +107,8 @@
    ],
    "level": 4,
    "parent": 107,
-   "text": "US departs I16 Chinese migrants",
-   "why": "brief headline under the briefs label"
+   "text": "US deports 116 Chinese migrants",
+   "why": "brief headline under the briefs label | final path check: text corrected to the print (box OCR garbled)"
   },
   {
    "boxes": [
@@ -320,6 +320,15 @@
    "parent": 1,
    "text": "Opinion",
    "why": "section: printed Opinion banner on A10 (url in the same box is text)"
+  },
+  {
+   "boxes": [
+    543
+   ],
+   "level": 3,
+   "parent": 542,
+   "text": "EDITORIAL",
+   "why": "final path check: own-line label with its own block (the editorial, a reprint of the Declaration of Independence); no printed headline follows it (the document header is only a picture #544), so it is not a rubric above a headline but the heading of the editorial (was not_heading: \"EDITORIAL rubric above the editorial headline\")"
   },
   {
    "boxes": [
@@ -550,10 +559,6 @@
   {
    "box": 288,
    "why": "colophon box (BOSTON GLOBE MEDIA)"
-  },
-  {
-   "box": 543,
-   "why": "EDITORIAL rubric above the editorial headline"
   },
   {
    "box": 617,

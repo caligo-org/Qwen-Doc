@@ -177,15 +177,6 @@
   },
   {
    "boxes": [
-    119
-   ],
-   "level": 3,
-   "parent": 116,
-   "text": "Designer Shake Style Examples",
-   "why": "label heading: own-line label over the style example figures"
-  },
-  {
-   "boxes": [
     133
    ],
    "level": 2,
@@ -294,6 +285,10 @@
   {
    "box": 169,
    "why": "contact box label at the foot of the care page (contact boxes are text). Breadcrumb review r3: CARE AND MAINTENANCE › CONTACT US is no breadcrumb."
+  },
+  {
+   "box": 119,
+   "why": "final path check: 'Designer Shake Style Examples' is the figure title over the FIG. 5 style pictures that Product Guidelines refers to ('For Designer Shake style examples, see Fig 5'); as L3 under Additional Requirements the path is no breadcrumb (style examples are not an additional requirement): text"
   }
  ],
  "considered": [
@@ -311,6 +306,48 @@
    "before": 169,
    "closes": 155,
    "why": "the care and maintenance text ends; the CONTACT US box (label is text) at the foot of the page is contact information for the whole sheet, not care"
+  }
+ ],
+ "places": [
+  {
+   "box": 119,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 120,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 121,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 122,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 123,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 124,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 125,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
+  },
+  {
+   "box": 126,
+   "in": 100,
+   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
   }
  ]
 }

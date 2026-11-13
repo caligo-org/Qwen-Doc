@@ -49,6 +49,7 @@ annotated as the child of the original.
 | `tools/listing.py`, `tools/show.py`, `tools/suggest_repeats.py`, `tools/coverage.py` | Review tools: element listing, page renders with every box labelled (`MPDOCBENCH_PAGES` = folder of `<doc>/page_<n>.jpg`), repeat candidates, pages not yet reviewed. |
 | `path_review/<type>.tsv`, `break_review/<type>.tsv`, `logo_owner.tsv` | Round 4: a verdict for every node, checked on its page. Round 5: every break and restored heading, and a line for every document checked without one. Owner-logo pass: one line per report-type document. `tools/path_coverage.py` checks that every node has a verdict. |
 | `starts_review/*.tsv` | Round 6: section starts, caption-only photo items made text, and placed boxes (`places.tsv`); every page viewed, one line per document. |
+| `final_paths/*.tsv` | Final independent check of the finished trees: one fresh reviewer per document type viewed every page and gave every node a verdict (5,697 OK, 11 fixed, 4 added, 2 removed). |
 | `final_check/*.tsv` | Independent final check on the page of every round-5 change: 92 changed nodes (restored headings, owner-logo titles) and all breaks. |
 | `ACCEPTED_FLAGS.json` | Checker flags reviewed on the page, by kind, with the reason each flagged path is consistent. |
 | `learnings/<type>.md` | Decision log per document type: rounds of annotation and breadcrumb review, accepted checker flags with reasons, open cases. |
@@ -58,7 +59,7 @@ annotated as the child of the original.
 Every document was annotated from scratch by one reviewer per document type, then reviewed four more times: two
 breadcrumb rounds, a round that checked every node's path on its rendered page (round 4), and a break round that went
 through every page again (round 5), an independent check of every round-5 change, and a reading-order round that
-viewed every page again (round 6). Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
+viewed every page again (round 6), then a final independent check of every path in the finished trees. Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
 a list numbered inside a section, titleless excerpts with several top-level sections); each is logged as ACCEPTED with
 its reason in `learnings/`.
 
@@ -66,17 +67,17 @@ its reason in `learnings/`.
 
 | | Original gold | These trees |
 |---|---:|---:|
-| Headings | 6,309 titles | 5,710 nodes |
+| Headings | 6,309 titles | 5,712 nodes |
 | Multi-box headings (unions) | — | 309 |
 | Repeats / continuations | — | 1,212 / 56 |
-| Breaks / section starts / places | — | 323 / 160 / 53 |
+| Breaks / section starts / places | — | 324 / 160 / 61 |
 | Titles with no relation | 21 | 0 |
 | Parents not expressible as Markdown levels | 116 | 0 |
 
 - Every tree, written as Markdown with its levels, scores exactly 1.0 against `MPDocBench.roletrees.json` with the
   unchanged Heading TEDS. Fed back as explicit trees, `score_tree.py` gives TEDS 100.00 and all unions, repeats and
   continuations correct.
-- A stored third-party parser output (uocr2) moves from 60.12 to 59.06 Heading TEDS (held-out half 60.58 → 58.63),
+- A stored third-party parser output (uocr2) moves from 60.12 to 59.04 Heading TEDS (held-out half 60.58 → 58.53),
   scored with the Markdown-expressible gold tree of caligo-org/Qwen-Doc#17.
 
 ## Use

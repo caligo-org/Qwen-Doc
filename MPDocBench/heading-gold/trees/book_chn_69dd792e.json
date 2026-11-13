@@ -243,8 +243,8 @@
    ],
    "level": 4,
    "parent": 238,
-   "text": "（三）吞咽对、颌、面生长发育的影响",
-   "why": "（一） level subsection or own-line numbered head under 一、"
+   "text": "（三）吞咽对𬌗、颌、面生长发育的影响",
+   "why": "（一） level subsection or own-line numbered head under 一、; final path check: text restored to the print (OCR dropped 𬌗)"
   },
   {
    "boxes": [
@@ -378,8 +378,8 @@
    ],
    "level": 4,
    "parent": 324,
-   "text": "（四）呼吸方式与颅面、验的发育",
-   "why": "（一） level subsection or own-line numbered head under 一、"
+   "text": "（四）呼吸方式与颅面、𬌗的发育",
+   "why": "（一） level subsection or own-line numbered head under 一、; final path check: text matches the print (OCR read 𬌗 as 验)"
   },
   {
    "boxes": [

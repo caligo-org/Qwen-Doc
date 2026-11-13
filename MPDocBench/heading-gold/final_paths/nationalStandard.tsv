@@ -1,0 +1,304 @@
+doc	node	page	verdict	note
+nationalStandard_chn_00457a35	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_00457a35	11	2	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_00457a35	21	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	24	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	46	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	48	3	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_00457a35	54	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_00457a35	59	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_00457a35	62	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_00457a35	65	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_00457a35	68	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	69	4	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	71	4	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	73	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	75	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	84	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	85	5	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	87	5	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	89	5	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	94	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	102	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	104	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	105	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_00457a35	115	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_040d3ee5	11	2	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_040d3ee5	21	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	24	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	44	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	46	3	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	52	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	57	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	60	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	63	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	66	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	70	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	73	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_040d3ee5	77	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	79	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	81	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	93	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	94	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	96	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	97	6	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	99	6	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	101	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	105	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	115	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	118	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	119	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	121	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_040d3ee5	131	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_1a47ad75	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_1a47ad75	11	2	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_1a47ad75	18	4	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_2bed867d	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_2bed867d	12	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_2cbf14a0	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_2cbf14a0	12	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_2cbf14a0	16	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_2cbf14a0	50	7	OK	front/back matter title at top-clause level; path title › 引言
+nationalStandard_chn_2cbf14a0	56	9	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_2cbf14a0	60	9	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_4234f2c5	12	3	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_4234f2c5	40	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	44	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	61	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	63	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_4234f2c5	69	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	70	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	73	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	77	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_4234f2c5	78	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_5ad1e78c	11	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_5ad1e78c	18	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_5ad1e78c	24	6	OK	front/back matter title at top-clause level; path title › 引言
+nationalStandard_chn_5ad1e78c	30	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	42	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	56	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	58	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	63	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	67	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	72	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	76	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	81	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	85	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	88	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	91	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	94	8	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	102	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	106	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	109	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	112	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	115	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	120	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	125	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	130	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	134	9	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_5ad1e78c	139	9	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	140	9	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	141	9	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	147	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	149	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	150	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	154	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	156	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	158	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	160	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	162	10	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	171	11	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	173	11	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	179	11	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	181	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	182	11	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	183	11	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	205	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	208	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	211	12	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	212	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	215	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	220	12	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	221	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	224	12	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	229	13	OK	numbered clause at L5; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	231	13	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	235	13	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	244	13	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	248	13	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	254	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	256	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	263	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	265	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	268	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	271	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	276	14	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	282	15	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	290	15	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	291	15	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	300	15	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	314	16	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	316	16	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	319	16	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	320	16	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	324	16	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_5ad1e78c	328	16	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_65073101	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_65073101	12	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_65073101	16	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_689650a7	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_689650a7	11	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_689650a7	15	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_6e5f6a70	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_733bf6f5	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_733bf6f5	11	2	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_733bf6f5	22	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	26	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	37	3	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	39	3	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	43	3	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	48	3	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	54	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	58	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	62	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	65	4	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_733bf6f5	68	4	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	69	4	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	76	4	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	84	5	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	87	5	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	100	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	104	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	112	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	119	7	OK	annex title (附录 ∪ 规范性 ∪ title, one box) at top-clause level
+nationalStandard_chn_733bf6f5	120	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	123	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	127	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	130	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	131	7	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	139	7	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_733bf6f5	151	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_7b396eb8	11	3	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_7b396eb8	31	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	34	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	43	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	45	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_7b396eb8	48	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_7b396eb8	51	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_7b396eb8	54	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_7b396eb8	57	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	63	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	64	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	66	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	67	6	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	91	7	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	116	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	120	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	122	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	126	9	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	129	9	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	130	9	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	132	9	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	134	9	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	145	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	148	10	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	149	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	153	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	155	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	162	10	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	167	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	175	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	177	11	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	178	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	180	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	182	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	184	11	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	186	11	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	199	13	OK	annex title (附录 ∪ 规范性 ∪ title, one box) at top-clause level
+nationalStandard_chn_7b396eb8	200	13	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_7b396eb8	205	13	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_96c25428	11	2	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_96c25428	21	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_96c25428	51	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	56	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	77	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	80	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	81	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	85	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	89	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_96c25428	90	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	95	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	99	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	102	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_96c25428	106	7	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_9fd6a86f	5	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_9fd6a86f	10	3	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_9fd6a86f	14	5	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_cf448e58	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_cf448e58	12	3	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_cf448e58	42	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	45	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	65	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	67	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	73	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	76	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	79	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	83	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	87	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_cf448e58	91	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	95	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	96	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	100	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	105	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	113	8	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	114	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	116	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	118	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	120	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	121	8	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	123	8	OK	numbered clause at L4; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	125	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	127	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	130	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	133	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	135	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_cf448e58	137	8	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_e4f3909e	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_e4f3909e	12	2	OK	front/back matter title at top-clause level; path title › 目次
+nationalStandard_chn_e4f3909e	15	3	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_e4f3909e	32	4	OK	front/back matter title at top-clause level; path title › 引言
+nationalStandard_chn_e4f3909e	38	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_e4f3909e	41	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_e4f3909e	63	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_e4f3909e	65	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	70	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	73	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	76	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	80	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	84	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	87	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	91	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	94	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	98	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	101	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_e4f3909e	104	6	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_f3f3a014	6	1	OK	cover: Chinese title ∪ English title; text matches print; GB number, ICS, 中华人民共和国国家标准 are text
+nationalStandard_chn_f3f3a014	13	3	OK	front/back matter title at top-clause level; path title › 前言
+nationalStandard_chn_f3f3a014	26	4	OK	front/back matter title at top-clause level; path title › 引言
+nationalStandard_chn_f3f3a014	32	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	37	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	48	5	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	50	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_f3f3a014	55	5	OK	term entry: number ∪ term; under its clause
+nationalStandard_chn_f3f3a014	63	6	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	64	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	68	6	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	74	7	OK	numbered clause at L2; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	75	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	79	7	OK	numbered clause at L3; numbering matches parent; title matches print
+nationalStandard_chn_f3f3a014	84	8	OK	front/back matter title at top-clause level; path title › 参考文献
