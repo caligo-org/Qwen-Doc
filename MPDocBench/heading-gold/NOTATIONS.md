@@ -176,7 +176,11 @@ A title repeated later (half-title, title page, title restated above clause 1, r
   previous content page, with `continues` when that section appeared before); story headline L3; in-story subhead L4.
   The front page is a section with no printed banner. Kickers, decks, ads, teasers, skyboxes, pointer boxes, weather
   and index boxes, colophons, columnist names are text. A briefs column label (Daily Briefing, INBOX) is a story-level
-  heading, the briefs one level below.
+  heading, the briefs one level below. A story whose section is printed nowhere on its pages skips to L3 under the
+  masthead only before the first L2 section (a front page); after an L2 section (contents, an earlier section) it
+  takes the section slot, L2, because an L3 after an L2 would sit under that section in Markdown levels. A running
+  section tag printed on a story's pages is an L2 node above the story, with `starts` at the story's opener when the
+  tag is printed later than the opener.
 - handwritten: when the notes have no title, the top groupings are the top level (several L1 nodes).
 
 ## User decisions (all apply)

@@ -22,32 +22,41 @@
   },
   {
    "boxes": [
-    47
+    58
    ],
    "level": 2,
    "parent": 2,
+   "text": "中华人民共和国成立75周年系列征文",
+   "starts": 46,
+   "why": "consistency: running series tag 中华人民共和国成立75周年系列征文 starts a section (NOTATIONS newspaper / magazine: section tag = L2; contents: 中国力量 — 中华人民共和国成立75周年系列征文 › 中国速度 p4). The tag is first printed on p5, after the feature opener on p4, so starts: #46 (the feature opening photo) puts the opener in its section; listed before the feature so the path reads 知音 › series tag › feature"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 58,
    "text": "中国速度",
-   "why": "feature headline in the section slot: the contents lists it as the feature of 中国力量 — 中华人民共和国成立75周年系列征文 (p4, next entry p10), so the story on p5 belongs to it starts: #46 (the story opening photo printed above the headline)",
-   "starts": 46
+   "why": "consistency: feature headline under its running series tag (#58, printed on p5); the contents lists it as the feature of 中国力量 — 中华人民共和国成立75周年系列征文 (p4, next entry p10), so the story on p5 belongs to it; its opening photo #46 starts the tag section (starts moved to #58)"
   },
   {
    "boxes": [
     60
    ],
-   "level": 3,
+   "level": 4,
    "parent": 47,
    "text": "高铁“神驭手”追风掣电： 匠心驭龙毫厘必争",
-   "why": "story headline inside the 中国速度 feature (contents lists the feature only, p4-9); breadcrumb 知音 › 中国速度 › story starts: #59 (the story opening photo printed above the headline)",
+   "why": "story headline inside the 中国速度 feature (contents lists the feature only, p4-9); breadcrumb 知音 › series tag › 中国速度 › story starts: #59 (the story opening photo printed above the headline) (consistency: shifted with the feature to L4)",
    "starts": 59
   },
   {
    "boxes": [
     64
    ],
-   "level": 4,
+   "level": 5,
    "parent": 60,
    "text": "见证“中国速度”，爱情不早不迟刚好",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L5)"
   }
  ],
  "repeats": [],
@@ -61,12 +70,7 @@
    "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "considered": [
-  {
-   "box": 58,
-   "why": "series tag first printed on p5, after the opener of the same feature 中国速度 (contents: 中华人民共和国成立75周年系列征文 › 中国速度 p4); the feature holds the L2 slot (magazine rule)"
-  }
- ],
+ "considered": [],
  "breaks": [
   {
    "before": 20,

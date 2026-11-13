@@ -84,7 +84,7 @@
    "level": 2,
    "parent": 1,
    "text": "张朝阳商界登顶再搏浪，人生下半场更热血",
-   "why": "story headline in the section slot: its section (特别主题创意, TOC only) is not printed and the previous section closed; L3 would make it a child of 百科&生活 (wrong breadcrumb)"
+   "why": "consistency: story headline, L3 directly under the masthead: its section 特别主题创意 is printed only on the contents page, not on the story page (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the 百科&生活 briefs section closes at the break before #120 | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels"
   },
   {
    "boxes": [
@@ -93,7 +93,7 @@
    "level": 3,
    "parent": 122,
    "text": "吃生蚝“报仇”",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -102,7 +102,7 @@
    "level": 3,
    "parent": 122,
    "text": "我是中国互联网第一代创业者",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   }
  ],
  "repeats": [

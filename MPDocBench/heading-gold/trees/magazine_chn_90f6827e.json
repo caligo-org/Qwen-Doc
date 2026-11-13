@@ -88,40 +88,49 @@
   },
   {
    "boxes": [
-    117
+    134
    ],
    "level": 2,
    "parent": 2,
+   "text": "名人明星",
+   "starts": 116,
+   "why": "consistency: running section tag 海外版|名人明星 starts a section (section changes after 百科&生活; NOTATIONS newspaper / magazine: section tag = L2); node text = section name only (edition prefix 海外版 repeats the L1 masthead, as for 大千世界 / 本刊特稿). The tag is first printed on p9, after the story opener on p8, so starts: #116 (the story opening photo) puts the opener in its section; listed before the story so the path reads 知音 海外版 › 名人明星 › story"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 134,
    "text": "陈道明:我的“诈糊人生”",
-   "why": "story headline in the section slot: opens on a photo page with no section tag (名人明星 tag first printed on the next page, after the headline) starts: #116 (the story opening photo the headline is printed on)",
-   "starts": 116
+   "why": "consistency: story headline under its running section tag 名人明星 (#134, printed from p9 on); its opening photo #116 starts the tag section (starts moved to #134)"
   },
   {
    "boxes": [
     121
    ],
-   "level": 3,
+   "level": 4,
    "parent": 117,
    "text": "爱上麻将",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
     139
    ],
-   "level": 3,
+   "level": 4,
    "parent": 117,
    "text": "麻将为媒",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
     155
    ],
-   "level": 3,
+   "level": 4,
    "parent": 117,
    "text": "沉淀人生",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -182,6 +191,13 @@
    ],
    "of": 2,
    "why": "repeat: vertical running header naming the magazine (知音海外版)"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "of": 134,
+   "why": "repeat: running section tag 名人明星 of the open section (p10)"
   }
  ],
  "not_headings": [
@@ -210,16 +226,7 @@
    "why": "colophon-column bank-account box: contact box"
   }
  ],
- "considered": [
-  {
-   "box": 134,
-   "why": "running section tag 名人明星 printed only after the story opener: the story holds the section slot, so text"
-  },
-  {
-   "box": 159,
-   "why": "running section tag 名人明星 on the story's later page: text"
-  }
- ],
+ "considered": [],
  "breaks": [
   {
    "before": 37,

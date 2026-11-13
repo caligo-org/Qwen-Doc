@@ -1,5 +1,6 @@
 """check.py <doc> | --all   Validate trees/<doc>.json (schema v3, see tools/tree.py) and print its outline.
-Checks: boxes exist and appear only once in the file; nodes in reading order (page of the first box); every parent is
+Checks: boxes exist and appear only once in the file; nodes in reading order (page of the section start: `starts`
+if set, else the first box; a running tag printed after its section's opener is listed before it); every parent is
 'root' or an EARLIER node with a smaller level and is the parent the levels give in reading order (nearest earlier node
 with a smaller level); a union's boxes are distinct; `continues` points to an earlier node whose section was closed by
 something in between; every repeat points to a node whose section is still open at the repeat; every gold title is in
@@ -35,8 +36,8 @@ def check(doc, quiet=False):
         if not n.get('boxes') or any(b not in by for b in n['boxes']): continue
         a=nid(n); L=n.get('level'); ids.add(a)
         if not isinstance(L,int) or L<1: errs.append(f'#{a} bad level {L}'); continue
-        pg=by[a]['page_id']
-        if pg<lastpage: errs.append(f'#{a} (p{pg}) listed after a node on p{lastpage}: nodes must be in reading order')
+        sb=n.get('starts'); pg=by[sb if sb in by else a]['page_id']  # a node's place in reading order is its section start
+        if pg<lastpage: errs.append(f'#{a} (section start p{pg}) listed after a node on p{lastpage}: nodes must be in reading order')
         lastpage=max(lastpage,pg)
         while stack[-1][0]>=L: stack.pop()
         if n.get('parent')!=stack[-1][1]: errs.append(f"#{a} parent {n.get('parent')} but levels in reading order give {stack[-1][1]}")

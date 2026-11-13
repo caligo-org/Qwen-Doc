@@ -27,7 +27,7 @@
    "level": 2,
    "parent": 2,
    "text": "“铁脚板”站长护林29载: 一夕山中月，万里故园心",
-   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录 starts: #50 (the opening photos #50/#51 and standfirst #52 printed above the headline)",
+   "why": "consistency: story headline, L3 directly under the masthead: its section is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #22 starts: #50 (the opening photos #50/#51 and standfirst #52 printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels",
    "starts": 50
   },
   {
@@ -37,7 +37,7 @@
    "level": 3,
    "parent": 53,
    "text": "荒山野岭中护我家园",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -46,7 +46,7 @@
    "level": 3,
    "parent": 53,
    "text": "万亩林海的平凡坚守",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -55,7 +55,7 @@
    "level": 3,
    "parent": 53,
    "text": "不平凡的绿水青山",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -64,7 +64,7 @@
    "level": 2,
    "parent": 2,
    "text": "『冲天辫』老妈路过人间： 姐的威风永不灭",
-   "why": "story headline in the section slot (section not printed); printed 『冲天辫』, gold OCR 冲天辩 starts: #132 (the opening photos #132/#133 printed above the vertical headline)",
+   "why": "consistency: story headline, L3 directly under the masthead: its section is printed only on the contents page, not on the story page (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); printed 『冲天辫』, gold OCR 冲天辩 starts: #132 (the opening photos #132/#133 printed above the vertical headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels",
    "starts": 132
   },
   {
@@ -74,7 +74,7 @@
    "level": 3,
    "parent": 135,
    "text": "不扫兴妈妈是个小公主",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   }
  ],
  "repeats": [],

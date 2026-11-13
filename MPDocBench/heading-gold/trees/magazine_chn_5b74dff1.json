@@ -27,7 +27,7 @@
    "level": 2,
    "parent": 1,
    "text": "坝底江心修理大国重器:星垂山河阔,月涌大江流",
-   "why": "story headline in the section slot: its section (中国力量, TOC only) is not printed; L3 would sit under 目录 starts: #48 (the story opening photo printed above the headline)",
+   "why": "consistency: story headline, L3 directly under the masthead: its section 中国力量 is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #21 starts: #48 (the story opening photo printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels",
    "starts": 48
   },
   {
@@ -37,7 +37,7 @@
    "level": 3,
    "parent": 49,
    "text": "工作上全情投入，技术大拿初炼成",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -46,7 +46,7 @@
    "level": 3,
    "parent": 49,
    "text": "你在江心保通航，我在岸上守护家",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   },
   {
    "boxes": [
@@ -55,7 +55,7 @@
    "level": 3,
    "parent": 49,
    "text": "大国重器护理员，誓将韶华献三峡",
-   "why": "in-story subhead with its block"
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
   }
  ],
  "repeats": [],
