@@ -13,12 +13,21 @@
   },
   {
    "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "看电影吧",
+   "why": "column tag printed as a logo on the story opener page (text from the logo, as for owner logos; the editor's note names the column 「看电影吧」): heads its story (NOTATIONS: a column tag on the opener page heads its piece)"
+  },
+  {
+   "boxes": [
     8
    ],
    "level": 3,
-   "parent": 2,
+   "parent": 7,
    "text": "中国机长",
-   "why": "story headline: film feature; its column 看电影吧 is only a logo figure (role not printed, level skip under masthead)"
+   "why": "story headline: film feature; its column 看电影吧 is only a logo figure (role not printed, level skip under masthead) | now under its column 看电影吧 (#7)"
   }
  ],
  "repeats": [],
