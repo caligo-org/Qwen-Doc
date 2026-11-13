@@ -47,7 +47,8 @@
    "level": 2,
    "parent": 1,
    "text": "KOREA OPPORTUNITIES",
-   "why": "story headline split across the spread (union KOREA OPP + ORTUNITIES); section not printed (ENTERTAINMENT is a kicker) and the front banner is closed"
+   "why": "story headline split across the spread (union KOREA OPP + ORTUNITIES); section not printed (ENTERTAINMENT is a kicker) and the front banner is closed starts: #49 (the feature photo credit printed vertically at the page edge, first box of p4)",
+   "starts": 49
   }
  ],
  "repeats": [
@@ -98,6 +99,13 @@
    "before": 46,
    "closes": 37,
    "why": "Inside contents ends; SUBSCRIBE NOW teaser follows, not about Inside"
+  }
+ ],
+ "places": [
+  {
+   "box": 30,
+   "in": 37,
+   "why": "contents teaser photo (Cool Yule: Christmas With The Greens, an Inside item) set above the Inside list; reading order puts it first, before From the Editor #31, so starts cannot reach it"
   }
  ]
 }

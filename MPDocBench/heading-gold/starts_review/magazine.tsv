@@ -1,0 +1,57 @@
+doc	kind	node	box	page	note
+magazine_chn_3b0b9920	STARTS	45	40	3	column tag 一滴墨香 #45 printed after its poem (#41-#44) in reading order; section starts at the p3 running head #40
+magazine_chn_3b0b9920	STARTS	76	75	6	story photo #75 above headline #76 (Before/After cows) belongs to the story
+magazine_chn_5997ac40	STARTS	39	30	3	column tag 一滴墨香 #39 printed after its poem (#31-#38); section starts at the p3 running head #30
+magazine_chn_5b74dff1	STARTS	49	48	4	opening photo #48 above headline #49 belongs to the story
+magazine_chn_6d102faf	NONE				p1-p4 viewed; #6 editor's note and #7 column logo before 中国机长 are about the column, not the film
+magazine_chn_90f6827e	STARTS	36	30	3	column tag 一滴墨香 #36 printed after its poem (#31-#35); section starts at the p3 running head #30
+magazine_chn_90f6827e	STARTS	67	66	6	story photo #66 above headline #67 belongs to the story
+magazine_chn_90f6827e	STARTS	117	116	8	opening photo #116 (headline printed on it) belongs to the story
+magazine_chn_b3948362	STARTS	47	46	4	opening photo #46 above headline #47 belongs to the story
+magazine_chn_b3948362	STARTS	60	59	5	opening photo #59 above headline #60 belongs to the story
+magazine_chn_c1e72d14	STARTS	53	50	4	opening photos #50/#51 and standfirst #52 above headline #53 belong to the story
+magazine_chn_c1e72d14	STARTS	135	132	8	opening photos #132/#133 above the vertical headline #135 belong to the story
+magazine_chn_d7b9b688	STARTS	48	47	4	opening photo #47 above headline #48 belongs to the story
+magazine_chn_d7b9b688	STARTS	122	121	8	opening photo #121 above headline #122 belongs to the feature
+magazine_chn_d7b9b688	STARTS	136	133	9	illustration #133 and standfirst #134/#135 above headline #136 belong to the story
+magazine_chn_f13451d6	STARTS	87	86	6	column logo #86 printed left of the 笑话 column label #87 belongs to the column
+magazine_eng_01c752f9	NONE				p1-p4 viewed; cover and ad pages, only L1
+magazine_eng_22066f34	STARTS	287	286	8	kicker band OUT AND ABOUT #286 above headline #287 belongs to the item (sat under Redcar #272)
+magazine_eng_22066f34	STARTS	324	323	9	kicker band BUY THE BOOK #323 above headline #324 belongs to the item (sat under Blackpool #296)
+magazine_eng_22066f34	STARTS	329	328	9	kicker band PRIZE DRAW ANNOUNCEMENT #328 above headline #329 belongs to the item (sat under Coastal Motor Boats #324)
+magazine_eng_22066f34	STARTS	338	336	10	column label SEAL of approval #336 and opening photo #337 above headline #338 belong to the feature (sat under Waveny winner #329)
+magazine_eng_2933460b	NONE				p1-p4 viewed; cover and ad pages, only L1
+magazine_eng_2b291ce7	STARTS	14	13	3	photo #13 above the CONTENTS title belongs to the contents page
+magazine_eng_2b291ce7	CAPTION_TEXT	57	57	5	URGENT MISSION ACCOMPLISHED: photo #56 + caption #58 only; node -> not_headings (THIS WEEK SOCIETY closes the page anyway)
+magazine_eng_2b291ce7	CAPTION_TEXT	64	64	6	Aircraft Maintenance: photo #63 + caption #65 only; node -> not_headings (Domestic Violence follows)
+magazine_eng_2b291ce7	CAPTION_TEXT	105	105	7	A Flourishing Industry: photo #104 + caption #106 only; node -> not_headings
+magazine_eng_2b291ce7	BREAK_REMOVED	105	107	7	break before #107 (closed #105) removed: College Graduates text continues at #107 around the photo item
+magazine_eng_2b291ce7	CAPTION_TEXT	113	113	7	World Hello Day: photo #112 + caption #114 only; node -> not_headings
+magazine_eng_2b291ce7	BREAK_ADDED	102	112	7	break before #112 closes College Graduates #102: the World Hello Day photo item is not about it
+magazine_eng_2b291ce7	STARTS	220	219	12	source magazine cover #219 above headline Sports Mean Business #220 belongs to the item (sat under From Playgrounds to Python)
+magazine_eng_2b291ce7	STARTS	254	253	14	cover-story opening photo #253 above COVER STORY #254 (sat under PEOPLE & POINTS)
+magazine_eng_3926a81f	NONE				p1-p5 viewed; colophon column before WELCOME is not its content
+magazine_eng_5047188e	NONE				p1-p6 viewed; ad photos before THE ART ISSUE are not its content
+magazine_eng_571b7df5	STARTS	38	37	3	tester portrait #37 left of BEN WEEKS #38 (sat under YOUR TESTERS)
+magazine_eng_571b7df5	STARTS	41	40	3	tester portrait #40 left of MATT JONES #41 (sat under BEN WEEKS)
+magazine_eng_571b7df5	STARTS	44	43	3	tester portrait #43 left of ELLIE CLEWLOW #44 (sat under MATT JONES)
+magazine_eng_571b7df5	STARTS	47	46	3	tester portrait #46 left of JAMES FORREST #47 (sat under ELLIE CLEWLOW)
+magazine_eng_5dea3d09	NONE				p1-p5 viewed; headings precede their content
+magazine_eng_757ea556	STARTS	80	79	8	columnist portrait #79 above the column title In Good Faith #80 (sat under the Casebook 1899 review)
+magazine_eng_7d53ba06	CAPTION_TEXT	23	23	3	ON THE COVER: label over the cover photo #24 whose only block is the photo credit; node -> considered
+magazine_eng_7d53ba06	BREAK_REMOVED	23	25	3	break before #25 (closed #23) removed with the node; the ON DECK teaser stays under the contents section #16 as before
+magazine_eng_86eb2981	STARTS	142	139	3	feature thumbnails #139-#141 (with page numbers) above the features title #142 belong to it
+magazine_eng_86eb2981	STARTS	172	170	6	VIDEO icon/kicker #170/#171 above Evolution of a tool chest #172 (sat under Online extras)
+magazine_eng_86eb2981	STARTS	177	175	6	VIDEO icon/kicker #175/#176 above Tough grain? #177 (sat under Evolution of a tool chest)
+magazine_eng_86eb2981	STARTS	181	179	6	VIDEO icon/kicker #179/#180 above Align the spine #181 (sat under Tough grain?)
+magazine_eng_86eb2981	STARTS	186	184	6	VIDEO icon/kicker #184/#185 above Bright ideas #186 (sat under Align the spine)
+magazine_eng_86eb2981	STARTS	191	188	6	fence photo #188 (arrow points to the item) and VIDEO icon/kicker #189/#190 above Fresh fence #191 (sat under Bright ideas)
+magazine_eng_86eb2981	STARTS	195	193	6	VIDEO WORKSHOP icon/kicker #193/#194 above The not-so-big workbench #195 (sat under Fresh fence)
+magazine_eng_86eb2981	STARTS	203	202	6	plans image #202 left of FREE PLANS #203 (sat under Additional perks)
+magazine_eng_a217be3f	STARTS	65	63	6	portrait #63 (+ credit #64) above Matt Collins #65 (sat under Contributors)
+magazine_eng_a217be3f	STARTS	68	67	6	portrait #67 above Fiona Pickles #68 (sat under Matt Collins)
+magazine_eng_a217be3f	STARTS	72	70	6	portrait #70 (+ credit #71) above Andrea Jones #72 (sat under Fiona Pickles)
+magazine_eng_b2553d3f	STARTS	9	8	2	photographer portrait #8 above the name Shannon Beauclair #9 belongs to her section
+magazine_eng_b7b4047d	NONE				p1-p5 viewed; contents photos already sit under the contents section
+magazine_eng_d9bbdc7a	STARTS	50	49	4	feature photo credit #49 (first box of p4) belongs to KOREA OPPORTUNITIES #50 (sat under Your Total TV Week)
+magazine_eng_fe444622	STARTS	41	40	5	contents-page photo #40 above CONTENTS #41 belongs to the contents page

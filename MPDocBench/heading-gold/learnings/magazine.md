@@ -186,3 +186,33 @@ OPEN:
 12. Resolved (coordinator): Baseball America p4: a break before the restated masthead/colophon (#27) closes Leading Off
     (#16, opened by the contents page); the Leading Off tag printed again on p4 (#49) becomes a continuation node
     (continues #16, L2), Numbers Game and the later stories sit under it, and the p6 tag (#139) is a repeat of #49.
+
+## Round 6 (starts)
+All 25 magazine docs, all 165 pages rendered with the tree (review/starts/magazine_tmp/) and viewed, with a per-box
+section listing beside each page. 41 STARTS, 5 CAPTION_TEXT, 1 BREAK_ADDED, 2 BREAK_REMOVED, 7 docs NONE. check.py: no
+ERROR on any magazine tree. Lines in review/starts/magazine.tsv.
+
+Section starts (content printed before its heading in reading order, which sat under the previous section):
+- 知音海外版 poem page (3b0b9920, 5997ac40, 90f6827e; the known check.py errors): the vertical column tag 一滴墨香 has a
+  later box id than its own poem. The L2 tag now starts at the page's first box (the vertical running head), so the
+  poem title L3 follows it.
+- Opening photo (and standfirst) printed above a story headline: 知音 stories (5b74dff1, b3948362, c1e72d14, d7b9b688),
+  大千世界 items, Beijing Review cover story and contents photo, FUSION column portrait, MOTION photographer portrait,
+  Men's Fitness and Beijing Review contents-page photos, Fine WoodWorking feature thumbnails.
+- Kicker band / column label printed above the headline (Model Boats OUT AND ABOUT, BUY THE BOOK, PRIZE DRAW,
+  SEAL of approval; Fine WoodWorking VIDEO icon + kicker before each Online extras item; 故事会 笑话 column logo).
+- Portrait printed above or beside a person's name (Trail testers, Gardens Illustrated contributors): each portrait sat
+  under the previous person.
+- Feature photo credit as the first box of the page (Total TV Guide KOREA OPPORTUNITIES).
+Not moved: photos inside a story after its headline; a grid of portraits above a list of names (Gardens Illustrated
+CONTRIBUTING EDITORS, the photos stay with the group); decorative spread photos; content of another section between
+the photo and its heading (Total TV Guide Cool Yule photo before From the Editor).
+
+Photo + caption items (headline whose only block is the photo's caption -> text):
+- Beijing Review THIS WEEK: URGENT MISSION ACCOMPLISHED, Aircraft Maintenance, A Flourishing Industry, World Hello Day.
+  A Flourishing Industry sits inside College Graduates, whose text resumes after it: its break is removed. World Hello
+  Day ends the page after College Graduates' text: a break before its photo closes College Graduates.
+- Baseball America ON THE COVER (cover photo + credit only): text; its break (before the ON DECK teaser) is removed, the
+  teaser stays under the contents section as before.
+Kept as headings: Beijing Review NUMBERS (data graphic), Trap Toon (a cartoon is content), MOTION CAPTURE THE MOMENT
+(the dancer photo pages follow), Gardens Illustrated COVER IMAGE / ON THE COVER (contents-sidebar boxes with text).

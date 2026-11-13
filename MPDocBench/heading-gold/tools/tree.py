@@ -5,10 +5,18 @@
   breaks (optional): [{"before": box id, "closes": <node id>, "why": ...}]  the section of node `closes` (and every
   section open inside it) ends right before box `before`; the content from there to the next heading belongs to the
   parent of `closes`. Breaks change only where content sits, never the heading tree.
+  node "starts" (optional): box id where the node's section begins when the layout's reading order puts some of the
+  heading's own content before the heading's box (a headline set below its story's first column). Like breaks, it
+  changes only where content sits.
+  places (optional): [{"box": id, "in": <node id>, "why": ...}]  a content box that the layout's reading order puts
+  inside another section (after a later heading) belongs to node `in`. Like breaks, only says where content sits.
+def start(n) / spos(n, by): the section start box / its (page, id) position.
 read() also accepts the v2 schema (anno + merge, repeats {anno, of}, not_headings {anno, note}) and returns v3."""
 import os, json
 from common import TREES
 def nid(n): return n['boxes'][0]
+def start(n): return n.get('starts', n['boxes'][0])
+def spos(n, by): b=start(n); return (by[b]['page_id'], b)
 def upgrade(t):
     if t.get('schema')==3: return t
     nodes=[]
@@ -20,4 +28,4 @@ def upgrade(t):
     nh=[{'box':x['anno'],'why':x.get('why') or x.get('note','')} for x in t.get('not_headings',[])]
     return {'doc':t['doc'],'schema':3,'nodes':nodes,'repeats':reps,'not_headings':nh,'considered':t.get('considered',[])}
 def read(doc, tdir=TREES):
-    t=upgrade(json.load(open(os.path.join(tdir,doc+'.json')))); t.setdefault('breaks',[]); t.setdefault('considered',[]); return t
+    t=upgrade(json.load(open(os.path.join(tdir,doc+'.json')))); t.setdefault('breaks',[]); t.setdefault('places',[]); t.setdefault('considered',[]); return t

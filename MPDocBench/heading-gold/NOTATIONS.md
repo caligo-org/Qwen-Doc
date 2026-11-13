@@ -62,6 +62,20 @@ scoring or training yet.
 - A printed heading with no layout box of its own cannot be a node; put a break before its content so that content
   does not sit under the previous heading.
 
+## Section starts
+
+Where the layout's reading order puts part of a heading's own content before the heading's box (a headline set below
+or beside its story's first column, a label printed under its box), the node gets `starts`: the first box of its
+section. The heading tree is unchanged; like breaks, `starts` only says where content sits. A content box belongs to
+the node whose section start (page, box id) is the greatest one at or before it, minus what breaks close, plus
+`places`. Section starts must be distinct but need not follow the node order, so a box that the reading order puts
+before its own section's heading (a KEY POINTS box printed above the section it summarises) is listed in the tree
+where it belongs.
+
+Where the layout's reading order puts a content box of one section after a later heading (a story's photo read
+after the next headline, a grid whose blocks interleave), `places: [{"box", "in", "why"}]` assigns that box to the
+node it belongs to.
+
 ## Unions
 
 A heading is a **union** of one or more printed boxes: the boxes that together print one heading. Typical unions:

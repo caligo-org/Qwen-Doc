@@ -28,7 +28,8 @@ annotated as the child of the original.
 - **Breaks:** where a section ends without a new printed heading (a label's block ends and the main text resumes, a
   story ends before an ad, a list ends before a closing paragraph about the whole list), a break closes it and the
   content after it belongs to the parent. Breaks change where content sits, never the heading tree; they are annotated
-  for later use and not scored.
+  for later use and not scored. Where the layout's reading order misplaces content,  (a section that begins
+  before its heading's box) and  (a box assigned to its section) fix it; same status as breaks.
 - **Decisions on doubtful kinds** (all in `NOTATIONS.md`): repeated own-line labels with their own block are headings;
   interview questions with an answer are headings; exam questions are text; national-standard term entries are
   headings; a closing paragraph after a numbered list stays under the last item instead of dropping the list.
@@ -55,7 +56,8 @@ annotated as the child of the original.
 
 Every document was annotated from scratch by one reviewer per document type, then reviewed four more times: two
 breadcrumb rounds, a round that checked every node's path on its rendered page (round 4), and a break round that went
-through every page again (round 5); every page of the 3,135 was looked at in each of the last two rounds. Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
+through every page again (round 5), an independent check of every round-5 change, and a reading-order round that
+viewed every page again (round 6). Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
 a list numbered inside a section, titleless excerpts with several top-level sections); each is logged as ACCEPTED with
 its reason in `learnings/`.
 
@@ -63,17 +65,17 @@ its reason in `learnings/`.
 
 | | Original gold | These trees |
 |---|---:|---:|
-| Headings | 6,309 titles | 5,717 nodes |
+| Headings | 6,309 titles | 5,710 nodes |
 | Multi-box headings (unions) | — | 309 |
 | Repeats / continuations | — | 1,212 / 56 |
-| Breaks | — | 332 |
+| Breaks / section starts / places | — | 323 / 160 / 53 |
 | Titles with no relation | 21 | 0 |
 | Parents not expressible as Markdown levels | 116 | 0 |
 
 - Every tree, written as Markdown with its levels, scores exactly 1.0 against `MPDocBench.roletrees.json` with the
   unchanged Heading TEDS. Fed back as explicit trees, `score_tree.py` gives TEDS 100.00 and all unions, repeats and
   continuations correct.
-- A stored third-party parser output (uocr2) moves from 60.12 to 59.10 Heading TEDS (held-out half 60.58 → 58.62),
+- A stored third-party parser output (uocr2) moves from 60.12 to 59.06 Heading TEDS (held-out half 60.58 → 58.63),
   scored with the Markdown-expressible gold tree of caligo-org/Qwen-Doc#17.
 
 ## Use

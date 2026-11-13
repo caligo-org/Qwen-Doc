@@ -185,3 +185,10 @@
 - Checked, no break: eng_312b78ba p7 ranking tables after the repeat (still competitive positioning), p8 pie/ranking
   panels under Key Financial Figures (round 3); chn_746216ac p3 社会 text before its bottom label (reading order, not
   a break case); eng_312b78ba p12 brand pictures above their labels (reading order).
+
+## Round 6 (starts)
+- All 22 decks, all 172 pages viewed with every box tagged by the section that owns it; 10 section starts in 5 decks, 17 decks unchanged (review/starts/pptSlides.tsv).
+- Divider slides that reprint the agenda title above the highlighted entry (0616b8b7 #17, d81f00a8 #21): the reprinted 目录 box comes first in reading order, so the divider's section starts there.
+- PEST labels printed under their box (746216ac 社会 #21, 技术 #25): section starts at the label's own text box.
+- Pictures above or beside a divider or label (b30fedce Part 01/02 photos, 312b78ba division logos above CONSUMER/PROFESSIONAL/LUXURY/ACTIVE labels): section starts at the picture.
+- Caption-only check: a04b6aef 'ORGANIZATION OF THE NERVOUS SYSTEM' is a slide title over its diagram (kept).

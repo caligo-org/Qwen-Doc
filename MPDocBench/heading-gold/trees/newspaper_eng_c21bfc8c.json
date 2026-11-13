@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "why": "masthead (periodical title)"
+   "why": "masthead (periodical title) | starts: the skybox teasers #1-#4 above the masthead come before it in reading order and belong to the paper",
+   "starts": 1
   },
   {
    "boxes": [
@@ -18,7 +19,8 @@
    "level": 3,
    "parent": 5,
    "text": "Colleges divesting of Israel warned",
-   "why": "story headline, front page (no section banner)"
+   "why": "story headline, front page (no section banner) | starts: the story's photo #17 with caption #18 (campus protest), set above the headline, comes before it in reading order",
+   "starts": 17
   },
   {
    "boxes": [
@@ -72,8 +74,9 @@
    "level": 3,
    "parent": 69,
    "text": "We're optimistic about everything except our politics",
-   "why": "continuation: one-word jump head of a package story (story role on the jump page) | breadcrumb round 3: the jump prints only the jump word \"Hope\" (no headline), so the continuation takes the original's title #32",
-   "continues": 32
+   "why": "continuation: one-word jump head of a package story (story role on the jump page) | breadcrumb round 3: the jump prints only the jump word \"Hope\" (no headline), so the continuation takes the original's title #32 | starts: the story's photo #70 with caption #71 (Hope, Alaska), set above the headline, comes before it in reading order",
+   "continues": 32,
+   "starts": 70
   },
   {
    "boxes": [
@@ -192,8 +195,9 @@
    "level": 3,
    "parent": 69,
    "text": "Colleges divesting of Israel warned",
-   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Colleges\" (no headline), so the continuation takes the original's title #19",
-   "continues": 19
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Colleges\" (no headline), so the continuation takes the original's title #19 | starts: the story's photo #267 with caption #268 (Emerson College encampment), set above the headline, comes before it in reading order (replaces the round-5 break before #267)",
+   "continues": 19,
+   "starts": 267
   },
   {
    "boxes": [
@@ -229,7 +233,8 @@
    "level": 3,
    "parent": 69,
    "text": "A month to fly the flag for Hispanic diversity",
-   "why": "story headline (Just Curious rubric above is text)"
+   "why": "story headline (Just Curious rubric above is text) | starts: the series label Just Curious #302 with its QR box #303/#304 comes before the headline in reading order",
+   "starts": 302
   },
   {
    "boxes": [
@@ -524,11 +529,6 @@
    "before": 116,
    "closes": 72,
    "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
-  },
-  {
-   "before": 267,
-   "closes": 239,
-   "why": "round 5: the jumped story ends; the photo of the next jump (Colleges, printed above its jump head) follows"
   },
   {
    "before": 342,

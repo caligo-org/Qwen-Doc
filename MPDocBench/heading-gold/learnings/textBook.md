@@ -150,3 +150,8 @@ with neither. List: review/breaks/textBook.tsv. All trees pass check.py.
   marker that opens a real unit (a task block listed in the contents) is a heading; node text is the marker as
   printed, and the run-in task name (新闻阅读) stays in the paragraph. No break: each task ends at the next task or at
   the excerpt end. This replaces the round-3 "bare item number -> text" fix.
+
+## Round 6 (starts)
+- All 37 textbooks, all 268 pages viewed with every box tagged by its owning section; 1 section start, 1 break removed; review/starts/textBook.tsv.
+- fdc97197: the chapter photo above 第一章 now opens the chapter (`starts` #63); the round-5 break before #63 closing 目录 is superseded and removed.
+- 27d8ad59 lesson badges are first in (page, box id) order, so no change. OPEN: p8 student works #104-#108 of 儿童美术馆 come after the nested 学习建议 label in box order; 访问艺术家 / 儿童美术馆 (photos + captions, rubric labels) kept as headings pending a decision.

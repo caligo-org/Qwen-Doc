@@ -19,7 +19,8 @@
    "level": 2,
    "parent": 2,
    "text": "一滴墨香",
-   "why": "section: running section tag 一滴墨香, poem page"
+   "why": "section: running section tag 一滴墨香, poem page starts: #30 (the vertical running head on the poem page, first box of p3); the column tag #36 comes after its own poem #31-#35 in reading order",
+   "starts": 30
   },
   {
    "boxes": [
@@ -55,7 +56,8 @@
    "level": 3,
    "parent": 65,
    "text": "美74岁妇人遭诈骗，竟持枪打劫银行弥补损失？",
-   "why": "story headline: describes the story below"
+   "why": "story headline: describes the story below starts: #66 (the story photo printed above the headline)",
+   "starts": 66
   },
   {
    "boxes": [
@@ -91,7 +93,8 @@
    "level": 2,
    "parent": 2,
    "text": "陈道明:我的“诈糊人生”",
-   "why": "story headline in the section slot: opens on a photo page with no section tag (名人明星 tag first printed on the next page, after the headline)"
+   "why": "story headline in the section slot: opens on a photo page with no section tag (名人明星 tag first printed on the next page, after the headline) starts: #116 (the story opening photo the headline is printed on)",
+   "starts": 116
   },
   {
    "boxes": [

@@ -1,0 +1,46 @@
+doc	kind	node	box	page	note
+book_chn_0875d4ae	NONE			1-19	all 19 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_38c7e1dc	NONE			1-16	all 16 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_69dd792e	NONE			1-30	all 30 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_a0187360	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_dbd95bcd	NONE			1-20	all 20 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_dd57800f	NONE			1-17	all 17 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_chn_f0c264a5	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_04edb0ff	NONE			1-14	all 14 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_0f8b3268	NONE			1-15	all 15 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_10fbf0e9	NONE			1-18	all 18 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_1ba1e70d	NONE			1-6	all 6 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_21695dfc	NONE			1-15	all 15 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_3ef07034	NONE			1-19	all 19 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_4ba599d0	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_4dc2618c	NONE			1-3	all 3 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_600ba37c	NONE			1-15	all 15 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_77552588	ORDER	17		1	KEY POINTS sidebar moved to reading order after 'You, your staff, systems and site' as L4 under it (was before it in content order; its section start (1,17) preceded the next node); check.py now passes
+book_eng_77552588	BREAK_ADDED	17	26	2	break before #26 closes KEY POINTS #17: the main column of 'You, your staff, systems and site' resumes on p2
+book_eng_77552588	ORDER	33		2	KEY POINTS box comes before the 1.2 heading in reading order; RESOLVED: summarises 1.2 (leader, leadership skills), listed after #36 as L3 under 1.2 (section starts need not follow node order); bullets #34-#35 sit in it
+book_eng_77552588	ORDER	117		5	KEY POINTS (listening) read after WORKING WITH OTHERS; RESOLVED: listed after Listening #94 as L5 under it; #120 (conflict, role model) stays L4 under WORKING WITH OTHERS, so the two are no longer siblings
+book_eng_77552588	ORDER	187		9	KEY POINTS (caring for care givers) read after 1.4 / PLANNING; RESOLVED: listed after CARING FOR CARE GIVERS #177 as L4 under it; no break needed (#191 starts right after its bullets)
+book_eng_77552588	ORDER	191		9	KEY POINTS beside the 1.4 heading (leadership and education core skills; planning, implementation, evaluation); RESOLVED: summarises 1.4, listed after #182 as L3 under 1.4 before PLANNING; #197 (learning) stays L4 under PLANNING; existing break before #203 closes #197 back to PLANNING
+book_eng_82b4201c	STARTS	21	20	3	part I opener: its section icon #20 (left of 'I. Overview of Photoshop') comes before the heading in reading order and sat under Table of Contents
+book_eng_82b4201c	STARTS	40	39	5	part II opener: section icon #39 left of the heading sat under the previous part (#33 Other Photoshop software)
+book_eng_82b4201c	STARTS	130	129	12	part III opener: section icon #129 left of the heading sat under part II (#109 Other Palettes)
+book_eng_82b4201c	STARTS	242	241	20	part IV opener: section icon #241 left of the heading sat under part III (#228 Other tools)
+book_eng_9997c276	NONE			1-2	all 2 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_9c2fed1c	NONE			1-5	all 5 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_9d008b33	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_9e4de927	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_a59ff1e5	NONE			1-19	all 19 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_ab95f5db	NONE			1-15	all 15 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_b155f179	NONE			1-18	all 18 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_b5a23ac1	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_c5211a9e	STARTS	5	4	2	section opener: the full-width photo #4 above FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW comes before the heading in reading order and sat under the L1 title
+book_eng_c5211a9e	STARTS	50	49	6	section opener: photo #49 above the INSTRUCTIONS AND APPLICATION heading sat under the part divider #48 (directly)
+book_eng_c5211a9e	STARTS	63	62	7	section opener: photo #62 above MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING sat under the previous section #50
+book_eng_c5211a9e	STARTS	94	93	9	section opener: photo #93 above PROGRAM DESIGN: BASICS sat under FLEXIBILITY TRAINING #90
+book_eng_c5211a9e	STARTS	156	155	13	section opener: photo #155 above PROGRAM DESIGN: PHASES OF TRAINING sat under PROGRAM DESIGN METHODS #138
+book_eng_d4818a54	NONE			1-9	all 9 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_dc66edfa	NONE			1-15	all 15 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_e343e570	NONE			1-19	all 19 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading; SOLUTION 1/2 labels over their drawings kept as headings (round-3 label decision)
+book_eng_ea532ac6	NONE			1-3	all 3 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_efc51bfb	NONE			1-5	all 5 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+book_eng_f2e8d789	NONE			1-17	all 17 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading

@@ -204,3 +204,10 @@
 - RESTORED 0875d4ae #247 '4岁以前乳牙𬌗特征' and #257 '4~6岁期间乳牙𬌗特征是：' as L5 under （二）不同发育阶段𬌗特征 (were text for containment only); break before the run-in '2. 混牙𬌗特征' (#267) closes #257. Resolves the round-4 OPEN.
 - 77552588: the node list keeps content order (KEY POINTS boxes placed where their content belongs), so breaks were placed against that order (#17 needs none: main text on p2 already sits under 'You, your staff...').
 - Kept without a break (user decision on blocks inside a section): floating figures between checklist items (a59ff1e5 Fig. 11/12), pull quotes, untitled shaded boxes inside a section (04edb0ff p11).
+
+## Round 6 (starts)
+- All 33 books, all 446 pages viewed with every box tagged by its owning section; 9 section starts in 2 docs, 1 order fix set, 1 break added; review/starts/book.tsv.
+- Section openers whose picture/icon precedes the heading in reading order: 82b4201c part icons (I-IV), c5211a9e full-width photos above section titles (5 sections).
+- 77552588: node order now follows reading order (check.py requires section starts in node order). KEY POINTS boxes moved to where their box sits: #17 after 'You, your staff...' (L4, break before #26 closes it), #117 under WORKING WITH OTHERS, #187/#191 under 1.4 › PLANNING. OPEN: the boxes' content belongs to Listening (#117), CARING FOR CARE GIVERS (#187) and 1.2 (#33, still under 1.1); a box placed before its own section's heading cannot be expressed with `starts`.
+- RESOLVED (after NOTATIONS allowed section starts out of node order): each KEY POINTS box listed under the section it summarises, one level below: #33 under 1.2 (L3, though read before the 1.2 heading), #117 under Listening (L5), #120 under WORKING WITH OTHERS (L4), #187 under CARING FOR CARE GIVERS (L4), #191 under 1.4 EDUCATION (L3, before PLANNING), #197 under PLANNING (L4). Decide by the box's content and where it is printed beside, not by reading order. No new breaks or places needed; existing breaks (#26, #125, #203) still return content to the parent.
+- Kept: e343e570 SOLUTION 1/2 labels over their drawings (round-3 label decision), not caption-only photo items.

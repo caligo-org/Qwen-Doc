@@ -205,3 +205,9 @@ is page + box id (as check.py uses). 19 breaks in 11 docs, 2 nodes restored, 17 
 - Kept without a break: margin icons before a heading (eng_714e4656 #46/#77/#90), footnotes and footers, figures
   referenced from another section (eng_6202ad06 Fig. 6/7 under Designer Shake Style Examples).
 OPEN: none.
+
+## Round 6 (starts)
+- All 28 manuals, all 170 pages viewed with every box tagged by its owning section; 6 section starts in 3 docs, 1 break removed; review/starts/manualGuide.tsv.
+- 8d2c3220 #8: the declaration frame's logo #6/#7 precede the heading; section starts at #6. a2fab9df #13: spread photo left of the heading.
+- 3135929d: refill-angle paragraph #33 now opens 'User-Friendly Refill Experience' (`starts`), replacing the round-5 break; feature icons above Print Speed / Wireless / Mobile Printing open their sections. OPEN: p2 the three refill steps (#20-#25) belong to 'Refill Tank System 3 Easy Steps' (#11) but follow 'Exceedingly Affordable' (#13) in reading order; not expressible with `starts`.
+- Kept: 6202ad06 #119 'Designer Shake Style Examples' (figure-group label; as text its figures would fall under 'Old Mill Shingle Lap Siding'); 51cbdc09 功能原理示意图, 5b94cfef step headings with figures.

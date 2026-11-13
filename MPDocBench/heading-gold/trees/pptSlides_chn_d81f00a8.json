@@ -46,7 +46,8 @@
    "level": 2,
    "parent": 2,
    "text": "02 井字棋：符号流派的规则系统方案",
-   "why": "section divider: agenda slide with 02 highlighted"
+   "why": "section divider: agenda slide with 02 highlighted starts: #20 (divider slide: reprinted 目录 label #20 comes before the highlighted entry #21 in reading order; it sat under the previous slide 井字棋 (#9's section))",
+   "starts": 20
   },
   {
    "boxes": [

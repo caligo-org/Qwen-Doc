@@ -45,7 +45,8 @@
    "level": 2,
    "parent": 4,
    "text": "笑话",
-   "why": "section: section tag ·笑话· starts the jokes section; node text = 笑话 (the decorative dots are not part of the name; contents lists 笑话 13 则)"
+   "why": "section: section tag ·笑话· starts the jokes section; node text = 笑话 (the decorative dots are not part of the name; contents lists 笑话 13 则) starts: #86 (the column logo printed left of the label)",
+   "starts": 86
   },
   {
    "boxes": [

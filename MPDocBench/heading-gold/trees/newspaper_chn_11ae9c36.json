@@ -55,7 +55,8 @@
    "level": 3,
    "parent": 61,
    "text": "情牵人民 春暖中国",
-   "why": "story: headline; the ——line in the same box is a deck"
+   "why": "story: headline; the ——line in the same box is a deck | starts: the story's intro paragraphs #65-#68 sit left of and before the headline in reading order",
+   "starts": 65
   },
   {
    "boxes": [

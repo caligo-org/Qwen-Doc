@@ -55,7 +55,8 @@
    "level": 3,
    "parent": 36,
    "text": "BEN WEEKS",
-   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #37 (the tester portrait printed left of the name)",
+   "starts": 37
   },
   {
    "boxes": [
@@ -64,7 +65,8 @@
    "level": 3,
    "parent": 36,
    "text": "MATT JONES",
-   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #40 (the tester portrait printed left of the name)",
+   "starts": 40
   },
   {
    "boxes": [
@@ -73,7 +75,8 @@
    "level": 3,
    "parent": 36,
    "text": "ELLIE CLEWLOW",
-   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #43 (the tester portrait printed left of the name)",
+   "starts": 43
   },
   {
    "boxes": [
@@ -82,7 +85,8 @@
    "level": 3,
    "parent": 36,
    "text": "JAMES FORREST",
-   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #46 (the tester portrait printed left of the name)",
+   "starts": 46
   },
   {
    "boxes": [

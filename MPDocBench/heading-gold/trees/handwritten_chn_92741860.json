@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "传承经典. 筑梦未来",
-   "why": "title: essay title (photos out of order: it is printed on the third photo, the earlier photos are later essay pages)"
+   "why": "title: essay title (photos out of order: it is printed on the third photo, the earlier photos are later essay pages) starts: p1-p2 (#1-#5) photograph the end of this essay (p1 = p4) and come before the title in page order.",
+   "starts": 1
   }
  ],
  "repeats": [],

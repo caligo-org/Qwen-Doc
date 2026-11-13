@@ -27,7 +27,8 @@
    "level": 2,
    "parent": 2,
    "text": "“铁脚板”站长护林29载: 一夕山中月，万里故园心",
-   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录"
+   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录 starts: #50 (the opening photos #50/#51 and standfirst #52 printed above the headline)",
+   "starts": 50
   },
   {
    "boxes": [
@@ -63,7 +64,8 @@
    "level": 2,
    "parent": 2,
    "text": "『冲天辫』老妈路过人间： 姐的威风永不灭",
-   "why": "story headline in the section slot (section not printed); printed 『冲天辫』, gold OCR 冲天辩"
+   "why": "story headline in the section slot (section not printed); printed 『冲天辫』, gold OCR 冲天辩 starts: #132 (the opening photos #132/#133 printed above the vertical headline)",
+   "starts": 132
   },
   {
    "boxes": [

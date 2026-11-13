@@ -22,15 +22,6 @@
   },
   {
    "boxes": [
-    23
-   ],
-   "level": 3,
-   "parent": 16,
-   "text": "ON THE COVER",
-   "why": "box with own title on the section's opening contents page (cover photo credit and cover note), one level below the Leading Off section"
-  },
-  {
-   "boxes": [
     49
    ],
    "level": 2,
@@ -210,14 +201,13 @@
   {
    "box": 18,
    "why": "TOC group label (NATIONAL LEAGUE TOP 10s) over contents entries: text"
+  },
+  {
+   "box": 23,
+   "why": "label over the cover photo #24 whose only block is the photo credit printed with it (no text of its own); text (round 6)"
   }
  ],
  "breaks": [
-  {
-   "before": 25,
-   "closes": 23,
-   "why": "ON THE COVER box ends; the ON DECK FOR JANUARY/FEBRUARY next-issue teaser follows, not about the cover"
-  },
   {
    "before": 27,
    "closes": 16,

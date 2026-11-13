@@ -18,7 +18,8 @@
    "level": 2,
    "parent": 2,
    "text": "一滴墨香",
-   "why": "section: running section tag 一滴墨香 (vertical), poem page"
+   "why": "section: running section tag 一滴墨香 (vertical), poem page starts: #30 (the vertical running head on the poem page, first box of p3); the column tag #39 comes after its own poem #31-#38 in reading order",
+   "starts": 30
   },
   {
    "boxes": [

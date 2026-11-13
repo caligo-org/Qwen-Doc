@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016",
-   "why": "title: paper title"
+   "why": "title: paper title; starts: the left sidebar (#3-#10: badges, affiliation, DOI, citation, history) and the article-type line (#11) are printed beside the title but come before it in reading order.",
+   "starts": 3
   },
   {
    "boxes": [

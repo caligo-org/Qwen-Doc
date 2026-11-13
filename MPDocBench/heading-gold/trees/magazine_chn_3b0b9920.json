@@ -19,7 +19,8 @@
    "level": 2,
    "parent": 1,
    "text": "一滴墨香",
-   "why": "section: running section tag 一滴墨香 (vertical), poem page"
+   "why": "section: running section tag 一滴墨香 (vertical), poem page starts: #40 (the vertical running head on the poem page, first box of p3); the column tag #45 comes after its own poem #41-#44 in reading order",
+   "starts": 40
   },
   {
    "boxes": [
@@ -55,7 +56,8 @@
    "level": 3,
    "parent": 74,
    "text": "给牛涂上班马条纹，研究能不能骗过蚊虫！日本科学家获搞笑诺贝尔奖",
-   "why": "story headline: describes the story below"
+   "why": "story headline: describes the story below starts: #75 (the story photo printed above the headline)",
+   "starts": 75
   },
   {
    "boxes": [

@@ -27,7 +27,8 @@
    "level": 2,
    "parent": 1,
    "text": "坝底江心修理大国重器:星垂山河阔,月涌大江流",
-   "why": "story headline in the section slot: its section (中国力量, TOC only) is not printed; L3 would sit under 目录"
+   "why": "story headline in the section slot: its section (中国力量, TOC only) is not printed; L3 would sit under 目录 starts: #48 (the story opening photo printed above the headline)",
+   "starts": 48
   },
   {
    "boxes": [

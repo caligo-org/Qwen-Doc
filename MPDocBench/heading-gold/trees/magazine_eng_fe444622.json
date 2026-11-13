@@ -19,7 +19,8 @@
    "level": 2,
    "parent": 1,
    "text": "CONTENTS",
-   "why": "contents title (front matter at section level)"
+   "why": "contents title (front matter at section level) starts: #40 (the contents-page photo printed above the CONTENTS title)",
+   "starts": 40
   },
   {
    "boxes": [

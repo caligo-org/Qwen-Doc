@@ -27,7 +27,8 @@
    "level": 3,
    "parent": 1,
    "text": "From fractured past, a connection",
-   "why": "story headline"
+   "why": "story headline | starts: the story's pull quote #15/#16 and photo #17-#19, set above the headline, come before it in reading order (replaces the round-5 break before #15)",
+   "starts": 15
   },
   {
    "boxes": [
@@ -217,7 +218,8 @@
    "level": 3,
    "parent": 255,
    "text": "President's speech was one he never wanted to give",
-   "why": "story headline (caps kicker above is text)"
+   "why": "story headline (caps kicker above is text) | starts: the kicker BITTERSWEET MOMENT #259 comes before the headline in reading order",
+   "starts": 259
   },
   {
    "boxes": [
@@ -226,7 +228,8 @@
    "level": 3,
    "parent": 255,
    "text": "Obama, Harris share a long bond and a kindred spirit",
-   "why": "story headline (caps kicker above is text)"
+   "why": "story headline (caps kicker above is text) | starts: the kicker CLOSE CONNECTION #287 comes before the headline in reading order",
+   "starts": 287
   },
   {
    "boxes": [
@@ -235,7 +238,8 @@
    "level": 3,
    "parent": 255,
    "text": "The DNC might feature a lot of white pantsuits. It's not just fashion.",
-   "why": "story headline (caps kicker above is text)"
+   "why": "story headline (caps kicker above is text) | starts: the kicker FASHION AND A STATEMENT #317 comes before the headline in reading order",
+   "starts": 317
   },
   {
    "boxes": [
@@ -406,11 +410,6 @@
  ],
  "breaks": [
   {
-   "before": 15,
-   "closes": 4,
-   "why": "round 5: the story ends (MASS SHOOTING, Page A7); the pull quote and photo of the next story (From fractured past, printed above its headline) follow"
-  },
-  {
    "before": 32,
    "closes": 20,
    "why": "round 5: the story ends (SLAVERY, Page A7); the teaser column, the photo teaser (SHOOTING FOR MORE ... C1) and the weather box follow"
@@ -424,6 +423,11 @@
    "before": 608,
    "closes": 564,
    "why": "round 5: the jumped story ends; the colophon / subscription box (BOSTON GLOBE MEDIA, mail subscription rates) follows"
+  },
+  {
+   "before": 351,
+   "closes": 318,
+   "why": "round 6: the page banner ELECTION 2024 #351 heads p5 of the section The Nation, not the p4 story #318"
   }
  ]
 }

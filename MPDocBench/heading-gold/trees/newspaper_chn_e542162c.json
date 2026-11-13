@@ -27,7 +27,8 @@
    "level": 3,
    "parent": 1,
    "text": "加快数智应用降低物流成本",
-   "why": "story headline (vertical; rubric 经济论坛 is text)"
+   "why": "story headline (vertical; rubric 经济论坛 is text) | starts: column rubric 经济论坛 #18 comes before the headline in reading order",
+   "starts": 18
   },
   {
    "boxes": [
@@ -72,7 +73,8 @@
    "level": 3,
    "parent": 1,
    "text": "持续完善社会保障体系",
-   "why": "story headline; series rubric and byline in the same box are text"
+   "why": "story headline; series rubric and byline in the same box are text | starts: the byline #54 of this story comes before the headline in reading order",
+   "starts": 54
   },
   {
    "boxes": [
@@ -117,7 +119,8 @@
    "level": 3,
    "parent": 75,
    "text": "拉林铁路奏响加速发展新乐章",
-   "why": "story headline; series rubric and byline in the same box are text"
+   "why": "story headline; series rubric and byline in the same box are text | starts: the byline #78 of this story comes before the headline in reading order",
+   "starts": 78
   },
   {
    "boxes": [
@@ -181,7 +184,8 @@
    "level": 3,
    "parent": 75,
    "text": "“礼义长潭”新风润心",
-   "why": "story headline (red 专栏 label above is text)"
+   "why": "story headline (red 专栏 label above is text) | starts: column kicker #124 comes before the headline in reading order",
+   "starts": 124
   },
   {
    "boxes": [
@@ -217,7 +221,8 @@
    "level": 3,
    "parent": 162,
    "text": "共建共享人工智能发展新未来",
-   "why": "story headline; rubric 热点解析 in the same box is text"
+   "why": "story headline; rubric 热点解析 in the same box is text | starts: the byline #165 of this story comes before the headline in reading order",
+   "starts": 165
   },
   {
    "boxes": [
@@ -361,7 +366,8 @@
    "level": 3,
    "parent": 297,
    "text": "秋播虽延后 丰收仍有盼",
-   "why": "story headline; rubric 视点 and byline in the same box are text"
+   "why": "story headline; rubric 视点 and byline in the same box are text | starts: the byline #313 of this story comes before the headline in reading order",
+   "starts": 313
   },
   {
    "boxes": [
@@ -424,7 +430,8 @@
    "level": 3,
    "parent": 371,
    "text": "讲好特色文旅+融合故事",
-   "why": "story headline; rubric, byline and ——副题 in the same box are text"
+   "why": "story headline; rubric, byline and ——副题 in the same box are text | starts: the byline #374 of this story comes before the headline in reading order",
+   "starts": 374
   },
   {
    "boxes": [
@@ -460,7 +467,8 @@
    "level": 3,
    "parent": 371,
    "text": "以智提效激发口岸潜能",
-   "why": "story headline (vertical); rubric 区域谈 in the same box is text"
+   "why": "story headline (vertical); rubric 区域谈 in the same box is text | starts: the commentary's illustration #403, set at the top of its column, comes before the headline in reading order (replaces the round-5 break before #403)",
+   "starts": 403
   },
   {
    "boxes": [
@@ -568,7 +576,8 @@
    "level": 3,
    "parent": 439,
    "text": "立法会选举体现良政善治",
-   "why": "story headline (vertical; rubric 香江观察 is text)"
+   "why": "story headline (vertical; rubric 香江观察 is text) | starts: column label 香江观察 #510 comes before the headline in reading order",
+   "starts": 510
   },
   {
    "boxes": [
@@ -604,7 +613,8 @@
    "level": 3,
    "parent": 552,
    "text": "黄河上的筏子客",
-   "why": "story headline (rubric 非遗焕新 is text)"
+   "why": "story headline (rubric 非遗焕新 is text) | starts: column label 非遗焕新 #555 comes before the headline in reading order",
+   "starts": 555
   },
   {
    "boxes": [
@@ -649,7 +659,8 @@
    "level": 3,
    "parent": 552,
    "text": "李沧电商直播忙",
-   "why": "story headline (vertical; rubric 速写 is text)"
+   "why": "story headline (vertical; rubric 速写 is text) | starts: column label 速写 #615 comes before the headline in reading order",
+   "starts": 615
   },
   {
    "boxes": [
@@ -667,7 +678,8 @@
    "level": 3,
    "parent": 629,
    "text": "中小学秋假来了",
-   "why": "story headline (rubric 文旅新意 is text)"
+   "why": "story headline (rubric 文旅新意 is text) | starts: column label 文旅新意 #632 comes before the headline in reading order",
+   "starts": 632
   },
   {
    "boxes": [
@@ -703,7 +715,8 @@
    "level": 3,
    "parent": 629,
    "text": "学会把消费送上门",
-   "why": "story headline (vertical; rubric 市场瞭望 is text)"
+   "why": "story headline (vertical; rubric 市场瞭望 is text) | starts: column label 市场瞭望 #663 comes before the headline in reading order",
+   "starts": 663
   },
   {
    "boxes": [
@@ -816,19 +829,9 @@
    "why": "round 5: the story ends; the page colophon (本版编辑, 来稿邮箱) follows"
   },
   {
-   "before": 403,
-   "closes": 375,
-   "why": "round 5: the story ends; the illustration of the next commentary (区域谈, printed above its headline) follows"
-  },
-  {
    "before": 413,
    "closes": 404,
    "why": "round 5: the commentary ends; the page colophon (本版编辑) follows"
-  },
-  {
-   "before": 508,
-   "closes": 485,
-   "why": "round 5: the story ends; a stand-alone photo with its caption (Qianhai) follows"
   },
   {
    "before": 520,
@@ -849,6 +852,23 @@
    "before": 674,
    "closes": 664,
    "why": "round 5: the commentary ends; the page colophon (本版编辑) follows"
+  }
+ ],
+ "places": [
+  {
+   "box": 508,
+   "in": 442,
+   "why": "photo + caption (Qianhai, Hong Kong professionals working in Shenzhen) printed top right beside the Shenzhen-Hong Kong story; reading order puts it after the later story #485"
+  },
+  {
+   "box": 509,
+   "in": 442,
+   "why": "photo + caption (Qianhai, Hong Kong professionals working in Shenzhen) printed top right beside the Shenzhen-Hong Kong story; reading order puts it after the later story #485"
+  },
+  {
+   "box": 614,
+   "in": 556,
+   "why": "image credit of the story's large river illustration; reading order puts it after the later story #602"
   }
  ]
 }

@@ -45,7 +45,8 @@
    "level": 3,
    "parent": 1,
    "text": "坚定发展信心 汇聚发展合力",
-   "why": "story headline; ——综述 subtitle in the same box is a deck"
+   "why": "story headline; ——综述 subtitle in the same box is a deck | starts: the kicker #35 above the headline comes before it in reading order",
+   "starts": 35
   },
   {
    "boxes": [
@@ -241,15 +242,6 @@
   },
   {
    "boxes": [
-    268
-   ],
-   "level": 3,
-   "parent": 238,
-   "text": "乡村企业 便民就业",
-   "why": "photo story headline with its own caption text"
-  },
-  {
-   "boxes": [
     271
    ],
    "level": 3,
@@ -395,6 +387,10 @@
   {
    "box": 147,
    "why": "bare part marker printed alone with no title: labels nothing, so it is text (NOTATIONS: a bare marker is text when it labels nothing) (breadcrumb round 3; was node: numbered part marker printed alone with its own block)"
+  },
+  {
+   "box": 268,
+   "why": "round 6 (starts): photo item; its only block is the photo's caption #269 (+ credit #270 滕治中摄) with the photo #267, no story text of its own (was L3 node: photo story headline with its own caption text)"
   }
  ],
  "considered": [
@@ -422,7 +418,12 @@
   {
    "before": 267,
    "closes": 263,
-   "why": "round 5: the story ends; the photo of the next photo story (乡村企业 便民就业, printed before its title) follows"
+   "why": "round 5: the story ends; the photo of the next photo story (乡村企业 便民就业, printed before its title) follows | round 6: #268 is now text (photo + caption), so the whole photo item sits under the section"
+  },
+  {
+   "before": 10,
+   "closes": 4,
+   "why": "round 6: the series banner #10 (“十五五”我所思·我所盼) heads the two series pieces #11 and #22, not the story #4; it belongs to L1"
   }
  ]
 }

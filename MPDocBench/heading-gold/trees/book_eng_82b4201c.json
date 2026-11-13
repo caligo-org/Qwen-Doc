@@ -27,7 +27,8 @@
    "level": 2,
    "parent": 3,
    "text": "I. Overview of Photoshop",
-   "why": "section I"
+   "why": "section I starts: #20 (part I opener: its section icon #20 (left of 'I. Overview of Photoshop') comes before the heading in reading order and sat under Table of Contents)",
+   "starts": 20
   },
   {
    "boxes": [
@@ -72,7 +73,8 @@
    "level": 2,
    "parent": 3,
    "text": "II. Starting a New Project",
-   "why": "section II"
+   "why": "section II starts: #39 (part II opener: section icon #39 left of the heading sat under the previous part (#33 Other Photoshop software))",
+   "starts": 39
   },
   {
    "boxes": [
@@ -153,7 +155,8 @@
    "level": 2,
    "parent": 3,
    "text": "III. Basic Tools",
-   "why": "section III"
+   "why": "section III starts: #129 (part III opener: section icon #129 left of the heading sat under part II (#109 Other Palettes))",
+   "starts": 129
   },
   {
    "boxes": [
@@ -297,7 +300,8 @@
    "level": 2,
    "parent": 3,
    "text": "IV. Saving and Printing Projects",
-   "why": "section IV"
+   "why": "section IV starts: #241 (part IV opener: section icon #241 left of the heading sat under part III (#228 Other tools))",
+   "starts": 241
   },
   {
    "boxes": [

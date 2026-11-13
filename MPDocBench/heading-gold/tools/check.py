@@ -6,12 +6,13 @@ something in between; every repeat points to a node whose section is still open 
 a node, a repeat or not_headings; every node, repeat, not_heading and considered entry has a non-empty `why`.
 Breaks: `before` is an existing box that is not a heading box; `closes` is a node whose section is open there; the
 next node after a break is not deeper than the closed node (else the levels would reopen it); a repeat after a break
-must point to a section the break left open.
+must point to a section the break left open. `starts` (optional on a node): an existing non-heading box at or before
+the node's own box, after the previous node's section start; section starts must be distinct (content goes to the greatest section start at or before it). `places`: a non-heading box assigned to a node.
 Exit 1 on errors."""
 import sys, os, json, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import gold, gold_tree, TREES
-from tree import read, nid
+from tree import read, nid, start, spos
 def check(doc, quiet=False):
     r=gold()[doc]; by={e['anno_id']:e for e in r['layout_dets']}; errs=[]
     raw=json.load(open(os.path.join(TREES,doc+'.json')))
@@ -60,29 +61,56 @@ def check(doc, quiet=False):
     for x in t['not_headings']+t['considered']:
         if not (x.get('why') or '').strip(): errs.append(f"#{x['box']} missing why")
     def pos(b): return (by[b]['page_id'],b)
+    # Content placement: a content box belongs to the node whose section start (page, box id) is the greatest one at
+    # or before it, minus what breaks close, plus `places`. Section starts must be distinct; they need not follow the
+    # node order (a box read before its own section's heading can be listed in the tree where it belongs).
+    okn=[n for n in nodes if all(b in by for b in n['boxes'])]
+    for n in okn:
+        st0=n.get('starts')
+        if st0 is not None:
+            if st0 not in by: errs.append(f'#{nid(n)} starts #{st0}: no such box'); continue
+            if pos(st0)>pos(nid(n)): errs.append(f'#{nid(n)} starts #{st0}, which comes after the heading')
+    okn=[n for n in okn if n.get('starts') is None or n['starts'] in by]
+    S=sorted((spos(n,by),n) for n in okn) if okn else []
+    S=[(sp,n) for sp,n in S]
+    for i in range(1,len(S)):
+        if S[i][0]==S[i-1][0]: errs.append(f'#{nid(S[i][1])} and #{nid(S[i-1][1])} start their sections at the same box')
     heads={b for n in nodes for b in n['boxes']}
+    par={nid(n):n.get('parent') for n in nodes}
+    def owner(p):
+        o=None
+        for sp,n in S:
+            if sp<=p: o=n
+            else: break
+        return o
+    def chain(n):
+        out=[]; a=nid(n) if n else None
+        while a not in (None,'root'): out.append(a); a=par.get(a)
+        return out[::-1]
+    BR=sorted([x for x in t['breaks'] if x.get('before') in by], key=lambda x: pos(x['before']))
+    def open_at(p, upto=None):
+        o=owner(p); ch=chain(o)
+        for y in BR:
+            if y is upto or pos(y['before'])>p: break
+            if owner(pos(y['before'])) is o and y['closes'] in ch: ch=ch[:ch.index(y['closes'])]
+        return ch
     for x in t['breaks']:
         b=x.get('before'); c=x.get('closes')
         if b not in by: errs.append(f'break before #{b}: no such box'); continue
         if b in heads: errs.append(f'break before #{b}: that box is a heading (a heading already closes by its level)')
         if not (x.get('why') or '').strip(): errs.append(f'break before #{b} missing why')
-        st=[]; nxt=None
-        for n in nodes:
-            a=nid(n)
-            if a not in by: continue
-            if pos(a)>pos(b): nxt=n; break
-            while st and st[-1][0]>=n['level']: st.pop()
-            st.append((n['level'],a))
-        for y in t['breaks']:  # earlier breaks close sections before this one
-            if y is x or y.get('before') not in by or pos(y['before'])>=pos(b): continue
-            if any(s[1]==y['closes'] for s in st) and not any(nid(n) in by and pos(y['before'])<pos(nid(n))<=pos(b) for n in nodes):
-                st=st[:[s[1] for s in st].index(y['closes'])]
-        if c not in [s[1] for s in st]: errs.append(f'break before #{b} closes #{c}, which is not open there'); continue
-        if nxt is not None and nxt['level']>lv.get(c,0): errs.append(f'break before #{b} closes #{c} (L{lv.get(c)}) but the next node #{nid(nxt)} is L{nxt["level"]}: deeper, so its levels reopen #{c}')
-        for x2 in t['repeats']:
-            rb=x2['boxes'][0] if x2['boxes'] else None
-            if rb in by and pos(b)<pos(rb) and (nxt is None or pos(rb)<pos(nid(nxt))) and x2['of'] in [s[1] for s in st[[s[1] for s in st].index(c):]]:
-                errs.append(f"repeat {x2['boxes']} of #{x2['of']} comes after the break before #{b} that closed it: make it a node with continues")
+        ch=open_at(pos(b), upto=x)
+        if c not in ch: errs.append(f'break before #{b} closes #{c}, which is not open there'); continue
+        nxt=next((n for sp,n in S if sp>pos(b)), None)
+        if nxt is not None and nxt['level']>lv.get(c,0) and owner(pos(b)) is not None and nxt.get('parent') in ch[ch.index(c):]:
+            errs.append(f'break before #{b} closes #{c} (L{lv.get(c)}) but the next node #{nid(nxt)} is L{nxt["level"]} inside it, so its levels reopen #{c}')
+    ids_all={nid(n) for n in nodes}
+    for x in t['places']:
+        b=x.get('box')
+        if b not in by: errs.append(f'place #{b}: no such box'); continue
+        if b in heads: errs.append(f'place #{b}: that box is a heading')
+        if x.get('in') not in ids_all: errs.append(f"place #{b} in #{x.get('in')}: not a node")
+        if not (x.get('why') or '').strip(): errs.append(f'place #{b} missing why')
     gt=gold_tree(r)
     miss=[a for a in gt if a not in seen]
     if miss: errs.append(f'gold titles not accounted for (node box, repeat or not_headings): {miss}')
@@ -92,6 +120,8 @@ def check(doc, quiet=False):
             print('  '*(n.get('level',1)-1)+f"L{n.get('level')} #{a} p{by[a]['page_id'] if a in by else '?'}{ex} {n.get('text','')[:70]!r}")
         for x in t['repeats']: print(f"  repeat {x['boxes']} of #{x['of']}")
         for x in t['breaks']: print(f"  break before #{x['before']} closes #{x['closes']}")
+        for n in nodes:
+            if n.get('starts') is not None: print(f"  #{nid(n)} section starts at #{n['starts']}")
         print(f"{len(nodes)} nodes, {sum(len(n['boxes'])>1 for n in nodes)} unions, {len(t['repeats'])} repeats, {len(t['not_headings'])} not_headings, {len(t['considered'])} considered, {len(t['breaks'])} breaks, gold titles {len(gt)}")
     for e in errs: print('ERROR', doc, e)
     return not errs

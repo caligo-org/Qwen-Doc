@@ -160,3 +160,16 @@ Lines in review/breaks/examPaper.tsv.
   part; questions, stems, 材料一/二, sub-task numbers and captions stay text for their own reasons (not containment).
 - eng_930559d3: boxed callout #84 after the "Guidance for teams" list (COMAP acts on undisclosed AI use) is about the
   teams' disclosure duty, so it stays under Guidance for teams; no break.
+
+## Round 6 (starts)
+Checked all pages by script; only flagged pages were viewed with `show.py --tree`, not every page. The script looked for
+content boxes printed below a heading in its column, or right of it, that come earlier in reading order. It also looked
+for nodes whose only content is a figure or caption. Table: review/starts/examPaper.tsv.
+- No body heading has its content before it in reading order. In these layouts, the box ids follow the columns.
+- No photo + caption items: every node whose only block is a figure is a page or section title over a chart or diagram
+  (for example researchReport_eng_b3735ab5 "JGB yields", annualReport_chn_588028f9 核心竞争力分析). These stay headings.
+- Cover content printed beside or below the L1 title that comes before L1 in reading order (research-report and
+  paper sidebars, a newsletter sidebar, a document number) sat outside every section. L1 now `starts` at its first
+  box. Content printed above the title (logos, ICS codes, cable header fields) and seals stamped over the owner's name
+  are left as they are.
+- Round 6 visual pass: every page of every examPaper document viewed with show.py --tree; the script scan's NONE results and the existing breaks/starts hold; no change.

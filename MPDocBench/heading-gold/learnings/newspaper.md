@@ -179,3 +179,31 @@ on any tree. 87 breaks, 1 restored node; per-break lines in review/breaks/newspa
   photo + caption inside a story.
 - Not fixable by breaks: reading-order cases of OPEN 11 (headline after its intro, 11ae9c36 p2) stay as they are.
 - Documents with no break: chn_adf00537, chn_ccf4163f, eng_b6de1de8 (see the NONE lines).
+
+## Round 6 (starts)
+Every page of all 22 newspaper trees (119 pages) was rendered with `show.py --tree` and viewed; check.py gives no ERROR
+on any newspaper tree. 82 `starts`, 2 photo items made text, 6 breaks added, 7 round-5 breaks removed, 5 documents
+unchanged; per-change lines in review/starts/newspaper.tsv.
+- Known case fixed: 11ae9c36 #94 starts at its intro #65 (the headline is set right of the intro; this resolves the
+  reading-order part of OPEN 11 that round 5 could not fix).
+- Typical `starts` (box printed above or beside a headline but earlier in reading order, so it sat under the previous
+  story or the page section): kickers / 引题 and column rubrics (经济论坛, 金视角, 每周经济观察, 洞见, 记者来信, 速写,
+  香江观察, MILWAUKEE SHOOTING, BITTERSWEET MOMENT …), series banners (新时代 新征程 新伟业, 强农开新局 奋力夺丰收,
+  Just Curious), bylines and columnist photo + name (JOAN VENNOCHI, Susan Page), pull quotes, the story's own lead photo
+  or map set above its headline, Global report place labels (1 EUROPE, 2 GERMANY …) of b6de1de8, a PAID ADVERTISEMENT
+  label, and the skybox teasers above the USA TODAY masthead (L1 `starts` at #1; also the Guardian Weekly cover teaser).
+- Where a round-5 break existed only to move "the photo / label of the next story printed above its headline" out of the
+  previous story, `starts` now puts it into its own story and the break was removed (it was redundant: the next
+  headline closes the section at the same box).
+- Photo + caption items made text (NOTATIONS "Usually text"): adf00537 #103 戏剧城内麦香飘 (break before it closes the
+  story #78), eb87830d #268 乡村企业 便民就业 (the existing break before its photo already sends it to the section).
+  Kept as headings: photo stories with their own story text, the FAB FIVE product round-up (79250562), briefs-column
+  photo briefs (DAILY BRIEFING, MONEYLINE).
+- Page rubrics that head a whole page (ELECTION 2024 on 105ddbb0 p4/p5 and 1153fb03 p5) get a break closing the
+  previous page's story, not `starts` on the first story; the series banner of eb87830d #10 (heads #11 and #22) likewise.
+- Known case b5e01773 #110: no content of its own comes before it. The real problem is the reverse: #110 is a boxed
+  story set inside the Gaza story #73, whose text resumes after it (#124-#134) and sat under #110. `starts` cannot move
+  content forward, so a break before #124 closes #110; that Gaza text now sits under the section The World (not #73).
+- Still wrong, not fixable by `starts` (content after its heading in reading order): 105ddbb0 p10 Supreme Court grid
+  ("What they ruled" blocks follow the next case heading), photos printed in the top right of a story placed after a
+  later heading (e542162c #508/#509, #614; ad370234 #259-#264 under the subhead #252), the 4f3edefe p4 QR box #284 (ownership unclear, left under the section).

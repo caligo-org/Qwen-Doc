@@ -65,7 +65,8 @@
    "level": 5,
    "parent": 17,
    "text": "社会",
-   "why": "PEST quadrant label naming its box (printed under the box)"
+   "why": "PEST quadrant label naming its box (printed under the box) starts: #20 (PEST label 社会 printed under its box: its text #20 came before it and sat under 政策)",
+   "starts": 20
   },
   {
    "boxes": [
@@ -83,7 +84,8 @@
    "level": 5,
    "parent": 17,
    "text": "技术",
-   "why": "PEST quadrant label naming its box (printed under the box)"
+   "why": "PEST quadrant label naming its box (printed under the box) starts: #24 (PEST label 技术 printed under its box: its text #24 came before it and sat under 经济)",
+   "starts": 24
   },
   {
    "boxes": [

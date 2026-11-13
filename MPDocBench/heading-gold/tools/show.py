@@ -23,8 +23,9 @@ if use_tree:
     for x in t['repeats']:
         for b in x['boxes']: lab[b]=('rep',f"REPEAT of #{x['of']} (not a node)")
     BRK={x['before']:x['closes'] for x in t.get('breaks',[])}
+    STA={n['starts']:nid(n) for n in t['nodes'] if n.get('starts') is not None}
 else:
-    BRK={}
+    BRK={}; STA={}
     for a,(d,p) in gt.items(): lab[a]=(d or 0,f"L{d} #{a}" if d else f"no-rel #{a}")
 ims=[]
 for p in pages:
@@ -41,6 +42,9 @@ for p in pages:
         if a in BRK:  # break: thick red line above the box, the section of #closes ends here
             dr.line([0,b[1]-6,im.width,b[1]-6],fill=(230,0,0),width=5); bt=f"BREAK closes #{BRK[a]}"
             dr.rectangle([im.width-dr.textlength(bt,font=F)-8,b[1]-28,im.width,b[1]-8],fill=(230,0,0)); dr.text((im.width-dr.textlength(bt,font=F)-4,b[1]-28),bt,fill='white',font=F)
+        if a in STA:  # section start moved before the heading's box (layout reading order puts its content first)
+            dr.line([b[0],b[1]-4,b[2],b[1]-4],fill=(0,90,230),width=5); st=f"SECTION #{STA[a]} STARTS"
+            dr.rectangle([b[0],b[1]-26,b[0]+dr.textlength(st,font=F)+6,b[1]-6],fill=(0,90,230)); dr.text((b[0]+3,b[1]-26),st,fill='white',font=F)
         if a in HL: dr.rectangle([b[0]-4,b[1]-4,b[2]+4,b[3]+4],outline=(255,0,0),width=6)
         tw=dr.textlength(txt,font=f); h=f.size+3; ty=b[1]-h if b[1]>=h else b[1]
         dr.rectangle([b[0],ty,b[0]+tw+4,ty+h],fill=c); dr.text((b[0]+2,ty),txt,fill='white',font=f)

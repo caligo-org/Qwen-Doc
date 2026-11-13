@@ -18,7 +18,8 @@
    "level": 2,
    "parent": 2,
    "text": "CONTENTS",
-   "why": "contents title (front matter at section level)"
+   "why": "contents title (front matter at section level) starts: #13 (the photo printed above the CONTENTS title on the contents page)",
+   "starts": 13
   },
   {
    "boxes": [
@@ -49,30 +50,12 @@
   },
   {
    "boxes": [
-    57
-   ],
-   "level": 3,
-   "parent": 55,
-   "text": "URGENT MISSION ACCOMPLISHED",
-   "why": "story headline: photo story with its caption text below"
-  },
-  {
-   "boxes": [
     62
    ],
    "level": 3,
    "parent": 55,
    "text": "SOCIETY",
    "why": "subsection: compound running tag THIS WEEK + SOCIETY (sub-tag printed in red); node text = SOCIETY only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
-  },
-  {
-   "boxes": [
-    64
-   ],
-   "level": 4,
-   "parent": 62,
-   "text": "Aircraft Maintenance",
-   "why": "photo story headline with its text"
   },
   {
    "boxes": [
@@ -127,24 +110,6 @@
    "parent": 62,
    "text": "College Graduates",
    "why": "brief headline: describes the item below"
-  },
-  {
-   "boxes": [
-    105
-   ],
-   "level": 4,
-   "parent": 62,
-   "text": "A Flourishing Industry",
-   "why": "photo story headline with its text"
-  },
-  {
-   "boxes": [
-    113
-   ],
-   "level": 4,
-   "parent": 62,
-   "text": "World Hello Day",
-   "why": "photo story headline with its text"
   },
   {
    "boxes": [
@@ -261,7 +226,8 @@
    "level": 4,
    "parent": 206,
    "text": "Sports Mean Business",
-   "why": "item headline: opinion excerpt below"
+   "why": "item headline: opinion excerpt below starts: #219 (the source magazine cover printed above the headline)",
+   "starts": 219
   },
   {
    "boxes": [
@@ -288,7 +254,8 @@
    "level": 2,
    "parent": 2,
    "text": "COVER STORY",
-   "why": "section: banner COVER STORY"
+   "why": "section: banner COVER STORY starts: #253 (the cover-story opening photo above the COVER STORY label)",
+   "starts": 253
   },
   {
    "boxes": [
@@ -426,6 +393,22 @@
   {
    "box": 47,
    "why": "contact box title (WRITE TO US) in the colophon area"
+  },
+  {
+   "box": 57,
+   "why": "photo item: headline over the photo #56 whose only block is the caption #58 (no story text of its own); text (round 6)"
+  },
+  {
+   "box": 64,
+   "why": "photo item: headline over the photo #63 whose only block is the caption #65; text (round 6)"
+  },
+  {
+   "box": 105,
+   "why": "photo item: headline over the photo #104 whose only block is the caption #106; set inside College Graduates, whose text continues at #107; text (round 6)"
+  },
+  {
+   "box": 113,
+   "why": "photo item: headline beside the photo #112 whose only block is the caption #114; text (round 6)"
   }
  ],
  "considered": [],
@@ -441,24 +424,61 @@
    "why": "editorial ends; cover thumbnail, WRITE TO US contact box, price list and Chinese colophon follow (not the editor's desk)"
   },
   {
-   "before": 107,
-   "closes": 105,
-   "why": "photo item A Flourishing Industry is its caption only; the College Graduates text resumes after it and is not about the photo (closes only the photo item; the resumed text sits in THIS WEEK SOCIETY)"
-  },
-  {
-   "before": 154,
-   "closes": 142,
-   "why": "NUMBERS data box ends on p8; the Carbon Market Expansion text resumes on p9 and is not about NUMBERS (it sits in THIS WEEK ECONOMY)"
-  },
-  {
-   "before": 175,
-   "closes": 169,
-   "why": "Rural Banks item ends; the NUMBERS FDI chart continued from p8 follows, not about Rural Banks (it sits in THIS WEEK ECONOMY)"
-  },
-  {
    "before": 246,
    "closes": 240,
    "why": "YOUNGEST CAS MEMBER item ends; the POINTS quote band (quotes by other people) follows, not about this item"
+  },
+  {
+   "before": 112,
+   "closes": 102,
+   "why": "College Graduates text ends at #111; the World Hello Day photo item (#112-#114, headline and caption are text) is not about it"
+  }
+ ],
+ "places": [
+  {
+   "box": 154,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 155,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 156,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 157,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 158,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 159,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 160,
+   "in": 140,
+   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 175,
+   "in": 142,
+   "why": "NUMBERS FDI chart continued from p8, read after the later item Rural Banks #169 (replaces the round-5 break before #175 that sent it to THIS WEEK ECONOMY)"
+  },
+  {
+   "box": 176,
+   "in": 142,
+   "why": "NUMBERS FDI chart continued from p8, read after the later item Rural Banks #169 (replaces the round-5 break before #175 that sent it to THIS WEEK ECONOMY)"
   }
  ]
 }

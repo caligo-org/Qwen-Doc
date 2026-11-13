@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "why": "masthead (periodical title)"
+   "why": "masthead (periodical title) | starts: the skybox teasers #1-#5 above the masthead come before it in reading order and belong to the paper",
+   "starts": 1
   },
   {
    "boxes": [
@@ -18,7 +19,8 @@
    "level": 3,
    "parent": 6,
    "text": "Handful of VIPs are noted no-shows",
-   "why": "story headline, front page (no section banner); kicker above is text"
+   "why": "story headline, front page (no section banner); kicker above is text | starts: the kicker REPUBLICAN NATIONAL CONVENTION #12 comes before the headline in reading order",
+   "starts": 12
   },
   {
    "boxes": [
@@ -191,7 +193,8 @@
    "level": 3,
    "parent": 58,
    "text": "Popular CoQ10 Pills Leave Millions Suffering",
-   "why": "story-level headline of an advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+   "why": "story-level headline of an advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text) | starts: the label PAID ADVERTISEMENT #227 above the advertorial's headline comes before it in reading order (replaces the round-5 break before #227)",
+   "starts": 227
   },
   {
    "boxes": [
@@ -284,11 +287,6 @@
    "before": 119,
    "closes": 87,
    "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
-  },
-  {
-   "before": 227,
-   "closes": 200,
-   "why": "round 5: the story ends; the PAID ADVERTISEMENT label of the advertorial below it follows"
   }
  ]
 }

@@ -147,3 +147,15 @@ documents with neither. `check.py` clean on all 38. Table: review/breaks/paper.t
   after 2.1-2.4; b4b85a83 summary after （四）; be9986ff "总的来说"/"综上所述" summing up 2.1 and 3; da20c59b
   summary of 3 after 3.2): break closing the last item, content goes to the list's parent.
 - paper_eng_d054de2a: Table 3 (aviation equity inflows) after the region-wise block: break closing REGION-WISE.
+
+## Round 6 (starts)
+Checked all pages by script; only flagged pages were viewed with `show.py --tree`, not every page. The script looked for
+content boxes printed below a heading in its column, or right of it, that come earlier in reading order. It also looked
+for nodes whose only content is a figure or caption. Table: review/starts/paper.tsv.
+- No body heading has its content before it in reading order. In these layouts, the box ids follow the columns.
+- No photo + caption items: every node whose only block is a figure is a page or section title over a chart or diagram
+  (for example researchReport_eng_b3735ab5 "JGB yields", annualReport_chn_588028f9 核心竞争力分析). These stay headings.
+- Cover content printed beside or below the L1 title that comes before L1 in reading order (research-report and
+  paper sidebars, a newsletter sidebar, a document number) sat outside every section. L1 now `starts` at its first
+  box. Content printed above the title (logos, ICS codes, cable header fields) and seals stamped over the owner's name
+  are left as they are.

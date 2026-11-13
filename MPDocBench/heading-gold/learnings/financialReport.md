@@ -108,3 +108,15 @@ node restored, 0 OPEN. `check.py` clean on all 15.
 - RESTORED d1c80a8f #5 我們的宗旨 L2 (round 2 had made it text on containment + substance): own line, own block
   (slogan #6/#7 + mission statement #8, a separate multi-line block about the purpose, not a caption or one line).
   Break before the untitled TOC #9 closes it. #6 slogan stays text (callout).
+
+## Round 6 (starts)
+Checked all pages by script; only flagged pages were viewed with `show.py --tree`, not every page. The script looked for
+content boxes printed below a heading in its column, or right of it, that come earlier in reading order. It also looked
+for nodes whose only content is a figure or caption. Table: review/starts/financialReport.tsv.
+- No body heading has its content before it in reading order. In these layouts, the box ids follow the columns.
+- No photo + caption items: every node whose only block is a figure is a page or section title over a chart or diagram
+  (for example researchReport_eng_b3735ab5 "JGB yields", annualReport_chn_588028f9 核心竞争力分析). These stay headings.
+- Cover content printed beside or below the L1 title that comes before L1 in reading order (research-report and
+  paper sidebars, a newsletter sidebar, a document number) sat outside every section. L1 now `starts` at its first
+  box. Content printed above the title (logos, ICS codes, cable header fields) and seals stamped over the owner's name
+  are left as they are.

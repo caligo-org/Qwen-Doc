@@ -19,7 +19,8 @@
    "level": 2,
    "parent": 1,
    "text": "features",
-   "why": "contents group heading 'features' (the contents spread prints no Contents title)"
+   "why": "contents group heading 'features' (the contents spread prints no Contents title) starts: #139 (the feature thumbnails #139-#141 with their page numbers printed above the features title)",
+   "starts": 139
   },
   {
    "boxes": [
@@ -55,7 +56,8 @@
    "level": 4,
    "parent": 168,
    "text": "Evolution of a tool chest",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #170 (the VIDEO icon and kicker #171 printed above the title)",
+   "starts": 170
   },
   {
    "boxes": [
@@ -64,7 +66,8 @@
    "level": 4,
    "parent": 168,
    "text": "Tough grain? Try a bevel-up plane",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #175 (the VIDEO icon and kicker #176 printed above the title)",
+   "starts": 175
   },
   {
    "boxes": [
@@ -73,7 +76,8 @@
    "level": 4,
    "parent": 168,
    "text": "Align the spine",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #179 (the VIDEO icon and kicker #180 printed above the title)",
+   "starts": 179
   },
   {
    "boxes": [
@@ -82,7 +86,8 @@
    "level": 4,
    "parent": 168,
    "text": "Bright ideas",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #184 (the VIDEO icon and kicker #185 printed above the title)",
+   "starts": 184
   },
   {
    "boxes": [
@@ -91,7 +96,8 @@
    "level": 4,
    "parent": 168,
    "text": "Fresh fence",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #188 (the item photo with its arrow, then the VIDEO icon and kicker #189/#190 printed above the title)",
+   "starts": 188
   },
   {
    "boxes": [
@@ -100,7 +106,8 @@
    "level": 4,
    "parent": 168,
    "text": "The not-so-big workbench",
-   "why": "item headline with its blurb and bullet list"
+   "why": "item headline with its blurb and bullet list starts: #193 (the VIDEO WORKSHOP icon and kicker #194 printed above the title)",
+   "starts": 193
   },
   {
    "boxes": [
@@ -118,7 +125,8 @@
    "level": 4,
    "parent": 201,
    "text": "FREE PLANS",
-   "why": "item headline with its blurb"
+   "why": "item headline with its blurb starts: #202 (the plans image printed left of the title)",
+   "starts": 202
   },
   {
    "boxes": [

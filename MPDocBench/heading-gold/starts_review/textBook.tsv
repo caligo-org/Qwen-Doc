@@ -1,0 +1,39 @@
+doc	kind	node	box	page	note
+textBook_chn_028c0453	NONE			1-7	all 7 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_0505fdad	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_06561845	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_12b0d2b4	NONE			1-10	all 10 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_1f0d94bf	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_27d8ad59	NONE			1-8	all 8 pages viewed; lesson badges (#24, #65) are first in box-id order after their union title box and the page number, so no lesson content precedes them in the (page, box id) order check.py uses; OPEN: p8 student works #104-#108 of 儿童美术馆 come after the nested 学习建议 label #102 in box order (cannot be fixed with starts)
+textBook_chn_47c3d791	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_6bc808b4	NONE			1-7	all 7 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_6c84840b	NONE			1-7	all 7 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_766e2ab6	NONE			1-6	all 6 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_83116662	NONE			1-10	all 10 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_87e64920	NONE			1-10	all 10 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_8b86cd5f	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_912349ba	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_b3181880	NONE			1-6	all 6 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_bd56ef2c	NONE			1-10	all 10 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_d4a9cac4	NONE			1-5	all 5 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_d605335f	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_df6c9bad	NONE			1-3	all 3 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_chn_fdc97197	STARTS	64	63	8	chapter opener: the full-width chapter photo #63 above 第一章 工程设计概述 comes before the heading in reading order; a break closed 目录 before it, so it sat under the L1 title
+textBook_chn_fdc97197	BREAK_REMOVED	51	63	8	break before #63 closing 目录 is superseded by the section start of 第一章 at #63
+textBook_eng_0ee658d7	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_215881e5	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_47833e8c	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_499f6e93	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_5074afd3	NONE			1-10	all 10 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_6104753f	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_6f1daec7	NONE			1-6	all 6 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_7438dcd2	NONE			1-3	all 3 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_7ee5bbca	NONE			1-14	all 14 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_81dcb97d	NONE			1-2	all 2 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_865c3034	NONE			1-3	all 3 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_9587c15d	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_99585330	NONE			1-8	all 8 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_a237ffc8	NONE			1-13	all 13 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_a5d8350e	NONE			1-4	all 4 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_b6949668	NONE			1-2	all 2 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading
+textBook_eng_db8099b5	NONE			1-9	all 9 pages viewed with each box tagged by its owning section; no heading set after its own content, no caption-only photo heading

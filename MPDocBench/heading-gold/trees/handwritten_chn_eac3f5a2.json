@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "bào yè 26 西门豹治邺",
-   "why": "title: lesson number + text title (pinyin annotations included in the box)"
+   "why": "title: lesson number + text title (pinyin annotations included in the box); starts: the summary note (#1) is printed beside the title but comes before it in reading order.",
+   "starts": 1
   }
  ],
  "repeats": [],

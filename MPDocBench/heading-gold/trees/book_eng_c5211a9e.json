@@ -18,7 +18,8 @@
    "level": 2,
    "parent": 1,
    "text": "FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW",
-   "why": "part title (large orange/red part heading)"
+   "why": "part title (large orange/red part heading) starts: #4 (section opener: the full-width photo #4 above FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW comes before the heading in reading order and sat under the L1 title)",
+   "starts": 4
   },
   {
    "boxes": [
@@ -162,7 +163,8 @@
    "level": 3,
    "parent": 48,
    "text": "FOUNDATIONS OF FITNESS PROGRAMMING: INSTRUCTIONS AND APPLICATION",
-   "why": "section (orange heading)"
+   "why": "section (orange heading) starts: #49 (section opener: photo #49 above the INSTRUCTIONS AND APPLICATION heading sat under the part divider #48 (directly))",
+   "starts": 49
   },
   {
    "boxes": [
@@ -171,7 +173,8 @@
    "level": 3,
    "parent": 48,
    "text": "MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING",
-   "why": "section (orange heading)"
+   "why": "section (orange heading) starts: #62 (section opener: photo #62 above MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING sat under the previous section #50)",
+   "starts": 62
   },
   {
    "boxes": [
@@ -216,7 +219,8 @@
    "level": 3,
    "parent": 48,
    "text": "PROGRAM DESIGN: BASICS",
-   "why": "section (orange heading)"
+   "why": "section (orange heading) starts: #93 (section opener: photo #93 above PROGRAM DESIGN: BASICS sat under FLEXIBILITY TRAINING #90)",
+   "starts": 93
   },
   {
    "boxes": [
@@ -279,7 +283,8 @@
    "level": 3,
    "parent": 48,
    "text": "PROGRAM DESIGN: PHASES OF TRAINING",
-   "why": "section (orange heading)"
+   "why": "section (orange heading) starts: #155 (section opener: photo #155 above PROGRAM DESIGN: PHASES OF TRAINING sat under PROGRAM DESIGN METHODS #138)",
+   "starts": 155
   },
   {
    "boxes": [

@@ -27,7 +27,8 @@
    "level": 2,
    "parent": 2,
    "text": "定坝“神针”53载搏风击浪：浩浩南水，汤汤北上",
-   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录"
+   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录 starts: #47 (the story opening photo printed above the headline)",
+   "starts": 47
   },
   {
    "boxes": [
@@ -63,7 +64,8 @@
    "level": 2,
    "parent": 2,
    "text": "长久的婚姻，都是势均力敌",
-   "why": "feature headline (laid out as a figure) in the section slot: the contents lists it as the 本刊视点 feature (p8, next entry p17), so the case stories on the following pages belong to it"
+   "why": "feature headline (laid out as a figure) in the section slot: the contents lists it as the 本刊视点 feature (p8, next entry p17), so the case stories on the following pages belong to it starts: #121 (the feature opening photo printed above the headline)",
+   "starts": 121
   },
   {
    "boxes": [
@@ -72,7 +74,8 @@
    "level": 3,
    "parent": 122,
    "text": "作精遇到“程序猿”，一场大病复活爱",
-   "why": "case story headline inside the 长久的婚姻 feature (contents lists the feature only, p8-16); breadcrumb 知音 › 长久的婚姻… › case"
+   "why": "case story headline inside the 长久的婚姻 feature (contents lists the feature only, p8-16); breadcrumb 知音 › 长久的婚姻… › case starts: #133 (the illustration #133 and standfirst #134/#135 printed above the headline)",
+   "starts": 133
   },
   {
    "boxes": [

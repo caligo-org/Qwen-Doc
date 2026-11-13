@@ -163,3 +163,16 @@ Docs 18, every page rendered with `show.py --tree` and viewed. 9 breaks in 6 doc
 - OPEN a6f48a98 #24: NOTATIONS' exception bullet (book_eng_dc66edfa "Star Topology") says a run-in sibling's
   content sits under the previous own-line label (no break); the Breaks section and the round-5 brief say a break
   closes it. I followed the brief (break added); confirm which applies.
+
+## Round 6 (starts)
+Checked all pages by script; only flagged pages were viewed with `show.py --tree`, not every page. The script looked for
+content boxes printed below a heading in its column, or right of it, that come earlier in reading order. It also looked
+for nodes whose only content is a figure or caption. Table: review/starts/handwritten.tsv.
+- No body heading has its content before it in reading order. In these layouts, the box ids follow the columns.
+- No photo + caption items: every node whose only block is a figure is a page or section title over a chart or diagram
+  (for example researchReport_eng_b3735ab5 "JGB yields", annualReport_chn_588028f9 核心竞争力分析). These stay headings.
+- Cover content printed beside or below the L1 title that comes before L1 in reading order (research-report and
+  paper sidebars, a newsletter sidebar, a document number) sat outside every section. L1 now `starts` at its first
+  box. Content printed above the title (logos, ICS codes, cable header fields) and seals stamped over the owner's name
+  are left as they are.
+- Round 6 visual pass: every page viewed. handwritten_chn_92741860: the photographed essay begins (p1-p2) with the end of the essay before the title page (p3); L1 #6 now starts at #1 so that content sits under the essay, not outside every section. All other trees unchanged.

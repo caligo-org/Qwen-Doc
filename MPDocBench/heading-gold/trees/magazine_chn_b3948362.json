@@ -27,7 +27,8 @@
    "level": 2,
    "parent": 2,
    "text": "中国速度",
-   "why": "feature headline in the section slot: the contents lists it as the feature of 中国力量 — 中华人民共和国成立75周年系列征文 (p4, next entry p10), so the story on p5 belongs to it"
+   "why": "feature headline in the section slot: the contents lists it as the feature of 中国力量 — 中华人民共和国成立75周年系列征文 (p4, next entry p10), so the story on p5 belongs to it starts: #46 (the story opening photo printed above the headline)",
+   "starts": 46
   },
   {
    "boxes": [
@@ -36,7 +37,8 @@
    "level": 3,
    "parent": 47,
    "text": "高铁“神驭手”追风掣电： 匠心驭龙毫厘必争",
-   "why": "story headline inside the 中国速度 feature (contents lists the feature only, p4-9); breadcrumb 知音 › 中国速度 › story"
+   "why": "story headline inside the 中国速度 feature (contents lists the feature only, p4-9); breadcrumb 知音 › 中国速度 › story starts: #59 (the story opening photo printed above the headline)",
+   "starts": 59
   },
   {
    "boxes": [

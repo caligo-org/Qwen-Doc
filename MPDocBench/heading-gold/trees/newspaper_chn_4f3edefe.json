@@ -36,7 +36,8 @@
    "level": 3,
    "parent": 1,
    "text": "扩大服务消费稳增长惠民生",
-   "why": "story headline (rubric 经济论坛 above is text)"
+   "why": "story headline (rubric 经济论坛 above is text) | starts: column rubric 经济论坛 #32 and byline #33 come before the headline in reading order",
+   "starts": 32
   },
   {
    "boxes": [
@@ -45,7 +46,8 @@
    "level": 3,
    "parent": 1,
    "text": "迎峰度冬能源供应有保障",
-   "why": "story headline (引题 above is a deck)"
+   "why": "story headline (引题 above is a deck) | starts: the kicker #43 above the headline comes before it in reading order",
+   "starts": 43
   },
   {
    "boxes": [
@@ -54,7 +56,8 @@
    "level": 3,
    "parent": 1,
    "text": "我国经济转型升级态势持续",
-   "why": "story headline (引题 above is a deck)"
+   "why": "story headline (引题 above is a deck) | starts: the kicker #54 above the headline comes before it in reading order",
+   "starts": 54
   },
   {
    "boxes": [
@@ -165,7 +168,8 @@
    "level": 3,
    "parent": 72,
    "text": "建设国际化消费环境当重细节",
-   "why": "story headline (vertical; rubric 金视角 is text)"
+   "why": "story headline (vertical; rubric 金视角 is text) | starts: column rubric 金视角 #144 comes before the headline in reading order",
+   "starts": 144
   },
   {
    "boxes": [
@@ -183,7 +187,8 @@
    "level": 3,
    "parent": 156,
    "text": "多地推进物流行业降本增效",
-   "why": "story headline (引题 above is a deck)"
+   "why": "story headline (引题 above is a deck) | starts: the kicker #159 above the headline comes before it in reading order",
+   "starts": 159
   },
   {
    "boxes": [
@@ -219,7 +224,8 @@
    "level": 3,
    "parent": 156,
    "text": "『一赛跨三地』带火湾区游",
-   "why": "story headline (vertical; rubric 文体市场面面观 is text)"
+   "why": "story headline (vertical; rubric 文体市场面面观 is text) | starts: column label 文体市场面面观 #184 comes before the headline in reading order",
+   "starts": 184
   },
   {
    "boxes": [
@@ -237,7 +243,8 @@
    "level": 3,
    "parent": 156,
    "text": "老场馆 新功能 利共享",
-   "why": "story headline (vertical; rubric 直击十五运会 is text)"
+   "why": "story headline (vertical; rubric 直击十五运会 is text) | starts: column label 直击十五运会 #202 comes before the headline in reading order",
+   "starts": 202
   },
   {
    "boxes": [
@@ -246,7 +253,8 @@
    "level": 3,
    "parent": 156,
    "text": "为奋力开创中国式现代化建设新局面提供坚强财政保障",
-   "why": "story headline (series rubric above and ——访 line below are text)"
+   "why": "story headline (series rubric above and ——访 line below are text) | starts: the series kicker #217 and byline #218 come before the headline in reading order",
+   "starts": 217
   },
   {
    "boxes": [
@@ -309,7 +317,8 @@
    "level": 3,
    "parent": 253,
    "text": "AI成科技行业重构关键推手",
-   "why": "story headline (vertical; rubric 外企新语 is text)"
+   "why": "story headline (vertical; rubric 外企新语 is text) | starts: column label 外企新语 #274 comes before the headline in reading order",
+   "starts": 274
   },
   {
    "boxes": [
@@ -345,7 +354,8 @@
    "level": 3,
    "parent": 317,
    "text": "出实招化痛点激发民间投资活力",
-   "why": "story headline (rubric 每周经济观察 is text)"
+   "why": "story headline (rubric 每周经济观察 is text) | starts: column label 每周经济观察 #320 comes before the headline in reading order",
+   "starts": 320
   },
   {
    "boxes": [
@@ -372,7 +382,8 @@
    "level": 3,
    "parent": 317,
    "text": "发展数据岂容“美颜”",
-   "why": "box with its own title: cartoon with comment text below"
+   "why": "box with its own title: cartoon with comment text below | starts: the cartoon #356 and its credit #357 illustrate this commentary and come before its headline in reading order",
+   "starts": 356
   },
   {
    "boxes": [
@@ -381,7 +392,8 @@
    "level": 3,
    "parent": 317,
    "text": "打通物流业降本增效『经络』",
-   "why": "story headline (vertical; rubric 洞见 is text)"
+   "why": "story headline (vertical; rubric 洞见 is text) | starts: column label 洞见 #360 comes before the headline in reading order",
+   "starts": 360
   },
   {
    "boxes": [
@@ -408,7 +420,8 @@
    "level": 3,
    "parent": 386,
    "text": "天津和平区 文旅融合破圈重生",
-   "why": "story headline (rubric 各地新亮点 is text)"
+   "why": "story headline (rubric 各地新亮点 is text) | starts: column label 各地新亮点 #389 and byline #390 come before the headline in reading order",
+   "starts": 389
   },
   {
    "boxes": [
@@ -444,7 +457,8 @@
    "level": 3,
    "parent": 386,
    "text": "冰雪经济莫止步于冰雪",
-   "why": "story headline (vertical; rubric 记者来信 is text)"
+   "why": "story headline (vertical; rubric 记者来信 is text) | starts: column label 记者来信 #418 comes before the headline in reading order",
+   "starts": 418
   },
   {
    "boxes": [
@@ -462,7 +476,8 @@
    "level": 3,
    "parent": 386,
    "text": "东川礼村这样盘活集体资产",
-   "why": "story headline (rubric 共富路上·乡村创变 is text)"
+   "why": "story headline (rubric 共富路上·乡村创变 is text) | starts: series kicker #440 comes before the headline in reading order",
+   "starts": 440
   },
   {
    "boxes": [
@@ -480,7 +495,8 @@
    "level": 3,
    "parent": 454,
    "text": "车企亟待驶出“极端营销”怪圈",
-   "why": "story headline (rubric 忠阳车评 is text)"
+   "why": "story headline (rubric 忠阳车评 is text) | starts: column label 忠阳车评 #457 comes before the headline in reading order",
+   "starts": 457
   },
   {
    "boxes": [
@@ -526,7 +542,8 @@
    "level": 3,
    "parent": 454,
    "text": "青岛榕信破解『内卷』困局—— 啃下环保技术硬骨头",
-   "why": "story headline (vertical); 引题 in the same box is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports (引题 in the same box)"
+   "why": "story headline (vertical); 引题 in the same box is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports (引题 in the same box) | starts: the story's photo #502 and caption #503 come before the headline in reading order (replaces the round-5 break before #502)",
+   "starts": 502
   }
  ],
  "repeats": [
@@ -632,11 +649,6 @@
    "why": "round 5: the story ends; the page colophon (editor credits) follows"
   },
   {
-   "before": 284,
-   "closes": 275,
-   "why": "round 5: the commentary ends; a QR pointer box (视频报道请扫二维码) follows"
-  },
-  {
    "before": 301,
    "closes": 286,
    "why": "round 5: the story ends; the page colophon (本版编辑) follows"
@@ -652,14 +664,21 @@
    "why": "round 5: the story ends; the page colophon (本版编辑) follows"
   },
   {
-   "before": 502,
-   "closes": 471,
-   "why": "round 5: the 天津航空 story ends; the photo of the next story (青岛榕信, printed above its headline) follows"
-  },
-  {
    "before": 517,
    "closes": 504,
    "why": "round 5: the story ends; the page colophon (本版编辑) follows, then a stand-alone news photo"
+  }
+ ],
+ "places": [
+  {
+   "box": 284,
+   "in": 275,
+   "why": "QR box (视频报道请扫二维码) set inside the commentary column's frame, its text wrapping around it, above the rule that closes the column; it belongs to the column, not the section (the round-5 break before it is removed)"
+  },
+  {
+   "box": 285,
+   "in": 275,
+   "why": "QR box (视频报道请扫二维码) set inside the commentary column's frame, its text wrapping around it, above the rule that closes the column; it belongs to the column, not the section (the round-5 break before it is removed)"
   }
  ]
 }

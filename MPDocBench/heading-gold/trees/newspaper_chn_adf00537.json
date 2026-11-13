@@ -45,7 +45,8 @@
    "level": 3,
    "parent": 1,
    "text": "强农“蓝图”铺展全新画卷",
-   "why": "story headline; ——纪实 subtitle in the same box is a deck, slogan banner above is a rubric"
+   "why": "story headline; ——纪实 subtitle in the same box is a deck, slogan banner above is a rubric | starts: the series banner 新时代 新征程 新伟业 #33 comes before the headline in reading order",
+   "starts": 33
   },
   {
    "boxes": [
@@ -91,7 +92,8 @@
    "level": 3,
    "parent": 1,
    "text": "河南十项惠农举措助力“三夏”生产",
-   "why": "story headline (slogan banner above is a rubric)"
+   "why": "story headline (slogan banner above is a rubric) | starts: the series banner #66 (强农开新局 奋力夺丰收) comes before the headline in reading order",
+   "starts": 66
   },
   {
    "boxes": [
@@ -137,15 +139,6 @@
    "parent": 78,
    "text": "合作前景非常广阔",
    "why": "in-story subhead with its own block"
-  },
-  {
-   "boxes": [
-    103
-   ],
-   "level": 3,
-   "parent": 75,
-   "text": "戏剧城内麦香飘",
-   "why": "photo story headline with its own text"
   },
   {
    "boxes": [
@@ -214,7 +207,12 @@
    "why": "running masthead logo in page header"
   }
  ],
- "not_headings": [],
+ "not_headings": [
+  {
+   "box": 103,
+   "why": "round 6 (starts): photo item; its only block is the photo's caption (#104-#106, ends 范亚旭 摄) and the photo #107, no story text of its own (was L3 node: photo story headline with its own text)"
+  }
+ ],
  "considered": [
   {
    "box": 15,
@@ -235,6 +233,13 @@
   {
    "box": 111,
    "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 103,
+   "closes": 78,
+   "why": "round 6: the photo item 戏剧城内麦香飘 (headline #103, caption, photo) is not about the story #78; it belongs to the page section"
   }
  ]
 }

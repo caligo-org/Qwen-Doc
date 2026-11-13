@@ -9,7 +9,8 @@
    "level": 1,
    "parent": "root",
    "text": "扬州晨化新材料股份有限公司 2019 年年度报告",
-   "why": "title union: owner + document type in one cover block"
+   "why": "title union: owner + document type in one cover block; starts: the document number 2020-021 (#3) is printed below the title but comes before it in reading order.",
+   "starts": 3
   },
   {
    "boxes": [
