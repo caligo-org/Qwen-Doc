@@ -41,6 +41,7 @@ annotated as the child of the original.
 | `tools/check.py` | Validates one tree or all (`--all`): boxes used once, parents reachable in reading order, repeat vs continuation, every gold title accounted for, a `why` on every entry. |
 | `tools/breadcrumbs.py` | Prints every breadcrumb of a tree and flags paths that look inconsistent (numbering that does not nest, siblings out of order, a heading repeating its ancestor, front matter under a body section, several roots). |
 | `tools/listing.py`, `tools/show.py`, `tools/suggest_repeats.py`, `tools/coverage.py` | Review tools: element listing, page renders with every box labelled (`MPDOCBENCH_PAGES` = folder of `<doc>/page_<n>.jpg`), repeat candidates, pages not yet reviewed. |
+| `ACCEPTED_FLAGS.json` | Checker flags reviewed on the page, by kind, with the reason each flagged path is consistent. |
 | `learnings/<type>.md` | Decision log per document type: rounds of annotation and breadcrumb review, accepted checker flags with reasons, open cases. |
 
 ## How it was made

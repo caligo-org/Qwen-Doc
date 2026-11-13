@@ -53,8 +53,8 @@
    ],
    "level": 4,
    "parent": 47,
-   "text": "三. 推理：",
-   "why": "property title 3 (推理): own line over formulas + worked items; printed \"3.\" (OCR box text reads 三.), so property 3 under 五. 性质 is right"
+   "text": "3. 推理：",
+   "why": "property title 3 (推理): own line over formulas + worked items; printed \"3.\" (OCR box text reads 三.), so property 3 under 五. 性质 is right | text as printed: the page prints \"3.\" (item 3 of 五. 性质; OCR read 三.); breadcrumb review"
   },
   {
    "boxes": [

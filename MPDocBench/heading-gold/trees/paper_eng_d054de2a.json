@@ -51,10 +51,10 @@
    "boxes": [
     26
    ],
-   "level": 3,
-   "parent": 10,
+   "level": 2,
+   "parent": 2,
    "text": "Gross Domestic Product",
-   "why": "subsection: same look as Airports"
+   "why": "definition section printed in the subhead style of section II, but it is not about civil aviation: content beats look (NOTATIONS level rule 3), so it is a top-level section; \"II. CIVIL AVIATION › Gross Domestic Product\" was not a narrower step (breadcrumb review)"
   },
   {
    "boxes": [

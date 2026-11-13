@@ -88,7 +88,10 @@ if __name__=='__main__':
         os.makedirs(os.path.join(ROOT,'review'),exist_ok=True)
         json.dump(allf,open(os.path.join(ROOT,'review','breadcrumb_flags.json'),'w'),ensure_ascii=False,indent=0)
         import collections; c=collections.Counter(x['k'] for v in allf.values() for x in v)
-        print(len(allf),'docs with flags',dict(c))
+        acc=json.load(open(os.path.join(ROOT,'ACCEPTED_FLAGS.json'))) if os.path.exists(os.path.join(ROOT,'ACCEPTED_FLAGS.json')) else {}
+        un=[(d,x) for d,v in allf.items() for x in v if d not in acc.get(x['k'],{}).get('docs',[])]
+        print(len(allf),'docs with flags',dict(c),'| reviewed (ACCEPTED_FLAGS.json):',sum(c.values())-len(un),'| unresolved:',len(un))
+        for d,x in un: print('  UNRESOLVED',d,x['k'],'#'+str(x['node']),x['msg'])
     else:
         t,path,fl=check(sys.argv[1])
         if '--flags-only' not in sys.argv:
