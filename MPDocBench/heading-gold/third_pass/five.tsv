@@ -1,0 +1,6 @@
+doc	node	page	verdict	note
+manualGuide_chn_1a73fd62	66	3	OK	text matches the bold line 他們還是可以接受其他的治療。; own block #67-#71 (paragraph + bullets on other treatments); path L1 › question #64 › #66 reads as a breadcrumb
+manualGuide_chn_1a73fd62	72	3	OK	text matches 他們可能無法延長生命。; own block #74 is a full two-line sentence about not prolonging life, same style and role as sibling #66; borderline on substance but not a one-line caption
+manualGuide_chn_5b94cfef	41	4	OK	text matches 目录; contents of the whole manual (lists 使用必读…播放), so L2 front matter under L1, not under 使用必读; listed before #37 per the correct-reading-order rule; block #42 sits under it by layout order
+textBook_chn_47c3d791	28	6	OK	text matches 问题导入 (zoomed); own block #29 (the prompt question); break before #30 returns the lesson text to 第1课 绘画语言; path 美术 选择性必修 绘画 › 第1课 绘画语言 › 问题导入
+newspaper_chn_adf00537	19	1	OK	text matches the bold subhead 以上率下，高站位高起点部署推进主题教育 (zoomed); in-story subhead with block #20-#26 to 下转第四版; path 農民日報 › 深学细悟勇担当 凝心聚力强三农 › subhead is L4 under story L3
