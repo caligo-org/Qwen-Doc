@@ -9,8 +9,7 @@
    "level": 1,
    "parent": "root",
    "text": "The Guardian Weekly",
-   "why": "masthead; tagline, date and volume in the same box are text | starts: the cover teaser #1 (Britain's radioactive chapati scandal / De La Soul, layout class header) set in the masthead's top right comes before it in reading order and belongs to the issue",
-   "starts": 1
+   "why": "masthead; tagline, date and volume in the same box are text | starts: the cover teaser #1 (Britain's radioactive chapati scandal / De La Soul, layout class header) set in the masthead's top right comes before it in reading order and belongs to the issue"
   },
   {
    "boxes": [
@@ -28,8 +27,7 @@
    "level": 3,
    "parent": 56,
    "text": "Russian and US officials hold talks in Saudi Arabia",
-   "why": "brief story headline under the section; location label above is a kicker | starts: the item's numbered place label 1 EUROPE #58 come before the headline in reading order",
-   "starts": 58
+   "why": "brief story headline under the section; location label above is a kicker | starts: the item's numbered place label 1 EUROPE #58 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -38,8 +36,7 @@
    "level": 3,
    "parent": 56,
    "text": "Two dead and 37 injured after Munich car attack",
-   "why": "brief story headline | starts: the item's numbered place label 2 GERMANY #65 and its photo #66 come before the headline in reading order",
-   "starts": 65
+   "why": "brief story headline | starts: the item's numbered place label 2 GERMANY #65 and its photo #66 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -48,8 +45,7 @@
    "level": 3,
    "parent": 56,
    "text": "Approval of supreme court sought for watchdog firing",
-   "why": "brief story headline | starts: the item's numbered place label 3 UNITED STATES #71 come before the headline in reading order",
-   "starts": 71
+   "why": "brief story headline | starts: the item's numbered place label 3 UNITED STATES #71 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -58,8 +54,7 @@
    "level": 3,
    "parent": 56,
    "text": "Man who rammed knife attacker hailed as hero",
-   "why": "brief story headline | starts: the item's numbered place label 4 AUSTRIA #77 come before the headline in reading order",
-   "starts": 77
+   "why": "brief story headline | starts: the item's numbered place label 4 AUSTRIA #77 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -68,8 +63,7 @@
    "level": 3,
    "parent": 56,
    "text": "Pope Francis in hospital for tests after infection",
-   "why": "brief story headline | starts: the item's numbered place label 5 VATICAN CITY #83 come before the headline in reading order",
-   "starts": 83
+   "why": "brief story headline | starts: the item's numbered place label 5 VATICAN CITY #83 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -78,8 +72,7 @@
    "level": 3,
    "parent": 56,
    "text": "At least 18 injured after plane crash lands in Toronto",
-   "why": "brief story headline | starts: the item's numbered place label 6 CANADA #90 come before the headline in reading order",
-   "starts": 90
+   "why": "brief story headline | starts: the item's numbered place label 6 CANADA #90 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -88,8 +81,7 @@
    "level": 3,
    "parent": 56,
    "text": "Brasilia asks UN to ditch carbon levy on shipping",
-   "why": "brief story headline | starts: the item's numbered place label 7 BRAZIL #95 and its photo #96 come before the headline in reading order",
-   "starts": 95
+   "why": "brief story headline | starts: the item's numbered place label 7 BRAZIL #95 and its photo #96 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -98,8 +90,7 @@
    "level": 3,
    "parent": 56,
    "text": "Language test for residence could stump some locals",
-   "why": "brief story headline | starts: the item's numbered place label 9 FRANCE #100 come before the headline in reading order",
-   "starts": 100
+   "why": "brief story headline | starts: the item's numbered place label 9 FRANCE #100 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -108,8 +99,7 @@
    "level": 3,
    "parent": 56,
    "text": "UN aviation meetings remain clouded in secrecy",
-   "why": "brief story headline | starts: the item's numbered place label 8 ENVIRONMENT #105 come before the headline in reading order",
-   "starts": 105
+   "why": "brief story headline | starts: the item's numbered place label 8 ENVIRONMENT #105 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -118,8 +108,7 @@
    "level": 3,
    "parent": 56,
    "text": "Conclave celebrates a divine night at the Baftas",
-   "why": "brief story headline | starts: the item's numbered place label 10 CULTURE #109 and its photo #110 come before the headline in reading order",
-   "starts": 109
+   "why": "brief story headline | starts: the item's numbered place label 10 CULTURE #109 and its photo #110 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -128,8 +117,7 @@
    "level": 3,
    "parent": 56,
    "text": "Collapse of illegally run goldmine kills 48 people",
-   "why": "brief story headline | starts: the item's numbered place label 11 MALI #116 come before the headline in reading order",
-   "starts": 116
+   "why": "brief story headline | starts: the item's numbered place label 11 MALI #116 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -138,8 +126,7 @@
    "level": 3,
    "parent": 56,
    "text": "M23 rebels take Bukavu in latest seizure of territory",
-   "why": "brief story headline | starts: the item's numbered place label 13 DR CONGO #121 and its photo #122 come before the headline in reading order",
-   "starts": 121
+   "why": "brief story headline | starts: the item's numbered place label 13 DR CONGO #121 and its photo #122 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -148,8 +135,7 @@
    "level": 3,
    "parent": 56,
    "text": "First 'openly gay imam' shot to death in his car",
-   "why": "brief story headline | starts: the item's numbered place label 12 SOUTH AFRICA #127 come before the headline in reading order",
-   "starts": 127
+   "why": "brief story headline | starts: the item's numbered place label 12 SOUTH AFRICA #127 come before the headline in reading order"
   },
   {
    "boxes": [
@@ -158,8 +144,7 @@
    "level": 3,
    "parent": 56,
    "text": "Plan for first Russian naval base in Africa agreed",
-   "why": "brief story headline | starts: the item's numbered place label 14 SUDAN #132 come before the headline in reading order",
-   "starts": 132
+   "why": "brief story headline | starts: the item's numbered place label 14 SUDAN #132 come before the headline in reading order"
   }
  ],
  "repeats": [

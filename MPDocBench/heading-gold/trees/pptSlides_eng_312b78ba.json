@@ -297,8 +297,7 @@
    "level": 4,
    "parent": 161,
    "text": "CONSUMER PRODUCTS",
-   "why": "division label heading its brand list starts: #163 (division logo #163 printed above its label CONSUMER PRODUCTS comes before it in reading order; it sat under OUR Brands)",
-   "starts": 163
+   "why": "division label heading its brand list starts: #163 (division logo #163 printed above its label CONSUMER PRODUCTS comes before it in reading order; it sat under OUR Brands)"
   },
   {
    "boxes": [
@@ -307,8 +306,7 @@
    "level": 4,
    "parent": 161,
    "text": "PROFESSIONAL PRODUCTS",
-   "why": "division label heading its brand list starts: #166 (division logo #166 printed above PROFESSIONAL PRODUCTS; it sat under CONSUMER PRODUCTS)",
-   "starts": 166
+   "why": "division label heading its brand list starts: #166 (division logo #166 printed above PROFESSIONAL PRODUCTS; it sat under CONSUMER PRODUCTS)"
   },
   {
    "boxes": [
@@ -317,8 +315,7 @@
    "level": 4,
    "parent": 161,
    "text": "LUXURY PRODUCTS",
-   "why": "division label heading its brand list; round 4: text as printed (OCR dropped the space) starts: #169 (division logo #169 printed above LUXURY PRODUCTS; it sat under PROFESSIONAL PRODUCTS)",
-   "starts": 169
+   "why": "division label heading its brand list; round 4: text as printed (OCR dropped the space) starts: #169 (division logo #169 printed above LUXURY PRODUCTS; it sat under PROFESSIONAL PRODUCTS)"
   },
   {
    "boxes": [
@@ -327,8 +324,7 @@
    "level": 4,
    "parent": 161,
    "text": "ACTIVE COSMETICS",
-   "why": "division label heading its brand list starts: #172 (division logo #172 printed above ACTIVE COSMETICS; it sat under LUXURY PRODUCTS)",
-   "starts": 172
+   "why": "division label heading its brand list starts: #172 (division logo #172 printed above ACTIVE COSMETICS; it sat under LUXURY PRODUCTS)"
   }
  ],
  "repeats": [

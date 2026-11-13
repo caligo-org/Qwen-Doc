@@ -36,8 +36,7 @@
    "level": 3,
    "parent": 1,
    "text": "4.1 million migrants: Where they're from, where they stay",
-   "why": "story headline | starts: the story's map #24 (migrants with immigration court cases), set above the headline, comes before it in reading order (replaces the round-5 break before #24)",
-   "starts": 24
+   "why": "story headline | starts: the story's map #24 (migrants with immigration court cases), set above the headline, comes before it in reading order (replaces the round-5 break before #24)"
   },
   {
    "boxes": [
@@ -100,8 +99,7 @@
    "level": 3,
    "parent": 145,
    "text": "Supreme Court term saw declining faith in neutrality, ethical standards",
-   "why": "story headline | starts: the story's photo #146 with credit #147 and caption #148, set above the headline, comes before it in reading order",
-   "starts": 146
+   "why": "story headline | starts: the story's photo #146 with credit #147 and caption #148, set above the headline, comes before it in reading order"
   },
   {
    "boxes": [
@@ -547,78 +545,11 @@
    "before": 312,
    "closes": 277,
    "why": "round 6: the page rubric ELECTION 2024 #312 heads p5; it belongs to the section, not to the p4 story #277"
-  }
- ],
- "places": [
-  {
-   "box": 692,
-   "in": 679,
-   "why": "grid: the left column's What they ruled / Why it matters blocks are read after the right column's case heading #686"
   },
   {
-   "box": 693,
-   "in": 679,
-   "why": "grid: the left column's What they ruled / Why it matters blocks are read after the right column's case heading #686"
-  },
-  {
-   "box": 708,
-   "in": 696,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #702"
-  },
-  {
-   "box": 709,
-   "in": 696,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #702"
-  },
-  {
-   "box": 710,
-   "in": 696,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #702"
-  },
-  {
-   "box": 725,
-   "in": 713,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #719"
-  },
-  {
-   "box": 726,
-   "in": 713,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #719"
-  },
-  {
-   "box": 739,
-   "in": 727,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #733"
-  },
-  {
-   "box": 740,
-   "in": 727,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #733"
-  },
-  {
-   "box": 755,
-   "in": 743,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #749"
-  },
-  {
-   "box": 756,
-   "in": 743,
-   "why": "grid: the left column's ruling blocks are read after the right column's case heading #749"
-  },
-  {
-   "box": 757,
-   "in": 719,
-   "why": "grid: the note and ruling blocks under Emergency room abortions are read after later case headings (#727-#749)"
-  },
-  {
-   "box": 758,
-   "in": 719,
-   "why": "grid: the note and ruling blocks under Emergency room abortions are read after later case headings (#727-#749)"
-  },
-  {
-   "box": 759,
-   "in": 719,
-   "why": "grid: the note and ruling blocks under Emergency room abortions are read after later case headings (#727-#749)"
+   "before": 24,
+   "closes": 17,
+   "why": "round 5: the story ends (SEE CRASH ON A14); the map of the next story (4.1 million migrants, printed above its headline) follows"
   }
  ]
 }

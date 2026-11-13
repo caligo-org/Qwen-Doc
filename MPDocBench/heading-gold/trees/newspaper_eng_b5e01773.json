@@ -18,8 +18,7 @@
    "level": 3,
    "parent": 1,
    "text": "Driven to the edge",
-   "why": "story headline, front page (no section banner) | starts: the story's lead photo #4, set above the headline, comes before it in reading order",
-   "starts": 4
+   "why": "story headline, front page (no section banner) | starts: the story's lead photo #4, set above the headline, comes before it in reading order"
   },
   {
    "boxes": [
@@ -46,8 +45,7 @@
    "level": 3,
    "parent": 1,
    "text": "Anxiety taking a toll on school days",
-   "why": "story headline | starts: the story's pull quote #47 with attribution #48 (Hunter's mother), set above the headline, comes before it in reading order",
-   "starts": 47
+   "why": "story headline | starts: the story's pull quote #47 with attribution #48 (Hunter's mother), set above the headline, comes before it in reading order"
   },
   {
    "boxes": [
@@ -65,8 +63,7 @@
    "level": 3,
    "parent": 68,
    "text": "In Gaza, criticism of Hamas is growing",
-   "why": "story headline (line beside the photo is its deck) | starts: the story's pull quote #71 with attribution #72 (resident of Gaza), set above the headline, comes before it in reading order",
-   "starts": 71
+   "why": "story headline (line beside the photo is its deck) | starts: the story's pull quote #71 with attribution #72 (resident of Gaza), set above the headline, comes before it in reading order"
   },
   {
    "boxes": [
@@ -138,8 +135,7 @@
    "level": 3,
    "parent": 68,
    "text": "Divers find parts of Finnish WWII plane",
-   "why": "story headline | starts: the story's photo #211-#213 (the Kaleva plane), set above the headline, comes before it in reading order",
-   "starts": 211
+   "why": "story headline | starts: the story's photo #211-#213 (the Kaleva plane), set above the headline, comes before it in reading order"
   },
   {
    "boxes": [
@@ -279,63 +275,11 @@
    "before": 361,
    "closes": 336,
    "why": "round 5: the story ends; display ads (Beal Bank, aday) follow"
-  }
- ],
- "places": [
-  {
-   "box": 124,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
   },
   {
-   "box": 125,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 126,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 127,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 128,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 129,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 130,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 131,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 132,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 133,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
-  },
-  {
-   "box": 134,
-   "in": 73,
-   "why": "the Gaza story's right column, read after the boxed story #110 set inside it; it belongs to #73 (replaces the round-6 break before #124 that sent it to the section)"
+   "before": 124,
+   "closes": 110,
+   "why": "the boxed wire story #110 ends; the text after it is not about it (it continues the Gaza story in the reader's order, which is not corrected, so it sits in The World)"
   }
  ]
 }

@@ -38,8 +38,7 @@
    "level": 2,
    "parent": 4,
    "text": "第一章 工程设计概述",
-   "why": "chapter label + chapter title (one box) starts: #63 (the full-width chapter photo above the chapter title comes before it in reading order; the break before #63 closing 目录 is superseded)",
-   "starts": 63
+   "why": "chapter label + chapter title (one box) starts: #63 (the full-width chapter photo above the chapter title comes before it in reading order; the break before #63 closing 目录 is superseded)"
   },
   {
    "boxes": [
@@ -162,6 +161,11 @@
    "before": 89,
    "closes": 85,
    "why": "分析 task ends with its table; the separate 思考 prompt about the new 京张 line belongs to the case, not to the analysis task"
+  },
+  {
+   "before": 63,
+   "closes": 51,
+   "why": "contents end on p7; the chapter-opening picture printed above the chapter-1 title on p8 is not part of the contents"
   }
  ]
 }

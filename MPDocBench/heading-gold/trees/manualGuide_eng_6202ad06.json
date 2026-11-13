@@ -307,47 +307,5 @@
    "closes": 155,
    "why": "the care and maintenance text ends; the CONTACT US box (label is text) at the foot of the page is contact information for the whole sheet, not care"
   }
- ],
- "places": [
-  {
-   "box": 119,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 120,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 121,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 122,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 123,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 124,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 125,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  },
-  {
-   "box": 126,
-   "in": 100,
-   "why": "final path check: FIG. 5 style examples (title, pictures, captions) belong to Product Guidelines #100, which refers to Fig 5; the reading order puts them after Additional Requirements #116"
-  }
  ]
 }

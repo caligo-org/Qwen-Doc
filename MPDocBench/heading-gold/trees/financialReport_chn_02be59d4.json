@@ -1,11 +1,68 @@
-{"doc": "financialReport_chn_02be59d4", "schema": 3,
+{
+ "doc": "financialReport_chn_02be59d4",
+ "schema": 3,
  "nodes": [
-  {"boxes": [2, 3], "level": 1, "parent": "root", "text": "广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计）", "why": "title union: owner + document type"},
-  {"boxes": [6], "level": 2, "parent": 2, "text": "第八节 财务报告", "why": "section: chapter of the report, describes all below"},
-  {"boxes": [7], "level": 3, "parent": 6, "text": "一、审计报告", "why": "section: 一、 numbered, own block (audit statement)"},
-  {"boxes": [11], "level": 3, "parent": 6, "text": "二、财务报表", "why": "section: 一、 numbered sibling, statements below"},
-  {"boxes": [13], "level": 4, "parent": 11, "text": "1、合并资产负债表", "why": "section: statement title, table below"}
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计）",
+   "why": "title union: owner + document type"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第八节 财务报告",
+   "why": "section: chapter of the report, describes all below"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "一、审计报告",
+   "why": "section: 一、 numbered, own block (audit statement)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "二、财务报表",
+   "why": "section: 一、 numbered sibling, statements below"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "1、合并资产负债表",
+   "why": "section: statement title, table below"
+  }
  ],
- "repeats": [{"boxes": [5], "of": 2, "why": "repeat: running head naming the document"}],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  }
+ ],
  "not_headings": [],
- "considered": [{"box": 4, "why": "cover date, text"}]}
+ "considered": [
+  {
+   "box": 4,
+   "why": "cover date, text"
+  }
+ ]
+}

@@ -10,8 +10,7 @@
    "level": 1,
    "parent": "root",
    "text": "开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报",
-   "why": "title union: owner box #3 (vertical cover band 开源证券证券研究报告; only the owner name 开源证券 is the heading part) + headline box #16 with ——非银金融行业周报. Round 4: the owner is printed in a text box on the cover, so it joins L1 (user decision 2026-11-13 on owner logos with a text box; NOTATIONS 'The title', owner in a box with other fields). Was: 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #4 (开源证券) joins the union after the title box. Sidebar box #3 removed from the union (user decision 2026-11-13: sidebar metadata field, not the title; the owner joins from the logo). starts: the cover sidebar (#6-#15: sector, date, rating, chart, related reports) is printed beside the title but comes before it in reading order.",
-   "starts": 6
+   "why": "title union: owner box #3 (vertical cover band 开源证券证券研究报告; only the owner name 开源证券 is the heading part) + headline box #16 with ——非银金融行业周报. Round 4: the owner is printed in a text box on the cover, so it joins L1 (user decision 2026-11-13 on owner logos with a text box; NOTATIONS 'The title', owner in a box with other fields). Was: 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #4 (开源证券) joins the union after the title box. Sidebar box #3 removed from the union (user decision 2026-11-13: sidebar metadata field, not the title; the owner joins from the logo). starts: the cover sidebar (#6-#15: sector, date, rating, chart, related reports) is printed beside the title but comes before it in reading order."
   },
   {
    "boxes": [

@@ -1,1 +1,13 @@
-{"doc":"handwritten_chn_375d58b7","schema":3,"nodes":[],"repeats":[],"not_headings":[],"considered":[{"box":1,"why":"form: whole page is one table element (lesson observation form); its 一、二、三 lines are inside the table, no box of their own"}]}
+{
+ "doc": "handwritten_chn_375d58b7",
+ "schema": 3,
+ "nodes": [],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "form: whole page is one table element (lesson observation form); its 一、二、三 lines are inside the table, no box of their own"
+  }
+ ]
+}

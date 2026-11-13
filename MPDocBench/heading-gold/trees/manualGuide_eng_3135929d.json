@@ -46,8 +46,7 @@
    "level": 2,
    "parent": 1,
    "text": "User-Friendly Refill Experience",
-   "why": "section: headline over the comparison figures starts: #33 (refill-angle paragraph #33 (right column, above the heading's row) is the text of User-Friendly Refill Experience; it now opens that section instead of being closed off from Saves Space)",
-   "starts": 33
+   "why": "section: headline over the comparison figures starts: #33 (refill-angle paragraph #33 (right column, above the heading's row) is the text of User-Friendly Refill Experience; it now opens that section instead of being closed off from Saves Space)"
   },
   {
    "boxes": [
@@ -65,8 +64,7 @@
    "level": 3,
    "parent": 42,
    "text": "Print Speed",
-   "why": "feature heading: item title with its own description in the features box starts: #43 (feature icon #43 printed above its label Print Speed sat under Work smarter...)",
-   "starts": 43
+   "why": "feature heading: item title with its own description in the features box starts: #43 (feature icon #43 printed above its label Print Speed sat under Work smarter...)"
   },
   {
    "boxes": [
@@ -75,8 +73,7 @@
    "level": 3,
    "parent": 42,
    "text": "Wireless",
-   "why": "feature heading: same starts: #47 (feature icon #47 above Wireless sat under Print Speed)",
-   "starts": 47
+   "why": "feature heading: same starts: #47 (feature icon #47 above Wireless sat under Print Speed)"
   },
   {
    "boxes": [
@@ -85,8 +82,7 @@
    "level": 3,
    "parent": 42,
    "text": "Mobile Printing",
-   "why": "feature heading: same starts: #50 (feature icon #50 above Mobile Printing sat under Wireless)",
-   "starts": 50
+   "why": "feature heading: same starts: #50 (feature icon #50 above Mobile Printing sat under Wireless)"
   },
   {
    "boxes": [
@@ -119,37 +115,16 @@
    "why": "picture label: text"
   }
  ],
- "breaks": [],
- "places": [
+ "breaks": [
   {
-   "box": 20,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
+   "before": 20,
+   "closes": 13,
+   "why": "the affordability column (text, 6000 badge, bottles, yield note) ends; the three refill step panels belong to the 'Refilling is so easy' box, not to 'Exceedingly Affordable' (that box's heading #11 comes first in reading order, so the steps fall back to the L1)"
   },
   {
-   "box": 21,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
-  },
-  {
-   "box": 22,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
-  },
-  {
-   "box": 23,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
-  },
-  {
-   "box": 24,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
-  },
-  {
-   "box": 25,
-   "in": 11,
-   "why": "the three refill step panels inside the 'Refilling is so easy' box, read after the later heading Exceedingly Affordable #13 (replaces the round-5 break before #20 that sent them to the L1)"
+   "before": 33,
+   "closes": 26,
+   "why": "the space-saving text and pictures end; the refill-angle paragraph #33 is about the refill experience (#34 follows it in reading order), not about saving space"
   }
  ]
 }

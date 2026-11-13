@@ -11,8 +11,7 @@
    "level": 1,
    "parent": "root",
    "text": "上海證券 洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充",
-   "why": "title union: company/stock banner atop the title block + headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #6 (上海證券) joins the union after the title box. starts: the rating box (#1) is printed beside the title but comes before it in reading order.",
-   "starts": 1
+   "why": "title union: company/stock banner atop the title block + headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #6 (上海證券) joins the union after the title box. starts: the rating box (#1) is printed beside the title but comes before it in reading order."
   },
   {
    "boxes": [

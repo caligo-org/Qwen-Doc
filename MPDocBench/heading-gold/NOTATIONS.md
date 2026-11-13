@@ -62,19 +62,11 @@ scoring or training yet.
 - A printed heading with no layout box of its own cannot be a node; put a break before its content so that content
   does not sit under the previous heading.
 
-## Section starts
+## Reading order is not corrected
 
-Where the layout's reading order puts part of a heading's own content before the heading's box (a headline set below
-or beside its story's first column, a label printed under its box), the node gets `starts`: the first box of its
-section. The heading tree is unchanged; like breaks, `starts` only says where content sits. A content box belongs to
-the node whose section start (page, box id) is the greatest one at or before it, minus what breaks close, plus
-`places`. Section starts must be distinct but need not follow the node order, so a box that the reading order puts
-before its own section's heading (a KEY POINTS box printed above the section it summarises) is listed in the tree
-where it belongs.
-
-Where the layout's reading order puts a content box of one section after a later heading (a story's photo read
-after the next headline, a grid whose blocks interleave), `places: [{"box", "in", "why"}]` assigns that box to the
-node it belongs to.
+Content follows the reader's reading order (page, box id) as the layout gives it; the gold never re-orders it (user
+decision 2026-11-13). Where the layout reads a box before its heading or after a later heading, the box stays where
+the reading order puts it. Breaks close sections; they are not used to repair reading order.
 
 ## Unions
 
@@ -179,8 +171,8 @@ A title repeated later (half-title, title page, title restated above clause 1, r
   heading, the briefs one level below. A story whose section is printed nowhere on its pages skips to L3 under the
   masthead only before the first L2 section (a front page); after an L2 section (contents, an earlier section) it
   takes the section slot, L2, because an L3 after an L2 would sit under that section in Markdown levels. A running
-  section tag printed on a story's pages is an L2 node above the story, with `starts` at the story's opener when the
-  tag is printed later than the opener.
+  section tag printed later than its story's opener (after the headline in reading order) stays text: making it a
+  section would put it after the story it heads.
 - handwritten: when the notes have no title, the top groupings are the top level (several L1 nodes).
 
 ## User decisions (all apply)
@@ -193,3 +185,4 @@ A title repeated later (half-title, title page, title restated above clause 1, r
 - Exam questions are text.
 - Repeats vs continuations as above; a section-only running header is that section's heading.
 - Content beats look for levels (label headings one level below their section).
+- Breaks close sections (not scored or trained yet); the reader's reading order is never corrected.

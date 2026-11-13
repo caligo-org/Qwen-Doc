@@ -22,21 +22,21 @@
   },
   {
    "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box with its own bullet block, one level below its section"
+  },
+  {
+   "boxes": [
     4
    ],
    "level": 3,
    "parent": 3,
    "text": "You, your staff, systems and site",
    "why": "mixed-case bold subhead with its own text (same style as 'Community partners')"
-  },
-  {
-   "boxes": [
-    17
-   ],
-   "level": 4,
-   "parent": 4,
-   "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box with its own bullet block, one level below its section. order (round 6 starts): moved to its reading-order place after 'You, your staff, systems and site' (the KEY POINTS sidebar's box comes after that heading in the layout's reading order); L4 under it, a break before #26 closes it"
   },
   {
    "boxes": [
@@ -63,7 +63,7 @@
    "level": 3,
    "parent": 36,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about leadership (leader does not make all decisions; leadership skills), printed beside the 1.2 heading: summarises 1.2. Listed under 1.2 although the layout reads it before the 1.2 heading (section starts need not follow node order); its bullets #34-#35 sit in it"
+   "why": "box title: KEY POINTS box about leadership, belongs to 1.2 (printed beside the 1.2 heading)"
   },
   {
    "boxes": [
@@ -159,10 +159,10 @@
    "boxes": [
     117
    ],
-   "level": 5,
-   "parent": 94,
+   "level": 4,
+   "parent": 79,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box beside 'Listening' (active listeners are attentive; effective listeners summarize): summarises Listening, one level below it, although its box is read after WORKING WITH OTHERS"
+   "why": "box title: KEY POINTS box about listening"
   },
   {
    "boxes": [
@@ -180,7 +180,7 @@
    "level": 4,
    "parent": 96,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about working with others (common ground in conflict, role model), one level below WORKING WITH OTHERS"
+   "why": "box title: KEY POINTS box about working with others"
   },
   {
    "boxes": [
@@ -252,7 +252,7 @@
    "level": 4,
    "parent": 177,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box beside CARING FOR CARE GIVERS (factors beyond your control, be realistic, speak the truth): summarises that section, one level below it, although its box is read after 1.4 / PLANNING"
+   "why": "box title: KEY POINTS box about caring for care givers"
   },
   {
    "boxes": [
@@ -270,7 +270,7 @@
    "level": 3,
    "parent": 182,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box beside the 1.4 heading (leadership and education are core surgical skills; planning, implementation and evaluation are the keys): summarises 1.4 EDUCATION, listed before PLANNING"
+   "why": "box title: KEY POINTS box about education, beside the 1.4 heading"
   },
   {
    "boxes": [
@@ -288,7 +288,7 @@
    "level": 4,
    "parent": 184,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box on p10 (people remember what they are involved in; ways of learning): summarises the learning part of PLANNING, one level below it; the break before #203 closes it"
+   "why": "box title: KEY POINTS box about planning education"
   },
   {
    "boxes": [
@@ -559,11 +559,6 @@
    "before": 203,
    "closes": 197,
    "why": "the KEY POINTS box of p10 ends; the main column of PLANNING (in-service training list, educational planning text) resumes"
-  },
-  {
-   "before": 26,
-   "closes": 17,
-   "why": "the KEY POINTS sidebar of p1 ends; the main column of 'You, your staff, systems and site' resumes on p2"
   }
  ]
 }

@@ -27,8 +27,7 @@
    "level": 2,
    "parent": 1,
    "text": "坝底江心修理大国重器:星垂山河阔,月涌大江流",
-   "why": "consistency: story headline, L3 directly under the masthead: its section 中国力量 is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #21 starts: #48 (the story opening photo printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels",
-   "starts": 48
+   "why": "consistency: story headline, L3 directly under the masthead: its section 中国力量 is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #21 starts: #48 (the story opening photo printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels"
   },
   {
    "boxes": [

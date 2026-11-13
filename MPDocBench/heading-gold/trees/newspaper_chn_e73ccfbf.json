@@ -72,8 +72,7 @@
    "level": 3,
    "parent": 1,
    "text": "天津消费动能持续释放",
-   "why": "story headline (引题 above is a deck) | starts: the kicker #37 above the headline comes before it in reading order",
-   "starts": 37
+   "why": "story headline (引题 above is a deck) | starts: the kicker #37 above the headline comes before it in reading order"
   },
   {
    "boxes": [
@@ -227,8 +226,7 @@
    "level": 3,
    "parent": 76,
    "text": "匈牙利发行兔年生肖邮票",
-   "why": "story headline (photo story) | starts: the story's photo #158 (the stamp being shown) comes before the headline in reading order (replaces the round-5 break before #158)",
-   "starts": 158
+   "why": "story headline (photo story) | starts: the story's photo #158 (the stamp being shown) comes before the headline in reading order (replaces the round-5 break before #158)"
   }
  ],
  "repeats": [
@@ -270,6 +268,11 @@
    "before": 74,
    "closes": 67,
    "why": "round 5: the story ends; a stand-alone news photo with its caption (railway) follows"
+  },
+  {
+   "before": 158,
+   "closes": 123,
+   "why": "round 5: the story ends; the photo of the next photo story (匈牙利发行兔年生肖邮票, printed before its title) follows"
   }
  ]
 }

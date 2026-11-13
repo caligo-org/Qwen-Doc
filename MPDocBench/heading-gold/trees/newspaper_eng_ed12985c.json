@@ -9,8 +9,7 @@
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "why": "masthead (periodical title) | starts: the skybox teasers #1-#5 above the masthead come before it in reading order and belong to the paper",
-   "starts": 1
+   "why": "masthead (periodical title) | starts: the skybox teasers #1-#5 above the masthead come before it in reading order and belong to the paper"
   },
   {
    "boxes": [
@@ -19,8 +18,7 @@
    "level": 3,
    "parent": 6,
    "text": "Can Biden overcome damaging debate?",
-   "why": "column headline, front page (no section banner) | starts: the columnist photo #12 and byline #13 (Susan Page) above the headline come before it in reading order",
-   "starts": 12
+   "why": "column headline, front page (no section banner) | starts: the columnist photo #12 and byline #13 (Susan Page) above the headline come before it in reading order"
   },
   {
    "boxes": [

@@ -393,12 +393,5 @@
    "closes": 35,
    "why": "round 5: the read-in-conjunction note below CONTENTS is about the Annual Financial Report, not the contents list"
   }
- ],
- "places": [
-  {
-   "box": 45,
-   "in": 57,
-   "why": "final: the paragraph \"The operating and financial review is intended to convey...\" introduces the Operating and Financial Review (#57); it is printed before that heading, inside Principal Activities, whose own child heading follows it, so neither a break nor starts can move it"
-  }
  ]
 }

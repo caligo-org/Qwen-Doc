@@ -18,8 +18,7 @@
    "level": 2,
    "parent": 2,
    "text": "CONTENTS",
-   "why": "contents title (front matter at section level) starts: #13 (the photo printed above the CONTENTS title on the contents page)",
-   "starts": 13
+   "why": "contents title (front matter at section level) starts: #13 (the photo printed above the CONTENTS title on the contents page)"
   },
   {
    "boxes": [
@@ -226,8 +225,7 @@
    "level": 4,
    "parent": 206,
    "text": "Sports Mean Business",
-   "why": "item headline: opinion excerpt below starts: #219 (the source magazine cover printed above the headline)",
-   "starts": 219
+   "why": "item headline: opinion excerpt below starts: #219 (the source magazine cover printed above the headline)"
   },
   {
    "boxes": [
@@ -254,8 +252,7 @@
    "level": 2,
    "parent": 2,
    "text": "COVER STORY",
-   "why": "section: banner COVER STORY starts: #253 (the cover-story opening photo above the COVER STORY label)",
-   "starts": 253
+   "why": "section: banner COVER STORY starts: #253 (the cover-story opening photo above the COVER STORY label)"
   },
   {
    "boxes": [
@@ -432,53 +429,16 @@
    "before": 112,
    "closes": 102,
    "why": "College Graduates text ends at #111; the World Hello Day photo item (#112-#114, headline and caption are text) is not about it"
-  }
- ],
- "places": [
-  {
-   "box": 154,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
   },
   {
-   "box": 155,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
+   "before": 154,
+   "closes": 142,
+   "why": "NUMBERS data box ends on p8; the Carbon Market Expansion text resumes on p9 and is not about NUMBERS (it sits in THIS WEEK ECONOMY)"
   },
   {
-   "box": 156,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 157,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 158,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 159,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 160,
-   "in": 140,
-   "why": "Carbon Market Expansion text continued on p9, read after the later item NUMBERS #142 (replaces the round-5 break before #154 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 175,
-   "in": 142,
-   "why": "NUMBERS FDI chart continued from p8, read after the later item Rural Banks #169 (replaces the round-5 break before #175 that sent it to THIS WEEK ECONOMY)"
-  },
-  {
-   "box": 176,
-   "in": 142,
-   "why": "NUMBERS FDI chart continued from p8, read after the later item Rural Banks #169 (replaces the round-5 break before #175 that sent it to THIS WEEK ECONOMY)"
+   "before": 175,
+   "closes": 169,
+   "why": "Rural Banks item ends; the NUMBERS FDI chart continued from p8 follows, not about Rural Banks (it sits in THIS WEEK ECONOMY)"
   }
  ]
 }

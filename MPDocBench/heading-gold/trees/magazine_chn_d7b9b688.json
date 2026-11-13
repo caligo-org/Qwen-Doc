@@ -27,8 +27,7 @@
    "level": 2,
    "parent": 2,
    "text": "定坝“神针”53载搏风击浪：浩浩南水，汤汤北上",
-   "why": "consistency: story headline, L3 directly under the masthead: its section 中国力量 is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #20 starts: #47 (the story opening photo printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels",
-   "starts": 47
+   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录"
   },
   {
    "boxes": [
@@ -37,7 +36,7 @@
    "level": 3,
    "parent": 48,
    "text": "奋斗青春：搏风击浪汉江畔",
-   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+   "why": "in-story subhead with its block"
   },
   {
    "boxes": [
@@ -46,7 +45,7 @@
    "level": 3,
    "parent": 48,
    "text": "定坝“神针”：临近退休再担重任",
-   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+   "why": "in-story subhead with its block"
   },
   {
    "boxes": [
@@ -55,45 +54,34 @@
    "level": 3,
    "parent": 48,
    "text": "余热生辉：割舍不掉的“水利”情",
-   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
-  },
-  {
-   "boxes": [
-    132
-   ],
-   "level": 2,
-   "parent": 2,
-   "text": "本刊视点",
-   "starts": 121,
-   "why": "consistency: running section tag 本刊视点 starts a section (NOTATIONS newspaper / magazine: section tag = L2; contents: 本刊视点 › 长久的婚姻 p8). The tag is first printed on p9, after the feature opener on p8, so starts: #121 (the feature opening photo) puts the opener in its section; listed before the feature so the path reads 知音 › 本刊视点 › feature"
+   "why": "in-story subhead with its block"
   },
   {
    "boxes": [
     122
    ],
-   "level": 3,
-   "parent": 132,
+   "level": 2,
+   "parent": 2,
    "text": "长久的婚姻，都是势均力敌",
-   "why": "consistency: feature headline (laid out as a figure) under its running section tag 本刊视点 (#132, printed on p9); the contents lists it as the 本刊视点 feature (p8, next entry p17), so the case stories on the following pages belong to it; its opening photo #121 starts the tag section (starts moved to #132)"
+   "why": "feature headline (laid out as a figure) in the section slot: the contents lists it as the 本刊视点 feature (p8, next entry p17), so the case stories on the following pages belong to it"
   },
   {
    "boxes": [
     136
    ],
-   "level": 4,
+   "level": 3,
    "parent": 122,
    "text": "作精遇到“程序猿”，一场大病复活爱",
-   "why": "case story headline inside the 长久的婚姻 feature (contents lists the feature only, p8-16); breadcrumb 知音 › 本刊视点 › 长久的婚姻… › case starts: #133 (the illustration #133 and standfirst #134/#135 printed above the headline) (consistency: shifted with the feature to L4)",
-   "starts": 133
+   "why": "case story headline inside the 长久的婚姻 feature (contents lists the feature only, p8-16); breadcrumb 知音 › 长久的婚姻… › case"
   },
   {
    "boxes": [
     138
    ],
-   "level": 5,
+   "level": 4,
    "parent": 136,
    "text": "苦恼婚姻：作精遇到“程序猿”",
-   "why": "in-story subhead with its block (consistency: shifted with its story to L5)"
+   "why": "in-story subhead with its block"
   }
  ],
  "repeats": [],
@@ -107,7 +95,12 @@
    "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "considered": [],
+ "considered": [
+  {
+   "box": 132,
+   "why": "section tag 本刊视点 first printed on p9, after the opener of the same feature 长久的婚姻… (contents: 本刊视点 › 长久的婚姻 p8); the feature holds the L2 slot (magazine rule)"
+  }
+ ],
  "breaks": [
   {
    "before": 20,

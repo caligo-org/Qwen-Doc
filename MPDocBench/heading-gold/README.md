@@ -28,8 +28,8 @@ annotated as the child of the original.
 - **Breaks:** where a section ends without a new printed heading (a label's block ends and the main text resumes, a
   story ends before an ad, a list ends before a closing paragraph about the whole list), a break closes it and the
   content after it belongs to the parent. Breaks change where content sits, never the heading tree; they are annotated
-  for later use and not scored. Where the layout's reading order misplaces content, `starts` (a section that begins
-  before its heading's box) and `places` (a box assigned to its section) fix it; same status as breaks.
+  for later use and not scored. The reader's reading order is never corrected: content stays where the layout's
+  reading order puts it.
 - **Decisions on doubtful kinds** (all in `NOTATIONS.md`): repeated own-line labels with their own block are headings;
   interview questions with an answer are headings; exam questions are text; national-standard term entries are
   headings; a closing paragraph after a numbered list stays under the last item instead of dropping the list.
@@ -39,7 +39,7 @@ annotated as the child of the original.
 | Path | What |
 |---|---|
 | `NOTATIONS.md` | The notation and every decision. |
-| `trees/<doc>.json` | The gold, schema v3 (`tools/tree.py`): `nodes` (`boxes` = the union, level, parent, text, `why`, optional `continues`), `repeats` (`boxes`, `of`, `why`), `breaks` (`before`, `closes`, `why`), node `starts`, `places` (`box`, `in`, `why`), `not_headings` and `considered` (text, with `why`). Every entry carries its reason. |
+| `trees/<doc>.json` | The gold, schema v3 (`tools/tree.py`): `nodes` (`boxes` = the union, level, parent, text, `why`, optional `continues`), `repeats` (`boxes`, `of`, `why`), `breaks` (`before`, `closes`, `why`), `not_headings` and `considered` (text, with `why`). Every entry carries its reason. |
 | `MPDocBench.roletrees.json` | `MPDocBench.json` with the trees written in: each node's first box becomes the title with the node text and the union's box; other union boxes, repeats and text decisions become text blocks; title relations are the tree's parents. Built by `to_mpdocbench.py`. |
 | `to_mpdocbench.py` | Builds `MPDocBench.roletrees.json` from `../MPDocBench.json` and `trees/` (validates every tree first). |
 | `score_tree.py` | Scores explicit trees (`{doc: [{id, text, parent, boxes?, continues?} \| {id, text, repeat_of}]}`): Heading TEDS on the tree without Markdown flattening, plus precision/recall of unions, repeats and `continues`. |
@@ -48,7 +48,6 @@ annotated as the child of the original.
 | `tools/breadcrumbs.py` | Prints every breadcrumb of a tree and flags paths that look inconsistent (numbering that does not nest, siblings out of order, a heading repeating its ancestor, front matter under a body section, several roots). |
 | `tools/listing.py`, `tools/show.py`, `tools/suggest_repeats.py`, `tools/coverage.py` | Review tools: element listing, page renders with every box labelled (`MPDOCBENCH_PAGES` = folder of `<doc>/page_<n>.jpg`), repeat candidates, pages not yet reviewed. |
 | `path_review/<type>.tsv`, `break_review/<type>.tsv`, `logo_owner.tsv` | Round 4: a verdict for every node, checked on its page. Round 5: every break and restored heading, and a line for every document checked without one. Owner-logo pass: one line per report-type document. `tools/path_coverage.py` checks that every node has a verdict. |
-| `starts_review/*.tsv` | Round 6: section starts, caption-only photo items made text, and placed boxes (`places.tsv`); every page viewed, one line per document. |
 | `final_paths/*.tsv` | Final independent check of the finished trees: one fresh reviewer per document type viewed every page and gave every node a verdict (5,697 OK, 11 fixed, 4 added, 2 removed). |
 | `final_check/*.tsv` | Independent final check on the page of every round-5 change: 92 changed nodes (restored headings, owner-logo titles) and all breaks. |
 | `ACCEPTED_FLAGS.json` | Checker flags reviewed on the page, by kind, with the reason each flagged path is consistent. |
@@ -58,8 +57,8 @@ annotated as the child of the original.
 
 Every document was annotated from scratch by one reviewer per document type, then reviewed four more times: two
 breadcrumb rounds, a round that checked every node's path on its rendered page (round 4), and a break round that went
-through every page again (round 5), an independent check of every round-5 change, and a reading-order round that
-viewed every page again (round 6), then a final independent check of every path in the finished trees. Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
+through every page again (round 5), an independent check of every round-5 change, and a final independent check of
+every path in the finished trees. Remaining checker flags are cases the documents print themselves (two consecutive "1.3" slides,
 a list numbered inside a section, titleless excerpts with several top-level sections); each is logged as ACCEPTED with
 its reason in `learnings/`.
 
@@ -70,14 +69,14 @@ its reason in `learnings/`.
 | Headings | 6,309 titles | 5,712 nodes |
 | Multi-box headings (unions) | — | 309 |
 | Repeats / continuations | — | 1,212 / 56 |
-| Breaks / section starts / places | — | 324 / 160 / 61 |
+| Breaks | — | 338 |
 | Titles with no relation | 21 | 0 |
 | Parents not expressible as Markdown levels | 116 | 0 |
 
 - Every tree, written as Markdown with its levels, scores exactly 1.0 against `MPDocBench.roletrees.json` with the
   unchanged Heading TEDS. Fed back as explicit trees, `score_tree.py` gives TEDS 100.00 and all unions, repeats and
   continuations correct.
-- A stored third-party parser output (uocr2) moves from 60.12 to 59.04 Heading TEDS (held-out half 60.58 → 58.53),
+- A stored third-party parser output (uocr2) moves from 60.12 to 59.05 Heading TEDS (held-out half 60.58 → 58.53),
   scored with the Markdown-expressible gold tree of caligo-org/Qwen-Doc#17.
 
 ## Use

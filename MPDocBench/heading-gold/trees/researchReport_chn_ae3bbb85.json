@@ -11,8 +11,7 @@
    "level": 1,
    "parent": "root",
    "text": "德邦证券 万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
-   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (德邦证券) joins the union after the title box. starts: the cover sidebar (#3-#17: sector, rating, analysts, chart, related reports) is printed beside the title but comes before it in reading order.",
-   "starts": 3
+   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (德邦证券) joins the union after the title box. starts: the cover sidebar (#3-#17: sector, rating, analysts, chart, related reports) is printed beside the title but comes before it in reading order."
   },
   {
    "boxes": [
