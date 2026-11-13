@@ -72,10 +72,10 @@
    "boxes": [
     110
    ],
-   "level": 4,
-   "parent": 73,
+   "level": 3,
+   "parent": 68,
    "text": "Vehicle explosion kills 8 Israeli soldiers, official says",
-   "why": "story headline | final: boxed story set inside the Gaza story (#73), which resumes after it (#124-#134): a box with its own title, one level below the story it sits in; the break before #124 closes it so the Gaza text returns to #73"
+   "why": "story headline | final r6 check: boxed wire story (8 Israeli soldiers killed in a Rafah vehicle explosion) set inside the Gaza story; it is a separate news story, not about criticism of Hamas, so \"In Gaza, criticism of Hamas is growing › Vehicle explosion…\" is no breadcrumb: a story of The World (L3). The Gaza story's fourth column (#124-#134) stays with #73 through places"
   },
   {
    "boxes": [

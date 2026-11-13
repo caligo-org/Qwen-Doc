@@ -1,0 +1,223 @@
+doc	kind	node	box	verdict	note
+annualReport_chn_b20666fd	STARTS	4	3	OK	document number 2020-021 printed under the cover title; cover text of L1
+annualReport_eng_5a2b9698	PLACE	57	45	OK	paragraph printed under Principal Activities (p4) describes what the Operating and Financial Review (p5) is and how to read it; it is about #57, not about principal activities
+book_eng_82b4201c	STARTS	21	20	OK	chapter icon set left of the chapter title I. Overview of Photoshop
+book_eng_82b4201c	STARTS	40	39	OK	chapter icon set left of chapter title II
+book_eng_82b4201c	STARTS	130	129	OK	chapter icon set left of chapter title III
+book_eng_82b4201c	STARTS	242	241	OK	chapter icon set left of chapter title IV
+book_eng_c5211a9e	STARTS	5	4	OK	chapter-opener photo above the chapter title
+book_eng_c5211a9e	STARTS	50	49	OK	section-opener photo above the section title
+book_eng_c5211a9e	STARTS	63	62	OK	section-opener photo above the section title
+book_eng_c5211a9e	STARTS	94	93	OK	section-opener photo above the section title
+book_eng_c5211a9e	STARTS	156	155	OK	section-opener photo above the section title
+goverment_eng_10e7766e	STARTS	8	1	OK	left sidebar (centre name, date, Inside this issue list, quote, clipart) is newsletter front matter set beside the masthead
+handwritten_chn_92741860	STARTS	6	1	OK	photos p1-p2 are the later pages of the same essay (p2 ends 奋斗传承经典·筑梦未来); title printed on p3
+handwritten_chn_eac3f5a2	STARTS	2	1	OK	[中心思想] note (summary of the lesson) printed top left beside the lesson title
+magazine_chn_3b0b9920	STARTS	45	40	OK	the start box is the running head (repeat of L1) printed before the poem; the poem 惊异 is a child of the side banner 一滴墨香, whose box the reading order puts last
+magazine_chn_3b0b9920	STARTS	76	75	OK	story photo (cow before/after zebra stripes) above its headline
+magazine_chn_5997ac40	STARTS	39	30	OK	same layout: running head, poem 荆棘上的雨滴 (child), side banner 一滴墨香 read last
+magazine_chn_5b74dff1	STARTS	49	48	OK	story photos (dam workers) above the feature headline
+magazine_chn_90f6827e	STARTS	36	30	OK	same layout: running head, poem 界限 (child), side banner 一滴墨香 read last
+magazine_chn_90f6827e	STARTS	67	66	OK	story photo (arrest) above its headline
+magazine_chn_90f6827e	STARTS	117	116	OK	headline printed on the lead photo of 陈道明; photo is the story art
+magazine_chn_b3948362	STARTS	47	46	OK	section-opener photo (high-speed train) above the section title 中国速度
+magazine_chn_b3948362	STARTS	60	59	OK	story photos (train drivers) above the feature headline
+magazine_chn_c1e72d14	STARTS	53	50	OK	story photos and the standfirst above the feature headline
+magazine_chn_c1e72d14	STARTS	135	132	OK	story photos (mother and son) above the vertical headline
+magazine_chn_d7b9b688	STARTS	48	47	OK	story photo (杨小云 at the dam) above the feature headline
+magazine_chn_d7b9b688	STARTS	122	121	OK	story photo (holding hands) above the feature headline
+magazine_chn_d7b9b688	STARTS	136	133	OK	story illustration and standfirst above the story headline
+magazine_chn_f13451d6	STARTS	87	86	OK	clip-art printed left of the jokes column label ·笑话·
+magazine_eng_22066f34	STARTS	287	286	OK	kicker banner OUT AND ABOUT above the headline
+magazine_eng_22066f34	STARTS	324	323	OK	kicker banner BUY THE BOOK above the headline
+magazine_eng_22066f34	STARTS	329	328	OK	kicker banner PRIZE DRAW ANNOUNCEMENT above the headline
+magazine_eng_22066f34	STARTS	338	336	OK	kicker SEAL of approval and the lead photo above the feature headline printed on it
+magazine_eng_2b291ce7	STARTS	14	13	OK	photo at the top of the contents page above CONTENTS
+magazine_eng_2b291ce7	STARTS	220	219	OK	cover image of the quoted magazine heads the boxed press item Sports Mean Business
+magazine_eng_2b291ce7	STARTS	254	253	OK	cover-story opening photo above the COVER STORY label and headline
+magazine_eng_2b291ce7	PLACE	140	154	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	155	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	156	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	157	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	158	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	159	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	140	160	OK	p9 first column(s) continue Carbon Market Expansion from p8 (text runs on: ...according / to the Ministry of Ecology and Environment), up to Installed Power Capacity
+magazine_eng_2b291ce7	PLACE	142	175	OK	bottom band of p9 continues the NUMBERS FDI panel from p8 (FDI in the Chinese mainland into...)
+magazine_eng_2b291ce7	PLACE	142	176	OK	FDI pictogram chart, part of the NUMBERS panel continued on p9
+magazine_eng_571b7df5	STARTS	38	37	OK	tester portrait printed left of the tester name and bio
+magazine_eng_571b7df5	STARTS	41	40	OK	tester portrait printed left of the tester name and bio
+magazine_eng_571b7df5	STARTS	44	43	OK	tester portrait printed left of the tester name and bio
+magazine_eng_571b7df5	STARTS	47	46	OK	tester portrait printed left of the tester name and bio
+magazine_eng_757ea556	STARTS	80	79	OK	columnist photo above the column title In Good Faith
+magazine_eng_86eb2981	STARTS	142	139	OK	three teaser photos numbered 52/38/60 illustrate the feature list under features
+magazine_eng_86eb2981	STARTS	172	170	OK	video icon + VIDEO kicker above the item title
+magazine_eng_86eb2981	STARTS	177	175	OK	video icon + VIDEO kicker above the item title
+magazine_eng_86eb2981	STARTS	181	179	OK	video icon + VIDEO kicker above the item title
+magazine_eng_86eb2981	STARTS	186	184	OK	video icon + VIDEO kicker above the item title
+magazine_eng_86eb2981	STARTS	191	188	OK	SawStop fence photo (arrow points to the item) + video icon + VIDEO kicker before Fresh fence
+magazine_eng_86eb2981	STARTS	195	193	OK	video icon + VIDEO WORKSHOP kicker above the item title
+magazine_eng_86eb2981	STARTS	203	202	OK	plans booklet image set left of the FREE PLANS item
+magazine_eng_a217be3f	STARTS	65	63	OK	contributor portrait + its vertical credit EVA NEMETH (right edge of the photo) above the name
+magazine_eng_a217be3f	STARTS	68	67	OK	contributor portrait above the name
+magazine_eng_a217be3f	STARTS	72	70	OK	contributor portrait + its vertical credit JONATHAN BUCKLEY above the name
+magazine_eng_b2553d3f	STARTS	9	8	OK	portrait of the photographer above her name
+magazine_eng_d9bbdc7a	STARTS	50	49	OK	vertical photo credit Photos: Alamy, ITV of the Korea story photos, read before the headline
+magazine_eng_d9bbdc7a	PLACE	37	30	OK	round teaser photo Cool Yule: Christmas With The Greens set above the Inside list, which lists that programme (p13)
+magazine_eng_fe444622	STARTS	41	40	OK	photo at the top of the contents page above CONTENTS
+manualGuide_eng_3135929d	STARTS	34	33	OK	paragraph on tilting ink bottles / optimised 45° refilling angle printed top right, read before the User-Friendly Refill Experience heading; it is about that section
+manualGuide_eng_3135929d	STARTS	44	43	OK	ipm icons above Print Speed in the blue features panel
+manualGuide_eng_3135929d	STARTS	48	47	OK	wifi icon above Wireless
+manualGuide_eng_3135929d	STARTS	51	50	OK	phone icon above Mobile Printing
+manualGuide_eng_3135929d	PLACE	11	20	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_3135929d	PLACE	11	21	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_3135929d	PLACE	11	22	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_3135929d	PLACE	11	23	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_3135929d	PLACE	11	24	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_3135929d	PLACE	11	25	OK	step panels 1-3 (photo + caption) inside the Refilling is so easy box, read after Exceedingly Affordable
+manualGuide_eng_8d2c3220	STARTS	8	6	OK	declaration form header: KRONE logo and Wij (first word of the declaration) printed beside its title
+manualGuide_eng_a2fab9df	STARTS	13	12	OK	LEGO photo set left of the section title and its text on the same spread
+newspaper_chn_11ae9c36	STARTS	94	65	OK	first column (#65-#68) is the lead of 情牵人民 春暖中国; the banner headline is read after it, before 镜头一
+newspaper_chn_43c21ee3	STARTS	43	41	OK	column label 经济论坛 and byline □金观平 above the commentary headline
+newspaper_chn_43c21ee3	STARTS	57	56	OK	lead-in kicker 首个国家层面规范性文件出台—— above the headline
+newspaper_chn_43c21ee3	STARTS	88	87	OK	red kicker 学习贯彻党的二十届四中全会精神 above the two-line headline
+newspaper_chn_43c21ee3	STARTS	98	96	OK	column kicker 四中全会精神在基层 + byline above the headline
+newspaper_chn_4f3edefe	STARTS	34	32	OK	column label 经济论坛 + byline above the commentary headline
+newspaper_chn_4f3edefe	STARTS	44	43	OK	lead-in kicker 提前研判困难，紧抓燃料调度—— above the headline
+newspaper_chn_4f3edefe	STARTS	55	54	OK	lead-in kicker 前10个月…—— above the headline
+newspaper_chn_4f3edefe	STARTS	145	144	OK	column label 金视角 beside the vertical commentary headline
+newspaper_chn_4f3edefe	STARTS	160	159	OK	lead-in kicker 畅通循环、优化服务—— above the headline
+newspaper_chn_4f3edefe	STARTS	185	184	OK	series label 文体市场面面观 beside the vertical headline
+newspaper_chn_4f3edefe	STARTS	203	202	OK	series label 直击十五运会 beside the vertical headline
+newspaper_chn_4f3edefe	STARTS	219	217	OK	series kicker 学习贯彻…·权威访谈 + byline above the interview headline
+newspaper_chn_4f3edefe	STARTS	275	274	OK	column label 外企新语 beside the vertical commentary headline
+newspaper_chn_4f3edefe	STARTS	321	320	OK	column label 每周经济观察 above the headline
+newspaper_chn_4f3edefe	STARTS	358	356	OK	cartoon about 数据美容 + credit above the commentary 发展数据岂容美颜
+newspaper_chn_4f3edefe	STARTS	361	360	OK	column label 洞见 beside the vertical headline
+newspaper_chn_4f3edefe	STARTS	391	389	OK	series label 各地新亮点 + byline above the headline
+newspaper_chn_4f3edefe	STARTS	419	418	OK	column label 记者来信 beside the vertical headline
+newspaper_chn_4f3edefe	STARTS	441	440	OK	series label 共富路上·乡村创变 above the headline
+newspaper_chn_4f3edefe	STARTS	458	457	OK	column label 忠阳车评 above the headline
+newspaper_chn_4f3edefe	STARTS	504	502	OK	story photo + caption (青岛榕信 workshop) above the story and its vertical headline
+newspaper_chn_4f3edefe	PLACE	275	284	OK	QR code inside the 外企新语 column frame, column text wraps around it, above the rule closing the column
+newspaper_chn_4f3edefe	PLACE	275	285	OK	QR caption 视频报道请扫二维码 of that QR code, inside the column frame
+newspaper_chn_adf00537	STARTS	34	33	OK	series banner 新时代 新征程 新伟业 above the headline
+newspaper_chn_adf00537	STARTS	67	66	OK	series banner 强农开新局 奋力夺丰收 三夏进行时 above the headline
+newspaper_chn_ccf4163f	STARTS	36	35	OK	series banner 学习贯彻…主题教育 学思想 强党性 重实践 建新功 above the headline, inside the story frame
+newspaper_chn_ccf4163f	STARTS	68	67	OK	series banner 强农开新局 奋力夺丰收 记者田头看夏收 above the headline
+newspaper_chn_e542162c	STARTS	19	18	OK	column label 经济论坛 beside the vertical commentary headline
+newspaper_chn_e542162c	STARTS	55	54	OK	byline 本报记者 敖蓉 inside the headline frame, read before the headline box
+newspaper_chn_e542162c	STARTS	79	78	OK	byline 本报记者 代玲 inside the headline frame
+newspaper_chn_e542162c	STARTS	125	124	OK	series label 四中全会精神在基层 above the headline
+newspaper_chn_e542162c	STARTS	166	165	OK	byline 本报记者 郭静原 inside the headline frame
+newspaper_chn_e542162c	STARTS	314	313	OK	bylines inside the headline frame of 秋播虽延后
+newspaper_chn_e542162c	STARTS	375	374	OK	byline 本报记者 余健 inside the headline frame
+newspaper_chn_e542162c	STARTS	404	403	OK	port/ship illustration above the commentary on port efficiency
+newspaper_chn_e542162c	STARTS	511	510	OK	column label 香江观察 beside the vertical headline
+newspaper_chn_e542162c	STARTS	556	555	OK	column label 非遗焕新 above the headline
+newspaper_chn_e542162c	STARTS	616	615	OK	column label 速写 beside the vertical headline
+newspaper_chn_e542162c	STARTS	633	632	OK	column label 文旅新意 above the headline
+newspaper_chn_e542162c	STARTS	664	663	OK	column label 市场瞭望 beside the vertical headline
+newspaper_chn_e542162c	PLACE	442	508	OK	Ferris-wheel photo top right; its caption is about Qianhai admitting Hong Kong/Macao professionals, the topic of the Shenzhen-Hong Kong story
+newspaper_chn_e542162c	PLACE	442	509	OK	caption of that photo (前海…26类港澳专业人士…欢乐港湾)
+newspaper_chn_e542162c	PLACE	556	614	OK	image credit (图片来源：视觉中国AI) printed on the river illustration that backs the 筏子客 story
+newspaper_chn_e73ccfbf	STARTS	38	37	OK	lead-in kicker 提振信心 加大供给 创新场景 above the headline
+newspaper_chn_e73ccfbf	STARTS	159	158	OK	photo of a woman holding the rabbit-year stamps, left of the stamp story
+newspaper_chn_eb87830d	STARTS	36	35	OK	red kicker 学习贯彻党的二十届四中全会精神 above the headline
+newspaper_eng_105ddbb0	STARTS	25	24	OK	migrant map graphic above the story headline
+newspaper_eng_105ddbb0	STARTS	149	146	OK	lead photo + credit + caption (Supreme Court protest) above the story headline
+newspaper_eng_105ddbb0	PLACE	679	692	OK	What they ruled / Why it matters blocks printed under the Trump-immunity case in the left column
+newspaper_eng_105ddbb0	PLACE	679	693	OK	What they ruled / Why it matters blocks printed under the Trump-immunity case in the left column
+newspaper_eng_105ddbb0	PLACE	696	708	OK	ruling blocks printed under the Jan. 6 obstruction case in the left column
+newspaper_eng_105ddbb0	PLACE	696	709	OK	ruling blocks printed under the Jan. 6 obstruction case in the left column
+newspaper_eng_105ddbb0	PLACE	696	710	OK	ruling blocks printed under the Jan. 6 obstruction case in the left column
+newspaper_eng_105ddbb0	PLACE	713	725	OK	ruling blocks printed under the homeless-encampments case in the left column
+newspaper_eng_105ddbb0	PLACE	713	726	OK	ruling blocks printed under the homeless-encampments case in the left column
+newspaper_eng_105ddbb0	PLACE	727	739	OK	ruling blocks printed under the SEC tribunals case in the left column
+newspaper_eng_105ddbb0	PLACE	727	740	OK	ruling blocks printed under the SEC tribunals case in the left column
+newspaper_eng_105ddbb0	PLACE	743	755	OK	ruling blocks printed under the downwind-pollution case in the left column
+newspaper_eng_105ddbb0	PLACE	743	756	OK	ruling blocks printed under the downwind-pollution case in the left column
+newspaper_eng_105ddbb0	PLACE	719	757	OK	note + ruling blocks printed under the emergency-room-abortions case in the right column
+newspaper_eng_105ddbb0	PLACE	719	758	OK	note + ruling blocks printed under the emergency-room-abortions case in the right column
+newspaper_eng_105ddbb0	PLACE	719	759	OK	note + ruling blocks printed under the emergency-room-abortions case in the right column
+newspaper_eng_1153fb03	STARTS	20	15	OK	pull quote + attribution, photo, credit and caption (Elizabeth Freeman grave) set above the story headline
+newspaper_eng_1153fb03	STARTS	260	259	OK	kicker BITTERSWEET MOMENT above the headline
+newspaper_eng_1153fb03	STARTS	288	287	OK	kicker CLOSE CONNECTION above the headline
+newspaper_eng_1153fb03	STARTS	318	317	OK	kicker FASHION AND A STATEMENT above the headline
+newspaper_eng_ad370234	STARTS	6	1	OK	skybox teasers above the masthead are front-page matter of the paper (L1)
+newspaper_eng_ad370234	STARTS	14	13	OK	kicker MILWAUKEE SHOOTING above the headline
+newspaper_eng_ad370234	STARTS	33	31	OK	lead photo + caption (mourners for Corey Comperatore) above the headline
+newspaper_eng_ad370234	PLACE	237	259	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_ad370234	PLACE	237	260	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_ad370234	PLACE	237	261	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_ad370234	PLACE	237	262	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_ad370234	PLACE	237	263	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_ad370234	PLACE	237	264	OK	story art (three photos with captions, Freedom Summer 60 conference) printed under the headline across the story, read after subhead Saluting the power; belongs to the story, not the subhead
+newspaper_eng_b5e01773	STARTS	5	4	OK	lead photo (moped rider by the Old State House) above the delivery-moped story headline
+newspaper_eng_b5e01773	STARTS	49	47	OK	pull quote + attribution (Hunter's mother) above the headline
+newspaper_eng_b5e01773	STARTS	73	71	OK	pull quote + attribution (resident of Gaza) above the headline
+newspaper_eng_b5e01773	STARTS	214	211	OK	photo of the plane Kaleva + credit + caption above the story headline
+newspaper_eng_b5e01773	PLACE	73	124	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	125	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	126	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	127	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	128	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	129	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	130	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	131	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	132	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	133	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b5e01773	PLACE	73	134	OK	fourth column (#124-#134, quotes of Gazans against Hamas) continues the Gaza story beside the boxed story #110 and above THE WORLD TODAY
+newspaper_eng_b6de1de8	STARTS	2	1	OK	cover skybox (Britain radioactive chapati scandal / Interview De La Soul) set in the masthead; front-page matter of L1
+newspaper_eng_b6de1de8	STARTS	59	58	OK	numbered locator label 1 EUROPE above the brief headline
+newspaper_eng_b6de1de8	STARTS	67	65	OK	locator label 2 GERMANY + photo (memorial teddy bear) above the brief headline
+newspaper_eng_b6de1de8	STARTS	72	71	OK	locator label 3 UNITED STATES above the brief headline
+newspaper_eng_b6de1de8	STARTS	78	77	OK	numbered locator label 4 AUSTRIA above the brief headline
+newspaper_eng_b6de1de8	STARTS	84	83	OK	numbered locator label 5 VATICAN CITY above the brief headline
+newspaper_eng_b6de1de8	STARTS	91	90	OK	numbered locator label 6 CANADA above the brief headline
+newspaper_eng_b6de1de8	STARTS	97	95	OK	numbered locator label 7 BRAZIL (+ barge photo) above the brief headline
+newspaper_eng_b6de1de8	STARTS	101	100	OK	numbered locator label 9 FRANCE above the brief headline
+newspaper_eng_b6de1de8	STARTS	106	105	OK	numbered locator label 8 ENVIRONMENT above the brief headline
+newspaper_eng_b6de1de8	STARTS	111	109	OK	numbered locator label 10 CULTURE (+ Bafta photo) above the brief headline
+newspaper_eng_b6de1de8	STARTS	117	116	OK	numbered locator label 11 MALI above the brief headline
+newspaper_eng_b6de1de8	STARTS	123	121	OK	numbered locator label 13 DR CONGO (+ M23 photo) above the brief headline
+newspaper_eng_b6de1de8	STARTS	128	127	OK	numbered locator label 12 SOUTH AFRICA above the brief headline
+newspaper_eng_b6de1de8	STARTS	133	132	OK	numbered locator label 14 SUDAN above the brief headline
+newspaper_eng_c21bfc8c	STARTS	5	1	OK	skybox teasers above the masthead are front-page matter of L1
+newspaper_eng_c21bfc8c	STARTS	19	17	OK	protest photo + caption (students against Israel) above the Colleges divesting headline
+newspaper_eng_c21bfc8c	STARTS	72	70	OK	photo + caption (visitors to Hope, Alaska) above the jump head Hope of the optimism story
+newspaper_eng_c21bfc8c	STARTS	269	267	OK	tent-encampment photo + caption above the jump head Colleges
+newspaper_eng_c21bfc8c	STARTS	305	302	OK	feature banner Just Curious + its QR code above the headline of this Just Curious item
+newspaper_eng_daf7a3e4	STARTS	618	617	OK	columnist name JOAN VENNOCHI above the column headline
+newspaper_eng_daf7a3e4	STARTS	772	771	OK	columnist name Yvonne Abraham above the column headline
+newspaper_eng_e4dd9616	STARTS	6	1	OK	skybox teasers and the blue-dot logo above/beside the masthead are front-page matter of L1
+newspaper_eng_e4dd9616	STARTS	13	12	OK	kicker REPUBLICAN NATIONAL CONVENTION above the headline
+newspaper_eng_e4dd9616	STARTS	228	227	OK	label PAID ADVERTISEMENT inside the advertorial frame, above its headline
+newspaper_eng_ed12985c	STARTS	6	1	OK	skybox teasers and the blue-dot logo above/beside the masthead are front-page matter of L1
+newspaper_eng_ed12985c	STARTS	14	12	OK	columnist photo + byline (Susan Page) above the analysis headline
+paper_eng_369ef675	STARTS	12	3	OK	article metadata sidebar (Check for updates, Open Access, affiliation, DOI, citation, history) and Article Type line are front matter of the paper (L1)
+pptSlides_chn_0616b8b7	STARTS	17	16	OK	agenda divider slide: reprinted 目录 label belongs to the divider whose node is the highlighted entry 01
+pptSlides_chn_746216ac	STARTS	21	20	OK	label 社会 printed at the bottom of its box; the box text #20 above it is its content
+pptSlides_chn_746216ac	STARTS	25	24	OK	label 技术 printed at the bottom of its box; the box text #24 above it is its content
+pptSlides_chn_b30fedce	STARTS	23	22	OK	coffee photo on the Part 01 养生咖啡 divider slide
+pptSlides_chn_b30fedce	STARTS	81	80	OK	dog photo on the Part 02 宠物户外装备 divider slide
+pptSlides_chn_d81f00a8	STARTS	21	20	OK	agenda divider slide: reprinted 目录 label belongs to the divider whose node is the highlighted entry 02
+pptSlides_eng_312b78ba	STARTS	164	163	OK	division product image above the division label and its brand list
+pptSlides_eng_312b78ba	STARTS	167	166	OK	division product image above the division label and its brand list
+pptSlides_eng_312b78ba	STARTS	170	169	OK	division product image above the division label and its brand list
+pptSlides_eng_312b78ba	STARTS	173	172	OK	division product image above the division label and its brand list
+researchReport_chn_17cde74d	STARTS	8	6	OK	cover analyst block (研究所, 证券分析师 contact) printed above-left of the report title; L1 front matter
+researchReport_chn_25d1b14f	STARTS	16	6	OK	cover sidebar (sector, date, rating, trend chart, 相关研究报告 list) read before the report title; L1 front matter
+researchReport_chn_641838eb	STARTS	16	3	OK	cover sidebar (行业月度报告, date, rating, chart, analysts, 相关报告) read before the report title; L1 front matter
+researchReport_chn_ae3bbb85	STARTS	18	3	OK	cover sidebar (sector, rating, analysts, chart, 相关研究 list) read before the report title; L1 front matter
+researchReport_chn_dd0407a2	STARTS	2	1	OK	rating block 增持——维持, date and logo read before the cover title boxes; L1 front matter
+researchReport_eng_b3735ab5	STARTS	4	3	OK	issue line Special Issue | date | GLOBAL MACRO RESEARCH printed beside the cover title; L1 front matter
+textBook_chn_fdc97197	STARTS	64	63	OK	chapter-opener photo above the chapter title
+newspaper_chn_adf00537	CAPTION_TEXT	103	103	OK	photo news item: title, two caption paragraphs ending 范亚旭 摄, wheat-field photo; no story text; break before #103 closes the story above so the item sits under 综合新闻
+newspaper_chn_eb87830d	CAPTION_TEXT	268	268	OK	photo news item: title, caption + credit 滕治中摄, factory photo; no story text; break before photo #267 puts the item under the section
+magazine_eng_2b291ce7	CAPTION_TEXT	57	57	OK	photo item: spaceship photo, title, one caption paragraph, no story text; sits under THIS WEEK
+magazine_eng_2b291ce7	CAPTION_TEXT	64	64	OK	photo item: aircraft photo, title, one caption; sits under SOCIETY before Domestic Violence
+magazine_eng_2b291ce7	CAPTION_TEXT	105	105	OK	photo item: flower-worker photo, title, one caption, set inside College Graduates whose text continues at #107 (no break by rule)
+magazine_eng_2b291ce7	CAPTION_TEXT	113	113	OK	photo item: pupils photo, title, one caption; break before #112 closes College Graduates so it sits under SOCIETY
+magazine_eng_7d53ba06	CAPTION_TEXT	23	23	OK	label over the cover thumbnail whose only text is the photo credit; stays in the contents column
+book_eng_77552588	PATH	all KEY POINTS		OK	all 10 KEY POINTS boxes summarise the section they are under (p1 leadership/history/pride under You, your staff…; p2 leadership under 1.2; listening under Listening; common ground under Working with others; consent under Patient consent; burnout factors under Caring for care givers; education skills under 1.4; ways of learning under Planning; records under 1.5; evaluation under 1.6)
+newspaper_eng_b5e01773	PATH	110		FIXED	the boxed story Vehicle explosion kills 8 Israeli soldiers (Rafah) sits inside the Gaza story but is a separate wire story, not about criticism of Hamas; path under #73 was no breadcrumb; now L3 under The World
