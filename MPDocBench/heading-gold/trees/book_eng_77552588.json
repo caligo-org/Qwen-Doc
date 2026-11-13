@@ -1,327 +1,547 @@
 {
  "doc": "book_eng_77552588",
- "notation": "manual chapter: L1 chapter title; L2 numbered sections (1.x banner); L3 uppercase bold heads; mixed-case bold heads one level below the uppercase head they follow (L4), or L3 where the section has no uppercase head. KEY POINTS boxes, pull quotes and epigraph attributions are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Organization and management of the district hospital surgical service"
+   "text": "Organization and management of the district hospital surgical service",
+   "why": "title: chapter title of a book excerpt (book title appears only in even running heads); unit number figure is decoration"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.1 THE DISTRICT HOSPITAL"
+   "text": "1.1 THE DISTRICT HOSPITAL",
+   "why": "section 1.1"
   },
   {
-   "anno": 4,
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box with its own bullet block, one level below its section"
+  },
+  {
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 3,
    "text": "You, your staff, systems and site",
-   "note": "mixed-case bold head (gold missed it); section 1.1 has no uppercase head"
+   "why": "mixed-case bold subhead with its own text (same style as 'Community partners')"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 3,
-   "text": "Community partners"
+   "text": "Community partners",
+   "why": "mixed-case bold subhead in 1.1 (no uppercase level in this section: no skip)"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT"
+   "text": "1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT",
+   "why": "section 1.2"
   },
   {
-   "anno": 41,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 36,
-   "text": "ROLE OF THE LEADER WITHIN A HEALTH CARE TEAM"
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about leadership, belongs to 1.2 (printed beside the 1.2 heading)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 36,
-   "text": "LEADERSHIP STYLES"
+   "text": "ROLE OF THE LEADER WITHIN A HEALTH CARE TEAM",
+   "why": "uppercase subhead of 1.2"
   },
   {
-   "anno": 66,
-   "level": 4,
-   "parent": 64,
-   "text": "Democratic"
-  },
-  {
-   "anno": 68,
-   "level": 4,
-   "parent": 64,
-   "text": "Autocratic"
-  },
-  {
-   "anno": 70,
-   "level": 4,
-   "parent": 64,
-   "text": "Laissez-faire"
-  },
-  {
-   "anno": 72,
-   "level": 4,
-   "parent": 64,
-   "text": "Anarchic"
-  },
-  {
-   "anno": 74,
-   "level": 4,
-   "parent": 64,
-   "text": "Consensus"
-  },
-  {
-   "anno": 76,
-   "level": 4,
-   "parent": 64,
-   "text": "Situational"
-  },
-  {
-   "anno": 79,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 36,
-   "text": "COMMUNICATION"
+   "text": "LEADERSHIP STYLES",
+   "why": "uppercase subhead of 1.2"
   },
   {
-   "anno": 94,
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Democratic",
+   "why": "item label with its own paragraph under LEADERSHIP STYLES"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Autocratic",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Laissez-faire",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Anarchic",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Consensus",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Situational",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "COMMUNICATION",
+   "why": "uppercase subhead of 1.2"
+  },
+  {
+   "boxes": [
+    94
+   ],
    "level": 4,
    "parent": 79,
    "text": "Listening",
-   "note": "mixed-case head after COMMUNICATION"
+   "why": "mixed-case bold subhead one level below the uppercase subhead it follows"
   },
   {
-   "anno": 96,
+   "boxes": [
+    117
+   ],
+   "level": 4,
+   "parent": 79,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about listening"
+  },
+  {
+   "boxes": [
+    96
+   ],
    "level": 3,
    "parent": 36,
-   "text": "WORKING WITH OTHERS"
+   "text": "WORKING WITH OTHERS",
+   "why": "uppercase subhead of 1.2"
   },
   {
-   "anno": 129,
+   "boxes": [
+    120
+   ],
    "level": 4,
    "parent": 96,
-   "text": "Meetings"
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about working with others"
   },
   {
-   "anno": 140,
+   "boxes": [
+    129
+   ],
    "level": 4,
    "parent": 96,
-   "text": "Feedback"
+   "text": "Meetings",
+   "why": "mixed-case bold subhead under WORKING WITH OTHERS"
   },
   {
-   "anno": 149,
+   "boxes": [
+    140
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Feedback",
+   "why": "mixed-case bold subhead under WORKING WITH OTHERS"
+  },
+  {
+   "boxes": [
+    149
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.3 ETHICS"
+   "text": "1.3 ETHICS",
+   "why": "section 1.3"
   },
   {
-   "anno": 152,
+   "boxes": [
+    152
+   ],
    "level": 3,
    "parent": 149,
-   "text": "PATIENT CONSENT"
+   "text": "PATIENT CONSENT",
+   "why": "uppercase subhead"
   },
   {
-   "anno": 172,
+   "boxes": [
+    161
+   ],
+   "level": 4,
+   "parent": 152,
+   "text": "KEY POINT",
+   "why": "box title: KEY POINT box about consent"
+  },
+  {
+   "boxes": [
+    172
+   ],
    "level": 3,
    "parent": 149,
-   "text": "DISCLOSURE"
+   "text": "DISCLOSURE",
+   "why": "uppercase subhead"
   },
   {
-   "anno": 177,
+   "boxes": [
+    177
+   ],
    "level": 3,
    "parent": 149,
-   "text": "CARING FOR CARE GIVERS"
+   "text": "CARING FOR CARE GIVERS",
+   "why": "uppercase subhead"
   },
   {
-   "anno": 182,
+   "boxes": [
+    187
+   ],
+   "level": 4,
+   "parent": 177,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about caring for care givers"
+  },
+  {
+   "boxes": [
+    182
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.4 EDUCATION"
+   "text": "1.4 EDUCATION",
+   "why": "section 1.4"
   },
   {
-   "anno": 184,
+   "boxes": [
+    191
+   ],
    "level": 3,
    "parent": 182,
-   "text": "PLANNING"
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about education, beside the 1.4 heading"
   },
   {
-   "anno": 228,
+   "boxes": [
+    184
+   ],
    "level": 3,
    "parent": 182,
-   "text": "ROUNDS"
+   "text": "PLANNING",
+   "why": "uppercase subhead"
   },
   {
-   "anno": 229,
+   "boxes": [
+    197
+   ],
    "level": 4,
-   "parent": 228,
-   "text": "Morning report"
+   "parent": 184,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about planning education"
   },
   {
-   "anno": 234,
-   "level": 4,
-   "parent": 228,
-   "text": "Bedside teaching rounds"
+   "boxes": [
+    228
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "ROUNDS",
+   "why": "uppercase subhead"
   },
   {
-   "anno": 238,
+   "boxes": [
+    229
+   ],
    "level": 4,
    "parent": 228,
-   "text": "Formal educational rounds"
+   "text": "Morning report",
+   "why": "mixed-case bold subhead under ROUNDS"
   },
   {
-   "anno": 240,
+   "boxes": [
+    234
+   ],
    "level": 4,
    "parent": 228,
-   "text": "Morbidity and mortality meetings"
+   "text": "Bedside teaching rounds",
+   "why": "mixed-case bold subhead under ROUNDS"
   },
   {
-   "anno": 242,
+   "boxes": [
+    238
+   ],
    "level": 4,
    "parent": 228,
-   "text": "Team training in critical care practice"
+   "text": "Formal educational rounds",
+   "why": "mixed-case bold subhead under ROUNDS"
   },
   {
-   "anno": 247,
+   "boxes": [
+    240
+   ],
    "level": 4,
    "parent": 228,
+   "text": "Morbidity and mortality meetings",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Team training in critical care practice",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    247
+   ],
+   "level": 3,
+   "parent": 182,
    "text": "Hospital library",
-   "note": "same look as the other ROUNDS items"
+   "why": "breadcrumb round 3: mixed-case bold head printed after the ROUNDS items, but a library is not a round (ROUNDS lists morning report, bedside, formal, M&M, team training); content beats look: a subsection of 1.4 EDUCATION"
   },
   {
-   "anno": 251,
+   "boxes": [
+    251
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.5 RECORD KEEPING"
+   "text": "1.5 RECORD KEEPING",
+   "why": "section 1.5"
   },
   {
-   "anno": 269,
+   "boxes": [
+    263
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Admission note/preoperative note"
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box of 1.5"
   },
   {
-   "anno": 271,
+   "boxes": [
+    269
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Operating room records"
+   "text": "Admission note/preoperative note",
+   "why": "mixed-case bold subhead in 1.5 (no uppercase level here: no skip)"
   },
   {
-   "anno": 279,
+   "boxes": [
+    271
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Delivery book"
+   "text": "Operating room records",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 281,
+   "boxes": [
+    279
+   ],
    "level": 3,
    "parent": 251,
-   "text": "The operative note"
+   "text": "Delivery book",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 283,
+   "boxes": [
+    281
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Postoperative note"
+   "text": "The operative note",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 294,
+   "boxes": [
+    283
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Discharge note"
+   "text": "Postoperative note",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 299,
+   "boxes": [
+    294
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Standard operating procedures"
+   "text": "Discharge note",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 301,
+   "boxes": [
+    299
+   ],
    "level": 3,
    "parent": 251,
-   "text": "Interhospital communication"
+   "text": "Standard operating procedures",
+   "why": "mixed-case bold subhead in 1.5"
   },
   {
-   "anno": 307,
+   "boxes": [
+    301
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Interhospital communication",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    307
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1.6 EVALUATION"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 17,
-   "note": "KEY POINTS box label"
+   "text": "1.6 EVALUATION",
+   "why": "section 1.6"
   },
   {
-   "anno": 33,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 117,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 120,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 161,
-   "note": "KEY POINT box label"
-  },
-  {
-   "anno": 187,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 191,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 197,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 263,
-   "note": "KEY POINTS box label"
-  },
-  {
-   "anno": 317,
-   "note": "KEY POINTS box label"
+   "boxes": [
+    317
+   ],
+   "level": 3,
+   "parent": 307,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box of 1.6"
   }
  ],
  "repeats": [
   {
-   "anno": 40,
-   "of": 1
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 90,
-   "of": 1
+   "boxes": [
+    90
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 143,
-   "of": 1
+   "boxes": [
+    143
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 176,
-   "of": 1
+   "boxes": [
+    176
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 221,
-   "of": 1
+   "boxes": [
+    221
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 246,
-   "of": 1
+   "boxes": [
+    246
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
   },
   {
-   "anno": 290,
-   "of": 1
+   "boxes": [
+    290
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 24,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 62,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 124,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 164,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 195,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 232,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 267,
+   "why": "even-page running head with the book title, printed nowhere else"
   }
  ]
 }

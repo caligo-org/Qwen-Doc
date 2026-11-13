@@ -1,87 +1,138 @@
 {
  "doc": "textBook_eng_5074afd3",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles; L3 preface subsections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "Introduction to GNU Octave A brief tutorial for linear algebra and calculus students",
-   "note": "cover title + subtitle in one box"
+   "why": "title: book title + subtitle printed in one box"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter: preface title"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 3,
    "parent": 19,
-   "text": "How to use this book"
+   "text": "How to use this book",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 19,
-   "text": "MATLAB"
+   "text": "MATLAB",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 3,
    "parent": 19,
-   "text": "Formatting"
+   "text": "Formatting",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 19,
-   "text": "Feedback"
+   "text": "Feedback",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 19,
-   "text": "Revision history"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 35,
-   "note": "code-listing caption (Octave Script 1: Example)"
+   "text": "Revision history",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 46,
-   "note": "edition label of a revision-history list entry"
+   "boxes": [
+    45,
+    46
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2017 FIRST EDITION",
+   "why": "revision entry: year in the margin + edition label over its own bullet list (own-line label with own block), one level below Revision history"
   },
   {
-   "anno": 49,
-   "note": "edition label of a revision-history list entry"
+   "boxes": [
+    48,
+    49
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2019 SECOND EDITION",
+   "why": "revision entry: year in the margin + edition label over its own bullet list (own-line label with own block), one level below Revision history"
   },
   {
-   "anno": 54,
-   "note": "edition label of a revision-history list entry"
+   "boxes": [
+    53,
+    54
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2020 THIRD EDITION",
+   "why": "revision entry: year in the margin + edition label over its own bullet list (own-line label with own block), one level below Revision history"
   }
  ],
  "repeats": [
   {
-   "anno": 4,
-   "of": 1
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
   },
   {
-   "anno": 17,
-   "of": 14
+   "boxes": [
+    17
+   ],
+   "of": 14,
+   "why": "repeat: running head of the open contents"
   },
   {
-   "anno": 29,
-   "of": 19
+   "boxes": [
+    29
+   ],
+   "of": 19,
+   "why": "repeat: running head of the open preface"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 35,
+   "why": "code-listing caption (Octave Script 1: Example): caption, text"
+  }
+ ],
+ "considered": []
 }

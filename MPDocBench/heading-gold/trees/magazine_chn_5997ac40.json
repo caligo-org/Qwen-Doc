@@ -1,66 +1,85 @@
 {
  "doc": "magazine_chn_5997ac40",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "知音 海外版",
-   "note": "masthead"
+   "why": "title: periodical masthead 知音 海外版"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
    "parent": 2,
    "text": "一滴墨香",
-   "note": "running section tag (vertical)"
+   "why": "section: running section tag 一滴墨香 (vertical), poem page"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 39,
    "text": "荆棘上的雨滴",
-   "note": "poem title"
+   "why": "story: poem title, poem below (containment)"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 2,
    "text": "目录 CONTENTS",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    40
+   ],
+   "of": 2,
+   "why": "repeat: masthead (BOSOM FRIEND) restated over the colophon/contents page"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "repeat: vertical running header naming the magazine (知音海外版)"
   }
  ],
  "not_headings": [
   {
-   "anno": 14,
-   "note": "ad page (header 广告): subscription ad headline"
+   "box": 14,
+   "why": "ad page (header 广告): subscription ad headline"
   },
   {
-   "anno": 20,
-   "note": "ad page: label in subscription ad"
+   "box": 20,
+   "why": "ad page: label inside the subscription ad"
   },
   {
-   "anno": 40,
-   "note": "masthead repeated on the colophon/contents page"
+   "box": 52,
+   "why": "house-ad logo above QR codes in the colophon column"
   },
   {
-   "anno": 52,
-   "note": "logo in the colophon column"
+   "box": 57,
+   "why": "colophon-column notice box (copyright statement): colophon text"
   },
   {
-   "anno": 57,
-   "note": "colophon-column notice box"
+   "box": 61,
+   "why": "colophon-column recruiting notice: ad/colophon text"
   },
   {
-   "anno": 61,
-   "note": "colophon-column recruiting notice"
-  },
-  {
-   "anno": 66,
-   "note": "colophon-column bank-account box"
+   "box": 66,
+   "why": "colophon-column bank-account box: contact box"
   }
  ],
- "repeats": []
+ "considered": []
 }

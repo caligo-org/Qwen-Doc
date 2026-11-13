@@ -1,273 +1,386 @@
 {
  "doc": "nationalStandard_chn_7b396eb8",
- "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "冷轧带肋钢筋 Cold rolled ribbed steel bars"
+   "text": "冷轧带肋钢筋 Cold rolled ribbed steel bars",
+   "why": "title: Chinese title + English title printed in one box"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 6,
-   "text": "前言"
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 6,
-   "text": "1 范围"
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
    "parent": 6,
-   "text": "2 规范性引用文件"
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 2,
    "parent": 6,
-   "text": "3 术语和定义"
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45,
+    46
+   ],
    "level": 3,
    "parent": 43,
    "text": "3.1 冷轧带肋钢筋 cold rolled ribbed steel bars",
-   "merge": [
-    46
-   ],
-   "note": "term entry: 3.1 + 冷轧带肋钢筋 cold rolled ribbed steel bars"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48,
+    49
+   ],
    "level": 3,
    "parent": 43,
    "text": "3.2 公称直径 nominal diameter",
-   "merge": [
-    49
-   ],
-   "note": "term entry: 3.2 + 公称直径 nominal diameter"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51,
+    52
+   ],
    "level": 3,
    "parent": 43,
    "text": "3.3 相对肋面积 specific projected rib area",
-   "merge": [
-    52
-   ],
-   "note": "term entry: 3.3 + 相对肋面积 specific projected rib area"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54,
+    55
+   ],
    "level": 3,
    "parent": 43,
    "text": "3.4 横肋间隙rib spacing",
-   "merge": [
-    55
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    57
    ],
-   "note": "term entry: 3.4 + 横肋间隙rib spacing"
-  },
-  {
-   "anno": 57,
    "level": 2,
    "parent": 6,
-   "text": "4 牌号"
+   "text": "4 牌号",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
    "parent": 6,
-   "text": "5 尺寸、外形、重量及允许偏差"
+   "text": "5 尺寸、外形、重量及允许偏差",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.1 公称直径范围"
+   "text": "5.1 公称直径范围",
+   "why": "clause 5.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.2 外形"
+   "text": "5.2 外形",
+   "why": "clause 5.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 4,
    "parent": 66,
-   "text": "5.2.1 外形要求"
+   "text": "5.2.1 外形要求",
+   "why": "clause 5.2.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 4,
    "parent": 66,
-   "text": "5.2.2 横肋要求"
+   "text": "5.2.2 横肋要求",
+   "why": "clause 5.2.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.3 尺寸、重量及允许偏差"
+   "text": "5.3 尺寸、重量及允许偏差",
+   "why": "clause 5.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.4 交货型式、长度及允许偏差"
+   "text": "5.4 交货型式、长度及允许偏差",
+   "why": "clause 5.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.5 弯曲度"
+   "text": "5.5 弯曲度",
+   "why": "clause 5.5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 126,
+   "boxes": [
+    126
+   ],
    "level": 3,
    "parent": 63,
-   "text": "5.6 重量"
+   "text": "5.6 重量",
+   "why": "clause 5.6: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 2,
    "parent": 6,
-   "text": "6 原料及性能"
+   "text": "6 原料及性能",
+   "why": "clause 6: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 3,
    "parent": 129,
-   "text": "6.1 原料"
+   "text": "6.1 原料",
+   "why": "clause 6.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 132,
+   "boxes": [
+    132
+   ],
    "level": 3,
    "parent": 129,
-   "text": "6.2 交货状态"
+   "text": "6.2 交货状态",
+   "why": "clause 6.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 3,
    "parent": 129,
-   "text": "6.3 力学性能和工艺性能"
+   "text": "6.3 力学性能和工艺性能",
+   "why": "clause 6.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 145,
+   "boxes": [
+    145
+   ],
    "level": 3,
    "parent": 129,
-   "text": "6.4 表面质量"
+   "text": "6.4 表面质量",
+   "why": "clause 6.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 2,
    "parent": 6,
-   "text": "7 试验方法"
+   "text": "7 试验方法",
+   "why": "clause 7: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.1 检验项目"
+   "text": "7.1 检验项目",
+   "why": "clause 7.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.2 力学性能"
+   "text": "7.2 力学性能",
+   "why": "clause 7.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.3 应力松弛试验"
+   "text": "7.3 应力松弛试验",
+   "why": "clause 7.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 162,
+   "boxes": [
+    162
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.4 尺寸测量"
+   "text": "7.4 尺寸测量",
+   "why": "clause 7.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 167,
+   "boxes": [
+    167
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.5 重量偏差的测量"
+   "text": "7.5 重量偏差的测量",
+   "why": "clause 7.5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 175,
+   "boxes": [
+    175
+   ],
    "level": 3,
    "parent": 148,
-   "text": "7.6 数值修约"
+   "text": "7.6 数值修约",
+   "why": "clause 7.6: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 177,
+   "boxes": [
+    177
+   ],
    "level": 2,
    "parent": 6,
-   "text": "8 检验规则"
+   "text": "8 检验规则",
+   "why": "clause 8: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 178,
+   "boxes": [
+    178
+   ],
    "level": 3,
    "parent": 177,
-   "text": "8.1 检查和验收"
+   "text": "8.1 检查和验收",
+   "why": "clause 8.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 180,
+   "boxes": [
+    180
+   ],
    "level": 3,
    "parent": 177,
-   "text": "8.2 组批规则"
+   "text": "8.2 组批规则",
+   "why": "clause 8.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 182,
+   "boxes": [
+    182
+   ],
    "level": 3,
    "parent": 177,
-   "text": "8.3 取样数量"
+   "text": "8.3 取样数量",
+   "why": "clause 8.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 184,
+   "boxes": [
+    184
+   ],
    "level": 3,
    "parent": 177,
-   "text": "8.4 复验与判定"
+   "text": "8.4 复验与判定",
+   "why": "clause 8.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 2,
    "parent": 6,
-   "text": "9 包装、标志和质量证明书"
+   "text": "9 包装、标志和质量证明书",
+   "why": "clause 9: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 199,
+   "boxes": [
+    199
+   ],
    "level": 2,
    "parent": 6,
-   "text": "附录A (规范性) 冷轧带肋钢筋用热轧盘条"
+   "text": "附录A (规范性) 冷轧带肋钢筋用热轧盘条",
+   "why": "annex title: describes the annex below (containment)"
   },
   {
-   "anno": 200,
+   "boxes": [
+    200
+   ],
    "level": 3,
    "parent": 199,
-   "text": "A.1 牌号及化学成分"
+   "text": "A.1 牌号及化学成分",
+   "why": "clause A.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 205,
+   "boxes": [
+    205
+   ],
    "level": 3,
    "parent": 199,
-   "text": "A.2 力学性能和工艺性能"
+   "text": "A.2 力学性能和工艺性能",
+   "why": "clause A.2: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    30
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line 中华人民共和国国家标准 (standard family label)"
-  },
-  {
-   "anno": 30,
-   "note": "title restated above clause 1"
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,39 +1,62 @@
 {
  "doc": "goverment_eng_d44e80eb",
- "notation": "goverment-v2 publication: L1 cover title; L2 front-matter section titles (Preface, National Holidays); L3 centered bold heads of the quoted convention articles inside the Preface. Edition/season line, publication number, sales notice, NOTE paragraph are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Diplomatic List"
+   "text": "Diplomatic List",
+   "why": "title: cover title of the publication; no owner printed as part of the title (publisher line is a series line)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter title (Preface): top body section"
   },
   {
-   "anno": 8,
-   "level": 3,
-   "parent": 6,
-   "text": "Article 29",
-   "note": "centered bold head of a quoted convention article"
-  },
-  {
-   "anno": 10,
-   "level": 3,
-   "parent": 6,
-   "text": "Article 31"
-  },
-  {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 1,
-   "text": "National Holidays"
+   "text": "National Holidays",
+   "why": "front section title (National Holidays) over its table"
   }
  ],
- "not_headings": [],
- "repeats": []
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 8,
+   "why": "Article 29: label of a convention provision quoted inside the Preface; breadcrumb round 2 made it text: the Preface's own text (family members, NOTE, availability) follows Article 31 with no closing head, so the article labels fail containment; both quoted article labels treated alike"
+  },
+  {
+   "box": 10,
+   "why": "Article 31: label of a convention provision quoted inside the Preface; breadcrumb round 2 made it text: the following Preface paragraphs (#15-19) are not about Article 31 and no later head closes it (containment)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "edition/date line on cover: text"
+  },
+  {
+   "box": 3,
+   "why": "publication number + office: series line, text"
+  },
+  {
+   "box": 4,
+   "why": "revision date: text"
+  },
+  {
+   "box": 16,
+   "why": "NOTE: callout paragraph: text"
+  }
+ ]
 }

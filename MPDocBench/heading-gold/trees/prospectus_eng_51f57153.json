@@ -1,154 +1,328 @@
 {
  "doc": "prospectus_eng_51f57153",
- "notation": "prospectus-v2: L1 cover document title (Prospectus); fund name text. L2 navy section titles; L3 navy bold subsections; L4 black bold subheads (investment manager names). Directory labels on the Administration page and list labels (Man Sub-Funds:) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Prospectus"
+   "text": "Man Umbrella SICAV Prospectus",
+   "why": "title union: fund (owner) + document type Prospectus"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Important notices"
+   "parent": 1,
+   "text": "Important notices",
+   "why": "front matter section with its notices"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Table of contents"
+   "parent": 1,
+   "text": "Table of contents",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Administration"
+   "parent": 1,
+   "text": "Administration",
+   "why": "front matter directory section Administration"
   },
   {
-   "anno": 77,
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Board of Directors",
+   "why": "directory group heading with its sub-labels"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "Chairman",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "Board members",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Management Company",
+   "why": "directory group heading with its block and sub-labels"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Chairman",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Board members",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Conducting Officers",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Registered Office of the Fund",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Central Administrative Agent",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Investment Managers",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Registrar and Transfer Agent",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Custodian Bank",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Auditors",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Legal Advisers in Luxembourg",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    77
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "The Fund"
+   "parent": 1,
+   "text": "The Fund",
+   "why": "body section The Fund"
   },
   {
-   "anno": 105,
+   "boxes": [
+    92
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "Man Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds (label one level below its section)"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "Man AHL Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "GLG Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds"
+  },
+  {
+   "boxes": [
+    105
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Management"
+   "parent": 1,
+   "text": "Management",
+   "why": "body section Management"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 3,
    "parent": 105,
-   "text": "Board of Directors and senior management"
+   "text": "Board of Directors and senior management",
+   "why": "subsection with its paragraph"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 3,
    "parent": 105,
-   "text": "Management Company"
+   "text": "Management Company",
+   "why": "subsection with its paragraphs"
   },
   {
-   "anno": 127,
+   "boxes": [
+    127
+   ],
    "level": 3,
    "parent": 105,
-   "text": "Investment Managers"
+   "text": "Investment Managers",
+   "why": "subsection Investment Managers introducing the three managers"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 4,
    "parent": 127,
    "text": "Man Investments (CH) AG",
-   "note": "black bold, smaller than navy L3 subsections"
+   "why": "individual investment manager described under Investment Managers (content beats look)"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 4,
    "parent": 127,
-   "text": "Man Investments Ltd."
+   "text": "Man Investments Ltd.",
+   "why": "individual investment manager described under Investment Managers (content beats look)"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 4,
    "parent": 127,
-   "text": "GLG Partners LP"
+   "text": "GLG Partners LP",
+   "why": "individual investment manager described under Investment Managers (content beats look)"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 1,
-   "note": "fund (issuer) name on cover"
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 39,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    36
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 40,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    61
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 42,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    75
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 45,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    89
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 47,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    113
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 49,
-   "note": "directory label (names/addresses list)"
+   "boxes": [
+    125
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   },
   {
-   "anno": 54,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 57,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 59,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 63,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 67,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 69,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 71,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 73,
-   "note": "directory label (names/addresses list)"
-  },
-  {
-   "anno": 92,
-   "note": "list label introducing a list of sub-fund names"
-  },
-  {
-   "anno": 99,
-   "note": "list label introducing a list of sub-fund names"
-  },
-  {
-   "anno": 102,
-   "note": "list label introducing a list of sub-fund names"
+   "boxes": [
+    139
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": []
 }

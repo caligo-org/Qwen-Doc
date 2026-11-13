@@ -1,248 +1,361 @@
 {
  "doc": "manualGuide_eng_62437ad7",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "ECHOMAP™ UHD INSTALLATION INSTRUCTIONS",
-   "note": "GARMIN logo is text"
+   "text": "GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS",
+   "why": "title union: owner logo box #1 (GARMIN) + product + document type. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: ECHOMAP™ UHD INSTALLATION INSTRUCTIONS)."
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Important Safety Information"
+   "parent": 1,
+   "text": "Important Safety Information",
+   "why": "section: blue head"
   },
   {
-   "anno": 19,
-   "level": 3,
-   "parent": 4,
-   "text": "ECHOMAP UHD 6x Connector View"
-  },
-  {
-   "anno": 24,
-   "level": 3,
-   "parent": 4,
-   "text": "ECHOMAP UHD 7x/9x Connector View"
-  },
-  {
-   "anno": 29,
-   "level": 3,
-   "parent": 4,
-   "text": "Software Update"
-  },
-  {
-   "anno": 31,
-   "level": 3,
-   "parent": 4,
-   "text": "Tools Needed"
-  },
-  {
-   "anno": 45,
+   "boxes": [
+    19
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Mounting Considerations"
+   "parent": 1,
+   "text": "ECHOMAP UHD 6x Connector View",
+   "why": "subsection: bold black head over the connector figure and table; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
   },
   {
-   "anno": 55,
+   "boxes": [
+    24
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Bail Mounting a Device with a Swivel Base"
+   "parent": 1,
+   "text": "ECHOMAP UHD 7x/9x Connector View",
+   "why": "subsection: bold black head; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
   },
   {
-   "anno": 68,
+   "boxes": [
+    29
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Fixed-Bail Mounting the Device"
+   "parent": 1,
+   "text": "Software Update",
+   "why": "subsection: bold black head with its own paragraph; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
   },
   {
-   "anno": 79,
+   "boxes": [
+    31
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Flush Mounting the Device"
+   "parent": 1,
+   "text": "Tools Needed",
+   "why": "subsection: bold black head with its tool list; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
   },
   {
-   "anno": 108,
+   "boxes": [
+    45
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Connection Considerations"
+   "parent": 1,
+   "text": "Mounting Considerations",
+   "why": "section: blue head"
   },
   {
-   "anno": 110,
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Bail Mounting a Device with a Swivel Base",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Fixed-Bail Mounting the Device",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Flush Mounting the Device",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Connection Considerations",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    110
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Connecting the Cables to the ECHOMAP UHD 6x Cradle"
+   "text": "Connecting the Cables to the ECHOMAP UHD 6x Cradle",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Connecting the Cables to the ECHOMAP UHD 7x/9x Cradle"
+   "text": "Connecting the Cables to the ECHOMAP UHD 7x/9x Cradle",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Power and Data Cable"
+   "text": "Power and Data Cable",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 132,
+   "boxes": [
+    132
+   ],
    "level": 4,
    "parent": 124,
    "text": "Connecting to Power",
-   "note": "bold italic, a less prominent style than the bold L3 heads: subsection of Power and Data Cable"
+   "why": "sub-subsection: bold italic head under the power cable section"
   },
   {
-   "anno": 143,
+   "boxes": [
+    143
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Connecting the Device to a Transducer"
+   "text": "Connecting the Device to a Transducer",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Connecting to a Garmin Device to Share User Data"
+   "text": "Connecting to a Garmin Device to Share User Data",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 157,
+   "boxes": [
+    157
+   ],
    "level": 3,
    "parent": 108,
-   "text": "Installing the Ferrite Bead on the Transducer Cable"
+   "text": "Installing the Ferrite Bead on the Transducer Cable",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 161,
+   "boxes": [
+    161
+   ],
    "level": 3,
    "parent": 108,
-   "text": "NMEA 2000 Considerations"
+   "text": "NMEA 2000 Considerations",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 171,
+   "boxes": [
+    171
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Installing the Device in the Cradle"
+   "parent": 1,
+   "text": "Installing the Device in the Cradle",
+   "why": "section: blue head"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 3,
    "parent": 171,
-   "text": "Removing the Device from the Cradle"
+   "text": "Removing the Device from the Cradle",
+   "why": "subsection: bold black head"
   },
   {
-   "anno": 183,
+   "boxes": [
+    183
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Specifications"
+   "parent": 1,
+   "text": "Specifications",
+   "why": "section: blue head"
   },
   {
-   "anno": 184,
+   "boxes": [
+    184
+   ],
    "level": 3,
    "parent": 183,
-   "text": "All Models"
+   "text": "All Models",
+   "why": "subsection: table head"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 3,
    "parent": 183,
-   "text": "6x Models"
+   "text": "6x Models",
+   "why": "subsection: table head"
   },
   {
-   "anno": 188,
+   "boxes": [
+    188
+   ],
    "level": 3,
    "parent": 183,
-   "text": "7x Models"
+   "text": "7x Models",
+   "why": "subsection: table head"
   },
   {
-   "anno": 193,
+   "boxes": [
+    193
+   ],
    "level": 3,
    "parent": 183,
-   "text": "9x Models"
+   "text": "9x Models",
+   "why": "subsection: table head"
   },
   {
-   "anno": 195,
+   "boxes": [
+    195
+   ],
    "level": 3,
    "parent": 183,
-   "text": "NMEA 2000 PGN Information"
+   "text": "NMEA 2000 PGN Information",
+   "why": "subsection: bold head over the PGN tables"
   },
   {
-   "anno": 205,
-   "level": 3,
-   "parent": 183,
-   "text": "NMEA 0183 Information"
+   "boxes": [
+    196
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Transmit and Receive",
+   "why": "label heading: table label with its own table (v3: repeated labels with their own block are headings)"
   },
   {
-   "anno": 212,
+   "boxes": [
+    198
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Transmit",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    200
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Receive",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    205
+   ],
    "level": 3,
    "parent": 183,
-   "text": "物質宣言"
+   "text": "NMEA 0183 Information",
+   "why": "subsection: bold head over the sentence tables"
+  },
+  {
+   "boxes": [
+    206
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "Transmit",
+   "why": "label heading: table label with its own table"
+  },
+  {
+   "boxes": [
+    208
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "Receive",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    212
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "物質宣言",
+   "why": "subsection: declaration table head; breadcrumb review r2: Chinese substance declaration is regulatory back matter, not a specification topic: L2 beside the sections (front/back matter at top-section level)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 6,
-   "note": "callout band WARNING"
+   "box": 6,
+   "why": "callout: WARNING band"
   },
   {
-   "anno": 11,
-   "note": "callout band CAUTION"
+   "box": 11,
+   "why": "callout: CAUTION band"
   },
   {
-   "anno": 15,
-   "note": "callout band NOTICE"
+   "box": 15,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 22,
-   "note": "callout band NOTICE"
+   "box": 22,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 27,
-   "note": "callout band NOTICE"
+   "box": 27,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 56,
-   "note": "callout band NOTICE"
+   "box": 56,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 69,
-   "note": "callout band NOTICE"
+   "box": 69,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 80,
-   "note": "callout band NOTICE"
+   "box": 80,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 134,
-   "note": "callout band WARNING"
+   "box": 134,
+   "why": "callout: WARNING band"
   },
   {
-   "anno": 162,
-   "note": "callout band NOTICE"
+   "box": 162,
+   "why": "callout: NOTICE band"
   },
   {
-   "anno": 177,
-   "note": "callout band NOTICE"
-  },
-  {
-   "anno": 196,
-   "note": "label rule"
-  },
-  {
-   "anno": 198,
-   "note": "label rule"
-  },
-  {
-   "anno": 200,
-   "note": "label rule"
-  },
-  {
-   "anno": 206,
-   "note": "label rule"
-  },
-  {
-   "anno": 208,
-   "note": "label rule"
+   "box": 177,
+   "why": "callout: NOTICE band"
   }
  ],
- "repeats": []
+ "considered": []
 }

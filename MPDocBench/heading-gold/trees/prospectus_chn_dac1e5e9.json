@@ -1,41 +1,105 @@
 {
  "doc": "prospectus_chn_dac1e5e9",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections. Cover issuer name/English name/address/sponsor are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 8,
+   "boxes": [
+    3,
+    8
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在主板上市招股说明书"
+   "text": "柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "发行人声明"
+   "parent": 3,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "本次发行概况"
+   "parent": 3,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "目录"
+   "parent": 3,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13,
+    14
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    19,
+    20
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    24,
+    25
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    29,
+    30
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    33,
+    34
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 4,
-   "note": "issuer English name on cover"
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head (logo + issuer) printed above the title on the cover: text, the title is not yet open"
+  },
+  {
+   "box": 2,
+   "why": "running head 招股说明书 above the title on the cover: text"
+  },
+  {
+   "box": 7,
+   "why": "logo text BOTH on the cover: brand text"
+  }
+ ]
 }

@@ -1,45 +1,63 @@
 {
  "doc": "examPaper_chn_ab4971e2",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2018年全国统一高考数学试卷（理科）（新课标I）"
+   "text": "2018年全国统一高考数学试卷（理科）（新课标I）",
+   "why": "title: exam title"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一、选择题：本题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。"
+   "text": "一、选择题：本题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+   "why": "question group"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 2,
    "parent": 1,
-   "text": "二、填空题：本题共4小题，每小题5分，共20分。"
+   "text": "二、填空题：本题共4小题，每小题5分，共20分。",
+   "why": "question group"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 1,
-   "text": "三、解答题：共70分。解答应写出文字说明、证明过程或演算步骤。第 \\(17\\sim 21\\) 题为必考题，每个试题考生都必须作答。第22、23题为选考题，考生根据要求作答。（一）必考题：共60分。"
+   "text": "三、解答题：共70分。解答应写出文字说明、证明过程或演算步骤。第 \\(17\\sim 21\\) 题为必考题，每个试题考生都必须作答。第22、23题为选考题，考生根据要求作答。（一）必考题：共60分。",
+   "why": "question group"
   },
   {
-   "anno": 100,
+   "boxes": [
+    100
+   ],
    "level": 3,
    "parent": 78,
    "text": "（二）选考题：共10分。请考生在第22、23题中任选一题作答。如果多做，则按所做的第一题计分。[选修4-4：坐标系与参数方程]（10分）",
-   "note": "box also carries the first elective label [选修4-4…]"
+   "why": "sub-group (二)选考题 of group 三 (its box also carries the first module label)"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 4,
    "parent": 100,
    "text": "[选修4-5：不等式选讲]（10分）",
-   "note": "elective module label inside (二)选考题; its sibling [选修4-4] is printed inside the (二) box"
+   "why": "elective module: one below 选考题 (its first sibling label sits inside the 选考题 box)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

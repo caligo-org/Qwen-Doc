@@ -1,81 +1,130 @@
 {
  "doc": "paper_chn_0945f03a",
- "notation": "paper-v2: L1 paper title; L2 numbered sections and front/back matter titles (references); L3 subsections. English title translation, authors, affiliations, CLC/doc codes, journal headers are text. Headings of other articles printed on the same pages are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "新型硅烷杂化有机硅弹性防水涂料"
+   "text": "新型硅烷杂化有机硅弹性防水涂料",
+   "why": "title: paper title"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
    "parent": 4,
-   "text": "0 前言"
+   "text": "0 前言",
+   "why": "section: numbered top section 0 前言"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1 Geniosil W 硅烷杂化有机硅防水涂料的组成"
+   "text": "1 Geniosil W 硅烷杂化有机硅防水涂料的组成",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 4,
-   "text": "2 固化原理"
+   "text": "2 固化原理",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 28,
-   "text": "2.1α-硅烷封端杂化聚醚的合成"
+   "text": "2.1α-硅烷封端杂化聚醚的合成",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 28,
-   "text": "2.2α-硅烷封端杂化聚醚的固化机理"
+   "text": "2.2α-硅烷封端杂化聚醚的固化机理",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 2,
    "parent": 4,
-   "text": "3 性能特点"
+   "text": "3 性能特点",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 2,
    "parent": 4,
-   "text": "4 施工应用"
+   "text": "4 施工应用",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 2,
    "parent": 4,
-   "text": "5 结语"
+   "text": "5 结语",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    12
+   ],
+   "of": 4,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
   }
  ],
  "not_headings": [
   {
-   "anno": 12,
-   "note": "English translation of the title"
+   "box": 81,
+   "why": "foreign article: section of another article jumped onto this page (上接第49页)"
   },
   {
-   "anno": 81,
-   "note": "section of a different article continued on this page (上接第49页); not part of this document's outline"
-  },
-  {
-   "anno": 89,
-   "note": "section of the same foreign article"
+   "box": 89,
+   "why": "foreign article: section of another article jumped onto this page"
   }
  ],
- "repeats": []
+ "considered": []
 }

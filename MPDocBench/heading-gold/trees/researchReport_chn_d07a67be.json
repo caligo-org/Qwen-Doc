@@ -1,61 +1,77 @@
 {
  "doc": "researchReport_chn_d07a67be",
- "notation": "researchReport (event note): L1 headline + ——subtitle line (merged); L2 事件/点评 and back-matter titles. Sidebar date banner, analyst box and office address box are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评",
-   "merge": [
-    3
+   "why": "title union: headline + ——subject/report-type line printed with it"
+  },
+  {
+   "boxes": [
+    4
    ],
-   "note": "headline + subtitle naming the event"
-  },
-  {
-   "anno": 4,
    "level": 2,
    "parent": 2,
-   "text": "事件"
+   "text": "事件",
+   "why": "section: cover section 事件"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 2,
-   "text": "点评"
+   "text": "点评",
+   "why": "section: cover section 点评"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 2,
-   "text": "分析师声明"
+   "text": "分析师声明",
+   "why": "back matter: analyst statement"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 2,
-   "text": "投资评级说明"
+   "text": "投资评级说明",
+   "why": "back matter: rating explanation"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
    "parent": 2,
-   "text": "免责声明"
+   "text": "免责声明",
+   "why": "back matter: disclaimer"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 9,
-   "note": "date banner in the sidebar"
+   "box": 9,
+   "why": "date in the sidebar: text"
   },
   {
-   "anno": 12,
-   "note": "执业分析师: analyst box label"
+   "box": 12,
+   "why": "analyst label: text per category note"
   },
   {
-   "anno": 17,
-   "note": "川财研究所: office address box"
+   "box": 17,
+   "why": "office address box label: text per category note"
   }
  ],
- "repeats": []
+ "considered": []
 }

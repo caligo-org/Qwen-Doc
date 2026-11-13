@@ -1,192 +1,320 @@
 {
  "doc": "researchReport_eng_5b6f3871",
- "notation": "researchReport (periodical issue, Top of Mind; same family as researchReport_eng_1588f970): L1 masthead; L2 issue theme; L3 contents box and article banners; L4 region boxes in Macro news and views. The two list labels repeated in every box (Latest GS proprietary datapoints/major changes in views, Datapoints/trends we're focused on) are generic labels: text (label rule). Deck under the banner, chart titles, list label INTERVIEWS WITH:, editor byline and interview questions are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "TOP of MIND",
-   "note": "masthead"
+   "text": "TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG ACTION?",
+   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2"
   },
   {
-   "anno": 5,
+   "boxes": [
+    17
+   ],
    "level": 2,
    "parent": 4,
-   "text": "TRUMPTARIFFS: MOSTLY TALK, OR BIG ACTION?",
-   "note": "issue theme (cover headline)"
+   "text": "WHAT'S INSIDE",
+   "why": "box title: contents box of the issue"
   },
   {
-   "anno": 17,
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Macro news and views",
+   "why": "article page banner"
+  },
+  {
+   "boxes": [
+    36
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "WHAT'S INSIDE"
+   "parent": 34,
+   "text": "US",
+   "why": "box title: region box"
   },
   {
-   "anno": 34,
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    48
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Macro news and views"
-  },
-  {
-   "anno": 36,
-   "level": 4,
    "parent": 34,
-   "text": "US"
+   "text": "Europe",
+   "why": "box title: region box"
   },
   {
-   "anno": 48,
+   "boxes": [
+    49
+   ],
    "level": 4,
-   "parent": 34,
-   "text": "Europe"
+   "parent": 48,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 60,
+   "boxes": [
+    52
+   ],
    "level": 4,
-   "parent": 34,
-   "text": "Japan"
+   "parent": 48,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 70,
-   "level": 4,
-   "parent": 34,
-   "text": "Emerging Markets (EM)"
-  },
-  {
-   "anno": 85,
+   "boxes": [
+    60
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Trump tariffs: mostly talk, or big action?"
+   "parent": 34,
+   "text": "Japan",
+   "why": "box title: region box"
   },
   {
-   "anno": 104,
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    70
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Interview with Jeff Gerrish"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 18,
-   "note": "INTERVIEWS WITH: list label"
+   "parent": 34,
+   "text": "Emerging Markets (EM)",
+   "why": "box title: region box"
   },
   {
-   "anno": 35,
-   "note": "deck under the section banner"
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 70,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 44,
-   "note": "chart title"
+   "boxes": [
+    73
+   ],
+   "level": 4,
+   "parent": 70,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 55,
-   "note": "chart title"
+   "boxes": [
+    85
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Trump tariffs: mostly talk, or big action?",
+   "why": "article page banner, L2 (round 3): editor lead article of the issue; it prints the theme words again, but it opens one article after Macro news and views (a repeat of L1 would leave its pages inside Macro news and views), so it is a node narrower than the issue title union"
   },
   {
-   "anno": 67,
-   "note": "chart title"
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with Jeff Gerrish",
+   "why": "article page banner: interview"
   },
   {
-   "anno": 77,
-   "note": "chart title"
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: You played a key role in trade policy during President Trump's first term. What are his goals regarding tariffs/trade policy and to what extent have these goals shifted from his first term?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 97,
-   "note": "editor byline"
+   "boxes": [
+    112
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: While Trump's goals vis-à-vis tariffs seem clear, the plan to achieve them seems less so given the recent back-and-forth on tariff announcements and implementation. Does Trump have an overarching plan/strategy with regard to his trade agenda?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 108,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    114
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: So, are the tariffs on Canada and Mexico just a negotiating tactic then, and, if so, what is Trump aiming to achieve through these negotiations that would prevent those tariffs from going into effect?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 112,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: What about the proposed \\(25\\%\\) tariff on US auto imports? Is that also just a negotiating tactic?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 114,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: What about the steel and aluminum tariffs?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 118,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: The million-dollar question is whether the President will implement more sweeping tariffs in the form of a reciprocal or universal tariff. What's your view?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 120,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: The market seemed relieved that Trump's reciprocal tariffs announcement did not include more direct action. Was the delay more likely another negotiating tactic, or rather an acknowledgement that the Administration will need more time to figure out the correct implementation given the complexity?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 128,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: So, it sounds like you think Trump will do something very big on tariffs, but the market doesn't really seem to believe that. Why do you think that is?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 130,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: With that in mind, where do you think tariffs and trade policy more generally is headed with regard to China?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 132,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Given all we've discussed, are the bulk of tariff actions now most likely behind us, or still ahead?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 135,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 138,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 140,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 37,
-   "note": "label rule"
-  },
-  {
-   "anno": 39,
-   "note": "label rule"
-  },
-  {
-   "anno": 49,
-   "note": "label rule"
-  },
-  {
-   "anno": 52,
-   "note": "label rule"
-  },
-  {
-   "anno": 61,
-   "note": "label rule"
-  },
-  {
-   "anno": 63,
-   "note": "label rule"
-  },
-  {
-   "anno": 71,
-   "note": "label rule"
-  },
-  {
-   "anno": 73,
-   "note": "label rule"
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Trump presumably understands that businesses don't like uncertainty, but he seems to be stoking and even embracing it. What do you make of that?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   }
  ],
  "repeats": [
   {
-   "anno": 32,
-   "of": 4
+   "boxes": [
+    32
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 83,
-   "of": 4
+   "boxes": [
+    83
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 102,
-   "of": 4
+   "boxes": [
+    102
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 125,
-   "of": 4
+   "boxes": [
+    125
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 18,
+   "why": "INTERVIEWS WITH: label over a list of names: text (names list)"
+  },
+  {
+   "box": 35,
+   "why": "deck under the page banner: text"
+  },
+  {
+   "box": 44,
+   "why": "chart title in the region box: text"
+  },
+  {
+   "box": 55,
+   "why": "chart title: text"
+  },
+  {
+   "box": 67,
+   "why": "chart title: text"
+  },
+  {
+   "box": 77,
+   "why": "chart title: text"
+  },
+  {
+   "box": 97,
+   "why": "editor byline: text"
+  }
+ ],
+ "considered": []
 }

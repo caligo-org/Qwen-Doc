@@ -1,100 +1,192 @@
 {
  "doc": "pptSlides_eng_26f4ebca",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "The Vertical API Opportunity"
+   "text": "The Vertical API Opportunity",
+   "why": "deck title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 2,
    "text": "What Is An API?",
-   "note": "slide titles L2 (no dividers)"
+   "why": "slide title (deck without dividers)"
   },
   {
-   "anno": 12,
+   "boxes": [
+    5
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Definition:",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Which means?",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Example, please.",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 2,
-   "text": "What The Big Deal?"
+   "text": "What The Big Deal?",
+   "why": "slide title"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 2,
-   "text": "API Proliferation Is Exponential"
+   "text": "API Proliferation Is Exponential",
+   "why": "slide title"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 2,
-   "text": "The API Explosion Is Transforming Software Development"
+   "text": "The API Explosion Is Transforming Software Development",
+   "why": "slide title"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Opportunity: API As Core Product"
+   "text": "Opportunity: API As Core Product",
+   "why": "slide title"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
    "parent": 2,
-   "text": "APIs as Product: Horizontal v. Vertical"
+   "text": "APIs as Product: Horizontal v. Vertical",
+   "why": "slide title"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Horizontal APIs – Template For Success"
+   "text": "Horizontal APIs - Template For Success",
+   "why": "slide title"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Vertical APIs – Emerging Investment Frontier"
+   "text": "Vertical APIs – Emerging Investment Frontier",
+   "why": "slide title"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Vertical API Market Breakdown"
+   "text": "Vertical API Market Breakdown",
+   "why": "slide title"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Vertical API Market Map"
+   "text": "Vertical API Market Map",
+   "why": "slide title"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Vertical APIs in Finance"
+   "text": "Vertical APIs in Finance",
+   "why": "slide title"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 3,
    "parent": 81,
    "text": "Financial Services Industry",
-   "note": "column box titles inside the slide"
+   "why": "column box title heading its bullet column"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 81,
-   "text": "Vertical APIs"
+   "text": "Vertical APIs",
+   "why": "column box title heading its bullet column"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 3,
    "parent": 81,
-   "text": "FinTech Startups"
+   "text": "FinTech Startups",
+   "why": "column box title heading its bullet column"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "presenter name"
+  },
+  {
+   "box": 33,
+   "why": "lead-in line introducing a list"
+  },
+  {
+   "box": 36,
+   "why": "figure label"
+  },
+  {
+   "box": 38,
+   "why": "figure label"
+  },
+  {
+   "box": 70,
+   "why": "lead-in line with colon introducing a list"
+  }
+ ]
 }

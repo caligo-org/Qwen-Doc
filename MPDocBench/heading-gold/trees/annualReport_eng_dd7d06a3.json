@@ -1,41 +1,65 @@
 {
  "doc": "annualReport_eng_dd7d06a3",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "2024 Annual Report",
-   "merge": [
-    2
+   "why": "title union: year + document type printed as one cover title; owner only as logo (text)"
+  },
+  {
+   "boxes": [
+    7,
+    13
    ],
-   "note": "year printed above the report title: one title in two boxes"
-  },
-  {
-   "anno": 7,
    "level": 2,
-   "parent": 3,
-   "text": "FORM 10-K",
-   "note": "embedded Form 10-K"
+   "parent": 2,
+   "text": "FORM 10-K Gogo Inc.",
+   "why": "embedded filing title union: FORM 10-K + registrant name (field caption dropped)"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 3,
    "parent": 7,
-   "text": "Documents Incorporated By Reference"
+   "text": "Documents Incorporated By Reference",
+   "why": "front matter section of the 10-K"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 7,
-   "text": "INDEX"
+   "text": "INDEX",
+   "why": "contents title of the 10-K"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 6,
-   "note": "issuing body on the Form 10-K cover"
+   "box": 6,
+   "why": "issuing body (SEC name and address) above the form title"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "intro tagline next to a photo"
+  },
+  {
+   "box": 8,
+   "why": "form field label (Mark One)"
+  },
+  {
+   "box": 39,
+   "why": "running owner name in the header"
+  }
+ ]
 }

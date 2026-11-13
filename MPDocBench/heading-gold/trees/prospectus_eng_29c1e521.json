@@ -1,32 +1,50 @@
 {
  "doc": "prospectus_eng_29c1e521",
- "notation": "prospectus-v2: L1 cover title (Prospectus + fund name, one box); L2 front sections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Prospectus SEB Concept Biotechnology"
+   "text": "Prospectus SEB Concept Biotechnology",
+   "why": "title union in one box: document type Prospectus + fund name (owner)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Important information"
+   "text": "Important information",
+   "why": "front matter section with its notices"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Glossary of terms"
+   "text": "Glossary of terms",
+   "why": "front matter section with its glossary table"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 2,
-   "text": "TABLE OF CONTENTS"
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "brand logo text on the cover: text"
+  }
+ ]
 }

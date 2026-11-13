@@ -1,77 +1,117 @@
 {
  "doc": "textBook_chn_83116662",
- "notation": "textBook-v2: L1 cover subject title; L2 preface, 目录, chapters (第N章 + title merged); L3 节; L4 subsections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "科学",
-   "note": "cover title; series, pinyin, grade lines are text"
+   "text": "科学 九年级下册",
+   "why": "title union: subject + grade/volume line naming this book"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 3,
-   "text": "前言"
+   "text": "前言",
+   "why": "front matter: preface title"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 3,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33,
+    34
+   ],
    "level": 2,
    "parent": 3,
    "text": "第1章 演化的自然",
-   "merge": [
-    34
-   ],
-   "note": "chapter label + chapter title"
+   "why": "chapter label + chapter title union"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 33,
-   "text": "第1节 人类对宇宙的认识"
+   "text": "第1节 人类对宇宙的认识",
+   "why": "section 第1节 + title"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 4,
    "parent": 39,
-   "text": "古代人的宇宙观"
+   "text": "古代人的宇宙观",
+   "why": "coloured subsection heading: describes the block below"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 4,
    "parent": 39,
-   "text": "从地心说到日心说"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 30,
-   "note": "English twin of 目录 heading the second contents page"
-  },
-  {
-   "anno": 44,
-   "note": "callout label 思考与讨论"
-  },
-  {
-   "anno": 56,
-   "note": "callout label 思考与讨论"
-  },
-  {
-   "anno": 63,
-   "note": "callout label 思考与讨论"
+   "text": "从地心说到日心说",
+   "why": "coloured subsection heading, same look as #41"
   }
  ],
  "repeats": [
   {
-   "anno": 8,
-   "of": 3
+   "boxes": [
+    8,
+    9
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 28,
+   "why": "repeat: English twin of the contents title on the continuing contents page"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "of": 33,
+   "why": "repeat: running head naming the open chapter"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 44,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  },
+  {
+   "box": 56,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  },
+  {
+   "box": 63,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  }
+ ],
+ "considered": []
 }

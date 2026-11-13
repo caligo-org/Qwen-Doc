@@ -1,45 +1,135 @@
 {
  "doc": "researchReport_eng_f653f866",
- "notation": "researchReport (English): L1 headline (series kicker Oil shares the box and is text); L2 body sections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Squaring Russia's missing barrels",
-   "note": "the box also holds the series kicker Oil"
+   "text": "Goldman Sachs Oil Squaring Russia's missing barrels",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Oil Squaring Russia's missing barrels)."
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "A potentially enormous oil supply shock"
+   "parent": 2,
+   "text": "A potentially enormous oil supply shock",
+   "why": "section: body section heading with its paragraphs"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "China key to determining how the oil market will rebalance"
+   "parent": 2,
+   "text": "China key to determining how the oil market will rebalance",
+   "why": "section: body section heading with its paragraphs"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Supply relief would come at a higher price and require core-OPEC, Iran and Venezuela"
+   "parent": 2,
+   "text": "Supply relief would come at a higher price and require core-OPEC, Iran and Venezuela",
+   "why": "section: body section heading with its paragraphs"
   },
   {
-   "anno": 112,
+   "boxes": [
+    112
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Demand destruction the solver of last resort"
+   "parent": 2,
+   "text": "Demand destruction the solver of last resort",
+   "why": "section: body section heading with its paragraphs"
   },
   {
-   "anno": 163,
+   "boxes": [
+    163
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Squaring the unknown - a probability weighted approach to solving the global oil market"
+   "parent": 2,
+   "text": "Squaring the unknown - a probability weighted approach to solving the global oil market",
+   "why": "section: body section heading with its paragraphs"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    16
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the sector kicker of the title"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

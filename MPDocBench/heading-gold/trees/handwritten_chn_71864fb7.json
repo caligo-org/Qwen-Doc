@@ -1,32 +1,66 @@
 {
  "doc": "handwritten_chn_71864fb7",
- "notation": "handwritten-v2 (math notes): title L1; Roman-numbered sections L2. Theorem labels (Newton公式, Waring公式) before a formula are run-in labels (text); platform watermark footers are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Waring 公式及其应用"
+   "text": "Waring 公式及其应用",
+   "why": "title: note topic over the whole essay"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "I. Newton 公式"
+   "text": "I. Newton 公式",
+   "why": "section: Roman-numbered part I"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Ⅱ. Waring 公式"
+   "text": "Ⅱ. Waring 公式",
+   "why": "section: Roman-numbered part II"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
    "parent": 1,
-   "text": "III. 组合反演公式"
+   "text": "III. 组合反演公式",
+   "why": "section: Roman-numbered part III"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 12,
+   "why": "theorem label before its formula (like \"Definition 2.1\"): run-in label, text"
+  },
+  {
+   "box": 36,
+   "why": "theorem label before its formula: text"
+  },
+  {
+   "box": 24,
+   "why": "platform watermark footer"
+  },
+  {
+   "box": 67,
+   "why": "item label (i) before a formula"
+  },
+  {
+   "box": 73,
+   "why": "item label (ii)"
+  }
+ ]
 }

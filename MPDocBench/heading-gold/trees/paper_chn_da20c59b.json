@@ -1,84 +1,173 @@
 {
  "doc": "paper_chn_da20c59b",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "“蒸发悖论”在黄河流域的探讨"
+   "text": "“蒸发悖论”在黄河流域的探讨",
+   "why": "title: paper title"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1 引言"
+   "text": "1 引言",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": 4,
-   "text": "2 数据与方法"
+   "text": "2 数据与方法",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 22,
-   "text": "2.1 研究区概况"
+   "text": "2.1 研究区概况",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 22,
-   "text": "2.2 数据处理"
+   "text": "2.2 数据处理",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 22,
-   "text": "2.3 研究方法"
+   "text": "2.3 研究方法",
+   "why": "subsection 2.3 (numbering)"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 2,
    "parent": 4,
-   "text": "3 “蒸发悖论”的探讨"
+   "text": "3 “蒸发悖论”的探讨",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 66,
-   "text": "3.1 “蒸发悖论”的规律分析"
+   "text": "3.1 “蒸发悖论”的规律分析",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 126,
+   "boxes": [
+    126
+   ],
    "level": 3,
    "parent": 66,
-   "text": "3.2 潜在蒸散量与降水的关系"
+   "text": "3.2 潜在蒸散量与降水的关系",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 140,
+   "boxes": [
+    140
+   ],
    "level": 3,
    "parent": 66,
-   "text": "3.3年及四季潜在蒸散量下降原因分析"
+   "text": "3.3年及四季潜在蒸散量下降原因分析",
+   "why": "subsection 3.3 (numbering)"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 2,
    "parent": 4,
-   "text": "4 结论"
+   "text": "4 结论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 164,
+   "boxes": [
+    164
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献 (References)"
+   "text": "参考文献 (References)",
+   "why": "back matter: references at top-section level"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 219,
-   "note": "English translation of the title (back-placed English abstract)"
+   "boxes": [
+    34
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "of": 4,
+   "why": "repeat: English title restated after the references (title printed again in translation, apart from the Chinese title); as a restated title of the whole document it is a repeat of L1, not a node, and closes 参考文献: the English authors/abstract/keywords after it are about the whole paper, not the references (round 3)"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 84,
+   "why": "run-in numbered subsection 3.1.1 starting a paragraph: text"
+  },
+  {
+   "box": 86,
+   "why": "run-in numbered subsection 3.1.2 starting a paragraph: text"
+  },
+  {
+   "box": 109,
+   "why": "run-in numbered subsection 3.1.3 starting a paragraph: text"
+  }
+ ]
 }

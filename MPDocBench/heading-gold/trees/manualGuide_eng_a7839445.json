@@ -1,74 +1,114 @@
 {
  "doc": "manualGuide_eng_a7839445",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Connection & Control Box Operation Guide",
-   "note": "product + manual type; model code ELPCB02 and EPSON logo are text"
+   "text": "EPSON Connection & Control Box Operation Guide",
+   "why": "title union: owner logo header box #2 (EPSON; the tagline in the same box is not part of the heading) + product and document type. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Connection & Control Box Operation Guide)."
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "How To Switch Input Sources"
+   "parent": 2,
+   "text": "How To Switch Input Sources",
+   "why": "section: blue-square head"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Part Names and Functions"
+   "parent": 2,
+   "text": "Part Names and Functions",
+   "why": "section: blue-square head"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Input Ports"
+   "parent": 2,
+   "text": "Input Ports",
+   "why": "section: blue-square head"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Connection Examples"
+   "parent": 2,
+   "text": "Connection Examples",
+   "why": "section: blue-square head"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 34,
-   "text": "Connecting Using a Computer Cable"
+   "text": "Connecting Using a Computer Cable",
+   "why": "subsection: panel head"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 34,
-   "text": "Connecting Using a USB Cable"
+   "text": "Connecting Using a USB Cable",
+   "why": "subsection: panel head"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 34,
-   "text": "Connecting with HDMI Cables"
+   "text": "Connecting with HDMI Cables",
+   "why": "subsection: panel head"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Switching Images"
+   "parent": 2,
+   "text": "Switching Images",
+   "why": "section: blue-square head"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Names and Functions of the Input Source Buttons"
+   "text": "Names and Functions of the Input Source Buttons",
+   "why": "subsection: panel head"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Troubleshooting"
+   "parent": 2,
+   "text": "Troubleshooting",
+   "why": "section: blue-square head (problem heads inside the table have no element id)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "model code band: text"
+  }
+ ]
 }

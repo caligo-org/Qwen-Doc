@@ -1,94 +1,139 @@
 {
  "doc": "annualReport_eng_824dec82",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report 2024"
+   "text": "Annual Report 2024",
+   "why": "title: document type on the cover; owner printed only as the logo (logo is text)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Engineering the world's most advanced chips"
+   "text": "Engineering the world's most advanced chips",
+   "why": "intro page headline with its own block (top section)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 2,
-   "text": "LETTER TO OUR STOCKHOLDERS"
+   "text": "LETTER TO OUR STOCKHOLDERS",
+   "why": "top section: letter title"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Solid financial results with continued focus on investments in research and development."
+   "text": "Solid financial results with continued focus on investments in research and development.",
+   "why": "top section: results page headline with its own block"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 36,
-   "text": "Performance Overview - Fiscal Year 2024"
+   "text": "Performance Overview - Fiscal Year 2024",
+   "why": "section head inside the results page"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 2,
    "text": "INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
-   "note": "heading line inside a text box that also holds the body; same look as STOCK LISTING"
+   "why": "back-page investor-information title (box also holds its body; text = the printed heading line)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 2,
    "text": "TRANSFER AGENT AND REGISTRAR",
-   "note": "heading line inside a text box that also holds the body"
+   "why": "back-page investor-information title (box also holds its body)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 2,
    "parent": 2,
-   "text": "STOCK LISTING"
+   "text": "STOCK LISTING",
+   "why": "back-page investor-information title"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 2,
-   "text": "INVESTOR RELATIONS"
+   "text": "INVESTOR RELATIONS",
+   "why": "back-page investor-information title"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 2,
    "parent": 2,
-   "text": "ANNUAL MEETING"
+   "text": "ANNUAL MEETING",
+   "why": "back-page investor-information title"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 2,
    "parent": 2,
-   "text": "CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS"
+   "text": "CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS",
+   "why": "back-page investor-information title"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
    "parent": 2,
-   "text": "TRADEMARK INFORMATION"
+   "text": "TRADEMARK INFORMATION",
+   "why": "back-page investor-information title"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 40,
-   "note": "chart title"
+   "box": 40,
+   "why": "chart title"
   },
   {
-   "anno": 42,
-   "note": "chart title"
+   "box": 42,
+   "why": "chart title"
   },
   {
-   "anno": 44,
-   "note": "chart title"
+   "box": 44,
+   "why": "chart title"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 7,
+   "why": "slogan"
+  },
+  {
+   "box": 10,
+   "why": "letter salutation"
+  }
+ ]
 }

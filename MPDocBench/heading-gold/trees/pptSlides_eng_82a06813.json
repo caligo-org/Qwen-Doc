@@ -1,48 +1,81 @@
 {
  "doc": "pptSlides_eng_82a06813",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW"
+   "text": "Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW",
+   "why": "deck title (three-line title in one box)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "DRAMATIC STORY CANVAS: Space-Timeline Template"
+   "text": "DRAMATIC STORY CANVAS: Space-Timeline Template",
+   "why": "slide title (deck without dividers)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 2,
    "parent": 1,
-   "text": "DRAMATIC STORY CANVAS: Problem-Solution Template"
+   "text": "DRAMATIC STORY CANVAS: Problem-Solution Template",
+   "why": "slide title"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 1,
-   "text": "DRAMATIC STORY CANVAS: Storyboard Template"
+   "text": "DRAMATIC STORY CANVAS: Storyboard Template",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    14
+   ],
+   "of": 3,
+   "why": "same slide title on the next build slide, nothing in between"
   },
   {
-   "anno": 71,
-   "level": 2,
-   "parent": 1,
-   "text": "The Children and Many Faces Of The Dramatic Story Canvas",
-   "note": "title-only divider slide, missed by the gold"
+   "boxes": [
+    27
+   ],
+   "of": 3,
+   "why": "same slide title on the next build slide, nothing in between"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 14,
-   "of": 3
+   "box": 4,
+   "why": "canvas tagline repeated on every canvas slide"
   },
   {
-   "anno": 27,
-   "of": 3
+   "box": 6,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 7,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 8,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 71,
+   "why": "divider-like title slide at the end of the excerpt with nothing after it (substance)"
   }
  ]
 }

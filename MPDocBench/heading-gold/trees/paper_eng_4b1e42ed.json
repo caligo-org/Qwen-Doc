@@ -1,85 +1,155 @@
 {
  "doc": "paper_eng_4b1e42ed",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning"
+   "text": "Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning",
+   "why": "title: paper title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Abstract"
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1 Introduction"
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 1,
-   "text": "2 Related Work"
+   "text": "2 Related Work",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
    "parent": 1,
-   "text": "3 Background and Notation"
+   "text": "3 Background and Notation",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "4 Cohort and Data Pre-Processing"
+   "text": "4 Cohort and Data Pre-Processing",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
    "parent": 1,
-   "text": "5 Methods"
+   "text": "5 Methods",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
    "parent": 1,
-   "text": "6 Results"
+   "text": "6 Results",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 2,
    "parent": 1,
-   "text": "7 Discussion"
+   "text": "7 Discussion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Appendix 1"
+   "text": "Appendix 1",
+   "why": "back matter: appendix title at top-section level"
   },
   {
-   "anno": 100,
+   "boxes": [
+    100
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Appendix 2"
+   "text": "Appendix 2",
+   "why": "back matter: appendix title at top-section level"
   },
   {
-   "anno": 114,
+   "boxes": [
+    114
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Appendix 3"
+   "text": "Appendix 3",
+   "why": "back matter: appendix title at top-section level"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 2,
    "parent": 1,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 13,
+   "why": "bold run-in paragraph lead (\"Evaluating Decision-Making in Healthcare Institutions\"): text"
+  },
+  {
+   "box": 15,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 32,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 52,
+   "why": "bold run-in paragraph lead (finding sentence): text"
+  },
+  {
+   "box": 68,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 74,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 96,
+   "why": "run-in \"Acknowledgements\" starting a paragraph: text"
+  }
+ ]
 }

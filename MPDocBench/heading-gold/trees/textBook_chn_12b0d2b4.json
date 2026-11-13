@@ -1,77 +1,107 @@
 {
  "doc": "textBook_chn_12b0d2b4",
- "notation": "textBook-v2: L1 cover subject title; L2 front matter and chapters; L3 numbered sections; L4 exercise banners (练习) inside a section.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "数学",
-   "note": "cover title; 选择性必修/第二册/A版 are text"
+   "text": "数学 选择性必修 第二册",
+   "why": "title union: subject + course/volume lines naming this book"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": 3,
-   "text": "本册导引"
+   "text": "本册导引",
+   "why": "front matter: volume guide title"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 3,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 3,
-   "text": "第四章 数 列",
-   "note": "chapter label + title in one box"
+   "text": "第四章 数列",
+   "why": "chapter label + title (one box)"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 3,
    "parent": 31,
-   "text": "4.1 数列的概念"
-  },
-  {
-   "anno": 92,
-   "level": 4,
-   "parent": 34,
-   "text": "练习",
-   "note": "exercise banner; the exercises follow under it"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 47,
-   "note": "callout label 思考 (box with a prompt question)"
-  },
-  {
-   "anno": 51,
-   "note": "callout label 归纳 (box with a prompt question)"
+   "text": "4.1 数列的概念",
+   "why": "numbered section 4.1: describes the block below"
   }
  ],
  "repeats": [
   {
-   "anno": 9,
-   "of": 3
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   },
   {
-   "anno": 50,
-   "of": 31
+   "boxes": [
+    50
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
   },
   {
-   "anno": 68,
-   "of": 31
+   "boxes": [
+    68
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
   },
   {
-   "anno": 83,
-   "of": 31
+   "boxes": [
+    83
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
   },
   {
-   "anno": 105,
-   "of": 31
+   "boxes": [
+    105
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 47,
+   "why": "callout box 思考 with a one-line prompt: no significant block (substance), text"
+  },
+  {
+   "box": 51,
+   "why": "callout box 归纳 with a one-line question; the definition text after it is main text: label, text"
+  },
+  {
+   "box": 92,
+   "why": "练习: was L4 heading; round 3 breadcrumb review, containment: main text resumes after the exercise list (例3 + 分析 on p10) with no later heading closing the box, so it would fall under 练习 -> text"
+  }
+ ],
+ "considered": []
 }

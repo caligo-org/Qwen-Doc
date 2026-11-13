@@ -1,26 +1,45 @@
 {
  "doc": "handwritten_chn_d1ec88bb",
- "notation": "handwritten-v2: three printed worksheets answered by hand, each with its own title (L1); student name, solution hints and numbered problems are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "间隔问题专项一一锯木头、剪绳子"
+   "text": "间隔问题专项一一锯木头、剪绳子",
+   "why": "worksheet title: each printed worksheet in the doc has its own title (several L1, no shared title)"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 1,
    "parent": "root",
-   "text": "间隔问题专项-一爬楼梯"
+   "text": "间隔问题专项-一爬楼梯",
+   "why": "worksheet title: each printed worksheet in the doc has its own title (several L1, no shared title)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 1,
    "parent": "root",
-   "text": "间隔问题专项一一植树问题"
+   "text": "间隔问题专项一一植树问题",
+   "why": "worksheet title: each printed worksheet in the doc has its own title (several L1, no shared title)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "student name"
+  },
+  {
+   "box": 3,
+   "why": "解题思路 rule box: run-in label, text"
+  }
+ ]
 }

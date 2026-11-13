@@ -1,151 +1,327 @@
 {
  "doc": "book_eng_f2e8d789",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "YOUR MINDPOWER JOURNEY",
-   "note": "subtitle 'Bringing Belief To Reality' in the same box is text"
+   "text": "YOUR MINDPOWER JOURNEY Bringing Belief To Reality",
+   "why": "title: book title with its subtitle in the same box; authors are text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Table of CONTENTS"
+   "text": "Table of CONTENTS",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 1,
    "text": "Introduction",
-   "note": "author line in the same box is text"
+   "why": "front matter: introduction; breadcrumb round 3: the author byline \"Stéphane Schafeitel\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Chapter 1 My Mindpower Journey"
+   "text": "Chapter 1 My Mindpower Journey",
+   "why": "chapter label + chapter title in one box"
   },
   {
-   "anno": 98,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 61,
-   "text": "Re-Envisioning"
+   "text": "In This Chapter, You'll Learn:",
+   "why": "box title: chapter-objectives box with its list (box with own title and block)"
   },
   {
-   "anno": 124,
+   "boxes": [
+    98
+   ],
    "level": 3,
    "parent": 61,
-   "text": "The Visualization Exercise"
+   "text": "Re-Envisioning",
+   "why": "section"
   },
   {
-   "anno": 149,
+   "boxes": [
+    124
+   ],
    "level": 3,
    "parent": 61,
-   "text": "Neurogenesis & Neuroplasticity"
+   "text": "The Visualization Exercise",
+   "why": "section"
   },
   {
-   "anno": 165,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 61,
-   "text": "The 3 Pillars of Mindpower"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 25,
-   "note": "sentence introducing a bullet list (ends with a colon)"
+   "text": "Neurogenesis & Neuroplasticity",
+   "why": "section"
   },
   {
-   "anno": 36,
-   "note": "sentence introducing a list (ends with a colon)"
+   "boxes": [
+    165
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "The 3 Pillars of Mindpower",
+   "why": "section listing the three pillars"
   },
   {
-   "anno": 63,
-   "note": "label of the chapter's learning-objectives box"
+   "boxes": [
+    167,
+    168
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "1 Foundation, as defined by Merriam-Webster, is:",
+   "why": "item heading union: number badge + pillar definition label with its bullet block, one level below the section that lists them"
   },
   {
-   "anno": 146,
-   "note": "pull quote"
+   "boxes": [
+    176,
+    177
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "2 Mental Toughness is defined as:",
+   "why": "item heading union: number badge + pillar definition label"
   },
   {
-   "anno": 154,
-   "note": "callout label (Did You Know?)"
-  },
-  {
-   "anno": 168,
-   "note": "numbered definition lead-in sentence (pillar 1; pillars 2 and 3 are text blocks of the same form)"
+   "boxes": [
+    180,
+    181
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "3 Habit, as defined by Merriam-Webster, is:",
+   "why": "item heading union: number badge + pillar definition label"
   }
  ],
  "repeats": [
   {
-   "anno": 17,
-   "of": 1
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 30,
-   "of": 7
+   "boxes": [
+    30
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
   },
   {
-   "anno": 32,
-   "of": 1
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 42,
-   "of": 7
+   "boxes": [
+    42
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
   },
   {
-   "anno": 44,
-   "of": 1
+   "boxes": [
+    44
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 53,
-   "of": 7
+   "boxes": [
+    53
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
   },
   {
-   "anno": 55,
-   "of": 1
+   "boxes": [
+    55
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 58,
-   "of": 7
+   "boxes": [
+    58
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
   },
   {
-   "anno": 74,
-   "of": 1
+   "boxes": [
+    72
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 89,
-   "of": 1
+   "boxes": [
+    74
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 104,
-   "of": 1
+   "boxes": [
+    87
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 117,
-   "of": 1
+   "boxes": [
+    89
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 129,
-   "of": 1
+   "boxes": [
+    102
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 144,
-   "of": 1
+   "boxes": [
+    104
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 158,
-   "of": 1
+   "boxes": [
+    115
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 174,
-   "of": 1
+   "boxes": [
+    117
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   },
   {
-   "anno": 190,
-   "of": 1
+   "boxes": [
+    127
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 25,
+   "why": "lead-in sentence introducing a bullet list"
+  },
+  {
+   "box": 36,
+   "why": "lead-in sentence introducing a list of paragraphs"
+  },
+  {
+   "box": 146,
+   "why": "pull quote"
+  },
+  {
+   "box": 154,
+   "why": "callout label over a one-sentence quote band (no block of its own)"
+  }
+ ],
+ "considered": []
 }

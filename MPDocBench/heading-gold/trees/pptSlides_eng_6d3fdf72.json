@@ -1,33 +1,45 @@
 {
  "doc": "pptSlides_eng_6d3fdf72",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "CHAPTER 2 BASIC CHEMISTRY"
+   "text": "CHAPTER 2 BASIC CHEMISTRY",
+   "why": "deck title: chapter label + chapter title in one box"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
    "text": "WHY ARE WE REVIEWING CHEMISTRY?",
-   "note": "question slide title (picture only)"
+   "why": "slide title (question slide; deck without dividers)"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "WE ARE REVIEWING CHEMISTRY BECAUSE:"
+   "text": "WE ARE REVIEWING CHEMISTRY BECAUSE:",
+   "why": "slide title (answer slide, same look)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
-   "text": "CHEMISTRY IS..."
+   "text": "CHEMISTRY IS...",
+   "why": "slide title"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

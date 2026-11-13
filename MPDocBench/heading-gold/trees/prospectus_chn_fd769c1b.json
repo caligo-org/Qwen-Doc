@@ -1,45 +1,84 @@
 {
  "doc": "prospectus_chn_fd769c1b",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections. Cover issuer name/English name/address/sponsor/risk box are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 8,
+   "boxes": [
+    4,
+    8
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在科创板上市招股说明书"
+   "text": "成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "声明"
+   "parent": 4,
+   "text": "声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "发行概况"
+   "parent": 4,
+   "text": "发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "目录"
+   "parent": 4,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "cover risk-warning box title (regulatory banner)"
+   "box": 1,
+   "why": "cover risk banner title (科创板投资风险提示 box): cover text by the title rule"
   },
   {
-   "anno": 4,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 5,
-   "note": "issuer English name on cover"
+   "box": 5,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,41 +1,84 @@
 {
  "doc": "prospectus_chn_b3199fd6",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections. Cover issuer name/English name/address/sponsors are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    1,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在主板上市招股说明书"
+   "text": "宁波索宝蛋白科技股份有限公司 首次公开发行股票并在主板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "发行人声明"
+   "parent": 1,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "本次发行概况"
+   "parent": 1,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "目录"
+   "parent": 1,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    16,
+    17
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    21,
+    22
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    26,
+    27
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    30,
+    31
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 2,
-   "note": "issuer English name on cover"
+   "box": 2,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": []
 }

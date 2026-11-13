@@ -1,102 +1,164 @@
 {
  "doc": "prospectus_eng_cc0c7019",
- "notation": "prospectus-v2: L1 cover document title (Prospectus); fund name, address and legal-form lines text. L2 top sections (TABLE OF CONTENTS, ADDITIONAL INFORMATION..., GENERAL PRESENTATION..., BOOK I ...); L3 small-caps sections (INTRODUCTION, REQUEST INFORMATION, NB, CONTACTS, LEGAL STRUCTURE). Directory labels under CONTACTS and list lead-ins are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    1,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Prospectus"
+   "text": "ODDO FUNDS Prospectus",
+   "why": "title union: company (owner) + document type Prospectus"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "TABLE OF CONTENTS"
+   "parent": 1,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY"
+   "parent": 1,
+   "text": "ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY",
+   "why": "front matter section (country information)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "GENERAL PRESENTATION OF THE PROSPECTUS"
+   "parent": 1,
+   "text": "GENERAL PRESENTATION OF THE PROSPECTUS",
+   "why": "front matter section GENERAL PRESENTATION with its subsections"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 27,
-   "text": "INTRODUCTION"
+   "text": "INTRODUCTION",
+   "why": "subsection with its paragraphs"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 27,
-   "text": "REQUEST INFORMATION"
+   "text": "REQUEST INFORMATION",
+   "why": "subsection with its address blocks"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 27,
-   "text": "NB"
+   "text": "NB",
+   "why": "subsection NB with its paragraphs"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS"
+   "parent": 1,
+   "text": "BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS",
+   "why": "Book I part title (top body unit)"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 3,
    "parent": 48,
-   "text": "CONTACTS"
+   "text": "CONTACTS",
+   "why": "Book I section CONTACTS (directory)"
   },
   {
-   "anno": 68,
+   "boxes": [
+    50
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "The Company",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "The Board of Directors",
+   "why": "directory label with its block of names"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Designated Management Company",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Custodian Bank and Paying Agent",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Central Administration Agent, Registrar and Transfer Agent",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Auditors",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 48,
    "text": "LEGAL STRUCTURE",
-   "note": "section of Book I after CONTACTS (not a directory entry)"
+   "why": "Book I section LEGAL STRUCTURE: a section of Book I, not a directory entry (content)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "fund (issuer) name on cover"
-  },
-  {
-   "anno": 34,
-   "note": "bold lead-in introducing a bullet list"
-  },
-  {
-   "anno": 50,
-   "note": "directory label (names/addresses list under CONTACTS)"
-  },
-  {
-   "anno": 52,
-   "note": "directory label (names/addresses list under CONTACTS)"
-  },
-  {
-   "anno": 58,
-   "note": "directory label (names/addresses list under CONTACTS)"
-  },
-  {
-   "anno": 61,
-   "note": "directory label (names/addresses list under CONTACTS)"
-  },
-  {
-   "anno": 63,
-   "note": "directory label (names/addresses list under CONTACTS)"
-  },
-  {
-   "anno": 65,
-   "note": "directory label (names/addresses list under CONTACTS)"
+   "box": 34,
+   "why": "lead-in sentence introducing a bullet list (Investors are reminded that:): text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "legal form line on the cover: text"
+  }
+ ]
 }

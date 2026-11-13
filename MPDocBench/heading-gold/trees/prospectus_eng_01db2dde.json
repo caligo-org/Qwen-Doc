@@ -1,56 +1,144 @@
 {
  "doc": "prospectus_eng_01db2dde",
- "notation": "prospectus-v2: L1 cover document title (Prospectus + date line); fund/issuer name is text. L2 front-matter sections (WARNING, TABLE OF CONTENTS, ORGANISATION) and PART I/II; L3 numbered chapters and front-matter subheads.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Prospectus September 2015"
+   "text": "RICHELIEU BOND Prospectus",
+   "why": "title union: fund (owner) RICHELIEU BOND + document type Prospectus. Box #2 also prints the date 'September 2015' (one box); per NOTATIONS the text is only the heading part (round 3: date dropped from the text)"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "WARNING"
+   "parent": 1,
+   "text": "WARNING",
+   "why": "front matter section WARNING: titled block of several pages of notices, level of top sections"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 12,
    "text": "Handling of data",
-   "note": "underlined subhead inside WARNING"
+   "why": "own-line subsection label inside WARNING with its paragraphs"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "TABLE OF CONTENTS"
+   "parent": 1,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "ORGANISATION"
+   "parent": 1,
+   "text": "ORGANISATION",
+   "why": "front matter section ORGANISATION with its directory table"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "PART I - GENERAL INFORMATION"
+   "parent": 1,
+   "text": "PART I - GENERAL INFORMATION",
+   "why": "body part title PART I (top body unit)"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 56,
-   "text": "1. THE SICAV"
+   "text": "1. THE SICAV",
+   "why": "numbered chapter 1. under PART I"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 1,
-   "note": "fund (issuer) name on cover; document title is the Prospectus line"
+   "boxes": [
+    8
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": []
 }

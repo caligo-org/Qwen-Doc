@@ -1,115 +1,308 @@
 {
  "doc": "book_eng_04edb0ff",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Sustainable Best Management Practices for Beef Production"
+   "text": "Sustainable Best Management Practices for Beef Production BMPS",
+   "why": "title union: title + its acronym 'BMPs' printed on the cover (the running footer prints both as the title)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Table of Contents"
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1. Why BMPs Are Important to Louisiana"
+   "text": "1. Why BMPs Are Important to Louisiana",
+   "why": "section 1"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 1,
-   "text": "2. Introduction"
+   "text": "2. Introduction",
+   "why": "section 2"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 1,
-   "text": "3. The Practical Side of BMPs"
+   "text": "3. The Practical Side of BMPs",
+   "why": "section 3"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 1,
-   "text": "4. Whole Farm Nutrient Planning"
+   "text": "4. Whole Farm Nutrient Planning",
+   "why": "section 4"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 44,
-   "text": "Whole Farm Nutrient Balance"
+   "text": "Whole Farm Nutrient Balance",
+   "why": "subsection of section 4"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 44,
-   "text": "Typical Nutrient Balances"
+   "text": "Typical Nutrient Balances",
+   "why": "subsection of section 4"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
    "level": 2,
    "parent": 1,
-   "text": "5. Beef Management Practices"
+   "text": "5. Beef Management Practices",
+   "why": "section 5"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Hay Management"
+   "text": "Hay Management",
+   "why": "subsection of section 5"
   },
   {
-   "anno": 102,
+   "boxes": [
+    102
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Hay Waste"
+   "text": "Hay Waste",
+   "why": "subsection of section 5"
   },
   {
-   "anno": 109,
+   "boxes": [
+    109
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Practical Recommendations"
+   "text": "Practical Recommendations",
+   "why": "subsection of section 5 (heads the recommendations box)"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Management Practices for the Herd"
+   "text": "Management Practices for the Herd",
+   "why": "subsection of section 5"
   },
   {
-   "anno": 127,
+   "boxes": [
+    127
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Management Practices for Pastures and Forage"
+   "text": "Management Practices for Pastures and Forage",
+   "why": "subsection of section 5"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 4,
    "parent": 127,
-   "text": "Forage Quantity"
+   "text": "Forage Quantity",
+   "why": "own-line italic subhead under 'Management Practices for Pastures and Forage'"
   },
   {
-   "anno": 151,
+   "boxes": [
+    151
+   ],
    "level": 4,
    "parent": 127,
-   "text": "Forage Nutritive Value"
+   "text": "Forage Nutritive Value",
+   "why": "own-line italic subhead under 'Management Practices for Pastures and Forage'"
   },
   {
-   "anno": 164,
+   "boxes": [
+    164
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Beef Cattle Herd Requirements"
+   "text": "Beef Cattle Herd Requirements",
+   "why": "subsection of section 5"
   },
   {
-   "anno": 182,
+   "boxes": [
+    182
+   ],
    "level": 3,
    "parent": 97,
-   "text": "Matching Cow Requirements with Forage Production"
+   "text": "Matching Cow Requirements with Forage Production",
+   "why": "subsection of section 5"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    27
+   ],
+   "of": 18,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "of": 44,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 44,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 44,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "of": 44,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 97,
+   "why": "repeat: side-tab running section tag"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    198
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 7,
+   "why": "side-tab section tag printed before the section heading on the same page (running tag)"
+  },
+  {
+   "box": 30,
+   "why": "side-tab section tag printed before the section heading on the same page (running tag)"
+  }
+ ]
 }

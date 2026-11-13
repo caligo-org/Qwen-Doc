@@ -1,101 +1,154 @@
 {
  "doc": "textBook_chn_fdc97197",
- "notation": "textBook-v2: L1 cover subject title; L2 front matter and chapters; L3 节; L4 一、; L5 case titles inside boxes. Kind labels (学习目标, 案例, 讨论, 分析, 思考, 立即行动) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4,
+    5,
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "通用技术",
-   "note": "cover title; series, 选择性必修3 and module name 工程设计基础 are text (module-name rule)"
+   "text": "通用技术 ——选择性必修3 — 工程设计基础",
+   "why": "title union: subject + course line + module name naming this book"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 4,
-   "text": "前言"
+   "text": "前言",
+   "why": "front matter: preface title"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
    "parent": 4,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 2,
    "parent": 4,
    "text": "第一章 工程设计概述",
-   "note": "chapter label (number in a badge) + title; gold OCR duplicated 章"
+   "why": "chapter label + chapter title (one box)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 64,
-   "text": "第一节 了解工程"
+   "text": "第一节 了解工程",
+   "why": "section 第一节 + title"
   },
   {
-   "anno": 71,
+   "boxes": [
+    68
+   ],
    "level": 4,
    "parent": 67,
-   "text": "一、工程的含义与种类"
+   "text": "学习目标",
+   "why": "section-opening label 学习目标 with its own bullet list: at the level of the section parts (一、)"
   },
   {
-   "anno": 75,
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "一、工程的含义与种类",
+   "why": "numbered part 一、"
+  },
+  {
+   "boxes": [
+    75
+   ],
    "level": 5,
    "parent": 71,
    "text": "中国人自己设计的第一条铁路——京张铁路",
-   "note": "case title inside the 案例 box"
+   "why": "case box title: says what the box is about, one level below 一、 (kind label 案例 is text)"
   },
   {
-   "anno": 97,
+   "boxes": [
+    91
+   ],
+   "level": 5,
+   "parent": 71,
+   "text": "立即行动",
+   "why": "activity label with its own task block (instruction + table to fill): own-line label, one level below the section"
+  },
+  {
+   "boxes": [
+    97
+   ],
    "level": 4,
    "parent": 67,
-   "text": "二、工程的特性"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 6,
-   "note": "module name under the subject title (工程设计基础)"
-  },
-  {
-   "anno": 12,
-   "note": "module name repeated on title page"
-  },
-  {
-   "anno": 68,
-   "note": "kind label 学习目标 over a two-item list"
-  },
-  {
-   "anno": 74,
-   "note": "box kind label 案例"
-  },
-  {
-   "anno": 83,
-   "note": "activity label 讨论"
-  },
-  {
-   "anno": 85,
-   "note": "activity label 分析"
-  },
-  {
-   "anno": 89,
-   "note": "activity label 思考"
-  },
-  {
-   "anno": 91,
-   "note": "activity label 立即行动"
+   "text": "二、工程的特性",
+   "why": "numbered part 二、"
   }
  ],
  "repeats": [
   {
-   "anno": 10,
-   "of": 4
+   "boxes": [
+    10,
+    11,
+    12
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the cover title"
   },
   {
-   "anno": 80,
-   "of": 64
+   "boxes": [
+    66
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "of": 64,
+   "why": "repeat: running head naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 74,
+   "why": "kind label 案例 printed before the case title: label, text"
+  },
+  {
+   "box": 83,
+   "why": "prompt label 讨论 over one question: callout, text"
+  },
+  {
+   "box": 89,
+   "why": "prompt label 思考 over one question: callout, text"
+  },
+  {
+   "box": 85,
+   "why": "分析: was L5 heading; round 3 breadcrumb review, containment: the separate 思考 prompt about the new railway (#89-90) follows the table with no heading before 立即行动 and is not part of the analysis task; 讨论/分析/思考 all sit under the case title 京张铁路 -> text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 81,
+   "why": "chapter number tab beside the running head: text"
   }
  ]
 }

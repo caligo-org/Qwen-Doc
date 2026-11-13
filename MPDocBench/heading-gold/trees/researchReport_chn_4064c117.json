@@ -1,77 +1,117 @@
 {
  "doc": "researchReport_chn_4064c117",
- "notation": "researchReport (company note): L1 headline + ——company/report-type subtitle line (merged); L2 事件：/点评：; L3 the bullet heading lines under 点评. Sidebar banners (基本数据, 股价走势, 相关研究报告, 报告作者) are data-box labels and lists: text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6,
+    7
+   ],
    "level": 1,
    "parent": "root",
    "text": "医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评",
-   "merge": [
-    7
+   "why": "title union: headline + ——company + report type line printed with it"
+  },
+  {
+   "boxes": [
+    8
    ],
-   "note": "headline + subtitle naming company and report type"
-  },
-  {
-   "anno": 8,
    "level": 2,
    "parent": 6,
-   "text": "事件："
+   "text": "事件：",
+   "why": "section: cover summary title 事件 with its block"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 6,
-   "text": "点评："
+   "text": "点评：",
+   "why": "section: cover title 点评 over the review subheads"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 3,
    "parent": 10,
-   "text": "- 疫情影响逐步消退，2020年第四季度业绩增速显著恢复"
+   "text": "- 疫情影响逐步消退，2020年第四季度业绩增速显著恢复",
+   "why": "section: own-line subhead under 点评 with its paragraph"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 10,
-   "text": "加大研发投入保障未来可持续成长，盈利能力有望不断提升"
+   "text": "加大研发投入保障未来可持续成长，盈利能力有望不断提升",
+   "why": "section: own-line subhead under 点评"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 3,
    "parent": 10,
-   "text": "· 医保IT竞争优势明显，连续中标省级新医保项目"
+   "text": "医保IT竞争优势明显，连续中标省级新医保项目",
+   "why": "section: own-line subhead under 点评"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 10,
-   "text": "· 投资建议与盈利预测"
+   "text": "投资建议与盈利预测",
+   "why": "section: own-line subhead under 点评"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 10,
-   "text": "· 风险提示"
+   "text": "风险提示",
+   "why": "section: own-line subhead under 点评"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "附表：盈利预测",
+   "why": "appendix title, L2 (round 3 containment): 附表 title opening the appendix pages (forecast table, PE-band figure p2, 财务预测表 p3); as text it left them inside the cover bullet · 风险提示, which they are not about (same class as chn_a2f46550 附表 L2)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 24,
-   "note": "基本数据: sidebar data-table label"
+   "box": 24,
+   "why": "sidebar base-data table label: text"
   },
   {
-   "anno": 26,
-   "note": "股价走势: sidebar chart label"
+   "box": 26,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 29,
-   "note": "相关研究报告: related-reports list"
+   "box": 29,
+   "why": "related-reports list label: text per category note"
   },
   {
-   "anno": 32,
-   "note": "报告作者: analyst list"
+   "box": 32,
+   "why": "analyst box label: text per category note"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "running header naming company + report type (series line)"
+  },
+  {
+   "box": 47,
+   "why": "table title 财务预测表"
+  }
+ ]
 }

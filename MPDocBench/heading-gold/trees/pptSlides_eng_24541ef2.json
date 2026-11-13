@@ -1,89 +1,152 @@
 {
  "doc": "pptSlides_eng_24541ef2",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Induced Biochemical Defenses (HR)"
+   "text": "Induced Biochemical Defenses (HR)",
+   "why": "deck title"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
    "text": "How do plants defend against bacteria that enter the cell?",
-   "note": "slide title (no dividers: slide titles L2)"
+   "why": "slide title (question as the slide title; deck without dividers)"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Plant Defense Response"
+   "text": "Plant Defense Response",
+   "why": "slide title"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Elicitors of defense responses"
+   "text": "Elicitors of defense responses",
+   "why": "slide title"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Plant disease resistance genes"
+   "text": "Plant disease resistance genes",
+   "why": "slide title"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Classes of resistance proteins"
+   "text": "Classes of resistance proteins",
+   "why": "slide title"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Gene-for-gene resistance"
+   "text": "Gene-for-gene resistance",
+   "why": "slide title"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Deviations from gene-for-gene concept"
+   "text": "Deviations from gene-for-gene concept",
+   "why": "slide title"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Guard hypothesis"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 3,
-   "note": "teaser slide: keyword label beside a face drawing, no content under it"
+   "text": "Guard hypothesis",
+   "why": "slide title"
   },
   {
-   "anno": 5,
-   "note": "teaser slide keyword label"
-  },
-  {
-   "anno": 7,
-   "note": "teaser slide keyword label"
-  },
-  {
-   "anno": 59,
-   "note": "label \"Key points\" over the list (callout-type label)"
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Key points",
+   "why": "own-line label with its own list (a-c)"
   }
  ],
  "repeats": [
   {
-   "anno": 20,
-   "of": 13
+   "boxes": [
+    20
+   ],
+   "of": 13,
+   "why": "same slide title on the next slide, nothing in between"
   },
   {
-   "anno": 64,
-   "of": 58
+   "boxes": [
+    64
+   ],
+   "of": 58,
+   "why": "same slide title on the next slide, nothing in between"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "teaser-slide keyword next to a picture, no block of its own"
+  },
+  {
+   "box": 5,
+   "why": "teaser-slide keyword next to a picture, no block of its own"
+  },
+  {
+   "box": 7,
+   "why": "teaser-slide keyword next to a picture, no block of its own"
+  }
+ ],
+ "considered": [
+  {
+   "box": 22,
+   "why": "lead-in line with colon introducing a short list"
+  },
+  {
+   "box": 32,
+   "why": "diagram label"
+  },
+  {
+   "box": 33,
+   "why": "diagram label"
+  },
+  {
+   "box": 36,
+   "why": "diagram label"
+  },
+  {
+   "box": 48,
+   "why": "table title"
+  },
+  {
+   "box": 27,
+   "why": "table caption"
   }
  ]
 }

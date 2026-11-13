@@ -1,31 +1,70 @@
 {
  "doc": "textBook_eng_a5d8350e",
- "notation": "textBook-v2: L1 title; L2 front-matter titles. Author name is text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Measure, Integration & Real Analysis"
+   "text": "Measure, Integration & Real Analysis",
+   "why": "title: book title on the cover"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 1,
-   "text": "About the Author"
+   "text": "About the Author",
+   "why": "front matter: About the Author"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "author name under the title"
+   "box": 3,
+   "why": "author name on the cover: byline, text"
   }
  ],
- "repeats": []
+ "considered": []
 }

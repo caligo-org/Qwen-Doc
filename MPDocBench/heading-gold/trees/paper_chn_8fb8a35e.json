@@ -1,114 +1,182 @@
 {
  "doc": "paper_chn_8fb8a35e",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "葡萄籽低聚原花青素提取及性质分析"
+   "text": "葡萄籽低聚原花青素提取及性质分析",
+   "why": "title: paper title"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 5,
-   "text": "1 材料"
+   "text": "1 材料",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 3,
    "parent": 19,
-   "text": "1.1 原料与试剂"
+   "text": "1.1 原料与试剂",
+   "why": "subsection 1.1 (numbering)"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 19,
-   "text": "1.2 仪器"
+   "text": "1.2 仪器",
+   "why": "subsection 1.2 (numbering)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 5,
-   "text": "2 实验"
+   "text": "2 实验",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.1 低聚原花青素的提取"
+   "text": "2.1 低聚原花青素的提取",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.2 低聚原花青素质量浓度测定"
+   "text": "2.2 低聚原花青素质量浓度测定",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.3 低聚原花青素聚合度测定"
+   "text": "2.3 低聚原花青素聚合度测定",
+   "why": "subsection 2.3 (numbering)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 5,
-   "text": "3 结果与讨论"
+   "text": "3 结果与讨论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.1 提取剂 pH 的影响"
+   "text": "3.1 提取剂 pH 的影响",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.2 提取时间的影响"
+   "text": "3.2 提取时间的影响",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.3 提取温度的影响"
+   "text": "3.3 提取温度的影响",
+   "why": "subsection 3.3 (numbering)"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.4 提取物聚合度分析"
+   "text": "3.4 提取物聚合度分析",
+   "why": "subsection 3.4 (numbering)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.5 产物提取率分析"
+   "text": "3.5 产物提取率分析",
+   "why": "subsection 3.5 (numbering)"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 38,
-   "text": "3.6 提取物的红外光谱分析"
+   "text": "3.6 提取物的红外光谱分析",
+   "why": "subsection 3.6 (numbering)"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 2,
    "parent": 5,
-   "text": "4 结论"
+   "text": "4 结论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 2,
    "parent": 5,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 12,
-   "note": "English translation of the title"
+   "boxes": [
+    12
+   ],
+   "of": 5,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 5,
+   "why": "repeat: running head (authors: title) naming the document"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "column label (医药与日化原料) above the title: text"
+  }
+ ]
 }

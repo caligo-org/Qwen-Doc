@@ -1,28 +1,59 @@
 {
  "doc": "examPaper_eng_2122d135",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "Solution",
-   "note": "no document title printed; Solution and the back-matter sections are the top level"
+   "why": "untitled solution sheet: top section title Solution"
   },
   {
-   "anno": 36,
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Theoretical part:",
+   "why": "own-line label with its own marks list (v3 generic label rule)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Experimental part:",
+   "why": "own-line label with its own marks list"
+  },
+  {
+   "boxes": [
+    36
+   ],
    "level": 1,
    "parent": "root",
    "text": "Acknowledgement",
-   "note": "back matter, not part of the Solution"
+   "why": "back matter at the level of the top section (not part of the solution)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 1,
    "parent": "root",
    "text": "Literature",
-   "note": "back matter (references), a sibling of Acknowledgement rather than its child"
+   "why": "back matter (references) at top level, sibling of Acknowledgement"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 21,
+   "why": "lead-in sentence introducing the marking scheme: text"
+  }
+ ]
 }

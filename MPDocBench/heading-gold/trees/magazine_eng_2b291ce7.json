@@ -1,256 +1,432 @@
 {
  "doc": "magazine_eng_2b291ce7",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "BEIJINGREVIEW",
-   "note": "masthead"
+   "why": "title: periodical masthead BEIJING REVIEW"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 2,
    "text": "CONTENTS",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 2,
    "text": "EDITOR'S DESK",
-   "note": "section banner EDITOR'S DESK"
+   "why": "section: banner EDITOR'S DESK"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 24,
    "text": "The Urban Imperative",
-   "note": "editorial"
+   "why": "story headline: editorial below"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 2,
    "text": "THIS WEEK",
-   "note": "section tag THIS WEEK"
+   "why": "section: running section tag THIS WEEK starts the news section"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 55,
    "text": "URGENT MISSION ACCOMPLISHED",
-   "note": "photo story"
+   "why": "story headline: photo story with its caption text below"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 55,
    "text": "THIS WEEK SOCIETY",
-   "note": "subsection tag (THIS WEEK + SOCIETY)"
+   "why": "subsection: tag THIS WEEK + SOCIETY (subsection name changes)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 4,
    "parent": 62,
    "text": "Aircraft Maintenance",
-   "note": "photo story; sibling of the briefs, not their parent"
+   "why": "photo story headline with its text"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 4,
    "parent": 62,
-   "text": "Domestic Violence"
+   "text": "Domestic Violence",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 4,
    "parent": 62,
-   "text": "Curbing Tax Evasion"
+   "text": "Curbing Tax Evasion",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 4,
    "parent": 62,
-   "text": "Science Forum"
+   "text": "Science Forum",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 84,
+   "boxes": [
+    84
+   ],
    "level": 4,
    "parent": 62,
-   "text": "Ice Building"
+   "text": "Ice Building",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 4,
    "parent": 62,
-   "text": "Giant Panda Population"
+   "text": "Giant Panda Population",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 102,
+   "boxes": [
+    102
+   ],
    "level": 4,
    "parent": 62,
-   "text": "College Graduates"
+   "text": "College Graduates",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 4,
    "parent": 62,
    "text": "A Flourishing Industry",
-   "note": "photo story"
+   "why": "photo story headline with its text"
   },
   {
-   "anno": 113,
+   "boxes": [
+    113
+   ],
    "level": 4,
    "parent": 62,
    "text": "World Hello Day",
-   "note": "photo story"
+   "why": "photo story headline with its text"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 3,
    "parent": 55,
    "text": "THIS WEEK ECONOMY",
-   "note": "subsection tag (THIS WEEK + ECONOMY)"
+   "why": "subsection: tag THIS WEEK + ECONOMY"
   },
   {
-   "anno": 119,
+   "boxes": [
+    119
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Green Electricity Certificates"
+   "text": "Green Electricity Certificates",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 127,
+   "boxes": [
+    127
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Civil Aviation"
+   "text": "Civil Aviation",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Emerging Industries"
+   "text": "Emerging Industries",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 140,
+   "boxes": [
+    140
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Carbon Market Expansion"
+   "text": "Carbon Market Expansion",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 142,
+   "boxes": [
+    142
+   ],
    "level": 4,
    "parent": 118,
    "text": "NUMBERS",
-   "note": "data box title"
+   "why": "box with own title (NUMBERS data box) one level below the subsection"
   },
   {
-   "anno": 161,
+   "boxes": [
+    161
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Installed Power Capacity"
+   "text": "Installed Power Capacity",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 169,
+   "boxes": [
+    169
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Rural Banks"
+   "text": "Rural Banks",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 180,
+   "boxes": [
+    180
+   ],
    "level": 3,
    "parent": 55,
    "text": "THIS WEEK WORLD",
-   "note": "subsection tag (THIS WEEK + WORLD); country labels on the photos are caption labels"
+   "why": "subsection: tag THIS WEEK + WORLD (photo pages; country labels are caption labels)"
   },
   {
-   "anno": 206,
+   "boxes": [
+    206
+   ],
    "level": 3,
    "parent": 55,
    "text": "THIS WEEK PEOPLE & POINTS",
-   "note": "subsection tag (THIS WEEK + PEOPLE & POINTS)"
+   "why": "subsection: tag THIS WEEK + PEOPLE & POINTS"
   },
   {
-   "anno": 207,
+   "boxes": [
+    207
+   ],
    "level": 4,
    "parent": 206,
-   "text": "DESIGNER BEHIND POPULAR MASCOTS"
+   "text": "DESIGNER BEHIND POPULAR MASCOTS",
+   "why": "item headline: profile below"
   },
   {
-   "anno": 213,
+   "boxes": [
+    213
+   ],
    "level": 4,
    "parent": 206,
-   "text": "From Playgrounds to Python"
+   "text": "From Playgrounds to Python",
+   "why": "item headline: opinion excerpt below"
   },
   {
-   "anno": 220,
+   "boxes": [
+    220
+   ],
    "level": 4,
    "parent": 206,
-   "text": "Sports Mean Business"
+   "text": "Sports Mean Business",
+   "why": "item headline: opinion excerpt below"
   },
   {
-   "anno": 234,
+   "boxes": [
+    234
+   ],
    "level": 4,
    "parent": 206,
-   "text": "Work Without Barriers"
+   "text": "Work Without Barriers",
+   "why": "item headline with its block"
   },
   {
-   "anno": 240,
+   "boxes": [
+    240
+   ],
    "level": 4,
    "parent": 206,
-   "text": "YOUNGEST CAS MEMBER"
+   "text": "YOUNGEST CAS MEMBER",
+   "why": "item headline with its block"
   },
   {
-   "anno": 254,
+   "boxes": [
+    254
+   ],
    "level": 2,
    "parent": 2,
    "text": "COVER STORY",
-   "note": "section banner COVER STORY"
+   "why": "section: banner COVER STORY"
   },
   {
-   "anno": 255,
+   "boxes": [
+    255
+   ],
    "level": 3,
    "parent": 254,
-   "text": "A NEW URBAN LIFE"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 5,
-   "note": "cover line"
-  },
-  {
-   "anno": 7,
-   "note": "advertisement (p2)"
-  },
-  {
-   "anno": 25,
-   "note": "masthead logo in the colophon column"
-  },
-  {
-   "anno": 47,
-   "note": "contact box title in the colophon area"
+   "text": "A NEW URBAN LIFE",
+   "why": "story headline: cover story below"
   }
  ],
  "repeats": [
   {
-   "anno": 90,
-   "of": 55
+   "boxes": [
+    25
+   ],
+   "of": 2,
+   "why": "repeat: masthead restated at the head of the colophon column"
   },
   {
-   "anno": 153,
-   "of": 55
+   "boxes": [
+    90
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
   },
   {
-   "anno": 193,
-   "of": 55
+   "boxes": [
+    153
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
   },
   {
-   "anno": 230,
-   "of": 55
+   "boxes": [
+    193
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    230
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    204
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    251
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    258
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 5,
+   "why": "cover line"
+  },
+  {
+   "box": 7,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 47,
+   "why": "contact box title (WRITE TO US) in the colophon area"
+  }
+ ],
+ "considered": []
 }

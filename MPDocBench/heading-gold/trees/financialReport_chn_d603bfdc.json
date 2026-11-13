@@ -1,77 +1,127 @@
 {
  "doc": "financialReport_chn_d603bfdc",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 8,
+   "boxes": [
+    4,
+    8
+   ],
    "level": 1,
    "parent": "root",
-   "text": "中期財務報告 截至二零二五年六月三十日止六個月",
-   "note": "report title; period line printed in the same title block"
+   "text": "中國天元醫療集團有限公司 中期財務報告\n截至二零二五年六月三十日止六個月",
+   "why": "title union: owner (Chinese registered name) + document type (中期財務報告 + period in the same box)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "目錄"
+   "parent": 4,
+   "text": "目錄",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 8,
+   "parent": 4,
    "text": "綜合損益表",
-   "note": "statement page title (table caption)"
+   "why": "section: statement caption over its table"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "綜合損益及其他全面收入表"
+   "parent": 4,
+   "text": "綜合損益及其他全面收入表",
+   "why": "section: statement caption"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "綜合財務狀況表"
+   "parent": 4,
+   "text": "綜合財務狀況表",
+   "why": "section: statement caption"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "簡明綜合權益變動報表"
+   "parent": 4,
+   "text": "簡明綜合權益變動報表",
+   "why": "section: statement caption"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "簡明綜合現金流量表"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 2,
-   "note": "brand/logo text"
+   "parent": 4,
+   "text": "簡明綜合現金流量表",
+   "why": "section: statement caption"
   },
   {
-   "anno": 3,
-   "note": "issuer English name"
-  },
-  {
-   "anno": 4,
-   "note": "issuer name"
-  },
-  {
-   "anno": 43,
-   "note": "run-in label 附註： under the cash flow statement"
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "附註：",
+   "why": "section: own-line label 附註： with its own block (sentence + table) under the cash flow statement"
   }
  ],
  "repeats": [
   {
-   "anno": 26,
-   "of": 22
+   "boxes": [
+    26
+   ],
+   "of": 22,
+   "why": "repeat: (續) on the next page, statement still open"
   },
   {
-   "anno": 40,
-   "of": 36
+   "boxes": [
+    40
+   ],
+   "of": 36,
+   "why": "repeat: (續) on the next page, statement still open"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "brand/logo text on cover"
+  },
+  {
+   "box": 3,
+   "why": "owner English name on cover: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "incorporation line, text"
+  },
+  {
+   "box": 6,
+   "why": "stock code, text"
+  },
+  {
+   "box": 7,
+   "why": "year line on cover, text"
+  },
+  {
+   "box": 13,
+   "why": "period line under statement caption, text"
+  },
+  {
+   "box": 15,
+   "why": "statement footer note, text"
   }
  ]
 }

@@ -1,487 +1,618 @@
 {
  "doc": "newspaper_chn_4f3edefe",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 经济日报, same family as newspaper_chn_43c21ee3: page tags (要闻, 综合, 国际, 时评, 地方, 企业) = L2; headlines L3; 引题/副题 and column rubrics are text; in-story subheads L4.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "經濟日報",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 3,
    "parent": 1,
-   "text": "习近平会见泰国国王哇集拉隆功"
+   "text": "习近平会见泰国国王哇集拉隆功",
+   "why": "story headline, front page (no banner)"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 1,
    "text": "神舟二十号航天员乘组顺利返回",
-   "note": "the line below is a deck"
+   "why": "story headline"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 3,
    "parent": 1,
    "text": "扩大服务消费稳增长惠民生",
-   "note": "rubric 经济论坛 is text"
+   "why": "story headline (rubric 经济论坛 above is text)"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 1,
    "text": "迎峰度冬能源供应有保障",
-   "note": "引题 above is text"
+   "why": "story headline (引题 above is a deck)"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 3,
    "parent": 1,
    "text": "我国经济转型升级态势持续",
-   "note": "引题 above is text"
+   "why": "story headline (引题 above is a deck)"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 4,
    "parent": 55,
-   "text": "经济运行总体平稳"
+   "text": "经济运行总体平稳",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 2,
    "parent": 1,
    "text": "要闻",
-   "note": "page tag p2"
+   "why": "section: page tag 要闻 on p2"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 3,
    "parent": 72,
-   "text": "李强主持召开国务院常务会议"
+   "text": "李强主持召开国务院常务会议",
+   "why": "story headline"
   },
   {
-   "anno": 86,
+   "boxes": [
+    86
+   ],
    "level": 3,
    "parent": 72,
-   "text": "李强会见泰国国王哇集拉隆功"
+   "text": "李强会见泰国国王哇集拉隆功",
+   "why": "story headline"
   },
   {
-   "anno": 95,
+   "boxes": [
+    94,
+    95
+   ],
    "level": 3,
    "parent": 72,
-   "text": "公布修订后的《对外使用国徽图案的办法》",
-   "note": "引题 '李强签署国务院令' is text"
+   "text": "李强签署国务院令 公布修订后的《对外使用国徽图案的办法》",
+   "why": "story headline; 引题 李强签署国务院令 above is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 3,
    "parent": 72,
-   "text": "丁薛祥出席2025世界中文大会开幕式并发表主旨讲话"
+   "text": "丁薛祥出席2025世界中文大会开幕式并发表主旨讲话",
+   "why": "story headline"
   },
   {
-   "anno": 112,
+   "boxes": [
+    112
+   ],
    "level": 3,
    "parent": 72,
-   "text": "越共中央总书记苏林会见李书磊"
+   "text": "越共中央总书记苏林会见李书磊",
+   "why": "story headline"
   },
   {
-   "anno": 122,
+   "boxes": [
+    121,
+    122
+   ],
    "level": 3,
    "parent": 72,
-   "text": "深入学习领会习近平总书记关于思想建设、理论强党的重要论述 自觉做党的创新理论的笃信笃行者",
-   "note": "two-line main headline; 引题 above is text"
+   "text": "陈希在中央党校(国家行政学院)2025年秋季学期第二批进修班开学典礼上强调 深入学习领会习近平总书记关于思想建党、理论强党的重要论述 自觉做党的创新理论的笃信笃行者",
+   "why": "story headline printed over two big lines in one box; 引题 above is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 3,
    "parent": 72,
-   "text": "（上接第一版）",
-   "continues": 55,
-   "note": "jump of 我国经济转型升级态势持续; no headline printed, the jump line is the only marker"
+   "text": "我国经济转型升级态势持续",
+   "why": "continuation: jump line of the front-page story, its subheads follow | breadcrumb round 3: jump prints no headline (printed: \"（上接第一版）\"), so the continuation takes the original's title #55",
+   "continues": 55
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 4,
    "parent": 128,
-   "text": "新动能培育壮大"
+   "text": "新动能培育壮大",
+   "why": "in-story subhead of the jumped story"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 4,
    "parent": 128,
-   "text": "实现全年目标具备较多有利条件"
+   "text": "实现全年目标具备较多有利条件",
+   "why": "in-story subhead of the jumped story"
   },
   {
-   "anno": 145,
+   "boxes": [
+    145
+   ],
    "level": 3,
    "parent": 72,
    "text": "建设国际化消费环境当重细节",
-   "note": "rubric 金视角 is text"
+   "why": "story headline (vertical; rubric 金视角 is text)"
   },
   {
-   "anno": 156,
+   "boxes": [
+    156
+   ],
    "level": 2,
    "parent": 1,
    "text": "综合",
-   "note": "page tag p3"
+   "why": "section: page tag 综合 on p3"
   },
   {
-   "anno": 160,
+   "boxes": [
+    160
+   ],
    "level": 3,
    "parent": 156,
-   "text": "多地推进物流行业降本增效"
+   "text": "多地推进物流行业降本增效",
+   "why": "story headline (引题 above is a deck)"
   },
   {
-   "anno": 165,
+   "boxes": [
+    165
+   ],
    "level": 4,
    "parent": 160,
-   "text": "高效衔接完善网络"
+   "text": "高效衔接完善网络",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 173,
+   "boxes": [
+    173
+   ],
    "level": 4,
    "parent": 160,
-   "text": "资源整合打通堵点"
+   "text": "资源整合打通堵点",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 4,
    "parent": 160,
-   "text": "服务创新降低成本"
+   "text": "服务创新降低成本",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 185,
+   "boxes": [
+    185
+   ],
    "level": 3,
    "parent": 156,
    "text": "『一赛跨三地』带火湾区游",
-   "note": "rubric 文体市场面面观 is text"
+   "why": "story headline (vertical; rubric 文体市场面面观 is text)"
   },
   {
-   "anno": 197,
+   "boxes": [
+    197
+   ],
    "level": 3,
    "parent": 156,
-   "text": "我国探明首个千吨级金矿"
+   "text": "我国探明首个千吨级金矿",
+   "why": "story headline"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 3,
    "parent": 156,
    "text": "老场馆 新功能 利共享",
-   "note": "rubric 直击十五运会 is text"
+   "why": "story headline (vertical; rubric 直击十五运会 is text)"
   },
   {
-   "anno": 219,
+   "boxes": [
+    219
+   ],
    "level": 3,
    "parent": 156,
    "text": "为奋力开创中国式现代化建设新局面提供坚强财政保障",
-   "note": "rubric above and ——访 line below are text"
+   "why": "story headline (series rubric above and ——访 line below are text)"
   },
   {
-   "anno": 223,
+   "boxes": [
+    223
+   ],
    "level": 4,
    "parent": 219,
-   "text": "因时因势施策不断深化对财政宏观调控的规律性认识"
+   "text": "因时因势施策不断深化对财政宏观调控的规律性认识",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 229,
+   "boxes": [
+    229
+   ],
    "level": 4,
    "parent": 219,
-   "text": "把准形势任务有力有效实施积极的财政政策"
+   "text": "把准形势任务有力有效实施积极的财政政策",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 237,
+   "boxes": [
+    237
+   ],
    "level": 4,
    "parent": 219,
-   "text": "坚持扩大内需支持建设强大国内市场"
+   "text": "坚持扩大内需支持建设强大国内市场",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 243,
+   "boxes": [
+    243
+   ],
    "level": 4,
    "parent": 219,
-   "text": "推进财政改革管理加快构建高水平社会主义市场经济体制"
+   "text": "推进财政改革管理加快构建高水平社会主义市场经济体制",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 253,
+   "boxes": [
+    253
+   ],
    "level": 2,
    "parent": 1,
    "text": "国际",
-   "note": "page tag p4"
+   "why": "section: page tag 国际 on p4"
   },
   {
-   "anno": 256,
+   "boxes": [
+    256
+   ],
    "level": 3,
    "parent": 253,
-   "text": "二十国集团峰会带给非洲新机遇"
+   "text": "二十国集团峰会带给非洲新机遇",
+   "why": "story headline"
   },
   {
-   "anno": 275,
+   "boxes": [
+    275
+   ],
    "level": 3,
    "parent": 253,
    "text": "AI成科技行业重构关键推手",
-   "note": "rubric 外企新语 is text"
+   "why": "story headline (vertical; rubric 外企新语 is text)"
   },
   {
-   "anno": 286,
+   "boxes": [
+    286
+   ],
    "level": 3,
    "parent": 253,
-   "text": "中国农业设备助力科威特沙漠变田园"
+   "text": "中国农业设备助力科威特沙漠变田园",
+   "why": "story headline (vertical)"
   },
   {
-   "anno": 302,
+   "boxes": [
+    302
+   ],
    "level": 3,
    "parent": 253,
-   "text": "欧洲能源在安全与自主间“徘徊”"
+   "text": "欧洲能源在安全与自主间“徘徊”",
+   "why": "story headline"
   },
   {
-   "anno": 317,
+   "boxes": [
+    317
+   ],
    "level": 2,
    "parent": 1,
    "text": "时评",
-   "note": "page tag p5"
+   "why": "section: page tag 时评 on p5"
   },
   {
-   "anno": 321,
+   "boxes": [
+    321
+   ],
    "level": 3,
    "parent": 317,
    "text": "出实招化痛点激发民间投资活力",
-   "note": "rubric 每周经济观察 is text"
+   "why": "story headline (rubric 每周经济观察 is text)"
   },
   {
-   "anno": 334,
+   "boxes": [
+    334
+   ],
    "level": 3,
    "parent": 317,
-   "text": "打好京津冀“大健康”这张牌"
+   "text": "打好京津冀“大健康”这张牌",
+   "why": "story headline"
   },
   {
-   "anno": 344,
+   "boxes": [
+    344
+   ],
    "level": 3,
    "parent": 317,
-   "text": "联农带农闯出乡村振兴路"
+   "text": "联农带农闯出乡村振兴路",
+   "why": "story headline (vertical)"
   },
   {
-   "anno": 358,
+   "boxes": [
+    358
+   ],
    "level": 3,
    "parent": 317,
    "text": "发展数据岂容“美颜”",
-   "note": "cartoon box with its own title and text"
+   "why": "box with its own title: cartoon with comment text below"
   },
   {
-   "anno": 361,
+   "boxes": [
+    361
+   ],
    "level": 3,
    "parent": 317,
    "text": "打通物流业降本增效『经络』",
-   "note": "rubric 洞见 is text"
+   "why": "story headline (vertical; rubric 洞见 is text)"
   },
   {
-   "anno": 373,
+   "boxes": [
+    373
+   ],
    "level": 3,
    "parent": 317,
-   "text": "守好从农田到餐桌每道关口"
+   "text": "守好从农田到餐桌每道关口",
+   "why": "story headline"
   },
   {
-   "anno": 386,
+   "boxes": [
+    386
+   ],
    "level": 2,
    "parent": 1,
    "text": "地方",
-   "note": "page tag p6"
+   "why": "section: page tag 地方 on p6"
   },
   {
-   "anno": 391,
+   "boxes": [
+    391
+   ],
    "level": 3,
    "parent": 386,
    "text": "天津和平区 文旅融合破圈重生",
-   "note": "rubric 各地新亮点 is text"
+   "why": "story headline (rubric 各地新亮点 is text)"
   },
   {
-   "anno": 395,
+   "boxes": [
+    395
+   ],
    "level": 4,
    "parent": 391,
-   "text": "寸土也能生金"
+   "text": "寸土也能生金",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 403,
+   "boxes": [
+    403
+   ],
    "level": 4,
    "parent": 391,
-   "text": "金篮子装金蛋"
+   "text": "金篮子装金蛋",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 410,
+   "boxes": [
+    410
+   ],
    "level": 4,
    "parent": 391,
-   "text": "文旅盘活老街区"
+   "text": "文旅盘活老街区",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 419,
+   "boxes": [
+    419
+   ],
    "level": 3,
    "parent": 386,
    "text": "冰雪经济莫止步于冰雪",
-   "note": "rubric 记者来信 is text"
+   "why": "story headline (vertical; rubric 记者来信 is text)"
   },
   {
-   "anno": 428,
+   "boxes": [
+    428
+   ],
    "level": 3,
    "parent": 386,
-   "text": "厦门邮轮母港优势加速释放"
+   "text": "厦门邮轮母港优势加速释放",
+   "why": "story headline (vertical)"
   },
   {
-   "anno": 441,
+   "boxes": [
+    441
+   ],
    "level": 3,
    "parent": 386,
    "text": "东川礼村这样盘活集体资产",
-   "note": "rubric 共富路上·乡村创变 is text"
+   "why": "story headline (rubric 共富路上·乡村创变 is text)"
   },
   {
-   "anno": 454,
+   "boxes": [
+    454
+   ],
    "level": 2,
    "parent": 1,
    "text": "企业",
-   "note": "page tag p7"
+   "why": "section: page tag 企业 on p7"
   },
   {
-   "anno": 458,
+   "boxes": [
+    458
+   ],
    "level": 3,
    "parent": 454,
    "text": "车企亟待驶出“极端营销”怪圈",
-   "note": "rubric 忠阳车评 is text"
+   "why": "story headline (rubric 忠阳车评 is text)"
   },
   {
-   "anno": 472,
+   "boxes": [
+    471,
+    472
+   ],
    "level": 3,
    "parent": 454,
-   "text": "探寻绿色航空解决方案",
-   "note": "引题 above is text"
+   "text": "天津航空提升运行效率—— 探寻绿色航空解决方案",
+   "why": "story headline (引题 above is a deck) | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports"
   },
   {
-   "anno": 479,
+   "boxes": [
+    479
+   ],
    "level": 4,
-   "parent": 472,
-   "text": "优化航路"
+   "parent": 471,
+   "text": "优化航路",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 488,
+   "boxes": [
+    488
+   ],
    "level": 4,
-   "parent": 472,
-   "text": "节油减排"
+   "parent": 471,
+   "text": "节油减排",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 495,
+   "boxes": [
+    495
+   ],
    "level": 4,
-   "parent": 472,
-   "text": "精细管控"
+   "parent": 471,
+   "text": "精细管控",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 504,
+   "boxes": [
+    504
+   ],
    "level": 3,
    "parent": 454,
-   "text": "啃下环保技术硬骨头",
-   "note": "vertical; 引题 '青岛榕信破解『内卷』困局——' in the same box is text"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 32,
-   "note": "rubric 经济论坛"
-  },
-  {
-   "anno": 43,
-   "note": "引题"
-  },
-  {
-   "anno": 54,
-   "note": "引题"
-  },
-  {
-   "anno": 68,
-   "note": "导读 index box"
-  },
-  {
-   "anno": 94,
-   "note": "引题"
-  },
-  {
-   "anno": 121,
-   "note": "引题"
-  },
-  {
-   "anno": 144,
-   "note": "rubric 金视角"
-  },
-  {
-   "anno": 159,
-   "note": "引题"
-  },
-  {
-   "anno": 184,
-   "note": "rubric"
-  },
-  {
-   "anno": 202,
-   "note": "rubric"
-  },
-  {
-   "anno": 217,
-   "note": "rubric"
-  },
-  {
-   "anno": 274,
-   "note": "rubric"
-  },
-  {
-   "anno": 320,
-   "note": "rubric"
-  },
-  {
-   "anno": 360,
-   "note": "rubric"
-  },
-  {
-   "anno": 389,
-   "note": "rubric"
-  },
-  {
-   "anno": 418,
-   "note": "rubric"
-  },
-  {
-   "anno": 440,
-   "note": "rubric"
-  },
-  {
-   "anno": 457,
-   "note": "rubric"
-  },
-  {
-   "anno": 471,
-   "note": "引题"
+   "text": "青岛榕信破解『内卷』困局—— 啃下环保技术硬骨头",
+   "why": "story headline (vertical); 引题 in the same box is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports (引题 in the same box)"
   }
  ],
  "repeats": [
   {
-   "anno": 74,
-   "of": 1
+   "boxes": [
+    74,
+    158,
+    255,
+    319,
+    388,
+    456
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 32,
+   "why": "column rubric above a headline (kicker), text"
   },
   {
-   "anno": 158,
-   "of": 1
+   "box": 144,
+   "why": "column rubric above a headline (kicker), text"
   },
   {
-   "anno": 255,
-   "of": 1
+   "box": 184,
+   "why": "column rubric above a headline (kicker), text"
   },
   {
-   "anno": 319,
-   "of": 1
+   "box": 202,
+   "why": "column rubric above a headline (kicker), text"
   },
   {
-   "anno": 388,
-   "of": 1
+   "box": 274,
+   "why": "column rubric above a headline (kicker), text"
   },
   {
-   "anno": 456,
-   "of": 1
+   "box": 320,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 360,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 389,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 418,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 440,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 457,
+   "why": "column rubric above a headline (kicker), text"
+  },
+  {
+   "box": 43,
+   "why": "引题 above the main headline: deck"
+  },
+  {
+   "box": 54,
+   "why": "引题 above the main headline: deck"
+  },
+  {
+   "box": 159,
+   "why": "引题 above the main headline: deck"
+  },
+  {
+   "box": 217,
+   "why": "series rubric above a headline (学习贯彻…·权威访谈), text"
+  },
+  {
+   "box": 68,
+   "why": "导读 index box with page pointers"
+  }
+ ],
+ "considered": [
+  {
+   "box": 24,
+   "why": "deck below headline"
   }
  ]
 }

@@ -1,41 +1,100 @@
 {
  "doc": "prospectus_chn_15fc0f65",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections (重要声明, 本次发行概况, 目录). Cover issuer name/English name/address/sponsors are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 7,
+   "boxes": [
+    2,
+    7
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在科创板上市招股说明书"
+   "text": "湖南航天环宇通信科技股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "重要声明"
+   "parent": 2,
+   "text": "重要声明",
+   "why": "front matter title (重要声明) with its block, level of top sections"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "本次发行概况"
+   "parent": 2,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "目录"
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    14,
+    15
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    20,
+    21
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    25,
+    26
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    30,
+    31
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    34,
+    35
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    38,
+    39
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 3,
-   "note": "issuer English name on cover"
+   "box": 3,
+   "why": "issuer English name on the cover: cover text, not part of the title union"
   }
  ],
- "repeats": []
+ "considered": []
 }

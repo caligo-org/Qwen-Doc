@@ -1,48 +1,74 @@
 {
  "doc": "textBook_eng_6104753f",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "Discrete Math with SageMath",
-   "note": "cover title; subtitle line (Learn Math with open-source software) and authors are text"
+   "why": "title: book title on the cover"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter: Preface"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Acknowledgements"
+   "text": "Acknowledgements",
+   "why": "front matter: Acknowledgements"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 2,
    "parent": 4,
-   "text": "From the Student Authors"
+   "text": "From the Student Authors",
+   "why": "front matter: From the Student Authors"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Authors and Contributors"
+   "text": "Authors and Contributors",
+   "why": "front matter: Authors and Contributors"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 5,
-   "note": "half-title repeat"
+   "boxes": [
+    5
+   ],
+   "of": 4,
+   "why": "repeat: half-title restates the title"
   },
   {
-   "anno": 6,
-   "note": "title repeated on title page"
+   "boxes": [
+    6
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the title"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover subtitle printed vertically apart from the title: subtitle, text"
+  }
+ ]
 }

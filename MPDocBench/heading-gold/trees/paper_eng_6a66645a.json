@@ -1,97 +1,144 @@
 {
  "doc": "paper_eng_6a66645a",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker"
+   "text": "Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker",
+   "why": "title: paper title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Abstract"
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1. Introduction"
+   "text": "1. Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2. Design Details"
+   "text": "2. Design Details",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 13,
-   "text": "2.1 Building-material-housing Solar Cooker (BMHSC)"
+   "text": "2.1 Building-material-housing Solar Cooker (BMHSC)",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 3,
    "parent": 13,
-   "text": "2.2 Commercial Hotbox Solar Cooker (CSC)"
+   "text": "2.2 Commercial Hotbox Solar Cooker (CSC)",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3. Experimental Studies"
+   "text": "3. Experimental Studies",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 28,
-   "text": "3.1 Thermal Performance"
+   "text": "3.1 Thermal Performance",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 28,
-   "text": "3.2 Cooking Performance"
+   "text": "3.2 Cooking Performance",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 3,
    "parent": 28,
-   "text": "3.3 Figures of Merit"
+   "text": "3.3 Figures of Merit",
+   "why": "subsection 3.3 (numbering)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 2,
    "parent": 2,
-   "text": "4. Energy Savings and Payback Periods"
+   "text": "4. Energy Savings and Payback Periods",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 2,
    "parent": 2,
-   "text": "5. Results and Discussion"
+   "text": "5. Results and Discussion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 84,
+   "boxes": [
+    84
+   ],
    "level": 2,
    "parent": 2,
-   "text": "6. Conclusions"
+   "text": "6. Conclusions",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 88,
+   "boxes": [
+    88
+   ],
    "level": 2,
    "parent": 2,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Authors"
+   "text": "Authors",
+   "why": "back matter: Authors section (own block), same look as References"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

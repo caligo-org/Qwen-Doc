@@ -1,39 +1,54 @@
 {
  "doc": "researchReport_chn_1c78bccd",
- "notation": "researchReport (periodic commentary): L1 = publication name in the banner; L2 = articles and the disclaimer title. The small blue column rubric above the first headline is text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "中國市場及A股點評",
-   "note": "banner name of the periodic commentary; no other title"
+   "why": "title: periodical commentary banner names the publication (masthead role); no other headline names the issue"
   },
   {
-   "anno": 6,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "年報季來臨，佈局高送轉"
+   "text": "大市導航",
+   "why": "section banner: column rubric over the commentary pieces that follow (newspaper-style section)"
   },
   {
-   "anno": 12,
-   "level": 2,
-   "parent": 1,
-   "text": "有色金屬：小金屬全面上漲"
+   "boxes": [
+    6
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "年報季來臨，佈局高送轉",
+   "why": "story headline under the column"
   },
   {
-   "anno": 19,
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "有色金屬：小金屬全面上漲",
+   "why": "story headline: second commentary piece, same look as #6"
+  },
+  {
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 1,
    "text": "免責聲明",
-   "note": "disclaimer back-matter title"
+   "why": "back matter: disclaimer title"
   }
  ],
- "not_headings": [
-  {
-   "anno": 5,
-   "note": "大市導航: small column rubric above the first headline"
-  }
- ],
- "repeats": []
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
 }

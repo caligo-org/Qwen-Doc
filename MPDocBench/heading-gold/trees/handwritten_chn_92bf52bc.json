@@ -1,63 +1,119 @@
 {
  "doc": "handwritten_chn_92bf52bc",
- "notation": "handwritten-v2 (lab report): 实验名称 line is the title L1; 一…七 sections L2; an own-line numbered topic title (4. 离心技术) L3. Numbered statements (1. 肝糖原…, 2. 糖原与碘作用呈棕红色) and run-in labels (·注意事项：) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "实验名称：肝糖原的提取与定性."
+   "text": "实验名称：肝糖原的提取与定性.",
+   "why": "title: 实验名称 field + experiment name, names the report"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一、实验目的"
+   "text": "一、实验目的",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "二、实验原理"
+   "text": "二、实验原理",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 3,
    "parent": 4,
    "text": "4. 离心技术",
-   "note": "own-line topic title over a multi-paragraph block; siblings 1-3 are one-line statements"
+   "why": "section: own-line numbered title 4. 离心技术 over a large block (siblings 1-3 are run-in statements)"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": 1,
-   "text": "三、步骤与注意事项"
+   "text": "三、步骤与注意事项",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "四. 药品及设备"
+   "text": "四. 药品及设备",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 1,
-   "text": "五. 实验结果及现象分析"
+   "text": "五. 实验结果及现象分析",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 2,
    "parent": 1,
-   "text": "六. 分析与讨论"
+   "text": "六. 分析与讨论",
+   "why": "section: Chinese-numbered part of the lab report"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
    "parent": 1,
-   "text": "七. 思考题"
+   "text": "七. 思考题",
+   "why": "section: Chinese-numbered part of the lab report (思考题 over questions + answers)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "run-in numbered principle statement 1."
+  },
+  {
+   "box": 6,
+   "why": "run-in statement 2."
+  },
+  {
+   "box": 10,
+   "why": "run-in statement 3. with its equations"
+  },
+  {
+   "box": 18,
+   "why": "run-in label 离心机的类型："
+  },
+  {
+   "box": 24,
+   "why": "run-in label ·注意事项："
+  },
+  {
+   "box": 40,
+   "why": "study question with its answer in one box: text"
+  },
+  {
+   "box": 41,
+   "why": "study question with its answer in one box"
+  }
+ ]
 }

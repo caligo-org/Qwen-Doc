@@ -1,86 +1,191 @@
-# annualReport learnings
+# annualReport learnings (v3)
 
-## Decisions
-- Cover (CN, cninfo style): company name + "20xx 年年度报告" printed as one title block -> one L1 node with both lines.
-  Logo, slogan, date line (2020年03月), running header "...年度报告全文", cninfo footer logo are text.
-- CN 第一节 重要提示、目录和释义: 目录 and 释义 printed on their own pages under 第一节 are L3 children of 第一节 (the
-  section title names them), even though they are printed in a similar size. 第X节 = L2.
-- CN 重要提示 page (SSE template): items 一、…十、 that are one-sentence statements with nothing under them are text;
-  items printed as a heading line with content below (五、利润分配预案, 六、前瞻性陈述的风险声明, 九、重大风险提示, 十、其他,
-  and the yes/no questions 七、八、 answered 否 below) are L3 under 重要提示. OPEN: the series shares one look/numbering, so
-  one could argue all ten are list items or all ten are headings.
-- CN 目录 on its own page with no 第一节 wrapper -> L2 (sibling of 重要提示).
-- SSE template body: 第X节 L2, 一、 L3, (一)/（一） L4, 1. L5. Bold (一)/(二)/(三) lines under 八、境内外会计准则下会计数据差异
-  with 适用/不适用 below are L4 headings even when the gold missed them.
-- Unbolded template label lines followed by 适用/不适用 ("报告期末公司前三年主要会计数据和财务指标的说明",
-  "季度数据与已披露定期报告数据差异说明") are text: printed as body lines, not heading lines. OPEN (borderline).
-- Cover with a logo lockup (company name + English name beside the logo) above the title block "公司名 20xx年年度报告":
-  the title block is L1; the lockup lines are text.
-- SZSE (cninfo) template: section subheads printed as table captions (一、公司信息, 二、联系人和联系方式 …) are headings
-  (L3). Small labels inside a subsection (公司聘请的会计师事务所, 公司是否需追溯调整…, 上述财务指标…是否存在重大差异) are
-  text. Deep numbered run of heading lines (一、 > （一） > 1、/A、 > 1、 > （1）) all count when each is printed on its
-  own line with content below; the gold often stops at （一）.
-- Numbered run-in-looking paragraphs inside 经营情况概述 ((一)优化产业结构… on their own line, then a paragraph) are L4
-  headings.
-- Lead-in sentences ending in a colon that introduce a table ("保险业务收入分险种如下：") are text, even when bold.
-  Table captions (利润表及现金流量表相关科目变动分析表) are text. SSE template sub-items printed as bold lines
-  (研发投入情况表, 情况说明, 赔款支出) stay headings.
-- Bold run-in lead-ins that start a paragraph ("（一）机制纸产销量创历史最好水平。全年…") are text (run-in labels),
-  unlike （一） lines printed on their own line.
-- Numbering beats the gold's flattening: under （一）主营业务分析 the "1./2./3." items are children of （一）, and
-  "(1)./(2)." children of those (gold had 2. as a sibling of （一）).
-- Cover where company name and "20xx年年度报告" are separate blocks (address/logo between them): L1 = the report title
-  line only, company name is text (NOTATIONS rule). When they form one stacked title block: one L1 with both.
-- Gold sometimes roots 第X节 at L1 or leaves 第一节/目录 without relation: re-rooted under the cover title.
-- EN glossy wrapper + Form 10-K: cover slogans (MORE DISCOVERY…, KEEP ASKING) are text; L1 = "2018 ANNUAL REPORT".
-  "UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington…" is the issuing body -> text; "FORM 10-K" = L2 (the
-  embedded filing); DOCUMENTS INCORPORATED BY REFERENCE, INDEX block, Forward-Looking Statements, PART I = L3;
-  Item N = L4; bold section heads = L5; bold-italic subheads = L6. Bold sentence lead-ins in Risk Factors are run-in text.
-  OPEN: the 10-K INDEX title box also restates "CRAY INC. FORM 10-K For Fiscal Year…" (kept as one node, printed text).
-- ASX Appendix 4E bundle: L1 = "Appendix 4E"; issuer name and the "Annual Financial Report / For the year ended" subtitle
-  on that page are text; the attached report's title page "ANNUAL FINANCIAL REPORT" = L2 sibling of "Results for
-  announcement to the market". Section title repeated at the top of every page ("DIRECTORS' REPORT" + date) is a
-  running head -> text. "X (continued)" subheads = continuation nodes at the original's level.
-- Cover with only the fund/company name (big) and "Annual Report <date>" (small) and nothing else between: merged into one
-  L1 (title split over two boxes). OPEN: vs baa53c78 where address+logo separate them and only the report line is L1.
-- When a top section's title is printed only as the running head (UK AIM report: "Strategic report", "Chairman's
-  statement", "Corporate governance" in the page header, no title in the body), the running head on the section's first
-  page is the L2 node (newspaper-style section tag rule); its repeats on later pages are text. When the body prints the
-  title too ("Chief Financial Officer Statement"), the body title is the node. OPEN.
-- Directory label/value pairs (SECRETARY, REGISTERED OFFICE, AUDITOR …) are form-field labels -> text. "(continued)"
-  lines without a title are text.
-- Glossy EN reports: chart titles (R&D Spend (Millions)…) are text; intro-page headlines and letter titles are L2.
-  Back-page investor-information titles (STOCK LISTING, INVESTOR RELATIONS, ANNUAL MEETING…) are L2 siblings; when the
-  layout box also holds the body, the node uses that box with only the printed heading line as text.
-- Standalone Form 10-K: L1 = "FORM 10-K" (the document title); the SEC name/address above it is the issuing body and
-  the registrant name is a cover field -> text. Top front-matter titles (DOCUMENTS INCORPORATED BY REFERENCE, TOC title,
-  forward-looking note) and "Part I" are L2; Item = L3; bold heads L4; italic heads L5. Bold-italic run-in bullet
-  lead-ins are text. OPEN: whether the registrant name should merge into the L1.
-- Board/executive name lists (name in bold + role below) are lists of names -> text (NOTATIONS), even though each name
-  is styled like a subhead. "Committees:" label -> text. Corporate Information box titles (Annual Meeting, Transfer
-  Agent…) are L3 under "Corporate Information".
-- Wrapper + 10-K (Alaska): FORM 10-K = L2; report title restated above "TABLE OF CONTENTS" -> text; TOC title, cautionary
-  note, PART I = L3 under FORM 10-K.
-- OPEN: 10-K subheads with identical bold-italic look (LTX-03 Development / Study 301 / Manufacturing…) are kept as
-  siblings (same look = same level, no numbering), although the gold and the content nest them.
-- OPEN: when the title box also holds the title's translation (Annual Report 2024 / Pūrongo-ā-tau …), node text keeps
-  only the original-language title line (translation = text per NOTATIONS); the box cannot be split.
+Decisions that recur (applied in every tree; OPEN = not settled by the test).
 
-## User decisions (2026-11-12)
-- A running header printed only on one section's pages (600 Group: "CFO Statement") is that section's heading (L2),
-  even when the body also prints a title; the body title ("Chief Financial Officer Statement") is L3 under it and the
-  section's subheads L4. Later general rule (not yet applied corpus-wide): furniture repeated in part but not all of
-  the document is a candidate section heading; first occurrence = node, later occurrences = repeats.
-- CONFIRMED by user: L1 = the report title only; the company/fund name is text even when printed in the same title
-  block (27 trees changed; 70d0bf2b: the report line #2 is the node, the fund name #1 text). Same reasoning as the
-  prospectus cover decision.
-- CONFIRMED: content beats look for 10-K subheads (ea53b553: Study 301 … AD Pharma Amended Agreement are children of
-  LTX-03 Development). 重要提示 items: headings when content sits under them, one-line statements text (as done).
+- Title: L1 = owner ∪ document type (金科地产集团股份有限公司 ∪ 2019年年度报告), one node even when both sit in one box.
+  Logo, slogan, date line, cninfo footer are text (considered when heading-like).
+- Running header naming the document (…年度报告全文) = repeat of L1 on every page after the cover. The one printed on
+  the cover page itself sits above the title in reading order -> listed as considered (cannot repeat a node not yet open).
+- 第一节 重要提示、目录和释义: 目录 and 释义 on their own pages are L3 under 第一节 (the section title names them).
+- 重要提示 (SSE template): one-sentence items (一、…四、) are text (considered); items printed as a heading line with
+  content below (五、利润分配预案, 六、, 九、, 十、其他, and the questions 七、八、 answered 否) are L3 under 重要提示
+  (user decision 2026-11-12: headings when content sits under them). OPEN under v3 substance: 否 / 不适用 is far less
+  than "much more content than heading".
+- SSE/SZSE body: 第X节 L2, 一、 L3, （一） L4, 1. L5, （1） L6 — every numbered line printed on its own line with content
+  below. Numbered template items stay headings even when only 适用/不适用 follows (the numbering is the outline).
+- Unnumbered template label lines: heading when a real block follows ("报告期末公司前三年主要会计数据和财务指标的说明" +
+  numbered explanations -> L4, sibling of (一)/(二) because it explains all of 七's data); text when only
+  适用/不适用 follows ("季度数据与已披露定期报告数据差异说明") (substance).
+- Stock-code header (股票代码：…), logo headers: text. Lead-in sentences before tables: text.
+- Cover with a logo lockup (company name + English name beside the logo, gold L1 boxes) above a title block
+  "公司名 / 20xx年年度报告": L1 = the title block; the lockup lines are not_headings (logo text).
+- SZSE (cninfo) template: table-caption subheads 一、公司信息 … are L3 (numbered outline). Unnumbered lines that only
+  name the single table right below (公司聘请的会计师事务所, 公司聘请的…财务顾问 + 适用 + table, 研发投入情况表,
+  营业收入整体情况, 公司主要销售客户情况) are table captions -> text. Unnumbered labels whose block has its own
+  discussion (赔款支出 + table + paragraphs; 报告期末…财务指标的说明 + numbered explanations) are headings one level
+  below. Labels with only 适用/不适用 or a one-word 是/否 answer are text (substance). OPEN: caption vs label is a
+  judgement on whether the block is just the table.
+- Numbered captions (1、主要资产重大变化情况 / (1). 主营业务分行业… printed as a table caption) stay headings: the
+  numbering puts them in the outline.
+- Numbering ladder with skipped levels: 1、 directly under 一、 (no （一） printed) is one level below 一、 (levels never
+  skip). A、/B、/C、 business-line heads inside （二） sit one below it, their 1、 and （1） below that (L7 reached).
+- Text-block outline lines (（一）优化产业结构… on its own line, paragraph below) are headings even though the gold
+  leaves them as text.
+- Running head "2019年年度报告" (document type only, no owner) still names the document -> repeat of L1.
+- Lead-in sentences ending in a colon before a table ("保险业务收入分险种如下：", "保险业务主要会计数据和财务指标：")
+  are text even when the gold marks them. Bold own-line labels with their own table + discussion (赔款支出,
+  保险业务手续费支出) are headings one level below their numbered item; 研发投入情况表 (caption of one table) and
+  情况说明 with only 不适用 below are text.
+- Gold sometimes roots 第X节 at L1 and leaves 第一节/目录 without relation (b20666fd): re-rooted under the cover title.
+- Bold run-in （一）…。 / （1）…： lead-ins starting a paragraph are text; （一） printed on its own line with a block
+  below is a heading.
+- Cover where company name and report title are separate blocks (address + logo between them, baa53c78): one union
+  L1 (owner ∪ document type) over the two boxes; address/logo/codes stay text.
+- Running head split into two header boxes (公司名 | 2019年年度报告, bd2f20cd): one repeat with both boxes.
+- Numbered risk items (1、原材料价格波动…风险 + 应对措施 block) inside 第一节 重要提示 are L3 under 第一节.
+- EN glossy wrapper + Form 10-K (Cray): the owner is printed only as a logo -> L1 = "2018 ANNUAL REPORT" alone (logo is
+  text); cover slogans are not_headings. Embedded "FORM 10-K" = L2 union with the registrant-name box
+  (CRAY INC., a mixed cover-field box; node text = "FORM 10-K CRAY INC."); the SEC name/address above it is the
+  issuing body (not_heading). 10-K: front-matter titles + PART = L3, Item = L4, bold heads L5, bold-italic subheads L6; italic or bold
+  run-in lead-ins and bold risk sentences are text.
+- ASX Appendix 4E bundle (Abacus): L1 = "Appendix 4E" ∪ "Abacus Group" (doc type + owner on page 1); the p1
+  subtitle "Annual Financial Report / For the year ended" is text. The attached report's cover title "ANNUAL FINANCIAL
+  REPORT" = L2 node; its title page restating it = repeat. Section title printed at the top of every Directors' Report
+  page = node on first page (L3), repeats after. "X (continued)" with the section still open = repeat (not continuation).
+- Standalone Form 10-K (Bloom): L1 = FORM 10-K ∪ registrant name box (text "FORM 10-K BLOOM ENERGY CORPORATION",
+  the "(Exact name of registrant…)" caption dropped). SEC name = not_heading. Front-matter titles + Part = L2, Item L3,
+  bold heads L4, bold-italic subheads L5, and content beats look for same-look subheads (Value Proposition /
+  Competition of a product sit one below that product). Header "Table of Contents / Index to Financial Statements" is
+  navigation text.
+- Owner printed only as a logo (Lam, Cray): L1 = the printed document-type line alone.
+- Back-page investor-information boxes whose layout box holds heading + body: node uses that box with text = the
+  printed heading line only (t= override).
+- Section-only running header + body title (alstria "Combined Management Report" header from the detail-index page on,
+  body "A. COMBINED MANAGEMENT REPORT"): header = L2 node on its first page, body title L3 below it (600 Group rule),
+  the detail index under the same header is L3 too; later headers = repeats. OPEN: header starts one page before the
+  body section (on its detail index).
+- Running footer "<owner> Annual Report 2024" = repeat of L1 (names the document).
+- Board/executive name lists (Alaska): names are not_headings even though gold marks them; "Committees:" legend label
+  too. Corporate Information box titles stay L3.
+- Title box that also holds the title's translation (Annual Report 2024 / Pūrongo-ā-tau …): v3 makes title +
+  translation printed with it one union -> node keeps the full box text.
+- Cover year split from "Annual Report" in two boxes (Gogo "2024" / "Annual Report") = one union.
 
-## Label rule pass
+## OPEN
+- 重要提示 yes/no questions (七、八、) answered by a single 否: kept as headings per user decision, but v3 substance
+  ("much more content than heading") argues against.
+- Caption vs label: unnumbered template lines naming the one table below (公司聘请的会计师事务所, 研发投入情况表) made
+  text; labels with table + discussion made headings. Boundary is a judgement.
+- Owner printed only as a logo (Lam, Cray, MSCI, alstria, Gogo, Fonterra): L1 has no owner part; running owner
+  wordmarks in headers are text.
+- alstria: section-only running header begins one page before its body title (on the detail index page).
+- Embedded/standalone 10-K: registrant name taken from a mixed cover-field box ("(Exact name of registrant…)"
+  caption dropped via text override); Cray's box also holds the file number.
+- Cover-page running head printed above the title (…年度报告全文 on page 1) cannot be a repeat (L1 not yet open) ->
+  considered.
 
-- Numbered A-share subsection "(三)境内外会计准则差异的说明：" ends in a colon but is a numbered outline heading
-  beside (一)/(二) -> kept (7 docs).
-- Kind A segment/brand subheads repeated under different sections ("Industrial laser systems" under trends and
-  activity; ALASKA AIRLINES / Alaska Airlines under business and loyalty) name specific content -> kept.
-- 10-K cover "(Mark One):" is a form field label -> stays text.
+## Breadcrumb review round 2
+
+Fix classes (37 docs, 853 paths read, 51 unseen pages viewed):
+- Missed numbered outline items (1): c8425a15 1、/2、 under 七、境内外会计准则下会计数据差异 (#54, #57) added as L4, as in
+  every sibling SZSE tree (numbered template items stay headings even with only 不适用 below).
+- Section-only running header listed after its page's body headings (2 docs): the gold leaves header boxes unordered,
+  so a header node must be listed before the headings it sits above. 600 Group (778bc822): Strategic report #60 now
+  parents the p7 subheads (were under Chairman's statement, which ends with its signature on p6); CFO Statement #159
+  parents Chief Financial Officer Statement #160 (was under Strategic report); Corporate governance #176 parents the
+  p13 subheads (were under CFO Statement). alstria (c58ec05f): DETAIL INDEX #19 under Combined Management Report #18
+  (was under CONTENT).
+- Contents title box that restates the document title (2 docs): Cray #54, Bloom #38 keep the box, text = the printed
+  heading line only (INDEX / Table of Contents); the restated owner/form/year lines are a repeat, so the breadcrumb
+  no longer restates its parent.
+- Containment (1): 77918496 二、未出席董事情况 (+ small table) made text: the one-sentence 重要提示 items 三、/四、 after it
+  are not about it; now treated like the other items 一、–四、.
+
+ACCEPTED (flags left in place):
+- ACCEPTED 00114ac3 #20, 16acace3 #21, 1737c8bb #19, 588028f9 #18, 679b76a4 #17, 787462d7 #18, 7de80556 #18,
+  7f487dea #19, b20666fd #18, baa53c78 #40, bad1d0cc #18, c8425a15 #17, cee67928 #17, dbf02372 #17, f0e6067b #36
+  FRONT: 目录 sits under 第一节 重要提示、目录和释义, whose title names it (SZSE template).
+- ACCEPTED 588028f9 #90 #94 #99 #119 #121 NUM: the document really prints a second 一、/二、/三、 ladder (bold, smaller,
+  own block) inside 一、报告期内公司从事的主要业务 and 一、概述.
+- ACCEPTED eng_0c770734 #54 (INDEX), eng_5a2b9698 #35 (CONTENTS), eng_a7bf8c0c #133 (TABLE OF CONTENTS),
+  eng_dd7d06a3 #40 (INDEX) FRONT: contents of the embedded 10-K / attached financial report, inside that L2 node.
+
+OPEN (round 2):
+- Last numbered risk item in 第一节 (baa53c78 5、疫情冲击风险, f0e6067b 3、技术储备不足的风险): the template's
+  利润分配预案 paragraph follows it with no heading before 目录, so it sits in that item's subtree. Kept the items as
+  headings (each has its own risk + 应对措施 block); the trailing paragraph is a containment exception.
+
+## Breadcrumb review round 3
+
+Independent review. 37/37 docs checked, all 854 breadcrumb paths read (819 after the fixes), plus every
+non-node element in reading order (scratchpad outline) and the tail of every subtree whose next node is shallower or
+starts a different numbering series (containment scan). check.py: no ERROR on any doc.
+
+Fix classes:
+- Containment, trailing parent-level content after the last item of a numbered series -> the whole series is text
+  (all or none: if the last item is text, the item before it would contain it). 4 docs, 20 nodes -> considered:
+  - baa53c78 1、–5、 risk items (#14 #17 #24 #27 #33) and f0e6067b 1、–3、 (#20 #23 #26): the 利润分配预案 paragraph
+    (#36 / #32) followed the last risk item with no heading before 目录. Resolves the round-2 OPEN / KNOWN case. The
+    paths are now L1 › 第一节 › 目录 / 释义.
+  - 16acace3 第四节 一、概述 （一）–（八） (#207 #209 #211 #213 #219 #221 #223 #225): closing paragraph #227
+    (报告期，得益于上述各项工作…) of 概述 fell under （八）.
+  - b20666fd 三、核心竞争力分析 1.–4. (#117 #119 #126 #129): closing sentence #131 (报告期内，公司核心竞争力未发生重大变化。)
+    fell under 4. 质量管理优势.
+- Containment, front-matter labels with no closing heading (1 doc, 8 nodes -> considered): 600 Group (778bc822)
+  Who We Are #10 + Position Statement / Mission / Vision (#14 #16 #18) and We Stand For #41 + Service / Innovation /
+  Quality (#42 #44 #46). Vision held the brand logos, the p3 adviser list and the board photo; Quality and both L2
+  labels held the untitled p5 contents list; nothing closes them before the Chairman's statement header (p6). Same
+  outcome as financialReport d1c80a8f 我們的宗旨 (round 2).
+- Restated section title (7 docs, 7 nodes -> repeats): SSE template 第一节 释义 › 一、释义 is not a narrower step;
+  一、释义 is now a repeat of 第一节 释义 (1695038a #48, 170f7a9e #33, 1c29d148 #33, 35b8e075 #32, 77918496 #34,
+  bd2f20cd #39, ebe06969 #36), like the restated-title rule. The lead-in sentence and the glossary table sit under
+  第一节 释义.
+
+Checked and kept:
+- Signature / date lines closing a statement under its last subhead (600 Group "Paul Dupee / Chairman" after Other
+  risks and uncertainties, "Rui Lopes / CFO" after Conclusion): attribution, like a byline; they do not break
+  containment.
+- SEC name line printed above an embedded FORM 10-K title (Cray #21, Alaska #103, Gogo #6) falls before the 10-K node
+  in reading order: it is the kicker-like issuing line of that cover, not content of the previous section.
+- 七、近三年主要会计数据和财务指标 › （二）主要财务指标 followed by the 说明 label + 不适用 (1c29d148, 77918496): the
+  label is text and its one-word answer is about the indicators; no leak.
+- alstria "Combined Management Report › A. COMBINED MANAGEMENT REPORT": section-only running header + body title,
+  the NOTATIONS 600 Group rule; kept.
+
+ACCEPTED (flags re-judged, all correct):
+- ACCEPTED 00114ac3 #20, 16acace3 #21, 1737c8bb #19, 588028f9 #18, 679b76a4 #17, 787462d7 #18, 7de80556 #18,
+  7f487dea #19, b20666fd #18, baa53c78 #40, bad1d0cc #18, c8425a15 #17, cee67928 #17, dbf02372 #17, f0e6067b #36
+  FRONT: 目录 under 第一节 重要提示、目录和释义, whose title names it; the step is narrower.
+- ACCEPTED 588028f9 #90 #94 #99 #119 #121 NUM: the document prints a second 一、二、三、 ladder (bold, own blocks)
+  inside 一、报告期内公司从事的主要业务 and 一、概述; each step is a narrower description.
+- ACCEPTED eng_0c770734 #54 INDEX, eng_5a2b9698 #35 CONTENTS, eng_a7bf8c0c #133 TABLE OF CONTENTS, eng_dd7d06a3 #40
+  INDEX FRONT: contents of the embedded 10-K / attached financial report, inside that L2 node.
+
+Unseen pages viewed (28 images, all 51 listed pages of this category: c8425a15 1-8,11,13; 7f487dea 5-8;
+f0e6067b 1,4-9; 679b76a4 3-6,9; dbf02372 2-6,8; 7de80556 3-4; baa53c78 5; bad1d0cc 2-4; 77918496 3-4;
+ebe06969 2-6,8; bd2f20cd 2-5; eng_70d0bf2b 3): no missed headings or wrong boxes.
+
+Round-1/2 OPEN cases:
+- (closed) Last risk item + 利润分配预案 paragraph: fixed above.
+- (closed) alstria header one page before the body title: the detail index under it is about that report, so the path
+  is consistent.
+- (closed) Embedded 10-K registrant name from a mixed cover-field box: v3 "owner only in a box with other fields" rule.
+- (closed, not a path) cover-page running head above the title = considered; caption vs label; 重要提示 七、/八、 with 否
+  (user decision 2026-11-12 keeps them).
+- OPEN (not an inconsistency): owner printed only as a logo (Lam, Cray, MSCI, alstria, Gogo, Fonterra). L1 is the
+  document type alone, so the breadcrumb lacks "whose", but every step is still narrower. MSCI's logo wordmark is OCR'd
+  as a header text box ("MSCI"); a union MSCI ∪ 2024 Annual Report would give the owner but contradicts "logo and
+  brand text are text".
+
+## User decisions (2026-11-13)
+- Numbered list items stay headings when a closing/summary paragraph follows the last item; the paragraph sits under
+  the last item. Restored 20 items (baa53c78 1、–5、, f0e6067b 1、–3、, 16acace3 （一）–（八）, b20666fd 1、–4.). Rule in NOTATIONS.md.
+- Owner printed only as a logo: the logo's text joins the L1 union when the layout has a box holding that text; a logo
+  with no text box stays out (rule in NOTATIONS.md "The title"). Supersedes the round-3 OPEN and the "Lam, Cray: L1 =
+  document type alone" note above.
+  - Changed: eng_b3c337f8 L1 "2024 Annual Report" -> "MSCI 2024 Annual Report" (header box #1 "MSCI" joined, removed
+    from considered; node id #3 -> #1, children/repeats re-pointed).
+  - Unchanged (logo is an image with no text box): eng_0c770734 (Cray, figure #4), eng_824dec82 (Lam, figure #1),
+    eng_c58ec05f (alstria, header_image #1), eng_dd7d06a3 (Gogo, header_image #1), eng_fc735d9d (Fonterra,
+    header_image #2; the "Dairy for life" header is the slogan, not the owner). Abacus' attached-report L2 keeps its
+    title (L1 already names Abacus Group).

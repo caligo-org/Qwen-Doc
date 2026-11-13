@@ -1,14 +1,27 @@
 {
  "doc": "goverment_chn_95b11589",
- "notation": "goverment-v2: L1 regulation title; 第N条 articles are run-in text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "企业信息公示暂行条例"
+   "text": "企业信息公示暂行条例",
+   "why": "title: regulation title names the whole document"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "promulgation/revision note under the title: text"
+  },
+  {
+   "box": 3,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
 }

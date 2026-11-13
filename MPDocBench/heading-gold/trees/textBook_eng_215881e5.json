@@ -1,42 +1,65 @@
 {
  "doc": "textBook_eng_215881e5",
- "notation": "textBook-v2: L1 book title; L2 front-matter titles.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Nature of Geographic Information"
+   "text": "Nature of Geographic Information",
+   "why": "title: book title on the cover"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 1,
-   "text": "About this Book"
+   "text": "About this Book",
+   "why": "front matter: About this Book"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Acknowledgements"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 20,
-   "note": "subtitle (An Open Geospatial Textbook) restated above the author line inside the acknowledgements"
+   "text": "Acknowledgements",
+   "why": "front matter: Acknowledgements"
   }
  ],
  "repeats": [
   {
-   "anno": 2,
-   "of": 1
+   "boxes": [
+    2
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 20,
+   "why": "book subtitle restated over the author byline inside the acknowledgements: title restatement, text (it does not head a part of the acknowledgements)"
+  }
+ ],
+ "considered": []
 }

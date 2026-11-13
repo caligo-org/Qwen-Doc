@@ -1,70 +1,103 @@
 {
  "doc": "examPaper_chn_0d1c391f",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2011年江西高考理科数学真题"
+   "text": "2011年江西高考理科数学真题",
+   "why": "title: exam title (who/what exam)"
   },
   {
-   "anno": 15,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第I卷"
+   "text": "考试注意：",
+   "why": "front label with its own instruction block below (substance)"
   },
   {
-   "anno": 16,
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "参考公式：",
+   "why": "front label with its own formula block below (substance)"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第I卷",
+   "why": "part: 第I卷 contains the choice questions"
+  },
+  {
+   "boxes": [
+    16
+   ],
    "level": 3,
    "parent": 15,
-   "text": "一、选择题：本大题共10小题，每小题5分，共50分.在每小题给出的四个选项中，只有一项是符合题目要求的."
+   "text": "一、选择题：本大题共10小题，每小题5分，共50分.在每小题给出的四个选项中，只有一项是符合题目要求的.",
+   "why": "question group of part I (containment)"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第II卷"
+   "text": "第II卷",
+   "why": "part: 第II卷"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 3,
    "parent": 70,
-   "text": "二.填空题：本大题共4小题，每小题5分，共20分."
+   "text": "二.填空题：本大题共4小题，每小题5分，共20分.",
+   "why": "question group"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 3,
    "parent": 70,
-   "text": "三.选做题：请考生在下列两题中任选一题作答.若两题都做，则按做的第一题评阅计分. 本题共5分."
+   "text": "三.选做题：请考生在下列两题中任选一题作答.若两题都做，则按做的第一题评阅计分. 本题共5分.",
+   "why": "question group"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 70,
-   "text": "四.本大题共6小题，共75分.解答应写出文字说明、证明过程或演算步骤."
+   "text": "四.本大题共6小题，共75分.解答应写出文字说明、证明过程或演算步骤.",
+   "why": "question group"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 4,
-   "note": "instructions label (考试注意); exam instructions are text"
+   "box": 81,
+   "why": "individual exam question: text (user decision)"
   },
   {
-   "anno": 8,
-   "note": "reference-formula label in the front instructions; text like the instructions"
+   "box": 87,
+   "why": "individual exam question: text (user decision)"
   },
   {
-   "anno": 81,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
-  },
-  {
-   "anno": 87,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
-  },
-  {
-   "anno": 91,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
+   "box": 91,
+   "why": "individual exam question: text (user decision)"
   }
  ],
- "repeats": []
+ "considered": []
 }

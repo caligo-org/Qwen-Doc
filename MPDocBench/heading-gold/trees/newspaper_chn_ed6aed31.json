@@ -1,102 +1,152 @@
 {
  "doc": "newspaper_chn_ed6aed31",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 光明日报, same family as newspaper_chn_eb87830d.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "光明日報",
-   "note": "masthead (pinyin in the same box is text)"
+   "why": "masthead; pinyin in the same box is text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
-   "text": "《习近平关于民政工作论述摘编》出版发行"
+   "text": "《习近平关于民政工作论述摘编》出版发行",
+   "why": "story headline, front page (printed over two lines)"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 3,
    "parent": 1,
-   "text": "古树有了“双保险”"
+   "text": "古树有了“双保险”",
+   "why": "story headline (figure rubric 我在现场 is not text)"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 3,
    "parent": 1,
    "text": "天山焕新颜 丝路著华章",
-   "note": "——综述 subtitle in the same box is text"
+   "why": "story headline; ——综述 subtitle in the same box is a deck"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 4,
    "parent": 20,
-   "text": "西部边疆日新月异"
+   "text": "西部边疆日新月异",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 4,
    "parent": 20,
-   "text": "民生福祉持续提升"
+   "text": "民生福祉持续提升",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 1,
    "text": "目的是为老百姓过好日子",
-   "note": "光明时评 figure rubric"
+   "why": "story headline (figure rubric 光明时评)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 3,
    "parent": 1,
-   "text": "“争鸣专版让学术讨论别开生面”"
+   "text": "“争鸣专版让学术讨论别开生面”",
+   "why": "story headline"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 1,
-   "text": "与经典对话，同现实交友"
+   "text": "与经典对话,同现实交友",
+   "why": "story headline"
   },
   {
-   "anno": 84,
+   "boxes": [
+    84
+   ],
    "level": 2,
    "parent": 1,
    "text": "评论",
-   "note": "page tag p2"
+   "why": "section: page tag 评论 on p2"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 84,
-   "text": "乐见更多青年 扎根西部建功立业"
+   "text": "乐见更多青年 扎根西部建功立业",
+   "why": "story headline (printed over two lines)"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 3,
    "parent": 84,
-   "text": "为智慧生活添加更多想象空间"
+   "text": "为智慧生活添加更多想象空间",
+   "why": "story headline"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 3,
    "parent": 84,
-   "text": "守护青少年成长，向网络烂梗说“不”"
+   "text": "守护青少年成长，向网络烂梗说“不”",
+   "why": "story headline"
   },
   {
-   "anno": 132,
+   "boxes": [
+    132
+   ],
    "level": 3,
    "parent": 84,
-   "text": "多措并举为制造业高质量发展蓄势赋能"
+   "text": "多措并举为制造业高质量发展蓄势赋能",
+   "why": "story headline (vertical)"
   },
   {
-   "anno": 143,
+   "boxes": [
+    143
+   ],
    "level": 3,
    "parent": 84,
-   "text": "让“幼有所育” 惠及千家万户"
+   "text": "让“幼有所育” 惠及千家万户",
+   "why": "story headline (printed over two lines)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    86
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

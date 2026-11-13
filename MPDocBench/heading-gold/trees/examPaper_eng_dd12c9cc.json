@@ -1,32 +1,66 @@
 {
  "doc": "examPaper_eng_dd12c9cc",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Solution (The Experimental Question):"
+   "text": "Solution (The Experimental Question):",
+   "why": "title: solution of the experimental question"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
    "text": "Task 1",
-   "note": "task heading; part numbers 1a., 1b. alone on a line are labels"
+   "why": "task section"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Task 2."
+   "text": "Task 2.",
+   "why": "task section"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Task 3."
+   "text": "Task 3.",
+   "why": "task section"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "1a. sub-task number alone: an individual (sub)question label, text (user decision: questions are text)"
+  },
+  {
+   "box": 6,
+   "why": "1b. sub-task number: text"
+  },
+  {
+   "box": 33,
+   "why": "2a. sub-task number: text"
+  },
+  {
+   "box": 52,
+   "why": "2e. Graphics: sub-task label, text"
+  },
+  {
+   "box": 27,
+   "why": "figure caption Graphics: text"
+  }
+ ]
 }

@@ -1,141 +1,224 @@
 {
  "doc": "annualReport_eng_ea53b553",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4,
+    9
+   ],
    "level": 1,
    "parent": "root",
-   "text": "FORM 10-K",
-   "note": "document title on the Form 10-K cover"
+   "text": "FORM 10-K ACURA PHARMACEUTICALS, INC.",
+   "why": "title union: document type (FORM 10-K) + registrant name (field caption dropped)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Table of Contents"
+   "text": "Table of Contents",
+   "why": "contents title"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Forward-Looking Statements"
+   "text": "Forward-Looking Statements",
+   "why": "front matter section: forward-looking statements"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 2,
    "parent": 4,
-   "text": "PART I"
+   "text": "PART I",
+   "why": "PART level"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 3,
    "parent": 74,
-   "text": "ITEM 1. BUSINESS"
+   "text": "ITEM 1. BUSINESS",
+   "why": "Item level"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 4,
    "parent": 75,
-   "text": "Overview"
+   "text": "Overview",
+   "why": "bold section head under Item"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 4,
    "parent": 75,
-   "text": "Our Strategy"
+   "text": "Our Strategy",
+   "why": "bold section head"
   },
   {
-   "anno": 93,
+   "boxes": [
+    93
+   ],
    "level": 4,
    "parent": 75,
-   "text": "Misuse or Abuse of Prescription Opioid Products and Development of Risk Mitigation Formulations"
+   "text": "Misuse or Abuse of Prescription Opioid Products and Development of Risk Mitigation Formulations",
+   "why": "bold section head"
   },
   {
-   "anno": 110,
+   "boxes": [
+    110
+   ],
    "level": 4,
    "parent": 75,
-   "text": "Overdose Risk Mitigation - Products and Development"
+   "text": "Overdose Risk Mitigation - Products and Development",
+   "why": "bold section head"
   },
   {
-   "anno": 114,
+   "boxes": [
+    114
+   ],
    "level": 4,
    "parent": 75,
-   "text": "LIMITx? Technology"
+   "text": "LIMITx? Technology",
+   "why": "bold section head"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 4,
    "parent": 75,
-   "text": "LIMITx Technology Products in Development"
+   "text": "LIMITx Technology Products in Development",
+   "why": "bold section head"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 5,
    "parent": 118,
-   "text": "LTX-03 Development"
+   "text": "LTX-03 Development",
+   "why": "bold-italic subhead naming the product program discussed below"
   },
   {
-   "anno": 125,
+   "boxes": [
+    125
+   ],
    "level": 6,
    "parent": 124,
    "text": "Study 301",
-   "note": "same bold-italic look as LTX-03 Development, so same level (no numbering)"
+   "why": "italic subhead inside the program (user decision: content beats look)"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 6,
    "parent": 124,
-   "text": "Manufacturing"
+   "text": "Manufacturing",
+   "why": "italic subhead inside the program"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 6,
    "parent": 124,
-   "text": "IND Update"
+   "text": "IND Update",
+   "why": "italic subhead inside the program"
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 6,
    "parent": 124,
-   "text": "Non-clinical Study APT-RDR-300"
+   "text": "Non-clinical Study APT-RDR-300",
+   "why": "italic subhead inside the program"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 6,
    "parent": 124,
-   "text": "Non-clinical Study APT-RDR-301"
+   "text": "Non-clinical Study APT-RDR-301",
+   "why": "italic subhead inside the program"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 6,
    "parent": 124,
-   "text": "Clinical Study AP-LTX-311"
+   "text": "Clinical Study AP-LTX-311",
+   "why": "italic subhead inside the program"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 6,
    "parent": 124,
-   "text": "AD Pharma Amended Agreement covering LTX-03"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 2,
-   "note": "issuing body on the Form 10-K cover"
-  },
-  {
-   "anno": 9,
-   "note": "registrant name, a cover form field"
+   "text": "AD Pharma Amended Agreement covering LTX-03",
+   "why": "italic subhead inside the program"
   }
  ],
  "repeats": [
   {
-   "anno": 36,
-   "of": 4
+   "boxes": [
+    35,
+    36
+   ],
+   "of": 4,
+   "why": "repeat: owner + form restated above the table of contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "issuing body (SEC name) above the form title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "navigation link in the header"
   },
   {
-   "anno": 41,
-   "of": 38
+   "box": 37,
+   "why": "period line under the restated title"
+  },
+  {
+   "box": 5,
+   "why": "form check-box line"
+  },
+  {
+   "box": 33,
+   "why": "form field line"
+  },
+  {
+   "box": 119,
+   "why": "lead-in sentence ending in a colon"
+  },
+  {
+   "box": 120,
+   "why": "table column caption"
+  },
+  {
+   "box": 122,
+   "why": "table column caption"
   }
  ]
 }

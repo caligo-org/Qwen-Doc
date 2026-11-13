@@ -1,24 +1,37 @@
 {
  "doc": "goverment_eng_a323eb0a",
- "notation": "goverment-v2 exchange of diplomatic notes: notes carry no titles; note numbers (No. 543, No. D/T 136), letterheads, DIPLOMATIC NOTE stamps, places/dates and seals are text. The translation office's TRANSLATION label is the one line that marks where the second document (translated reply) starts: L1 (borderline).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 27,
+   "boxes": [
+    27,
+    28
+   ],
    "level": 1,
    "parent": "root",
-   "text": "TRANSLATION",
-   "note": "title of the attached translation document (borderline)"
+   "text": "TRANSLATION REPUBLIC OF PANAMA MINISTRY OF FOREIGN RELATIONS",
+   "why": "round 3: title of the translated reply note = owner ∪ document type (NOTATIONS \"The title\"): the ministry letterhead #28 (owner; text keeps only the heading part, not the address line \"Panama City 4, Panama\") ∪ the TRANSLATION label #27 (what the document is); L1 for pp6-7. The US note pp1-5 prints no title (No. 543 = note number, DIPLOMATIC NOTE = stamp), so it has no node"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "note number (document number, text)"
-  },
-  {
-   "anno": 28,
-   "note": "sender letterhead (issuer block, text)"
+   "box": 2,
+   "why": "note number (No. 543): document number, text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 4,
+   "why": "DIPLOMATIC NOTE stamp: text"
+  },
+  {
+   "box": 24,
+   "why": "translating-office header: text"
+  },
+  {
+   "box": 29,
+   "why": "note number D/T 136: text"
+  }
+ ]
 }

@@ -1,178 +1,287 @@
 {
  "doc": "manualGuide_chn_9818e751",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "USP-CDG 门禁管理软件使用说明书",
-   "merge": [
-    3
+   "why": "title union: product (USP-CDG) + document type (门禁管理软件使用说明书) on the cover"
+  },
+  {
+   "boxes": [
+    5
    ],
-   "note": "product name + manual type merged"
-  },
-  {
-   "anno": 5,
    "level": 2,
    "parent": 2,
-   "text": "声明"
+   "text": "声明",
+   "why": "front matter: disclaimer box title at the level of the top sections"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 2,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1. 简介"
+   "text": "1. 简介",
+   "why": "chapter: numbered 1. (TOC)"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2. 软件安装"
+   "text": "2. 软件安装",
+   "why": "chapter: numbered 2."
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 3,
    "parent": 21,
-   "text": "2.1 数据库安装"
+   "text": "2.1 数据库安装",
+   "why": "section: 2.1"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 3,
    "parent": 21,
-   "text": "2.2 USP-CDG管理软件安装"
+   "text": "2.2 USP-CDG管理软件安装",
+   "why": "section: 2.2"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 21,
-   "text": "2.3 数据库设置"
+   "text": "2.3 数据库设置",
+   "why": "section: 2.3"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 21,
-   "text": "2.4 软件版本查看"
+   "text": "2.4 软件版本查看",
+   "why": "section: 2.4"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3. 系统配置"
+   "text": "3. 系统配置",
+   "why": "chapter: numbered 3."
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 57,
-   "text": "3.1 系统登录"
+   "text": "3.1 系统登录",
+   "why": "section: 3.1"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 3,
    "parent": 57,
-   "text": "3.2 操作菜单介绍"
+   "text": "3.2 操作菜单介绍",
+   "why": "section: 3.2"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 4,
    "parent": 66,
-   "text": "功能目录"
+   "text": "功能目录",
+   "why": "label heading: bold own-line label with its own list + figure under 3.2"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 4,
    "parent": 66,
-   "text": "快捷菜单"
+   "text": "快捷菜单",
+   "why": "label heading: sibling label with its own block"
   },
   {
-   "anno": 99,
+   "boxes": [
+    99
+   ],
    "level": 3,
    "parent": 57,
-   "text": "3.3 网络连接"
+   "text": "3.3 网络连接",
+   "why": "section: 3.3"
   },
   {
-   "anno": 117,
+   "boxes": [
+    117
+   ],
    "level": 3,
    "parent": 57,
-   "text": "3.4 新建门"
+   "text": "3.4 新建门",
+   "why": "section: 3.4"
   },
   {
-   "anno": 119,
+   "boxes": [
+    119
+   ],
    "level": 4,
    "parent": 117,
-   "text": "3.4.1 常规"
+   "text": "3.4.1 常规",
+   "why": "subsection: 3.4.1"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 4,
    "parent": 117,
-   "text": "3.4.2 事件"
+   "text": "3.4.2 事件",
+   "why": "subsection: 3.4.2"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 4,
    "parent": 117,
-   "text": "3.4.3 高级选项"
+   "text": "3.4.3 高级选项",
+   "why": "subsection: 3.4.3"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document on every page"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 9,
-   "of": 2
+   "box": 4,
+   "why": "cover picture with product/brand text: figure, text"
   },
   {
-   "anno": 13,
-   "of": 2
+   "box": 7,
+   "why": "document number: text"
   },
   {
-   "anno": 20,
-   "of": 2
+   "box": 159,
+   "why": "own-line label 通行级别选项： but its sibling 防潜回： is run-in in the same body style; kept text so the 防潜回 block is not put under it (OPEN)"
   },
   {
-   "anno": 39,
-   "of": 2
+   "box": 60,
+   "why": "callout: 注 note in parentheses"
   },
   {
-   "anno": 52,
-   "of": 2
-  },
-  {
-   "anno": 56,
-   "of": 2
-  },
-  {
-   "anno": 76,
-   "of": 2
-  },
-  {
-   "anno": 84,
-   "of": 67
-  },
-  {
-   "anno": 98,
-   "of": 2
-  },
-  {
-   "anno": 113,
-   "of": 2
-  },
-  {
-   "anno": 128,
-   "of": 2
-  },
-  {
-   "anno": 145,
-   "of": 2
-  },
-  {
-   "anno": 155,
-   "of": 2
+   "box": 1,
+   "why": "page-1 running head above the cover title (precedes the title in reading order): text"
   }
  ]
 }

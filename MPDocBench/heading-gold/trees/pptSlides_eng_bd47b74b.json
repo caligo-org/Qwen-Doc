@@ -1,46 +1,80 @@
 {
  "doc": "pptSlides_eng_bd47b74b",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "BIG DATA WITH NOT ONLY SQL",
-   "note": "gold box overlaps the author name; text is the title only"
+   "why": "deck title (gold box also swallowed the author name; text is the title only)"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "WHO AM I"
+   "text": "WHO AM I",
+   "why": "slide title (deck without dividers)"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 1,
-   "text": "BIG DATA MANAGEMENT INSIGHT"
+   "text": "BIG DATA MANAGEMENT INSIGHT",
+   "why": "slide title"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 1,
-   "text": "DATA-DRIVEN ON-LINE WEBSITES"
+   "text": "DATA-DRIVEN ON-LINE WEBSITES",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 10,
-   "of": 1
+   "box": 2,
+   "why": "author name"
   },
   {
-   "anno": 15,
-   "of": 1
+   "box": 3,
+   "why": "slogan"
   },
   {
-   "anno": 21,
-   "of": 1
+   "box": 7,
+   "why": "bullet item in the bullet list style (Skills) above a word cloud"
   }
  ]
 }

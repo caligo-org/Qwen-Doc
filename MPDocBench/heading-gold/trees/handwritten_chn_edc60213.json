@@ -1,44 +1,68 @@
 {
  "doc": "handwritten_chn_edc60213",
- "notation": "handwritten-v2 (study notes, sheets photographed out of order: notebook pages 5, ?, 3): bracketed section label [方法突破] L1; numbered topics (1. 集合中元素的特性, 2.-4. 集合问题与…思想) L2. The section holding topics 2-4 is not in the photos, so they are L2 under root. 启示： and [例] are labels (text).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": "root",
    "text": "4. 集合问题与分类讨论思想",
-   "note": "topic 4; its section heading is not among the photographed pages"
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": "root",
-   "text": "2. 集合问题与数形结合思想："
+   "text": "2. 集合问题与数形结合思想：",
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": "root",
-   "text": "3. 集合问题与等价转化思想"
+   "text": "3. 集合问题与等价转化思想",
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 1,
    "parent": "root",
-   "text": "[方法突破]"
+   "text": "[方法突破]",
+   "why": "section label: bracketed top grouping [方法突破] of untitled notes"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 2,
    "parent": 36,
-   "text": "1. 集合中元素的特性："
+   "text": "1. 集合中元素的特性：",
+   "why": "numbered topic: own-line title over the three properties"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "callout label 启示： before a paragraph"
+   "box": 2,
+   "why": "callout 启示： (lesson-learned note ending a previous problem): text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 41,
+   "why": "callout [例]"
+  },
+  {
+   "box": 1,
+   "why": "notebook Date/No. header"
+  }
+ ]
 }

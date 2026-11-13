@@ -1,14 +1,49 @@
 {
  "doc": "examPaper_eng_0b2fd078",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 12,
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Marking breakdown:",
+   "why": "round 3: own-line label with its own marks block, belonging to a problem whose title is not on these pages; L1 (top-level section of this sheet) so that its path has no missing step; was L2 with an unprinted parent"
+  },
+  {
+   "boxes": [
+    12
+   ],
    "level": 1,
    "parent": "root",
    "text": "Solution of question 3.",
-   "note": "only bold title; page starts with the tail of the previous question; italic labels (Marking breakdown, 1st method, 2nd method) are labels"
+   "why": "title of the sheet section: solution of question 3"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Marking breakdown",
+   "why": "own-line label with its own marks block (v3 generic label rule), inside solution of question 3"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 13,
+   "why": "a - 1st method: italic part/method label; text because part b is run-in, so a method heading would wrongly contain part b (containment)"
+  },
+  {
+   "box": 28,
+   "why": "2nd method: method label, would contain run-in part b (containment): text"
+  },
+  {
+   "box": 36,
+   "why": "b - run-in part label: text"
+  }
+ ]
 }

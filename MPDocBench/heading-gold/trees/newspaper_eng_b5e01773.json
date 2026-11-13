@@ -1,201 +1,243 @@
 {
  "doc": "newspaper_eng_b5e01773",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Boston Sunday Globe; sections only as running tags (The World p2/p4, The Nation p6/p7); ad pages are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "Boston Sunday Globe",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Driven to the edge"
+   "text": "Driven to the edge",
+   "why": "story headline, front page (no section banner)"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Fake electors are among GOP delegates"
+   "text": "Fake electors are among GOP delegates",
+   "why": "story headline"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 3,
    "parent": 1,
-   "text": "City served by Steward fears fate of hospital"
+   "text": "City served by Steward fears fate of hospital",
+   "why": "story headline"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Anxiety taking a toll on school days"
+   "text": "Anxiety taking a toll on school days",
+   "why": "story headline"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 2,
    "parent": 1,
    "text": "The World",
-   "note": "running section tag p2"
+   "why": "section: running section tag The World on A2 (section changes from the front page)"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 3,
    "parent": 68,
    "text": "In Gaza, criticism of Hamas is growing",
-   "note": "the line beside the photo is its deck"
+   "why": "story headline (line beside the photo is its deck)"
   },
   {
-   "anno": 110,
+   "boxes": [
+    110
+   ],
    "level": 3,
    "parent": 68,
-   "text": "Vehicle explosion kills 8 Israeli soldiers, official says"
+   "text": "Vehicle explosion kills 8 Israeli soldiers, official says",
+   "why": "story headline"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 3,
    "parent": 68,
    "text": "THE WORLD TODAY",
-   "note": "briefs column label"
+   "why": "briefs column label"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 4,
    "parent": 135,
    "text": "2 Swedes released in prisoner swap",
-   "note": "country label above is a kicker"
+   "why": "brief headline under the briefs label; country label above is a kicker"
   },
   {
-   "anno": 139,
+   "boxes": [
+    139
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Activist held in Budapest freed"
+   "text": "Activist held in Budapest freed",
+   "why": "brief headline; country label in the same box is a kicker"
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Answers sought on police hitting cow"
+   "text": "Answers sought on police hitting cow",
+   "why": "brief headline; country label in the same box is a kicker"
   },
   {
-   "anno": 160,
+   "boxes": [
+    160
+   ],
    "level": 3,
    "parent": 68,
    "text": "World leaders meet to discuss Ukraine peace roadmap",
-   "note": "p4, running tag still The World (p3 is an ad)"
+   "why": "story headline (A4, running tag still The World; A3 is an ad)"
   },
   {
-   "anno": 190,
+   "boxes": [
+    190
+   ],
    "level": 3,
    "parent": 68,
-   "text": "Haiti replaces police chief as gang violence claims officers' lives"
+   "text": "Haiti replaces police chief as gang violence claims officers' lives",
+   "why": "story headline"
   },
   {
-   "anno": 214,
+   "boxes": [
+    214
+   ],
    "level": 3,
    "parent": 68,
-   "text": "Divers find parts of Finnish WWII plane"
+   "text": "Divers find parts of Finnish WWII plane",
+   "why": "story headline"
   },
   {
-   "anno": 259,
+   "boxes": [
+    259
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Nation",
-   "note": "running section tag p6"
+   "why": "section: running section tag The Nation on A6 (section changes)"
   },
   {
-   "anno": 262,
+   "boxes": [
+    262
+   ],
    "level": 3,
    "parent": 259,
-   "text": "Tribal members reclaiming 'land of the flowing water'"
+   "text": "Tribal members reclaiming ‘land of the flowing water’",
+   "why": "story headline"
   },
   {
-   "anno": 336,
+   "boxes": [
+    336
+   ],
    "level": 3,
    "parent": 259,
-   "text": "Iowa takes lead in fighting potential stem cell scams"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 28,
-   "note": "byline"
-  },
-  {
-   "anno": 37,
-   "note": "weather box"
-  },
-  {
-   "anno": 41,
-   "note": "front-page photo teaser (Sports, C1)"
-  },
-  {
-   "anno": 77,
-   "note": "deck"
-  },
-  {
-   "anno": 143,
-   "note": "INDEX box"
-  },
-  {
-   "anno": 148,
-   "note": "ad"
-  },
-  {
-   "anno": 304,
-   "note": "ad"
-  },
-  {
-   "anno": 313,
-   "note": "ad"
-  },
-  {
-   "anno": 317,
-   "note": "ad"
-  },
-  {
-   "anno": 365,
-   "note": "ad"
-  },
-  {
-   "anno": 376,
-   "note": "ad"
+   "text": "Iowa takes lead in fighting potential stem cell scams",
+   "why": "story headline"
   }
  ],
  "repeats": [
   {
-   "anno": 69,
-   "of": 1
+   "boxes": [
+    157
+   ],
+   "of": 68,
+   "why": "running section tag The World on A4 (only an ad page in between)"
   },
   {
-   "anno": 146,
-   "of": 1
+   "boxes": [
+    334
+   ],
+   "of": 259,
+   "why": "running section tag The Nation on A7"
   },
   {
-   "anno": 157,
-   "of": 68
-  },
-  {
-   "anno": 158,
-   "of": 1
-  },
-  {
-   "anno": 248,
-   "of": 1
-  },
-  {
-   "anno": 260,
-   "of": 1
-  },
-  {
-   "anno": 333,
-   "of": 1
-  },
-  {
-   "anno": 334,
-   "of": 259
+   "boxes": [
+    69,
+    146,
+    158,
+    248,
+    260,
+    333
+   ],
+   "of": 1,
+   "why": "running head repeats the masthead"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 28,
+   "why": "byline"
+  },
+  {
+   "box": 37,
+   "why": "weather box"
+  },
+  {
+   "box": 41,
+   "why": "front-page photo teaser (points to Sports C1)"
+  },
+  {
+   "box": 77,
+   "why": "deck under the headline"
+  },
+  {
+   "box": 143,
+   "why": "INDEX box"
+  },
+  {
+   "box": 148,
+   "why": "advertisement line"
+  },
+  {
+   "box": 304,
+   "why": "advertisement line"
+  },
+  {
+   "box": 313,
+   "why": "advertisement line"
+  },
+  {
+   "box": 317,
+   "why": "advertisement line"
+  },
+  {
+   "box": 365,
+   "why": "advertisement line"
+  },
+  {
+   "box": 376,
+   "why": "advertisement line"
+  }
+ ],
+ "considered": []
 }

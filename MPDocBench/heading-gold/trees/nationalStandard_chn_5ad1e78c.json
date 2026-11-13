@@ -1,535 +1,699 @@
 {
  "doc": "nationalStandard_chn_5ad1e78c",
- "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5,
+    6
+   ],
    "level": 1,
    "parent": "root",
    "text": "儿童用品通用安全要求 General safety requirements for children's products",
-   "merge": [
-    6
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    11
    ],
-   "note": "Chinese title + English title"
-  },
-  {
-   "anno": 11,
    "level": 2,
    "parent": 5,
-   "text": "目 次"
+   "text": "目 次",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 5,
-   "text": "前言"
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 5,
-   "text": "引言"
+   "text": "引言",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 5,
-   "text": "1 范围"
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 2,
    "parent": 5,
-   "text": "2 规范性引用文件"
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 5,
-   "text": "3 术语和定义"
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58,
+    59
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.1 儿童用品 children's products",
-   "merge": [
-    59
-   ],
-   "note": "term entry: 3.1 + 儿童用品 children's products"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63,
+    64
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.2 正常使用 normal use",
-   "merge": [
-    64
-   ],
-   "note": "term entry: 3.2 + 正常使用 normal use"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67,
+    68
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.3 可预见的合理滥用 reasonably foreseeable abuse",
-   "merge": [
-    68
-   ],
-   "note": "term entry: 3.3 + 可预见的合理滥用 reasonably foreseeable abuse"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72,
+    73
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.4 伤害 harm",
-   "merge": [
-    73
-   ],
-   "note": "term entry: 3.4 + 伤害 harm"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76,
+    77
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.5 危险 hazard",
-   "merge": [
-    77
-   ],
-   "note": "term entry: 3.5 + 危险 hazard"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81,
+    82
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.6 风险 risk",
-   "merge": [
-    82
-   ],
-   "note": "term entry: 3.6 + 风险 risk"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85,
+    86
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.7 可触及 accessible",
-   "merge": [
-    86
-   ],
-   "note": "term entry: 3.7 + 可触及 accessible"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 88,
+   "boxes": [
+    88,
+    89
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.8 开口 opening",
-   "merge": [
-    89
-   ],
-   "note": "term entry: 3.8 + 开口 opening"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91,
+    92
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.9 可拆卸部件 detachable/removable component",
-   "merge": [
-    92
-   ],
-   "note": "term entry: 3.9 + 可拆卸部件 detachable/removable component"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 94,
+   "boxes": [
+    94,
+    95
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.10 球 ball",
-   "merge": [
-    95
-   ],
-   "note": "term entry: 3.10 + 球 ball"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 102,
+   "boxes": [
+    102,
+    103
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.11 折叠机构 folding mechanism",
-   "merge": [
-    103
-   ],
-   "note": "term entry: 3.11 + 折叠机构 folding mechanism"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106,
+    107
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.12 危险突出物 hazardous projection",
-   "merge": [
-    107
-   ],
-   "note": "term entry: 3.12 + 危险突出物 hazardous projection"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 109,
+   "boxes": [
+    109,
+    110
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.13 危险锐利边缘 hazardous sharp edge",
-   "merge": [
-    110
-   ],
-   "note": "term entry: 3.13 + 危险锐利边缘 hazardous sharp edge"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 112,
+   "boxes": [
+    112,
+    113
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.14 危险锐利尖端 hazardous sharp point",
-   "merge": [
-    113
-   ],
-   "note": "term entry: 3.14 + 危险锐利尖端 hazardous sharp point"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115,
+    116
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.15 总含量 totalcontent",
-   "merge": [
-    116
-   ],
-   "note": "term entry: 3.15 + 总含量 totalcontent"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120,
+    121
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.16 填充物 filling materials",
-   "merge": [
-    121
-   ],
-   "note": "term entry: 3.16 + 填充物 filling materials"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 125,
+   "boxes": [
+    125,
+    126
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.17 使用说明 instructions for use",
-   "merge": [
-    126
-   ],
-   "note": "term entry: 3.17 + 使用说明 instructions for use"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130,
+    131
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.18 束缚系统 restraint system",
-   "merge": [
-    131
-   ],
-   "note": "term entry: 3.18 + 束缚系统 restraint system"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134,
+    135
+   ],
    "level": 3,
    "parent": 56,
    "text": "3.19 尖刺 splinter",
-   "merge": [
-    135
-   ],
-   "note": "term entry: 3.19 + 尖刺 splinter"
+   "why": "term entry: number + term (one heading)"
   },
   {
-   "anno": 139,
+   "boxes": [
+    139
+   ],
    "level": 2,
    "parent": 5,
-   "text": "4 要求"
+   "text": "4 要求",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 140,
+   "boxes": [
+    140
+   ],
    "level": 3,
    "parent": 139,
-   "text": "4.1 总体要求"
+   "text": "4.1 总体要求",
+   "why": "clause 4.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 4,
    "parent": 140,
-   "text": "4.1.1 通用性"
+   "text": "4.1.1 通用性",
+   "why": "clause 4.1.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 147,
+   "boxes": [
+    147
+   ],
    "level": 4,
    "parent": 140,
-   "text": "4.1.2 协调性"
+   "text": "4.1.2 协调性",
+   "why": "clause 4.1.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 139,
-   "text": "4.2 一般要求"
+   "text": "4.2 一般要求",
+   "why": "clause 4.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.1 清洁"
+   "text": "4.2.1 清洁",
+   "why": "clause 4.2.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 154,
+   "boxes": [
+    154
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.2 安全防护"
+   "text": "4.2.2 安全防护",
+   "why": "clause 4.2.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 156,
+   "boxes": [
+    156
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.3 外观"
+   "text": "4.2.3 外观",
+   "why": "clause 4.2.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.4 异味"
+   "text": "4.2.4 异味",
+   "why": "clause 4.2.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 160,
+   "boxes": [
+    160
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.5 易与食品混淆的产品"
+   "text": "4.2.5 易与食品混淆的产品",
+   "why": "clause 4.2.5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 162,
+   "boxes": [
+    162
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.6 玻璃和陶瓷"
+   "text": "4.2.6 玻璃和陶瓷",
+   "why": "clause 4.2.6: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 171,
+   "boxes": [
+    171
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.7 液体"
+   "text": "4.2.7 液体",
+   "why": "clause 4.2.7: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 173,
+   "boxes": [
+    173
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.8 填充物"
+   "text": "4.2.8 填充物",
+   "why": "clause 4.2.8: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 4,
    "parent": 149,
-   "text": "4.2.9 腐烂和昆虫侵害"
+   "text": "4.2.9 腐烂和昆虫侵害",
+   "why": "clause 4.2.9: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 3,
    "parent": 139,
-   "text": "4.3 机械和物理性能"
+   "text": "4.3 机械和物理性能",
+   "why": "clause 4.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 182,
+   "boxes": [
+    182
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.1 形状及尺寸"
+   "text": "4.3.1 形状及尺寸",
+   "why": "clause 4.3.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 183,
+   "boxes": [
+    183
+   ],
    "level": 5,
    "parent": 182,
-   "text": "4.3.1.1 小零件"
+   "text": "4.3.1.1 小零件",
+   "why": "clause 4.3.1.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 205,
+   "boxes": [
+    205
+   ],
    "level": 5,
    "parent": 182,
-   "text": "4.3.1.2 小球"
+   "text": "4.3.1.2 小球",
+   "why": "clause 4.3.1.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 208,
+   "boxes": [
+    208
+   ],
    "level": 5,
    "parent": 182,
-   "text": "4.3.1.3 球形、半球形、卵形或椭圆形包装和包装上的可拆卸部件"
+   "text": "4.3.1.3 球形、半球形、卵形或椭圆形包装和包装上的可拆卸部件",
+   "why": "clause 4.3.1.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 211,
+   "boxes": [
+    211
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.2 开口和间隙"
+   "text": "4.3.2 开口和间隙",
+   "why": "clause 4.3.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 212,
+   "boxes": [
+    212
+   ],
    "level": 5,
    "parent": 211,
-   "text": "4.3.2.1 开口"
+   "text": "4.3.2.1 开口",
+   "why": "clause 4.3.2.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 215,
+   "boxes": [
+    215
+   ],
    "level": 5,
    "parent": 211,
-   "text": "4.3.2.2 活动部件间隙"
+   "text": "4.3.2.2 活动部件间隙",
+   "why": "clause 4.3.2.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 220,
+   "boxes": [
+    220
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.3 边缘、尖端及转角"
+   "text": "4.3.3 边缘、尖端及转角",
+   "why": "clause 4.3.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 221,
+   "boxes": [
+    221
+   ],
    "level": 5,
    "parent": 220,
-   "text": "4.3.3.1 危险锐利边缘、危险锐利尖端和转角"
+   "text": "4.3.3.1 危险锐利边缘、危险锐利尖端和转角",
+   "why": "clause 4.3.3.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 224,
+   "boxes": [
+    224
+   ],
    "level": 5,
    "parent": 220,
-   "text": "4.3.3.2 功能性锐利边缘和功能性锐利尖端"
+   "text": "4.3.3.2 功能性锐利边缘和功能性锐利尖端",
+   "why": "clause 4.3.3.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 229,
+   "boxes": [
+    229
+   ],
    "level": 5,
    "parent": 220,
-   "text": "4.3.3.3 尖刺"
+   "text": "4.3.3.3 尖刺",
+   "why": "clause 4.3.3.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 231,
+   "boxes": [
+    231
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.4 危险突出物"
+   "text": "4.3.4 危险突出物",
+   "why": "clause 4.3.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 235,
+   "boxes": [
+    235
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.5 绳索或绳圈"
+   "text": "4.3.5 绳索或绳圈",
+   "why": "clause 4.3.5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 244,
+   "boxes": [
+    244
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.6 密闭空间"
+   "text": "4.3.6 密闭空间",
+   "why": "clause 4.3.6: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 248,
+   "boxes": [
+    248
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.7 稳定性能"
+   "text": "4.3.7 稳定性能",
+   "why": "clause 4.3.7: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 254,
+   "boxes": [
+    254
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.8 结构强度和耐久性"
+   "text": "4.3.8 结构强度和耐久性",
+   "why": "clause 4.3.8: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 256,
+   "boxes": [
+    256
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.9 运动和旋转物部件"
+   "text": "4.3.9 运动和旋转物部件",
+   "why": "clause 4.3.9: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 263,
+   "boxes": [
+    263
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.10 折叠机构"
+   "text": "4.3.10 折叠机构",
+   "why": "clause 4.3.10: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 265,
+   "boxes": [
+    265
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.11 限制活动区域类儿童用品"
+   "text": "4.3.11 限制活动区域类儿童用品",
+   "why": "clause 4.3.11: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 268,
+   "boxes": [
+    268
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.12 束缚系统"
+   "text": "4.3.12 束缚系统",
+   "why": "clause 4.3.12: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 271,
+   "boxes": [
+    271
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.13 溺水危险"
+   "text": "4.3.13 溺水危险",
+   "why": "clause 4.3.13: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 276,
+   "boxes": [
+    276
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.14 声响要求"
+   "text": "4.3.14 声响要求",
+   "why": "clause 4.3.14: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 282,
+   "boxes": [
+    282
+   ],
    "level": 4,
    "parent": 181,
-   "text": "4.3.15 用于包装和儿童用品中的塑料薄膜或塑料袋"
+   "text": "4.3.15 用于包装和儿童用品中的塑料薄膜或塑料袋",
+   "why": "clause 4.3.15: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 290,
+   "boxes": [
+    290
+   ],
    "level": 3,
    "parent": 139,
-   "text": "4.4 热危险及易燃性能"
+   "text": "4.4 热危险及易燃性能",
+   "why": "clause 4.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 291,
+   "boxes": [
+    291
+   ],
    "level": 4,
    "parent": 290,
-   "text": "4.4.1 易燃性能"
+   "text": "4.4.1 易燃性能",
+   "why": "clause 4.4.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 300,
+   "boxes": [
+    300
+   ],
    "level": 4,
    "parent": 290,
-   "text": "4.4.2 非电热源产品烫伤危险"
+   "text": "4.4.2 非电热源产品烫伤危险",
+   "why": "clause 4.4.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 314,
+   "boxes": [
+    314
+   ],
    "level": 4,
    "parent": 290,
-   "text": "4.4.3 明火烧伤危险"
+   "text": "4.4.3 明火烧伤危险",
+   "why": "clause 4.4.3: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 316,
+   "boxes": [
+    316
+   ],
    "level": 4,
    "parent": 290,
-   "text": "4.4.4 封闭空间中的高温或低温危险"
+   "text": "4.4.4 封闭空间中的高温或低温危险",
+   "why": "clause 4.4.4: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 319,
+   "boxes": [
+    319
+   ],
    "level": 3,
    "parent": 139,
-   "text": "4.5 化学安全"
+   "text": "4.5 化学安全",
+   "why": "clause 4.5: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 320,
+   "boxes": [
+    320
+   ],
    "level": 4,
    "parent": 319,
-   "text": "4.5.1 一般要求"
+   "text": "4.5.1 一般要求",
+   "why": "clause 4.5.1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 324,
+   "boxes": [
+    324
+   ],
    "level": 4,
    "parent": 319,
-   "text": "4.5.2 可迁移元素的最大限量要求"
+   "text": "4.5.2 可迁移元素的最大限量要求",
+   "why": "clause 4.5.2: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 328,
+   "boxes": [
+    328
+   ],
    "level": 4,
    "parent": 319,
-   "text": "4.5.3 增塑剂的限量要求"
+   "text": "4.5.3 增塑剂的限量要求",
+   "why": "clause 4.5.3: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    29
+   ],
+   "of": 5,
+   "why": "title restated above clause 1 (document title, section open)"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line 中华人民共和国国家标准 (standard family label)"
-  },
-  {
-   "anno": 29,
-   "note": "title restated above clause 1"
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
   }
  ],
- "repeats": []
+ "considered": []
 }

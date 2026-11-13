@@ -1,45 +1,80 @@
 {
  "doc": "financialReport_chn_956ee055",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    3,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2025年半年度财务报告"
+   "text": "珠海博杰电子股份有限公司 2025年半年度财务报告",
+   "why": "title union: owner + document type"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "一、审计报告"
+   "parent": 3,
+   "text": "一、审计报告",
+   "why": "section: 一、 numbered, own block"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "二、财务报表"
+   "parent": 3,
+   "text": "二、财务报表",
+   "why": "section: 一、 numbered, statements below"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 3,
    "parent": 14,
-   "text": "1、合并资产负债表"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 3,
-   "note": "issuer name on cover, separate line from the report title"
+   "text": "1、合并资产负债表",
+   "why": "section: statement title"
   }
  ],
  "repeats": [
   {
-   "anno": 9,
-   "of": 4
+   "boxes": [
+    8,
+    9
+   ],
+   "of": 3,
+   "why": "repeat: running head (owner left + report right) naming the document"
   },
   {
-   "anno": 23,
-   "of": 4
+   "boxes": [
+    22,
+    23
+   ],
+   "of": 3,
+   "why": "repeat: running head"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover above the title: text"
+  },
+  {
+   "box": 2,
+   "why": "running head on the cover: text"
+  },
+  {
+   "box": 5,
+   "why": "qualifier （未经审计） in its own box: text"
+  },
+  {
+   "box": 6,
+   "why": "cover date, text"
   }
  ]
 }

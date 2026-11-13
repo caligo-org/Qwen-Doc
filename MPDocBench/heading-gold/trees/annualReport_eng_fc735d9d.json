@@ -1,26 +1,49 @@
 {
  "doc": "annualReport_eng_fc735d9d",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report 2024",
-   "note": "the second line in the same box is the title's translation (text)"
+   "text": "Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna",
+   "why": "title: document type + its translation printed with it (one box); owner only as logo (text)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "About this report"
+   "text": "About this report",
+   "why": "top section"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "contents title at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "logo slogan"
+  },
+  {
+   "box": 15,
+   "why": "photo credit footer"
+  },
+  {
+   "box": 19,
+   "why": "photo credit footer"
+  }
+ ]
 }

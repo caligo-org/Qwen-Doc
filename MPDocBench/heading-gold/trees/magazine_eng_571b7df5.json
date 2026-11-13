@@ -1,118 +1,179 @@
 {
  "doc": "magazine_eng_571b7df5",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "WINTER GEAR GUIDE",
-   "note": "title of the special issue (FROM THE MAKERS OF TRAIL MAGAZINE / 2025 are cover lines)"
+   "text": "FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE",
+   "why": "title union: owner line (FROM THE MAKERS OF TRAIL MAGAZINE) + guide title WINTER GEAR GUIDE; the colophon restates it as TRAIL MAGAZINE WINTER GEAR GUIDE"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "52 TRAIL-TESTED PRODUCTS",
-   "note": "introduction"
+   "why": "front matter: introduction, its text below"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "Contents",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "TRAIL AWARDS",
-   "note": "box with its own title (award key) on the front-matter page"
+   "why": "front-matter box with its own title (award key with its explanations)"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "YOUR TESTERS",
-   "note": "box with its own title (testers); the tester names are a list of names"
+   "why": "front-matter box with its own title (testers)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "BEN WEEKS",
+   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "MATT JONES",
+   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "ELLIE CLEWLOW",
+   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "JAMES FORREST",
+   "why": "tester name heading her/his own short bio (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    53
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "INSULATED JACKETS buying guide",
-   "note": "category section (buying guide)"
+   "why": "section: category opener INSULATED JACKETS buying guide"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56,
+    57
+   ],
    "level": 3,
    "parent": 53,
    "text": "1 TYPE OF INSULATION",
-   "merge": [
-    57
-   ],
-   "note": "number badge merged with its title"
+   "why": "numbered point: number badge ∪ title, its paragraph below"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60,
+    61
+   ],
    "level": 3,
    "parent": 53,
    "text": "2 FILL POWER",
-   "merge": [
-    61
-   ]
+   "why": "numbered point: number badge ∪ title, its paragraph below"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64,
+    65
+   ],
    "level": 3,
    "parent": 53,
    "text": "3 BODY MAPPING",
-   "merge": [
-    65
-   ]
+   "why": "numbered point: number badge ∪ title, its paragraph below"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69,
+    70
+   ],
    "level": 3,
    "parent": 53,
    "text": "4 SHELL FABRIC",
-   "merge": [
-    70
-   ]
+   "why": "numbered point: number badge ∪ title, its paragraph below"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73,
+    74
+   ],
    "level": 3,
    "parent": 53,
    "text": "5 FEATURES",
-   "merge": [
-    74
-   ]
+   "why": "numbered point: number badge ∪ title, its paragraph below"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 38,
-   "note": "person name in the testers list"
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (WINTER GEAR GUIDE 2025)"
   },
   {
-   "anno": 41,
-   "note": "person name in the testers list"
+   "boxes": [
+    49
+   ],
+   "of": 1,
+   "why": "repeat: guide title restated (TRAIL MAGAZINE WINTER GEAR GUIDE 2025) over the colophon credits"
   },
   {
-   "anno": 44,
-   "note": "person name in the testers list"
+   "boxes": [
+    51
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
   },
   {
-   "anno": 47,
-   "note": "person name in the testers list"
-  },
-  {
-   "anno": 49,
-   "note": "colophon title (masthead repeat)"
+   "boxes": [
+    79
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": []
 }

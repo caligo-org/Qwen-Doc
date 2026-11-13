@@ -1,133 +1,216 @@
 {
  "doc": "financialReport_chn_87bc5908",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2024年度审计报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "软通动力信息技术（集团）股份有限公司2024年度审计报告",
+   "why": "title: owner + document type in one cover box"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 2,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 16,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 2,
-   "text": "审计报告"
+   "text": "一、审计意见",
+   "why": "section: 一、 part of the letter; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
   },
   {
-   "anno": 19,
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    34
+   ],
    "level": 3,
-   "parent": 16,
-   "text": "一、审计意见"
-  },
-  {
-   "anno": 22,
-   "level": 3,
-   "parent": 16,
-   "text": "二、形成审计意见的基础"
-  },
-  {
-   "anno": 24,
-   "level": 3,
-   "parent": 16,
-   "text": "三、关键审计事项"
-  },
-  {
-   "anno": 34,
-   "level": 4,
    "parent": 24,
-   "text": "（一）营业收入的确认与计量"
+   "text": "（一）营业收入的确认与计量",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 35,
-   "level": 5,
+   "boxes": [
+    35
+   ],
+   "level": 4,
    "parent": 34,
-   "text": "1、事项描述"
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 37,
-   "level": 5,
+   "boxes": [
+    37
+   ],
+   "level": 4,
    "parent": 34,
-   "text": "2、审计应对"
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 52,
-   "level": 4,
+   "boxes": [
+    52
+   ],
+   "level": 3,
    "parent": 24,
-   "text": "（二）应收款项（含应收账款、应收款项融资中应收账款）减值准备计提"
+   "text": "（二）应收款项（含应收账款、应收款项融资中应收账款）减值准备计提",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 53,
-   "level": 5,
-   "parent": 52,
-   "text": "1、事项描述"
-  },
-  {
-   "anno": 56,
-   "level": 5,
-   "parent": 52,
-   "text": "2、审计应对"
-  },
-  {
-   "anno": 69,
+   "boxes": [
+    53
+   ],
    "level": 4,
+   "parent": 52,
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 52,
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
    "parent": 24,
-   "text": "(三)存货跌价准备计提"
+   "text": "(三)存货跌价准备计提",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 70,
-   "level": 5,
+   "boxes": [
+    70
+   ],
+   "level": 4,
    "parent": 69,
-   "text": "1、事项描述"
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 73,
-   "level": 5,
+   "boxes": [
+    73
+   ],
+   "level": 4,
    "parent": 69,
-   "text": "2、审计应对"
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 87,
-   "level": 3,
-   "parent": 16,
-   "text": "四、其他信息"
-  },
-  {
-   "anno": 92,
-   "level": 3,
-   "parent": 16,
-   "text": "五、管理层和治理层对财务报表的责任"
-  },
-  {
-   "anno": 103,
-   "level": 3,
-   "parent": 16,
-   "text": "六、注册会计师对财务报表审计的责任"
-  },
-  {
-   "anno": 143,
+   "boxes": [
+    87
+   ],
    "level": 2,
    "parent": 2,
-   "text": "合并资产负债表"
+   "text": "四、其他信息",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
   },
   {
-   "anno": 181,
+   "boxes": [
+    92
+   ],
    "level": 2,
    "parent": 2,
-   "text": "合并利润表"
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "合并资产负债表",
+   "why": "section: statement title; TOC group 二、财务报表 not printed in body"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "合并利润表",
+   "why": "section: statement title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    162
+   ],
+   "of": 143,
+   "why": "repeat: (续) on the next page, same statement still open"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "of": 2,
+   "why": "repeat: 审计报告 restated above the auditor letter is a restatement of the L1 (owner ∪ 审计报告), not a child of it (NOTATIONS \"Every path is a breadcrumb\", round 3; was an L2 section). The letter sections become children of L1."
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 162,
-   "of": 143
+   "box": 17,
+   "why": "report number, text"
+  },
+  {
+   "box": 18,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 33,
+   "why": "lead-in sentence to the matters, text"
+  },
+  {
+   "box": 106,
+   "why": "（一） list item in paragraph flow, text"
+  },
+  {
+   "box": 127,
+   "why": "signature-page note, text"
   }
  ]
 }

@@ -1,57 +1,77 @@
 {
  "doc": "nationalStandard_chn_2cbf14a0",
- "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6,
+    7
+   ],
    "level": 1,
    "parent": "root",
    "text": "锻压机械 安全技术规范 Metalforming machinery—Safety technical specification",
-   "merge": [
-    7
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
    ],
-   "note": "Chinese title + English title"
-  },
-  {
-   "anno": 12,
    "level": 2,
    "parent": 6,
-   "text": "目次"
+   "text": "目次",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 6,
-   "text": "前言"
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 6,
-   "text": "引言"
+   "text": "引言",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 6,
-   "text": "1 范围"
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 2,
    "parent": 6,
-   "text": "2 规范性引用文件"
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    55
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line 中华人民共和国国家标准 (standard family label)"
-  },
-  {
-   "anno": 55,
-   "note": "title restated above clause 1"
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
   }
  ],
- "repeats": []
+ "considered": []
 }

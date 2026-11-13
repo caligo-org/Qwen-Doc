@@ -1,67 +1,95 @@
 {
  "doc": "researchReport_chn_b857707d",
- "notation": "researchReport (industry note): L1 headline; L2 事件/评论/风险提示 and back-matter titles. The industry + rating line above the headline and the office address boxes are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 10,
+   "boxes": [
+    4,
+    10
+   ],
    "level": 1,
    "parent": "root",
-   "text": "短期调整不改长期趋势，静待电新板块估值修复"
+   "text": "动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复",
+   "why": "title union (round 3): the covered industry + report type is printed only in the banner box fused with the rating (动力电池行业行业研究 买入（维持评级）); per NOTATIONS the node uses that box and its text is only the heading part, ∪ the headline"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "事件"
+   "parent": 4,
+   "text": "事件",
+   "why": "section: cover section 事件 with its paragraph"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "评论"
+   "parent": 4,
+   "text": "评论",
+   "why": "section: cover section 评论 with the numbered points"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "风险提示"
+   "parent": 4,
+   "text": "风险提示",
+   "why": "section: risk section"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "公司投资评级的说明："
+   "parent": 4,
+   "text": "公司投资评级的说明：",
+   "why": "back matter: company rating explanation"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "行业投资评级的说明："
+   "parent": 4,
+   "text": "行业投资评级的说明：",
+   "why": "back matter: industry rating explanation"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
-   "parent": 10,
-   "text": "特别声明："
+   "parent": 4,
+   "text": "特别声明：",
+   "why": "back matter: special statement / disclaimer"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 4,
-   "note": "industry name + rating line (cover label, not the headline)"
+   "box": 54,
+   "why": "office address label: text per category note"
   },
   {
-   "anno": 54,
-   "note": "office contact box"
+   "box": 56,
+   "why": "office address label: text"
   },
   {
-   "anno": 56,
-   "note": "office contact box"
-  },
-  {
-   "anno": 58,
-   "note": "office contact box"
+   "box": 58,
+   "why": "office address label: text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "report-type tag 行业点评"
+  },
+  {
+   "box": 29,
+   "why": "table caption"
+  }
+ ]
 }

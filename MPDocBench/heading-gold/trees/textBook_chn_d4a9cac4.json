@@ -1,38 +1,64 @@
 {
  "doc": "textBook_chn_d4a9cac4",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "高等数学 习题全解指南",
-   "note": "cover title on two lines; series, volume/edition, editor lines are text"
+   "text": "高等数学习题全解指南 上册 同济·第六版",
+   "why": "title union: book title + volume line (上册, box also carries the edition)"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 3,
-   "text": "内容提要"
+   "text": "内容提要",
+   "why": "front matter: summary title on the copyright page"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 3,
-   "text": "前言"
+   "text": "前言",
+   "why": "front matter: preface title"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 3,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8,
+    9
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title and volume"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 8,
-   "of": 3
+   "box": 15,
+   "why": "CIP block title: colophon, text"
+  },
+  {
+   "box": 55,
+   "why": "TOC part entry: text"
   }
  ]
 }

@@ -1,62 +1,128 @@
 {
  "doc": "annualReport_chn_baa53c78",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    1,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2019年年度报告",
-   "note": "report title; company name is a separate cover line"
+   "text": "温州宏丰电工合金股份有限公司 2019年年度报告",
+   "why": "title union: owner + document type (address and logo printed between them stay text)"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "第一节重要提示、目录和释义"
+   "parent": 1,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 10,
    "text": "1、原材料价格波动引致的存货跌价风险",
-   "note": "numbered risk items printed as heading lines with body below"
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 10,
-   "text": "2、市场与行业风险"
+   "text": "2、市场与行业风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 3,
    "parent": 10,
-   "text": "3、客户集中的风险"
+   "text": "3、客户集中的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 10,
-   "text": "4、技术泄密和核心技术人员流失的风险"
+   "text": "4、技术泄密和核心技术人员流失的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 10,
-   "text": "5、疫情冲击风险"
+   "text": "5、疫情冲击风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 10,
-   "text": "目录"
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 1,
-   "note": "company name printed apart from the report title (address and logo between them)"
+   "boxes": [
+    9
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "cover address line"
+  },
+  {
+   "box": 5,
+   "why": "cover field"
+  },
+  {
+   "box": 6,
+   "why": "cover field"
+  },
+  {
+   "box": 7,
+   "why": "cover date line"
+  }
+ ]
 }

@@ -1,322 +1,401 @@
 {
  "doc": "magazine_eng_22066f34",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "model Boats",
-   "note": "masthead (gold text also picked up the issue line)"
+   "why": "title: periodical masthead model Boats (issue line in the box is text)"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 2,
    "parent": 3,
    "text": "contents",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 103,
+   "boxes": [
+    103
+   ],
    "level": 2,
    "parent": 3,
    "text": "WELCOME TO THE NOVEMBER 2025 ISSUE OF MODEL BOATS",
-   "note": "editor's letter; no section printed, directly under the masthead"
+   "why": "front matter: editor's letter, its letter below (no section printed)"
   },
   {
-   "anno": 269,
+   "boxes": [
+    269
+   ],
    "level": 2,
    "parent": 3,
    "text": "Signals",
-   "note": "section tag Signals"
+   "why": "section: tab tag Signals starts the news section"
   },
   {
-   "anno": 270,
+   "boxes": [
+    270
+   ],
    "level": 3,
    "parent": 269,
    "text": "Compass 360",
-   "note": "news column label"
+   "why": "story-level briefs column label Compass 360; the news items below are its briefs"
   },
   {
-   "anno": 272,
+   "boxes": [
+    272
+   ],
    "level": 4,
    "parent": 270,
-   "text": "Redcar MBC Boating Lake: fixed, filled and fabulous!"
+   "text": "Redcar MBC Boating Lake: fixed, filled and fabulous!",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 287,
+   "boxes": [
+    287
+   ],
    "level": 4,
    "parent": 270,
-   "text": "Scale Model World 2025"
+   "text": "Scale Model World 2025",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 296,
+   "boxes": [
+    296
+   ],
    "level": 4,
    "parent": 270,
    "text": "Blackpool Model Show 2025",
-   "note": "item continuing the Compass 360 column on p9 (Signals tag repeated = running head)"
+   "why": "brief headline: item continues the Compass 360 column"
   },
   {
-   "anno": 324,
+   "boxes": [
+    324
+   ],
    "level": 4,
    "parent": 270,
-   "text": "Coastal Motor Boats – Thornycroft and the origins of Fast Attack Craft"
+   "text": "Coastal Motor Boats – Thornycroft and the origins of Fast Attack Craft",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 329,
+   "boxes": [
+    329
+   ],
    "level": 4,
    "parent": 270,
-   "text": "Waveny winner!"
+   "text": "Waveny winner!",
+   "why": "brief headline: describes the item below"
   },
   {
-   "anno": 336,
+   "boxes": [
+    338
+   ],
    "level": 2,
    "parent": 3,
-   "text": "SEAL of approval",
-   "note": "section tag in the same place and style as Signals (SEAL of approval); section changes"
+   "text": "Brown-Water Navy Revival",
+   "why": "story headline: build review below; its section is not printed (the tab line above is a punning kicker), so after the printed Signals section the story takes the L2 slot (round 3: was L3 under SEAL of approval)"
   },
   {
-   "anno": 338,
+   "boxes": [
+    344
+   ],
    "level": 3,
-   "parent": 336,
-   "text": "Brown-Water Navy Revival"
-  },
-  {
-   "anno": 344,
-   "level": 4,
    "parent": 338,
-   "text": "The LSSC"
+   "text": "The LSSC",
+   "why": "in-story subhead with its block (L3 under the L2 story)"
   },
   {
-   "anno": 347,
-   "level": 4,
+   "boxes": [
+    347
+   ],
+   "level": 3,
    "parent": 338,
-   "text": "We are, indeed, most fortunate!"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 19,
-   "note": "advertisement"
-  },
-  {
-   "anno": 45,
-   "note": "advertisement"
-  },
-  {
-   "anno": 53,
-   "note": "advertisement"
-  },
-  {
-   "anno": 64,
-   "note": "colophon label"
-  },
-  {
-   "anno": 67,
-   "note": "colophon label"
-  },
-  {
-   "anno": 70,
-   "note": "colophon label"
-  },
-  {
-   "anno": 74,
-   "note": "colophon label"
-  },
-  {
-   "anno": 76,
-   "note": "colophon label"
-  },
-  {
-   "anno": 78,
-   "note": "colophon label"
-  },
-  {
-   "anno": 81,
-   "note": "colophon label"
-  },
-  {
-   "anno": 114,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 119,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 121,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 128,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 133,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 137,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 140,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 145,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 148,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 151,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 153,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 157,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 159,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 162,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 163,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 166,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 168,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 171,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 177,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 184,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 186,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 192,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 196,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 199,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 202,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 204,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 208,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 212,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 217,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 220,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 229,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 234,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 239,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 242,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 248,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 251,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 257,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 259,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 265,
-   "note": "advertisement (Howes Models, pp. 6-7)"
-  },
-  {
-   "anno": 286,
-   "note": "rubric banner above an item headline"
-  },
-  {
-   "anno": 321,
-   "note": "advertisement banner inside the page"
-  },
-  {
-   "anno": 323,
-   "note": "rubric banner above an item headline"
-  },
-  {
-   "anno": 328,
-   "note": "rubric banner above an item headline"
+   "text": "We are, indeed, most fortunate!",
+   "why": "in-story subhead with its block (L3 under the L2 story)"
   }
  ],
  "repeats": [
   {
-   "anno": 63,
-   "of": 3
+   "boxes": [
+    63
+   ],
+   "of": 3,
+   "why": "repeat: masthead restated at the head of the colophon column"
   },
   {
-   "anno": 295,
-   "of": 269
+   "boxes": [
+    295
+   ],
+   "of": 269,
+   "why": "repeat: running section tab Signals on the next page of the same section"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    294
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    334
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    352
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 64,
+   "why": "colophon label (EDITORIAL contacts)"
+  },
+  {
+   "box": 67,
+   "why": "colophon label (CUSTOMER SERVICES contacts)"
+  },
+  {
+   "box": 70,
+   "why": "colophon label (ADVERTISING contacts)"
+  },
+  {
+   "box": 74,
+   "why": "colophon label (PUBLISHING staff)"
+  },
+  {
+   "box": 76,
+   "why": "colophon label (SUBSCRIPTIONS contacts)"
+  },
+  {
+   "box": 78,
+   "why": "colophon label (NEWSAGENT RESERVATION)"
+  },
+  {
+   "box": 81,
+   "why": "colophon label (PRINT AND DISTRIBUTIONS)"
+  },
+  {
+   "box": 286,
+   "why": "rubric banner above the item headline (kicker), no block of its own"
+  },
+  {
+   "box": 321,
+   "why": "event poster title inside a promotional image (ad)"
+  },
+  {
+   "box": 323,
+   "why": "rubric banner above the item headline (kicker), no block of its own"
+  },
+  {
+   "box": 328,
+   "why": "rubric banner above the item headline (kicker), no block of its own"
+  },
+  {
+   "box": 19,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 45,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 53,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 114,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 119,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 121,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 128,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 133,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 137,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 140,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 145,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 148,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 151,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 153,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 157,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 159,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 162,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 163,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 166,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 168,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 171,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 177,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 184,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 186,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 192,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 196,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 199,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 202,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 204,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 208,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 212,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 217,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 220,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 229,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 234,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 239,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 242,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 248,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 251,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 257,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 259,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  },
+  {
+   "box": 265,
+   "why": "advertisement (pp. 2-3, 6-7 ad pages): product/brand headline"
+  }
+ ],
+ "considered": [
+  {
+   "box": 336,
+   "why": "kicker: SEAL of approval is a pun on this one story (SEAL support craft), not a section name (the contents lists no such section, only the story); a slogan is not a description, so text. Round 3: was an L2 section tag"
   }
  ]
 }

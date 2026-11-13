@@ -1,139 +1,369 @@
 {
  "doc": "paper_eng_ff3a3862",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously"
+   "text": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
+   "why": "title: paper title"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1 Introduction"
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2 Method"
+   "text": "2 Method",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.1 The Video Streaming Thinking (VST) Paradigm"
+   "text": "2.1 The Video Streaming Thinking (VST) Paradigm",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.2 Training Method for VST"
+   "text": "2.2 Training Method for VST",
+   "why": "subsection 2.2"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 30,
-   "text": "2.3 Data Synthesis Pipeline for VST"
+   "text": "2.3 Data Synthesis Pipeline for VST",
+   "why": "subsection 2.3"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3 Experiment"
+   "text": "3 Experiment",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.1 Implementation Details"
+   "text": "3.1 Implementation Details",
+   "why": "subsection 3.1"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.2 Benchmarks"
+   "text": "3.2 Benchmarks",
+   "why": "subsection 3.2"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.3 Online Video Benchmark Results"
+   "text": "3.3 Online Video Benchmark Results",
+   "why": "subsection 3.3"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.4 Offline Video Benchmark Results"
+   "text": "3.4 Offline Video Benchmark Results",
+   "why": "subsection 3.4"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.5 Ablation Study"
+   "text": "3.5 Ablation Study",
+   "why": "subsection 3.5"
   },
   {
-   "anno": 114,
+   "boxes": [
+    114
+   ],
    "level": 3,
    "parent": 77,
-   "text": "3.6 Analysis"
+   "text": "3.6 Analysis",
+   "why": "subsection 3.6"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 2,
    "parent": 2,
-   "text": "4 Related Work"
+   "text": "4 Related Work",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 2,
    "parent": 2,
-   "text": "5 Conclusion"
+   "text": "5 Conclusion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 2,
    "parent": 2,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Appendix"
+   "text": "Appendix",
+   "why": "back matter: Appendix title groups the lettered appendices A-C"
   },
   {
-   "anno": 204,
+   "boxes": [
+    204
+   ],
    "level": 3,
    "parent": 203,
-   "text": "A Details of VST Inference"
+   "text": "A Details of VST Inference",
+   "why": "appendix A, one level below Appendix (content: Appendix contains A-C)"
   },
   {
-   "anno": 205,
+   "boxes": [
+    205
+   ],
    "level": 4,
    "parent": 204,
-   "text": "A.1 Inference Prompt"
+   "text": "A.1 Inference Prompt",
+   "why": "subsection A.1 (numbering)"
   },
   {
-   "anno": 209,
+   "boxes": [
+    209
+   ],
    "level": 4,
    "parent": 204,
-   "text": "A.2 Streaming Inference Pipeline"
+   "text": "A.2 Streaming Inference Pipeline",
+   "why": "subsection A.2"
   },
   {
-   "anno": 215,
+   "boxes": [
+    215
+   ],
    "level": 3,
    "parent": 203,
-   "text": "B Details of VST-SFT / RL Training"
+   "text": "B Details of VST-SFT / RL Training",
+   "why": "appendix B"
   },
   {
-   "anno": 218,
+   "boxes": [
+    218
+   ],
    "level": 3,
    "parent": 203,
-   "text": "C Details of VST Data Generation"
+   "text": "C Details of VST Data Generation",
+   "why": "appendix C"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    169
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    189
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    212
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    220
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "run-in \"Abstract.\" starting the abstract paragraph: text"
+  },
+  {
+   "box": 70,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 71,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 75,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 76,
+   "why": "bold run-in paragraph lead: text"
+  }
+ ]
 }

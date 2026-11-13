@@ -1,377 +1,512 @@
 {
  "doc": "newspaper_eng_c21bfc8c",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY, same family as newspaper_eng_e4dd9616; 'Hope in America' is a package (L3) with two stories (L4).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Colleges divesting of Israel warned"
+   "text": "Colleges divesting of Israel warned",
+   "why": "story headline, front page (no section banner)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 3,
    "parent": 5,
    "text": "Hope in America",
-   "note": "package banner over two stories"
+   "why": "package banner over two front-page stories"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 4,
    "parent": 30,
-   "text": "We're optimistic about everything except our politics"
+   "text": "We're optimistic about everything except our politics",
+   "why": "package story headline"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 4,
    "parent": 30,
-   "text": "Maine town holds to the past, paves way for the future"
+   "text": "Maine town holds to the past, paves way for the future",
+   "why": "package story headline"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Thousands of school districts lacking AC"
+   "text": "Thousands of school districts lacking AC",
+   "why": "story headline"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 2,
    "parent": 5,
    "text": "NEWS",
-   "note": "running section tag p2"
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Hope",
-   "continues": 32,
-   "note": "jump: Continued from Page 1A (See HOPE)"
+   "text": "We're optimistic about everything except our politics",
+   "why": "continuation: one-word jump head of a package story (story role on the jump page) | breadcrumb round 3: the jump prints only the jump word \"Hope\" (no headline), so the continuation takes the original's title #32",
+   "continues": 32
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 4,
    "parent": 72,
-   "text": "Official population: 113. Fact check? Likely overstated"
+   "text": "Official population: 113. Fact check? Likely overstated",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 4,
    "parent": 72,
-   "text": "Inspirational Obama for Democrats, Reagan for the GOP"
+   "text": "Inspirational Obama for Democrats, Reagan for the GOP",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Maine",
-   "continues": 45,
-   "note": "jump (See MAINE)"
+   "text": "Maine town holds to the past, paves way for the future",
+   "why": "continuation: one-word jump head of a package story | breadcrumb round 3: the jump prints only the jump word \"Maine\" (no headline), so the continuation takes the original's title #45",
+   "continues": 45
   },
   {
-   "anno": 154,
+   "boxes": [
+    154
+   ],
    "level": 4,
    "parent": 136,
-   "text": "The center of town"
+   "text": "The center of town",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 4,
    "parent": 136,
-   "text": "Changing with the times"
+   "text": "Changing with the times",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 4,
    "parent": 136,
-   "text": "All politics is local"
+   "text": "All politics is local",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 205,
+   "boxes": [
+    205
+   ],
    "level": 4,
    "parent": 136,
-   "text": "Restoring and preserving hope"
+   "text": "Restoring and preserving hope",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 222,
+   "boxes": [
+    222
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Springfield, Ohio's Haitian residents share their fears"
+   "text": "Springfield, Ohio's Haitian residents share their fears",
+   "why": "story headline"
   },
   {
-   "anno": 239,
+   "boxes": [
+    239
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Schools' AC",
-   "continues": 54,
-   "note": "jump"
+   "text": "Thousands of school districts lacking AC",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Schools' AC\" (no headline), so the continuation takes the original's title #54",
+   "continues": 54
   },
   {
-   "anno": 247,
+   "boxes": [
+    247
+   ],
    "level": 4,
    "parent": 239,
-   "text": "Why do schools lack adequate AC?"
+   "text": "Why do schools lack adequate AC?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 256,
+   "boxes": [
+    256
+   ],
    "level": 4,
    "parent": 239,
-   "text": "Heat affects learning, teaching"
+   "text": "Heat affects learning, teaching",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 260,
+   "boxes": [
+    260
+   ],
    "level": 4,
    "parent": 239,
-   "text": "Are there solutions?"
+   "text": "Are there solutions?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 269,
+   "boxes": [
+    269
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Colleges",
-   "continues": 19,
-   "note": "jump"
+   "text": "Colleges divesting of Israel warned",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Colleges\" (no headline), so the continuation takes the original's title #19",
+   "continues": 19
   },
   {
-   "anno": 279,
+   "boxes": [
+    279
+   ],
    "level": 4,
    "parent": 269,
-   "text": "Antibocott laws: What are they?"
+   "text": "Antibocott laws: What are they?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 288,
+   "boxes": [
+    288
+   ],
    "level": 4,
    "parent": 269,
-   "text": "A free speech issue?"
+   "text": "A free speech issue?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 293,
+   "boxes": [
+    293
+   ],
    "level": 4,
    "parent": 269,
-   "text": "Student activists unfazed"
+   "text": "Student activists unfazed",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 305,
+   "boxes": [
+    305
+   ],
    "level": 3,
    "parent": 69,
    "text": "A month to fly the flag for Hispanic diversity",
-   "note": "'Just Curious' rubric above is text"
+   "why": "story headline (Just Curious rubric above is text)"
   },
   {
-   "anno": 316,
+   "boxes": [
+    316
+   ],
    "level": 4,
    "parent": 305,
-   "text": "Marking independence days"
+   "text": "Marking independence days",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 322,
+   "boxes": [
+    322
+   ],
    "level": 4,
    "parent": 305,
-   "text": "What is the difference between Hispanic and Latino?"
+   "text": "What is the difference between Hispanic and Latino?",
+   "why": "in-story subhead (question) with its own answer block"
   },
   {
-   "anno": 328,
+   "boxes": [
+    328
+   ],
    "level": 4,
    "parent": 305,
-   "text": "Museum in Washington showcases America's Latinos"
+   "text": "Museum in Washington showcases America's Latinos",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 333,
+   "boxes": [
+    333
+   ],
    "level": 4,
    "parent": 305,
-   "text": "What should people do to mark Hispanic Heritage Month?"
+   "text": "What should people do to mark Hispanic Heritage Month?",
+   "why": "in-story subhead (question) with its own answer block"
   },
   {
-   "anno": 350,
+   "boxes": [
+    350
+   ],
    "level": 3,
    "parent": 69,
-   "text": "FBI: Another Trump assassination attempt"
+   "text": "FBI: Another Trump assassination attempt",
+   "why": "story headline"
   },
   {
-   "anno": 371,
+   "boxes": [
+    371
+   ],
    "level": 3,
    "parent": 69,
-   "text": "High-dose ADHD drugs pose mental health risk to patients"
+   "text": "High-dose ADHD drugs pose mental health risk to patients",
+   "why": "story headline"
   },
   {
-   "anno": 386,
+   "boxes": [
+    386
+   ],
    "level": 4,
    "parent": 371,
-   "text": "Higher doses pose a greater risk"
+   "text": "Higher doses pose a greater risk",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 393,
+   "boxes": [
+    393
+   ],
    "level": 4,
    "parent": 371,
-   "text": "Which ADHD drugs are not linked to psychosis or mania?"
+   "text": "Which ADHD drugs are not linked to psychosis or mania?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 397,
+   "boxes": [
+    397
+   ],
    "level": 4,
    "parent": 371,
-   "text": "Amid shortages, risks of switching ADHD medications"
+   "text": "Amid shortages, risks of switching ADHD medications",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 400,
+   "boxes": [
+    400
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Guns are still leading cause of death for kids"
+   "text": "Guns are still leading cause of death for kids",
+   "why": "story headline"
   },
   {
-   "anno": 410,
+   "boxes": [
+    410
+   ],
    "level": 4,
    "parent": 400,
-   "text": "Gun deaths disproportionately affect Black youth"
+   "text": "Gun deaths disproportionately affect Black youth",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 419,
+   "boxes": [
+    419
+   ],
    "level": 4,
    "parent": 400,
-   "text": "Rise in gun violence incidents across US schools"
+   "text": "Rise in gun violence incidents across US schools",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 423,
+   "boxes": [
+    423
+   ],
    "level": 4,
    "parent": 400,
-   "text": "What can the US do about gun violence?"
+   "text": "What can the US do about gun violence?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 433,
+   "boxes": [
+    433
+   ],
    "level": 2,
    "parent": 5,
    "text": "OPINION",
-   "note": "section tag p7"
+   "why": "section: OPINION tag on 7A (section changes)"
   },
   {
-   "anno": 435,
+   "boxes": [
+    435
+   ],
    "level": 3,
    "parent": 433,
-   "text": "Speaker would risk shutdown for Trump"
+   "text": "Speaker would risk shutdown for Trump",
+   "why": "opinion column headline"
   },
   {
-   "anno": 458,
+   "boxes": [
+    458
+   ],
    "level": 4,
    "parent": 435,
-   "text": "Even some Republicans are fed up with Johnson"
+   "text": "Even some Republicans are fed up with Johnson",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 465,
+   "boxes": [
+    465
+   ],
    "level": 4,
    "parent": 435,
-   "text": "Tie government shutdown to paying members of House, Senate"
+   "text": "Tie government shutdown to paying members of House, Senate",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 474,
+   "boxes": [
+    474
+   ],
    "level": 4,
    "parent": 435,
-   "text": "'It's not something that is easily proven'"
+   "text": "'It's not something that is easily proven'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 482,
+   "boxes": [
+    482
+   ],
    "level": 3,
    "parent": 433,
-   "text": "Colleges need to fight antisemitism on campus – starting now"
+   "text": "Colleges need to fight antisemitism on campus – starting now",
+   "why": "opinion column headline"
   },
   {
-   "anno": 491,
+   "boxes": [
+    491
+   ],
    "level": 4,
    "parent": 482,
-   "text": "Universities must ensure Jewish students' safety"
+   "text": "Universities must ensure Jewish students' safety",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 496,
+   "boxes": [
+    496
+   ],
    "level": 4,
    "parent": 482,
-   "text": "How colleges can combat antisemitism on campus"
+   "text": "How colleges can combat antisemitism on campus",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 505,
+   "boxes": [
+    505
+   ],
    "level": 4,
    "parent": 482,
-   "text": "Jewish students and faculty deserve to be seen and heard"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 14,
-   "note": "front-page teaser (Read the interview, 1D)"
-  },
-  {
-   "anno": 118,
-   "note": "colophon field"
-  },
-  {
-   "anno": 122,
-   "note": "colophon field"
-  },
-  {
-   "anno": 126,
-   "note": "colophon field"
-  },
-  {
-   "anno": 128,
-   "note": "colophon field"
-  },
-  {
-   "anno": 130,
-   "note": "colophon field"
-  },
-  {
-   "anno": 302,
-   "note": "'Just Curious' feature rubric"
-  },
-  {
-   "anno": 375,
-   "note": "pull-quote attribution"
-  },
-  {
-   "anno": 517,
-   "note": "ad"
-  },
-  {
-   "anno": 528,
-   "note": "ad"
+   "text": "Jewish students and faculty deserve to be seen and heard",
+   "why": "in-story subhead with its own block"
   }
  ],
  "repeats": [
   {
-   "anno": 116,
-   "of": 5
+   "boxes": [
+    116
+   ],
+   "of": 5,
+   "why": "masthead name restated as the colophon box title"
   },
   {
-   "anno": 132,
-   "of": 69
+   "boxes": [
+    511
+   ],
+   "of": 5,
+   "why": "masthead name restated over the editorial board list"
   },
   {
-   "anno": 221,
-   "of": 69
+   "boxes": [
+    132,
+    221,
+    299,
+    349,
+    430
+   ],
+   "of": 69,
+   "why": "running section tag NEWS on the following pages of the open section"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "front-page teaser (Read the interview, 1D)"
   },
   {
-   "anno": 299,
-   "of": 69
+   "box": 118,
+   "why": "colophon field label (contact box)"
   },
   {
-   "anno": 309,
-   "of": 5
+   "box": 122,
+   "why": "colophon field label (contact box)"
   },
   {
-   "anno": 349,
-   "of": 69
+   "box": 126,
+   "why": "colophon field label (contact box)"
   },
   {
-   "anno": 430,
-   "of": 69
+   "box": 128,
+   "why": "colophon field label (contact box)"
   },
   {
-   "anno": 511,
-   "of": 5
+   "box": 130,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 302,
+   "why": "recurring explainer rubric with its tagline (Just Curious)"
+  },
+  {
+   "box": 375,
+   "why": "pull-quote attribution"
+  },
+  {
+   "box": 517,
+   "why": "full-page advertisement"
+  },
+  {
+   "box": 528,
+   "why": "full-page advertisement"
+  }
+ ],
+ "considered": [
+  {
+   "box": 516,
+   "why": "running tag NEWS over a full-page ad after the OPINION page: no content, no section node"
+  },
+  {
+   "box": 309,
+   "why": "byline affiliation USA TODAY under the headline, not a title repeat"
   }
  ]
 }

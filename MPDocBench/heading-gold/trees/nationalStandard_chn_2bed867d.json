@@ -1,29 +1,33 @@
 {
  "doc": "nationalStandard_chn_2bed867d",
- "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6,
+    7
+   ],
    "level": 1,
    "parent": "root",
    "text": "家用和类似用途单相插头插座型式、基本参数和尺寸 Single phase plugs and socket-outlets for household and similar purposes—Types, basic parameters and dimensions",
-   "merge": [
-    7
-   ],
-   "note": "Chinese title + English title"
+   "why": "title union: standard title + English title"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 6,
-   "text": "目 次"
+   "text": "目 次",
+   "why": "front/back matter title at the level of the top clauses"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
   }
  ],
- "repeats": []
+ "considered": []
 }

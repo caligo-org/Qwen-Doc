@@ -1,78 +1,114 @@
 {
  "doc": "pptSlides_chn_0616b8b7",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "7.2 马尔可夫决策过程",
-   "note": "deck title; the book/chapter line above is the series line"
+   "text": "《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程",
+   "why": "title union: course book + chapter (owner) + lecture title (what deck)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "目录"
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title: front matter at top-section level"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 2,
    "text": "马尔可夫决策过程简介",
-   "note": "intro slide before the first divider"
+   "why": "slide title before the first divider: introduction slide at top-section level"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 2,
    "text": "01 马尔可夫过程 (Markov Process)",
-   "note": "agenda divider slide highlighting entry 01; text = the highlighted entry of the list box"
+   "why": "section divider: agenda slide with 01 highlighted, node = current entry"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 3,
    "parent": 17,
-   "text": "随机过程"
+   "text": "随机过程",
+   "why": "slide title under divider 01"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 17,
-   "text": "马尔可夫性质"
+   "text": "马尔可夫性质",
+   "why": "slide title"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 3,
    "parent": 17,
-   "text": "状态转移矩阵"
+   "text": "状态转移矩阵",
+   "why": "slide title"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 17,
-   "text": "马尔可夫过程"
+   "text": "马尔可夫过程",
+   "why": "slide title"
   },
   {
-   "anno": 41,
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 35,
+   "text": "定义",
+   "why": "own-line label with its own boxed definition block (labelled block)"
+  },
+  {
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 17,
-   "text": "示例：通勤问题"
+   "text": "示例：通勤问题",
+   "why": "slide title"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "series line: book title + chapter (第7章：强化学习) above the deck title"
-  },
-  {
-   "anno": 16,
-   "note": "repeated contents title on the divider slide; the highlighted entry #17 is the heading"
-  },
-  {
-   "anno": 37,
-   "note": "callout label 定义 (definition box label)"
+   "box": 16,
+   "why": "contents title reprinted on agenda divider; the divider heading is the highlighted entry"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 7,
+   "why": "TOC entries"
+  },
+  {
+   "box": 4,
+   "why": "lecturer name on cover"
+  }
+ ]
 }

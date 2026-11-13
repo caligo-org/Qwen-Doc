@@ -1,39 +1,53 @@
 {
  "doc": "textBook_chn_028c0453",
- "notation": "textBook-v2: L1 book title from cover; L2 front matter titles and chapters (第N章 label+title one box).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "物理",
-   "note": "cover title; 必修/第三册 volume lines are text"
+   "text": "物理 必修 第三册",
+   "why": "title union: subject + course/volume lines naming this book"
   },
   {
-   "anno": 16,
+   "boxes": [
+    36
+   ],
    "level": 2,
    "parent": 3,
-   "text": "亲爱的同学：",
-   "note": "preface letter salutation, functions as the preface title"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 36,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 3,
-   "text": "目录"
-  },
-  {
-   "anno": 46,
-   "level": 2,
-   "parent": 3,
-   "text": "第1章 电荷的相互作用"
+   "text": "第1章 电荷的相互作用",
+   "why": "chapter label + title: describes the chapter below (containment)"
   }
  ],
- "not_headings": [],
  "repeats": [
   {
-   "anno": 9,
-   "of": 3
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 16,
+   "why": "salutation opening the preface letter: does not describe the letter (containment), text"
+  }
+ ],
+ "considered": []
 }

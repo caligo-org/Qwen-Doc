@@ -1,67 +1,91 @@
 {
  "doc": "magazine_eng_d9bbdc7a",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    1,
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "Total TVguide",
-   "merge": [
-    1
+   "why": "title: masthead printed in two boxes, union Total + TVguide (date band in the box is text)"
+  },
+  {
+   "boxes": [
+    29
    ],
-   "note": "masthead printed in two boxes (Total + TVguide); date band in the box is text"
-  },
-  {
-   "anno": 29,
    "level": 2,
-   "parent": 4,
+   "parent": 1,
    "text": "Your Total TV WEEK",
-   "note": "front-matter page banner (editor's note + contents)"
+   "why": "front matter: page banner over the editor's note and contents"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 29,
-   "text": "From the Editor"
+   "text": "From the Editor",
+   "why": "front matter: editor's note with its letter below"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 3,
    "parent": 29,
    "text": "Inside",
-   "note": "contents title"
+   "why": "contents title Inside, under the front-matter banner"
   },
   {
-   "anno": 50,
-   "level": 2,
-   "parent": 4,
-   "text": "KOREA OPPORTUNITIES",
-   "merge": [
+   "boxes": [
+    50,
     64
    ],
-   "note": "headline split across the spread (KOREA OPP / ORTUNITIES); ENTERTAINMENT kicker is text"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 11,
-   "note": "advertisement (p2)"
-  },
-  {
-   "anno": 15,
-   "note": "advertisement (p2)"
-  },
-  {
-   "anno": 17,
-   "note": "advertisement (p2)"
+   "level": 2,
+   "parent": 1,
+   "text": "KOREA OPPORTUNITIES",
+   "why": "story headline split across the spread (union KOREA OPP + ORTUNITIES); section not printed (ENTERTAINMENT is a kicker) and the front banner is closed"
   }
  ],
  "repeats": [
   {
-   "anno": 91,
-   "of": 4
+   "boxes": [
+    47
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 11,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 15,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 17,
+   "why": "advertisement (p2)"
+  }
+ ],
+ "considered": []
 }

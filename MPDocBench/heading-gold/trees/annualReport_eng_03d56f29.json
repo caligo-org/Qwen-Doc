@@ -1,20 +1,32 @@
 {
  "doc": "annualReport_eng_03d56f29",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report 2024",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "STMicroelectronics N.V. Annual Report 2024",
+   "why": "title union: owner + document type (+ year) in one cover block"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title at the level of the top sections"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "notice paragraph about the PDF version (no title)"
+  }
+ ]
 }

@@ -1,131 +1,188 @@
 {
  "doc": "researchReport_chn_dd0407a2",
- "notation": "researchReport (company note): L1 headline; L2 ■ section titles and back-matter titles; L3 sub-headlines and rating-definition subsections. Rating, sidebar data-box labels, related reports, table titles and analyst names are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 19,
+   "boxes": [
+    2,
+    19
+   ],
    "level": 1,
    "parent": "root",
-   "text": "业绩增长略超预期，坚果品类扩充"
+   "text": "洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充",
+   "why": "title union: company/stock banner atop the title block + headline"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "公司动态事项"
+   "parent": 2,
+   "text": "公司动态事项",
+   "why": "section: cover section with its paragraph"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "■ 事项点评"
+   "parent": 2,
+   "text": "事项点评",
+   "why": "section: cover review section over the subheads"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 22,
-   "text": "瓜子延续快增长，Q2坚果逐步恢复"
+   "text": "瓜子延续快增长，Q2坚果逐步恢复",
+   "why": "section: own-line subhead with its paragraph"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 22,
-   "text": "受益销售费用率下降，净利率提升"
+   "text": "受益销售费用率下降，净利率提升",
+   "why": "section: own-line subhead"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 22,
-   "text": "产品矩阵扩充，全渠道发力"
+   "text": "产品矩阵扩充，全渠道发力",
+   "why": "section: own-line subhead"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "投资建议"
+   "parent": 2,
+   "text": "投资建议",
+   "why": "section: body section"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "风险提示"
+   "parent": 2,
+   "text": "风险提示",
+   "why": "section: risk section"
   },
   {
-   "anno": 53,
+   "boxes": [
+    36
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "分析师声明"
+   "parent": 2,
+   "text": "数据预测与估值：",
+   "why": "back-matter section, L2 (round 3 containment): own-line styled title (blue, ruled) over the forecast table (p2) and the four financial statements (p3); as text it left those tables inside 风险提示, which they are not about"
   },
   {
-   "anno": 56,
+   "boxes": [
+    53
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "公司业务资格说明"
+   "parent": 2,
+   "text": "分析师声明",
+   "why": "back matter: analyst statement"
   },
   {
-   "anno": 58,
+   "boxes": [
+    56
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "投资评级体系与评级定义"
+   "parent": 2,
+   "text": "公司业务资格说明",
+   "why": "back matter: licence statement"
   },
   {
-   "anno": 59,
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "投资评级体系与评级定义",
+   "why": "back matter: rating system"
+  },
+  {
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 58,
-   "text": "股票投资评级："
+   "text": "股票投资评级：",
+   "why": "back matter sub-block: stock rating with its text + table"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 58,
-   "text": "行业投资评级："
+   "text": "行业投资评级：",
+   "why": "back matter sub-block: industry rating"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 58,
-   "text": "投资评级说明："
+   "text": "投资评级说明：",
+   "why": "back matter sub-block: rating explanation"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 2,
-   "parent": 19,
-   "text": "免责声明"
+   "parent": 2,
+   "text": "免责声明",
+   "why": "back matter: disclaimer"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "rating (增持 ——维持)"
+   "box": 1,
+   "why": "rating line 增持——维持: text per category note"
   },
   {
-   "anno": 8,
-   "note": "sidebar data-table label"
+   "box": 8,
+   "why": "sidebar data-table label: text"
   },
   {
-   "anno": 10,
-   "note": "sidebar data-table label"
+   "box": 10,
+   "why": "sidebar shareholder table label: text"
   },
   {
-   "anno": 12,
-   "note": "sidebar data-table label"
+   "box": 12,
+   "why": "sidebar revenue table label: text"
   },
   {
-   "anno": 14,
-   "note": "sidebar chart label"
+   "box": 14,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 16,
-   "note": "相关报告: related-reports list"
+   "box": 16,
+   "why": "related-reports label: text per category note"
   },
   {
-   "anno": 36,
-   "note": "数据预测与估值: table title"
-  },
-  {
-   "anno": 54,
-   "note": "analyst name"
+   "box": 54,
+   "why": "analyst name under the analyst statement: text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "report-type header line in the title banner"
+  }
+ ]
 }

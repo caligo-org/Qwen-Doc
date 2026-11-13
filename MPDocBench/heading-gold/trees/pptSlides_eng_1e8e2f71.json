@@ -1,33 +1,50 @@
 {
  "doc": "pptSlides_eng_1e8e2f71",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Bank Accounting"
+   "text": "Bank Accounting",
+   "why": "deck title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Table of Contents"
+   "text": "Table of Contents",
+   "why": "contents title"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
    "text": "Bank Master Data",
-   "note": "the contents slide marks the current entry with an arrow: agenda divider; text = marked entry"
+   "why": "section divider: contents slide marks Bank Master Data with an arrow, node = current entry"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Bank Master Data - Objectives"
+   "text": "Bank Master Data - Objectives",
+   "why": "slide title under the Bank Master Data section"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 9,
+   "why": "lead-in sentence introducing a list"
+  }
+ ]
 }

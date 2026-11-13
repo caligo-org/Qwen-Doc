@@ -1,7 +1,1 @@
-{
- "doc": "handwritten_chn_79c34515",
- "notation": "handwritten-v2: lesson-record forms; each page is one table element (the lesson topic line is inside the table): no nodes. Watermark footers are text.",
- "nodes": [],
- "not_headings": [],
- "repeats": []
-}
+{"doc":"handwritten_chn_79c34515","schema":3,"nodes":[],"repeats":[],"not_headings":[],"considered":[{"box":1,"why":"form: each page is one table element (lesson observation form); no heading has its own box"},{"box":2,"why":"platform watermark footer"}]}

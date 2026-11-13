@@ -1,103 +1,166 @@
 {
  "doc": "paper_eng_b8670bda",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Social Distancing Equilibria in Games under Conventional SI Dynamics"
+   "text": "Social Distancing Equilibria in Games under Conventional SI Dynamics",
+   "why": "title: paper title"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Abstract"
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1 Introduction"
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2 SI Distancing Game"
+   "text": "2 SI Distancing Game",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3 Preliminary analysis"
+   "text": "3 Preliminary analysis",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 2,
    "parent": 2,
-   "text": "4 Delay strategies"
+   "text": "4 Delay strategies",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 86,
+   "boxes": [
+    86
+   ],
    "level": 3,
    "parent": 73,
-   "text": "4.1 Equilibrium Solution"
+   "text": "4.1 Equilibrium Solution",
+   "why": "subsection 4.1 (numbering; smaller than section heads; gold had L2)"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 3,
    "parent": 73,
-   "text": "4.2 Interpretation"
+   "text": "4.2 Interpretation",
+   "why": "subsection 4.2 (numbering; gold had L2)"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 2,
    "parent": 2,
-   "text": "5 General Analysis"
+   "text": "5 General Analysis",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 224,
+   "boxes": [
+    224
+   ],
    "level": 2,
    "parent": 2,
-   "text": "6 Proof of Uniqueness"
+   "text": "6 Proof of Uniqueness",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 301,
+   "boxes": [
+    301
+   ],
    "level": 2,
    "parent": 2,
-   "text": "7 Discussion"
+   "text": "7 Discussion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 309,
+   "boxes": [
+    309
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Declarations"
+   "text": "Declarations",
+   "why": "back matter: Declarations, same look as top sections"
   },
   {
-   "anno": 313,
+   "boxes": [
+    313
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Appendix A Minima of Special Functions"
+   "text": "Appendix A Minima of Special Functions",
+   "why": "back matter: appendix at top-section level"
   },
   {
-   "anno": 338,
+   "boxes": [
+    338
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Appendix B Differentiability of restricted disutility"
+   "text": "Appendix B Differentiability of restricted disutility",
+   "why": "back matter: appendix at top-section level"
   },
   {
-   "anno": 357,
+   "boxes": [
+    357
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Appendix C ESS Proof"
+   "text": "Appendix C ESS Proof",
+   "why": "back matter: appendix at top-section level"
   },
   {
-   "anno": 412,
+   "boxes": [
+    412
+   ],
    "level": 2,
    "parent": 2,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 310,
+   "why": "bold run-in label \"Funding.\" starting a paragraph: text"
+  },
+  {
+   "box": 311,
+   "why": "bold run-in label \"Conflicts of Interest.\": text"
+  },
+  {
+   "box": 312,
+   "why": "bold run-in label \"Data Availability.\": text"
+  }
+ ]
 }

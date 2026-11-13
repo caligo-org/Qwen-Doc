@@ -1,19 +1,26 @@
 {
  "doc": "textBook_eng_b6949668",
- "notation": "textBook-v2: L1 cover title only.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Introduction to Applied Statistics for Psychology Students"
+   "text": "Introduction to Applied Statistics for Psychology Students",
+   "why": "title: book title on the cover"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    2
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 2,
-   "of": 1
-  }
- ]
+ "considered": []
 }

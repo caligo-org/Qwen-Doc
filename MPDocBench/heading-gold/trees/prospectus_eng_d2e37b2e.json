@@ -1,225 +1,501 @@
 {
  "doc": "prospectus_eng_d2e37b2e",
- "notation": "prospectus-v2: L1 cover document title (Sales Prospectus March 2015); fund name and legal-form lines text. L2 underlined capital sections (TABLE OF CONTENTS, MANAGEMENT, ADMINISTRATION, INTRODUCTION, THE COMPANY, ...); L3 bold capital subsections; L4 bold bulleted subheads (bullet marker dropped). Directory labels and list lead-ins are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    2,
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Sales Prospectus March 2015",
-   "note": "cover document title line (text_block missed by gold)"
+   "text": "QUEST MANAGEMENT, SICAV Sales Prospectus",
+   "why": "title union: company (owner) + document type 'Sales Prospectus'. Box #6 also prints the date 'March 2015' (one box); per NOTATIONS the text is only the heading part (round 3: date dropped from the text)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "TABLE OF CONTENTS"
+   "parent": 2,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "MANAGEMENT"
+   "parent": 2,
+   "text": "MANAGEMENT",
+   "why": "top section MANAGEMENT (directory)"
   },
   {
-   "anno": 50,
-   "level": 2,
-   "parent": 6,
-   "text": "ADMINISTRATION"
-  },
-  {
-   "anno": 71,
-   "level": 2,
-   "parent": 6,
-   "text": "INTRODUCTION"
-  },
-  {
-   "anno": 80,
-   "level": 2,
-   "parent": 6,
-   "text": "THE COMPANY"
-  },
-  {
-   "anno": 94,
-   "level": 2,
-   "parent": 6,
-   "text": "CAPITAL STOCK"
-  },
-  {
-   "anno": 112,
-   "level": 2,
-   "parent": 6,
-   "text": "INVESTMENT OBJECTIVE AND POLICY"
-  },
-  {
-   "anno": 119,
+   "boxes": [
+    36
+   ],
    "level": 3,
-   "parent": 112,
-   "text": "Renewable Energy:",
-   "note": "label rule: specific own-line label"
+   "parent": 35,
+   "text": "BOARD OF DIRECTORS OF THE COMPANY",
+   "why": "directory label with its block of names"
   },
   {
-   "anno": 127,
+   "boxes": [
+    40
+   ],
    "level": 3,
-   "parent": 112,
-   "text": "Energy Efficiency:",
-   "note": "label rule: specific own-line label"
+   "parent": 35,
+   "text": "BOARD OF DIRECTORS OF THE MANAGEMENT COMPANY",
+   "why": "directory label with its block of names"
   },
   {
-   "anno": 133,
+   "boxes": [
+    47
+   ],
    "level": 3,
-   "parent": 112,
-   "text": "Resource Efficiency:",
-   "note": "label rule: specific own-line label"
+   "parent": 35,
+   "text": "DAY-TO-DAY MANAGERS OF THE MANAGEMENT COMPANY",
+   "why": "directory label with its block of names"
   },
   {
-   "anno": 148,
+   "boxes": [
+    50
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "TECHNIQUES AND INSTRUMENTS"
+   "parent": 2,
+   "text": "ADMINISTRATION",
+   "why": "top section ADMINISTRATION (directory)"
   },
   {
-   "anno": 149,
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "REGISTERED OFFICE",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "MANAGEMENT COMPANY- CENTRAL ADMINISTRATION AGENT - CORPORATE AND DOMICILIARY AGENT - REGISTRAR AND TRANSFER AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "INVESTMENT MANAGER",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "CUSTODIAN BANK PAYING AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "MARKETING AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "FINANCIAL AGENT BELGIUM",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "AUDITOR",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "LEGAL ADVISORS",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INTRODUCTION",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "THE COMPANY",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CAPITAL STOCK",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTMENT OBJECTIVE AND POLICY",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TECHNIQUES AND INSTRUMENTS",
+   "why": "top section TECHNIQUES AND INSTRUMENTS"
+  },
+  {
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 148,
-   "text": "GENERAL PROVISIONS"
+   "text": "GENERAL PROVISIONS",
+   "why": "bold caps subsection with its paragraphs"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 3,
    "parent": 148,
-   "text": "USE OF DERIVATIVE INSTRUMENTS"
+   "text": "USE OF DERIVATIVE INSTRUMENTS",
+   "why": "bold caps subsection with bulleted subheads"
   },
   {
-   "anno": 154,
+   "boxes": [
+    154
+   ],
    "level": 4,
    "parent": 153,
-   "text": "Limits"
+   "text": "Limits",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 164,
+   "boxes": [
+    164
+   ],
    "level": 4,
    "parent": 153,
-   "text": "Special limits relating to credit derivatives"
+   "text": "Special limits relating to credit derivatives",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 4,
    "parent": 153,
-   "text": "Special limits relating to equity swaps and index swaps"
+   "text": "Special limits relating to equity swaps and index swaps",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 189,
+   "boxes": [
+    189
+   ],
    "level": 4,
    "parent": 153,
-   "text": "Conclusion of \"Contracts for Difference\" (\"CFD\")"
+   "text": "Conclusion of \"Contracts for Difference\" (\"CFD\")",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 193,
+   "boxes": [
+    193
+   ],
    "level": 4,
    "parent": 153,
-   "text": "Intervention on currency markets"
+   "text": "Intervention on currency markets",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 197,
+   "boxes": [
+    197
+   ],
    "level": 3,
    "parent": 148,
-   "text": "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)"
+   "text": "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)",
+   "why": "numbered bold caps subsection 2. (same face as GENERAL PROVISIONS)"
   },
   {
-   "anno": 198,
+   "boxes": [
+    198
+   ],
    "level": 4,
    "parent": 197,
-   "text": "Securities lending transactions"
+   "text": "Securities lending transactions",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 4,
    "parent": 197,
-   "text": "Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions"
+   "text": "Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 219,
+   "boxes": [
+    219
+   ],
    "level": 4,
    "parent": 197,
-   "text": "Common provisions to EMT"
+   "text": "Common provisions to EMT",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 229,
+   "boxes": [
+    229
+   ],
    "level": 4,
    "parent": 197,
-   "text": "Management of collateral for OTC financial derivatives transactions and EMT"
+   "text": "Management of collateral for OTC financial derivatives transactions and EMT",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
   },
   {
-   "anno": 253,
+   "boxes": [
+    253
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "INVESTMENT POSSIBILITIES"
+   "parent": 2,
+   "text": "INVESTMENT POSSIBILITIES",
+   "why": "top section (TOC entry)"
   },
   {
-   "anno": 280,
+   "boxes": [
+    280
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "INVESTMENT RESTRICTIONS"
+   "parent": 2,
+   "text": "INVESTMENT RESTRICTIONS",
+   "why": "top section (TOC entry)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    196
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    259
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    272
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    284
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    296
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
   }
  ],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "fund (issuer) name on cover"
+   "box": 3,
+   "why": "legal form line on the cover (Société d'Investissement à Capital): text"
   },
   {
-   "anno": 3,
-   "note": "legal-form line on cover (first half)"
-  },
-  {
-   "anno": 4,
-   "note": "legal-form line on cover (second half)"
-  },
-  {
-   "anno": 36,
-   "note": "directory label (board member list)"
-  },
-  {
-   "anno": 40,
-   "note": "directory label (board member list)"
-  },
-  {
-   "anno": 47,
-   "note": "directory label (board member list)"
-  },
-  {
-   "anno": 51,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 53,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 55,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 57,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 61,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 63,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 65,
-   "note": "directory label (service provider name/address)"
-  },
-  {
-   "anno": 67,
-   "note": "directory label (service provider name/address)"
+   "box": 4,
+   "why": "legal form line on the cover (Variable à Compartiments Multiples): text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head printed above the title on the cover: text, title not yet open"
+  },
+  {
+   "box": 115,
+   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
+  },
+  {
+   "box": 119,
+   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
+  },
+  {
+   "box": 127,
+   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
+  },
+  {
+   "box": 133,
+   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
+  }
+ ]
 }

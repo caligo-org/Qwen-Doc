@@ -1,85 +1,124 @@
 {
  "doc": "handwritten_chn_048c9a89",
- "notation": "handwritten-v2: each lesson's title L1 (two lessons, two L1); numbered sections 一/二 and styled section lines (阶梯训练, 差的最大值经典习题(n), (5) 架桥选址问题) L2; exercise statements are body text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "初二数学将军饮马问题教案"
+   "text": "初二数学将军饮马问题教案",
+   "why": "title: the lesson plan (subject + topic + 教案), covers both lessons"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一：“将军饮马”问题的由来"
+   "text": "一：“将军饮马”问题的由来",
+   "why": "section: numbered part 一 of lesson 1"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "二：“将军饮马”数学模型(有很多模型,第一节课先探讨最常见的四种)"
+   "text": "二：“将军饮马”数学模型(有很多模型,第一节课先探讨最常见的四种)",
+   "why": "section: numbered part 二 over the four model figures"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
    "parent": 1,
    "text": "阶梯训练.",
-   "note": "practice section label, same banner style as 一/二"
+   "why": "section: practice part, same banner style as 一/二, over problems 1-6"
   },
   {
-   "anno": 44,
-   "level": 1,
-   "parent": "root",
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 1,
    "text": "“将军饮马”问题深度拓展第二课时“(新课)",
-   "note": "second lesson's title"
+   "why": "section: second lesson of the same lesson plan (narrower than the plan title)"
   },
   {
-   "anno": 57,
-   "level": 2,
+   "boxes": [
+    57
+   ],
+   "level": 3,
    "parent": 44,
-   "text": "差的最大值经典习题(1)"
+   "text": "差的最大值经典习题(1)",
+   "why": "section: own-line exercise label with its problem + analysis block"
   },
   {
-   "anno": 61,
-   "level": 2,
+   "boxes": [
+    61
+   ],
+   "level": 3,
    "parent": 44,
-   "text": "差的最大值经典习题(2)"
+   "text": "差的最大值经典习题(2)",
+   "why": "section: own-line exercise label with its block"
   },
   {
-   "anno": 65,
-   "level": 2,
+   "boxes": [
+    65
+   ],
+   "level": 3,
    "parent": 44,
-   "text": "差的最大值经典习题(3)"
+   "text": "差的最大值经典习题(3)",
+   "why": "section: own-line exercise label with its block"
   },
   {
-   "anno": 69,
-   "level": 2,
+   "boxes": [
+    69
+   ],
+   "level": 3,
    "parent": 44,
-   "text": "(5) 架桥选址问题 (平移版的“将军饮马”问题)"
+   "text": "(5) 架桥选址问题 (平移版的“将军饮马”问题)",
+   "why": "section: numbered topic title (5) over the bridge problem and its analysis"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 22,
-   "note": "exercise statement (question 1 is plain text too)"
+   "box": 22,
+   "why": "exam question: problem statement, its analysis is content"
   },
   {
-   "anno": 25,
-   "note": "exercise statement"
+   "box": 25,
+   "why": "exam question: problem statement"
   },
   {
-   "anno": 30,
-   "note": "exercise statement"
+   "box": 30,
+   "why": "exam question: problem statement"
   },
   {
-   "anno": 37,
-   "note": "exercise statement"
+   "box": 37,
+   "why": "exam question: problem statement"
   },
   {
-   "anno": 41,
-   "note": "exercise statement"
+   "box": 41,
+   "why": "exam question: problem statement"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 46,
+   "why": "problem statement (3) of lesson 2: content, no title"
+  },
+  {
+   "box": 53,
+   "why": "problem statement (4): content"
+  },
+  {
+   "box": 3,
+   "why": "note under 一 (中国版/古罗马版): text"
+  }
+ ]
 }

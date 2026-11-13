@@ -1,157 +1,240 @@
 {
  "doc": "newspaper_chn_adf00537",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 农民日报: front page implicit section; page tag 综合新闻 p2 = L2; headlines L3 (引题/副题/rubrics text, node text = main title); repeated headline over a jump ((上接第一版)) = continuation node.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "農民日報",
-   "note": "masthead (English name, website in the same box are text)"
+   "why": "masthead; English name and website in the same box are text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
    "text": "习近平同刚果(金)总统齐塞克迪举行会谈",
-   "note": "its p2 jump has no headline (body starts with (上接第一版))"
+   "why": "story headline, front page (no banner)"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 1,
    "text": "深学细悟勇担当 凝心聚力强三农",
-   "note": "——副题 in the same box is a deck"
+   "why": "story headline; ——副题 in the same box is a deck"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 1,
-   "text": "安徽今年组织2122家规模养殖场实施“减抗”行动"
+   "text": "安徽今年组织2122家规模养殖场实施“减抗”行动",
+   "why": "story headline"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 3,
    "parent": 1,
    "text": "强农“蓝图”铺展全新画卷",
-   "note": "——纪实 subtitle in the same box is a deck; banner above is a rubric"
+   "why": "story headline; ——纪实 subtitle in the same box is a deck, slogan banner above is a rubric"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 4,
    "parent": 34,
-   "text": "聚焦种子与品牌，紧抓“微笑曲线”两端"
+   "text": "聚焦种子与品牌，紧抓“微笑曲线”两端",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 4,
    "parent": 34,
-   "text": "打造产业链闭环，融合贯通资金渠道"
+   "text": "打造产业链闭环，融合贯通资金渠道",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 52,
+   "boxes": [
+    51,
+    52
+   ],
    "level": 3,
    "parent": 1,
-   "text": "切实巩固拓展脱贫攻坚成果扎实推进乡村振兴",
-   "note": "引题 '刘国中强调' is text"
+   "text": "刘国中强调 切实巩固拓展脱贫攻坚成果扎实推进乡村振兴",
+   "why": "story headline (引题 刘国中强调 above is a deck) | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 1,
-   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知"
+   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知",
+   "why": "story headline: notice printed in full; its 一、二、三、 are run-in paragraph starts"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 1,
-   "text": "河南十项惠农举措助力“三夏”生产"
+   "text": "河南十项惠农举措助力“三夏”生产",
+   "why": "story headline (slogan banner above is a rubric)"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 2,
    "parent": 1,
    "text": "综合新闻",
-   "note": "page tag p2"
+   "why": "section: page tag 综合新闻 on p2"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 75,
    "text": "期盼携手开创亚欧合作新局面",
-   "note": "——副题 in the same box is a deck"
+   "why": "story headline; ——副题 in the same box is a deck"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 4,
    "parent": 78,
-   "text": "共享亚欧发展新机遇"
+   "text": "共享亚欧发展新机遇",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 90,
+   "boxes": [
+    90
+   ],
    "level": 4,
    "parent": 78,
-   "text": "开拓造福各国的“幸福路”"
+   "text": "开拓造福各国的“幸福路”",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 4,
    "parent": 78,
-   "text": "合作前景非常广阔"
+   "text": "合作前景非常广阔",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 103,
+   "boxes": [
+    103
+   ],
    "level": 3,
    "parent": 75,
    "text": "戏剧城内麦香飘",
-   "note": "photo story"
+   "why": "photo story headline with its own text"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 3,
    "parent": 75,
    "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知",
-   "continues": 59,
-   "note": "headline repeated over the jump (上接第一版)"
+   "why": "continuation: headline reprinted over the jump (上接第一版)",
+   "continues": 59
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 3,
    "parent": 75,
    "text": "青海饲草产业呈现良好发展态势",
-   "note": "副题 '年产饲草鲜草达475万吨' is a deck"
+   "why": "story headline; 副题 below is a deck"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 3,
    "parent": 75,
-   "text": "黑龙江累计建成高标准农田10265万亩"
+   "text": "黑龙江累计建成高标准农田10265万亩",
+   "why": "story headline"
   },
   {
-   "anno": 137,
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "习近平同刚果(金)总统齐塞克迪举行会谈",
+   "continues": 4,
+   "why": "continuation: jump paragraph starting \"（上接第一版）\" of front-page story #4, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  },
+  {
+   "boxes": [
+    137
+   ],
    "level": 3,
    "parent": 75,
    "text": "强农“蓝图”铺展全新画卷",
-   "continues": 34,
-   "note": "headline repeated over the jump"
+   "why": "continuation: headline reprinted over the jump",
+   "continues": 34
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 4,
    "parent": 137,
-   "text": "创新驱动升级，科技赋能协同资源整合"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 51,
-   "note": "引题"
+   "text": "创新驱动升级，科技赋能协同资源整合",
+   "why": "in-story subhead of the jumped story"
   }
  ],
  "repeats": [
   {
-   "anno": 77,
-   "of": 1
+   "boxes": [
+    77
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 15,
+   "why": "slogan banners / campaign rubric, text"
+  },
+  {
+   "box": 33,
+   "why": "slogan banners / campaign rubric, text"
+  },
+  {
+   "box": 62,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  },
+  {
+   "box": 65,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  },
+  {
+   "box": 111,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
   }
  ]
 }

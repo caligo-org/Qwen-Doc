@@ -1,6 +1,29 @@
 {
  "doc": "examPaper_eng_23110a64",
+ "schema": 3,
  "nodes": [],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "A1. bold run-in problem label: text (questions are text)"
+  },
+  {
+   "box": 4,
+   "why": "Answer. run-in label: text"
+  },
+  {
+   "box": 5,
+   "why": "Solution 1. run-in label: text"
+  },
+  {
+   "box": 123,
+   "why": "Lemma. run-in label: text"
+  },
+  {
+   "box": 146,
+   "why": "Comment. run-in label: text"
+  }
+ ]
 }

@@ -1,98 +1,152 @@
 {
  "doc": "financialReport_chn_486c6f77",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "审计报告",
-   "note": "bundle title (audit report + statements); company name on its own line above is text"
+   "text": "上海安硕信息技术股份有限公司 审计报告",
+   "why": "title union: owner + document type"
   },
   {
-   "anno": 11,
+   "boxes": [
+    14
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "审计报告",
-   "note": "the auditor's report proper, a section of the bundle (cf. ad31878f whose TOC lists it beside the statements)"
+   "parent": 1,
+   "text": "一、审计意见",
+   "why": "section: 一、 numbered part of the audit report"
   },
   {
-   "anno": 14,
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    22
+   ],
    "level": 3,
-   "parent": 11,
-   "text": "一、审计意见"
-  },
-  {
-   "anno": 17,
-   "level": 3,
-   "parent": 11,
-   "text": "二、形成审计意见的基础"
-  },
-  {
-   "anno": 20,
-   "level": 3,
-   "parent": 11,
-   "text": "三、关键审计事项"
-  },
-  {
-   "anno": 22,
-   "level": 4,
    "parent": 20,
-   "text": "（一）存货跌价准备"
+   "text": "（一）存货跌价准备",
+   "why": "section: key audit matter （一）"
   },
   {
-   "anno": 23,
-   "level": 5,
-   "parent": 22,
-   "text": "1. 事项描述"
-  },
-  {
-   "anno": 30,
-   "level": 5,
-   "parent": 22,
-   "text": "2.审计应对"
-  },
-  {
-   "anno": 36,
+   "boxes": [
+    23
+   ],
    "level": 4,
+   "parent": 22,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 4,
+   "parent": 22,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
    "parent": 20,
-   "text": "（二）收入确认"
+   "text": "（二）收入确认",
+   "why": "section: key audit matter （二）"
   },
   {
-   "anno": 37,
-   "level": 5,
+   "boxes": [
+    37
+   ],
+   "level": 4,
    "parent": 36,
-   "text": "1、事项描述"
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block"
   },
   {
-   "anno": 40,
-   "level": 5,
+   "boxes": [
+    40
+   ],
+   "level": 4,
    "parent": 36,
-   "text": "2、审计应对"
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block"
   },
   {
-   "anno": 52,
-   "level": 3,
-   "parent": 11,
-   "text": "四、其他信息"
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "四、其他信息",
+   "why": "section: 一、 numbered sibling"
   },
   {
-   "anno": 57,
-   "level": 3,
-   "parent": 11,
-   "text": "五、管理层和治理层对财务报表的责任"
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 numbered sibling"
   },
   {
-   "anno": 65,
-   "level": 3,
-   "parent": 11,
-   "text": "六、注册会计师对财务报表审计的责任"
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 numbered sibling"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 1,
-   "note": "issuer name on cover, separate line above the report title"
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "repeat: title restated above the auditor letter; the document is only that letter"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "report number, text"
+  },
+  {
+   "box": 4,
+   "why": "audit firm name on cover, text"
+  },
+  {
+   "box": 13,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 68,
+   "why": "（一） list item in paragraph flow, text"
+  }
+ ]
 }

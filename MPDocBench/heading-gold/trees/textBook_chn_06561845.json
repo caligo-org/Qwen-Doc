@@ -1,40 +1,47 @@
 {
  "doc": "textBook_chn_06561845",
- "notation": "textBook-v2: L1 cover subject title; L2 front matter.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "数学",
-   "note": "cover title; pinyin line and grade/volume line are text"
+   "text": "数学 九年级下册",
+   "why": "title union: subject + grade/volume line naming this book"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 3,
-   "text": "致 同 学",
-   "note": "preface 致同学"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 4,
-   "note": "pinyin transliteration of the title"
-  },
-  {
-   "anno": 10,
-   "note": "pinyin transliteration on title page"
-  },
-  {
-   "anno": 14,
-   "note": "CIP colophon block title"
+   "text": "致同学",
+   "why": "front matter: letter title 致同学; breadcrumb round 2: text written without the badge spacing (致 同 学 -> 致同学)"
   }
  ],
  "repeats": [
   {
-   "anno": 9,
-   "of": 3
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "pinyin transliteration of the title: text"
+  },
+  {
+   "box": 14,
+   "why": "CIP block title on the colophon page: colophon, text"
+  }
+ ],
+ "considered": []
 }

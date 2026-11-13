@@ -1,26 +1,39 @@
 {
  "doc": "textBook_chn_d605335f",
- "notation": "textBook-v2: L1 cover subject title; L2 front matter.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "数学",
-   "note": "cover title; grade/volume, publisher, series lines are text"
+   "text": "数学 三年级 上册",
+   "why": "title union: subject + grade/volume lines naming this book"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 3,
-   "text": "编者的话"
+   "text": "编者的话",
+   "why": "front matter: editors letter title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8,
+    9,
+    10
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 8,
-   "of": 3
-  }
- ]
+ "considered": []
 }

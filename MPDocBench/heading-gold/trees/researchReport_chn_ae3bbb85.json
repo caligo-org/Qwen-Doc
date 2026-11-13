@@ -1,82 +1,112 @@
 {
  "doc": "researchReport_chn_ae3bbb85",
- "notation": "researchReport (industry weekly): L1 headline + series subtitle line (merged); L2 投资要点, contents titles, numbered chapters; L3 summary label printed on its own line and 1.1 sections. Industry banner, analyst/assistant boxes, sidebar chart label and related research are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 18,
+   "boxes": [
+    18,
+    19
+   ],
    "level": 1,
    "parent": "root",
    "text": "万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
-   "merge": [
-    19
-   ],
-   "note": "headline + series subtitle"
+   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 18,
-   "text": "投资要点："
+   "text": "投资要点：",
+   "why": "section: cover summary title"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 20,
-   "text": "· 本周行业主要动态：",
-   "note": "bullet label printed on its own line (other bullet labels run in)"
+   "text": "本周行业主要动态：",
+   "why": "label heading: own-line label with its news items below (siblings run in, stay text)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 18,
-   "text": "内容目录"
+   "text": "内容目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 18,
-   "text": "图表目录"
+   "text": "图表目录",
+   "why": "front matter: figure list title"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 18,
-   "text": "1.化工板块市场行情回顾"
+   "text": "1.化工板块市场行情回顾",
+   "why": "section: chapter 1."
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 3,
    "parent": 55,
-   "text": "1.1.化工板块整体表现"
+   "text": "1.1.化工板块整体表现",
+   "why": "section: 1.1."
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 55,
-   "text": "1.2.化工板块个股表现"
+   "text": "1.2.化工板块个股表现",
+   "why": "section: 1.2."
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "化工: industry label banner"
+   "box": 3,
+   "why": "industry banner 化工 on the cover: text (industry already named in the report-type line of the title)"
   },
   {
-   "anno": 5,
-   "note": "证券分析师: analyst box label"
+   "box": 5,
+   "why": "analyst label: text"
   },
   {
-   "anno": 7,
-   "note": "研究助理: assistant box label"
+   "box": 7,
+   "why": "research assistant label: text"
   },
   {
-   "anno": 10,
-   "note": "市场表现: sidebar chart label"
+   "box": 10,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 12,
-   "note": "相关研究: related-reports list"
+   "box": 12,
+   "why": "related-research label: text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 21,
+   "why": "run-in label 本周板块行情："
+  },
+  {
+   "box": 26,
+   "why": "run-in label 投资建议："
+  }
+ ]
 }

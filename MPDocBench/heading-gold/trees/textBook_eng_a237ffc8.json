@@ -1,145 +1,208 @@
 {
  "doc": "textBook_eng_a237ffc8",
- "notation": "textBook-v2: L1 cover title; L2 Preface, Contents, chapters; L3 preface sections / numbered sections; L4 subsections of 'Other Boring Stuff'. Margin labels Definition N / Example are run-in labels (text).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "THE JOY OF CRYPTOGRAPHY"
+   "text": "THE JOY OF CRYPTOGRAPHY",
+   "why": "title: book title on the title page"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter: Preface"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 3,
    "parent": 6,
-   "text": "What Is This Book About?"
+   "text": "What Is This Book About?",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Who Is This Book For?"
+   "text": "Who Is This Book For?",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 6,
-   "text": "What Background Is Needed To Understand This Book?"
+   "text": "What Background Is Needed To Understand This Book?",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Why Is Cryptography A Difficult Subject?"
+   "text": "Why Is Cryptography A Difficult Subject?",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Known Shortcomings"
+   "text": "Known Shortcomings",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Code-Based Games Philosophy"
+   "text": "Code-Based Games Philosophy",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Other Boring Stuff"
+   "text": "Other Boring Stuff",
+   "why": "preface section heading: describes the block below"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 4,
    "parent": 60,
-   "text": "Copyright"
+   "text": "Copyright",
+   "why": "subheading under Other Boring Stuff"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 4,
    "parent": 60,
-   "text": "About the cover"
+   "text": "About the cover",
+   "why": "subheading under Other Boring Stuff"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 60,
-   "text": "Acknowledgements"
+   "text": "Acknowledgements",
+   "why": "subheading under Other Boring Stuff"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 4,
    "parent": 60,
-   "text": "Changelog"
+   "text": "Changelog",
+   "why": "subheading under Other Boring Stuff"
   },
   {
-   "anno": 100,
-   "level": 3,
-   "parent": 6,
-   "text": "Road Map"
+   "boxes": [
+    100
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Road Map",
+   "why": "Road Map: printed in the same size as Copyright/Acknowledgements/Changelog (smaller than the L3 preface heads), last item of Other Boring Stuff; breadcrumb round 2 moved it from L3 to L4 under Other Boring Stuff (same look = same level)"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 2,
    "parent": 2,
-   "text": "0 Review of Concepts & Notation"
+   "text": "0 Review of Concepts & Notation",
+   "why": "chapter number + chapter title"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 3,
    "parent": 116,
-   "text": "0.1 Logs & Exponents"
+   "text": "0.1 Logs & Exponents",
+   "why": "numbered section 0.1"
   },
   {
-   "anno": 126,
+   "boxes": [
+    126
+   ],
    "level": 3,
    "parent": 116,
-   "text": "0.2 Modular Arithmetic"
+   "text": "0.2 Modular Arithmetic",
+   "why": "numbered section 0.2"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    143
+   ],
+   "of": 116,
+   "why": "repeat: running head naming the open chapter"
   }
  ],
  "not_headings": [
   {
-   "anno": 132,
-   "note": "margin label 'Definition 0.1' (run-in label of a definition)"
+   "box": 132,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 135,
-   "note": "margin label 'Example'"
+   "box": 135,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 144,
-   "note": "margin label 'Definition 0.2'"
+   "box": 144,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 148,
-   "note": "margin label 'Example'"
+   "box": 148,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 154,
-   "note": "margin label 'Definition 0.3'"
+   "box": 154,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 156,
-   "note": "margin label 'Definition 0.4'"
+   "box": 156,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   },
   {
-   "anno": 161,
-   "note": "margin label 'Example'"
+   "box": 161,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
   }
  ],
- "repeats": []
+ "considered": []
 }

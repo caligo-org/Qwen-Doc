@@ -1,67 +1,86 @@
 {
  "doc": "researchReport_chn_641838eb",
- "notation": "researchReport: L1 headline; L2 投资要点, contents titles, numbered chapters; L3 2.1 sections. Report-type banner (行业月度报告), industry label (电子), sidebar chart label and related reports are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 17,
+   "boxes": [
+    16,
+    17
+   ],
    "level": 1,
    "parent": "root",
-   "text": "三季度消费电子旺季来临，重点关注苹果产业链"
+   "text": "电子 三季度消费电子旺季来临，重点关注苹果产业链",
+   "why": "title union: covered industry banner (电子) printed atop the headline + headline; headline alone does not name the industry"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
-   "parent": 17,
-   "text": "投资要点："
+   "parent": 16,
+   "text": "投资要点：",
+   "why": "section: cover summary title"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
-   "parent": 17,
-   "text": "内容目录"
+   "parent": 16,
+   "text": "内容目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
-   "parent": 17,
-   "text": "图表目录"
+   "parent": 16,
+   "text": "图表目录",
+   "why": "front matter: figure list title"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
-   "parent": 17,
-   "text": "1投资策略"
+   "parent": 16,
+   "text": "1投资策略",
+   "why": "section: chapter 1"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 2,
-   "parent": 17,
-   "text": "2市场运行情况"
+   "parent": 16,
+   "text": "2市场运行情况",
+   "why": "section: chapter 2"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 43,
-   "text": "2.1行业及个股运行情况"
+   "text": "2.1行业及个股运行情况",
+   "why": "section: 2.1"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "行业月度报告: report-type banner"
+   "box": 3,
+   "why": "report-type banner 行业月度报告: text (document type tag; the headline + industry is the title)"
   },
   {
-   "anno": 7,
-   "note": "sidebar chart label"
+   "box": 7,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 12,
-   "note": "相关报告: related-reports list"
-  },
-  {
-   "anno": 16,
-   "note": "电子: industry label banner"
+   "box": 12,
+   "why": "related-reports list label: text per category note"
   }
  ],
- "repeats": []
+ "considered": []
 }

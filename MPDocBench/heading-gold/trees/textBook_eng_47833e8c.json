@@ -1,23 +1,33 @@
 {
  "doc": "textBook_eng_47833e8c",
- "notation": "textBook-v2: L1 cover title; half-title and title page repeats are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "INTRODUCTION TO COMPUTER PROGRAMMING WITH PYTHON"
+   "text": "INTRODUCTION TO COMPUTER PROGRAMMING WITH PYTHON",
+   "why": "title: book title on the cover (four lines, one box)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "repeat: half-title restates the book title"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 3,
-   "of": 1
-  },
-  {
-   "anno": 5,
-   "of": 1
-  }
- ]
+ "considered": []
 }

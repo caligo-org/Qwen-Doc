@@ -1,29 +1,42 @@
 {
  "doc": "researchReport_eng_39be8c41",
- "notation": "researchReport: L1 = series title + subtitle (merged; the report cites itself as \"Carbonomics: The third American energy revolution\"); L2 Table of Contents. The All Authors list title is text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
-   "level": 1,
-   "parent": "root",
-   "text": "Carbonomics The third American energy revolution",
-   "merge": [
+   "boxes": [
+    2,
+    4,
     5
    ],
-   "note": "title + subtitle printed as one title block"
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs Carbonomics The third American energy revolution",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Carbonomics The third American energy revolution)."
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Table of Contents"
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    37
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
   }
  ],
  "not_headings": [
   {
-   "anno": 20,
-   "note": "All Authors: list of analyst names"
+   "box": 20,
+   "why": "author list title (All Authors): text per category note"
   }
  ],
- "repeats": []
+ "considered": []
 }

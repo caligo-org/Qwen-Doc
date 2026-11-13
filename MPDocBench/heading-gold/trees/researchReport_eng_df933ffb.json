@@ -1,62 +1,122 @@
 {
  "doc": "researchReport_eng_df933ffb",
- "notation": "researchReport (English, Carbonomics family as researchReport_eng_39be8c41): L1 = title + subtitle (merged); L2 large section headings; L3 the smaller bold section subhead. AUTHORS list title and panel labels inside Exhibit 14 are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
-   "level": 1,
-   "parent": "root",
-   "text": "Carbonomics Updated cost curve shows diverging trends between power and transport",
-   "merge": [
+   "boxes": [
+    2,
+    4,
     5
    ],
-   "note": "title + subtitle printed as one title block"
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs Carbonomics Updated cost curve shows diverging trends between power and transport",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Carbonomics Updated cost curve shows diverging trends between power and transport)."
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Carbonomics in 12 charts"
+   "parent": 2,
+   "text": "Carbonomics in 12 charts",
+   "why": "section: page heading of the charts section"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Lower energy prices, clean tech inflation and higher interest rates impact the Carbonomics cost curve, with gas-substituting technologies moving higher on the cost curve, whilst battery cost deflation moves the cost curve lower"
+   "parent": 2,
+   "text": "Lower energy prices, clean tech inflation and higher interest rates impact the Carbonomics cost curve, with gas-substituting technologies moving higher on the cost curve, whilst battery cost deflation moves the cost curve lower",
+   "why": "section: page-top section heading"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 3,
    "parent": 89,
    "text": "The Carbonomics cost curve is updated for the fifth consecutive year, with lower energy prices, clean tech inflation and higher interest rates moving the Carbonomics cost curve higher, whilst deflation in battery prices moves the cost curve lower",
-   "note": "smaller bold subhead under the large section heading #89"
+   "why": "section: smaller bold subhead under #89; breadcrumb round 2: kept L3, its text narrows #89 (the cost-curve update that #89 announces), so content puts it one level below (NOTATIONS levels rule 3)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    27
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the report"
   }
  ],
  "not_headings": [
   {
-   "anno": 19,
-   "note": "AUTHORS: list of analyst names"
+   "box": 19,
+   "why": "author list title (AUTHORS): text per category note"
   },
   {
-   "anno": 112,
-   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+   "box": 112,
+   "why": "label inside the Exhibit 14 figure (column banner): figure content, text"
   },
   {
-   "anno": 120,
-   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+   "box": 120,
+   "why": "label inside the Exhibit 14 figure (column banner): figure content, text"
   },
   {
-   "anno": 129,
-   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+   "box": 129,
+   "why": "label inside the Exhibit 14 figure (column banner): figure content, text"
   },
   {
-   "anno": 135,
-   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+   "box": 135,
+   "why": "label inside the Exhibit 14 figure (column banner): figure content, text"
   },
   {
-   "anno": 140,
-   "note": "panel label inside the Exhibit 14 infographic (figure content)"
+   "box": 140,
+   "why": "label inside the Exhibit 14 figure (column banner): figure content, text"
   }
  ],
- "repeats": []
+ "considered": []
 }

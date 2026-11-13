@@ -1,88 +1,158 @@
 {
  "doc": "paper_chn_fb0e66b1",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 1,
    "parent": "root",
-   "text": "鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动"
+   "text": "鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动",
+   "why": "title: paper title"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 7,
-   "text": "1 材料与方法"
+   "text": "1 材料与方法",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 38,
-   "text": "1.1 数据来源"
+   "text": "1.1 数据来源",
+   "why": "subsection 1.1 (numbering)"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 38,
-   "text": "1.2 研究方法"
+   "text": "1.2 研究方法",
+   "why": "subsection 1.2 (numbering)"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 2,
    "parent": 7,
-   "text": "2 结果与讨论"
+   "text": "2 结果与讨论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 3,
    "parent": 70,
-   "text": "2.1 数据预处理"
+   "text": "2.1 数据预处理",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 4,
    "parent": 71,
-   "text": "2.1.1 数据正态分布检验"
+   "text": "2.1.1 数据正态分布检验",
+   "why": "subsection 2.1.1 (numbering)"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 4,
    "parent": 71,
-   "text": "2.1.2 克里格插值参数选择及块金效应计算"
+   "text": "2.1.2 克里格插值参数选择及块金效应计算",
+   "why": "subsection 2.1.2 (numbering)"
   },
   {
-   "anno": 86,
+   "boxes": [
+    86
+   ],
    "level": 3,
    "parent": 70,
-   "text": "2.2 开采对土壤物理性质扰动的统计变化规律"
+   "text": "2.2 开采对土壤物理性质扰动的统计变化规律",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 70,
-   "text": "2.3 开采对土壤物理性质扰动的空间变异规律"
+   "text": "2.3 开采对土壤物理性质扰动的空间变异规律",
+   "why": "subsection 2.3 (numbering)"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 2,
    "parent": 7,
-   "text": "3 结论与建议"
+   "text": "3 结论与建议",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 127,
+   "boxes": [
+    127
+   ],
    "level": 2,
    "parent": 7,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 7,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 7,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 7,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "of": 7,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "of": 7,
+   "why": "repeat: running head (authors: title) naming the document"
   }
  ],
  "not_headings": [
   {
-   "anno": 15,
-   "note": "English translation of the title"
-  },
-  {
-   "anno": 173,
-   "note": "journal subscription notice (ad)"
+   "box": 173,
+   "why": "journal subscription notice (ad) after the paper: text"
   }
  ],
- "repeats": []
+ "considered": []
 }

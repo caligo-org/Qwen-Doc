@@ -1,115 +1,153 @@
 {
  "doc": "magazine_chn_3b0b9920",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "知音",
-   "note": "masthead (gold text OCR reads 知言)"
+   "text": "知音 海外版",
+   "why": "title: periodical masthead 知音 ∪ its edition logo 海外版 (box #3, printed as part of the masthead; same masthead as magazine_chn_5997ac40 where one box holds both); edition = what document"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 2,
    "parent": 1,
    "text": "一滴墨香",
-   "note": "running section tag (vertical) 一滴墨香"
+   "why": "section: running section tag 一滴墨香 (vertical), poem page"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 45,
    "text": "惊异",
-   "note": "poem title"
+   "why": "story: poem title, poem below (containment)"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 1,
    "text": "目录 CONTENTS",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 2,
    "parent": 1,
-   "text": "海外版 |大千世界",
-   "note": "running section tag 大千世界"
+   "text": "大千世界",
+   "why": "section: running section tag 大千世界 starts a section; node text = section name 大千世界 only: the edition prefix 海外版 | printed in the tag repeats the L1 masthead (知音 海外版) and the contents lists the section as 大千世界"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 3,
    "parent": 74,
-   "text": "给牛涂上班马条纹，研究能不能骗过蚊虫！日本科学家获搞笑诺贝尔奖"
+   "text": "给牛涂上班马条纹，研究能不能骗过蚊虫！日本科学家获搞笑诺贝尔奖",
+   "why": "story headline: describes the story below"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 3,
    "parent": 74,
-   "text": "这种圆鼓鼓的小鸟，是世界最萌小鸟之一，它们有着独特的社会行为"
+   "text": "这种圆鼓鼓的小鸟，是世界最萌小鸟之一，它们有着独特的社会行为",
+   "why": "story headline: describes the story below"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 2,
    "parent": 1,
    "text": "百科&生活",
-   "note": "section banner of a briefs page; 【...】 items are run-in labels"
+   "why": "section: banner of the briefs section 百科&生活 (TOC lists it as its own section); 【...】 items are run-in labels"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 2,
    "parent": 1,
    "text": "张朝阳商界登顶再搏浪，人生下半场更热血",
-   "note": "article whose section (特别主题创意 in the TOC) is not printed: directly under the masthead"
+   "why": "story headline in the section slot: its section (特别主题创意, TOC only) is not printed and the previous section closed; L3 would make it a child of 百科&生活 (wrong breadcrumb)"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 3,
    "parent": 122,
-   "text": "吃生蚝“报仇”"
+   "text": "吃生蚝“报仇”",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 138,
+   "boxes": [
+    138
+   ],
    "level": 3,
    "parent": 122,
-   "text": "我是中国互联网第一代创业者"
+   "text": "我是中国互联网第一代创业者",
+   "why": "in-story subhead with its block"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    46
+   ],
+   "of": 1,
+   "why": "repeat: masthead (BOSOM FRIEND) restated over the colophon/contents page"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "repeat: vertical running header naming the magazine (知音海外版)"
   }
  ],
  "not_headings": [
   {
-   "anno": 18,
-   "note": "ad page (header 广告): subscription ad headline"
+   "box": 18,
+   "why": "ad page (header 广告): subscription ad headline"
   },
   {
-   "anno": 24,
-   "note": "ad page: label in subscription ad"
+   "box": 24,
+   "why": "ad page: label inside the subscription ad"
   },
   {
-   "anno": 31,
-   "note": "ad page: promotion slogan"
+   "box": 31,
+   "why": "ad page: promotion slogan"
   },
   {
-   "anno": 46,
-   "note": "masthead repeated on the colophon/contents page"
+   "box": 58,
+   "why": "house-ad logo above QR codes in the colophon column"
   },
   {
-   "anno": 58,
-   "note": "logo in the colophon column"
+   "box": 63,
+   "why": "colophon-column notice box (copyright statement): colophon text"
   },
   {
-   "anno": 63,
-   "note": "colophon-column notice box (copyright statement)"
+   "box": 67,
+   "why": "colophon-column recruiting notice: ad/colophon text"
   },
   {
-   "anno": 67,
-   "note": "colophon-column recruiting notice"
-  },
-  {
-   "anno": 72,
-   "note": "colophon-column bank-account box"
+   "box": 72,
+   "why": "colophon-column bank-account box: contact box"
   }
  ],
- "repeats": []
+ "considered": []
 }

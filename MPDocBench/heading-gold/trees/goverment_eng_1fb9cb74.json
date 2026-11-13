@@ -1,7 +1,21 @@
 {
  "doc": "goverment_eng_1fb9cb74",
- "notation": "goverment-v2: exchange of diplomatic notes without any printed title; letterhead, place/date, address blocks, seals and the DIPLOMATIC NOTE stamp at the foot of p2 are text. Tree is empty.",
+ "schema": 3,
  "nodes": [],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "letterhead (Koninkrijk der Nederlanden): text"
+  },
+  {
+   "box": 1,
+   "why": "document number 08-98: text"
+  },
+  {
+   "box": 19,
+   "why": "DIPLOMATIC NOTE stamp: text, no block of its own"
+  }
+ ]
 }

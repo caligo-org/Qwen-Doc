@@ -1,355 +1,480 @@
 {
  "doc": "manualGuide_chn_5b94cfef",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
-   "level": 1,
-   "parent": "root",
-   "text": "收音环绕扩音机 AVR-1912 开始使用",
-   "merge": [
+   "boxes": [
+    1,
+    2,
     3,
     4
    ],
-   "note": "product + model + manual type (开始使用 = getting-started guide) merged; DENON logo text"
+   "level": 1,
+   "parent": "root",
+   "text": "DENON 收音环绕扩音机 AVR-1912 开始使用",
+   "why": "title union: owner logo box #1 (DENON) + product type + model + manual type (开始使用). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: 收音环绕扩音机 AVR-1912 开始使用)."
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
-   "parent": 2,
+   "parent": 1,
    "text": "安全注意事项",
-   "note": "front-matter safety section"
+   "why": "front matter: safety section (□ head) at the level of the top sections"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "使用注意事项"
+   "parent": 1,
+   "text": "使用注意事项",
+   "why": "front matter: usage precautions section"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "安装注意事项"
+   "parent": 1,
+   "text": "安装注意事项",
+   "why": "front matter: installation precautions section"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "使用必读"
+   "parent": 1,
+   "text": "使用必读",
+   "why": "chapter: black full-width band (TOC top entry)"
   },
   {
-   "anno": 41,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 37,
-   "text": "目录"
+   "text": "附件",
+   "why": "section: grey band, TOC lists it under 使用必读"
   },
   {
-   "anno": 43,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 37,
-   "text": "附件"
+   "text": "关于本手册",
+   "why": "section: grey band"
   },
   {
-   "anno": 50,
+   "boxes": [
+    51
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "操作按键",
+   "why": "subsection: □ subhead with its own block"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "符号",
+   "why": "subsection: □ subhead"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "插图",
+   "why": "subsection: □ subhead"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "关于光盘",
+   "why": "subsection: □ subhead"
+  },
+  {
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 37,
-   "text": "关于本手册"
+   "text": "操作注意事项",
+   "why": "section: grey band"
   },
   {
-   "anno": 51,
-   "level": 4,
-   "parent": 50,
-   "text": "操作按键"
-  },
-  {
-   "anno": 53,
-   "level": 4,
-   "parent": 50,
-   "text": "符号"
-  },
-  {
-   "anno": 58,
-   "level": 4,
-   "parent": 50,
-   "text": "插图"
-  },
-  {
-   "anno": 60,
-   "level": 4,
-   "parent": 50,
-   "text": "关于光盘"
-  },
-  {
-   "anno": 65,
-   "level": 3,
-   "parent": 37,
-   "text": "操作注意事项"
-  },
-  {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 4,
    "parent": 65,
-   "text": "开启电源开关前"
+   "text": "开启电源开关前",
+   "why": "subsection: bold bullet label with its own paragraph"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 4,
    "parent": 65,
-   "text": "关于冷凝"
+   "text": "关于冷凝",
+   "why": "subsection: same"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 4,
    "parent": 65,
-   "text": "使用移动电话的注意事项"
+   "text": "使用移动电话的注意事项",
+   "why": "subsection: same"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 4,
    "parent": 65,
-   "text": "移动本机"
+   "text": "移动本机",
+   "why": "subsection: same"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 65,
-   "text": "爱护本机"
+   "text": "爱护本机",
+   "why": "subsection: same"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "准备安装向导"
+   "parent": 1,
+   "text": "准备安装向导",
+   "why": "chapter: black band"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 83,
-   "text": "本步骤所需的部件"
+   "text": "本步骤所需的部件",
+   "why": "box title: rounded box of required parts, one level below the chapter"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 3,
    "parent": 83,
-   "text": "1 将扬声器放置到合适的位置"
+   "text": "1将扬声器放置到合适的位置",
+   "why": "step heading: step badge + step title with its own panel"
   },
   {
-   "anno": 117,
+   "boxes": [
+    117
+   ],
    "level": 3,
    "parent": 83,
-   "text": "2 使用HDMI电缆(单独出售)将此设备连接到电视机"
+   "text": "2 使用HDMI电缆(单独出售)将此设备连接到电视机",
+   "why": "step heading: badge + title"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 3,
    "parent": 83,
-   "text": "3 打开电视机电源，并将视频输入切换到此设备（HDMI输入）"
+   "text": "3 打开电视机电源，并将视频输入切换到此设备（HDMI输入）",
+   "why": "step heading: badge + title"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 3,
    "parent": 83,
-   "text": "4 将提供的电池放入遥控器"
+   "text": "4 将提供的电池放入遥控器",
+   "why": "step heading: badge + title"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "安装向导"
+   "parent": 1,
+   "text": "安装向导",
+   "why": "chapter: black band"
   },
   {
-   "anno": 138,
+   "boxes": [
+    138,
+    139
+   ],
    "level": 3,
    "parent": 135,
    "text": "1 选择语言",
-   "merge": [
-    139
-   ],
-   "note": "step badge + step title"
+   "why": "step heading union: big step badge + step title"
   },
   {
-   "anno": 143,
+   "boxes": [
+    143,
+    144
+   ],
    "level": 3,
    "parent": 135,
    "text": "2 音箱连接",
-   "merge": [
-    144
-   ]
+   "why": "step heading union: badge + title"
   },
   {
-   "anno": 152,
+   "boxes": [
+    152,
+    153
+   ],
    "level": 3,
    "parent": 135,
    "text": "3 音箱设定",
-   "merge": [
-    153
-   ]
+   "why": "step heading union: badge + title"
   },
   {
-   "anno": 157,
+   "boxes": [
+    157,
+    158
+   ],
    "level": 3,
    "parent": 135,
    "text": "4 音源设定",
-   "merge": [
-    158
-   ]
+   "why": "step heading union: badge + title"
   },
   {
-   "anno": 162,
+   "boxes": [
+    162,
+    163
+   ],
    "level": 3,
    "parent": 135,
    "text": "5 遥控器设定",
-   "merge": [
-    163
-   ]
+   "why": "step heading union: badge + title"
   },
   {
-   "anno": 167,
+   "boxes": [
+    167,
+    168
+   ],
    "level": 3,
    "parent": 135,
    "text": "6 网络设定",
-   "merge": [
-    168
-   ]
+   "why": "step heading union: badge + title"
   },
   {
-   "anno": 175,
+   "boxes": [
+    175
+   ],
    "level": 3,
    "parent": 135,
    "text": "安装向导的基本操作",
-   "note": "rounded box title inside the 安装向导 chapter"
+   "why": "box title: rounded box (basic operation), one level below the chapter"
   },
   {
-   "anno": 188,
+   "boxes": [
+    188
+   ],
    "level": 3,
    "parent": 135,
-   "text": "开始使用"
+   "text": "开始使用",
+   "why": "box title: rounded box 开始使用 with its numbered steps"
   },
   {
-   "anno": 197,
+   "boxes": [
+    189,
+    190
+   ],
+   "level": 4,
+   "parent": 188,
+   "text": "1 将主设备电源插头插入电源插座。",
+   "why": "step heading union: badge + step instruction, own figure block"
+  },
+  {
+   "boxes": [
+    192,
+    193
+   ],
+   "level": 4,
+   "parent": 188,
+   "text": "2 按ZONE SELECT键，将区域操作模式切换为M（主区域）。",
+   "why": "step heading union: badge + instruction with its figure and notes"
+  },
+  {
+   "boxes": [
+    197
+   ],
    "level": 4,
    "parent": 188,
    "text": "将电源切换到待机状态后",
-   "note": "box title inside the 开始使用 box"
+   "why": "label heading: bold own-line label with its own block inside step 2; breadcrumb review r2: the orange standby block sits at the foot of the 开始使用 panel and is about standby power, not about step 2 (switching the zone mode): one level below 开始使用 beside the steps, not under step 2 (containment)"
   },
   {
-   "anno": 223,
+   "boxes": [
+    206,
+    207
+   ],
+   "level": 4,
+   "parent": 188,
+   "text": "3 按AMP将遥控器设置为AMP操作模式。",
+   "why": "step heading union: badge + instruction"
+  },
+  {
+   "boxes": [
+    209,
+    210
+   ],
+   "level": 4,
+   "parent": 188,
+   "text": "4 对准此设备按ON（I）。",
+   "why": "step heading union: badge + instruction"
+  },
+  {
+   "boxes": [
+    214,
+    215
+   ],
+   "level": 4,
+   "parent": 188,
+   "text": "5 按ENTER。",
+   "why": "step heading union: badge + instruction"
+  },
+  {
+   "boxes": [
+    223
+   ],
    "level": 3,
    "parent": 135,
    "text": "连接扬声器",
-   "note": "□ section of the 安装向导 chapter, sibling of the box sections"
+   "why": "section: □ head on the 安装向导 tab pages, alternative to wizard step 2"
   },
   {
-   "anno": 226,
+   "boxes": [
+    226
+   ],
    "level": 4,
    "parent": 223,
-   "text": "连接"
+   "text": "连接",
+   "why": "box title: rounded box 连接"
   },
   {
-   "anno": 228,
+   "boxes": [
+    228
+   ],
    "level": 5,
    "parent": 226,
-   "text": "连接扬声器电缆"
+   "text": "连接扬声器电缆",
+   "why": "box band: grey band inside the 连接 box with its own figure"
   },
   {
-   "anno": 236,
+   "boxes": [
+    236
+   ],
    "level": 4,
    "parent": 223,
-   "text": "7.1 声道"
+   "text": "7.1 声道",
+   "why": "box title: rounded box over the 7.1 wiring figure"
   },
   {
-   "anno": 238,
+   "boxes": [
+    238
+   ],
    "level": 4,
    "parent": 223,
-   "text": "5.1 声道"
+   "text": "5.1 声道",
+   "why": "box title: rounded box over the 5.1 wiring figure"
   },
   {
-   "anno": 241,
+   "boxes": [
+    241
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "播放(基本操作)"
+   "parent": 1,
+   "text": "播放(基本操作)",
+   "why": "chapter: black band"
   },
   {
-   "anno": 244,
+   "boxes": [
+    244
+   ],
    "level": 3,
    "parent": 241,
-   "text": "选择输入源"
+   "text": "选择输入源",
+   "why": "section: grey band"
   },
   {
-   "anno": 248,
+   "boxes": [
+    248
+   ],
    "level": 4,
    "parent": 244,
-   "text": "使用主机上的键"
+   "text": "使用主机上的键",
+   "why": "subsection: underlined subhead"
   },
   {
-   "anno": 253,
+   "boxes": [
+    253
+   ],
    "level": 4,
    "parent": 244,
-   "text": "使用“音源选择”菜单"
+   "text": "使用“音源选择”菜单",
+   "why": "subsection: underlined subhead"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "brand logo"
+   "box": 11,
+   "why": "callout: 注意 signal word in the warning box"
   },
   {
-   "anno": 11,
-   "note": "callout label 注意："
+   "box": 17,
+   "why": "callout: 警告 signal word"
   },
   {
-   "anno": 17,
-   "note": "callout label 警告："
-  },
-  {
-   "anno": 189,
-   "note": "step number badge of a bold instruction sentence (text)"
-  },
-  {
-   "anno": 190,
-   "note": "step instruction sentence, not a heading line"
-  },
-  {
-   "anno": 192,
-   "note": "step number badge"
-  },
-  {
-   "anno": 193,
-   "note": "step instruction sentence"
-  },
-  {
-   "anno": 206,
-   "note": "step number badge"
-  },
-  {
-   "anno": 207,
-   "note": "step instruction sentence"
-  },
-  {
-   "anno": 209,
-   "note": "step number badge"
-  },
-  {
-   "anno": 210,
-   "note": "step instruction sentence"
-  },
-  {
-   "anno": 214,
-   "note": "step number badge"
-  },
-  {
-   "anno": 215,
-   "note": "step instruction sentence"
-  },
-  {
-   "anno": 231,
-   "note": "callout label 注"
+   "box": 231,
+   "why": "callout: 注 note"
   }
  ],
- "repeats": [
+ "considered": [
   {
-   "anno": 221,
-   "of": 135
+   "box": 30,
+   "why": "table title in brackets (regulatory table label): text"
+  },
+  {
+   "box": 79,
+   "why": "thumb-tab chapter index printed on every page: text"
+  },
+  {
+   "box": 118,
+   "why": "callout 注"
+  },
+  {
+   "box": 133,
+   "why": "pointer footer: text"
+  },
+  {
+   "box": 41,
+   "why": "contents box printed inside the 使用必读 page. Breadcrumb review r3: as L3 under 使用必读 the path is no breadcrumb (the contents covers the whole document and lists 使用必读 itself); as L2 it would take 附件/关于本手册/操作注意事项 into its subtree (containment). Text."
   }
  ]
 }

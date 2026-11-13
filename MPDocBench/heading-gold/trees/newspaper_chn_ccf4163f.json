@@ -1,142 +1,207 @@
 {
  "doc": "newspaper_chn_ccf4163f",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 农民日报, same family as newspaper_chn_adf00537.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "農民日報",
-   "note": "masthead (English name and website in the same box are text)"
+   "why": "masthead; English name and website in the same box are text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
    "text": "新的文化使命",
-   "note": "——副题 in the same box is a deck"
+   "why": "story headline, front page; ——副题 in the same box is a deck"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 4,
    "parent": 4,
-   "text": "（一）时代的必然"
+   "text": "（一）时代的必然",
+   "why": "numbered in-story part head with its own block"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 1,
    "text": "北大荒集团：办大事抓重点夯实粮食丰产基础",
-   "note": "rubric banner above is text"
+   "why": "story headline (campaign banner above is a rubric)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 1,
-   "text": "湖北孝感市全力推进首衡食品产业新城项目建设"
+   "text": "湖北孝感市全力推进首衡食品产业新城项目建设",
+   "why": "story headline"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 1,
-   "text": "“浙”里乡村，何以如此“绿富美”？"
+   "text": "“浙”里乡村,何以如此“绿富美”?",
+   "why": "story headline (series rubric 高质量发展调研行 is a figure)"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 4,
    "parent": 52,
-   "text": "绿：生态理念化于心"
+   "text": "绿：生态理念化于心",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 1,
    "text": "安徽省蚌埠市怀远县：大马力机械昼夜连轴抢收小麦",
-   "note": "place line + headline printed as one title; rubric banner above is text"
+   "why": "story headline; place line + headline printed as one title box"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 3,
    "parent": 1,
    "text": "把话筒交给村干部 让聚光灯照向基层",
-   "note": "——侧记 subtitle in the same box is a deck"
+   "why": "story headline; ——侧记 subtitle in the same box is a deck"
   },
   {
-   "anno": 90,
+   "boxes": [
+    90
+   ],
    "level": 4,
    "parent": 83,
-   "text": "喜说乡村起新变，好日子越过越甜"
+   "text": "喜说乡村起新变，好日子越过越甜",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 2,
    "parent": 1,
    "text": "综合新闻",
-   "note": "page tag p2"
+   "why": "section: page tag 综合新闻 on p2"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 98,
    "text": "担负新的文化使命 谱写新的时代华章",
-   "note": "——副题 in the same box is a deck"
+   "why": "story headline; ——副题 in the same box is a deck"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 4,
    "parent": 101,
-   "text": "讲好中华文明的多彩故事"
+   "text": "讲好中华文明的多彩故事",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 114,
+   "boxes": [
+    114
+   ],
    "level": 4,
    "parent": 101,
-   "text": "做好传统文化的研究阐释"
+   "text": "做好传统文化的研究阐释",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 4,
    "parent": 101,
-   "text": "坚定文化自信为强国建设贡献力量"
+   "text": "坚定文化自信为强国建设贡献力量",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 132,
+   "boxes": [
+    132
+   ],
    "level": 3,
    "parent": 98,
-   "text": "第五届全国农业行业职业技能大赛茶叶加工赛项决赛在桂举办"
+   "text": "第五届全国农业行业职业技能大赛茶叶加工赛项决赛在桂举办",
+   "why": "story headline"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 3,
    "parent": 98,
-   "text": "（上接第一版）",
-   "continues": 4,
-   "note": "jump of 新的文化使命: no headline printed; the paragraph opens with the jump marker and its sections (二)-(四) follow"
+   "text": "新的文化使命",
+   "why": "continuation: jump paragraph (上接第一版) of the front-page story, its numbered parts follow | breadcrumb round 3: jump prints no headline (printed: \"（上接第一版）\"), so the continuation takes the original's title #4",
+   "continues": 4
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 4,
    "parent": 137,
-   "text": "（二）思想的飞跃"
+   "text": "（二）思想的飞跃",
+   "why": "numbered in-story part head of the jumped story"
   },
   {
-   "anno": 194,
+   "boxes": [
+    194
+   ],
    "level": 4,
    "parent": 137,
-   "text": "（三）文化的自觉"
+   "text": "（三）文化的自觉",
+   "why": "numbered in-story part head of the jumped story"
   },
   {
-   "anno": 236,
+   "boxes": [
+    236
+   ],
    "level": 4,
    "parent": 137,
-   "text": "（四）文明的开新"
+   "text": "（四）文明的开新",
+   "why": "numbered in-story part head of the jumped story"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    100
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 100,
-   "of": 1
+   "box": 35,
+   "why": "campaign/slogan banners above headlines: rubrics"
+  },
+  {
+   "box": 67,
+   "why": "campaign/slogan banners above headlines: rubrics"
   }
  ]
 }

@@ -1,40 +1,50 @@
 {
  "doc": "handwritten_chn_65cdc9d3",
- "notation": "handwritten-v2: printed exam problems (one per sheet) with handwritten solutions; no title. Problem statements and their sub-question parts ((Ⅰ)/(Ⅱ)) are content, not headings; brand and date running headers are text. No nodes.",
+ "schema": 3,
  "nodes": [],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 4,
-   "note": "problem statement"
+   "box": 4,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
   },
   {
-   "anno": 14,
-   "note": "problem statement"
+   "box": 14,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
   },
   {
-   "anno": 19,
-   "note": "problem statement"
+   "box": 19,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
   },
   {
-   "anno": 21,
-   "note": "sub-question of the problem"
+   "box": 21,
+   "why": "sub-question (Ⅰ) of a problem: text"
   },
   {
-   "anno": 22,
-   "note": "sub-question of the problem"
+   "box": 22,
+   "why": "sub-question (Ⅱ): text"
   },
   {
-   "anno": 28,
-   "note": "problem statement"
+   "box": 28,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
   },
   {
-   "anno": 30,
-   "note": "sub-question of the problem"
+   "box": 30,
+   "why": "sub-question (Ⅰ): text"
   },
   {
-   "anno": 31,
-   "note": "sub-question of the problem"
+   "box": 31,
+   "why": "sub-question (Ⅱ): text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "running brand header 泰笛牛考研数学: text"
+  },
+  {
+   "box": 3,
+   "why": "date header: text"
+  }
+ ]
 }

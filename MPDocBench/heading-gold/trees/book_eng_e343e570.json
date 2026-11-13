@@ -1,302 +1,792 @@
 {
  "doc": "book_eng_e343e570",
- "notation": "L1 guide title; L2 banner sections and scenario titles (subtitle line \"Two design options ...\" is text); L3 section heads. CHALLENGES:/GOAL: box labels and SOLUTION n figure labels are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "The Florida-Friendly Landscaping? Guide to Plant Selection & Landscape Design"
+   "text": "The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design",
+   "why": "title: guide title on the cover; series footer line is text; breadcrumb round 2: node text as printed (OCR \"?\" for ™)"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 1,
-   "text": "WHAT ARE FLORIDA-FRIENDLY LANDSCAPES?"
+   "text": "WHAT ARE FLORIDA-FRIENDLY LANDSCAPES?",
+   "why": "front matter: inside-cover section banner with its paragraph"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 1,
-   "text": "SERVICES"
+   "text": "SERVICES",
+   "why": "front matter: inside-cover section banner with its paragraph and list"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "ACKNOWLEDGEMENTS"
+   "text": "ACKNOWLEDGEMENTS",
+   "why": "front matter: acknowledgements banner with its name list"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Introduction"
+   "text": "Introduction",
+   "why": "chapter banner"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 34,
-   "text": "WHAT IS A FLORIDA-FRIENDLY LANDSCAPE?"
+   "text": "WHAT IS A FLORIDA-FRIENDLY LANDSCAPE?",
+   "why": "section"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 34,
-   "text": "THE FLORIDA-FRIENDLY LANDSCAPING? PROGRAM"
+   "text": "THE FLORIDA-FRIENDLY LANDSCAPING™ PROGRAM",
+   "why": "section; breadcrumb round 2: node text as printed (OCR \"?\" for ™)"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 34,
-   "text": "LANDSCAPE DESIGN & PLANT SELECTION"
+   "text": "LANDSCAPE DESIGN & PLANT SELECTION",
+   "why": "section"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 34,
-   "text": "HOW TO USE THIS BOOK"
+   "text": "HOW TO USE THIS BOOK",
+   "why": "section"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 1,
-   "text": "The Nine Florida-Friendly Landscaping? Principles"
+   "text": "The Nine Florida-Friendly Landscaping™ Principles",
+   "why": "chapter banner; breadcrumb round 2: node text as printed (OCR \"?\" for ™)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #1: RIGHT PLANT, RIGHT PLACE"
+   "text": "PRINCIPLE #1: RIGHT PLANT, RIGHT PLACE",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #2: WATER EFFICIENTLY"
+   "text": "PRINCIPLE #2: WATER EFFICIENTLY",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #3: FERTILIZE APPROPRIATELY"
+   "text": "PRINCIPLE #3: FERTILIZE APPROPRIATELY",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #4: MULCH"
+   "text": "PRINCIPLE #4: MULCH",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #5: ATTRACT WILDLIFE"
+   "text": "PRINCIPLE #5: ATTRACT WILDLIFE",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #6: MANAGE YARD PESTS RESPONSIBLY"
+   "text": "PRINCIPLE #6: MANAGE YARD PESTS RESPONSIBLY",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #7: RECYCLE"
+   "text": "PRINCIPLE #7: RECYCLE",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #8: MANAGE STORMWATER RUNOFF"
+   "text": "PRINCIPLE #8: MANAGE STORMWATER RUNOFF",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 3,
    "parent": 46,
-   "text": "PRINCIPLE #9: PROTECT THE WATERFRONT"
+   "text": "PRINCIPLE #9: PROTECT THE WATERFRONT",
+   "why": "principle heading with its paragraph"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Designing Your Florida-Friendly Landscape"
+   "text": "Designing Your Florida-Friendly Landscape",
+   "why": "chapter banner"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 70,
-   "text": "WHAT IF I LIVE IN A PLANNED COMMUNITY?"
+   "text": "WHAT IF I LIVE IN A PLANNED COMMUNITY?",
+   "why": "section"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 3,
    "parent": 70,
-   "text": "DESIGN SCENARIOS"
+   "text": "DESIGN SCENARIOS",
+   "why": "section introducing the eight design scenarios"
   },
   {
-   "anno": 81,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    81
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO A: FRONT ENTRY",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (With trees, Without trees)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 114,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    85
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 6,
+   "parent": 88,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO B: ALONG WALLS",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (With trees, Without trees)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 147,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    118
+   ],
+   "level": 5,
+   "parent": 114,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 5,
+   "parent": 114,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 6,
+   "parent": 121,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 5,
+   "parent": 114,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 5,
+   "parent": 114,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "level": 5,
+   "parent": 114,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO C: ALONG SIDEWALKs",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (Turf buffer, Raised edging)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 176,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    151
+   ],
+   "level": 5,
+   "parent": 147,
+   "text": "CHALLENGE:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 5,
+   "parent": 147,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 6,
+   "parent": 153,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 5,
+   "parent": 147,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 5,
+   "parent": 147,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 5,
+   "parent": 147,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO D: UNDER WINDOWS",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (No screening, Light screening)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 208,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    180
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    185
+   ],
+   "level": 6,
+   "parent": 183,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    198
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    202
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    208
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO E: ALONG FENCES",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Three design options (Vines, Partial screening, Full screening)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 244,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    212
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    215
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "level": 6,
+   "parent": 215,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    223
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    230
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    234
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    238
+   ],
+   "level": 5,
+   "parent": 208,
+   "text": "SOLUTION 3",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    244
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO F: UNDER TREES",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (Open canopy, Dense shade)\" is printed in the same box: node text is only the heading part"
   },
   {
-   "anno": 273,
-   "level": 2,
-   "parent": 1,
+   "boxes": [
+    248
+   ],
+   "level": 5,
+   "parent": 244,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    252
+   ],
+   "level": 5,
+   "parent": 244,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    254
+   ],
+   "level": 6,
+   "parent": 252,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 5,
+   "parent": 244,
+   "text": "SOLUTION 1",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    267
+   ],
+   "level": 5,
+   "parent": 244,
+   "text": "SOLUTION 2",
+   "why": "solution label heading its drawings"
+  },
+  {
+   "boxes": [
+    273
+   ],
+   "level": 4,
+   "parent": 76,
    "text": "SCENARIO G: UTILITIES",
-   "note": "second line of the box is a subtitle"
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (Full blend, Partial blend)\" is printed in the same box: node text is only the heading part"
+  },
+  {
+   "boxes": [
+    277
+   ],
+   "level": 5,
+   "parent": 273,
+   "text": "CHALLENGES:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    279
+   ],
+   "level": 5,
+   "parent": 273,
+   "text": "GOAL:",
+   "why": "box label (CHALLENGES/GOAL) with its own block"
+  },
+  {
+   "boxes": [
+    281
+   ],
+   "level": 6,
+   "parent": 279,
+   "text": "Plant Characteristics to Look For:",
+   "why": "own-line label with its list, inside the GOAL box"
+  },
+  {
+   "boxes": [
+    287
+   ],
+   "level": 5,
+   "parent": 273,
+   "text": "Design Solutions:",
+   "why": "solution label heading its drawings"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    45
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    165
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    197
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    229
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    262
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    293
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
   }
  ],
  "not_headings": [
   {
-   "anno": 24,
-   "note": "contact box title (program office address)"
+   "box": 24,
+   "why": "program-office contact box title (contact box: text)"
   },
   {
-   "anno": 85,
-   "note": "box label"
-  },
-  {
-   "anno": 88,
-   "note": "box label"
-  },
-  {
-   "anno": 104,
-   "note": "figure label"
-  },
-  {
-   "anno": 108,
-   "note": "figure label"
-  },
-  {
-   "anno": 118,
-   "note": "box label"
-  },
-  {
-   "anno": 121,
-   "note": "box label"
-  },
-  {
-   "anno": 137,
-   "note": "figure label"
-  },
-  {
-   "anno": 141,
-   "note": "figure label"
-  },
-  {
-   "anno": 151,
-   "note": "box label"
-  },
-  {
-   "anno": 153,
-   "note": "box label"
-  },
-  {
-   "anno": 166,
-   "note": "figure label"
-  },
-  {
-   "anno": 170,
-   "note": "figure label"
-  },
-  {
-   "anno": 180,
-   "note": "box label"
-  },
-  {
-   "anno": 183,
-   "note": "box label"
-  },
-  {
-   "anno": 198,
-   "note": "figure label"
-  },
-  {
-   "anno": 212,
-   "note": "box label"
-  },
-  {
-   "anno": 215,
-   "note": "box label"
-  },
-  {
-   "anno": 230,
-   "note": "figure label"
-  },
-  {
-   "anno": 234,
-   "note": "figure label"
-  },
-  {
-   "anno": 238,
-   "note": "figure label"
-  },
-  {
-   "anno": 239,
-   "note": "figure caption (With Full Screening)"
-  },
-  {
-   "anno": 248,
-   "note": "box label"
-  },
-  {
-   "anno": 252,
-   "note": "box label"
-  },
-  {
-   "anno": 263,
-   "note": "figure label"
-  },
-  {
-   "anno": 267,
-   "note": "figure label"
-  },
-  {
-   "anno": 277,
-   "note": "box label"
-  },
-  {
-   "anno": 279,
-   "note": "box label"
+   "box": 239,
+   "why": "drawing sub-caption ('With Full Screening'), no block of its own"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 31,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 32,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 33,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 79,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 112,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 145,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 174,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 206,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 242,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 271,
+   "why": "series / copyright footer line"
+  },
+  {
+   "box": 105,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 109,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 138,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 142,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 167,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 171,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 199,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 203,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 231,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 235,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 264,
+   "why": "drawing sub-caption under a solution label"
+  },
+  {
+   "box": 268,
+   "why": "drawing sub-caption under a solution label"
+  }
+ ]
 }

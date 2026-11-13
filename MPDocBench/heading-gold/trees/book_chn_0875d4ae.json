@@ -1,255 +1,385 @@
 {
  "doc": "book_chn_0875d4ae",
- "notation": "textbook chapter: L1 chapter label + title (merged); L2 提要, 第x节, 课后思考题; L3 一、; L4 （一）; own-line sub-heads one level below their section. Run-in grey labels (1. 乳牙殆特征 ...) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "第三章 牙列与咬合",
-   "merge": [
-    2
-   ]
+   "why": "title union: chapter label + chapter title (chapter excerpt)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "-[提要]-"
+   "text": "提要",
+   "why": "chapter-level section (提要 box / 第x节 / 课后思考题); breadcrumb round 3: node text as printed (OCR \"-[提要]-\" read the dashed box frame as decoration)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第一节 牙列"
+   "text": "第一节 牙列",
+   "why": "chapter-level section (提要 box / 第x节 / 课后思考题)"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 9,
-   "text": "一、牙列分类"
+   "text": "一、牙列分类",
+   "why": "一、 level section"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 9,
-   "text": "二、牙列大小的测量方法"
+   "text": "二、牙列大小的测量方法",
+   "why": "一、 level section"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 9,
-   "text": "三、牙正常排列时的倾斜规律"
+   "text": "三、牙正常排列时的倾斜规律",
+   "why": "一、 level section"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 4,
    "parent": 47,
-   "text": "（一）近远中向的倾斜（图3-7~10）"
+   "text": "（一）近远中向的倾斜（图3-7~10）",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 4,
    "parent": 47,
-   "text": "（二）唇（颊)舌向的倾斜（见图3-7~10）"
+   "text": "（二）唇（颊)舌向的倾斜（见图3-7~10）",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 4,
    "parent": 47,
-   "text": "（三）垂直向关系"
+   "text": "（三）垂直向关系",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 3,
    "parent": 9,
-   "text": "四、牙列的?面形态特征"
+   "text": "四、牙列的𬌗面形态特征",
+   "why": "一、 level section; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 4,
    "parent": 76,
-   "text": "（一）纵?曲线（sagittal curve of occlusion）"
+   "text": "（一）纵𬌗曲线（sagittal curve of occlusion）",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 4,
    "parent": 76,
-   "text": "（二）横?曲线(transverse curve of occlusion）（图3-14）"
+   "text": "（二）横𬌗曲线(transverse curve of occlusion）（图3-14）",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第二节 牙尖交错?"
+   "text": "第二节 牙尖交错𬌗",
+   "why": "chapter-level section (提要 box / 第x节 / 课后思考题); breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 96,
-   "text": "一、牙尖交错?的名称与定义"
+   "text": "一、牙尖交错𬌗的名称与定义",
+   "why": "一、 level section; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 3,
    "parent": 96,
-   "text": "二、牙尖交错?的特征"
+   "text": "二、牙尖交错𬌗的特征",
+   "why": "一、 level section; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 4,
    "parent": 104,
-   "text": "（一）近远中向关系（图3-15、16）"
+   "text": "（一）近远中向关系（图3-15、16）",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 4,
    "parent": 104,
-   "text": "（二）唇（颊）舌向的关系"
+   "text": "（二）唇（颊）舌向的关系",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 4,
    "parent": 104,
-   "text": "（三）垂直向关系"
+   "text": "（三）垂直向关系",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 189,
+   "boxes": [
+    189
+   ],
    "level": 4,
    "parent": 104,
-   "text": "（四）牙尖交错?正常的标志"
+   "text": "（四）牙尖交错𬌗正常的标志",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 197,
+   "boxes": [
+    197
+   ],
    "level": 4,
    "parent": 104,
-   "text": "（五）异常牙尖交错?"
+   "text": "（五）异常牙尖交错𬌗",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 221,
+   "boxes": [
+    221
+   ],
    "level": 3,
    "parent": 96,
-   "text": "三、?的建立"
+   "text": "三、𬌗的建立",
+   "why": "一、 level section; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 224,
+   "boxes": [
+    224
+   ],
    "level": 4,
    "parent": 221,
-   "text": "（一）建?动力平衡"
+   "text": "（一）建𬌗动力平衡",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 240,
+   "boxes": [
+    240
+   ],
    "level": 4,
    "parent": 221,
-   "text": "（二）不同发育阶段?特征"
+   "text": "（二）不同发育阶段𬌗特征",
+   "why": "（一） level subsection; breadcrumb round 2: node text as printed (OCR \"?\" for 𬌗)"
   },
   {
-   "anno": 247,
-   "level": 5,
-   "parent": 240,
-   "text": "4岁以前乳牙?特征",
-   "note": "own-line sub-head inside run-in item 1. 乳牙殆特征"
-  },
-  {
-   "anno": 257,
-   "level": 5,
-   "parent": 240,
-   "text": "4~6岁期间乳牙?特征是：",
-   "note": "own-line sub-head inside run-in item 1. 乳牙殆特征"
-  },
-  {
-   "anno": 306,
+   "boxes": [
+    306
+   ],
    "level": 3,
    "parent": 96,
-   "text": "四、面部标志与面部协调关系"
+   "text": "四、面部标志与面部协调关系",
+   "why": "一、 level section"
   },
   {
-   "anno": 311,
+   "boxes": [
+    311
+   ],
    "level": 4,
    "parent": 306,
    "text": "2. 面部协调关系",
-   "note": "own-line numbered sub-head (gold missed it); its sibling 1. is run-in"
+   "why": "own-line numbered sub-head with its own (1)-(5) block (sibling 1. is run-in)"
   },
   {
-   "anno": 329,
+   "boxes": [
+    329
+   ],
    "level": 2,
    "parent": 1,
-   "text": "课后思考题"
+   "text": "课后思考题",
+   "why": "chapter-level section (提要 box / 第x节 / 课后思考题)"
   }
  ],
- "not_headings": [],
  "repeats": [
   {
-   "anno": 12,
-   "of": 1
+   "boxes": [
+    12
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 29,
-   "of": 1
+   "boxes": [
+    29
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 50,
-   "of": 1
+   "boxes": [
+    50
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 66,
-   "of": 1
+   "boxes": [
+    66
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 83,
-   "of": 1
+   "boxes": [
+    83
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 99,
-   "of": 1
+   "boxes": [
+    99
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 114,
-   "of": 1
+   "boxes": [
+    114
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 128,
-   "of": 1
+   "boxes": [
+    128
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 149,
-   "of": 1
+   "boxes": [
+    149
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 168,
-   "of": 1
+   "boxes": [
+    168
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 184,
-   "of": 1
+   "boxes": [
+    184
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 208,
-   "of": 1
+   "boxes": [
+    208
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 228,
-   "of": 1
+   "boxes": [
+    228
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 243,
-   "of": 1
+   "boxes": [
+    243
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 269,
-   "of": 1
+   "boxes": [
+    269
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 290,
-   "of": 1
+   "boxes": [
+    290
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 305,
-   "of": 1
+   "boxes": [
+    305
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 320,
-   "of": 1
+   "boxes": [
+    320
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 247,
+   "why": "breadcrumb round 2: own-line label inside run-in item '1. 乳牙殆特征'; the run-in items '2. 混牙殆特征' / '3. 早期恒牙殆特征' that follow would sit in its subtree (containment fails), so it is text under （二） (resolves the v2 OPEN)"
+  },
+  {
+   "box": 257,
+   "why": "breadcrumb round 2: own-line label inside run-in item '1. 乳牙殆特征'; the run-in items '2. 混牙殆特征' / '3. 早期恒牙殆特征' that follow would sit in its subtree (containment fails), so it is text under （二） (resolves the v2 OPEN)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 341,
+   "why": "author / affiliation line closing the chapter"
   }
  ]
 }

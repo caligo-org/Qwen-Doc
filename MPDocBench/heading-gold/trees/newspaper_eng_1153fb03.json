@@ -1,314 +1,407 @@
 {
  "doc": "newspaper_eng_1153fb03",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Boston Globe, same family as the reference.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "The Boston Globe",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Maine shooting panel sees widespread failures"
+   "text": "Maine shooting panel sees widespread failures",
+   "why": "story headline, front page (no section banner)"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 3,
    "parent": 1,
-   "text": "From fractured past, a connection"
+   "text": "From fractured past, a connection",
+   "why": "story headline"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Legal challenges complicate plan for Steward hospitals"
+   "text": "Legal challenges complicate plan for Steward hospitals",
+   "why": "story headline"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Obamas lead the charge for Democrats"
+   "text": "Obamas lead the charge for Democrats",
+   "why": "story headline"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Harris loyalists from 2020 say it's the party that's evolved"
+   "text": "Harris loyalists from 2020 say it's the party that's evolved",
+   "why": "story headline"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Nation",
-   "note": "banner p2"
+   "why": "section: printed section banner The Nation on A2"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 3,
    "parent": 82,
-   "text": "Amtrak stumbles along with century-old system"
+   "text": "Amtrak stumbles along with century-old system",
+   "why": "story headline"
   },
   {
-   "anno": 111,
+   "boxes": [
+    111
+   ],
    "level": 3,
    "parent": 82,
-   "text": "DAILY BRIEFING"
+   "text": "DAILY BRIEFING",
+   "why": "briefs column label (story-level heading, briefs below)"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 4,
    "parent": 111,
-   "text": "Greenpeace tries a novel tactic in lawsuit over Dakota Access Pipeline"
+   "text": "Greenpeace tries a novel tactic in lawsuit over Dakota Access Pipeline",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 126,
+   "boxes": [
+    126
+   ],
    "level": 4,
    "parent": 111,
-   "text": "S.D. bridge collapse cleanup begins"
+   "text": "S.D. bridge collapse cleanup begins",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 4,
    "parent": 111,
-   "text": "Ill. bans corporal punishment in schools"
+   "text": "Ill. bans corporal punishment in schools",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 4,
    "parent": 111,
-   "text": "Former officer in Floyd killing moved to Texas prison"
+   "text": "Former officer in Floyd killing moved to Texas prison",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 3,
    "parent": 82,
    "text": "Biden approved nuclear strategy to focus on China",
-   "note": "separate story with deck and byline"
+   "why": "separate story headline with deck and byline"
   },
   {
-   "anno": 171,
+   "boxes": [
+    171
+   ],
    "level": 3,
    "parent": 82,
    "text": "For the record",
-   "note": "corrections column"
+   "why": "corrections column with its own text"
   },
   {
-   "anno": 177,
+   "boxes": [
+    177
+   ],
    "level": 2,
    "parent": 1,
    "text": "The World",
-   "note": "banner p3"
+   "why": "section: printed section banner The World on A3"
   },
   {
-   "anno": 178,
+   "boxes": [
+    178
+   ],
    "level": 3,
    "parent": 177,
-   "text": "War draining Ukraine's male workforce"
+   "text": "War draining Ukraine's male workforce",
+   "why": "story headline"
   },
   {
-   "anno": 206,
+   "boxes": [
+    206
+   ],
    "level": 3,
    "parent": 177,
-   "text": "Israel says it recovered bodies of 6 hostages"
+   "text": "Israel says it recovered bodies of 6 hostages",
+   "why": "story headline"
   },
   {
-   "anno": 233,
+   "boxes": [
+    233
+   ],
    "level": 3,
    "parent": 177,
-   "text": "DAILY BRIEFING"
+   "text": "DAILY BRIEFING",
+   "why": "briefs column label"
   },
   {
-   "anno": 234,
+   "boxes": [
+    234
+   ],
    "level": 4,
    "parent": 233,
-   "text": "Accused serial killer escapes custody in Kenya"
+   "text": "Accused serial killer escapes custody in Kenya",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 241,
+   "boxes": [
+    241
+   ],
    "level": 4,
    "parent": 233,
-   "text": "Panama deports 29 Colombians on US-paid flight"
+   "text": "Panama deports 29 Colombians on US-paid flight",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 248,
+   "boxes": [
+    248
+   ],
    "level": 4,
    "parent": 233,
-   "text": "Mexico judges vote to strike with court staff"
+   "text": "Mexico judges vote to strike with court staff",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 255,
+   "boxes": [
+    255
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Nation",
-   "continues": 82,
-   "note": "running section tag p4, section resumed after The World"
+   "why": "continuation: running section tag The Nation on A4, section resumes after The World",
+   "continues": 82
   },
   {
-   "anno": 260,
+   "boxes": [
+    260
+   ],
    "level": 3,
    "parent": 255,
    "text": "President's speech was one he never wanted to give",
-   "note": "kicker 'BITTERSWEET MOMENT' is text"
+   "why": "story headline (caps kicker above is text)"
   },
   {
-   "anno": 288,
+   "boxes": [
+    288
+   ],
    "level": 3,
    "parent": 255,
    "text": "Obama, Harris share a long bond and a kindred spirit",
-   "note": "kicker 'CLOSE CONNECTION' is text"
+   "why": "story headline (caps kicker above is text)"
   },
   {
-   "anno": 318,
+   "boxes": [
+    318
+   ],
    "level": 3,
    "parent": 255,
    "text": "The DNC might feature a lot of white pantsuits. It's not just fashion.",
-   "note": "kicker 'FASHION AND A STATEMENT' is text"
+   "why": "story headline (caps kicker above is text)"
   },
   {
-   "anno": 352,
+   "boxes": [
+    352
+   ],
    "level": 3,
    "parent": 255,
    "text": "Obamas leading the charge for Democrats",
-   "continues": 52,
-   "note": "jump: DEMOCRATS Continued from Page A1"
+   "why": "continuation: jump of a front-page story, headline reprinted",
+   "continues": 52
   },
   {
-   "anno": 383,
+   "boxes": [
+    383
+   ],
    "level": 3,
    "parent": 255,
    "text": "Harris loyalists from 2020 say it's the party that's evolved",
-   "continues": 70,
-   "note": "jump: DELEGATES Continued from Page A1"
+   "why": "continuation: jump of a front-page story",
+   "continues": 70
   },
   {
-   "anno": 422,
+   "boxes": [
+    422
+   ],
    "level": 3,
    "parent": 255,
    "text": "Emhoff: Harris will lead with joy and toughness",
-   "note": "'POLITICAL NOTEBOOK' rubric is text"
+   "why": "story headline (POLITICAL NOTEBOOK rubric is text)"
   },
   {
-   "anno": 442,
+   "boxes": [
+    442
+   ],
    "level": 3,
    "parent": 255,
-   "text": "Kennedy running mate says they may endorse Trump"
+   "text": "Kennedy running mate says they may endorse Trump",
+   "why": "short story headline"
   },
   {
-   "anno": 454,
+   "boxes": [
+    454
+   ],
    "level": 3,
    "parent": 255,
-   "text": "New York's top court upholds mail-in ballot law"
+   "text": "New York's top court upholds mail-in ballot law",
+   "why": "short story headline"
   },
   {
-   "anno": 460,
+   "boxes": [
+    460
+   ],
    "level": 3,
    "parent": 255,
-   "text": "Ex-city council wins nomination for Ariz, US seat"
+   "text": "Ex-city council wins nomination for Ariz, US seat",
+   "why": "short story headline"
   },
   {
-   "anno": 468,
+   "boxes": [
+    468
+   ],
    "level": 3,
    "parent": 255,
    "text": "Legal questions complicate plan for Steward hospitals",
-   "continues": 45,
-   "note": "jump: HOSPITALS Continued from Page A1"
+   "why": "continuation: jump of a front-page story with a new headline",
+   "continues": 45
   },
   {
-   "anno": 502,
+   "boxes": [
+    502
+   ],
    "level": 3,
    "parent": 255,
-   "text": "Putin visits Chechnya 3 weeks into incursion"
+   "text": "Putin visits Chechnya 3 weeks into incursion",
+   "why": "story headline"
   },
   {
-   "anno": 524,
+   "boxes": [
+    524
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Region",
-   "note": "running section tag p7 (section changes)"
+   "why": "section: running section tag The Region on A7 (section changes)"
   },
   {
-   "anno": 526,
+   "boxes": [
+    526
+   ],
    "level": 3,
    "parent": 524,
    "text": "Maine shooting panel sees widespread failures",
-   "continues": 4,
-   "note": "jump: MASS SHOOTING Continued from Page A1"
+   "why": "continuation: jump of a front-page story",
+   "continues": 4
   },
   {
-   "anno": 564,
+   "boxes": [
+    564
+   ],
    "level": 3,
    "parent": 524,
-   "text": "From a Black family's lost story, a connection emerges",
-   "continues": 20,
-   "note": "jump: SLAVERY Continued from Page A1"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 38,
-   "note": "front-page photo teaser pointing to C1"
-  },
-  {
-   "anno": 43,
-   "note": "weather box"
-  },
-  {
-   "anno": 259,
-   "note": "kicker"
-  },
-  {
-   "anno": 287,
-   "note": "kicker"
-  },
-  {
-   "anno": 317,
-   "note": "kicker"
-  },
-  {
-   "anno": 608,
-   "note": "colophon"
-  },
-  {
-   "anno": 612,
-   "note": "subscription rates (colophon)"
+   "text": "From a Black family’s lost story, a connection emerges",
+   "why": "continuation: jump of a front-page story with a new headline",
+   "continues": 20
   }
  ],
  "repeats": [
   {
-   "anno": 80,
-   "of": 1
+   "boxes": [
+    349,
+    419
+   ],
+   "of": 255,
+   "why": "running section tag The Nation on the following pages of the open section"
   },
   {
-   "anno": 175,
-   "of": 1
+   "boxes": [
+    80,
+    175,
+    256,
+    348,
+    420,
+    523
+   ],
+   "of": 1,
+   "why": "running head repeats the masthead"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 38,
+   "why": "front-page photo teaser pointing to C1"
   },
   {
-   "anno": 256,
-   "of": 1
+   "box": 43,
+   "why": "weather box label"
   },
   {
-   "anno": 348,
-   "of": 1
+   "box": 259,
+   "why": "kicker in caps above a headline"
   },
   {
-   "anno": 349,
-   "of": 255
+   "box": 287,
+   "why": "kicker in caps above a headline"
   },
   {
-   "anno": 419,
-   "of": 255
+   "box": 317,
+   "why": "kicker in caps above a headline"
   },
   {
-   "anno": 420,
-   "of": 1
+   "box": 608,
+   "why": "colophon / subscription box"
   },
   {
-   "anno": 523,
-   "of": 1
+   "box": 612,
+   "why": "colophon / subscription box"
+  }
+ ],
+ "considered": [
+  {
+   "box": 263,
+   "why": "rubric inside the story text (NEWS ANALYSIS, POLITICAL NOTEBOOK)"
+  },
+  {
+   "box": 427,
+   "why": "rubric inside the story text (NEWS ANALYSIS, POLITICAL NOTEBOOK)"
   }
  ]
 }

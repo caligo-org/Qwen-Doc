@@ -1,101 +1,141 @@
 {
  "doc": "magazine_eng_b7b4047d",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Modern Gardens",
-   "note": "masthead (gold text merged badges, price and date)"
+   "text": "MODERN Gardens",
+   "why": "title: periodical masthead MODERN Gardens (badges, price, date and tagline in the box are text)"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 3,
    "text": "We love outdoor living!",
-   "note": "editor's letter"
+   "why": "front matter: editor's letter, its letter below"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
    "parent": 3,
    "text": "Inside this MONTH…",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 63,
    "text": "Garden makeovers",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 63,
    "text": "Simple projects",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 63,
    "text": "Outdoor living",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 3,
    "parent": 63,
    "text": "Easy ideas",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
    "level": 3,
    "parent": 63,
    "text": "Best buys",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 63,
    "text": "Over to you...",
-   "note": "contents group"
+   "why": "contents group heading with its entries below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    61
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 3,
+   "why": "repeat: running footer naming the magazine"
   }
  ],
  "not_headings": [
   {
-   "anno": 4,
-   "note": "cover line"
+   "box": 4,
+   "why": "cover line"
   },
   {
-   "anno": 5,
-   "note": "cover line"
+   "box": 5,
+   "why": "cover line"
   },
   {
-   "anno": 16,
-   "note": "advertisement (p2)"
+   "box": 16,
+   "why": "advertisement (p2)"
   },
   {
-   "anno": 34,
-   "note": "order-form label in the advertisement"
+   "box": 34,
+   "why": "order-form label in the advertisement"
   },
   {
-   "anno": 36,
-   "note": "order-form label in the advertisement"
+   "box": 36,
+   "why": "order-form label in the advertisement"
   },
   {
-   "anno": 39,
-   "note": "order-form label in the advertisement"
+   "box": 39,
+   "why": "order-form label in the advertisement"
   },
   {
-   "anno": 58,
-   "note": "sign-off of the editor's letter"
+   "box": 58,
+   "why": "sign-off of the editor's letter (no block below)"
   }
  ],
- "repeats": []
+ "considered": []
 }

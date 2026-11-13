@@ -1,112 +1,161 @@
 {
  "doc": "handwritten_chn_a6f48a98",
- "notation": "handwritten-v2 (study notes, no title): Chinese-numbered topics (一.商品 … 四.纸币, and the restarted 二.价格) L1; Arabic-numbered parts L2; (1)/(2) L3. Run-in definitions (1. 含义：用于交换的劳动产品) and the mostly run-in (1)-(4) list under 货币 are text; notebook No./Date headers and watermark footers are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "一.商品"
+   "text": "一.商品",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 1,
    "parent": "root",
-   "text": "二.商品的基本属性.$\\Rightarrow$ 使用价值和价值"
+   "text": "二.商品的基本属性.$\\Rightarrow$ 使用价值和价值",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 1,
    "parent": "root",
-   "text": "二. 货币的产生的过程"
+   "text": "二. 货币的产生的过程",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1) (printed 三 per sequence; box text kept)"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 1,
    "parent": "root",
-   "text": "四. 纸币."
+   "text": "四. 纸币.",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 2,
    "parent": 44,
-   "text": "1. 含义："
+   "text": "1. 含义：",
+   "why": "numbered title 1. 含义： own line over (1)/(2)"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 45,
-   "text": "(1)国家(或某些地区)发行的"
+   "text": "(1)国家(或某些地区)发行的",
+   "why": "own-line (1) title over its ①②③ list"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 45,
-   "text": "(2)强制使用的"
+   "text": "(2)强制使用的",
+   "why": "own-line (2) title over its line"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 44,
    "text": "2. 低币的职能：低币能代替金属货币执行货币的所有职能",
-   "note": "numbered part of the 纸币 outline (1., 2., 4.); title and statement on one line"
+   "why": "numbered item 2 of the 纸币 series (title + statement on one line); series members 1./4. are own-line titles"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 44,
-   "text": "4. 纸币的发行规律."
+   "text": "4. 纸币的发行规律.",
+   "why": "numbered title 4 over formulas + table"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 1,
    "parent": "root",
    "text": "二. 价格 \\( \\rightarrow \\) 前因后果.",
-   "note": "same look as 一.商品; numbering restarts with a new topic (gold had it under 四.纸币)"
-  },
-  {
-   "anno": 107,
-   "level": 2,
-   "parent": 75,
-   "text": "1. 桑求曲线."
-  },
-  {
-   "anno": 109,
-   "level": 2,
-   "parent": 75,
-   "text": "2. 需求弹性."
-  },
-  {
-   "anno": 113,
-   "level": 2,
-   "parent": 75,
-   "text": "3. 相关商品需求曲线"
-  },
-  {
-   "anno": 117,
-   "level": 2,
-   "parent": 75,
-   "text": "4. 需求曲线平移图。"
-  },
-  {
-   "anno": 119,
-   "level": 2,
-   "parent": 75,
-   "text": "5. 供给曲线"
-  },
-  {
-   "anno": 121,
-   "level": 2,
-   "parent": 75,
-   "text": "6. 给予曲线平移图."
-  },
-  {
-   "anno": 123,
-   "level": 2,
-   "parent": 75,
-   "text": "7. 平衡价格"
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1); numbering restarts (二. 价格) with a new topic: new L1, not a child of 四; round 2: the curve sheet and the last sheet sit directly under it (curve titles are chart titles: text)"
   }
  ],
- "not_headings": [],
- "repeats": []
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 107,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 109,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 113,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 117,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 119,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 121,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 123,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "run-in 1. 含义：… statement"
+  },
+  {
+   "box": 21,
+   "why": "(1) of a series whose other members (2)-(4) are run-in statements: text"
+  },
+  {
+   "box": 24,
+   "why": "run-in (2) 货币含义：…"
+  },
+  {
+   "box": 25,
+   "why": "run-in (3) 本质"
+  },
+  {
+   "box": 26,
+   "why": "run-in (4) 货币职能"
+  },
+  {
+   "box": 98,
+   "why": "label 公式. before formulas"
+  },
+  {
+   "box": 1,
+   "why": "notebook No./Date header"
+  },
+  {
+   "box": 17,
+   "why": "platform watermark footer"
+  }
+ ]
 }

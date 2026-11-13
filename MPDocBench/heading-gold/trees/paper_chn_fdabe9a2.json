@@ -1,108 +1,168 @@
 {
  "doc": "paper_chn_fdabe9a2",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "航天器低频电缆网的设计"
+   "text": "航天器低频电缆网的设计",
+   "why": "title: paper title"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 4,
-   "text": "0 引言"
+   "text": "0 引言",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1 电缆网的设计"
+   "text": "1 电缆网的设计",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 15,
-   "text": "1.1 电缆网导线的选用"
+   "text": "1.1 电缆网导线的选用",
+   "why": "subsection 1.1 (numbering; gold had it at section level)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 15,
-   "text": "1.2 电缆网简化设计"
+   "text": "1.2 电缆网简化设计",
+   "why": "subsection 1.2 (numbering)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
    "parent": 4,
-   "text": "2 电缆网星表插座设计"
+   "text": "2 电缆网星表插座设计",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 48,
-   "text": "2.1 推进供电星表设计"
+   "text": "2.1 推进供电星表设计",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 3,
    "parent": 48,
-   "text": "2.2 火工品供电星表设计"
+   "text": "2.2 火工品供电星表设计",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 3,
    "parent": 48,
-   "text": "2.3 驱动机构供电星表设计"
+   "text": "2.3 驱动机构供电星表设计",
+   "why": "subsection 2.3 (numbering)"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 48,
-   "text": "2.4 蓄电池充放电星表设计"
+   "text": "2.4 蓄电池充放电星表设计",
+   "why": "subsection 2.4 (numbering)"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 48,
-   "text": "2.5 地面测试星表设计"
+   "text": "2.5 地面测试星表设计",
+   "why": "subsection 2.5 (numbering)"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 2,
    "parent": 4,
-   "text": "3 电缆网脱分插设计"
+   "text": "3 电缆网脱分插设计",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 2,
    "parent": 4,
-   "text": "4 电缆网的接地设计"
+   "text": "4 电缆网的接地设计",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 2,
    "parent": 4,
-   "text": "5 电缆网的布局设计"
+   "text": "5 电缆网的布局设计",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 2,
    "parent": 4,
-   "text": "6 结束语"
+   "text": "6 结束语",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献（References）"
+   "text": "参考文献（References）",
+   "why": "back matter: references at top-section level"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 88,
-   "note": "English translation of the title (back-placed English abstract)"
+   "boxes": [
+    40
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 4,
+   "why": "repeat: English title restated after the references (title printed again in translation, apart from the Chinese title); as a restated title of the whole document it is a repeat of L1, not a node, and closes 参考文献: the English authors/abstract/keywords after it are about the whole paper, not the references (round 3)"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": []
 }

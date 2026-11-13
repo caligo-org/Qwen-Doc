@@ -1,67 +1,154 @@
 {
  "doc": "researchReport_chn_d0eac218",
- "notation": "researchReport (company note): L1 headline (the company line sits in the date/rating info box, not in the title block: text); L2 投资要点 and numbered chapters; L3 1.1 sections. Sidebar banners (research centre/analysts, chart, base data, related research) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "连续三年动力电池全球第一"
+   "text": "宁德时代（300750）2019年年报点评 连续三年动力电池全球第一",
+   "why": "title union (round 3): the owner is printed only in the mixed cover header box (date / report type / company / rating); per NOTATIONS \"Every path is a breadcrumb\" the node uses that box and its text is only the heading part (company + report type, as the running head prints it) ∪ the headline"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "投资要点"
+   "parent": 1,
+   "text": "投资要点",
+   "why": "section: cover summary title"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "1 2019 年年度报告点评"
+   "parent": 1,
+   "text": "1 2019 年年度报告点评",
+   "why": "section: chapter 1"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 30,
-   "text": "1.1 动力电池业务"
+   "text": "1.1 动力电池业务",
+   "why": "section: 1.1"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 3,
    "parent": 30,
-   "text": "1.2 储能系统业务和锂电材料业务"
+   "text": "1.2 储能系统业务和锂电材料业务",
+   "why": "section: 1.2"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "2 盈利预测与评级"
+   "parent": 1,
+   "text": "2 盈利预测与评级",
+   "why": "section: chapter 2"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "3 风险提示"
+   "parent": 1,
+   "text": "3 风险提示",
+   "why": "section: chapter 3"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "附表：财务预测与估值",
+   "why": "appendix title, L2 (round 3 containment): 附表 title of the full-page forecast table on p8; as text it left the table inside 3 风险提示, which it is not about (same class as chn_a2f46550 附表 L2)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    29
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (company + report type)"
   }
  ],
  "not_headings": [
   {
-   "anno": 15,
-   "note": "research-centre banner over the analyst list"
+   "box": 15,
+   "why": "research centre banner over the analyst list: text"
   },
   {
-   "anno": 18,
-   "note": "sidebar chart label"
+   "box": 18,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 21,
-   "note": "基础数据: sidebar data-table label"
+   "box": 21,
+   "why": "sidebar base-data table label: text"
   },
   {
-   "anno": 23,
-   "note": "相关研究: related-reports list"
+   "box": 23,
+   "why": "related-research label: text per category note"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 116,
+   "why": "lead-in 关键假设： introducing a list"
+  }
+ ]
 }

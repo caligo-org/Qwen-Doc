@@ -1,152 +1,238 @@
 {
  "doc": "manualGuide_chn_51cbdc09",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "序言",
-   "note": "no printed document title in this excerpt; chapter titles are the top level"
+   "why": "chapter: excerpt with no printed document title, chapters are the top level (several L1)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 4,
-   "text": "本手册编排介绍"
+   "text": "本手册编排介绍",
+   "why": "section: chapter section, TOC entry under 序言"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 4,
-   "text": "技术支持"
+   "text": "技术支持",
+   "why": "section: chapter section, TOC entry under 序言"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 1,
    "parent": "root",
-   "text": "目录"
+   "text": "目录",
+   "why": "contents title: front matter at the level of the top sections"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 1,
    "parent": "root",
-   "text": "简介"
+   "text": "简介",
+   "why": "chapter: top-level TOC entry 简介"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 27,
-   "text": "概述"
+   "text": "概述",
+   "why": "section: TOC entry under 简介"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 27,
-   "text": "特征"
+   "text": "特征",
+   "why": "section: TOC entry under 简介, contains the configuration list and the interface items"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 30,
-   "text": "主板SB-810的主要配置"
+   "text": "主板SB-810的主要配置",
+   "why": "subsection: own-line label with its own bullet list, indented under 特征 in the TOC"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 30,
-   "text": "CPU"
+   "text": "CPU",
+   "why": "subsection: interface item with its own paragraph (TOC indent under 特征)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 30,
-   "text": "CRT接口"
+   "text": "CRT接口",
+   "why": "subsection: same look and TOC indent as CPU"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 30,
-   "text": "LCD接口"
+   "text": "LCD接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 3,
    "parent": 30,
-   "text": "串口"
+   "text": "串口",
+   "why": "subsection: same"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 30,
-   "text": "并口"
+   "text": "并口",
+   "why": "subsection: same"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 3,
    "parent": 30,
-   "text": "IDE接口"
+   "text": "IDE接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 3,
    "parent": 30,
-   "text": "DOC接口"
+   "text": "DOC接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 30,
-   "text": "FDC接口"
+   "text": "FDC接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 30,
-   "text": "USB接口"
+   "text": "USB接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 30,
-   "text": "网络接口"
+   "text": "网络接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 30,
-   "text": "声卡接口"
+   "text": "声卡接口",
+   "why": "subsection: same"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 3,
    "parent": 30,
-   "text": "物理特征"
+   "text": "物理特征",
+   "why": "subsection: same"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 1,
    "parent": "root",
-   "text": "产品特征"
+   "text": "产品特征",
+   "why": "chapter: top-level TOC entry 产品特征"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 2,
    "parent": 71,
-   "text": "功能原理示意图"
+   "text": "功能原理示意图",
+   "why": "section: diagram section in the TOC, describes the figure below"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 2,
    "parent": 71,
-   "text": "接口示意图"
+   "text": "接口示意图",
+   "why": "section: TOC entry 接口示意图"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 2,
    "parent": 71,
-   "text": "主板机械示意图"
+   "text": "主板机械示意图",
+   "why": "section: TOC entry (机械尺寸图), describes the drawing below"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head: company name (text, no document title printed)"
+  },
+  {
+   "box": 3,
+   "why": "running head: document class tag"
+  },
+  {
+   "box": 73,
+   "why": "figure title: caption of the diagram, text"
+  }
+ ]
 }

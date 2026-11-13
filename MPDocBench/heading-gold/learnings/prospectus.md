@@ -1,65 +1,112 @@
-# prospectus learnings
+# prospectus learnings (v3)
 
 ## Decisions (carry over)
-- CN IPO prospectus cover (招股说明书): L1 = the document title line (e.g. 首次公开发行股票并在科创板上市招股说明书). Issuer name,
-  English name, address, 科创板投资风险提示 box title, sponsor (保荐人/主承销商) block: text (not_headings).
-- CN front matter (本次发行概况, 重要声明/声明, 重大事项提示, 目录, 释义) and body chapters (第X节) = L2; 一、 = L3; （一） = L4; 1、 = L5.
-- Sub-headings that the layout tagged as table_caption / text_block but are printed in the heading style of their
-  siblings (e.g. a bold （一） risk title) are headings; use their id.
-- Text of a heading wrapped over several lines: CJK-CJK line joins without a space (the printed line is one string);
-  other joins with one space.
-- Running heads (issuer name + 招股说明书) are text.
+- CN cover: L1 = issuer name ∪ document-type line (首次公开发行股票并在科创板上市招股说明书). English issuer name, address,
+  seals/logos, 科创板投资风险提示 box, sponsor/underwriter blocks (保荐机构（主承销商）, 联席主承销商): text.
+- CN front matter (重要声明, 本次发行概况, 目录, 释义, 重大事项提示) and body chapters (第X节) = L2.
+- CN running heads: the header pair "issuer name" + "招股说明书" on each page = one repeat of the L1 union per page.
+- TOC entries are text; the 目录 title is L2.
+- 科创板投资风险提示 box on the cover, even when its title is a separate box (30f024e2 #1, fd769c1b #1): cover risk banner = text.
+- Running head printed on the cover page above the title (dac1e5e9 #1/#2): cannot be a repeat (title not yet open) -> considered/text.
+- CN numbering ladder inside a front-matter section: 重大事项提示 L2 > 一、 L3 > （一） L4 > 1、 L5. Sub-heads tagged
+  text_block/table_caption but printed bold on their own line like siblings are headings (use their id).
+- Numbered 1、2、3、 commitment paragraphs (run-in, body weight) are text; bold own-line 1、 labels followed by paragraphs are headings.
+- cf5aeb95 #129: bold "4、..." rule sentence with no block of its own (next line is （四）) -> text by substance, although
+  its 1、-3、 siblings are headings (v2 had kept it).
+- Signature field 董事长签字： -> considered (text).
 
-## Open questions
+## EN fund prospectuses
+- Cover: L1 = fund/company name (owner) ∪ "Prospectus ..." line(s), boxes in reading order even when apart
+  (01db2dde RICHELIEU BOND ∪ Prospectus September 2015; 0ec528dd Kapitalfonds L.K. ∪ Prospectus including fund
+  management regulations; 241e405e PROSPECTUS ∪ FRANKLIN TEMPLETON INVESTMENT FUNDS). Dates, legal form, management
+  company, sponsor logos: text.
+- Running head / running foot naming the fund (Richelieu Bond; Franklin Templeton Investment Funds) = repeat of L1.
+  Website footers (franklintempleton.lu): text.
+- Repeated title page (company name + legal form + registered office in one box) = repeat of L1 (241e405e #10).
+- "OFFER" printed as the first word of the offer sentence (241e405e #11): text (run-in).
+- Front matter (WARNING when it is pages of notices, IMPORTANT INFORMATION, CONTENTS, DEFINITIONS, ORGANISATION,
+  ADMINISTRATION INFORMATION) = L2, same level as PART I / top body banners; their own-line subheads L3.
+- Directory pages: entry labels on their own line (CHAIRMAN:, DIRECTORS:, CUSTODIAN:, Contact Details:) with their
+  block of names/addresses = L3 headings by the own-line-label rule. OPEN: NOTATIONS also lists "contact boxes" and
+  "lists of names" as text; I read that as the names, not the labels.
+- Directory laid out as a two-column table (01db2dde ORGANISATION): labels are table cells -> text.
+- Per-fund fact blocks: run-in labels (Asset Class, Investment Objectives, Risk Considerations) = text; the fund name
+  heading = one level below the section.
+- Part banner repeated as a running head on later pages (4da61756 SALES PROSPECTUS) = repeat of the part node.
+  Sections the TOC lists inside that part (FUND OVERVIEW, MANAGEMENT AND ADMINISTRATION) stay under it at the
+  chapter level, even though they come after the numbered chapters.
+- Running foot printing the document type (SALES PROSPECTUS WITH MANAGEMENT REGULATIONS) = repeat of L1.
+- Bold underlined own-line labels printed like sibling subheads whose block is a table (4da61756 "Shares of the
+  classes »PA« and »PT«") = headings (own block), not table captions. OPEN: v2 made them text as table titles.
+- A one-box cover title holding both type and fund ("Prospectus SEB SICAV 2") = the whole box is L1 (union in one box).
+- Own-line bold labels ending in a colon with their own bullet list (51f57153 "Man Sub-Funds:") = headings one level
+  below the section (own-line label with block). v2 had them as text lead-ins. A lead-in sentence that introduces a
+  list ("The following sub-funds have been established to date:") stays text.
+- Entities listed under a subsection and printed in the same face as it (51f57153 the three investment managers under
+  "Investment Managers") = one level below it (content beats look).
+- 60d1e00b ch.4: general subheads (Investment Objective ... Reference Currency) share the face of the sub-fund names
+  but are not part of any fund group -> L3 under the chapter; fund-group headings (larger) L3; sub-fund names L4
+  under their group (content decides; resolves the v2 open case).
+- Lead-in sentences ending in a colon that introduce a bullet list ("Investors are reminded that:") stay text, even
+  when bold on their own line; noun labels with their own list ("Man Sub-Funds:") are headings.
+- d2e37b2e: plain-weight category labels inside the investment-policy list (Renewable Energy: / Energy Efficiency: /
+  Resource Efficiency:) -> text: the general policy paragraphs after the list would fall under the last label
+  (containment fails). Reverses v2.
+- Bulleted bold subheads ("• Limits") = headings, list marker dropped from the node text.
+- Cover legal-form lines tagged title (Société d'Investissement à Capital / Variable à Compartiments Multiples) =
+  not_headings; the document-type line (Sales Prospectus March 2015) joins the owner in the L1 union.
+- bab1780c #22 bold underlined table title ("Overview of Subfunds: ...") whose table is followed by more
+  introduction text unrelated to it -> text (containment fails), unlike 4da61756 where the next heading follows.
+- Arrow/bullet-marked own-line subheads in front matter (edf49303 "► United States of America") = L3 under the L2
+  front-matter section.
 
-## Decisions added while working (EN fund prospectuses)
-- EN fund prospectus cover: L1 = the document-title line ("Prospectus ...", "Sales Prospectus with Management
-  Regulations", "PROSPECTUS"); the fund/issuer name printed as a separate, often bigger box is text (same rule as the
-  CN issuer name). When the title and the fund name are one box ("Prospectus SEB SICAV 2"), the whole box is L1.
-- A repeated title page (title restated, issuer block with legal form and registered office, "OFFER of separate
-  classes of shares ...") is text.
-- Front-matter sections (Important information, Glossary of terms, Definitions, Table of contents, Organisation,
-  Warning) are at the level of the body's top units (Parts / top banners) = L2.
-- Directory pages (ADMINISTRATION INFORMATION / MANAGEMENT AND ADMINISTRATION): the section title is a heading; the
-  labels of each entry (CHAIRMAN:, DIRECTORS:, Custodian, Management Company, Paying Agents, Contact Details) are text
-  (lists of names/addresses), even when styled like headings.
-- Run-in bold labels in per-fund fact blocks (Asset Class, Investment Objectives, Risk Considerations) are text.
-- Gold sometimes promotes a numbered sibling to the parent level (36d76993: "2. Involved parties" L2 next to
-  "1. General information" L3): numbering decides, both under the Part.
+## OPEN
+- Directory entry labels (CHAIRMAN:, Custodian Bank, Auditors ...) made headings by the own-line-label rule; NOTATIONS
+  also lists contact boxes / name lists as text (241e405e, 4da61756, 51f57153, cc0c7019, d2e37b2e).
+- Table-titling subheads printed like sibling subheads (4da61756 #128/#130) kept as headings; table titles followed by
+  unrelated text (bab1780c #22) made text. The line between "table caption" and "label with its own block" is look-based.
+- Running heads printed on the cover above the title (dac1e5e9 #1/#2, d2e37b2e #1) cannot be repeats by check.py
+  (title not yet open): put in considered.
+- Running heads naming only the owner (Richelieu Bond, EAST CAPITAL (LUX)) or only the document type (SALES
+  PROSPECTUS WITH MANAGEMENT REGULATIONS) treated as repeats of the L1 union (they restate half of it).
 
-## Open questions (EN)
-- Fund cover with fund name and "Prospectus" in separate boxes: the fund name is the more prominent line. I made the
-  "Prospectus ..." line L1 and the fund name text (consistent with the CN issuer rule); merging both into one L1 is the
-  alternative (01db2dde, 0ec528dd, 241e405e, 4da61756).
-- Directory-entry labels styled exactly like section headings (4da61756 p11 Management Company, Depositary Bank, ...):
-  made text by the "lists of names/offices" rule; the look alone would make them L4.
-- cf5aeb95 #129: a bold numbered 4、 sentence (a rule, not a topic) printed like its 1、-3、 heading siblings: kept as
-  heading by "same look = same level".
-- Bold labels sitting directly above a table ("Overview of Subfunds: ...", "Shares of the classes »PA« and »PT«") are
-  table titles: text (bab1780c, 4da61756).
-- Bold lead-ins ending in a colon that introduce a bullet list ("Investors are reminded that:", "Man Sub-Funds:",
-  "Renewable Energy:") are text.
-- Bulleted bold subheads ("• Limits"): heading, list marker dropped from the node text (d2e37b2e).
-- When the gold nests a later section under a directory label (cc0c7019 LEGAL STRUCTURE under CONTACTS), the section
-  goes back to its own level under the Book/Part.
-- Pages that hold only a TOC continuation or a definitions/term table were checked via listing.py (one text_block or
-  table, no title candidates) rather than by image.
+## Breadcrumb review round 2
+- 27 docs checked, 375 breadcrumb lines read; check.py: no ERROR in any doc; breadcrumbs.py: no FLAG in any doc.
+- Unseen pages for prospectus in review/unseen_pages.txt: none.
+- Every title-category box of every prospectus doc is accounted for (node, repeat, not_headings or considered).
+- Pages re-viewed for doubtful paths: 241e405e p3-4, 60d1e00b p4-7, 51f57153 p6-7, 613dbac9 p2-3, cc0c7019 p4-5,
+  d2e37b2e p11-13,16. All paths hold; no fixes this round.
+- Kept, read and judged correct:
+  - cc0c7019 #42 "NB" L3: printed in the face of its sibling subsections (INTRODUCTION, REQUEST INFORMATION) with a
+    rule and four paragraphs of notices below; a section by look and substance, not a callout.
+  - d2e37b2e #153 "USE OF DERIVATIVE INSTRUMENTS" (no number) and #197 "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES"
+    both L3 under TECHNIQUES AND INSTRUMENTS: the document prints the "1." only implicitly; same face, same level.
+  - 613dbac9 L1 text keeps "December 2015" because the date shares one box with PROSPECTUS (boxes cannot be split).
+- OPEN: none new.
 
-## Open questions (more)
-- 60d1e00b ch.4: bold body-size subheads (Investment Objective ... Reference Currency) share the face of the sub-fund
-  names (L4 under larger fund-group headings) but come before the first group; made L3 (no level skip) rather than L4
-  (same look). Same-look rule and no-skip rule conflict here.
-- Fund-prospectus cover where "PROSPECTUS" is a small line under a much larger fund name (edf49303, bab1780c): L1 is
-  the small PROSPECTUS line by the issuer-name rule; reviewer may prefer the fund name.
-
-## User decisions (2026-11-12)
-- Cover: L1 = the document title only, issuer/fund name text (prospectus_chn_30f024e2 decision). 36d76993:
-  "Prospectus SEB SICAV 2" -> "Prospectus". Resolves the fund-cover open question (fund name = text, not merged).
-
-## Label rule pass
-
-- Signature field "董事长签字：" and list lead-in "措施：" (introduces the numbered measures) -> stay text.
-- d2e37b2e: own-line category labels in the investment-policy list (Renewable Energy: / Energy Efficiency: /
-  Resource Efficiency:) name the bullets under them -> new L3 headings under INVESTMENT OBJECTIVE AND POLICY (L2).
-  The general policy paragraphs after the list now fall under "Resource Efficiency:" by reading order; the sub-fund
-  line "QUEST MANAGEMENT – QUEST CLEANTECH FUND (denominated in EUR):" (not a candidate) was left as text.
+## Breadcrumb review round 3
+- 27 docs checked (13 CN, 14 EN), all 375 breadcrumb lines read; check.py: no ERROR; breadcrumbs.py: no FLAG in any doc,
+  so no ACCEPTED flags. Unseen pages for prospectus in review/unseen_pages.txt: none.
+- Pages viewed: 241e405e p8-11, 51f57153 p4-5, cc0c7019 p6-7, d2e37b2e p1,5-7, 4da61756 p11, 613dbac9 p1-2,
+  cd9d4d87 p1, dac1e5e9 p1; cover title boxes of all 14 EN docs listed.
+- Fix class "L1 text = heading part only" (NOTATIONS: owner/type printed in a box that also holds other fields -> node
+  uses the box, text is only the heading part), 4 docs:
+  - 613dbac9 L1 "EAST CAPITAL (LUX) PROSPECTUS" (box #3 also prints "December 2015"; was kept in round 2).
+  - 01db2dde L1 "RICHELIEU BOND Prospectus" (box #2 also prints "September 2015").
+  - d2e37b2e L1 "QUEST MANAGEMENT, SICAV Sales Prospectus" (box #6 also prints "March 2015").
+  - cd9d4d87 L1 "OYSTER PROSPECTUS" (box #2 also prints the legal form "An Open-ended Mutual Investment Fund (SICAV)
+    Luxembourg", cover text by the decisions above).
+- RESOLVED (OPEN since round 1) directory entry labels (241e405e CHAIRMAN: ... Contact Details:, 51f57153 Board of
+  Directors › Chairman / Custodian Bank ..., cc0c7019 CONTACTS › The Company ... Auditors, d2e37b2e ADMINISTRATION ›
+  REGISTERED OFFICE ... LEGAL ADVISORS, 4da61756 MANAGEMENT AND ADMINISTRATION › Management Company ... Distributors):
+  kept as headings. Every path reads as a breadcrumb (owner prospectus › administration section › role), each label
+  is an own-line label whose block is exactly that role's entry, and containment holds: each directory ends where
+  the next front-matter / body section starts (241e405e Contact Details: -> FUND INFORMATION p11; 51f57153 Legal
+  Advisers -> The Fund p6; cc0c7019 Auditors -> LEGAL STRUCTURE p8; d2e37b2e LEGAL ADVISORS -> INTRODUCTION p8;
+  4da61756 Distributors = last block of the document). "Lists of names / contact boxes" = the name/address blocks,
+  which stay text. Run-in labels inside a block (241e405e "in Austria:", 4da61756 "Paying Agent in Luxembourg:") stay text.
+- RESOLVED cover running heads above the title (dac1e5e9 #1/#2, d2e37b2e #1): stay considered (text). They are page
+  furniture printed before the title opens, not nodes, so no path is affected; the same heads on later pages are repeats.
+- Table-titling subheads (4da61756 #128/#130 vs bab1780c #22): paths re-read, both hold (4da61756 labels close at
+  the next numbered chapter; bab1780c #22 stays text by containment). No change.
+- OPEN: none.

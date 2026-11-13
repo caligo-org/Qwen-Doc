@@ -1,36 +1,63 @@
 {
  "doc": "manualGuide_eng_8d2c3220",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD",
-   "merge": [
-    3
-   ],
-   "note": "manual type + product/model box merged; document number line left out of the text"
+   "why": "title union: document type (Originele handleiding, with its document number on the same box) + product and models; breadcrumb review r2: line breaks in the node text replaced by spaces Breadcrumb review r3: the document number printed in the same box (150 000 037 00 NL) left out of the node text (box with other fields: text is only the heading part)."
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 2,
    "text": "EG-conformiteitsverklaring",
-   "note": "missed: title of the declaration box (boxed as header)"
+   "why": "section: declaration title printed in the box header; describes the declaration block"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 2,
    "text": "Voorwoord",
-   "note": "running section tag printed on the first page of the foreword, the only printed name of that section"
+   "why": "section: running section tag printed only on the preface page; nothing else names this section"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 10,
-   "note": "manufacturer name inside the declaration text"
+   "box": 10,
+   "why": "manufacturer name inside the declaration (the declaring party), not a heading"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "brand logo: text"
+  },
+  {
+   "box": 24,
+   "why": "salutation: text"
+  },
+  {
+   "box": 30,
+   "why": "salutation: text"
+  },
+  {
+   "box": 35,
+   "why": "callout lead-in Let op, belangrijk: text"
+  },
+  {
+   "box": 22,
+   "why": "form field Bouwjaar: text"
+  }
+ ]
 }

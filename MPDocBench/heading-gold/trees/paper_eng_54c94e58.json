@@ -1,49 +1,72 @@
 {
  "doc": "paper_eng_54c94e58",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake"
+   "text": "Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake",
+   "why": "title: paper title"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 3,
-   "text": "1. INTRODUCTION"
+   "text": "1. INTRODUCTION",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 3,
-   "text": "2. LITERATURE REVIEW"
+   "text": "2. LITERATURE REVIEW",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
    "parent": 3,
-   "text": "3. RESEARCH METHOD"
+   "text": "3. RESEARCH METHOD",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
    "parent": 3,
-   "text": "4. RESULTS AND DISCUSSION"
+   "text": "4. RESULTS AND DISCUSSION",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 2,
    "parent": 3,
-   "text": "5. CONCLUSION"
+   "text": "5. CONCLUSION",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 2,
    "parent": 3,
-   "text": "REFERENCES"
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

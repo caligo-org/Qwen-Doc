@@ -1,144 +1,218 @@
 {
  "doc": "newspaper_chn_ec796be7",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 光明日报, same family as newspaper_chn_eb87830d.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "光明日報",
-   "note": "masthead (pinyin in the same box is text)"
+   "why": "masthead; pinyin in the same box is text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
    "text": "习近平回到北京",
-   "note": "引题 in the same box is text"
+   "why": "story headline, front page; 引题 lines in the same box are a deck"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 3,
    "parent": 1,
    "text": "为推动构建公正的世界和可持续的星球贡献力量",
-   "note": "——副题 in the same box is text"
+   "why": "story headline; ——副题 in the same box is a deck"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 4,
    "parent": 10,
-   "text": "中国脱贫提供“杰出范例”"
+   "text": "中国脱贫提供“杰出范例”",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 4,
    "parent": 10,
-   "text": "八项行动“令人振奋”"
+   "text": "八项行动“令人振奋”",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 1,
    "text": "跨越山海的友谊、团结、合作、开拓之旅",
-   "note": "vertical; 引题 and ——副题 in the same box are text"
+   "why": "story headline (vertical); 引题 and ——副题 in the same box are decks"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 4,
    "parent": 31,
-   "text": "一、引领亚太开放合作启新程"
+   "text": "一、引领亚太开放合作启新程",
+   "why": "numbered in-story part head with its own block"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 4,
    "parent": 31,
-   "text": "二、推动全球治理改革再聚焦"
+   "text": "二、推动全球治理改革再聚焦",
+   "why": "numbered in-story part head with its own block"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 1,
-   "text": "聆听大国外交的铿锵足音"
+   "text": "聆听大国外交的铿锵足音",
+   "why": "story headline"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 1,
-   "text": "工布“毕秀”"
+   "text": "工布“毕秀”",
+   "why": "story headline"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 2,
    "parent": 1,
    "text": "要闻",
-   "note": "page tag p2"
+   "why": "section: page tag 要闻 on p2"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 3,
    "parent": 70,
-   "text": "赵乐际对葡萄牙进行正式友好访问"
+   "text": "赵乐际对葡萄牙进行正式友好访问",
+   "why": "story headline"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 3,
    "parent": 70,
-   "text": "王沪宁会见哈萨克斯坦国务顾问卡林"
+   "text": "王沪宁会见哈萨克斯坦国务顾问卡林",
+   "why": "story headline"
   },
   {
-   "anno": 109,
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "聆听大国外交的铿锵足音",
+   "continues": 45,
+   "why": "continuation: jump paragraph starting \"（上接1版）\" of front-page story #45, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  },
+  {
+   "boxes": [
+    109
+   ],
    "level": 3,
    "parent": 70,
    "text": "民间交流是未来中美关系健康发展的重要基础",
-   "note": "——副题 in the same box is text"
+   "why": "story headline; ——副题 in the same box is a deck"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 3,
    "parent": 70,
-   "text": "（上接1版）",
-   "continues": 31,
-   "note": "jump of 跨越山海的友谊..., no headline printed; parts 三-六 follow"
+   "text": "跨越山海的友谊、团结、合作、开拓之旅",
+   "why": "continuation: jump line (上接1版) of a front-page story, parts 三-六 follow | breadcrumb round 3: jump prints no headline (printed: \"（上接1版）\"), so the continuation takes the original's title #31",
+   "continues": 31
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 4,
    "parent": 122,
-   "text": "三、树立互利共赢合作新典范"
+   "text": "三、树立互利共赢合作新典范",
+   "why": "numbered part head of the jumped story"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 4,
    "parent": 122,
-   "text": "四、开启中巴构建命运共同体新篇章"
+   "text": "四、开启中巴构建命运共同体新篇章",
+   "why": "numbered part head of the jumped story"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 4,
    "parent": 122,
-   "text": "五、拓展全球伙伴关系新局面"
+   "text": "五、拓展全球伙伴关系新局面",
+   "why": "numbered part head of the jumped story"
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 4,
    "parent": 122,
-   "text": "六、唱响中国光明前景最雄音"
+   "text": "六、唱响中国光明前景最雄音",
+   "why": "numbered part head of the jumped story"
   },
   {
-   "anno": 146,
+   "boxes": [
+    146
+   ],
    "level": 3,
    "parent": 70,
-   "text": "（上接1版）",
-   "continues": 10,
-   "note": "jump of 为推动构建公正的世界..., no headline printed"
+   "text": "为推动构建公正的世界和可持续的星球贡献力量",
+   "why": "continuation: jump line (上接1版) of a front-page story, its subhead follows | breadcrumb round 3: jump prints no headline (printed: \"（上接1版）\"), so the continuation takes the original's title #10",
+   "continues": 10
   },
   {
-   "anno": 147,
+   "boxes": [
+    147
+   ],
    "level": 4,
    "parent": 146,
-   "text": "五大理念主张明确正确方向"
+   "text": "五大理念主张明确正确方向",
+   "why": "in-story subhead of the jumped story"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    72
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

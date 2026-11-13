@@ -1,26 +1,54 @@
 {
  "doc": "goverment_eng_5a7b6d51",
- "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block), so the underlined section heads are the top level (several L1). Routing, classification and page tags are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 10,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "TIMELINE TO THE NEW CONSTITUTION"
+   "text": "AMBASSADOR'S JANUARY 17 MEETING WITH CONSTITUTION ASSEMBLY CHAIRMAN",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
   },
   {
-   "anno": 14,
-   "level": 1,
-   "parent": "root",
-   "text": "THE ROLE OF THE SENATE"
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "TIMELINE TO THE NEW CONSTITUTION",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 19,
-   "level": 1,
-   "parent": "root",
-   "text": "OTHER ISSUES AHEAD"
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "THE ROLE OF THE SENATE",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "OTHER ISSUES AHEAD",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "classification + section count line: text"
+  },
+  {
+   "box": 16,
+   "why": "cable page id line: page header, text"
+  }
+ ]
 }

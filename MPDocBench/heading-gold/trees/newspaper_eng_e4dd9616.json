@@ -1,195 +1,277 @@
 {
  "doc": "newspaper_eng_e4dd9616",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY: front page = implicit section; NEWS running tag p2 = L2; jumps are continuation nodes; paid advertisement page is text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 6,
    "text": "Handful of VIPs are noted no-shows",
-   "note": "kicker 'REPUBLICAN NATIONAL CONVENTION' is text"
+   "why": "story headline, front page (no section banner); kicker above is text"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Outdated 911 system faces its own crisis in US"
+   "text": "Outdated 911 system faces its own crisis in US",
+   "why": "story headline"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Heavenly pair: 'Penguin and Egg' galaxies",
-   "note": "photo story; the line under the photo is its deck"
+   "text": "Heavenly pair: ‘Penguin and Egg’ galaxies",
+   "why": "photo story headline (line under the photo is its deck)"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Immigrants' sharp rise in South brings strife over border politics"
+   "text": "Immigrants' sharp rise in South brings strife over border politics",
+   "why": "story headline"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 2,
    "parent": 6,
    "text": "NEWS",
-   "note": "running section tag p2"
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 58,
-   "text": "Ruling mandates release of Uvalde records"
+   "text": "Ruling mandates release of Uvalde records",
+   "why": "story headline"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 4,
    "parent": 59,
    "text": "Decision follows a similar 2023 ruling",
-   "note": "in-story subhead"
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 59,
-   "text": "Texas law enforcement criticized for delayed response to shooting"
+   "text": "Texas law enforcement criticized for delayed response to shooting",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 58,
-   "text": "Outdated 911",
-   "continues": 21,
-   "note": "jump: Continued from Page 1A"
+   "text": "Outdated 911 system faces its own crisis in US",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Outdated 911\" (no headline), so the continuation takes the original's title #21",
+   "continues": 21
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 3,
    "parent": 58,
-   "text": "Police officer encountered Trump shooter"
+   "text": "Police officer encountered Trump shooter",
+   "why": "story headline"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Secret Service director to testify before Congress"
+   "text": "Secret Service director to testify before Congress",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Authorities fear violence could breed violence"
+   "text": "Authorities fear violence could breed violence",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 160,
+   "boxes": [
+    160
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Slain fireman's widow rejects Biden's call but doesn't blame him"
+   "text": "Slain fireman's widow rejects Biden's call but doesn't blame him",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 166,
+   "boxes": [
+    166
+   ],
    "level": 4,
    "parent": 135,
-   "text": "Crooks reportedly bought ladder before shooting"
+   "text": "Crooks reportedly bought ladder before shooting",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 3,
    "parent": 58,
-   "text": "No-shows",
-   "continues": 13,
-   "note": "jump: Continued from Page 1A"
+   "text": "Handful of VIPs are noted no-shows",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"No-shows\" (no headline), so the continuation takes the original's title #13",
+   "continues": 13
   },
   {
-   "anno": 177,
+   "boxes": [
+    177
+   ],
    "level": 4,
    "parent": 172,
-   "text": "Planning a write-in vote"
+   "text": "Planning a write-in vote",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 4,
    "parent": 172,
-   "text": "Changing roles of conventions"
+   "text": "Changing roles of conventions",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 191,
+   "boxes": [
+    191
+   ],
    "level": 4,
    "parent": 172,
-   "text": "Passing on the baton"
+   "text": "Passing on the baton",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 200,
+   "boxes": [
+    200
+   ],
    "level": 3,
    "parent": 58,
-   "text": "One of world's oldest gorillas dies in Calif."
-  }
- ],
- "not_headings": [
-  {
-   "anno": 34,
-   "note": "deck of the photo story"
+   "text": "One of world's oldest gorillas dies in Calif.",
+   "why": "story headline"
   },
   {
-   "anno": 122,
-   "note": "colophon field"
+   "boxes": [
+    228
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Popular CoQ10 Pills Leave Millions Suffering",
+   "why": "story-level headline of an advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
   },
   {
-   "anno": 124,
-   "note": "colophon field"
+   "boxes": [
+    237
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Why Taking CoQ10 is Not Enough",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
   },
   {
-   "anno": 126,
-   "note": "colophon field"
+   "boxes": [
+    243
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Science Confirms the Many Benefits of PQQ",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
   },
   {
-   "anno": 128,
-   "note": "colophon field"
+   "boxes": [
+    249
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Will Ultra Accel Q Multiply Your Energy?",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
   },
   {
-   "anno": 130,
-   "note": "colophon field"
-  },
-  {
-   "anno": 228,
-   "note": "paid advertisement"
-  },
-  {
-   "anno": 237,
-   "note": "paid advertisement"
-  },
-  {
-   "anno": 243,
-   "note": "paid advertisement"
-  },
-  {
-   "anno": 249,
-   "note": "paid advertisement"
-  },
-  {
-   "anno": 257,
-   "note": "paid advertisement"
+   "boxes": [
+    257
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "How To Get Ultra Accel Q",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
   }
  ],
  "repeats": [
   {
-   "anno": 120,
-   "of": 6
+   "boxes": [
+    120
+   ],
+   "of": 6,
+   "why": "masthead name restated as the colophon box title"
   },
   {
-   "anno": 132,
-   "of": 58
-  },
-  {
-   "anno": 199,
-   "of": 58
+   "boxes": [
+    132,
+    199
+   ],
+   "of": 58,
+   "why": "running section tag NEWS on the following pages"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 34,
+   "why": "deck of the photo story (second line under the photo). OPEN: borderline"
+  },
+  {
+   "box": 122,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 124,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 126,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 128,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 130,
+   "why": "colophon field label (contact box)"
+  }
+ ],
+ "considered": []
 }

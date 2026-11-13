@@ -1,197 +1,304 @@
 {
  "doc": "manualGuide_chn_bf4b003e",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
-   "level": 1,
-   "parent": "root",
-   "text": "用户手册 FORIS FS2331 彩色液晶显示器",
-   "merge": [
+   "boxes": [
+    1,
     2,
     3
    ],
-   "note": "manual type + product/model lines merged"
+   "level": 1,
+   "parent": "root",
+   "text": "用户手册 FORIS® FS2331 彩色液晶显示器",
+   "why": "title union: document type 用户手册 + product model FORIS FS2331 + product type 彩色液晶显示器 on the cover Breadcrumb review r3: OCR \"?\" replaced by the printed ®."
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
-   "text": "警告声明的位置"
+   "text": "警告声明的位置",
+   "why": "front matter: section title (warning label location) at the top-section level"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 1,
-   "text": "有关此显示器的注意事项"
+   "text": "有关此显示器的注意事项",
+   "why": "front matter: precautions section (TOC lists it under the cover)"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 1,
-   "text": "清洁"
+   "text": "清洁",
+   "why": "front matter: cleaning section"
   },
   {
-   "anno": 36,
-   "level": 5,
+   "boxes": [
+    36
+   ],
+   "level": 3,
    "parent": 31,
    "text": "面板",
-   "note": "● level (L5 throughout); levels skip where no chapter/section/subhead is printed"
+   "why": "subsection: ● item with its own bullets under 清洁; breadcrumb review r2: OCR bullet markup removed from the node text"
   },
   {
-   "anno": 39,
-   "level": 5,
+   "boxes": [
+    39
+   ],
+   "level": 3,
    "parent": 31,
-   "text": "机壳"
+   "text": "机壳",
+   "why": "subsection: ● item"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 1,
-   "text": "舒适地使用显示器"
+   "text": "舒适地使用显示器",
+   "why": "front matter: section with its own bullets"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 2,
    "parent": 1,
-   "text": "目录"
+   "text": "目录",
+   "why": "contents title"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第 1 章 介绍"
+   "text": "第1章 介绍",
+   "why": "chapter: 第1章 band"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 50,
-   "text": "1-1. 特征"
+   "text": "1-1. 特征",
+   "why": "section: 1-1. numbered heading"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 3,
    "parent": 50,
-   "text": "1-2. 控制和功能"
+   "text": "1-2. 控制和功能",
+   "why": "section: 1-2."
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 4,
    "parent": 82,
-   "text": "显示器"
+   "text": "显示器",
+   "why": "subhead: grey-rule subhead over the monitor figure and table"
   },
   {
-   "anno": 90,
+   "boxes": [
+    90
+   ],
    "level": 4,
    "parent": 82,
-   "text": "遥控器"
+   "text": "遥控器",
+   "why": "subhead: grey-rule subhead over the remote figure and table"
   },
   {
-   "anno": 93,
+   "boxes": [
+    93
+   ],
    "level": 5,
    "parent": 90,
-   "text": "在使用遥控器之前"
+   "text": "在使用遥控器之前",
+   "why": "item heading: ● item under the remote subhead (TOC: under 1-2); breadcrumb review r2: OCR bullet markup removed from the node text"
   },
   {
-   "anno": 94,
+   "boxes": [
+    94
+   ],
    "level": 6,
    "parent": 93,
-   "text": "如何安装电池"
+   "text": "如何安装电池",
+   "why": "minor heading: own-line head with its steps"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 6,
    "parent": 93,
-   "text": "遥控器的接收范围"
+   "text": "遥控器的接收范围",
+   "why": "minor heading: own-line head with its figure"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 3,
    "parent": 50,
-   "text": "1-3. EIZO LCD Utility Disk"
+   "text": "1-3. EIZO LCD Utility Disk",
+   "why": "section: 1-3."
   },
   {
-   "anno": 108,
-   "level": 5,
+   "boxes": [
+    108
+   ],
+   "level": 4,
    "parent": 106,
-   "text": "光盘内容和软件概述"
+   "text": "光盘内容和软件概述",
+   "why": "item heading: ● item directly under 1-3 (no subhead printed; levels do not skip); breadcrumb review r2: OCR bullet markup removed from the node text"
   },
   {
-   "anno": 111,
-   "level": 5,
+   "boxes": [
+    111
+   ],
+   "level": 4,
    "parent": 106,
-   "text": "使用“ScreenManager Pro for LCD (DDC/CI)/EIZO ScreenSlicer”"
+   "text": "使用“ScreenManager Pro for LCD (DDC/CI)/EIZO ScreenSlicer”",
+   "why": "item heading: ● item; breadcrumb review r2: OCR bullet markup removed from the node text"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 3,
    "parent": 50,
-   "text": "1-4. 基本操作和功能"
+   "text": "1-4. 基本操作和功能",
+   "why": "section: 1-4."
   },
   {
-   "anno": 116,
-   "level": 5,
+   "boxes": [
+    116
+   ],
+   "level": 4,
    "parent": 115,
-   "text": "设定菜单的基本操作"
+   "text": "设定菜单的基本操作",
+   "why": "item heading: ● item directly under 1-4; breadcrumb review r2: OCR bullet markup removed from the node text"
   },
   {
-   "anno": 117,
-   "level": 6,
-   "parent": 116,
-   "text": "1. 显示设定菜单"
-  },
-  {
-   "anno": 120,
-   "level": 6,
-   "parent": 116,
-   "text": "2. 调节/设定"
-  },
-  {
-   "anno": 126,
-   "level": 6,
-   "parent": 116,
-   "text": "3. 退出"
-  },
-  {
-   "anno": 131,
+   "boxes": [
+    117
+   ],
    "level": 5,
+   "parent": 116,
+   "text": "1. 显示设定菜单",
+   "why": "step heading: big numbered step with its sub-steps"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 5,
+   "parent": 116,
+   "text": "2. 调节/设定",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 5,
+   "parent": 116,
+   "text": "3.退出",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 4,
    "parent": 115,
-   "text": "功能"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 4,
-   "note": "grey callout box label \"重要\" (Important)"
-  },
-  {
-   "anno": 32,
-   "note": "callout label 注意"
-  },
-  {
-   "anno": 34,
-   "note": "callout label 注"
+   "text": "功能",
+   "why": "item heading: ● item with the menu table; breadcrumb review r2: OCR bullet markup removed from the node text"
   }
  ],
  "repeats": [
   {
-   "anno": 88,
-   "of": 50
+   "boxes": [
+    48
+   ],
+   "of": 45,
+   "why": "repeat: running footer naming the contents section"
   },
   {
-   "anno": 105,
-   "of": 50
+   "boxes": [
+    81
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 113,
-   "of": 50
+   "boxes": [
+    88
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 130,
-   "of": 50
+   "boxes": [
+    105
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
   },
   {
-   "anno": 137,
-   "of": 50
+   "boxes": [
+    113
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "of": 50,
+   "why": "repeat: running footer naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "callout: 重要 grey box label"
+  },
+  {
+   "box": 32,
+   "why": "callout: 注意 label"
+  },
+  {
+   "box": 34,
+   "why": "callout: 注 label"
+  }
+ ],
+ "considered": [
+  {
+   "box": 8,
+   "why": "brand logo: text"
   }
  ]
 }

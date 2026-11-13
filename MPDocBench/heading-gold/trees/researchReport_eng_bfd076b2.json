@@ -1,50 +1,86 @@
 {
  "doc": "researchReport_eng_bfd076b2",
- "notation": "researchReport (English economics note): L1 headline (series kicker Japan Economics Analyst shares the box and is text); the headline restated above the body is text; L2 parts, L3 numbered/sub sections, L4 their subheads.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2023 Outlook: Focus on Wage Growth and BOJ Leadership Change",
-   "note": "the box also holds the series kicker"
+   "text": "Goldman Sachs Japan Economics Analyst 2023 Outlook: Focus on Wage Growth and BOJ Leadership Change",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Japan Economics Analyst 2023 Outlook: Focus on Wage Growth and BOJ Leadership Change)."
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Global Economic Outlook"
+   "parent": 2,
+   "text": "Global Economic Outlook",
+   "why": "section: body section"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 16,
-   "text": "Further Slowdown Expected in 2023"
+   "text": "Further Slowdown Expected in 2023",
+   "why": "section: subsection"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Japan's Economic Outlook"
+   "parent": 2,
+   "text": "Japan's Economic Outlook",
+   "why": "section: body section"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 30,
-   "text": "1. Executive Summary"
+   "text": "1. Executive Summary",
+   "why": "section: numbered subsection"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 4,
    "parent": 31,
-   "text": "Softening External Demand a Drag, but Reopening and Robust Capex to Maintain Above-Potential Growth"
+   "text": "Softening External Demand a Drag, but Reopening and Robust Capex to Maintain Above-Potential Growth",
+   "why": "section: subhead under 1."
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 2,
+   "why": "repeat: headline restated at the top of the body"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 15,
-   "of": 4
-  }
- ]
+ "considered": []
 }

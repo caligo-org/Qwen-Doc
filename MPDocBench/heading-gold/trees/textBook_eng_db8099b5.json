@@ -1,63 +1,86 @@
 {
  "doc": "textBook_eng_db8099b5",
- "notation": "textBook-v2: L1 title (first printed on the repository cover sheet); L2 prefaces; L3 preface subsection. Repository cover-sheet blocks, the repeated cover sheet and the project/author line are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
    "text": "Calculus in Context",
-   "note": "title on the repository cover sheet (first occurrence)"
+   "why": "title: book title printed on the repository cover sheet"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 6,
-   "text": "Preface: 2008 edition"
+   "text": "Preface: 2008 edition",
+   "why": "front matter: Preface 2008 edition"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 2,
    "parent": 6,
-   "text": "Preface: 1994 edition"
+   "text": "Preface: 1994 edition",
+   "why": "front matter: Preface 1994 edition"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 61,
-   "text": "Starting Points"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 16,
-   "note": "repository cover-sheet block label (Recommended Citation)"
-  },
-  {
-   "anno": 19,
-   "note": "repository cover-sheet block label (Authors list)"
-  },
-  {
-   "anno": 37,
-   "note": "repeated cover-sheet block label"
-  },
-  {
-   "anno": 40,
-   "note": "repeated cover-sheet block label"
-  },
-  {
-   "anno": 44,
-   "note": "project/author-group line under the title (The Five College Calculus Project)"
+   "text": "Starting Points",
+   "why": "preface subsection over its bullet list"
   }
  ],
  "repeats": [
   {
-   "anno": 27,
-   "of": 6
+   "boxes": [
+    27
+   ],
+   "of": 6,
+   "why": "repeat: second copy of the cover sheet restates the title"
   },
   {
-   "anno": 43,
-   "of": 6
+   "boxes": [
+    43
+   ],
+   "of": 6,
+   "why": "repeat: the book title page restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 16,
+   "why": "repository cover-sheet metadata label (citation / author list): cover-sheet text, not part of the book outline"
+  },
+  {
+   "box": 19,
+   "why": "repository cover-sheet metadata label (citation / author list): cover-sheet text, not part of the book outline"
+  },
+  {
+   "box": 37,
+   "why": "repository cover-sheet metadata label (citation / author list): cover-sheet text, not part of the book outline"
+  },
+  {
+   "box": 40,
+   "why": "repository cover-sheet metadata label (citation / author list): cover-sheet text, not part of the book outline"
+  },
+  {
+   "box": 44,
+   "why": "project/author-group line under the title page title: byline, text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 51,
+   "why": "committee label over a list of names: list of names, text"
   }
  ]
 }

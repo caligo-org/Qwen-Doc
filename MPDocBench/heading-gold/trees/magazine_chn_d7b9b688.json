@@ -1,83 +1,104 @@
 {
  "doc": "magazine_chn_d7b9b688",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "知音",
-   "note": "masthead"
+   "why": "title: periodical masthead 知音"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 2,
    "text": "目录",
-   "note": "contents title (box also holds the logo and the issue line)"
+   "why": "contents title 目录 (logo and issue line in the same box are text)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
    "parent": 2,
    "text": "定坝“神针”53载搏风击浪：浩浩南水，汤汤北上",
-   "note": "article; section (中国力量 in the TOC) not printed, directly under the masthead"
+   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 48,
-   "text": "奋斗青春：搏风击浪汉江畔"
+   "text": "奋斗青春：搏风击浪汉江畔",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 48,
-   "text": "定坝“神针”：临近退休再担重任"
+   "text": "定坝“神针”：临近退休再担重任",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 3,
    "parent": 48,
-   "text": "余热生辉：割舍不掉的“水利”情"
+   "text": "余热生辉：割舍不掉的“水利”情",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 2,
    "parent": 2,
    "text": "长久的婚姻，都是势均力敌",
-   "note": "editorial headline (laid out as a figure) opening 本刊视点; no tag on its page"
+   "why": "feature headline (laid out as a figure) in the section slot: the contents lists it as the 本刊视点 feature (p8, next entry p17), so the case stories on the following pages belong to it"
   },
   {
-   "anno": 132,
-   "level": 2,
-   "parent": 2,
-   "text": "本刊视点",
-   "note": "running section tag 本刊视点, first printed on p9"
-  },
-  {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 3,
-   "parent": 132,
-   "text": "作精遇到“程序猿”，一场大病复活爱"
+   "parent": 122,
+   "text": "作精遇到“程序猿”，一场大病复活爱",
+   "why": "case story headline inside the 长久的婚姻 feature (contents lists the feature only, p8-16); breadcrumb 知音 › 长久的婚姻… › case"
   },
   {
-   "anno": 138,
+   "boxes": [
+    138
+   ],
    "level": 4,
    "parent": 136,
-   "text": "苦恼婚姻：作精遇到“程序猿”"
+   "text": "苦恼婚姻：作精遇到“程序猿”",
+   "why": "in-story subhead with its block"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 28,
-   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+   "box": 28,
+   "why": "house-ad box (new-media accounts with QR codes) beside the contents"
   },
   {
-   "anno": 45,
-   "note": "colophon notice (本刊声明)"
+   "box": 45,
+   "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 132,
+   "why": "section tag 本刊视点 first printed on p9, after the opener of the same feature 长久的婚姻… (contents: 本刊视点 › 长久的婚姻 p8); the feature holds the L2 slot (magazine rule)"
+  }
+ ]
 }

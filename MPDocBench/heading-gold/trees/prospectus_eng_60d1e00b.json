@@ -1,273 +1,470 @@
 {
  "doc": "prospectus_eng_60d1e00b",
- "notation": "prospectus-v2: L1 cover document title (Sales Prospectus); fund name text. L2 Contents and numbered chapters; L3 fund-group headings (larger bold) and, before the first group, the chapter's bold subheads (Investment Objective ... Reference Currency); L4 sub-fund headings under each group.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Sales Prospectus"
+   "text": "Credit Suisse Equity Fund (Lux) Sales Prospectus",
+   "why": "title union: fund (owner) + document type Sales Prospectus"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Contents"
+   "parent": 2,
+   "text": "Contents",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "1. Information for Prospective Investors"
+   "parent": 2,
+   "text": "1. Information for Prospective Investors",
+   "why": "numbered chapter 1."
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "2. Credit Suisse Equity Fund (Lux) - Summary of Unit Classes (1)"
+   "parent": 2,
+   "text": "2. Credit Suisse Equity Fund (Lux) - Summary of Unit Classes (1)",
+   "why": "numbered chapter 2. with its summary table"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "3. The Fund"
+   "parent": 2,
+   "text": "3. The Fund",
+   "why": "numbered chapter 3."
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "4. Investment Principles"
+   "parent": 2,
+   "text": "4. Investment Principles",
+   "why": "numbered chapter 4. with general subheads and fund groups"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 60,
    "text": "Investment Objective",
-   "note": "bold subhead directly under chapter 4 (same face as sub-fund names, but no group heading above it)"
+   "why": "general subhead of chapter 4 (not part of a fund group): one level below the chapter"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Investment Policy"
+   "text": "Investment Policy",
+   "why": "general subhead of chapter 4"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 3,
    "parent": 60,
-   "text": "General Investment Suitability"
+   "text": "General Investment Suitability",
+   "why": "general subhead of chapter 4"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Risk Profile"
+   "text": "Risk Profile",
+   "why": "general subhead of chapter 4"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Reference Currency"
+   "text": "Reference Currency",
+   "why": "general subhead of chapter 4"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 3,
    "parent": 60,
    "text": "Country and Regional Funds - \"Developed Markets\"",
-   "note": "fund-group heading (larger bold)"
+   "why": "fund-group heading (larger face) with its sub-fund entries"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 4,
    "parent": 76,
-   "text": "Credit Suisse Equity Fund (Lux) European Blue Chips Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) European Blue Chips Aberdeen",
+   "why": "sub-fund name heading with its paragraph, under its group"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 4,
    "parent": 76,
-   "text": "Credit Suisse Equity Fund (Lux) Italy"
+   "text": "Credit Suisse Equity Fund (Lux) Italy",
+   "why": "sub-fund name heading with its paragraph"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 4,
    "parent": 76,
-   "text": "Credit Suisse Equity Fund (Lux) Japan Megatrend Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Japan Megatrend Aberdeen",
+   "why": "sub-fund name heading with its paragraph"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 4,
    "parent": 76,
-   "text": "Credit Suisse Equity Fund (Lux) USA"
+   "text": "Credit Suisse Equity Fund (Lux) USA",
+   "why": "sub-fund name heading with its paragraph"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Country and Regional Funds - \"Small and Mid Caps\""
+   "text": "Country and Regional Funds - \"Small and Mid Caps\"",
+   "why": "fund-group heading with its sub-fund entries"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 4,
    "parent": 87,
-   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Germany"
+   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Germany",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 92,
+   "boxes": [
+    92
+   ],
    "level": 4,
    "parent": 87,
-   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Europe"
+   "text": "Credit Suisse Equity Fund (Lux) Small and Mid Cap Europe",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 4,
    "parent": 87,
-   "text": "Credit Suisse Equity Fund (Lux) Small Cap Japan Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Small Cap Japan Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 4,
    "parent": 87,
-   "text": "Credit Suisse Equity Fund (Lux) Small Cap USA"
+   "text": "Credit Suisse Equity Fund (Lux) Small Cap USA",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Global and Regional Funds - \"Developing Markets\""
+   "text": "Global and Regional Funds - \"Developing Markets\"",
+   "why": "fund-group heading with its sub-fund entries"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Asian Tigers Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Asian Tigers Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Brazil"
+   "text": "Credit Suisse Equity Fund (Lux) Brazil",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 110,
+   "boxes": [
+    110
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Convergence Europe Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Convergence Europe Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 114,
+   "boxes": [
+    114
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Eastern Europe Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Eastern Europe Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Emerging Markets Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Emerging Markets Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Greater China Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Greater China Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Latin America Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Latin America Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 4,
    "parent": 101,
-   "text": "Credit Suisse Equity Fund (Lux) Russia Explorer Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Russia Explorer Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Global Sector Funds"
+   "text": "Global Sector Funds",
+   "why": "fund-group heading with its sub-fund entries"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Future Energy Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Future Energy Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 140,
+   "boxes": [
+    140
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Global Biotech Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Global Biotech Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Global Communications Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Global Communications Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Global InfoTech Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Global InfoTech Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 152,
+   "boxes": [
+    152
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Global Prestige"
+   "text": "Credit Suisse Equity Fund (Lux) Global Prestige",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Global Resources Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Global Resources Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 4,
    "parent": 128,
-   "text": "Credit Suisse Equity Fund (Lux) Infrastructure Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Infrastructure Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 162,
+   "boxes": [
+    162
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Real estate equity funds"
+   "text": "Real estate equity funds",
+   "why": "fund-group heading with its sub-fund entries"
   },
   {
-   "anno": 165,
+   "boxes": [
+    165
+   ],
    "level": 4,
    "parent": 162,
-   "text": "Credit Suisse Equity Fund (Lux) Asian Property Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Asian Property Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 173,
+   "boxes": [
+    173
+   ],
    "level": 4,
    "parent": 162,
-   "text": "Credit Suisse Equity Fund (Lux) European Property"
+   "text": "Credit Suisse Equity Fund (Lux) European Property",
+   "why": "sub-fund name heading with its paragraphs"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Other Equity Funds"
+   "text": "Other Equity Funds",
+   "why": "fund-group heading with its sub-fund entries"
   },
   {
-   "anno": 180,
+   "boxes": [
+    180
+   ],
    "level": 4,
    "parent": 179,
-   "text": "Credit Suisse Equity Fund (Lux) Dividend Europe Aberdeen"
+   "text": "Credit Suisse Equity Fund (Lux) Dividend Europe Aberdeen",
+   "why": "sub-fund name heading with its paragraphs"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 2,
-   "note": "fund (issuer) name on cover"
+   "boxes": [
+    6
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "of": 2,
+   "why": "running head: fund name + legal form restates the title owner"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "legal form line under the fund name on the cover: text"
+  },
+  {
+   "box": 1,
+   "why": "brand logo on the cover: text"
+  }
+ ]
 }

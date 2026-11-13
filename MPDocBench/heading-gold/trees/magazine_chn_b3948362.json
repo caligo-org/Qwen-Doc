@@ -1,58 +1,68 @@
 {
  "doc": "magazine_chn_b3948362",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "知音",
-   "note": "masthead"
+   "why": "title: periodical masthead 知音"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 2,
    "text": "目录",
-   "note": "contents title (box also holds the logo and the issue line)"
+   "why": "contents title 目录 (logo and issue line in the same box are text)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 2,
    "text": "中国速度",
-   "note": "editorial opening the 中国力量 series; no section tag on its page, so directly under the masthead"
+   "why": "feature headline in the section slot: the contents lists it as the feature of 中国力量 — 中华人民共和国成立75周年系列征文 (p4, next entry p10), so the story on p5 belongs to it"
   },
   {
-   "anno": 58,
-   "level": 2,
-   "parent": 2,
-   "text": "中华人民共和国成立75周年系列征文",
-   "note": "running section tag of the series (first printed on p5)"
-  },
-  {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
-   "parent": 58,
-   "text": "高铁“神驭手”追风掣电： 匠心驭龙毫厘必争"
+   "parent": 47,
+   "text": "高铁“神驭手”追风掣电： 匠心驭龙毫厘必争",
+   "why": "story headline inside the 中国速度 feature (contents lists the feature only, p4-9); breadcrumb 知音 › 中国速度 › story"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 4,
    "parent": 60,
-   "text": "见证“中国速度”，爱情不早不迟刚好"
+   "text": "见证“中国速度”，爱情不早不迟刚好",
+   "why": "in-story subhead with its block"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 27,
-   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+   "box": 27,
+   "why": "house-ad box (new-media accounts with QR codes) beside the contents"
   },
   {
-   "anno": 44,
-   "note": "colophon notice (本刊声明)"
+   "box": 44,
+   "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 58,
+   "why": "series tag first printed on p5, after the opener of the same feature 中国速度 (contents: 中华人民共和国成立75周年系列征文 › 中国速度 p4); the feature holds the L2 slot (magazine rule)"
+  }
+ ]
 }

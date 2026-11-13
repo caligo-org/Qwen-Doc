@@ -1,103 +1,153 @@
 {
  "doc": "researchReport_chn_25d1b14f",
- "notation": "researchReport (industry weekly): L1 headline with its ——series subtitle; cover summary heading lines (● 周观点, ● 保险：, ● 券商：, ● 受益标的组合) are L2 (same look); 目录 and numbered chapters L2; their sub-lines L3. Industry label and related-reports box are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 1,
    "parent": "root",
-   "text": "3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报"
+   "text": "3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报",
+   "why": "title: headline + ——非银金融行业周报 report type in one title box"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 16,
-   "text": "● 周观点：非银3季报符合预期，继续看好保险股投资机会",
-   "note": "cover summary heading line"
+   "text": "周观点：非银3季报符合预期，继续看好保险股投资机会",
+   "why": "cover summary: own-line bullet heading with its paragraph (no summary title printed)"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 16,
    "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期",
-   "note": "same look as #18 on the cover"
+   "why": "cover summary: own-line bullet heading, same look as #18"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": 16,
-   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期"
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期",
+   "why": "cover summary: own-line bullet heading, same look as #18"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 16,
-   "text": "\\(\\bullet\\) 受益标的组合："
+   "text": "受益标的组合：",
+   "why": "cover summary: own-line label naming the list below it"
   },
   {
-   "anno": 31,
+   "boxes": [
+    26
+   ],
    "level": 2,
    "parent": 16,
-   "text": "目录"
+   "text": "风险提示",
+   "why": "run-in label in a mixed box (label + statement): node text is the label only (NOTATIONS breadcrumb rule); closes 受益标的组合, which the risk statement is not about (containment)"
   },
   {
-   "anno": 37,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 16,
-   "text": "1、一周观点：非银3季报符合预期，继续看好保险股投资机会"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 39,
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "1、一周观点：非银3季报符合预期，继续看好保险股投资机会",
+   "why": "section: chapter 1、"
+  },
+  {
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 37,
-   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期"
+   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期",
+   "why": "section: own-line subheading under 1、"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 37,
-   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期"
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期",
+   "why": "section: own-line subheading under 1、"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 37,
-   "text": "受益标的组合："
+   "text": "受益标的组合：",
+   "why": "label heading: own-line label with its list block"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 16,
-   "text": "2、市场回顾：A股整体下跌，非银板块跑输指数"
+   "text": "2、市场回顾：A股整体下跌，非银板块跑输指数",
+   "why": "section: chapter 2、"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 2,
    "parent": 16,
-   "text": "3、数据追踪：融券余额破千亿，占两融比重持续攀升"
+   "text": "3、数据追踪：融券余额破千亿，占两融比重持续攀升",
+   "why": "section: chapter 3、"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 2,
    "parent": 16,
-   "text": "4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排"
+   "text": "4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排",
+   "why": "section: chapter 4、"
   },
   {
-   "anno": 99,
+   "boxes": [
+    99
+   ],
    "level": 3,
    "parent": 98,
-   "text": "\\(\\bullet\\) 行业要闻："
+   "text": "行业要闻：",
+   "why": "label heading: own-line label 行业要闻 with its news block"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 6,
-   "note": "industry label on the cover"
+   "box": 6,
+   "why": "industry banner on the cover (category tag): text"
   },
   {
-   "anno": 12,
-   "note": "related-reports list title"
+   "box": 12,
+   "why": "related-reports list label: text per category note"
   }
  ],
- "repeats": []
+ "considered": []
 }

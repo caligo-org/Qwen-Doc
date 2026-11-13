@@ -1,86 +1,145 @@
 {
  "doc": "manualGuide_eng_8cb5bbc3",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    2,
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "air-o-convect Touchline Electric Convection Oven 6GN 1/1",
-   "note": "product title under the photo (the boxed header #3 repeats it)"
+   "text": "Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1",
+   "why": "title union: owner logo header box #2 (Electrolux) + product name of the spec sheet (no document type printed). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: air-o-convect Touchline Electric Convection Oven 6GN 1/1)."
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "Short Form Specification"
+   "parent": 2,
+   "text": "Short Form Specification",
+   "why": "section: grey band head"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "Main Features"
+   "parent": 2,
+   "text": "Main Features",
+   "why": "section: bold head with its feature list"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "Construction"
+   "parent": 2,
+   "text": "Construction",
+   "why": "section: bold head"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "Optional Accessories"
-  },
-  {
-   "anno": 50,
-   "level": 2,
-   "parent": 6,
-   "text": "Electric",
-   "note": "grey-band spec section, same look as Short Form Specification; not part of Optional Accessories"
-  },
-  {
-   "anno": 52,
-   "level": 2,
-   "parent": 6,
-   "text": "Water:"
-  },
-  {
-   "anno": 56,
-   "level": 2,
-   "parent": 6,
-   "text": "Installation:"
-  },
-  {
-   "anno": 58,
-   "level": 2,
-   "parent": 6,
-   "text": "Capacity:"
-  },
-  {
-   "anno": 60,
-   "level": 2,
-   "parent": 6,
-   "text": "Key Information:"
-  },
-  {
-   "anno": 67,
-   "level": 2,
-   "parent": 6,
+   "parent": 2,
    "text": "Optional Accessories",
-   "continues": 41,
-   "note": "Optional Accessories resumed on page 3"
+   "why": "section: bold head over the accessories list"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Electric",
+   "why": "section: grey band spec head (same role as the page-1 sections)"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Water:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Installation:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Capacity:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Key Information:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Optional Accessories",
+   "why": "continuation: Optional Accessories resumes on p3 after the p2 spec sections",
+   "continues": 41
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    44
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 48,
-   "of": 6
+   "box": 3,
+   "why": "page-1 header band with the product name, before the title in reading order: text"
   },
   {
-   "anno": 66,
-   "of": 6
+   "box": 16,
+   "why": "form field APPROVAL: text"
+  },
+  {
+   "box": 12,
+   "why": "form field Item No.: text"
   }
  ]
 }

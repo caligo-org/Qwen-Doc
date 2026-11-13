@@ -1,169 +1,315 @@
 {
  "doc": "prospectus_chn_cf5aeb95",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections; L3 一、; L4 （一）; L5 1、. Cover issuer name/English name/address/sponsor are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    3,
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票招股说明书"
+   "text": "宿迁联盛科技股份有限公司 首次公开发行股票招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "本次发行概况"
+   "parent": 3,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "发行人声明"
+   "parent": 3,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
-   "parent": 6,
-   "text": "重大事项提示"
+   "parent": 3,
+   "text": "重大事项提示",
+   "why": "front matter section 重大事项提示 with numbered sections"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 27,
-   "text": "一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺"
+   "text": "一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺",
+   "why": "section 一、 with its （一） subsections"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 4,
    "parent": 29,
    "text": "（一）实际控制人项瞻波、王小红夫妇及控股股东联拓控股承诺",
-   "note": "bold (一) heading line, missed by gold"
+   "why": "（一） bold own-line subsection with its numbered commitments (tagged text_block)"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 4,
    "parent": 29,
    "text": "（二）实际控制人项瞻波、王小红的亲属王宝光、项有智、王秀云、王桂芬、王莲钗、张作晓、王奕仁、王馨禾、王红专、王侃、吴丽芬、项光华、项怀獬、项小霞、孙作席及联宏合伙承诺",
-   "note": "bold (二) heading line, missed by gold"
+   "why": "（二） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 4,
    "parent": 29,
    "text": "（三）持股 5%以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺",
-   "note": "bold (三), missed by gold"
+   "why": "（三） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 4,
    "parent": 29,
    "text": "（四）最近一年新增股东国发新兴二期、高投毅达、招商招银、永达资产、中银资本、方源创盈、国发盈辰、国发盈嘉承诺",
-   "note": "bold (四), missed by gold"
+   "why": "（四） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 4,
    "parent": 29,
    "text": "（五）间接持有公司股份的董事、高级管理人员林俊义、缪克汤、项有和、李利、谢龙锐承诺",
-   "note": "bold (五), missed by gold"
+   "why": "（五） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 4,
    "parent": 29,
    "text": "（六）间接持有公司股份的监事梁小龙、陈瑾琨承诺",
-   "note": "bold (六), missed by gold"
+   "why": "（六） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 4,
    "parent": 29,
    "text": "（七）其他股东联恒合伙、联拓合伙、联发合伙、王永昌承诺",
-   "note": "bold (七), missed by gold"
+   "why": "（七） bold own-line subsection with its commitments (tagged text_block)"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 3,
    "parent": 27,
-   "text": "二、发行前持股 \\(5\\%\\) 以上股东的持股意向及减持意向"
+   "text": "二、发行前持股 \\(5\\%\\) 以上股东的持股意向及减持意向",
+   "why": "section 二、 with its （一） subsections"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 74,
-   "text": "（一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 \\(5\\%\\) 以上股东王宝光承诺"
+   "text": "（一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 \\(5\\%\\) 以上股东王宝光承诺",
+   "why": "（一） subsection with its paragraphs"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 4,
    "parent": 74,
-   "text": "（二）持股 5% 以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺"
+   "text": "（二）持股 5% 以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺",
+   "why": "（二） subsection with its paragraphs"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 3,
    "parent": 27,
-   "text": "三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺"
+   "text": "三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺",
+   "why": "section 三、 with its （一） subsections"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 4,
    "parent": 85,
-   "text": "（一）启动股价稳定措施的具体条件"
+   "text": "（一）启动股价稳定措施的具体条件",
+   "why": "（一） subsection with its paragraph"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 4,
    "parent": 85,
-   "text": "（二）稳定股价的具体措施和程序"
+   "text": "（二）稳定股价的具体措施和程序",
+   "why": "（二） subsection with its paragraph and list"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 4,
    "parent": 85,
-   "text": "（三）股价稳定措施的具体实施方案"
+   "text": "（三）股价稳定措施的具体实施方案",
+   "why": "（三） subsection with its 1、 sub-subsections"
   },
   {
-   "anno": 99,
+   "boxes": [
+    99
+   ],
    "level": 5,
    "parent": 98,
-   "text": "1、公司实施股票回购"
+   "text": "1、公司实施股票回购",
+   "why": "1、 bold own-line label with its paragraphs"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 5,
    "parent": 98,
-   "text": "2、控股股东、实际控制人增持公司股份"
+   "text": "2、控股股东、实际控制人增持公司股份",
+   "why": "2、 bold own-line label with its paragraphs"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 5,
    "parent": 98,
-   "text": "3、公司非独立董事、高级管理人员增持公司股份"
+   "text": "3、公司非独立董事、高级管理人员增持公司股份",
+   "why": "3、 bold own-line label with its paragraphs"
   },
   {
-   "anno": 129,
-   "level": 5,
-   "parent": 98,
-   "text": "4、在股价稳定措施实施期间内，如公司股票连续5个交易日收盘价高于每股净资产时，将停止实施稳定股价措施。",
-   "note": "bold 4、 sentence printed like its 1、-3、 siblings"
-  },
-  {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 4,
    "parent": 85,
-   "text": "（四）发行人、控股股东、实际控制人、董事及高级管理人员关于稳定股价的承诺"
+   "text": "（四）发行人、控股股东、实际控制人、董事及高级管理人员关于稳定股价的承诺",
+   "why": "（四） subsection with its paragraphs"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    15,
+    16
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    25,
+    26
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    36,
+    37
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    45,
+    46
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    57,
+    58
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    66,
+    67
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    79,
+    80
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    92,
+    93
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    108,
+    109
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    119,
+    120
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "issuer name on cover"
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
   },
   {
-   "anno": 4,
-   "note": "issuer English name on cover"
+   "box": 129,
+   "why": "4、 bold rule sentence with no block of its own before （四） (substance): text"
   }
  ],
- "repeats": []
+ "considered": []
 }

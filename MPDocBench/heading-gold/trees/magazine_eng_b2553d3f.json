@@ -1,30 +1,41 @@
 {
  "doc": "magazine_eng_b2553d3f",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "MOTION",
-   "note": "masthead"
+   "why": "title: periodical masthead MOTION (tagline A Dance Collective is text)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 1,
    "text": "Shannon Beauclair",
-   "note": "intro page headed by the photographer's name (the page's title)"
+   "why": "page title: photographer's intro page headed by her name, her statement below"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 1,
    "text": "CAPTURE THE MOMENT",
-   "note": "page title"
+   "why": "page title: group-photo page with its thank-you text"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 11,
+   "why": "series name line under the name, a deck to the statement: text"
+  }
+ ]
 }

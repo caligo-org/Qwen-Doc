@@ -1,37 +1,55 @@
 {
  "doc": "manualGuide_eng_a2fab9df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "PHARRELL WILLIAMS OVER THE MOON",
-   "note": "set name; LEGO logo is a figure"
+   "why": "title: set name on the cover (LEGO logo beside it is an image)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 3,
-   "text": "ÉVEILLER L'IMAGINATION"
+   "text": "ÉVEILLER L'IMAGINATION",
+   "why": "section: spread headline with its text block"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 3,
-   "text": "ENFLAMMER LA CRÉATIVITÉ"
+   "text": "ENFLAMMER LA CRÉATIVITÉ",
+   "why": "section: spread headline"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 3,
-   "text": "PROPULSÉ PAR LA CURIOSITÉ"
+   "text": "PROPULSÉ PAR LA CURIOSITÉ",
+   "why": "section: spread headline"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 9,
-   "note": "pull quote with attribution"
+   "box": 9,
+   "why": "pull quote with attribution: text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "spaced kicker above the headline: text"
+  }
+ ]
 }

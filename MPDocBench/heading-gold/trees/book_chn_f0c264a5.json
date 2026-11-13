@@ -1,245 +1,374 @@
 {
  "doc": "book_chn_f0c264a5",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "第九章 头颈部淋巴结和淋巴管",
-   "merge": [
-    2
-   ]
+   "why": "title union: chapter label + chapter title (chapter excerpt, the chapter is the document)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "提要"
+   "text": "提要",
+   "why": "chapter-level section (提要 summary box / 第x节)"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第一节 头面部淋巴结"
+   "text": "第一节 头面部淋巴结",
+   "why": "chapter-level section (提要 summary box / 第x节)"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 3,
    "parent": 15,
-   "text": "一、枕淋巴结"
+   "text": "一、枕淋巴结",
+   "why": "一、 level section"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 15,
-   "text": "二、耳后淋巴结"
+   "text": "二、耳后淋巴结",
+   "why": "一、 level section"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 3,
    "parent": 15,
-   "text": "三、腮腺淋巴结"
+   "text": "三、腮腺淋巴结",
+   "why": "一、 level section"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 4,
    "parent": 26,
-   "text": "（一）腮腺浅淋巴结"
+   "text": "（一）腮腺浅淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 4,
    "parent": 26,
-   "text": "（二）腮腺深淋巴结"
+   "text": "（二）腮腺深淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 15,
-   "text": "四、面淋巴结"
+   "text": "四、面淋巴结",
+   "why": "一、 level section"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第二节 颈部淋巴结"
+   "text": "第二节 颈部淋巴结",
+   "why": "chapter-level section (提要 summary box / 第x节)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 47,
-   "text": "一、I区淋巴结(LevelI）"
+   "text": "一、I区淋巴结(LevelI）",
+   "why": "一、 level section"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 4,
    "parent": 64,
-   "text": "（一）颏下淋巴结"
+   "text": "（一）颏下淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 4,
    "parent": 64,
-   "text": "（二）下颌下淋巴结"
+   "text": "（二）下颌下淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 3,
    "parent": 47,
-   "text": "二、Ⅱ区淋巴结（LevelⅡ）"
+   "text": "二、Ⅱ区淋巴结（LevelⅡ）",
+   "why": "一、 level section"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 3,
    "parent": 47,
-   "text": "三、Ⅲ区淋巴结（Level III）"
+   "text": "三、Ⅲ区淋巴结（Level III）",
+   "why": "一、 level section"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 47,
-   "text": "四、IV区淋巴结（Level IV）"
+   "text": "四、IV区淋巴结（Level IV）",
+   "why": "一、 level section"
   },
   {
-   "anno": 93,
+   "boxes": [
+    93
+   ],
    "level": 3,
    "parent": 47,
-   "text": "五、V区淋巴结(Level V)"
+   "text": "五、V区淋巴结(Level V)",
+   "why": "一、 level section"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 4,
    "parent": 93,
-   "text": "（一）副神经淋巴结"
+   "text": "（一）副神经淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 4,
    "parent": 93,
-   "text": "（二）锁骨上淋巴结"
+   "text": "（二）锁骨上淋巴结",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 47,
-   "text": "六、VI区淋巴结（Level VI）"
+   "text": "六、VI区淋巴结（Level VI）",
+   "why": "一、 level section"
   },
   {
-   "anno": 103,
+   "boxes": [
+    103
+   ],
    "level": 4,
    "parent": 101,
-   "text": "（一）颈前群"
+   "text": "（一）颈前群",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 127,
+   "boxes": [
+    127
+   ],
    "level": 4,
    "parent": 101,
-   "text": "（二）咽后群"
+   "text": "（二）咽后群",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第三节 颈淋巴干及淋巴导管"
+   "text": "第三节 颈淋巴干及淋巴导管",
+   "why": "chapter-level section (提要 summary box / 第x节)"
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 3,
    "parent": 136,
-   "text": "一、颈淋巴干"
+   "text": "一、颈淋巴干",
+   "why": "一、 level section"
   },
   {
-   "anno": 142,
+   "boxes": [
+    142
+   ],
    "level": 3,
    "parent": 136,
-   "text": "二、右淋巴导管"
+   "text": "二、右淋巴导管",
+   "why": "一、 level section"
   },
   {
-   "anno": 146,
+   "boxes": [
+    146
+   ],
    "level": 3,
    "parent": 136,
-   "text": "三、胸导管颈段"
+   "text": "三、胸导管颈段",
+   "why": "一、 level section"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组"
+   "text": "第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组",
+   "why": "chapter-level section (提要 summary box / 第x节)"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 3,
    "parent": 149,
-   "text": "一、颈深淋巴结的划分"
+   "text": "一、颈深淋巴结的划分",
+   "why": "一、 level section"
   },
   {
-   "anno": 156,
+   "boxes": [
+    156
+   ],
    "level": 3,
    "parent": 149,
-   "text": "二、头颈部淋巴结的传统分组"
+   "text": "二、头颈部淋巴结的传统分组",
+   "why": "一、 level section"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 4,
    "parent": 156,
-   "text": "（一）环形组淋巴结群"
+   "text": "（一）环形组淋巴结群",
+   "why": "（一） level subsection"
   },
   {
-   "anno": 163,
+   "boxes": [
+    163
+   ],
    "level": 4,
    "parent": 156,
-   "text": "（二）纵形组淋巴结群"
+   "text": "（二）纵形组淋巴结群",
+   "why": "（一） level subsection"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 11,
-   "of": 1
-  },
-  {
-   "anno": 20,
-   "of": 1
-  },
-  {
-   "anno": 31,
-   "of": 1
-  },
-  {
-   "anno": 50,
-   "of": 1
-  },
-  {
-   "anno": 61,
-   "of": 1
-  },
-  {
-   "anno": 78,
-   "of": 1
-  },
-  {
-   "anno": 92,
-   "of": 1
-  },
-  {
-   "anno": 111,
-   "of": 1
-  },
-  {
-   "anno": 125,
-   "of": 1
-  },
-  {
-   "anno": 140,
-   "of": 1
-  },
-  {
-   "anno": 155,
-   "of": 1
-  },
-  {
-   "anno": 167,
-   "of": 1
-  }
- ]
+ "considered": []
 }

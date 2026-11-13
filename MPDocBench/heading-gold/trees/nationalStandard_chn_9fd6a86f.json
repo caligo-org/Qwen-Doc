@@ -1,31 +1,41 @@
 {
  "doc": "nationalStandard_chn_9fd6a86f",
- "notation": "nationalStandard-v2: L1 standard title (English title merged); front/back matter titles (前言, 引言, 附录 A) and clause 1..n at L2; n.n L3; n.n.n L4; term entry = number + term (English equivalent included) as one node one level below 3; untitled numbered clauses (number + sentence) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "建筑施工机械与设备 通用安全要求 Building construction machinery and equipment—Common safety requirements"
+   "text": "建筑施工机械与设备 通用安全要求 Building construction machinery and equipment—Common safety requirements",
+   "why": "title: Chinese title + English title printed in one box"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 5,
-   "text": "目 次"
+   "text": "目 次",
+   "why": "front/back matter title at the level of the top clauses"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 5,
-   "text": "前言"
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line 中华人民共和国国家标准 (standard family label)"
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
   }
  ],
- "repeats": []
+ "considered": []
 }

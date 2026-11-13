@@ -1,77 +1,111 @@
 {
  "doc": "magazine_eng_757ea556",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "FUSION",
-   "note": "masthead (gold OCR FUSIOH)"
+   "why": "title: periodical masthead FUSION (gold OCR FUSIOH)"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 2,
    "text": "CONTENTS",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 2,
    "parent": 2,
    "text": "REVIEW",
-   "note": "section label REVIEW"
+   "why": "section: section label REVIEW"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 33,
-   "text": "CASEBOOK 1899 THE LEIPZIG-MURDERS"
+   "text": "CASEBOOK 1899 THE LEIPZIG-MURDERS",
+   "why": "story headline: review below"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 2,
    "parent": 2,
    "text": "In Good Faith",
-   "note": "opinion column title; no section printed"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 11,
-   "note": "masthead repeated over the colophon / editor's letter page"
+   "why": "story headline in the section slot: opinion column In Good Faith, its section is not printed and REVIEW is closed"
   }
  ],
  "repeats": [
   {
-   "anno": 10,
-   "of": 2
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   },
   {
-   "anno": 31,
-   "of": 2
+   "boxes": [
+    11
+   ],
+   "of": 2,
+   "why": "repeat: masthead restated over the colophon / editor's letter page (the letter has no heading of its own)"
   },
   {
-   "anno": 46,
-   "of": 2
+   "boxes": [
+    31
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   },
   {
-   "anno": 55,
-   "of": 2
+   "boxes": [
+    46
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   },
   {
-   "anno": 66,
-   "of": 2
+   "boxes": [
+    55
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   },
   {
-   "anno": 77,
-   "of": 2
+   "boxes": [
+    66
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   },
   {
-   "anno": 87,
-   "of": 2
+   "boxes": [
+    77
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
   }
- ]
+ ],
+ "not_headings": [],
+ "considered": []
 }

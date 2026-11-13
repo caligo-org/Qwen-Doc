@@ -1,85 +1,116 @@
 {
  "doc": "paper_chn_a8bfcf5f",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "2008 年盛夏黄河中游枯水气象成因分析",
-   "note": "box also holds the column label 【水文·泥沙】, left out of the text"
+   "why": "title: paper title (column label 【水文·泥沙】 in the same box left out of the text)"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1雨情"
+   "text": "1雨情",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 4,
-   "text": "2 水情"
+   "text": "2 水情",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 4,
-   "text": "3 环流特征"
+   "text": "3 环流特征",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 31,
-   "text": "3.1 西风带环流特点"
+   "text": "3.1 西风带环流特点",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 4,
    "parent": 33,
-   "text": "3.1.1 月平均环流形势"
+   "text": "3.1.1 月平均环流形势",
+   "why": "subsection 3.1.1 (numbering)"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 4,
    "parent": 33,
-   "text": "3.1.2 旬环流形势"
+   "text": "3.1.2 旬环流形势",
+   "why": "subsection 3.1.2 (numbering)"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 31,
-   "text": "3.2 副热带高压变化特点"
+   "text": "3.2 副热带高压变化特点",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 31,
-   "text": "3.3 台风活动"
+   "text": "3.3 台风活动",
+   "why": "subsection 3.3 (numbering)"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 2,
    "parent": 4,
-   "text": "4 结语"
+   "text": "4 结语",
+   "why": "section: numbered top section"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 56,
-   "note": "section of a different article on p3 (journal p31); this paper only resumes below it without headings"
+   "box": 56,
+   "why": "foreign article: section of another article (running head 卜海磊等) on p3"
   },
   {
-   "anno": 59,
-   "note": "section of the other article"
+   "box": 59,
+   "why": "foreign article: section of another article on p3"
   },
   {
-   "anno": 64,
-   "note": "section of the other article"
+   "box": 64,
+   "why": "foreign article: section of another article on p3"
   },
   {
-   "anno": 66,
-   "note": "references of the other article"
+   "box": 66,
+   "why": "foreign article: references of another article on p3"
   }
  ],
- "repeats": []
+ "considered": []
 }

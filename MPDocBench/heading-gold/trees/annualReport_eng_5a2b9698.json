@@ -1,229 +1,385 @@
 {
  "doc": "annualReport_eng_5a2b9698",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Appendix 4E",
-   "note": "bundle title (ASX Appendix 4E with the annual financial report attached)"
+   "text": "Appendix 4E Abacus Group",
+   "why": "title union: document type (Appendix 4E) + owner (Abacus Group) on the first page"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Results for announcement to the market"
+   "text": "Results for announcement to the market",
+   "why": "top section of the Appendix 4E"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Distribution Reinvestment Plan (DRP)"
+   "text": "Distribution Reinvestment Plan (DRP)",
+   "why": "top section of the Appendix 4E"
   },
   {
-   "anno": 25,
+   "boxes": [
+    22
+   ],
    "level": 2,
    "parent": 1,
-   "text": "ANNUAL FINANCIAL REPORT",
-   "note": "attached report's title page"
+   "text": "ANNUAL FINANCIAL REPORT 30 June 2024",
+   "why": "attached report's cover title (owner only as logo); its title page restates it"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
-   "parent": 25,
-   "text": "Directory"
+   "parent": 22,
+   "text": "Directory",
+   "why": "front matter section of the attached report"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
-   "parent": 25,
-   "text": "CONTENTS"
+   "parent": 22,
+   "text": "CONTENTS",
+   "why": "contents title of the attached report"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
-   "parent": 25,
-   "text": "DIRECTORS' REPORT"
+   "parent": 22,
+   "text": "DIRECTORS' REPORT",
+   "why": "section: running section title printed at the top of the Directors' Report pages (first occurrence)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 4,
    "parent": 40,
-   "text": "PRINCIPAL ACTIVITIES AND STRUCTURE"
+   "text": "PRINCIPAL ACTIVITIES AND STRUCTURE",
+   "why": "large caps section head inside the Directors' Report"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 5,
    "parent": 43,
-   "text": "Listed Structure / Entities"
+   "text": "Listed Structure / Entities",
+   "why": "small underlined subhead"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 5,
    "parent": 43,
-   "text": "Abacus Group Consolidation"
+   "text": "Abacus Group Consolidation",
+   "why": "small underlined subhead"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 4,
    "parent": 40,
-   "text": "OPERATING AND FINANCIAL REVIEW"
+   "text": "OPERATING AND FINANCIAL REVIEW",
+   "why": "large caps section head"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 5,
    "parent": 57,
-   "text": "GROUP OVERVIEW"
+   "text": "GROUP OVERVIEW",
+   "why": "smaller caps head inside the operating and financial review"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 5,
    "parent": 57,
-   "text": "GROUP RESULTS SUMMARY"
+   "text": "GROUP RESULTS SUMMARY",
+   "why": "smaller caps head"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 6,
    "parent": 76,
-   "text": "Capital management and allocation"
+   "text": "Capital management and allocation",
+   "why": "small underlined subhead"
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 5,
    "parent": 57,
-   "text": "KEY SEGMENT RESULTS SUMMARY"
+   "text": "KEY SEGMENT RESULTS SUMMARY",
+   "why": "smaller caps head"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 6,
    "parent": 123,
-   "text": "Office"
+   "text": "Office",
+   "why": "segment subhead (same look as Retail/Storage)"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 6,
    "parent": 123,
-   "text": "Retail"
+   "text": "Retail",
+   "why": "segment subhead"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 6,
    "parent": 123,
-   "text": "Storage"
+   "text": "Storage",
+   "why": "segment subhead"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 6,
    "parent": 123,
-   "text": "Commercial Valuations"
+   "text": "Commercial Valuations",
+   "why": "subhead"
   },
   {
-   "anno": 157,
+   "boxes": [
+    157
+   ],
    "level": 6,
    "parent": 123,
-   "text": "ESG"
+   "text": "ESG",
+   "why": "subhead"
   },
   {
-   "anno": 169,
+   "boxes": [
+    169
+   ],
    "level": 5,
    "parent": 57,
-   "text": "FUTURE PROSPECTS"
+   "text": "FUTURE PROSPECTS",
+   "why": "smaller caps head"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 5,
    "parent": 57,
-   "text": "RISK MANAGEMENT"
+   "text": "RISK MANAGEMENT",
+   "why": "smaller caps head"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 6,
    "parent": 172,
-   "text": "Key Risks and Mitigations"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 2,
-   "note": "issuer name"
-  },
-  {
-   "anno": 6,
-   "note": "subtitle naming the attached report, under the Appendix 4E title"
+   "text": "Key Risks and Mitigations",
+   "why": "subhead with its own table"
   }
  ],
  "repeats": [
   {
-   "anno": 55,
-   "of": 40
+   "boxes": [
+    25
+   ],
+   "of": 22,
+   "why": "repeat: title page restating the attached report's cover title"
   },
   {
-   "anno": 74,
-   "of": 40
+   "boxes": [
+    55
+   ],
+   "of": 40,
+   "why": "repeat: running section title, section still open"
   },
   {
-   "anno": 88,
-   "of": 40
+   "boxes": [
+    74
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 90,
-   "of": 76
+   "boxes": [
+    88
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 104,
-   "of": 40
+   "boxes": [
+    90
+   ],
+   "of": 76,
+   "why": "repeat: \"(continued)\" with nothing in between"
   },
   {
-   "anno": 106,
-   "of": 76
+   "boxes": [
+    104
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 121,
-   "of": 40
+   "boxes": [
+    106
+   ],
+   "of": 76,
+   "why": "repeat: \"(continued)\""
   },
   {
-   "anno": 145,
-   "of": 40
+   "boxes": [
+    121
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 147,
-   "of": 123
+   "boxes": [
+    145
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 167,
-   "of": 40
+   "boxes": [
+    147
+   ],
+   "of": 123,
+   "why": "repeat: \"(continued)\" (its subsection Office is a child, section still open)"
   },
   {
-   "anno": 178,
-   "of": 40
+   "boxes": [
+    167
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 180,
-   "of": 172
+   "boxes": [
+    178
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 185,
-   "of": 40
+   "boxes": [
+    180
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
   },
   {
-   "anno": 187,
-   "of": 172
+   "boxes": [
+    185
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 188,
-   "of": 181
+   "boxes": [
+    187
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
   },
   {
-   "anno": 192,
-   "of": 40
+   "boxes": [
+    188
+   ],
+   "of": 181,
+   "why": "repeat: \"(continued)\""
   },
   {
-   "anno": 194,
-   "of": 172
+   "boxes": [
+    192
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
   },
   {
-   "anno": 195,
-   "of": 181
+   "boxes": [
+    194
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "of": 181,
+   "why": "repeat: \"(continued)\""
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "subtitle naming the attached report on the first page (cover line, not the title union)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "ABN field"
+  },
+  {
+   "box": 7,
+   "why": "period line"
+  },
+  {
+   "box": 26,
+   "why": "date line under the title page"
+  },
+  {
+   "box": 41,
+   "why": "date line under the running section title"
+  },
+  {
+   "box": 126,
+   "why": "table caption"
+  },
+  {
+   "box": 131,
+   "why": "figure caption"
+  },
+  {
+   "box": 140,
+   "why": "figure caption"
   }
  ]
 }

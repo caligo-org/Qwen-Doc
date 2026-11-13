@@ -1,39 +1,58 @@
 {
  "doc": "textBook_eng_6f1daec7",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "FUNDAMENTALS of MATRIX ALGEBRA",
-   "note": "cover title; the decorative script 'of' is printed but missing from the gold text; edition and author are text"
+   "text": "FUNDAMENTALS OF MATRIX ALGEBRA",
+   "why": "title: book title on the cover (\"of\" printed as a graphic, restored)"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 1,
-   "text": "THANKS"
+   "text": "THANKS",
+   "why": "front matter: Thanks"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 1,
    "text": "PREFACE",
-   "note": "subtitle line 'A Note to Students...' under it is text"
+   "why": "front matter: Preface"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 5,
-   "of": 1
+   "box": 20,
+   "why": "subtitle of the preface (\"A Note to Students...\"): subtitle, text"
   }
  ]
 }

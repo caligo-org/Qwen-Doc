@@ -1,102 +1,142 @@
-# Heading notation (v2)
+# Heading notation (v3)
 
-## The test
+This is the synth2 rulebook (`~/dev/caligo/heading-research/synth2/HEADINGS.md`) applied to MPDocBench, plus the
+user's decisions listed at the end. Where the two differ, the user decisions here win.
 
-A line is a heading if, when you are deep inside the document, its entry in the breadcrumb tells you something you
-need to know about where you are. Everything else is text, however big or bold it is printed.
+## The test: containment, breadcrumb, substance
 
-Example (prospectus_chn_30f024e2, page 1): the cover prints a risk-warning box, the company logo, the issuer's legal
-name, its English name, its address, the document title and the sponsor's name and address. Four levels deep
-(重大事项提示 › 二、特别风险因素 › （二）销售区域集中) the only cover line you need is the title
-"首次公开发行股票并在科创板上市招股说明书" (the IPO prospectus). So the title is L1 and every other cover line is text.
+1. **Containment.** A line is a heading only if it describes everything in its subtree: the content that follows it
+   until the next heading of the same or a higher level is *about* what the heading says.
+2. **Breadcrumb.** For every item in the document, the chain of its parents must read as a consistent path, each step a
+   narrower description of the one above (金科地产 2019年年度报告 › 第三节 公司业务概要 › 一、主要业务).
+3. **Substance.** A heading must have a significant, standalone block of content attached to it: clearly separated,
+   and on average much more content than heading. A callout text by itself is never a heading; a bullet item with
+   nothing below it until the next item is never a heading. A question CAN be a heading when it has its own separate
+   answer block (interviews, FAQs).
 
-## Levels
+Everything else is text, however big, bold or coloured it is printed.
 
-1. L1 is the document's title, once. (Periodicals: the masthead.)
-2. Same look = same level: headings printed in the same style (size, weight, colour, banner, indentation) are at the
-   same level throughout the document. More prominent = higher level. This holds among headings of the same kind
-   (the document's outline headings). Label headings that name the items a section lists ("Star Topology:",
-   "Local Area Networks:", "Simplex:") sit one level below the section they are in, whatever that section's level,
-   so the same label style can appear at different levels (book_eng_dc66edfa: L6 under 1.2.3.1, L5 under 1.2.4).
-3. Numbering, when there is any, settles what the look leaves open (1 above 1.1, 第一章 above 第一节, 一、 above （一）).
-   Without numbering, the look decides.
-4. A heading's parent is the nearest earlier heading of a higher level. So every parent comes earlier in reading order.
-5. Levels do not skip inside a document's own outline. They skip only where a role is not printed: a newspaper's front
-   page has no section banner, so its stories are L3 directly under the L1 masthead.
-6. A heading printed in two boxes or lines (chapter label + chapter title, term number + term, step number + step
-   title, a title split over two boxes) is ONE heading: one node whose `merge` lists the other boxes, text joined.
+## Every path is a breadcrumb (user goal)
 
-## A heading printed again: two cases
+- Every node's text describes its part of the document. A continuation whose page prints no headline (only
+  "（上接第一版）" or a jump word) takes the original's title as its text (the `why` records what is printed). A bare
+  marker ("（一）", "3.1", "Part 2") is a union with the title it labels. A bare marker that opens a real unit with no
+  printed title (chapters "1"…"8", "案例一：") is a heading on its own (user decision): "The Little Prince › 2" is a
+  breadcrumb. It is text only when it opens no unit.
+- Containment closes subtrees: if content that is not about a heading would fall into its subtree (because no later
+  heading closes it), that heading is text, even if it is an own-line label with a block (the label rule applies only
+  when its block really ends before unrelated content).
+- Exception (user decision): own-line label headings stay headings when a later sibling of the same list is run in
+  (book_eng_dc66edfa "Star Topology:", "Bus Topology:"); the run-in sibling's content sits under the previous label.
+- Exception (user decision): a numbered list of headings stays headings when a closing or summary paragraph follows
+  its last item with no heading in between. The paragraph sits under the last item: a small containment error is
+  better than dropping the list's headings.
+- A restated title of the whole document inside it (e.g. 审计报告 restated above the auditor's letter of an
+  "X 审计报告" bundle) is a repeat of L1, not a child of it: its sections become children of L1.
+- When the owner of the document is printed only in a box that also holds other fields (a cable header with the
+  SUBJECT line, a 10-K cover field), the node uses that box and its text is only the heading part.
 
-A. **Repeat** (nothing in between): the same heading printed again while its section is still open: the next page
-   with "(continued)" / "(cont.)" / 续, a running head naming the current section or the document. Not a node:
-   listed in `repeats` with `of: <the heading it repeats>`. The section stays one node; its content keeps flowing
-   under it.
-B. **Continuation** (something in between): the section or story comes back after other sections or stories:
-   a story jumped to a later page ("Continued from Page 1A", 上接第一版), a newspaper section resumed after another
-   section. A new node where it reappears, at the level of its role there, with `continues: <the original>`.
-   Never a child of the original.
+## Unions
 
-check.py enforces the difference: a repeat must point to a heading that is still open at that point, a
-continuation to one whose section was closed by something in between.
+A heading is a **union** of one or more printed boxes: the boxes that together print one heading. Typical unions:
+number + title ("3.1" + "纺织产品 textile products"), chapter label + chapter title ("第一章" + "健康基础知识"),
+step badge + step title, "PART 01." + part title, a title split over boxes or lines, a title + its translation printed
+with it, and on covers the **owner + the document type** (see "The title"). The boxes of a union need not be adjacent:
+lines between them that are not part of the heading stay text. In the tree, `boxes` lists the union's boxes in reading
+order; the node's text is their text joined with one space.
 
-## Usually text (apply the test; these almost never pass it)
+## The title (L1)
 
-- Cover lines other than the title: issuer/company/author/publisher names, logos and brand text, translations of the
-  title, addresses, dates, edition and volume lines, document numbers, series lines, ribbons and slogans, risk
-  banners and regulatory warning boxes, sponsor/underwriter blocks.
-- A title repeated later (half-title, title page, the title restated above clause 1).
-- Running heads, running section tags (except a newspaper section change, see the newspaper notes), page numbers.
-- Labels: callouts (WARNING, CAUTION, NOTE, 注意, 提示, Tip, Did you know?), kickers and rubrics above a headline,
-  run-in labels starting a paragraph (bold lead-ins, "Definition 2.1", "Example", "Proof", 第一条 at a paragraph start).
-- Decks, subtitles and standfirsts under a headline, bylines, pull quotes, captions, chart and axis titles.
-- TOC entries (the contents title itself is a heading), index entries, lists of names (board members, analysts,
-  authors, offices), form fields, ads, colophons, subscription and contact boxes, related-reports lists.
-- A number alone ("3.1", "PART 01", "Chapter 1", "第三章", a step badge): merge it with the title it labels.
+L1 is the union of the lines that together name the document, once: **whose document + what document**. Deep in the
+document the breadcrumb must say "section 5 of the Naruida annual report", not "of the annual report" and not "of
+Naruida". So on a report cover the company name and the report title are one union wherever they sit
+(广东纳睿雷达科技股份有限公司 ∪ 首次公开发行股票并在科创板上市招股说明书; 金科地产集团股份有限公司 ∪ 2019年年度报告;
+registrant name ∪ FORM 10-K; The New Ireland Fund ∪ Annual Report October 31, 2022). Everything else on the cover is
+text: the owner's English name, address, dates, dates, edition and document numbers, regulator names,
+series lines, slogans, ribbons, risk banners, sponsor / underwriter blocks. When the owner is printed only as a logo, the logo's text joins the union if the layout has a box with that text
+(user decision: "MSCI" ∪ "2024 Annual Report", "DENON" ∪ product ∪ manual type); a logo with no text box stays out.
+Book authors are not the owner: a book's L1 is its title (user decision). Periodicals: the masthead is L1.
+A title repeated later (half-title, title page, title restated above clause 1, running head) is a repeat.
 
-## Labels (user decision)
+## Levels and parents
 
-- Heading: an own-line label that names the specific content under it ("Star Topology:", "Local Area Networks:",
-  "Simplex:"). It sits one level below the section it is in.
-- Text: a generic label that repeats from section to section ("Advantages:", "Disadvantages:", 注意, 学习建议,
-  "Keywords", "Example"); a lead-in sentence that introduces a list or table ("Investors are reminded that:",
-  "保险业务收入分险种如下："); anything run into a paragraph (a bold opening phrase followed by text on the same line).
-- Numbered outline headings are not labels: "1. 事项描述 / 2. 审计应对" repeated under each matter stay headings.
+1. Same look = same level among the document's outline headings; more prominent = higher level.
+2. Numbering settles what the look leaves open (1 above 1.1, 第一章 above 第一节, 一、 above （一）).
+3. Where look and content disagree, the content decides: a label heading that names the items a section lists sits one
+   level below the section it is in, so the same style can appear at different levels.
+4. A heading's parent is the nearest earlier heading of a higher level: every parent comes earlier in reading order.
+5. Levels do not skip inside the document's own outline; they skip only where a role is not printed (a newspaper front
+   page has no section banner, so its stories are L3 directly under the L1 masthead).
+6. Every level of the body outline counts, numbered or not, including levels printed like body text and set apart only
+   by spacing.
+
+## A heading printed again
+
+- **Repeat** (its section is still open): running head naming the current section or the document, "(continued)" on
+  the next page, 续. Not a node: listed in `repeats` with `of`.
+- **Continuation** (other sections came in between): a story jumped to a later page, a section resumed after another
+  section. A new node at the level of its role there, with `continues` pointing to the original. Never a child of it.
+- A running header printed only on one section's pages is that section's heading; if the body also prints a title,
+  the body title is one level below it (600 Group: "CFO Statement" L2, "Chief Financial Officer Statement" L3).
+
+## Usually text
+
+- Cover lines other than the title union (see "The title").
+- Running heads and running section tags that are repeats (newspapers: a section tag starts a section node when the
+  section changes; see newspapers), page numbers.
+- Callouts (WARNING, NOTE, 注意, Tip), kickers and rubrics above a headline, run-in labels starting a paragraph (bold
+  lead-ins, "Definition 2.1", 第一条 at a paragraph start), lead-in sentences that introduce a list or table.
+- Decks, subtitles, standfirsts, bylines, pull quotes, captions, chart titles, axis titles, figure labels.
+- TOC entries (the contents title itself is a heading), index entries, lists of names, form fields, ads, colophons,
+  contact boxes.
+- A number alone ("3.1", "PART 01", "第三章"): it is part of the union with the title it labels.
+- Individual exam questions (no answer block on the page).
 
 ## Usually headings
 
-- The document title; front and back matter titles at the level of the body's top sections (contents, preface,
-  foreword, introduction, abstract, declaration, definitions/释义, references, appendices, disclaimers' section titles).
-- Every level of the body outline (chapters, sections, numbered or styled).
-- A box with its own title (sidebar, case study) when the title says what the box is about: one level below the
-  section it sits in.
-- Newspapers/magazines: masthead L1; section banner L2 (and the running section tag when the section changes from the
-  previous content page, with `continues` if that section appeared before); story headline L3; in-story subhead L4.
+- Front and back matter titles at the level of the body's top sections (contents, preface, foreword, introduction,
+  abstract, definitions/释义, references, appendices, disclaimer section titles).
+- Every level of the body outline.
+- A box with its own title (sidebar, case study) when the title says what the box is about: one level below the section
+  it sits in.
+- An own-line label with its own separate block below it, **even when the same label repeats from section to section**
+  ("Ingredients" / "Directions" in each recipe, "Advantages:" + its list, "Datapoints/trends we're focused on" in each
+  region box, 学习建议 with its block): one level below the section it is in.
+- Interview / FAQ questions with their own answer block.
 
 ## Per-category notes
 
-Add what you learn in learnings/<category>.md. The notes below are starting points, not rules over the test.
+- annual / financial / filing / prospectus: L1 = owner ∪ document type (see "The title"). Statement titles and notes:
+  a title that describes the block below it is a heading. Board / executive name lists are text.
+- research report: L1 = the report's headline (∪ the company / industry it covers when printed as part of the title);
+  rating, analysts, related reports, office addresses are text; disclaimer section titles are back matter.
+- paper / academic: L1 = paper title (∪ its translation printed with it); authors, affiliations, journal header,
+  column labels are text; Abstract is a heading; Keywords is a run-in label. Headings of another article sharing the
+  pages are text.
+- book / textbook: chapter label ∪ title; boxes that are only labels with no block (Tip, 小窍门) are text.
+- exam: exam title L1; parts (第Ⅰ卷, 选择题部分) and question groups (一、选择题…) are headings; individual questions and
+  instructions are text. A document that is one problem printed on its own has that problem's title as L1.
+- slides: deck title L1; section divider slides L2; slide titles L3; titled blocks inside a slide L4; a "(cont.)" slide
+  title is a repeat when nothing came in between, a continuation otherwise.
+- standard: L1 = the standard's title ∪ its English title; the standard number, ICS codes, "中华人民共和国国家标准",
+  issuing bodies are text; term entries: number ∪ term = one heading (user decision: kept as headings).
+- government / legal: law, notice or agreement title L1; chapter / article levels below; issuing body, document number,
+  dates, signatures are text. Newsletters follow the newspaper notes.
+- manual: brand ∪ product ∪ manual type is the title (the brand logo's text joins when it has a text box); warning bands are text.
+- newspaper / magazine: masthead L1; section banner L2 (and the running section tag when the section changes from the
+  previous content page, with `continues` when that section appeared before); story headline L3; in-story subhead L4.
+  The front page is a section with no printed banner. Kickers, decks, ads, teasers, skyboxes, pointer boxes, weather
+  and index boxes, colophons, columnist names are text. A briefs column label (Daily Briefing, INBOX) is a story-level
+  heading, the briefs one level below.
+- handwritten: when the notes have no title, the top groupings are the top level (several L1 nodes).
 
-- newspaper / magazine: reference tree trees/newspaper_eng_daf7a3e4.json. Ads, teasers, skyboxes, pointer boxes
-  ("More coverage … 3A"), weather and index boxes, colophons are text. Columnist names are text; the column's headline
-  is the story. A briefs column label ("Daily Briefing", INBOX) is a story-level heading, briefs one level below.
-- manualGuide: the title is product + manual type; brand and model lines on the cover merge into it or are text.
-  Warning bands are text. Step titles are headings only when printed as heading lines.
-- nationalStandard: L1 = the standard's title (the English title merges into it). "中华人民共和国国家标准", numbers,
-  ICS codes, issuing bodies are text. Term entries: number + term = one heading.
-- prospectus / annualReport / financialReport: L1 = the document title only ("2019年年度报告", "Annual Report & Accounts
-  2022", "FORM 10-K", the 招股说明书 line). The issuer/company/fund name is text, even when printed in the same title
-  block (user decision). Person names, cover ribbons, risk banners are text.
-- researchReport: L1 = the report's headline. Rating, industry label, analysts, related reports, office addresses are
-  text. Disclaimer section titles are back-matter headings.
-- paper: L1 = paper title. Authors, affiliations, journal header, column labels are text; Abstract is a heading,
-  "Keywords" a run-in label.
-- book / textBook: chapter label + title merge. Learning boxes that are only labels (学习建议, 小窍门) are text.
-- examPaper: exam title L1; parts (第Ⅰ卷, 选择题部分) and question groups (一、选择题…) are headings. Individual
-  questions are text, whatever their stem says (user decision). A document that is one problem printed on its own has
-  that problem's title as L1. Instructions (注意事项) are text.
-- pptSlides: deck title L1; section divider slides L2; slide titles L3; block titles inside a slide L4; "(cont.)" slide
-  titles are continuation nodes.
-- goverment: law/notice title L1; 第一章 levels; issuing body, document number, dates, signatures are text.
-  Newsletters follow the newspaper notes.
-- handwritten: when the notes have no title, the top groupings (第1天, 第八章) are the top level (several L1 nodes).
+## User decisions (all apply)
+
+- Containment / breadcrumb / substance test (synth2 HEADINGS.md).
+- Unions: a heading is a union of boxes; on covers the L1 is owner ∪ document type.
+- Generic own-line labels with their own block are headings even when they repeat (replaces the v2 label rule).
+- Interview questions with their own answer are headings.
+- National-standard term entries stay headings.
+- Exam questions are text.
+- Repeats vs continuations as above; a section-only running header is that section's heading.
+- Content beats look for levels (label headings one level below their section).

@@ -1,46 +1,65 @@
 {
  "doc": "textBook_chn_b3181880",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "信号与系统 辅导与题解",
-   "note": "cover title on two lines; source-book line, authors, series line, pinyin are text"
+   "text": "信号与系统辅导与题解",
+   "why": "title: the book name printed on the cover (two lines, one box)"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
    "parent": 3,
    "text": "内容提要",
-   "note": "book summary on the copyright page: front-matter title"
+   "why": "front matter: summary title 内容提要 over its own block"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 3,
-   "text": "前言"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 10,
-   "note": "series line on the back cover (经典教材辅导用书)"
+   "text": "前言",
+   "why": "front matter: preface title"
   }
  ],
  "repeats": [
   {
-   "anno": 28,
-   "of": 3
+   "boxes": [
+    28
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   },
   {
-   "anno": 41,
-   "of": 3
+   "boxes": [
+    51
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the book"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "series banner on the back cover over the series book list: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "companion-to line naming the original textbook: subtitle, text"
   },
   {
-   "anno": 51,
-   "of": 3
+   "box": 36,
+   "why": "CIP block title: colophon, text"
   }
  ]
 }

@@ -1,101 +1,129 @@
 {
  "doc": "textBook_chn_bd56ef2c",
- "notation": "textBook-v2: L1 cover subject title; L2 preface, 目录, units; L3 主题; L4 bar headings and box titles in the topic; L5 icon subheadings; box titles one level below the section they sit in. Kind labels (探究, 阅读, 思考, 问题导引, 学习目标, 核心术语) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "地理",
-   "note": "cover title; series, 选择性必修3 module line are text"
+   "text": "地理 选择性必修3资源、环境与国家安全",
+   "why": "title union: subject + course line + module name naming this book (series line in its own box is text)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 2,
-   "text": "致同学们"
+   "text": "致同学们",
+   "why": "front matter: letter title"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 2,
    "parent": 2,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 2,
    "parent": 2,
-   "text": "第1单元 自然资源与人类活动"
+   "text": "第1单元自然资源与人类活动",
+   "why": "unit label + unit title (one box)"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 60,
-   "text": "主题1 自然资源的类型和特征"
+   "text": "主题1 自然资源的类型和特征",
+   "why": "topic label + topic title (one box)"
   },
   {
-   "anno": 80,
+   "boxes": [
+    91
+   ],
    "level": 4,
    "parent": 65,
-   "text": "“资源赌约”谁会赢",
-   "note": "title of the 探究 box opening the topic"
+   "text": "自然资源的类型",
+   "why": "topic section heading"
   },
   {
-   "anno": 91,
-   "level": 4,
-   "parent": 65,
-   "text": "自然资源的类型"
-  },
-  {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 5,
    "parent": 91,
-   "text": "可再生资源"
+   "text": "可再生资源",
+   "why": "sub-heading with icon under 自然资源的类型: one of the types the section lists"
   },
   {
-   "anno": 100,
+   "boxes": [
+    100
+   ],
    "level": 5,
    "parent": 91,
-   "text": "不可再生资源"
+   "text": "不可再生资源",
+   "why": "sub-heading, same look as #95"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 6,
    "parent": 100,
    "text": "稀土资源",
-   "note": "title of the 阅读 box; sits after 不可再生资源 (rare earths are non-renewable)"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 67,
-   "note": "panel label 问题导引"
-  },
-  {
-   "anno": 71,
-   "note": "panel label 学习目标"
-  },
-  {
-   "anno": 75,
-   "note": "panel label 核心术语"
-  },
-  {
-   "anno": 79,
-   "note": "box kind label 探究"
-  },
-  {
-   "anno": 93,
-   "note": "margin box label 思考"
-  },
-  {
-   "anno": 104,
-   "note": "box kind label 阅读"
+   "why": "reading box title: says what the box is about; one level below the open section (kind label 阅读 is text)"
   }
  ],
  "repeats": [
   {
-   "anno": 6,
-   "of": 2
+   "boxes": [
+    6,
+    8
+   ],
+   "of": 2,
+   "why": "repeat: title page restates the cover title"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 79,
+   "why": "kind label 探究 printed before the box title: label, text"
+  },
+  {
+   "box": 93,
+   "why": "callout box 思考 with one short question: text"
+  },
+  {
+   "box": 104,
+   "why": "kind label 阅读 printed before the box title: label, text"
+  },
+  {
+   "box": 80,
+   "why": "“资源赌约”谁会赢: was L4 heading; round 3 breadcrumb review, containment: main text of the topic (p9 #89-90, definition of 自然资源) follows the box with no heading before 自然资源的类型 and would fall under the box title -> text"
+  },
+  {
+   "box": 75,
+   "why": "核心术语: was L4 heading; round 3 breadcrumb review, containment: the 探究 box and the topic's main text (p9 #89-90) follow with no heading closing the panel; panel label is a callout of the topic opener -> text"
+  },
+  {
+   "box": 71,
+   "why": "学习目标: was L4 heading; round 3 breadcrumb review, containment: the following panels, the 探究 box and main text would fall under it (no heading closes the panel); callout of the topic opener -> text"
+  },
+  {
+   "box": 67,
+   "why": "问题导引: was L4 heading; round 3 breadcrumb review, containment: the following panels, the 探究 box and main text would fall under it (no heading closes the panel); callout of the topic opener -> text"
+  }
+ ],
+ "considered": []
 }

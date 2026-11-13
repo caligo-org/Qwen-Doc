@@ -1,26 +1,31 @@
 {
  "doc": "book_eng_4dc2618c",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "THE LAST of the PRESIDENT'S MEN"
+   "text": "THE LAST of the PRESIDENT'S MEN",
+   "why": "title: book title on the cover; author is text"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "publisher's ebook sign-up insert (ad box)"
+   "box": 3,
+   "why": "publisher ebook insert (ad), not part of the book outline"
   },
   {
-   "anno": 5,
-   "note": "sign-up link button in the ad box"
+   "box": 5,
+   "why": "ad button text in the publisher insert"
   },
   {
-   "anno": 7,
-   "note": "author name (title page)"
+   "box": 7,
+   "why": "author name alone on the title page (not part of the title)"
   }
  ],
- "repeats": []
+ "considered": []
 }

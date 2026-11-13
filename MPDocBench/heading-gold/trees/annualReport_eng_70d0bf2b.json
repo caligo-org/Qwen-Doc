@@ -1,25 +1,33 @@
 {
  "doc": "annualReport_eng_70d0bf2b",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report October 31, 2022",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "The NEW IRELAND Fund Annual Report October 31, 2022",
+   "why": "title union: owner (fund name) + document type (Annual Report October 31, 2022)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Letter to Shareholders"
+   "parent": 1,
+   "text": "Letter to Shareholders",
+   "why": "top section: letter title"
   }
  ],
- "not_headings": [
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
   {
-   "anno": 1,
-   "note": "fund name; company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "box": 4,
+   "why": "letter salutation"
   }
- ],
- "repeats": []
+ ]
 }

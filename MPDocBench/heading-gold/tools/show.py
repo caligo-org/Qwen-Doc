@@ -15,11 +15,13 @@ F=ImageFont.truetype(FONT,16); FS=ImageFont.truetype(FONT,12)
 COL={'rep':(120,120,120),1:(210,0,0),2:(0,100,230),3:(0,150,0),4:(180,0,180),5:(230,120,0),6:(0,150,150),7:(120,80,0),8:(80,80,200)}
 lab={}
 if use_tree:
-    t=json.load(open(os.path.join(TREES,doc+'.json')))
+    from tree import read, nid
+    t=read(doc)
     for n in t['nodes']:
-        lab[n['anno']]=(n['level'],f"L{n['level']} #{n['anno']}"+(f" cont #{n['continues']}" if n.get('continues') else ''))
-        for m in n.get('merge',[]): lab[m]=(n['level'],f"+#{m} (into #{n['anno']})")
-    for x in t.get('repeats',[]): lab[x['anno']]=('rep',f"REPEAT of #{x['of']} (not a node)")
+        a=nid(n); lab[a]=(n['level'],f"L{n['level']} #{a}"+(f" cont #{n['continues']}" if n.get('continues') is not None else '')+(f" ∪{len(n['boxes'])}" if len(n['boxes'])>1 else ''))
+        for m in n['boxes'][1:]: lab[m]=(n['level'],f"∪ part of #{a}")
+    for x in t['repeats']:
+        for b in x['boxes']: lab[b]=('rep',f"REPEAT of #{x['of']} (not a node)")
 else:
     for a,(d,p) in gt.items(): lab[a]=(d or 0,f"L{d} #{a}" if d else f"no-rel #{a}")
 ims=[]
@@ -41,4 +43,8 @@ for p in pages:
 W=sum(i.width for i in ims)+8*(len(ims)-1); H=max(i.height for i in ims)
 S=Image.new('RGB',(W,H),'white'); x=0
 for i in ims: S.paste(i,(x,0)); x+=i.width+8
-out=OUT or os.path.join(ROOT,'review',f"{doc}_p{'-'.join(map(str,pages))}{'_tree' if use_tree else ''}.jpg"); os.makedirs(os.path.dirname(out),exist_ok=True); S.save(out,quality=85); print(out)
+out=OUT or os.path.join(ROOT,'review',f"{doc}_p{'-'.join(map(str,pages))}{'_tree' if use_tree else ''}.jpg")
+os.makedirs(os.path.dirname(out),exist_ok=True); S.save(out,quality=85)
+with open(os.path.join(ROOT,'review','seen.log'),'a') as lg:
+    for p in pages: lg.write(f"{doc}\t{p}\t{'tree' if use_tree else 'gold'}\n")
+print(out)

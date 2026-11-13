@@ -1,65 +1,197 @@
 {
  "doc": "book_eng_600ba37c",
- "notation": "excerpt without a printed book title (the title appears only as a running head): the numbered stories are the top level (L1); titled exercise boxes (Before Reading / After Reading) one level below.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "1. Introduction"
+   "text": "1. Introduction",
+   "why": "story: book excerpt with no printed title page, numbered stories are the top level"
   },
   {
-   "anno": 29,
-   "level": 1,
-   "parent": "root",
-   "text": "2. Raggedy Ann Learns a Lesson"
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Before Reading:",
+   "why": "label with its own block: titled exercise box (Before Reading + its questions), one level below the story"
   },
   {
-   "anno": 109,
-   "level": 1,
-   "parent": "root",
-   "text": "3. Raggedy Ann and the Washing"
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "After Reading:",
+   "why": "label with its own block: titled exercise box (After Reading + its questions)"
   },
   {
-   "anno": 167,
+   "boxes": [
+    29
+   ],
    "level": 1,
    "parent": "root",
-   "text": "4. Raggedy Ann and the Kite"
+   "text": "2. Raggedy Ann Learns a Lesson",
+   "why": "story: numbered story title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 29,
+   "text": "Before Reading:",
+   "why": "label with its own block: titled exercise box"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 2,
+   "parent": 29,
+   "text": "After Reading:",
+   "why": "label with its own block: titled exercise box"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "3. Raggedy Ann and the Washing",
+   "why": "story: numbered story title"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 2,
+   "parent": 109,
+   "text": "Before Reading:",
+   "why": "label with its own block: titled exercise box"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 2,
+   "parent": 109,
+   "text": "After Reading:",
+   "why": "label with its own block: titled exercise box"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "4. Raggedy Ann and the Kite",
+   "why": "story: numbered story title"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 2,
+   "parent": 167,
+   "text": "Before Reading:",
+   "why": "label with its own block: titled exercise box"
+  },
+  {
+   "boxes": [
+    227
+   ],
+   "level": 2,
+   "parent": 167,
+   "text": "After Reading:",
+   "why": "label with its own block: titled exercise box"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 3,
-   "note": "label rule"
+   "boxes": [
+    62
+   ],
+   "of": 29,
+   "why": "repeat: running head naming the open story"
   },
   {
-   "anno": 23,
-   "note": "label rule"
+   "boxes": [
+    91
+   ],
+   "of": 29,
+   "why": "repeat: running head naming the open story"
   },
   {
-   "anno": 30,
-   "note": "label rule"
+   "boxes": [
+    125
+   ],
+   "of": 109,
+   "why": "repeat: running head naming the open story"
   },
   {
-   "anno": 103,
-   "note": "label rule"
+   "boxes": [
+    155
+   ],
+   "of": 109,
+   "why": "repeat: running head naming the open story"
   },
   {
-   "anno": 110,
-   "note": "label rule"
+   "boxes": [
+    184
+   ],
+   "of": 167,
+   "why": "repeat: running head naming the open story"
   },
   {
-   "anno": 161,
-   "note": "label rule"
-  },
-  {
-   "anno": 168,
-   "note": "label rule"
-  },
-  {
-   "anno": 227,
-   "note": "label rule"
+   "boxes": [
+    215
+   ],
+   "of": 167,
+   "why": "repeat: running head naming the open story"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running section tag printed above the story heading on the same page"
+  },
+  {
+   "box": 28,
+   "why": "running head printed above the story heading on the same page"
+  },
+  {
+   "box": 15,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 45,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 76,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 108,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 143,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 166,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  },
+  {
+   "box": 202,
+   "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
+  }
+ ]
 }

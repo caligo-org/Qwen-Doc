@@ -1,231 +1,296 @@
 {
  "doc": "newspaper_eng_b6de1de8",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Weekly news magazine: cover lines are teasers; contents page has no contents title and its entries are TOC; numbered location labels on the Global report map are kickers.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "The Guardian Weekly",
-   "note": "masthead (tagline, date, volume are text)"
+   "why": "masthead; tagline, date and volume in the same box are text"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 3,
    "parent": 2,
    "text": "The rat pack",
-   "note": "photo story headline; 'Eyewitness Italy' is its rubric"
+   "why": "photo story headline with its own text; Eyewitness Italy is a rubric"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 2,
    "text": "Global report",
-   "note": "section banner p4"
+   "why": "section: printed section banner Global report (deck below is text)"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Russian and US officials hold talks in Saudi Arabia"
+   "text": "Russian and US officials hold talks in Saudi Arabia",
+   "why": "brief story headline under the section; location label above is a kicker"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Two dead and 37 injured after Munich car attack"
+   "text": "Two dead and 37 injured after Munich car attack",
+   "why": "brief story headline"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Approval of supreme court sought for watchdog firing"
+   "text": "Approval of supreme court sought for watchdog firing",
+   "why": "brief story headline"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Man who rammed knife attacker hailed as hero"
+   "text": "Man who rammed knife attacker hailed as hero",
+   "why": "brief story headline"
   },
   {
-   "anno": 84,
+   "boxes": [
+    84
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Pope Francis in hospital for tests after infection"
+   "text": "Pope Francis in hospital for tests after infection",
+   "why": "brief story headline"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 3,
    "parent": 56,
-   "text": "At least 18 injured after plane crash lands in Toronto"
+   "text": "At least 18 injured after plane crash lands in Toronto",
+   "why": "brief story headline"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Brasília asks UN to ditch carbon levy on shipping"
+   "text": "Brasilia asks UN to ditch carbon levy on shipping",
+   "why": "brief story headline"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Language test for residence could stump some locals"
+   "text": "Language test for residence could stump some locals",
+   "why": "brief story headline"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 3,
    "parent": 56,
-   "text": "UN aviation meetings remain clouded in secrecy"
+   "text": "UN aviation meetings remain clouded in secrecy",
+   "why": "brief story headline"
   },
   {
-   "anno": 111,
+   "boxes": [
+    111
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Conclave celebrates a divine night at the Baftas"
+   "text": "Conclave celebrates a divine night at the Baftas",
+   "why": "brief story headline"
   },
   {
-   "anno": 117,
+   "boxes": [
+    117
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Collapse of illegally run goldmine kills 48 people"
+   "text": "Collapse of illegally run goldmine kills 48 people",
+   "why": "brief story headline"
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 3,
    "parent": 56,
-   "text": "M23 rebels take Bukavu in latest seizure of territory"
+   "text": "M23 rebels take Bukavu in latest seizure of territory",
+   "why": "brief story headline"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 3,
    "parent": 56,
-   "text": "First 'openly gay imam' shot to death in his car"
+   "text": "First 'openly gay imam' shot to death in his car",
+   "why": "brief story headline"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Plan for first Russian naval base in Africa agreed"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 19,
-   "note": "tagline and date"
-  },
-  {
-   "anno": 20,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 21,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 24,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 25,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 27,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 28,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 30,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 31,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 35,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 36,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 38,
-   "note": "TOC page number"
-  },
-  {
-   "anno": 39,
-   "note": "TOC section entry"
-  },
-  {
-   "anno": 45,
-   "note": "GW logo (colophon)"
-  },
-  {
-   "anno": 58,
-   "note": "location kicker"
-  },
-  {
-   "anno": 65,
-   "note": "location kicker"
-  },
-  {
-   "anno": 71,
-   "note": "location kicker"
-  },
-  {
-   "anno": 77,
-   "note": "location kicker"
-  },
-  {
-   "anno": 83,
-   "note": "location kicker"
-  },
-  {
-   "anno": 90,
-   "note": "location kicker"
-  },
-  {
-   "anno": 95,
-   "note": "location kicker"
-  },
-  {
-   "anno": 100,
-   "note": "location kicker"
-  },
-  {
-   "anno": 105,
-   "note": "location kicker"
-  },
-  {
-   "anno": 109,
-   "note": "location kicker"
-  },
-  {
-   "anno": 116,
-   "note": "location kicker"
-  },
-  {
-   "anno": 121,
-   "note": "location kicker"
-  },
-  {
-   "anno": 127,
-   "note": "location kicker"
-  },
-  {
-   "anno": 132,
-   "note": "location kicker"
+   "text": "Plan for first Russian naval base in Africa agreed",
+   "why": "brief story headline"
   }
  ],
  "repeats": [
   {
-   "anno": 18,
-   "of": 2
+   "boxes": [
+    18
+   ],
+   "of": 2,
+   "why": "masthead repeated on the contents page"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 19,
+   "why": "tagline and date under the repeated masthead"
+  },
+  {
+   "box": 20,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 24,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 27,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 30,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 35,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 38,
+   "why": "contents page number (TOC entry, no contents title printed)"
+  },
+  {
+   "box": 21,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 25,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 28,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 31,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 36,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 39,
+   "why": "contents section entry (TOC)"
+  },
+  {
+   "box": 45,
+   "why": "GW logo in the colophon box"
+  },
+  {
+   "box": 58,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 65,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 71,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 77,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 83,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 90,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 95,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 100,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 105,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 109,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 116,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 121,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 127,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 132,
+   "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover lines (teasers) incl. the main cover story line"
+  },
+  {
+   "box": 4,
+   "why": "cover lines (teasers) incl. the main cover story line"
+  },
+  {
+   "box": 7,
+   "why": "photo-spread rubric"
   }
  ]
 }

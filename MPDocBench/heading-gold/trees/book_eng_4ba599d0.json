@@ -1,50 +1,67 @@
 {
  "doc": "book_eng_4ba599d0",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
    "text": "SIDE JOBS",
-   "note": "the book title; the author name above it is printed bigger but is text"
+   "why": "title: book title on the cover; author, subtitle and blurbs are text"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 5,
-   "text": "Table of Contents"
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 5,
    "text": "ALSO BY JIM BUTCHER",
-   "note": "front-matter list page title"
+   "why": "front matter: 'Also by' page title with its list below"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 3,
    "parent": 10,
    "text": "THE DRESDEN FILES",
-   "note": "series group heading in the also-by list"
+   "why": "label with its own block: series name heading its list of titles"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 10,
-   "text": "THE CODEX ALERA"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 2,
-   "note": "author name on the cover"
+   "text": "THE CODEX ALERA",
+   "why": "label with its own block: series name heading its list of titles"
   }
  ],
  "repeats": [
   {
-   "anno": 16,
-   "of": 5
+   "boxes": [
+    16
+   ],
+   "of": 5,
+   "why": "repeat: title page restates the book title"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "cover author name (creator, not part of the title)"
+  }
+ ],
+ "considered": []
 }

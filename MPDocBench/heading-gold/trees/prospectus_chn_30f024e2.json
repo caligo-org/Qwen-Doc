@@ -1,119 +1,220 @@
 {
  "doc": "prospectus_chn_30f024e2",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter and body top sections (本次发行概况, 重要声明, 重大事项提示, 目录, 第X节); L3 一、; L4 （一）. Company name, English name, address, risk box, sponsor block are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 8,
+   "boxes": [
+    4,
+    8
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在科创板上市招股说明书"
+   "text": "广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "本次发行概况"
+   "parent": 4,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "重要声明"
+   "parent": 4,
+   "text": "重要声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "重大事项提示"
+   "parent": 4,
+   "text": "重大事项提示",
+   "why": "front matter section 重大事项提示 with numbered subsections"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 3,
    "parent": 30,
-   "text": "一、有关本次发行的相关重要承诺说明"
+   "text": "一、有关本次发行的相关重要承诺说明",
+   "why": "section 一、 under 重大事项提示 (numbering)"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 3,
    "parent": 30,
-   "text": "二、特别风险因素"
+   "text": "二、特别风险因素",
+   "why": "section 二、 lists the special risks below"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 4,
    "parent": 34,
    "text": "（一）公司产品单一，主要应用于气象领域，且采购周期较长，价格相较于X波段传统雷达较高，目前公司产品尚未受到中国气象局的大规模部署，主要依靠于各地气象局推动建设，市场空间受行业政策和各级财政预算影响较大",
-   "note": "table_caption element; (一) risk heading, same style as (二)"
+   "why": "（一） risk subsection with its paragraph (tagged table_caption, printed like its siblings)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 4,
    "parent": 34,
-   "text": "（二）报告期内公司产品销售区域集中，主要在广东省内，销售区域和新客户的拓展面临较大压力"
+   "text": "（二）报告期内公司产品销售区域集中，主要在广东省内，销售区域和新客户的拓展面临较大压力",
+   "why": "（二） risk subsection with its paragraph"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 4,
    "parent": 34,
-   "text": "（三）相控阵雷达应用在民用领域尚处于起步阶段，同行业老牌企业在资金、研发等方面更具综合优势，随着其他相控阵雷达生产企业逐步进入气象探测等民用领域，公司将面临更多的市场竞争，公司高的毛利率将难以维持"
+   "text": "（三）相控阵雷达应用在民用领域尚处于起步阶段，同行业老牌企业在资金、研发等方面更具综合优势，随着其他相控阵雷达生产企业逐步进入气象探测等民用领域，公司将面临更多的市场竞争，公司高的毛利率将难以维持",
+   "why": "（三） risk subsection with its paragraph"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 4,
    "parent": 34,
-   "text": "（四）公司的客户主要为政府部门或事业单位，受财政预算管理、采购制度、产品验收等因素的影响，公司上半年在手订单较少，收入确认季节性明显，主要集中在12月份"
+   "text": "（四）公司的客户主要为政府部门或事业单位，受财政预算管理、采购制度、产品验收等因素的影响，公司上半年在手订单较少，收入确认季节性明显，主要集中在12月份",
+   "why": "（四） risk subsection with its paragraphs"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 4,
    "parent": 34,
    "text": "（五）公司产品在其他应用领域尚待培育和推广",
-   "note": "text_block missed by gold; same style as (四)"
+   "why": "（五） risk subsection with its paragraph (tagged text_block, same look as siblings)"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 4,
    "parent": 34,
-   "text": "（六）应收账款回收"
+   "text": "（六）应收账款回收",
+   "why": "（六） risk subsection with its paragraph"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 30,
-   "text": "三、财务报告审计截止日后主要经营情况"
+   "text": "三、财务报告审计截止日后主要经营情况",
+   "why": "section 三、 with its subsections"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 4,
    "parent": 57,
-   "text": "（一）2022年公司经营情况"
+   "text": "（一）2022年公司经营情况",
+   "why": "（一） subsection with text and table"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 4,
    "parent": 57,
-   "text": "（二）2023年一季度公司预计经营情况"
+   "text": "（二）2023年一季度公司预计经营情况",
+   "why": "（二） subsection with its paragraphs"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 2,
-   "parent": 8,
-   "text": "目录"
+   "parent": 4,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    12,
+    13
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    17,
+    18
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    28,
+    29
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    41,
+    42
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    52,
+    53
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    65,
+    66
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    73,
+    74
+   ],
+   "of": 4,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "cover risk-warning box title (regulatory banner)"
+   "box": 1,
+   "why": "cover risk banner (科创板投资风险提示 box): cover text by the title rule"
   },
   {
-   "anno": 4,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 6,
-   "note": "issuer English name"
+   "box": 6,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,78 +1,116 @@
 {
  "doc": "paper_chn_b4b85a83",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "非物质文化遗产与代表性传承人制度:来自田野的调查与思考"
+   "text": "非物质文化遗产与代表性传承人制度:来自田野的调查与思考",
+   "why": "title: paper title (two lines, one box)"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 4,
-   "text": "一、我国国家级代表性传承人的现状与特征"
+   "text": "一、我国国家级代表性传承人的现状与特征",
+   "why": "section: 一、 top section"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 23,
-   "text": "（一）门类与人数"
+   "text": "（一）门类与人数",
+   "why": "subsection （一） (numbering)"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 23,
-   "text": "（二）年龄结构"
+   "text": "（二）年龄结构",
+   "why": "subsection （二） (numbering)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 23,
-   "text": "（三）性别特征"
+   "text": "（三）性别特征",
+   "why": "subsection （三） (numbering)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 2,
    "parent": 4,
-   "text": "二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考"
+   "text": "二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考",
+   "why": "section: 二、 top section"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 3,
    "parent": 53,
-   "text": "（一）代表性传承人的遴选与社区参与"
+   "text": "（一）代表性传承人的遴选与社区参与",
+   "why": "subsection （一） (numbering)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 53,
-   "text": "（二）代表性传承人制度的社会实践：经费、进退机制与绩效考核"
+   "text": "（二）代表性传承人制度的社会实践：经费、进退机制与绩效考核",
+   "why": "subsection （二） (numbering)"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 53,
-   "text": "（三）遗产主体与保护主体的分离"
+   "text": "（三）遗产主体与保护主体的分离",
+   "why": "subsection （三） (numbering)"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 53,
-   "text": "（四）代表性传承人制度的队伍建设"
+   "text": "（四）代表性传承人制度的队伍建设",
+   "why": "subsection （四） (numbering)"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 108,
-   "note": "English translation of the title (back-placed English abstract block)"
+   "boxes": [
+    108
+   ],
+   "of": 4,
+   "why": "repeat: English title restated after the references (title printed again in translation, apart from the Chinese title); as a restated title of the whole document it is a repeat of L1, not a node, and closes 参考文献: the English authors/abstract/keywords after it are about the whole paper, not the references (round 3)"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": []
 }

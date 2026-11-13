@@ -1,200 +1,299 @@
 {
  "doc": "manualGuide_eng_714e4656",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3,
+    4,
+    7
+   ],
    "level": 1,
    "parent": "root",
-   "text": "LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet",
-   "merge": [
-    3,
-    4
+   "text": "LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux",
+   "why": "title union: models + product type + manual type + owner logo footer box #7 (AEG Electrolux). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet)."
+  },
+  {
+   "boxes": [
+    34
    ],
-   "note": "models + product type + manual type merged"
-  },
-  {
-   "anno": 34,
    "level": 2,
    "parent": 2,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Safety instructions"
+   "text": "Safety instructions",
+   "why": "section: large bold head (TOC top entry)"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 3,
    "parent": 47,
-   "text": "General safety"
+   "text": "General safety",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 3,
    "parent": 47,
-   "text": "Installation"
+   "text": "Installation",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 47,
-   "text": "Child safety"
+   "text": "Child safety",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 47,
-   "text": "During use"
+   "text": "During use",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Disposal"
+   "text": "Disposal",
+   "why": "section: large bold head"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 3,
    "parent": 78,
-   "text": "Packaging materials"
+   "text": "Packaging materials",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 3,
    "parent": 78,
-   "text": "Machine"
+   "text": "Machine",
+   "why": "subsection: medium bold head"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Tips for environmental protection"
+   "text": "Tips for environmental protection",
+   "why": "section: large bold head"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Main features of your washer-dryer"
+   "text": "Main features of your washer-dryer",
+   "why": "section: large bold head"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Description of the appliance"
+   "text": "Description of the appliance",
+   "why": "section: large bold head"
   },
   {
-   "anno": 117,
+   "boxes": [
+    117
+   ],
    "level": 3,
    "parent": 116,
-   "text": "Front view"
+   "text": "Front view",
+   "why": "subsection: medium bold head over the front-view figure"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 3,
    "parent": 116,
    "text": "Control panel",
-   "note": "medium bold, same look as Front view (gold L2); the TOC indents it under Description of the appliance"
+   "why": "subsection: medium bold head (TOC: under Description of the appliance)"
   },
   {
-   "anno": 133,
-   "level": 3,
-   "parent": 116,
+   "boxes": [
+    133
+   ],
+   "level": 4,
+   "parent": 122,
    "text": "Programme selector dial",
-   "note": "same look as Control panel; TOC indents it one deeper (look decides)"
+   "why": "control item: TOC indents it under Control panel; describes one control of the panel (content beats look)"
   },
   {
-   "anno": 150,
-   "level": 3,
-   "parent": 116,
-   "text": "ON/OFF button"
-  },
-  {
-   "anno": 152,
-   "level": 3,
-   "parent": 116,
-   "text": "Mains-on light"
-  },
-  {
-   "anno": 154,
-   "level": 3,
-   "parent": 116,
-   "text": "START/PAUSE button"
-  },
-  {
-   "anno": 156,
+   "boxes": [
+    150
+   ],
    "level": 4,
-   "parent": 154,
-   "text": "a) Start"
+   "parent": 122,
+   "text": "ON/OFF button",
+   "why": "control item: same"
   },
   {
-   "anno": 158,
+   "boxes": [
+    152
+   ],
    "level": 4,
+   "parent": 122,
+   "text": "Mains-on light",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "START/PAUSE button",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "level": 5,
    "parent": 154,
-   "text": "b) Pause"
+   "text": "a) Start",
+   "why": "function item: lettered a) with its own paragraph"
   },
   {
-   "anno": 161,
-   "level": 3,
-   "parent": 116,
-   "text": "DELAY START button"
+   "boxes": [
+    158
+   ],
+   "level": 5,
+   "parent": 154,
+   "text": "b) Pause",
+   "why": "function item: lettered b)"
   },
   {
-   "anno": 170,
-   "level": 3,
-   "parent": 116,
-   "text": "DRYING TIME button"
+   "boxes": [
+    161
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "DELAY START button",
+   "why": "control item: same"
   },
   {
-   "anno": 174,
-   "level": 3,
-   "parent": 116,
-   "text": "Programme Option buttons"
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "DRYING TIME button",
+   "why": "control item: same"
   },
   {
-   "anno": 178,
-   "level": 3,
-   "parent": 116,
-   "text": "SPIN SPEED"
+   "boxes": [
+    174
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "Programme Option buttons",
+   "why": "control item: same"
   },
   {
-   "anno": 180,
-   "level": 3,
-   "parent": 116,
-   "text": "RINSE HOLD"
-  }
- ],
- "not_headings": [
+   "boxes": [
+    178
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "SPIN SPEED",
+   "why": "control item: same (TOC indent under Control panel)"
+  },
   {
-   "anno": 27,
-   "note": "callout box label \"Important\""
+   "boxes": [
+    180
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "RINSE HOLD",
+   "why": "control item: same"
   }
  ],
  "repeats": [
   {
-   "anno": 38,
-   "of": 34
+   "boxes": [
+    38
+   ],
+   "of": 34,
+   "why": "repeat: small Contents label on the contents continuation page"
   },
   {
-   "anno": 42,
-   "of": 34
+   "boxes": [
+    42
+   ],
+   "of": 34,
+   "why": "repeat: small Contents label on the contents continuation page"
   },
   {
-   "anno": 61,
-   "of": 47
+   "boxes": [
+    61
+   ],
+   "of": 47,
+   "why": "repeat: running section tag Safety instructions"
   },
   {
-   "anno": 121,
-   "of": 116
+   "boxes": [
+    121
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
   },
   {
-   "anno": 145,
-   "of": 116
+   "boxes": [
+    145
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
   },
   {
-   "anno": 167,
-   "of": 116
+   "boxes": [
+    167
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 27,
+   "why": "callout: Important box label on the welcome page"
+  }
+ ],
+ "considered": [
+  {
+   "box": 9,
+   "why": "salutation: text"
   }
  ]
 }

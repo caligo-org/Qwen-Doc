@@ -1,38 +1,45 @@
 {
  "doc": "handwritten_chn_94af97ba",
- "notation": "handwritten-v2 (answered exam paper, title not in the photos): question groups 一、二、三 L1; a numbered group label that holds several sub-items (21. 计算题：…) L2. Question statements and sub-questions are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "一、选择题：（每题3分，共36分）"
+   "text": "一、选择题：（每题3分，共36分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 1,
    "parent": "root",
-   "text": "二、填空题. （每题4分，共32分）"
+   "text": "二、填空题. （每题4分，共32分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 1,
    "parent": "root",
-   "text": "三、解答题（共52分）"
-  },
-  {
-   "anno": 73,
-   "level": 2,
-   "parent": 72,
-   "text": "21. 计算题：（每题5分，共20分）",
-   "note": "labelled group of four calculations (计算题), own line"
+   "text": "三、解答题（共52分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 86,
-   "note": "sub-question (2) of question 23; (1) is text too"
+   "box": 73,
+   "why": "exam question 21 (计算题 with its parts): individual question, text"
+  },
+  {
+   "box": 86,
+   "why": "sub-question (2) of question 23: text"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,146 +1,192 @@
 {
  "doc": "manualGuide_chn_1a73fd62",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "人工呼吸器 決策指南 Ventilator Decision Aid",
-   "merge": [
-    2
-   ],
-   "note": "bilingual title; English line merged"
+   "text": "人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA",
+   "why": "title union: document type + its translation + owner logo header box #3 (Coalition for Compassionate Care of California). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: 人工呼吸器 決策指南 Ventilator Decision Aid)."
   },
   {
-   "anno": 4,
+   "boxes": [
+    4,
+    5
+   ],
    "level": 2,
    "parent": 1,
    "text": "什麽是人工呼吸器？ What is a ventilator?",
-   "merge": [
-    5
-   ]
+   "why": "section: question heading (zh + en translation union) over its answer block"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7,
+    8
+   ],
    "level": 2,
    "parent": 1,
    "text": "當病人連上人工呼吸器時會發生什麼情況？如何操作？ What happens when someone is attached to a ventilator? How is it done?",
-   "merge": [
-    8
-   ]
+   "why": "section: question heading + translation, bullet block below"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12,
+    13
+   ],
    "level": 2,
    "parent": 1,
    "text": "什麼時候須要人工呼吸器？ When do people need a ventilator?",
-   "merge": [
-    13
-   ]
+   "why": "section: question heading + translation, contains the short/long-term reason blocks"
   },
   {
-   "anno": 29,
+   "boxes": [
+    16,
+    17
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "短期使用人工呼吸器的原因可能包括： Reasons for short-term ventilator use may include:",
+   "why": "label heading: own line in heading style with its own bullet block, a subdivision of the 'when needed' section (content beats look)"
+  },
+  {
+   "boxes": [
+    22,
+    23
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "長期使用人工呼吸器的原因包括： Reasons for long-term ventilator use may include:",
+   "why": "label heading: sibling of short-term reasons, own bullet block"
+  },
+  {
+   "boxes": [
+    29,
+    30
+   ],
    "level": 2,
    "parent": 1,
    "text": "誰應該使用這份指南？ Who should use this guide?",
-   "merge": [
-    30
-   ]
+   "why": "section: question heading + translation in its own panel"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 2,
    "parent": 1,
-   "text": "人工呼吸器可能有何帮助？How might using a ventilator help?"
+   "text": "人工呼吸器可能有何帮助？How might using a ventilator help?",
+   "why": "section: question heading (zh + en on one line)"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
    "parent": 1,
-   "text": "人工呼吸器可能造成哪些傷害？How might a ventilator cause harm?"
+   "text": "人工呼吸器可能造成哪些傷害？How might a ventilator cause harm?",
+   "why": "section: question heading over bullets"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 1,
-   "text": "人工呼吸器能使病情好转嗎？Does a ventilator help people to get better?"
+   "text": "人工呼吸器能使病情好转嗎？Does a ventilator help people to get better?",
+   "why": "section: question heading over answer"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 1,
-   "text": "人工呼吸器對哪些病人最有益？Who is most likely to be helped from being on a ventilator?"
+   "text": "人工呼吸器對哪些病人最有益？Who is most likely to be helped from being on a ventilator?",
+   "why": "section: question heading over bullets"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 1,
-   "text": "人工呼吸器對哪些病人較無益？Who is less likely to be helped by using a ventilator?"
+   "text": "人工呼吸器對哪些病人較無益？Who is less likely to be helped by using a ventilator?",
+   "why": "section: question heading over bullets"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 1,
-   "text": "使用人工呼吸器，會是什麼樣的情況？ What is it like being on a ventilator?"
+   "text": "使用人工呼吸器，會是什麼樣的情況？ What is it like being on a ventilator?",
+   "why": "section: question heading over answer"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57,
+    58
+   ],
    "level": 2,
    "parent": 1,
    "text": "一旦用了人工呼吸器，他們可以停止不用嗎？ Once someone is on a ventilator, can they come off?",
-   "merge": [
-    58
-   ]
+   "why": "section: question heading + translation"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60,
+    61
+   ],
    "level": 2,
    "parent": 1,
    "text": "如果有人需要長時間使用人工呼吸器，會有什麼情況出現呢？ What happens if someone needs a ventilator for a long time?",
-   "merge": [
-    61
-   ]
+   "why": "section: question heading + translation"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64,
+    65
+   ],
    "level": 2,
    "parent": 1,
    "text": "對決定不嘗試人工呼吸器的病人，會有什麼情況？ What happens to people who decide NOT to try a ventilator?",
-   "merge": [
-    65
-   ]
+   "why": "section: question heading + translation"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75,
+    76
+   ],
    "level": 2,
    "parent": 1,
    "text": "人們如何決定是否要試用人工呼吸器？ How do people decide whether or not to try a ventilator?",
-   "merge": [
-    76
-   ]
+   "why": "section: question heading + translation"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 16,
-   "note": "label rule"
-  },
-  {
-   "anno": 17,
-   "note": "label rule (English half of the lead-in)"
-  },
-  {
-   "anno": 22,
-   "note": "label rule"
-  },
-  {
-   "anno": 23,
-   "note": "label rule (English half of the lead-in)"
-  },
-  {
-   "anno": 78,
-   "note": "bold black list lead-in, same style as the run-in lines #66/#72 (text)"
+   "box": 78,
+   "why": "list lead-in in bold black body style ending in a colon, introduces the bullet list (run-in label, not the coloured heading style)"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 32,
+   "why": "callout: 備註 note box"
+  },
+  {
+   "box": 66,
+   "why": "bold body-style key statement followed by its explanation: text, not the coloured heading style"
+  },
+  {
+   "box": 72,
+   "why": "bold body-style key statement: text"
+  }
+ ]
 }

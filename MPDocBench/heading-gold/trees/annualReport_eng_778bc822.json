@@ -1,293 +1,438 @@
 {
  "doc": "annualReport_eng_778bc822",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report & Accounts 2022",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "The 600 Group PLC Annual Report & Accounts 2022",
+   "why": "title union: owner + document type in one cover block"
   },
   {
-   "anno": 10,
-   "level": 2,
-   "parent": 6,
-   "text": "Who We Are"
-  },
-  {
-   "anno": 14,
-   "level": 3,
-   "parent": 10,
-   "text": "Position Statement"
-  },
-  {
-   "anno": 16,
-   "level": 3,
-   "parent": 10,
-   "text": "Mission"
-  },
-  {
-   "anno": 18,
-   "level": 3,
-   "parent": 10,
-   "text": "Vision"
-  },
-  {
-   "anno": 41,
-   "level": 2,
-   "parent": 6,
-   "text": "We Stand For"
-  },
-  {
-   "anno": 42,
-   "level": 3,
-   "parent": 41,
-   "text": "Service"
-  },
-  {
-   "anno": 44,
-   "level": 3,
-   "parent": 41,
-   "text": "Innovation"
-  },
-  {
-   "anno": 46,
-   "level": 3,
-   "parent": 41,
-   "text": "Quality"
-  },
-  {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 2,
    "parent": 6,
    "text": "Chairman's statement",
-   "note": "section title printed only as the running head; first page of the section"
+   "why": "section: title printed only as the running head of this section's pages (user decision)"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 2,
    "parent": 6,
    "text": "Strategic report",
-   "note": "section title printed only as the running head; first page of the section"
+   "why": "section: title printed only as the running head of this section's pages; first page Round 2: listed before its page's subheads (the running head prints at the top of p7; the gold order leaves header boxes unordered)."
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Our business"
+   "text": "Our business",
+   "why": "bold subhead in the strategic report Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Revenues (Continuing activities)"
+   "text": "Revenues (Continuing activities)",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Macroeconomic and industry trends"
+   "text": "Macroeconomic and industry trends",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 4,
    "parent": 67,
-   "text": "Industrial laser systems"
+   "text": "Industrial laser systems",
+   "why": "underlined sub-subhead naming the segment discussed"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Our main markets"
+   "text": "Our main markets",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Activity in the year"
+   "text": "Activity in the year",
+   "why": "bold subhead"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 4,
    "parent": 79,
-   "text": "Industrial laser systems"
+   "text": "Industrial laser systems",
+   "why": "underlined sub-subhead"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Discontinued Activity - Machine tools division"
+   "text": "Discontinued Activity - Machine tools division",
+   "why": "bold subhead"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Group Results"
+   "text": "Group Results",
+   "why": "bold subhead"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Adjusting items"
+   "text": "Adjusting items",
+   "why": "bold subhead"
   },
   {
-   "anno": 101,
+   "boxes": [
+    101
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Taxation"
+   "text": "Taxation",
+   "why": "bold subhead"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Net profit and earnings per share"
+   "text": "Net profit and earnings per share",
+   "why": "bold subhead"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Financial position and utilisation of resources"
+   "text": "Financial position and utilisation of resources",
+   "why": "bold subhead"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 4,
    "parent": 107,
-   "text": "Cash flow"
+   "text": "Cash flow",
+   "why": "underlined sub-subhead"
   },
   {
-   "anno": 113,
+   "boxes": [
+    113
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Net borrowings"
+   "text": "Net borrowings",
+   "why": "bold subhead"
   },
   {
-   "anno": 119,
+   "boxes": [
+    119
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Retirement benefits"
+   "text": "Retirement benefits",
+   "why": "bold subhead"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Key performance indicators (KPIs)"
+   "text": "Key performance indicators (KPIs)",
+   "why": "bold subhead"
   },
   {
-   "anno": 132,
+   "boxes": [
+    132
+   ],
    "level": 3,
    "parent": 60,
-   "text": "S172 of the Companies Act"
+   "text": "S172 of the Companies Act",
+   "why": "bold subhead"
   },
   {
-   "anno": 143,
+   "boxes": [
+    143
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Principal risks"
+   "text": "Principal risks",
+   "why": "bold subhead"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Market risks"
+   "text": "Market risks",
+   "why": "bold subhead"
   },
   {
-   "anno": 152,
+   "boxes": [
+    152
+   ],
    "level": 3,
    "parent": 60,
-   "text": "Other risks and uncertainties"
+   "text": "Other risks and uncertainties",
+   "why": "bold subhead"
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 2,
    "parent": 6,
    "text": "CFO Statement",
-   "note": "section title printed as the running header of this section only (like Chairman's statement, Strategic report, Corporate governance)"
+   "why": "section: running header printed only on this section's pages (user decision: section heading) Round 2: listed before its page's body title (printed at the top of p12)."
   },
   {
-   "anno": 160,
+   "boxes": [
+    160
+   ],
    "level": 3,
    "parent": 159,
-   "text": "Chief Financial Officer Statement"
+   "text": "Chief Financial Officer Statement",
+   "why": "body title below the section-only running header (user decision) Round 2: parent CFO Statement (#159), the section-only running header of its page (600 Group rule), not Strategic report."
   },
   {
-   "anno": 162,
+   "boxes": [
+    162
+   ],
    "level": 4,
    "parent": 160,
-   "text": "Current year review"
+   "text": "Current year review",
+   "why": "bold subhead"
   },
   {
-   "anno": 166,
+   "boxes": [
+    166
+   ],
    "level": 4,
    "parent": 160,
-   "text": "Statement of financial position"
+   "text": "Statement of financial position",
+   "why": "bold subhead"
   },
   {
-   "anno": 170,
+   "boxes": [
+    170
+   ],
    "level": 4,
    "parent": 160,
-   "text": "Next year outlook"
+   "text": "Next year outlook",
+   "why": "bold subhead"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 4,
    "parent": 160,
-   "text": "Conclusion"
+   "text": "Conclusion",
+   "why": "bold subhead"
   },
   {
-   "anno": 176,
+   "boxes": [
+    176
+   ],
    "level": 2,
    "parent": 6,
    "text": "Corporate governance",
-   "note": "section title printed only as the running head"
+   "why": "section: title printed only as the running head Round 2: listed before its page's subheads (printed at the top of p13)."
   },
   {
-   "anno": 180,
+   "boxes": [
+    180
+   ],
    "level": 3,
    "parent": 176,
-   "text": "The Board"
+   "text": "The Board",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
   },
   {
-   "anno": 190,
+   "boxes": [
+    190
+   ],
    "level": 3,
    "parent": 176,
-   "text": "Relations with shareholders"
+   "text": "Relations with shareholders",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
   },
   {
-   "anno": 192,
+   "boxes": [
+    192
+   ],
    "level": 3,
    "parent": 176,
-   "text": "Social responsibility"
+   "text": "Social responsibility",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
   },
   {
-   "anno": 194,
+   "boxes": [
+    194
+   ],
    "level": 3,
    "parent": 176,
-   "text": "Risk management"
+   "text": "Risk management",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
   },
   {
-   "anno": 198,
+   "boxes": [
+    198
+   ],
    "level": 3,
    "parent": 176,
-   "text": "The QCA Code"
+   "text": "The QCA Code",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    48
+   ],
+   "of": 6,
+   "why": "repeat: title restated on a half-title page"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "of": 60,
+   "why": "repeat: running section title, section still open"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 77,
-   "of": 60
+   "box": 1,
+   "why": "logo text in the header"
   },
   {
-   "anno": 99,
-   "of": 60
+   "box": 8,
+   "why": "company number footer"
   },
   {
-   "anno": 122,
-   "of": 60
+   "box": 12,
+   "why": "callout label (VISIT US ONLINE)"
   },
   {
-   "anno": 140,
-   "of": 60
+   "box": 25,
+   "why": "directory field label"
+  },
+  {
+   "box": 27,
+   "why": "directory field label"
+  },
+  {
+   "box": 40,
+   "why": "figure caption"
+  },
+  {
+   "box": 78,
+   "why": "\"(continued)\" line without a title"
+  },
+  {
+   "box": 142,
+   "why": "\"(Continued)\" line without a title"
+  },
+  {
+   "box": 145,
+   "why": "bold run-in lead-in starting a paragraph"
+  },
+  {
+   "box": 10,
+   "why": "round 3: was L2 \"Who We Are\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 14,
+   "why": "round 3: was L3 \"Position Statement\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 16,
+   "why": "round 3: was L3 \"Mission\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 18,
+   "why": "round 3: was L3 \"Vision\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 41,
+   "why": "round 3: was L2 \"We Stand For\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 42,
+   "why": "round 3: was L3 \"Service\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 44,
+   "why": "round 3: was L3 \"Innovation\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+  },
+  {
+   "box": 46,
+   "why": "round 3: was L3 \"Quality\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
   }
  ]
 }

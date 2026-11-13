@@ -1,85 +1,219 @@
 {
  "doc": "prospectus_chn_4aa05674",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections and 第X节; L3 一、; L4 （一）. Cover issuer name/English name/address/sponsor are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 7,
+   "boxes": [
+    3,
+    7
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在科创板上市招股说明书"
+   "text": "安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "声明"
+   "parent": 3,
+   "text": "声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "本次发行概况"
+   "parent": 3,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "目录"
+   "parent": 3,
+   "text": "目录",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "第一节 释义"
+   "parent": 3,
+   "text": "第一节 释义",
+   "why": "body chapter 第一节 释义 (chapter label + title in one box)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 41,
-   "text": "一、一般术语"
+   "text": "一、一般术语",
+   "why": "section 一、 with its term table"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 41,
-   "text": "二、专业术语"
+   "text": "二、专业术语",
+   "why": "section 二、 with its term table"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "第二节 概览"
+   "parent": 3,
+   "text": "第二节 概览",
+   "why": "body chapter 第二节 概览"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 3,
    "parent": 71,
-   "text": "一、重大事项提示"
+   "text": "一、重大事项提示",
+   "why": "section 一、 重大事项提示 with its risk items"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 4,
    "parent": 73,
    "text": "（一）发行人行业经验及影响力、市场占有率、经营规模等方面和行业龙头存在差距的风险",
-   "note": "bold (一) risk heading, text_block missed by gold"
+   "why": "（一） risk subsection with its paragraphs (tagged text_block, bold like siblings)"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 4,
    "parent": 73,
    "text": "（二）关联交易占比较高的风险",
-   "note": "bold (二) risk heading, text_block missed by gold"
+   "why": "（二） risk subsection with its paragraph"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11,
+    12
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    17,
+    18
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    22,
+    23
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    27,
+    28
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    31,
+    32
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    35,
+    36
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    39,
+    40
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    46,
+    47
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    50,
+    51
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    54,
+    55
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    60,
+    61
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    64,
+    65
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    69,
+    70
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 4,
-   "note": "issuer English name on cover"
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,38 +1,63 @@
 {
  "doc": "goverment_chn_536e78f8",
- "notation": "goverment-v2: L1 regulation title; L2 第N章; L3 第N节; 第N条 articles are run-in text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "中华人民共和国企业所得税法实施条例"
+   "text": "中华人民共和国企业所得税法实施条例",
+   "why": "title: regulation title names the whole document"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第一章 总 则"
+   "text": "第一章 总 则",
+   "why": "chapter: 第一章 label + title, describes articles below"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第二章 应纳税所得额"
+   "text": "第二章 应纳税所得额",
+   "why": "chapter: 第二章 label + title"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 28,
-   "text": "第一节 一般规定"
+   "text": "第一节 一般规定",
+   "why": "section: 第一节 under 第二章"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 28,
-   "text": "第二节 收入"
+   "text": "第二节 收入",
+   "why": "section: 第二节 under 第二章"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "promulgation/revision note under the title: text"
+  },
+  {
+   "box": 4,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
 }

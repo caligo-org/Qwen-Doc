@@ -1,62 +1,106 @@
 {
  "doc": "financialReport_chn_ad31878f",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "二〇二四年度审计报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告",
+   "why": "title: owner + period + document type in one cover box"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 11,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 1,
-   "text": "审计报告"
+   "text": "一、审计意见",
+   "why": "section: 一、 part of the letter; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
   },
   {
-   "anno": 14,
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    21
+   ],
    "level": 3,
-   "parent": 11,
-   "text": "一、审计意见"
-  },
-  {
-   "anno": 17,
-   "level": 3,
-   "parent": 11,
-   "text": "二、形成审计意见的基础"
-  },
-  {
-   "anno": 19,
-   "level": 3,
-   "parent": 11,
-   "text": "三、关键审计事项"
-  },
-  {
-   "anno": 21,
-   "level": 4,
    "parent": 19,
-   "text": "（一）收入确认"
+   "text": "（一）收入确认",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 27,
-   "level": 5,
+   "boxes": [
+    27
+   ],
+   "level": 4,
    "parent": 21,
-   "text": "1、事项描述"
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
   },
   {
-   "anno": 29,
-   "level": 5,
+   "boxes": [
+    29
+   ],
+   "level": 4,
    "parent": 21,
-   "text": "2、审计应对"
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "repeat: 审计报告 restated above the auditor letter is a restatement of the L1 (owner ∪ 审计报告), not a child of it (NOTATIONS \"Every path is a breadcrumb\", round 3; was an L2 section). The letter sections become children of L1."
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "audit firm on cover, text"
+  },
+  {
+   "box": 12,
+   "why": "report number, text"
+  },
+  {
+   "box": 13,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 30,
+   "why": "lead-in sentence, text"
+  }
+ ]
 }

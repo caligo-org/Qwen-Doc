@@ -1,48 +1,57 @@
 {
  "doc": "researchReport_chn_1fb28f59",
- "notation": "researchReport (company note): L1 = report headline (the company/stock banner above it is a kicker: text); L2 = 投资要点, 图表目录. Sidebar data-box labels (股价走势, 市场数据, 基础数据) and 相关研究 are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    3,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2022年&2023Q1业绩点评：硅料量利双超，电池技术持续迭代"
-  },
-  {
-   "anno": 8,
-   "level": 2,
-   "parent": 4,
-   "text": "投资要点",
-   "note": "summary section"
-  },
-  {
-   "anno": 42,
-   "level": 2,
-   "parent": 4,
-   "text": "图表目录"
+   "text": "通威股份（600438） 2022年&2023Q1业绩点评：硅料量利双超，电池技术持续迭代",
+   "why": "title union: covered company banner + report headline in one title block"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "company/stock banner above the headline (kicker; not on the title line)"
+   "box": 26,
+   "why": "sidebar chart label (股价走势): text per category note"
   },
   {
-   "anno": 26,
-   "note": "股价走势: sidebar chart label"
+   "box": 28,
+   "why": "sidebar market-data table label: text"
   },
   {
-   "anno": 28,
-   "note": "市场数据: sidebar table label"
+   "box": 30,
+   "why": "sidebar base-data table label: text"
   },
   {
-   "anno": 30,
-   "note": "基础数据: sidebar table label"
+   "box": 32,
+   "why": "related-research list label: text per category note"
   },
   {
-   "anno": 32,
-   "note": "相关研究: related-reports list"
+   "box": 8,
+   "why": "round 3 containment: cover summary title 投资要点; no later heading closes it before the figure list (p2) and the unheaded body (pp3-6), which would fall into its subtree, so it is text (NOTATIONS \"Containment closes subtrees\")"
+  },
+  {
+   "box": 42,
+   "why": "round 3 containment: figure-list title 图表目录; the body pp3-6 prints no heading (only bold run-ins 事件：, 硅料出货高增…), so the whole body would fall into its subtree; it fails containment and is text (NOTATIONS \"Containment closes subtrees\")"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running report-type header"
+  },
+  {
+   "box": 5,
+   "why": "rating line"
+  },
+  {
+   "box": 7,
+   "why": "keyword tag line"
+  }
+ ]
 }

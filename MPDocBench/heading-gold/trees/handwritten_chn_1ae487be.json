@@ -1,198 +1,248 @@
 {
  "doc": "handwritten_chn_1ae487be",
- "notation": "handwritten-v2 (printed drill workbook filled by hand): no title printed; rounds (第二轮/第三轮, large bold box) L1; days (第N天 small box) L2, the first round's banner is not printed so days 1-5 are L2 under root; 类型/考法 L3; unnumbered sub-type lines L4. Last page is a separate notebook sheet with its own title (L1).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": "root",
-   "text": "第1天",
-   "note": "round 1 banner not printed"
+   "text": "类型一 化合反应",
+   "why": "content type: printed type title over its reactions; L2 under root: round 1 banner not printed (role skip) (round 3: days are text)"
   },
   {
-   "anno": 2,
-   "level": 3,
-   "parent": 1,
-   "text": "类型一 化合反应"
-  },
-  {
-   "anno": 19,
+   "boxes": [
+    26
+   ],
    "level": 2,
    "parent": "root",
-   "text": "第2天"
+   "text": "类型二 分解反应",
+   "why": "content type: printed type title over its reactions; L2 under root: round 1 banner not printed (role skip) (round 3: days are text)"
   },
   {
-   "anno": 26,
-   "level": 3,
-   "parent": 19,
-   "text": "类型二 分解反应"
-  },
-  {
-   "anno": 37,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": "root",
-   "text": "第3天"
+   "text": "类型三 置换反应",
+   "why": "content type: printed type title over its reactions; L2 under root: round 1 banner not printed (role skip) (round 3: days are text)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    49
+   ],
    "level": 3,
-   "parent": 37,
-   "text": "类型三 置换反应"
-  },
-  {
-   "anno": 49,
-   "level": 4,
    "parent": 38,
    "text": "金属与金属盐溶液的反应",
-   "note": "sub-type of 置换反应 (unnumbered bold line)"
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 62,
-   "level": 4,
+   "boxes": [
+    62
+   ],
+   "level": 3,
    "parent": 38,
-   "text": "金属的冶炼"
+   "text": "金属的冶炼",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    68
+   ],
    "level": 2,
    "parent": "root",
-   "text": "第4天"
+   "text": "类型四 复分解反应",
+   "why": "content type: printed type title over its reactions; L2 under root: round 1 banner not printed (role skip) (round 3: days are text)"
   },
   {
-   "anno": 68,
+   "boxes": [
+    69
+   ],
    "level": 3,
-   "parent": 67,
-   "text": "类型四 复分解反应"
-  },
-  {
-   "anno": 69,
-   "level": 4,
    "parent": 68,
-   "text": "金属氧化物与酸的反应"
+   "text": "金属氧化物与酸的反应",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 76,
-   "level": 4,
+   "boxes": [
+    76
+   ],
+   "level": 3,
    "parent": 68,
-   "text": "酸与碱的反应"
+   "text": "酸与碱的反应",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 81,
-   "level": 4,
+   "boxes": [
+    81
+   ],
+   "level": 3,
    "parent": 68,
-   "text": "碳酸盐与酸的反应"
+   "text": "碳酸盐与酸的反应",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 92,
-   "level": 4,
+   "boxes": [
+    92
+   ],
+   "level": 3,
    "parent": 68,
-   "text": "非碳酸盐与酸的反应"
+   "text": "非碳酸盐与酸的反应",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 98,
-   "level": 4,
+   "boxes": [
+    98
+   ],
+   "level": 3,
    "parent": 68,
-   "text": "盐与碱的反应"
+   "text": "盐与碱的反应",
+   "why": "sub-type: own-line printed title with its formula + items below (round 3: L3 under its type, days are text)"
   },
   {
-   "anno": 106,
-   "level": 2,
-   "parent": "root",
-   "text": "第5天"
-  },
-  {
-   "anno": 107,
-   "level": 4,
-   "parent": 106,
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 68,
    "text": "盐与盐的反应",
-   "note": "sub-type of 复分解反应 resumed after the day break; level kept by look (skips L3 under the day)"
+   "why": "sub-type: own-line printed title with its formula + items below; continues type 四 复分解反应 after the 第5天 pacing mark (text), so it sits L3 under 类型四 (round 3: resolves the round-1/2 OPEN level skip)"
   },
   {
-   "anno": 117,
-   "level": 3,
-   "parent": 106,
-   "text": "类型五 非四大基本反应类型"
+   "boxes": [
+    117
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "类型五 非四大基本反应类型",
+   "why": "content type: printed type title over its reactions; L2 under root: round 1 banner not printed (role skip) (round 3: days are text)"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 1,
    "parent": "root",
-   "text": "第二轮 中考化学方程式变式练"
+   "text": "第二轮 中考化学方程式变式练",
+   "why": "round banner: top grouping of the workbook (no overall title printed)"
   },
   {
-   "anno": 130,
+   "boxes": [
+    131
+   ],
    "level": 2,
    "parent": 129,
-   "text": "第6天"
+   "text": "考法一 根据制气装置图书写",
+   "why": "考法 title: printed method title over its items; L2 under its round banner (round 3: days are text)"
   },
   {
-   "anno": 131,
-   "level": 3,
-   "parent": 130,
-   "text": "考法一 根据制气装置图书写"
-  },
-  {
-   "anno": 147,
+   "boxes": [
+    148
+   ],
    "level": 2,
    "parent": 129,
-   "text": "第7天"
+   "text": "考法二 根据原理、用途书写",
+   "why": "考法 title; L2 under its round banner (round 3: days are text)"
   },
   {
-   "anno": 148,
-   "level": 3,
-   "parent": 147,
-   "text": "考法二 根据原理、用途书写"
-  },
-  {
-   "anno": 166,
-   "level": 2,
-   "parent": 129,
-   "text": "第8天"
-  },
-  {
-   "anno": 187,
-   "level": 2,
-   "parent": 129,
-   "text": "第9天"
-  },
-  {
-   "anno": 208,
+   "boxes": [
+    208
+   ],
    "level": 1,
    "parent": "root",
-   "text": "第三轮 中考高频化学方程式强化练"
+   "text": "第三轮 中考高频化学方程式强化练",
+   "why": "round banner: top grouping"
   },
   {
-   "anno": 209,
-   "level": 2,
-   "parent": 208,
-   "text": "第10天"
-  },
-  {
-   "anno": 237,
+   "boxes": [
+    237
+   ],
    "level": 1,
    "parent": "root",
    "text": "初中常见化学方程式",
-   "note": "separate notebook sheet with its own title"
+   "why": "sheet title: appended notebook sheet with its own title"
   },
   {
-   "anno": 238,
+   "boxes": [
+    238
+   ],
    "level": 2,
    "parent": 237,
-   "text": "1. 化合反应"
+   "text": "1. 化合反应",
+   "why": "section: numbered reaction type over its table"
   },
   {
-   "anno": 240,
+   "boxes": [
+    240
+   ],
    "level": 2,
    "parent": 237,
-   "text": "二. 分解反应"
+   "text": "二. 分解反应",
+   "why": "section: numbered reaction type over its table"
   },
   {
-   "anno": 242,
+   "boxes": [
+    242
+   ],
    "level": 2,
    "parent": 237,
-   "text": "三. 置换反应"
+   "text": "三. 置换反应",
+   "why": "section: numbered reaction type over its table"
   }
  ],
- "not_headings": [],
- "repeats": []
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 19,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 37,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 67,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 106,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 130,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 147,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 166,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 187,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  },
+  {
+   "box": 209,
+   "why": "day marker 第N天: pacing mark of the drill schedule, not a content heading; it cuts across the type/考法 titles (第2天 inside 类型一, 第5天 inside 类型四, 第8天/第9天 inside 考法二), so as a heading it fails containment and breaks the breadcrumb (round 3)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 71,
+   "why": "margin note 除铁锈: text"
+  },
+  {
+   "box": 236,
+   "why": "notebook Date header: text"
+  }
+ ]
 }

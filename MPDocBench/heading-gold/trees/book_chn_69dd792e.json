@@ -1,433 +1,659 @@
 {
  "doc": "book_chn_69dd792e",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "第十二章 口腔局部解剖及其生理功能",
-   "merge": [
-    2
-   ]
+   "why": "title union: chapter label + chapter title (chapter excerpt)"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "【提要"
+   "text": "提要",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献); breadcrumb round 3: node text as printed (OCR \"【提要\" read the dashed box frame as a bracket)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第一节 唇、颊、舌、腭、咽、喉的局部解剖"
+   "text": "第一节 唇、颊、舌、腭、咽、喉的局部解剖",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献)"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 3,
    "parent": 5,
-   "text": "一、唇"
+   "text": "一、唇",
+   "why": "一、 level section"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 4,
    "parent": 9,
-   "text": "（一）表面解剖标志"
+   "text": "（一）表面解剖标志",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 4,
    "parent": 9,
-   "text": "（二）区域解剖特点"
+   "text": "（二）区域解剖特点",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 5,
-   "text": "二、颊"
+   "text": "二、颊",
+   "why": "一、 level section"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 4,
    "parent": 46,
-   "text": "（一）境界"
+   "text": "（一）境界",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 4,
    "parent": 46,
-   "text": "（二）区域解剖特点"
+   "text": "（二）区域解剖特点",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 3,
    "parent": 5,
-   "text": "三、舌"
+   "text": "三、舌",
+   "why": "一、 level section"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 4,
    "parent": 66,
-   "text": "（一）表面解剖标志"
+   "text": "（一）表面解剖标志",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 4,
    "parent": 66,
-   "text": "（二）区域解剖特点"
+   "text": "（二）区域解剖特点",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 126,
+   "boxes": [
+    126
+   ],
    "level": 5,
    "parent": 81,
-   "text": "4. 神经分布和支配"
+   "text": "4. 神经分布和支配",
+   "why": "own-line numbered head (siblings run-in)"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 3,
    "parent": 5,
-   "text": "四、舌下区（口底）"
+   "text": "四、舌下区（口底）",
+   "why": "一、 level section"
   },
   {
-   "anno": 131,
+   "boxes": [
+    131
+   ],
    "level": 4,
    "parent": 129,
-   "text": "（一）表面解剖标志"
+   "text": "（一）表面解剖标志",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 4,
    "parent": 129,
-   "text": "（二）区域解剖特点"
+   "text": "（二）区域解剖特点",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 3,
    "parent": 5,
-   "text": "五、腭"
+   "text": "五、腭",
+   "why": "一、 level section"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 4,
    "parent": 148,
-   "text": "（一）表面解剖标志"
+   "text": "（一）表面解剖标志",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 168,
+   "boxes": [
+    168
+   ],
    "level": 4,
    "parent": 148,
-   "text": "（二）区域解剖特点"
+   "text": "（二）区域解剖特点",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 192,
+   "boxes": [
+    192
+   ],
    "level": 3,
    "parent": 5,
-   "text": "六、咽"
+   "text": "六、咽",
+   "why": "一、 level section"
   },
   {
-   "anno": 218,
+   "boxes": [
+    218
+   ],
    "level": 3,
    "parent": 5,
-   "text": "七、喉"
+   "text": "七、喉",
+   "why": "一、 level section"
   },
   {
-   "anno": 232,
+   "boxes": [
+    232
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第二节 口腔生理功能"
+   "text": "第二节 口腔生理功能",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献)"
   },
   {
-   "anno": 234,
+   "boxes": [
+    234
+   ],
    "level": 3,
    "parent": 232,
-   "text": "一、吮吸"
+   "text": "一、吮吸",
+   "why": "一、 level section"
   },
   {
-   "anno": 238,
+   "boxes": [
+    238
+   ],
    "level": 3,
    "parent": 232,
-   "text": "二、吞咽"
+   "text": "二、吞咽",
+   "why": "一、 level section"
   },
   {
-   "anno": 240,
+   "boxes": [
+    240
+   ],
    "level": 4,
    "parent": 238,
-   "text": "（一）吞咽的反射控制"
+   "text": "（一）吞咽的反射控制",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 242,
+   "boxes": [
+    242
+   ],
    "level": 4,
    "parent": 238,
-   "text": "（二）吞咽过程"
+   "text": "（二）吞咽过程",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 253,
+   "boxes": [
+    253
+   ],
    "level": 4,
    "parent": 238,
-   "text": "（三）吞咽对、颌、面生长发育的影响"
+   "text": "（三）吞咽对、颌、面生长发育的影响",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 272,
+   "boxes": [
+    272
+   ],
    "level": 3,
    "parent": 232,
-   "text": "三、呕 吐"
+   "text": "三、呕 吐",
+   "why": "一、 level section"
   },
   {
-   "anno": 274,
+   "boxes": [
+    274
+   ],
    "level": 4,
    "parent": 272,
-   "text": "（一）呕吐的反射控制"
+   "text": "（一）呕吐的反射控制",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 276,
+   "boxes": [
+    276
+   ],
    "level": 4,
    "parent": 272,
-   "text": "（二）呕吐过程"
+   "text": "（二）呕吐过程",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 278,
+   "boxes": [
+    278
+   ],
    "level": 4,
    "parent": 272,
-   "text": "（三）呕吐的生理病理意义"
+   "text": "（三）呕吐的生理病理意义",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 283,
+   "boxes": [
+    283
+   ],
    "level": 3,
    "parent": 232,
-   "text": "四、言语"
+   "text": "四、言语",
+   "why": "一、 level section"
   },
   {
-   "anno": 285,
+   "boxes": [
+    285
+   ],
    "level": 4,
    "parent": 283,
-   "text": "（一）言语（语音）的属性"
+   "text": "（一）言语（语音）的属性",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 288,
+   "boxes": [
+    288
+   ],
    "level": 4,
    "parent": 283,
-   "text": "（二）言语（语音）器官"
+   "text": "（二）言语（语音）器官",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 293,
+   "boxes": [
+    293
+   ],
    "level": 4,
    "parent": 283,
-   "text": "（三）语音的组成"
+   "text": "（三）语音的组成",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 300,
+   "boxes": [
+    300
+   ],
    "level": 4,
    "parent": 283,
-   "text": "（四）言语的神经控制"
+   "text": "（四）言语的神经控制",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 308,
+   "boxes": [
+    308
+   ],
    "level": 3,
    "parent": 232,
-   "text": "五、表情"
+   "text": "五、表情",
+   "why": "一、 level section"
   },
   {
-   "anno": 324,
+   "boxes": [
+    324
+   ],
    "level": 3,
    "parent": 232,
-   "text": "六、呼 吸"
+   "text": "六、呼 吸",
+   "why": "一、 level section"
   },
   {
-   "anno": 326,
+   "boxes": [
+    326
+   ],
    "level": 4,
    "parent": 324,
-   "text": "（一）喉的结构和功能"
+   "text": "（一）喉的结构和功能",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 333,
+   "boxes": [
+    333
+   ],
    "level": 4,
    "parent": 324,
-   "text": "（二）呼吸功能的检查"
+   "text": "（二）呼吸功能的检查",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 335,
+   "boxes": [
+    335
+   ],
    "level": 4,
    "parent": 324,
-   "text": "（三）呼吸与咀嚼、吞咽的关系"
+   "text": "（三）呼吸与咀嚼、吞咽的关系",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 346,
+   "boxes": [
+    346
+   ],
    "level": 4,
    "parent": 324,
-   "text": "（四）呼吸方式与颅面、验的发育"
+   "text": "（四）呼吸方式与颅面、验的发育",
+   "why": "（一） level subsection or own-line numbered head under 一、"
   },
   {
-   "anno": 352,
+   "boxes": [
+    352
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第三节 临床应用"
+   "text": "第三节 临床应用",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献)"
   },
   {
-   "anno": 353,
+   "boxes": [
+    353
+   ],
    "level": 3,
    "parent": 352,
-   "text": "一、重要的解剖结构与外科手术"
+   "text": "一、重要的解剖结构与外科手术",
+   "why": "一、 level section"
   },
   {
-   "anno": 354,
-   "level": 4,
-   "parent": 353,
-   "text": "1. 唾液腺导管"
-  },
-  {
-   "anno": 365,
-   "level": 4,
-   "parent": 353,
-   "text": "2. 舌神经和舌下神经"
-  },
-  {
-   "anno": 378,
-   "level": 4,
-   "parent": 353,
-   "text": "6. 舌动脉"
-  },
-  {
-   "anno": 391,
+   "boxes": [
+    391
+   ],
    "level": 3,
    "parent": 352,
-   "text": "二、解剖形态异常"
+   "text": "二、解剖形态异常",
+   "why": "一、 level section"
   },
   {
-   "anno": 428,
+   "boxes": [
+    428
+   ],
    "level": 3,
    "parent": 352,
-   "text": "三、功能异常"
+   "text": "三、功能异常",
+   "why": "一、 level section"
   },
   {
-   "anno": 448,
+   "boxes": [
+    448
+   ],
    "level": 2,
    "parent": 1,
-   "text": "课后思考题"
+   "text": "课后思考题",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献)"
   },
   {
-   "anno": 455,
+   "boxes": [
+    455
+   ],
    "level": 2,
    "parent": 1,
-   "text": "主要参考文献"
+   "text": "主要参考文献",
+   "why": "chapter-level section (提要 / 第x节 / 课后思考题 / 主要参考文献)"
   }
  ],
- "not_headings": [],
  "repeats": [
   {
-   "anno": 15,
-   "of": 1
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 26,
-   "of": 1
+   "boxes": [
+    26
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 42,
-   "of": 1
+   "boxes": [
+    42
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 58,
-   "of": 1
+   "boxes": [
+    58
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 74,
-   "of": 1
+   "boxes": [
+    74
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 92,
-   "of": 1
+   "boxes": [
+    92
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 110,
-   "of": 1
+   "boxes": [
+    110
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 125,
-   "of": 1
+   "boxes": [
+    125
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 142,
-   "of": 1
+   "boxes": [
+    142
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 156,
-   "of": 1
+   "boxes": [
+    156
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 180,
-   "of": 1
+   "boxes": [
+    180
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 201,
-   "of": 1
+   "boxes": [
+    201
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 211,
-   "of": 1
+   "boxes": [
+    211
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 222,
-   "of": 1
+   "boxes": [
+    222
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 231,
-   "of": 1
+   "boxes": [
+    231
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 246,
-   "of": 1
+   "boxes": [
+    246
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 260,
-   "of": 1
+   "boxes": [
+    260
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 281,
-   "of": 1
+   "boxes": [
+    281
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 298,
-   "of": 1
+   "boxes": [
+    298
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 321,
-   "of": 1
+   "boxes": [
+    321
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 332,
-   "of": 1
+   "boxes": [
+    332
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 344,
-   "of": 1
+   "boxes": [
+    344
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 357,
-   "of": 1
+   "boxes": [
+    357
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 369,
-   "of": 1
+   "boxes": [
+    369
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 382,
-   "of": 1
+   "boxes": [
+    382
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 400,
-   "of": 1
+   "boxes": [
+    400
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 418,
-   "of": 1
+   "boxes": [
+    418
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 431,
-   "of": 1
+   "boxes": [
+    431
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   },
   {
-   "anno": 441,
-   "of": 1
+   "boxes": [
+    441
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the chapter"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 354,
+   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
+  },
+  {
+   "box": 365,
+   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
+  },
+  {
+   "box": 378,
+   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
+  }
+ ],
+ "considered": []
 }

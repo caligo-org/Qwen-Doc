@@ -1,308 +1,427 @@
 {
  "doc": "newspaper_eng_ed12985c",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY, same family as newspaper_eng_e4dd9616.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 6,
    "text": "Can Biden overcome damaging debate?",
-   "note": "Susan Page column"
+   "why": "column headline, front page (no section banner)"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Workplace safety rules may be next target of high court"
+   "text": "Workplace safety rules may be next target of high court",
+   "why": "story headline"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 6,
-   "text": "At 60, Civil Rights Act 'propelled a movement'"
+   "text": "At 60, Civil Rights Act 'propelled a movement'",
+   "why": "story headline"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean"
+   "text": "Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean",
+   "why": "story headline"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 2,
    "parent": 6,
    "text": "NEWS",
-   "note": "running section tag p2"
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 62,
-   "text": "In major decision, Supreme Court allows cities to ban homeless camps"
+   "text": "In major decision, Supreme Court allows cities to ban homeless camps",
+   "why": "story headline"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 4,
    "parent": 63,
-   "text": "Cruel and unusual punishment?"
+   "text": "Cruel and unusual punishment?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 4,
    "parent": 63,
-   "text": "'Urgent relief' to communities"
+   "text": "‘Urgent relief’ to communities",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 4,
    "parent": 63,
-   "text": "Criminalizing homelessness in a city without a homeless shelter"
+   "text": "Criminalizing homelessness in a city without a homeless shelter",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Beryl",
-   "continues": 50,
-   "note": "jump: Continued from Page 1A"
+   "text": "Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Beryl\" (no headline), so the continuation takes the original's title #50",
+   "continues": 50
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 4,
    "parent": 95,
-   "text": "Will Hurricane Beryl hit the US?"
+   "text": "Will Hurricane Beryl hit the US?",
+   "why": "in-story subhead (question) with its own block"
   },
   {
-   "anno": 113,
+   "boxes": [
+    113
+   ],
    "level": 4,
    "parent": 95,
-   "text": "What is the outlook for the 2024 season?"
+   "text": "What is the outlook for the 2024 season?",
+   "why": "in-story subhead (question) with its own block"
   },
   {
-   "anno": 118,
+   "boxes": [
+    118
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Safety rules",
-   "continues": 31,
-   "note": "jump"
+   "text": "Workplace safety rules may be next target of high court",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Safety rules\" (no headline), so the continuation takes the original's title #31",
+   "continues": 31
   },
   {
-   "anno": 125,
+   "boxes": [
+    125
+   ],
    "level": 4,
    "parent": 118,
-   "text": "A falling catwalk brace injures a worker: The penalty is $5,967"
+   "text": "A falling catwalk brace injures a worker: The penalty is $5,967",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 129,
+   "boxes": [
+    129
+   ],
    "level": 4,
    "parent": 118,
-   "text": "Safety law OK'd by Richard Nixon"
+   "text": "Safety law OK'd by Richard Nixon",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 4,
    "parent": 118,
-   "text": "'Nearly unfettered discretion'?"
+   "text": "'Nearly unfettered discretion'?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Civil rights",
-   "continues": 43,
-   "note": "jump"
+   "text": "At 60, Civil Rights Act 'propelled a movement'",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Civil rights\" (no headline), so the continuation takes the original's title #43",
+   "continues": 43
   },
   {
-   "anno": 165,
+   "boxes": [
+    165
+   ],
    "level": 4,
    "parent": 158,
    "text": "Extended lives, improved educational success, helped people get better jobs",
-   "note": "contributor essay title"
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 176,
+   "boxes": [
+    176
+   ],
    "level": 4,
    "parent": 158,
-   "text": "We are living proof of progress"
+   "text": "We are living proof of progress",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 4,
    "parent": 158,
-   "text": "Still need to protect the civil liberties of all citizens"
+   "text": "Still need to protect the civil liberties of all citizens",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 195,
+   "boxes": [
+    195
+   ],
    "level": 4,
    "parent": 158,
-   "text": "A conservative perspective: We've gone too far"
+   "text": "A conservative perspective: We've gone too far",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 4,
    "parent": 158,
-   "text": "Our 'abiding commitment to freedom' is being undermined"
+   "text": "Our 'abiding commitment to freedom' is being undermined",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 216,
+   "boxes": [
+    216
+   ],
    "level": 4,
    "parent": 158,
-   "text": "Souls lost to exploitation, racism"
+   "text": "Souls lost to exploitation, racism",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 226,
+   "boxes": [
+    226
+   ],
    "level": 4,
    "parent": 158,
-   "text": "Every generation makes progress"
+   "text": "Every generation makes progress",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 234,
+   "boxes": [
+    234
+   ],
    "level": 4,
    "parent": 158,
-   "text": "We still have a very long way to go."
+   "text": "We still have a very long way to go.",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 244,
+   "boxes": [
+    244
+   ],
    "level": 4,
    "parent": 158,
-   "text": "Channel discontent"
+   "text": "Channel discontent",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 255,
+   "boxes": [
+    255
+   ],
    "level": 4,
    "parent": 158,
-   "text": "All created in the image of God"
+   "text": "All created in the image of God",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 265,
+   "boxes": [
+    265
+   ],
    "level": 4,
    "parent": 158,
-   "text": "It is all of our responsibility"
+   "text": "It is all of our responsibility",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 274,
+   "boxes": [
+    274
+   ],
    "level": 4,
    "parent": 158,
-   "text": "We must take an active role in protecting its legacy"
+   "text": "We must take an active role in protecting its legacy",
+   "why": "contributor essay title with its own block"
   },
   {
-   "anno": 286,
+   "boxes": [
+    286
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Refugees in NY mourn teens shot and killed by police"
+   "text": "Refugees in NY mourn teens shot and killed by police",
+   "why": "story headline"
   },
   {
-   "anno": 296,
+   "boxes": [
+    296
+   ],
    "level": 4,
    "parent": 286,
-   "text": "Timeline of events"
+   "text": "Timeline of events",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 306,
+   "boxes": [
+    306
+   ],
    "level": 4,
    "parent": 286,
-   "text": "Family present"
+   "text": "Family present",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 311,
+   "boxes": [
+    311
+   ],
    "level": 4,
    "parent": 286,
-   "text": "State attorney investigation"
+   "text": "State attorney investigation",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 316,
+   "boxes": [
+    316
+   ],
    "level": 4,
    "parent": 286,
-   "text": "Further questions"
+   "text": "Further questions",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 322,
+   "boxes": [
+    322
+   ],
    "level": 4,
    "parent": 286,
-   "text": "Social media video"
+   "text": "Social media video",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 329,
+   "boxes": [
+    329
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Page",
-   "continues": 14,
-   "note": "jump of the Susan Page column, jump head is the columnist's name as printed"
+   "text": "Can Biden overcome damaging debate?",
+   "why": "continuation: jump head of the front-page column (columnist name as printed) | breadcrumb round 3: the jump prints only the jump word \"Page\" (no headline), so the continuation takes the original's title #14",
+   "continues": 14
   },
   {
-   "anno": 332,
+   "boxes": [
+    332
+   ],
    "level": 4,
    "parent": 329,
-   "text": "The lessons of 'Access Hollywood'"
+   "text": "The lessons of 'Access Hollywood'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 339,
+   "boxes": [
+    339
+   ],
    "level": 4,
    "parent": 329,
-   "text": "Chaos at the convention: Not a political asset"
+   "text": "Chaos at the convention: Not a political asset",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 357,
+   "boxes": [
+    357
+   ],
    "level": 3,
    "parent": 62,
-   "text": "Gathering of 10,000 hippies shut down before it starts"
+   "text": "Gathering of 10,000 hippies shut down before it starts",
+   "why": "story headline"
   },
   {
-   "anno": 363,
+   "boxes": [
+    363
+   ],
    "level": 4,
    "parent": 357,
-   "text": "Rainbow Family roots go back more than 50 years"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 24,
-   "note": "front-page teaser pointing to 6A"
-  },
-  {
-   "anno": 46,
-   "note": "deck under the photo"
-  },
-  {
-   "anno": 145,
-   "note": "colophon field"
-  },
-  {
-   "anno": 147,
-   "note": "colophon field"
-  },
-  {
-   "anno": 149,
-   "note": "colophon field"
-  },
-  {
-   "anno": 151,
-   "note": "colophon field"
-  },
-  {
-   "anno": 153,
-   "note": "colophon field"
+   "text": "Rainbow Family roots go back more than 50 years",
+   "why": "in-story subhead with its own block"
   }
  ],
  "repeats": [
   {
-   "anno": 143,
-   "of": 6
+   "boxes": [
+    143
+   ],
+   "of": 6,
+   "why": "masthead name restated as the colophon box title"
   },
   {
-   "anno": 155,
-   "of": 62
-  },
-  {
-   "anno": 285,
-   "of": 62
+   "boxes": [
+    155,
+    285
+   ],
+   "of": 62,
+   "why": "running section tag NEWS on the following pages"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 24,
+   "why": "front-page teaser pointing to 6A"
+  },
+  {
+   "box": 46,
+   "why": "deck under the photo (second line). OPEN: borderline"
+  },
+  {
+   "box": 145,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 147,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 149,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 151,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 153,
+   "why": "colophon field label (contact box)"
+  }
+ ],
+ "considered": []
 }

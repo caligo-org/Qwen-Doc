@@ -1,300 +1,411 @@
 {
  "doc": "annualReport_eng_a7bf8c0c",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2024 Annual Report",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "Alaska Air Group 2024 Annual Report",
+   "why": "title union: owner + document type in one cover block"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "To Our Shareholders"
+   "text": "To Our Shareholders",
+   "why": "top section: letter title"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Board of Directors"
+   "text": "Board of Directors",
+   "why": "top section"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Executive Leadership"
+   "text": "Executive Leadership",
+   "why": "top section"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Corporate Information"
+   "text": "Corporate Information",
+   "why": "top section"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Annual Meeting"
+   "text": "Annual Meeting",
+   "why": "box title in Corporate Information with its own block"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Investor Relations"
+   "text": "Investor Relations",
+   "why": "box title with its own block"
   },
   {
-   "anno": 86,
+   "boxes": [
+    86
+   ],
    "level": 3,
    "parent": 80,
-   "text": "SEC Filings"
+   "text": "SEC Filings",
+   "why": "box title with its own block"
   },
   {
-   "anno": 88,
+   "boxes": [
+    88
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Transfer Agent"
+   "text": "Transfer Agent",
+   "why": "box title with its own block"
   },
   {
-   "anno": 94,
+   "boxes": [
+    94
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Independent Auditors"
+   "text": "Independent Auditors",
+   "why": "box title with its own block"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Corporate Headquarters"
+   "text": "Corporate Headquarters",
+   "why": "box title with its own block"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 3,
    "parent": 80,
-   "text": "Stock Market Information"
+   "text": "Stock Market Information",
+   "why": "box title with its own block"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104,
+    110
+   ],
    "level": 2,
    "parent": 1,
-   "text": "FORM 10-K",
-   "note": "embedded Form 10-K"
+   "text": "FORM 10-K ALASKA AIR GROUP, INC.",
+   "why": "embedded filing title union: FORM 10-K + registrant name"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 3,
    "parent": 104,
-   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+   "why": "front matter section of the 10-K"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 3,
    "parent": 104,
-   "text": "TABLE OF CONTENTS"
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title of the 10-K"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 3,
    "parent": 104,
-   "text": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS"
+   "text": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS",
+   "why": "front matter section: forward-looking note"
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 3,
    "parent": 104,
-   "text": "PARTI"
+   "text": "PARTI",
+   "why": "PART level"
   },
   {
-   "anno": 142,
+   "boxes": [
+    142
+   ],
    "level": 4,
    "parent": 141,
-   "text": "ITEM 1. BUSINESS"
+   "text": "ITEM 1. BUSINESS",
+   "why": "Item level"
   },
   {
-   "anno": 150,
+   "boxes": [
+    150
+   ],
    "level": 5,
    "parent": 142,
-   "text": "AIR GROUP"
+   "text": "AIR GROUP",
+   "why": "bold caps section head under Item"
   },
   {
-   "anno": 157,
+   "boxes": [
+    157
+   ],
    "level": 5,
    "parent": 142,
-   "text": "ALASKA AIRLINES"
+   "text": "ALASKA AIRLINES",
+   "why": "bold caps section head"
   },
   {
-   "anno": 164,
+   "boxes": [
+    164
+   ],
    "level": 5,
    "parent": 142,
-   "text": "HAWAIIAN AIRLINES"
+   "text": "HAWAIIAN AIRLINES",
+   "why": "bold caps section head"
   },
   {
-   "anno": 171,
+   "boxes": [
+    171
+   ],
    "level": 5,
    "parent": 142,
-   "text": "REGIONAL"
+   "text": "REGIONAL",
+   "why": "bold caps section head"
   },
   {
-   "anno": 175,
+   "boxes": [
+    175
+   ],
    "level": 5,
    "parent": 142,
-   "text": "CARGO AND OTHER REVENUE"
+   "text": "CARGO AND OTHER REVENUE",
+   "why": "bold caps section head"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 5,
    "parent": 142,
-   "text": "LOYALTY PROGRAMS"
+   "text": "LOYALTY PROGRAMS",
+   "why": "bold caps section head"
   },
   {
-   "anno": 184,
+   "boxes": [
+    184
+   ],
    "level": 6,
    "parent": 179,
-   "text": "Alaska Airlines"
+   "text": "Alaska Airlines",
+   "why": "italic subhead naming one airline's program"
   },
   {
-   "anno": 189,
+   "boxes": [
+    189
+   ],
    "level": 6,
    "parent": 179,
-   "text": "Hawaiian Airlines"
+   "text": "Hawaiian Airlines",
+   "why": "italic subhead"
   },
   {
-   "anno": 194,
+   "boxes": [
+    194
+   ],
    "level": 5,
    "parent": 142,
-   "text": "AGREEMENTS WITH OTHER AIRLINES"
+   "text": "AGREEMENTS WITH OTHER AIRLINES",
+   "why": "bold caps section head"
   },
   {
-   "anno": 216,
+   "boxes": [
+    216
+   ],
    "level": 5,
    "parent": 142,
-   "text": "GENERAL"
+   "text": "GENERAL",
+   "why": "bold caps section head"
   },
   {
-   "anno": 218,
+   "boxes": [
+    218
+   ],
    "level": 5,
    "parent": 142,
-   "text": "SAFETY"
+   "text": "SAFETY",
+   "why": "bold caps section head"
   },
   {
-   "anno": 222,
+   "boxes": [
+    222
+   ],
    "level": 5,
    "parent": 142,
-   "text": "FUEL"
+   "text": "FUEL",
+   "why": "bold caps section head"
   },
   {
-   "anno": 234,
+   "boxes": [
+    234
+   ],
    "level": 5,
    "parent": 142,
-   "text": "COMPETITION"
+   "text": "COMPETITION",
+   "why": "bold caps section head"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    132
+   ],
+   "of": 104,
+   "why": "repeat: 10-K title (registrant + annual report on Form 10-K) restated above the table of contents"
   }
  ],
  "not_headings": [
   {
-   "anno": 29,
-   "note": "list of board member names"
+   "box": 29,
+   "why": "list of names (board member name with role below)"
   },
   {
-   "anno": 31,
-   "note": "list of board member names"
+   "box": 31,
+   "why": "list of names"
   },
   {
-   "anno": 33,
-   "note": "list of board member names"
+   "box": 33,
+   "why": "list of names"
   },
   {
-   "anno": 35,
-   "note": "list of board member names"
+   "box": 35,
+   "why": "list of names"
   },
   {
-   "anno": 37,
-   "note": "list of board member names"
+   "box": 37,
+   "why": "list of names"
   },
   {
-   "anno": 39,
-   "note": "list of board member names"
+   "box": 39,
+   "why": "list of names"
   },
   {
-   "anno": 41,
-   "note": "list of board member names"
+   "box": 41,
+   "why": "list of names"
   },
   {
-   "anno": 43,
-   "note": "list of board member names"
+   "box": 43,
+   "why": "list of names"
   },
   {
-   "anno": 45,
-   "note": "list of board member names"
+   "box": 45,
+   "why": "list of names"
   },
   {
-   "anno": 47,
-   "note": "list of board member names"
+   "box": 47,
+   "why": "list of names"
   },
   {
-   "anno": 49,
-   "note": "run-in label above a list"
+   "box": 49,
+   "why": "label of the committee legend (list)"
   },
   {
-   "anno": 56,
-   "note": "list of executive names"
+   "box": 56,
+   "why": "list of names (executive name with role below)"
   },
   {
-   "anno": 58,
-   "note": "list of executive names"
+   "box": 58,
+   "why": "list of names"
   },
   {
-   "anno": 60,
-   "note": "list of executive names"
+   "box": 60,
+   "why": "list of names"
   },
   {
-   "anno": 62,
-   "note": "list of executive names"
+   "box": 62,
+   "why": "list of names"
   },
   {
-   "anno": 64,
-   "note": "list of executive names"
+   "box": 64,
+   "why": "list of names"
   },
   {
-   "anno": 66,
-   "note": "list of executive names"
+   "box": 66,
+   "why": "list of names"
   },
   {
-   "anno": 68,
-   "note": "list of executive names"
+   "box": 68,
+   "why": "list of names"
   },
   {
-   "anno": 70,
-   "note": "list of executive names"
+   "box": 70,
+   "why": "list of names"
   },
   {
-   "anno": 72,
-   "note": "list of executive names"
+   "box": 72,
+   "why": "list of names"
   },
   {
-   "anno": 74,
-   "note": "list of executive names"
+   "box": 74,
+   "why": "list of names"
   },
   {
-   "anno": 76,
-   "note": "list of executive names"
+   "box": 76,
+   "why": "list of names"
   },
   {
-   "anno": 78,
-   "note": "list of executive names"
+   "box": 78,
+   "why": "list of names"
   },
   {
-   "anno": 103,
-   "note": "issuing body on the Form 10-K cover"
+   "box": 103,
+   "why": "issuing body (SEC name and address) above the form title"
   },
   {
-   "anno": 117,
-   "note": "form field value"
-  },
-  {
-   "anno": 132,
-   "note": "report title restated above the table of contents"
+   "box": 117,
+   "why": "form field value (\"None\")"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 8,
+   "why": "bold run-in lead-in inside the letter"
+  },
+  {
+   "box": 12,
+   "why": "bold run-in lead-in inside the letter"
+  },
+  {
+   "box": 20,
+   "why": "signature block"
+  }
+ ]
 }

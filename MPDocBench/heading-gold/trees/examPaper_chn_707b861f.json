@@ -1,26 +1,53 @@
 {
  "doc": "examPaper_chn_707b861f",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2012年全国统一高考地理试卷（大纲卷）"
+   "text": "2012年全国统一高考地理试卷（大纲卷）",
+   "why": "title: exam title"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一、第1卷共5小题，每小题0分，共140分。在每题给出的四个选项中，只有一项是符合题目要求的。"
+   "text": "一、第1卷共5小题，每小题0分，共140分。在每题给出的四个选项中，只有一项是符合题目要求的。",
+   "why": "question group (第1卷), no separate part line"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 2,
    "parent": 1,
    "text": "二、第Ⅱ卷（非选择题）注意事项：（1. 答题前，考生在答题卡上务必用直径0.5毫米黑色墨水签字笔将自己的姓名、准考证号填写清楚，并贴好条形码，请认真核准条形码上的准考证号、姓名和科目。（2. 第Ⅱ卷共4页，请用直径0.5毫米黑色墨水签字笔在答题卡上各题的答题区域内作答，在试题卷上作答无效。",
-   "note": "group line; the same box runs on into the instructions, kept as one printed box"
+   "why": "question group (第Ⅱ卷) incl. its printed instructions"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 75,
+   "why": "question stem: text (user decision)"
+  },
+  {
+   "box": 83,
+   "why": "question stem: text (user decision)"
+  },
+  {
+   "box": 85,
+   "why": "材料一: label inside a question (questions are text), not an outline level"
+  },
+  {
+   "box": 91,
+   "why": "材料二: label inside a question, text"
+  }
+ ]
 }

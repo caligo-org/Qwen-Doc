@@ -1,70 +1,90 @@
 {
  "doc": "magazine_chn_c1e72d14",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "知音",
-   "note": "masthead"
+   "why": "title: periodical masthead 知音"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 2,
    "text": "目录",
-   "note": "contents title (box also holds the logo and the issue line)"
+   "why": "contents title 目录 (logo and issue line in the same box are text)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 2,
    "parent": 2,
    "text": "“铁脚板”站长护林29载: 一夕山中月，万里故园心",
-   "note": "article; section not printed, directly under the masthead"
+   "why": "story headline in the section slot: its section (TOC only) is not printed; L3 would sit under 目录"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 3,
    "parent": 53,
-   "text": "荒山野岭中护我家园"
+   "text": "荒山野岭中护我家园",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 3,
    "parent": 53,
-   "text": "万亩林海的平凡坚守"
+   "text": "万亩林海的平凡坚守",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 3,
    "parent": 53,
-   "text": "不平凡的绿水青山"
+   "text": "不平凡的绿水青山",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 135,
+   "boxes": [
+    135
+   ],
    "level": 2,
    "parent": 2,
-   "text": "『冲天辫』老妈路过人间：姐的威风永不灭",
-   "note": "article; section not printed (gold OCR 冲天辩 misread)"
+   "text": "『冲天辫』老妈路过人间： 姐的威风永不灭",
+   "why": "story headline in the section slot (section not printed); printed 『冲天辫』, gold OCR 冲天辩"
   },
   {
-   "anno": 138,
+   "boxes": [
+    138
+   ],
    "level": 3,
    "parent": 135,
-   "text": "不扫兴妈妈是个小公主"
+   "text": "不扫兴妈妈是个小公主",
+   "why": "in-story subhead with its block"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 31,
-   "note": "promotional box (new-media accounts with QR codes) in the contents spread"
+   "box": 31,
+   "why": "house-ad box (new-media accounts with QR codes) beside the contents"
   },
   {
-   "anno": 48,
-   "note": "colophon notice (本刊声明)"
+   "box": 48,
+   "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "repeats": []
+ "considered": []
 }

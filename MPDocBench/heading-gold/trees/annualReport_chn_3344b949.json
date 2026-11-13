@@ -1,62 +1,134 @@
 {
  "doc": "annualReport_chn_3344b949",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2019年年度报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "维科技术股份有限公司2019年年度报告",
+   "why": "title union: owner + document type in one cover block"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 4,
-   "text": "重要提示"
+   "text": "重要提示",
+   "why": "front matter: 重要提示 at the level of the top sections"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 3,
    "parent": 7,
-   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案"
+   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案",
+   "why": "重要提示 item with its own block below"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 7,
-   "text": "六、前瞻性陈述的风险声明"
+   "text": "六、前瞻性陈述的风险声明",
+   "why": "重要提示 item with its own block below"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 7,
-   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况"
+   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况",
+   "why": "重要提示 item with its own answer below (user decision)"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 7,
-   "text": "八、是否存在违反规定决策程序对外提供担保的情况？"
+   "text": "八、是否存在违反规定决策程序对外提供担保的情况？",
+   "why": "重要提示 item with its own answer below (user decision)"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 3,
    "parent": 7,
-   "text": "九、 重大风险提示"
+   "text": "九、 重大风险提示",
+   "why": "重要提示 item with its own block below"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 7,
-   "text": "十、其他"
+   "text": "十、其他",
+   "why": "重要提示 item with its own block below (适用/不适用)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 4,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    6
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document (type only)"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 2,
+   "why": "cover field"
+  },
+  {
+   "box": 3,
+   "why": "cover field"
+  },
+  {
+   "box": 8,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 9,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 10,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 11,
+   "why": "one-sentence statement item (substance)"
+  }
+ ]
 }

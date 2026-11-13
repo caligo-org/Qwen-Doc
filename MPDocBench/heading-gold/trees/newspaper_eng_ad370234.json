@@ -1,630 +1,916 @@
 {
  "doc": "newspaper_eng_ad370234",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). USA TODAY with three sections: A (front + NEWS tag), B MONEY, C SPORTS; jumps are continuation nodes.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
    "text": "USA TODAY",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 6,
    "text": "Homeless killing raises questions",
-   "note": "kicker 'MILWAUKEE SHOOTING' is text"
+   "why": "story headline, front page (no section banner); kicker above is text"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 6,
-   "text": "Rallygoer's death opens raw wounds"
+   "text": "Rallygoer's death opens raw wounds",
+   "why": "story headline"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 6,
-   "text": "'Black Death' killed 50 million people in Europe and still lingers in US today"
+   "text": "'Black Death' killed 50 million people in Europe and still lingers in US today",
+   "why": "story headline"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
    "parent": 6,
    "text": "NEWS",
-   "note": "running section tag p2"
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
   },
   {
-   "anno": 66,
+   "boxes": [
+    66
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Shooting",
-   "continues": 14,
-   "note": "jump: Continued from Page 1A"
+   "text": "Homeless killing raises questions",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Shooting\" (no headline), so the continuation takes the original's title #14",
+   "continues": 14
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 4,
    "parent": 66,
-   "text": "Neighbors critical of out-of-state cops police patrolling area"
+   "text": "Neighbors critical of out-of-state cops police patrolling area",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 88,
+   "boxes": [
+    88
+   ],
    "level": 4,
    "parent": 66,
-   "text": "Thousands of additional cops in Milwaukee for convention"
+   "text": "Thousands of additional cops in Milwaukee for convention",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 4,
    "parent": 66,
-   "text": "Milwaukee homeless shelter expanded services for convention"
+   "text": "Milwaukee homeless shelter expanded services for convention",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Plague",
-   "continues": 50,
-   "note": "jump"
+   "text": "'Black Death' killed 50 million people in Europe and still lingers in US today",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Plague\" (no headline), so the continuation takes the original's title #50",
+   "continues": 50
   },
   {
-   "anno": 110,
+   "boxes": [
+    110
+   ],
    "level": 4,
    "parent": 106,
-   "text": "Plague terrorized the globe, killed millions of people"
+   "text": "Plague terrorized the globe, killed millions of people",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 4,
    "parent": 106,
-   "text": "Plague never went away, still circulating out West"
+   "text": "Plague never went away, still circulating out West",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 4,
    "parent": 106,
-   "text": "Bubonic plague, thankfully, does not spread person-to-person"
+   "text": "Bubonic plague, thankfully, does not spread person-to-person",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 4,
    "parent": 106,
-   "text": "Take plague seriously, but don't worry too much"
+   "text": "Take plague seriously, but don't worry too much",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Trump rally security to be probed"
+   "text": "Trump rally security to be probed",
+   "why": "story headline"
   },
   {
-   "anno": 168,
+   "boxes": [
+    168
+   ],
    "level": 4,
    "parent": 155,
-   "text": "Victim has 'life-altering injuries'"
+   "text": "Victim has 'life-altering injuries'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 175,
+   "boxes": [
+    175
+   ],
    "level": 4,
    "parent": 155,
-   "text": "Iran denies plotting to kill Trump"
+   "text": "Iran denies plotting to kill Trump",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 183,
+   "boxes": [
+    183
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Comperatore",
-   "continues": 33,
-   "note": "jump"
+   "text": "Rallygoer's death opens raw wounds",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Comperatore\" (no headline), so the continuation takes the original's title #33",
+   "continues": 33
   },
   {
-   "anno": 192,
+   "boxes": [
+    192
+   ],
    "level": 4,
    "parent": 183,
-   "text": "Decades of service"
+   "text": "Decades of service",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 199,
+   "boxes": [
+    199
+   ],
    "level": 4,
    "parent": 183,
-   "text": "'God first, his family second'"
+   "text": "'God first, his family second'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 208,
+   "boxes": [
+    208
+   ],
    "level": 4,
    "parent": 183,
-   "text": "Gunshots, then 'Get down!'"
+   "text": "Gunshots, then 'Get down!'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 220,
+   "boxes": [
+    220
+   ],
    "level": 4,
    "parent": 183,
-   "text": "Outpouring of support"
+   "text": "Outpouring of support",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 229,
+   "boxes": [
+    229
+   ],
    "level": 4,
    "parent": 183,
-   "text": "Friends left with memories"
+   "text": "Friends left with memories",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 237,
+   "boxes": [
+    237
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Freedom Summer helped change US"
+   "text": "Freedom Summer helped change US",
+   "why": "story headline"
   },
   {
-   "anno": 252,
+   "boxes": [
+    252
+   ],
    "level": 4,
    "parent": 237,
-   "text": "Saluting the power of local activists"
+   "text": "Saluting the power of local activists",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 267,
+   "boxes": [
+    267
+   ],
    "level": 4,
    "parent": 237,
-   "text": "What was Freedom Summer?"
+   "text": "What was Freedom Summer?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 276,
+   "boxes": [
+    276
+   ],
    "level": 4,
    "parent": 237,
-   "text": "'Still work to be done'"
+   "text": "'Still work to be done'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 289,
+   "boxes": [
+    289
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Causes of bird flu outbreak targeted"
+   "text": "Causes of bird flu outbreak targeted",
+   "why": "story headline"
   },
   {
-   "anno": 302,
+   "boxes": [
+    302
+   ],
    "level": 4,
    "parent": 289,
-   "text": "The unfolding route of transmission"
+   "text": "The unfolding route of transmission",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 309,
+   "boxes": [
+    309
+   ],
    "level": 4,
    "parent": 289,
-   "text": "Sweltering barns, feathers flying"
+   "text": "Sweltering barns, feathers flying",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 317,
+   "boxes": [
+    317
+   ],
    "level": 4,
    "parent": 289,
-   "text": "What preparedness looks like"
+   "text": "What preparedness looks like",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 340,
+   "boxes": [
+    340
+   ],
    "level": 3,
    "parent": 65,
-   "text": "At least 3 dead after severe storms"
+   "text": "At least 3 dead after severe storms",
+   "why": "story headline"
   },
   {
-   "anno": 370,
+   "boxes": [
+    370
+   ],
    "level": 3,
    "parent": 65,
-   "text": "Justices halt Gutierrez execution in Texas"
+   "text": "Justices halt Gutierrez execution in Texas",
+   "why": "story headline"
   },
   {
-   "anno": 378,
+   "boxes": [
+    378
+   ],
    "level": 4,
    "parent": 370,
-   "text": "Gutierrez's conviction and DNA testing argument"
+   "text": "Gutierrez's conviction and DNA testing argument",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 391,
+   "boxes": [
+    391
+   ],
    "level": 4,
    "parent": 370,
-   "text": "Gutierrez's execution stay is 'devastating,' nephew says"
+   "text": "Gutierrez's execution stay is 'devastating,' nephew says",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 404,
+   "boxes": [
+    404
+   ],
    "level": 4,
    "parent": 370,
-   "text": "Escolastica Harrison was enjoying retirement when attacked"
+   "text": "Escolastica Harrison was enjoying retirement when attacked",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 419,
+   "boxes": [
+    419
+   ],
    "level": 2,
    "parent": 6,
    "text": "OPINION",
-   "note": "banner p7"
+   "why": "section: printed OPINION banner on 7A"
   },
   {
-   "anno": 421,
+   "boxes": [
+    421
+   ],
    "level": 3,
    "parent": 419,
-   "text": "DOJ went too far against Trump case"
+   "text": "DOJ went too far against Trump case",
+   "why": "opinion column headline"
   },
   {
-   "anno": 433,
+   "boxes": [
+    433
+   ],
    "level": 4,
    "parent": 421,
-   "text": "Justice Thomas raised same issue"
+   "text": "Justice Thomas raised same issue",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 443,
+   "boxes": [
+    443
+   ],
    "level": 4,
    "parent": 421,
-   "text": "'Very little oversight or supervision'"
+   "text": "'Very little oversight or supervision'",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 454,
+   "boxes": [
+    454
+   ],
    "level": 4,
    "parent": 421,
-   "text": "Immunity case could go up to Inauguration Day"
+   "text": "Immunity case could go up to Inauguration Day",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 459,
+   "boxes": [
+    459
+   ],
    "level": 3,
    "parent": 419,
-   "text": "Let's look at Trump's judge on documents"
+   "text": "Let's look at Trump's judge on documents",
+   "why": "opinion column headline"
   },
   {
-   "anno": 469,
+   "boxes": [
+    469
+   ],
    "level": 4,
    "parent": 459,
-   "text": "Judge Aileen Cannon did her part in the Trump document case."
+   "text": "Judge Aileen Cannon did her part in the Trump document case.",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 479,
+   "boxes": [
+    479
+   ],
    "level": 4,
    "parent": 459,
-   "text": "Decision to throw out document case started years ago"
+   "text": "Decision to throw out document case started years ago",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 486,
+   "boxes": [
+    486
+   ],
    "level": 4,
    "parent": 459,
-   "text": "Let's not forget Supreme Court's role"
+   "text": "Let's not forget Supreme Court's role",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 497,
+   "boxes": [
+    497
+   ],
    "level": 4,
    "parent": 459,
-   "text": "'Future Supreme Court Justice Cannon'?"
+   "text": "'Future Supreme Court Justice Cannon'?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 533,
+   "boxes": [
+    533
+   ],
    "level": 2,
    "parent": 6,
    "text": "MONEY",
-   "note": "section B banner (date/section line is text)"
+   "why": "section: MONEY section-front banner (date/section line in the box is text)"
   },
   {
-   "anno": 538,
+   "boxes": [
+    538
+   ],
    "level": 3,
    "parent": 533,
-   "text": "Immigrants' effect on economy eyed"
+   "text": "Immigrants’ effect on economy eyed",
+   "why": "story headline"
   },
   {
-   "anno": 552,
+   "boxes": [
+    552
+   ],
    "level": 3,
    "parent": 533,
    "text": "MONEYLINE",
-   "note": "briefs column label"
+   "why": "briefs column label"
   },
   {
-   "anno": 553,
+   "boxes": [
+    553
+   ],
    "level": 4,
    "parent": 552,
-   "text": "MERCEDES BENZ, STARBUCKS JOIN IN CHARGING STATIONS"
+   "text": "MERCEDES BENZ, STARBUCKS JOIN IN CHARGING STATIONS",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 555,
+   "boxes": [
+    555
+   ],
    "level": 4,
    "parent": 552,
-   "text": "RANSOMWARE ATTACK COST CAR DEALERS $1BILLION"
+   "text": "RANSOMWARE ATTACK COST CAR DEALERS $1BILLION",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 557,
+   "boxes": [
+    557
+   ],
    "level": 4,
    "parent": 552,
-   "text": "DISNEY SPRINGS CARRYSCUSTOMIZABLE HEADBANDS"
+   "text": "DISNEY SPRINGS CARRYSCUSTOMIZABLE HEADBANDS",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 561,
+   "boxes": [
+    561
+   ],
    "level": 3,
    "parent": 533,
-   "text": "Group: 3 cities own best conditions for renters"
+   "text": "Group: 3 cities own best conditions for renters",
+   "why": "story headline"
   },
   {
-   "anno": 566,
+   "boxes": [
+    566
+   ],
    "level": 4,
    "parent": 561,
-   "text": "What cities are best for renters?"
+   "text": "What cities are best for renters?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 573,
+   "boxes": [
+    573
+   ],
    "level": 4,
    "parent": 561,
-   "text": "Which cities are the worst for renters?"
+   "text": "Which cities are the worst for renters?",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 582,
+   "boxes": [
+    582
+   ],
    "level": 3,
    "parent": 533,
-   "text": "Beware AI voice scams that could rip you off"
+   "text": "Beware AI voice scams that could rip you off",
+   "why": "story headline"
   },
   {
-   "anno": 587,
+   "boxes": [
+    587
+   ],
    "level": 4,
    "parent": 582,
-   "text": "10 popular tactics"
+   "text": "10 popular tactics",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 603,
+   "boxes": [
+    603
+   ],
    "level": 4,
    "parent": 582,
-   "text": "Your plan of action"
+   "text": "Your plan of action",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 612,
+   "boxes": [
+    612
+   ],
    "level": 3,
    "parent": 533,
-   "text": "Economy",
-   "continues": 538,
-   "note": "jump: Continued from Page 1B"
+   "text": "Immigrants’ effect on economy eyed",
+   "why": "continuation: one-word jump head of a section-front story | breadcrumb round 3: the jump prints only the jump word \"Economy\" (no headline), so the continuation takes the original's title #538",
+   "continues": 538
   },
   {
-   "anno": 616,
+   "boxes": [
+    616
+   ],
    "level": 4,
    "parent": 612,
-   "text": "How many immigrants enter the US per year?"
+   "text": "How many immigrants enter the US per year?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 619,
+   "boxes": [
+    619
+   ],
    "level": 4,
    "parent": 612,
-   "text": "How is the US economy affected by immigration?"
+   "text": "How is the US economy affected by immigration?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 626,
+   "boxes": [
+    626
+   ],
    "level": 4,
    "parent": 612,
-   "text": "What percentage of jobs is filled by immigrants?"
+   "text": "What percentage of jobs is filled by immigrants?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 629,
+   "boxes": [
+    629
+   ],
    "level": 4,
    "parent": 612,
-   "text": "Can immigration fix labor shortages?"
+   "text": "Can immigration fix labor shortages?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 639,
+   "boxes": [
+    639
+   ],
    "level": 4,
    "parent": 612,
-   "text": "How does wage growth affect inflation?"
+   "text": "How does wage growth affect inflation?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 647,
+   "boxes": [
+    647
+   ],
    "level": 4,
    "parent": 612,
-   "text": "Do immigrants take jobs from Americans?"
+   "text": "Do immigrants take jobs from Americans?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 650,
+   "boxes": [
+    650
+   ],
    "level": 4,
    "parent": 612,
-   "text": "Are immigrants depressing wages for Americans?"
+   "text": "Are immigrants depressing wages for Americans?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 658,
+   "boxes": [
+    658
+   ],
    "level": 4,
    "parent": 612,
-   "text": "Can immigration cause inflation?"
+   "text": "Can immigration cause inflation?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 665,
+   "boxes": [
+    665
+   ],
    "level": 4,
    "parent": 612,
-   "text": "Do immigrants have a positive net impact on the economy?"
+   "text": "Do immigrants have a positive net impact on the economy?",
+   "why": "FAQ question with its own answer block"
   },
   {
-   "anno": 671,
+   "boxes": [
+    671
+   ],
    "level": 3,
    "parent": 533,
    "text": "Pain of Freedman's Bank collapse remains",
-   "note": "Q&A: bold questions are run-in text"
+   "why": "Q&A story headline"
   },
   {
-   "anno": 696,
+   "boxes": [
+    676
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "Question: Why did you want to write this book?",
+   "why": "interview question on its own line with its own answer block"
+  },
+  {
+   "boxes": [
+    678
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "Can you say more about how the loss of those savings impacted the building of generational wealth?",
+   "why": "interview question with its own answer block"
+  },
+  {
+   "boxes": [
+    681
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "What's the impact of that distrust?",
+   "why": "interview question with its own answer block"
+  },
+  {
+   "boxes": [
+    684
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "You note that the bank was initially successful. How so?",
+   "why": "interview question with its own answer block"
+  },
+  {
+   "boxes": [
+    690
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "Some people don't want to look at how systemic practices or neglect can have an impact decades later. What do you say to that?",
+   "why": "interview question with its own answer block"
+  },
+  {
+   "boxes": [
+    693
+   ],
+   "level": 4,
+   "parent": 671,
+   "text": "What are some of the ways we can remedy the racial wealth gap?",
+   "why": "interview question with its own answer block"
+  },
+  {
+   "boxes": [
+    696
+   ],
    "level": 3,
    "parent": 533,
-   "text": "Disney World's sites offer accessibility for wheelchair users"
+   "text": "Disney World's sites offer accessibility for wheelchair users",
+   "why": "story headline"
   },
   {
-   "anno": 703,
+   "boxes": [
+    703
+   ],
    "level": 4,
    "parent": 696,
-   "text": "Accessibility at Orlando International Airport"
+   "text": "Accessibility at Orlando International Airport",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 707,
+   "boxes": [
+    707
+   ],
    "level": 4,
    "parent": 696,
-   "text": "Accessibility within Disney's theme parks in Orlando"
+   "text": "Accessibility within Disney's theme parks in Orlando",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 718,
+   "boxes": [
+    718
+   ],
    "level": 4,
    "parent": 696,
-   "text": "Accessibility at Walt Disney World Resort hotels"
+   "text": "Accessibility at Walt Disney World Resort hotels",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 730,
+   "boxes": [
+    730
+   ],
    "level": 3,
    "parent": 533,
    "text": "50 States",
-   "note": "page-wide briefs feature under MONEY (running tag MONEY); state items are run-in text"
+   "why": "page-wide briefs feature under the running MONEY tag (OCR garbled)"
   },
   {
-   "anno": 732,
+   "boxes": [
+    732
+   ],
    "level": 4,
    "parent": 730,
-   "text": "HIGHLIGHT: INDIANA",
-   "note": "highlighted item with its own label"
+   "text": "HIGHLIGHT:INDIANA",
+   "why": "highlighted item label with its own block"
   },
   {
-   "anno": 787,
+   "boxes": [
+    787
+   ],
    "level": 2,
    "parent": 6,
    "text": "SPORTS",
-   "note": "section C banner"
+   "why": "section: SPORTS section-front banner"
   },
   {
-   "anno": 793,
+   "boxes": [
+    793
+   ],
    "level": 3,
    "parent": 787,
-   "text": "STAMPED WITH GREATNESS"
+   "text": "STAMPED WITH GREATNESS",
+   "why": "story headline (on the photo)"
   },
   {
-   "anno": 808,
+   "boxes": [
+    808
+   ],
    "level": 3,
    "parent": 787,
-   "text": "Trade rumors surround All-Star fireballers"
+   "text": "Trade rumors surround All-Star fireballers",
+   "why": "story headline"
   },
   {
-   "anno": 823,
+   "boxes": [
+    823
+   ],
    "level": 3,
    "parent": 787,
-   "text": "Gymnastics needs to be more accessible for kids of color"
+   "text": "Gymnastics needs to be more accessible for kids of color",
+   "why": "story headline"
   },
   {
-   "anno": 839,
+   "boxes": [
+    839
+   ],
    "level": 3,
    "parent": 787,
-   "text": "Troon",
-   "continues": 793,
-   "note": "jump: Continued from Page 1C"
+   "text": "STAMPED WITH GREATNESS",
+   "why": "continuation: one-word jump head of a section-front story | breadcrumb round 3: the jump prints only the jump word \"Troon\" (no headline), so the continuation takes the original's title #793",
+   "continues": 793
   },
   {
-   "anno": 857,
+   "boxes": [
+    857
+   ],
    "level": 3,
    "parent": 787,
-   "text": "Armour",
-   "continues": 823,
-   "note": "jump"
+   "text": "Gymnastics needs to be more accessible for kids of color",
+   "why": "continuation: one-word jump head | breadcrumb round 3: the jump prints only the jump word \"Armour\" (no headline), so the continuation takes the original's title #823",
+   "continues": 823
   },
   {
-   "anno": 883,
+   "boxes": [
+    883
+   ],
    "level": 3,
    "parent": 787,
-   "text": "Rumors",
-   "continues": 808,
-   "note": "jump"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 3,
-   "note": "skybox teaser"
-  },
-  {
-   "anno": 13,
-   "note": "kicker"
-  },
-  {
-   "anno": 41,
-   "note": "MORE COVERAGE pointer box"
-  },
-  {
-   "anno": 42,
-   "note": "pointer item (3A)"
-  },
-  {
-   "anno": 143,
-   "note": "colophon field"
-  },
-  {
-   "anno": 145,
-   "note": "colophon field"
-  },
-  {
-   "anno": 147,
-   "note": "colophon field"
-  },
-  {
-   "anno": 149,
-   "note": "colophon field"
-  },
-  {
-   "anno": 151,
-   "note": "colophon field"
-  },
-  {
-   "anno": 516,
-   "note": "ad"
-  },
-  {
-   "anno": 518,
-   "note": "ad"
-  },
-  {
-   "anno": 534,
-   "note": "skybox teaser"
-  },
-  {
-   "anno": 535,
-   "note": "skybox teaser"
-  },
-  {
-   "anno": 789,
-   "note": "skybox teaser"
-  },
-  {
-   "anno": 791,
-   "note": "skybox teaser"
+   "text": "Trade rumors surround All-Star fireballers",
+   "why": "continuation: one-word jump head | breadcrumb round 3: the jump prints only the jump word \"Rumors\" (no headline), so the continuation takes the original's title #808",
+   "continues": 808
   }
  ],
  "repeats": [
   {
-   "anno": 141,
-   "of": 6
+   "boxes": [
+    141
+   ],
+   "of": 6,
+   "why": "masthead name restated as the colophon box title"
   },
   {
-   "anno": 153,
-   "of": 65
+   "boxes": [
+    505
+   ],
+   "of": 6,
+   "why": "masthead name restated over the editorial board list"
   },
   {
-   "anno": 236,
-   "of": 65
+   "boxes": [
+    153,
+    236,
+    286,
+    339,
+    416
+   ],
+   "of": 65,
+   "why": "running section tag NEWS on the following pages of the open section"
   },
   {
-   "anno": 286,
-   "of": 65
+   "boxes": [
+    581,
+    668,
+    729
+   ],
+   "of": 533,
+   "why": "running section tag MONEY on the following pages"
   },
   {
-   "anno": 339,
-   "of": 65
+   "boxes": [
+    838
+   ],
+   "of": 787,
+   "why": "running section tag SPORTS on the following page"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "skybox teaser pointing to another page/section"
   },
   {
-   "anno": 416,
-   "of": 65
+   "box": 534,
+   "why": "skybox teaser pointing to another page/section"
   },
   {
-   "anno": 505,
-   "of": 6
+   "box": 535,
+   "why": "skybox teaser pointing to another page/section"
   },
   {
-   "anno": 581,
-   "of": 533
+   "box": 789,
+   "why": "skybox teaser pointing to another page/section"
   },
   {
-   "anno": 668,
-   "of": 533
+   "box": 791,
+   "why": "skybox teaser pointing to another page/section"
   },
   {
-   "anno": 729,
-   "of": 533
+   "box": 13,
+   "why": "kicker above a headline"
   },
   {
-   "anno": 838,
-   "of": 787
+   "box": 41,
+   "why": "MORE COVERAGE pointer box"
+  },
+  {
+   "box": 42,
+   "why": "pointer item (points to 3A)"
+  },
+  {
+   "box": 143,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 145,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 147,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 149,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 151,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 516,
+   "why": "full-page advertisement"
+  },
+  {
+   "box": 518,
+   "why": "full-page advertisement"
+  }
+ ],
+ "considered": [
+  {
+   "box": 514,
+   "why": "running tag NEWS over a full-page ad after the OPINION page: no content, no section node"
   }
  ]
 }

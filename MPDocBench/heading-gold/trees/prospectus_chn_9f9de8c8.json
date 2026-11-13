@@ -1,53 +1,126 @@
 {
  "doc": "prospectus_chn_9f9de8c8",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections and 第X节; L3 一、. Cover issuer name/English name/address/sponsor are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 7,
+   "boxes": [
+    2,
+    7
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在科创板上市招股说明书"
+   "text": "常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "发行人声明"
+   "parent": 2,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "本次发行概况"
+   "parent": 2,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "目录"
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
-   "parent": 7,
-   "text": "第一节 释义"
+   "parent": 2,
+   "text": "第一节 释义",
+   "why": "body chapter 第一节 释义"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 41,
-   "text": "一、一般释义"
+   "text": "一、一般释义",
+   "why": "section 一、 with its term table"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11,
+    12
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    17,
+    18
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    22,
+    23
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    27,
+    28
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    31,
+    32
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    35,
+    36
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    39,
+    40
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 4,
-   "note": "issuer English name on cover"
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": []
 }

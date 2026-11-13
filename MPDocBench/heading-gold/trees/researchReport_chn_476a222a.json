@@ -1,86 +1,135 @@
 {
  "doc": "researchReport_chn_476a222a",
- "notation": "researchReport: L1 headline; L2 投资要点, 正文目录, 图表目录, 1. chapters; L3 1.1. sections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "宏观周报：美联储放鸽，9月结束缩表"
+   "text": "宏观周报：美联储放鸽，9月结束缩表",
+   "why": "title: report headline (report type + topic in one line)"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
    "parent": 4,
-   "text": "投资要点："
+   "text": "投资要点：",
+   "why": "section: cover summary title"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 4,
-   "text": "正文目录"
+   "text": "正文目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 4,
-   "text": "图表目录"
+   "text": "图表目录",
+   "why": "front matter: figure list title"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1.最新资讯"
+   "text": "1.最新资讯",
+   "why": "section: chapter 1."
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.1.习近平主持召开中央全面深化改革委员会第七次会议"
+   "text": "1.1.习近平主持召开中央全面深化改革委员会第七次会议",
+   "why": "section: 1.1."
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.2.韩正：稳地价稳房价稳预期"
+   "text": "1.2.韩正：稳地价稳房价稳预期",
+   "why": "section: 1.2."
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.3.八部委：关于在部分地区开展甲醇汽车应用的指导意见"
+   "text": "1.3.八部委：关于在部分地区开展甲醇汽车应用的指导意见",
+   "why": "section: 1.3."
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.4.国常会：明确增值税减税配套措施"
+   "text": "1.4.国常会：明确增值税减税配套措施",
+   "why": "section: 1.4."
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.5.李克强考察财政部、税务总局并主持召开座谈会：把更大规模减税政策落实到位，进一步激发市场主体活力"
+   "text": "1.5.李克强考察财政部、税务总局并主持召开座谈会：把更大规模减税政策落实到位，进一步激发市场主体活力",
+   "why": "section: 1.5."
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.6.中美经贸高级别磋商将于近期分别在北京和华盛顿举行"
+   "text": "1.6.中美经贸高级别磋商将于近期分别在北京和华盛顿举行",
+   "why": "section: 1.6."
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.7.两市余额破9000亿关口"
+   "text": "1.7.两市余额破9000亿关口",
+   "why": "section: 1.7."
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 27,
-   "text": "1.8.上交所发布科创板上市审核问答：原则上要求申报前清理对赌协议"
+   "text": "1.8.上交所发布科创板上市审核问答：原则上要求申报前清理对赌协议",
+   "why": "section: 1.8."
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 6,
+   "why": "related-reports label (empty list): text per category note"
+  },
+  {
+   "box": 3,
+   "why": "running report-type header"
+  }
+ ]
 }

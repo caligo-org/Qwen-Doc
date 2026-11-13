@@ -1,48 +1,62 @@
 {
  "doc": "examPaper_chn_3e46326d",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分"
+   "text": "2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分",
+   "why": "title: exam title"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第I卷"
+   "text": "第I卷",
+   "why": "part 第I卷"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 3,
    "parent": 2,
-   "text": "二、选择题（本题共4小题。在每小题给出的四个选项中，有的只有一个选项正确，有的有多个选项正确，全部选对的得6分，选对但不全的得3分，有选错的得0分。）"
+   "text": "二、选择题（本题共4小题。在每小题给出的四个选项中，有的只有一个选项正确，有的有多个选项正确，全部选对的得6分，选对但不全的得3分，有选错的得0分。）",
+   "why": "question group of part I"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 2,
    "parent": 1,
-   "text": "第Ⅱ卷"
+   "text": "第Ⅱ卷",
+   "why": "part 第II卷"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 60,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
+   "box": 60,
+   "why": "individual exam question number + score line: text (user decision)"
   },
   {
-   "anno": 92,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
+   "box": 92,
+   "why": "individual exam question number + score line: text (user decision)"
   },
   {
-   "anno": 98,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
+   "box": 98,
+   "why": "individual exam question number + score line: text (user decision)"
   },
   {
-   "anno": 104,
-   "note": "exam question: questions are text (user decision 2026-11-12)"
+   "box": 104,
+   "why": "individual exam question number + score line: text (user decision)"
   }
  ],
- "repeats": []
+ "considered": []
 }

@@ -1,61 +1,70 @@
-"""check.py <doc> | --all   Validate trees/<doc>.json and print its outline.
-Checks: ids exist; nodes in reading order (page order); parent is 'root' or an EARLIER node with a smaller level and is
-the parent that levels give in reading order (nearest earlier node with a smaller level); merge ids exist and are not
-nodes; continues points to an earlier node whose section was closed by something in between;
-every repeat points to a node whose section is still open at the repeat's position; every gold title is a node, a merge or a not_heading. Exit 1 on errors."""
+"""check.py <doc> | --all   Validate trees/<doc>.json (schema v3, see tools/tree.py) and print its outline.
+Checks: boxes exist and appear only once in the file; nodes in reading order (page of the first box); every parent is
+'root' or an EARLIER node with a smaller level and is the parent the levels give in reading order (nearest earlier node
+with a smaller level); a union's boxes are distinct; `continues` points to an earlier node whose section was closed by
+something in between; every repeat points to a node whose section is still open at the repeat; every gold title is in
+a node, a repeat or not_headings; every node, repeat, not_heading and considered entry has a non-empty `why`.
+Exit 1 on errors."""
 import sys, os, json, glob
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import gold, gold_tree, TREES
+from tree import read, nid
 def check(doc, quiet=False):
     r=gold()[doc]; by={e['anno_id']:e for e in r['layout_dets']}; errs=[]
-    t=json.load(open(os.path.join(TREES,doc+'.json')))
-    if t.get('doc')!=doc: errs.append('doc field mismatch')
-    nodes=t.get('nodes',[]); ids=[n['anno'] for n in nodes]
-    if len(ids)!=len(set(ids)): errs.append('duplicate node ids')
-    merged=[m for n in nodes for m in n.get('merge',[])]
-    nh=[x['anno'] for x in t.get('not_headings',[])]
-    for a in ids+merged+nh:
-        if a not in by: errs.append(f'#{a} does not exist')
-    if set(merged)&set(ids): errs.append(f'merged ids are also nodes: {sorted(set(merged)&set(ids))}')
-    lv={}; stack=[(0,'root')]; lastpage=0
+    raw=json.load(open(os.path.join(TREES,doc+'.json')))
+    if raw.get('schema')!=3: errs.append('schema must be 3')
+    t=read(doc); nodes=t['nodes']
+    seen={}
+    def take(b,where):
+        if b not in by: errs.append(f'#{b} does not exist ({where})')
+        elif b in seen: errs.append(f'#{b} used twice ({seen[b]} and {where})')
+        seen[b]=where
     for n in nodes:
-        a=n['anno']; L=n.get('level')
+        if not n.get('boxes'): errs.append('node without boxes'); continue
+        for b in n['boxes']: take(b,f'node #{nid(n)}')
+    for x in t['repeats']:
+        for b in x['boxes']: take(b,f'repeat of #{x["of"]}')
+    for x in t['not_headings']: take(x['box'],'not_headings')
+    for x in t['considered']: take(x['box'],'considered')
+    lv={}; stack=[(0,'root')]; lastpage=0; ids=set()
+    for n in nodes:
+        if not n.get('boxes') or any(b not in by for b in n['boxes']): continue
+        a=nid(n); L=n.get('level'); ids.add(a)
         if not isinstance(L,int) or L<1: errs.append(f'#{a} bad level {L}'); continue
-        pg=by[a]['page_id'] if a in by else 0
-        if pg<lastpage: errs.append(f'#{a} (p{pg}) is listed after a node on p{lastpage}: nodes must be in reading order')
+        pg=by[a]['page_id']
+        if pg<lastpage: errs.append(f'#{a} (p{pg}) listed after a node on p{lastpage}: nodes must be in reading order')
         lastpage=max(lastpage,pg)
         while stack[-1][0]>=L: stack.pop()
-        want=stack[-1][1]
-        if n.get('parent')!=want: errs.append(f"#{a} parent {n.get('parent')} but levels in reading order give {want}")
-        if n.get('continues') is not None:
-            c=n['continues']
-            if c not in lv: errs.append(f"#{a} continues #{c}, which is not an earlier node")
-            elif any(x[1]==c for x in stack): errs.append(f"#{a} continues #{c} but #{c}'s section is still open (nothing in between): make it a repeat, not a node")
+        if n.get('parent')!=stack[-1][1]: errs.append(f"#{a} parent {n.get('parent')} but levels in reading order give {stack[-1][1]}")
+        c=n.get('continues')
+        if c is not None:
+            if c not in lv: errs.append(f'#{a} continues #{c}, which is not an earlier node')
+            elif any(s[1]==c for s in stack): errs.append(f'#{a} continues #{c} but its section is still open: make it a repeat')
         if not (n.get('text') or '').strip(): errs.append(f'#{a} empty text')
+        if not (n.get('why') or '').strip(): errs.append(f'#{a} missing why')
         lv[a]=L; stack.append((L,a))
-    reps=t.get('repeats',[]); ra=[x['anno'] for x in reps]
-    for x in reps:
-        if x['anno'] not in by: errs.append(f"repeat #{x['anno']} does not exist"); continue
-        if x['anno'] in ids or x['anno'] in merged: errs.append(f"repeat #{x['anno']} is also a node or merge")
-        if x['of'] not in ids: errs.append(f"repeat #{x['anno']} of #{x['of']}, which is not a node"); continue
-        pos=(by[x['anno']]['page_id'],x['anno']); st=[]
+    for x in t['repeats']:
+        if x['of'] not in ids: errs.append(f"repeat {x['boxes']} of #{x['of']}, which is not a node"); continue
+        if not x['boxes'] or x['boxes'][0] not in by: continue
+        pos=(by[x['boxes'][0]]['page_id'],x['boxes'][0]); st=[]
         for n in nodes:
-            if (by[n['anno']]['page_id'],n['anno'])>pos: break
+            a=nid(n)
+            if a not in by or (by[a]['page_id'],a)>pos: break
             while st and st[-1][0]>=n['level']: st.pop()
-            st.append((n['level'],n['anno']))
-        if x['of'] not in [s_[1] for s_ in st]: errs.append(f"repeat #{x['anno']} of #{x['of']}, but that section is not open there (something came in between): make it a node with continues")
-    if set(ra)&set(nh): errs.append(f'ids both in repeats and not_headings: {sorted(set(ra)&set(nh))}')
-    gt=gold_tree(r); cov=set(ids)|set(merged)|set(nh)|set(ra)
-    miss=[a for a in gt if a not in cov]
-    if miss: errs.append(f'gold titles not accounted for (add as node, merge or not_heading): {miss}')
-    extra=[a for a in nh if a not in gt]
-    if extra: errs.append(f'not_headings that are not gold titles (only gold titles go there): {extra}')
+            st.append((n['level'],a))
+        if x['of'] not in [s[1] for s in st]: errs.append(f"repeat {x['boxes']} of #{x['of']}: that section is not open there (make it a node with continues)")
+        if not (x.get('why') or '').strip(): errs.append(f"repeat {x['boxes']} missing why")
+    for x in t['not_headings']+t['considered']:
+        if not (x.get('why') or '').strip(): errs.append(f"#{x['box']} missing why")
+    gt=gold_tree(r)
+    miss=[a for a in gt if a not in seen]
+    if miss: errs.append(f'gold titles not accounted for (node box, repeat or not_headings): {miss}')
     if not quiet:
         for n in nodes:
-            a=n['anno']; pg=by[a]['page_id'] if a in by else '?'
-            ex=(f" +{n['merge']}" if n.get('merge') else '')+(f" cont#{n['continues']}" if n.get('continues') else '')
-            print('  '*(n.get('level',1)-1)+f"L{n.get('level')} #{a} p{pg}{ex} {n.get('text','')[:70]!r}")
-        for x in reps: print(f"  repeat #{x['anno']} (p{by[x['anno']]['page_id']}) of #{x['of']}")
-        print(f"{len(nodes)} nodes, {len(merged)} merged, {len(reps)} repeats, {len(nh)} not_headings, gold titles {len(gt)}")
+            a=nid(n); ex=(f" ∪{n['boxes'][1:]}" if len(n['boxes'])>1 else '')+(f" cont#{n['continues']}" if n.get('continues') is not None else '')
+            print('  '*(n.get('level',1)-1)+f"L{n.get('level')} #{a} p{by[a]['page_id'] if a in by else '?'}{ex} {n.get('text','')[:70]!r}")
+        for x in t['repeats']: print(f"  repeat {x['boxes']} of #{x['of']}")
+        print(f"{len(nodes)} nodes, {sum(len(n['boxes'])>1 for n in nodes)} unions, {len(t['repeats'])} repeats, {len(t['not_headings'])} not_headings, {len(t['considered'])} considered, gold titles {len(gt)}")
     for e in errs: print('ERROR', doc, e)
     return not errs
 if __name__=='__main__':

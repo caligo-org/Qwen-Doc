@@ -1,49 +1,70 @@
 {
  "doc": "book_eng_9e4de927",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Angry GOD"
+   "text": "Angry GOD",
+   "why": "title: book title on the cover; tagline, bestseller line, author are text"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Table of Contents"
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 2,
    "text": "Theme Song",
-   "note": "front-matter page title"
+   "why": "front matter: music page title with its entry below (OCR 'ThemeSong')"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 2,
    "text": "Playlist",
-   "note": "front-matter page title, same style as Theme Song"
+   "why": "front matter: playlist title with its list below (OCR 'Plaglist')"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28,
+    30
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Chapter ONE"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 8,
-   "note": "title + author line on the copyright page (title repeated)"
+   "text": "Chapter ONE Lenora",
+   "why": "breadcrumb round 3: union of the chapter label (bare marker) and the narrator line printed under it as the chapter title in the chapter opener; the excerpt ends inside this chapter (no POV change), so the union describes the whole chapter. Printed: \"Chapter ONE Lenora\""
   }
  ],
  "repeats": [
   {
-   "anno": 5,
-   "of": 2
+   "boxes": [
+    5
+   ],
+   "of": 2,
+   "why": "repeat: title page restates the book title"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "of": 2,
+   "why": "repeat: title + author restated on the copyright page"
   }
- ]
+ ],
+ "not_headings": [],
+ "considered": []
 }

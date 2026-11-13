@@ -1,81 +1,120 @@
 {
  "doc": "manualGuide_eng_c8f5395d",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "nüvi 2440",
-   "note": "product model on the cover band is the title of this product sheet"
+   "text": "nüvi® 2440",
+   "why": "title: product model on the product sheet (no document type printed; brand logo separate) Breadcrumb review r3: OCR \"?\" replaced by the printed ®."
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Fonctionnalités"
+   "text": "Fonctionnalités",
+   "why": "section: ▶ head with its feature list"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 28,
    "text": "nüRoute™",
-   "note": "feature box title next to the Fonctionnalités list"
+   "why": "box title: feature box beside the feature list, one level below the section it sits in"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 3,
    "parent": 28,
-   "text": "PhotoReal™"
+   "text": "PhotoReal™",
+   "why": "box title: feature box"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Cartographie"
+   "text": "Cartographie",
+   "why": "section: blue head"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Caractéristiques physiques"
+   "text": "Caractéristiques physiques",
+   "why": "section: ▶ head"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contenu du pack"
+   "text": "Contenu du pack",
+   "why": "section: ▶ head"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Conditionnement"
+   "text": "Conditionnement",
+   "why": "section: ▶ head"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Accessoires"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 4,
-   "note": "cover slogan headline"
-  },
-  {
-   "anno": 47,
-   "note": "deck under the box title"
-  },
-  {
-   "anno": 50,
-   "note": "deck under the box title"
+   "text": "Accessoires",
+   "why": "section: ▶ head"
   }
  ],
  "repeats": [
   {
-   "anno": 26,
-   "of": 1
+   "boxes": [
+    26
+   ],
+   "of": 1,
+   "why": "repeat: product model in the page-2 header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "cover slogan: text"
+  },
+  {
+   "box": 47,
+   "why": "deck: bold one-line subtitle of the nüRoute box"
+  },
+  {
+   "box": 50,
+   "why": "deck: bold one-line subtitle of the PhotoReal box"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "brand logo: text"
+  },
+  {
+   "box": 53,
+   "why": "list lead-in Vous allez aimer : text"
   }
  ]
 }

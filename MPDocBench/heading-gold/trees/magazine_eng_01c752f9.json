@@ -1,25 +1,27 @@
 {
  "doc": "magazine_eng_01c752f9",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "TOWN&COUNTRY",
-   "note": "masthead (box also holds the issue date; gold OCR garbled by the cover photo)"
+   "why": "title: periodical masthead TOWN&COUNTRY (gold OCR garbled by the cover photo; issue date in the box is text)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover line"
+   "box": 3,
+   "why": "cover line"
   },
   {
-   "anno": 9,
-   "note": "advertisement (CHANEL High Jewelry, pp. 2-4)"
+   "box": 9,
+   "why": "advertisement (CHANEL High Jewelry, pp. 2-4)"
   }
  ],
- "repeats": []
+ "considered": []
 }

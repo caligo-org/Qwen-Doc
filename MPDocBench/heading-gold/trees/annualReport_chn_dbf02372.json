@@ -1,104 +1,232 @@
 {
  "doc": "annualReport_chn_dbf02372",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2019 年年度报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "江苏华宏科技股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 3,
-   "text": "第一节重要提示、目录和释义"
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 8,
-   "text": "目录"
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 3,
    "parent": 8,
-   "text": "释义"
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 3,
-   "text": "第二节公司简介和主要财务指标"
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 27,
-   "text": "一、公司信息"
+   "text": "一、公司信息",
+   "why": "一、 level (table caption style)"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 3,
    "parent": 27,
-   "text": "二、联系人和联系方式"
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 3,
    "parent": 27,
-   "text": "三、信息披露及备置地点"
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 3,
    "parent": 27,
-   "text": "四、注册变更情况"
+   "text": "四、注册变更情况",
+   "why": "一、 level"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 27,
-   "text": "五、其他有关资料"
+   "text": "五、其他有关资料",
+   "why": "一、 level"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 27,
-   "text": "六、主要会计数据和财务指标"
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 3,
    "parent": 27,
-   "text": "七、境内外会计准则下会计数据差异"
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 4,
    "parent": 53,
-   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item, outline heading (不适用 + statement below)"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 4,
    "parent": 53,
-   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况"
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 27,
-   "text": "八、分季度主要财务指标"
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 27,
-   "text": "九、非经常性损益项目及金额"
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 40,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 42,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 44,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 47,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 63,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 69,
+   "why": "statement label with 不适用 + one sentence (substance)"
+  }
+ ]
 }

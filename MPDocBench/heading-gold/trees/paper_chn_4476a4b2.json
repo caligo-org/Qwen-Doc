@@ -1,50 +1,71 @@
 {
  "doc": "paper_chn_4476a4b2",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 1,
    "parent": "root",
-   "text": "白藜芦醇对小鼠脂代谢及相关蛋白表达影响*"
+   "text": "白藜芦醇对小鼠脂代谢及相关蛋白表达影响",
+   "why": "title: paper title (footnote marker * left out)"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 25,
-   "text": "1 材料与方法"
+   "text": "1 材料与方法",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 25,
-   "text": "2 结果"
+   "text": "2 结果",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 2,
    "parent": 25,
-   "text": "3 讨论"
+   "text": "3 讨论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
    "parent": 25,
-   "text": "参考文献"
+   "text": "参考文献",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    29
+   ],
+   "of": 25,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 4,
-   "note": "references of the preceding article (fragment at top of p1); not part of this document's outline"
+   "box": 4,
+   "why": "foreign article: references of the previous article ending on this page"
   },
   {
-   "anno": 24,
-   "note": "column label (• 实验研究 •)"
-  },
-  {
-   "anno": 29,
-   "note": "English translation of the title"
+   "box": 24,
+   "why": "column label (• 实验研究 •) above the title: text"
   }
  ],
- "repeats": []
+ "considered": []
 }

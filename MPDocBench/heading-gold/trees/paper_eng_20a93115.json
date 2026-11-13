@@ -1,55 +1,81 @@
 {
  "doc": "paper_eng_20a93115",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem"
+   "text": "Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem",
+   "why": "title: paper title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Abstract"
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1 Introduction"
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2 Topological networks on locally convex spaces"
+   "text": "2 Topological networks on locally convex spaces",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3 DeepONets on locally convex spaces and operator approximation"
+   "text": "3 DeepONets on locally convex spaces and operator approximation",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 359,
+   "boxes": [
+    359
+   ],
    "level": 2,
    "parent": 2,
-   "text": "4 Examples illustrating Theorem 3.1"
+   "text": "4 Examples illustrating Theorem 3.1",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 419,
+   "boxes": [
+    419
+   ],
    "level": 2,
    "parent": 2,
-   "text": "5 Conclusion"
+   "text": "5 Conclusion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 422,
+   "boxes": [
+    422
+   ],
    "level": 2,
    "parent": 2,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

@@ -1,120 +1,184 @@
 {
  "doc": "paper_chn_be9986ff",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "载人深空探索中空间辐射防护技术的研究进展"
+   "text": "载人深空探索中空间辐射防护技术的研究进展",
+   "why": "title: paper title"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
    "parent": 5,
-   "text": "1 载人深空探索任务中空间辐射环境特点"
+   "text": "1 载人深空探索任务中空间辐射环境特点",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 5,
-   "text": "2 物理防护"
+   "text": "2 物理防护",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 41,
-   "text": "2.1 被动防护"
+   "text": "2.1 被动防护",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 4,
    "parent": 44,
-   "text": "2.1.1 辐射防护材料的筛选方法与应用"
+   "text": "2.1.1 辐射防护材料的筛选方法与应用",
+   "why": "subsection 2.1.1 (numbering)"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 4,
    "parent": 44,
-   "text": "2.1.2 载人航天器舱体辐射防护"
+   "text": "2.1.2 载人航天器舱体辐射防护",
+   "why": "subsection 2.1.2 (numbering)"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
    "level": 4,
    "parent": 44,
-   "text": "2.1.3 个性化辐射防护"
+   "text": "2.1.3 个性化辐射防护",
+   "why": "subsection 2.1.3 (numbering)"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 4,
    "parent": 44,
-   "text": "2.1.4 星体表面浮土"
+   "text": "2.1.4 星体表面浮土",
+   "why": "subsection 2.1.4 (numbering)"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 3,
    "parent": 41,
-   "text": "2.2 主动防护"
+   "text": "2.2 主动防护",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120
+   ],
    "level": 2,
    "parent": 5,
-   "text": "3 生物医学防护"
+   "text": "3 生物医学防护",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.1 抗氧化剂"
+   "text": "3.1 抗氧化剂",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.2 抑制剂"
+   "text": "3.2 抑制剂",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 156,
+   "boxes": [
+    156
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.3 细胞因子、生长因子和激素类物质"
+   "text": "3.3 细胞因子、生长因子和激素类物质",
+   "why": "subsection 3.3 (numbering)"
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.4 蛋白质分子类物质"
+   "text": "3.4 蛋白质分子类物质",
+   "why": "subsection 3.4 (numbering)"
   },
   {
-   "anno": 166,
+   "boxes": [
+    166
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.5 细胞治疗剂"
+   "text": "3.5 细胞治疗剂",
+   "why": "subsection 3.5 (numbering)"
   },
   {
-   "anno": 168,
+   "boxes": [
+    168
+   ],
    "level": 3,
    "parent": 120,
-   "text": "3.6 植物来源的活性物质"
+   "text": "3.6 植物来源的活性物质",
+   "why": "subsection 3.6 (numbering)"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 2,
    "parent": 5,
-   "text": "4 结论"
+   "text": "4 结论",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 2,
    "parent": 5,
-   "text": "参考文献"
+   "text": "参考文献",
+   "why": "back matter: references at top-section level"
   }
  ],
- "not_headings": [
+ "repeats": [
   {
-   "anno": 288,
-   "note": "English translation of the title (back-placed English summary)"
+   "boxes": [
+    288
+   ],
+   "of": 5,
+   "why": "repeat: English title restated after the references (title printed again in translation, apart from the Chinese title); as a restated title of the whole document it is a repeat of L1, not a node, and closes 参考文献: the English authors/abstract/keywords after it are about the whole paper, not the references (round 3)"
   }
  ],
- "repeats": []
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 287,
+   "why": "label \"Summary for <title>\" above the English title: text (kicker)"
+  }
+ ]
 }

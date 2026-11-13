@@ -1,115 +1,186 @@
 {
  "doc": "book_eng_b155f179",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Modern Robotics with OpenCV"
+   "text": "Modern Robotics with OpenCV",
+   "why": "title: book title; author and publisher logo are text"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter: preface"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16,
+    17
+   ],
    "level": 2,
    "parent": 1,
    "text": "Chapter 1 Introduction to Intelligent Robotics",
-   "merge": [
-    17
-   ]
+   "why": "chapter union: chapter label + chapter title"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 16,
-   "text": "Introduction"
+   "text": "Introduction",
+   "why": "section of the chapter"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 16,
-   "text": "History of Robot"
+   "text": "History of Robot",
+   "why": "section of the chapter"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 3,
    "parent": 16,
-   "text": "Types of Robot"
+   "text": "Types of Robot",
+   "why": "section of the chapter"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 3,
    "parent": 16,
-   "text": "Embedded Systems for Robot"
+   "text": "Embedded Systems for Robot",
+   "why": "section of the chapter"
   },
   {
-   "anno": 145,
+   "boxes": [
+    145
+   ],
    "level": 3,
    "parent": 16,
-   "text": "Robot Vision"
+   "text": "Robot Vision",
+   "why": "section of the chapter"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    31
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "of": 1,
+   "why": "repeat: even running head naming the book"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "of": 16,
+   "why": "repeat: odd running head naming the open chapter"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 31,
-   "of": 1
-  },
-  {
-   "anno": 39,
-   "of": 16
-  },
-  {
-   "anno": 46,
-   "of": 1
-  },
-  {
-   "anno": 51,
-   "of": 16
-  },
-  {
-   "anno": 63,
-   "of": 1
-  },
-  {
-   "anno": 76,
-   "of": 16
-  },
-  {
-   "anno": 88,
-   "of": 1
-  },
-  {
-   "anno": 95,
-   "of": 16
-  },
-  {
-   "anno": 114,
-   "of": 1
-  },
-  {
-   "anno": 122,
-   "of": 16
-  },
-  {
-   "anno": 131,
-   "of": 1
-  },
-  {
-   "anno": 142,
-   "of": 16
-  },
-  {
-   "anno": 149,
-   "of": 1
-  },
-  {
-   "anno": 160,
-   "of": 16
+   "box": 18,
+   "why": "lead-in sentence to the learning-objective list (no heading)"
   }
  ]
 }

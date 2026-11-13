@@ -1,144 +1,209 @@
 {
  "doc": "manualGuide_eng_a3556095",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
-   "level": 1,
-   "parent": "root",
-   "text": "Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3)",
-   "merge": [
+   "boxes": [
+    1,
+    2,
     3
    ],
-   "note": "manual type + product/model lines (missed by gold) as the title"
+   "level": 1,
+   "parent": "root",
+   "text": "TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3)",
+   "why": "title union: owner logo box #1 (TRENDNET) + manual type + product/model. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3))."
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Declaration of Conformity"
+   "parent": 1,
+   "text": "Declaration of Conformity",
+   "why": "section: declaration title (English)"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Manufacturer's Name and Address"
+   "text": "Manufacturer's Name and Address",
+   "why": "subsection: label with its own address block"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Product Information:"
+   "text": "Product Information:",
+   "why": "label heading: own-line label with its product block"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 3,
    "parent": 5,
-   "text": "Declaration:"
+   "text": "Declaration:",
+   "why": "label heading: own-line label with its declaration text"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Déclaration de conformité"
+   "parent": 1,
+   "text": "Déclaration de conformité",
+   "why": "section: declaration title (French), a separate sibling per language, not a continuation"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 29,
-   "text": "Nom et adresse du fabricant"
+   "text": "Nom et adresse du fabricant",
+   "why": "subsection: label with its own address block"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 29,
-   "text": "Détails du produit"
+   "text": "Détails du produit",
+   "why": "label heading: own-line label with its product block"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 29,
-   "text": "Déclaration:"
+   "text": "Déclaration:",
+   "why": "label heading: own-line label with its declaration text"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Limited Warranty"
+   "parent": 1,
+   "text": "Limited Warranty",
+   "why": "section: warranty title (English)"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Garantie Limitée"
+   "parent": 1,
+   "text": "Garantie Limitée",
+   "why": "section: warranty title (French), sibling per language"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Eingeschrankte Garantie"
+   "parent": 1,
+   "text": "Eingeschrankte Garantie",
+   "why": "section: warranty title (German)"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Garantia limitada"
+   "parent": 1,
+   "text": "Garantia limitada",
+   "why": "section: warranty title (Spanish)"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Ограниченная гарантия"
+   "parent": 1,
+   "text": "Ограниченная гарантия",
+   "why": "section: warranty title (Russian)"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Garantia Limitada"
+   "parent": 1,
+   "text": "Garantia Limitada",
+   "why": "section: warranty title (Portuguese)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Piiratud garantii"
+   "parent": 1,
+   "text": "Piiratud garantii",
+   "why": "section: warranty title (Estonian)"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Garanzia limitata"
+   "parent": 1,
+   "text": "Garanzia limitata",
+   "why": "section: warranty title (Italian)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Certifications"
+   "parent": 1,
+   "text": "Certifications",
+   "why": "section: certifications title"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Technical Support"
+   "parent": 1,
+   "text": "Technical Support",
+   "why": "section: technical support title"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Product Warranty Registration"
+   "parent": 1,
+   "text": "Product Warranty Registration",
+   "why": "section: registration title"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "brand logo"
+   "box": 74,
+   "why": "callout: Note label"
   },
   {
-   "anno": 74,
-   "note": "callout label \"Note\""
-  },
-  {
-   "anno": 76,
-   "note": "callout label \"Advertencia\" (warning)"
+   "box": 76,
+   "why": "callout: Advertencia (warning) label"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 23,
+   "why": "callout: Note lead-in before the LED table"
+  },
+  {
+   "box": 21,
+   "why": "form field Signature: text"
+  }
+ ]
 }

@@ -1,75 +1,216 @@
 {
  "doc": "book_eng_21695dfc",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Artificial Intelligence and Robotics"
+   "text": "Artificial Intelligence and Robotics",
+   "why": "title: report/book title; author line is text"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "1. INTRODUCTION"
+   "text": "1. INTRODUCTION",
+   "why": "section: numbered top-level section"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
    "parent": 1,
-   "text": "2. THE BIRTH AND BOOM OF AI"
+   "text": "2. THE BIRTH AND BOOM OF AI",
+   "why": "section: numbered top-level section"
   },
   {
-   "anno": 36,
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "1956 - when the term AI was first coined.",
+   "why": "sidebar box title describing the box's text (1956 box), one level below its section"
+  },
+  {
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 14,
    "text": "Weak and Strong AI",
-   "note": "titled box (sidebar)"
+   "why": "sidebar box title (Weak and Strong AI), one level below its section"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 2,
    "parent": 1,
-   "text": "3. QUESTIONING THE IMPACT OF AI"
+   "text": "3. QUESTIONING THE IMPACT OF AI",
+   "why": "section: numbered top-level section"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 40,
    "text": "The 18 topics covered by the AI100",
-   "note": "titled box listing the topics"
+   "why": "box title over the list of 18 topics, one level below its section"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 2,
    "parent": 1,
-   "text": "4. A CLOSER LOOK AT THE EVOLUTION OF AI"
+   "text": "4. A CLOSER LOOK AT THE EVOLUTION OF AI",
+   "why": "section: numbered top-level section"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 3,
    "parent": 64,
-   "text": "4.1 SEASONS OF AI"
+   "text": "4.1 SEASONS OF AI",
+   "why": "subsection: 4.1"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 3,
    "parent": 64,
-   "text": "4.2 INFLUENCE OF FUNDING"
+   "text": "4.2 INFLUENCE OF FUNDING",
+   "why": "subsection: 4.2"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 64,
-   "text": "4.3 PUBLICATION VERSUS PATENTING"
+   "text": "4.3 PUBLICATION VERSUS PATENTING",
+   "why": "subsection: 4.3"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 2,
    "parent": 1,
-   "text": "5. FINANCIAL IMPACT OF AI"
+   "text": "5. FINANCIAL IMPACT OF AI",
+   "why": "section: numbered top-level section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

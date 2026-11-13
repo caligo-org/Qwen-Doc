@@ -1,23 +1,31 @@
 {
  "doc": "book_eng_9c2fed1c",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "SAVING the CEO"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 8,
-   "note": "back-cover tagline above the blurb (also printed on the cover)"
+   "text": "SAVING the CEO",
+   "why": "title: book title on the cover; series line, quote, author are text; breadcrumb round 2: node text written as printed (OCR split \"t he C E O\")"
   }
  ],
  "repeats": [
   {
-   "anno": 12,
-   "of": 4
+   "boxes": [
+    12
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the book title"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 8,
+   "why": "back-cover tagline over the blurb (slogan, also printed on the cover): text"
+  }
+ ],
+ "considered": []
 }

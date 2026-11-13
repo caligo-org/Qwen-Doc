@@ -1,191 +1,324 @@
 {
  "doc": "pptSlides_chn_23e6f440",
- "notation": "pptSlides-v2 (report laid out as slides): L1 report title; L2 contents, overview spread and the coloured top sections (绿色低碳); L3 sub-sections (协同多元…) and the overview's category panels; L4 pill-framed box titles and the overview's item labels that head their own paragraph. Running header, page numbers, logo labels, infographic icon labels and stat lead-ins are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "蚂蚁集团 2022年社会公益报告"
+   "text": "蚂蚁集团 2022年社会公益报告",
+   "why": "title union: owner + document type in one box"
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
    "parent": 1,
-   "text": "目录"
+   "text": "目录",
+   "why": "contents title: front matter at top-section level"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 1,
    "text": "2022年进展一览",
-   "note": "overview spread p3-p4"
+   "why": "overview spread title: top-level section before the first chapter"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 3,
    "parent": 6,
    "text": "绿色低碳",
-   "note": "overview category panel"
+   "why": "overview row label: describes its row of item blocks"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 4,
    "parent": 8,
-   "text": "生态保护修复"
+   "text": "生态保护修复",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 4,
    "parent": 8,
-   "text": "低碳生活倡导"
+   "text": "低碳生活倡导",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 6,
-   "text": "⼥性发展"
+   "text": "⼥性发展",
+   "why": "overview row label: describes its row of item blocks"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 4,
    "parent": 14,
-   "text": "一份基础保障"
+   "text": "一份基础保障",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 4,
    "parent": 14,
-   "text": "一套创就业计划"
+   "text": "一套创就业计划",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 4,
    "parent": 14,
-   "text": "一句十年承诺"
+   "text": "一句十年承诺",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 6,
-   "text": "乡村振兴"
+   "text": "乡村振兴",
+   "why": "overview row label: describes its row of item blocks"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 4,
    "parent": 23,
-   "text": "消费助农"
+   "text": "消费助农",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 4,
    "parent": 23,
-   "text": "金融科技助农"
+   "text": "金融科技助农",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 3,
    "parent": 6,
-   "text": "人人公益"
+   "text": "人人公益",
+   "why": "overview row label: describes its row of item blocks"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 4,
    "parent": 30,
-   "text": "平台带动人人参与"
+   "text": "平台带动人人参与",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 6,
-   "text": "有爱无碍"
+   "text": "有爱无碍",
+   "why": "overview row label: describes its row of item blocks"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 4,
    "parent": 35,
-   "text": "助老公益行动"
+   "text": "助老公益行动",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 4,
    "parent": 35,
-   "text": "助残公益项目"
+   "text": "助残公益项目",
+   "why": "item label with its own text block"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 2,
    "parent": 1,
-   "text": "绿色低碳"
+   "text": "绿色低碳",
+   "why": "chapter title (contents entry 01)"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 3,
    "parent": 44,
-   "text": "协同多元社会力量，助力生态保护与修复"
+   "text": "协同多元社会力量，助力生态保护与修复",
+   "why": "subsection title (contents entry under 绿色低碳)"
   },
   {
-   "anno": 91,
+   "boxes": [
+    98
+   ],
    "level": 4,
    "parent": 75,
-   "text": "联合国《生物多样性公约》第十五次缔约方大会，向全球展示中国企业的ESG绿色理念"
+   "text": "沙棘模式——探索靠山吃山的“新吃法”，让沙棘成为助农增收的“金果果”",
+   "why": "box title: describes the story block below"
   },
   {
-   "anno": 95,
-   "level": 4,
-   "parent": 75,
-   "text": "探索滨海湿地生态修复"
-  },
-  {
-   "anno": 98,
-   "level": 4,
-   "parent": 75,
-   "text": "沙棘模式——探索靠山吃山的“新吃法”，让沙棘成为助农增收的“金果果”"
-  },
-  {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 3,
    "parent": 44,
-   "text": "倡导人人可参与的绿色低碳生活"
+   "text": "倡导人人可参与的绿色低碳生活",
+   "why": "subsection title (contents entry under 绿色低碳)"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 4,
    "parent": 104,
    "text": "“蚂蚁森林”绿色低碳倡导场景",
-   "note": "title of the green scenario box; its icon labels are text"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 83,
-   "note": "label rule"
+   "why": "panel title: says what the scenario panel is about"
   }
  ],
  "repeats": [
   {
-   "anno": 5,
-   "of": 1
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "running head naming the document"
   },
   {
-   "anno": 22,
-   "of": 1
+   "boxes": [
+    22
+   ],
+   "of": 1,
+   "why": "running head naming the document"
   },
   {
-   "anno": 42,
-   "of": 1
+   "boxes": [
+    42
+   ],
+   "of": 1,
+   "why": "running head naming the document"
   },
   {
-   "anno": 73,
-   "of": 1
+   "boxes": [
+    73
+   ],
+   "of": 1,
+   "why": "running head naming the document"
   },
   {
-   "anno": 81,
-   "of": 1
+   "boxes": [
+    81
+   ],
+   "of": 1,
+   "why": "running head naming the document"
   },
   {
-   "anno": 102,
-   "of": 1
+   "boxes": [
+    102
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "TOC entries"
+  },
+  {
+   "box": 2,
+   "why": "slogan on contents page"
+  },
+  {
+   "box": 24,
+   "why": "brand/program name next to a logo, not a block heading"
+  },
+  {
+   "box": 50,
+   "why": "infographic label"
+  },
+  {
+   "box": 51,
+   "why": "infographic label"
+  },
+  {
+   "box": 62,
+   "why": "infographic label"
+  },
+  {
+   "box": 63,
+   "why": "infographic label"
+  },
+  {
+   "box": 109,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 113,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 117,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 121,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 125,
+   "why": "icon-grid label like its siblings (partner list)"
+  },
+  {
+   "box": 129,
+   "why": "run-in start of a stat statement"
+  },
+  {
+   "box": 95,
+   "why": "breadcrumb round 3 (containment): pill title over the 滨海湿地 box, but the free paragraph #97 (蚂蚁森林 as 绿色基建 / eco products, lead-in to the 沙棘 box) follows it in reading order with no heading before #98 and is not about 滨海湿地 -> text"
+  },
+  {
+   "box": 91,
+   "why": "breadcrumb round 3 (containment): with #95 text, the 滨海湿地 story (#96) and #97 would fall under this COP15 title, which they are not about -> text; content sits under the L3 slide title"
+  },
+  {
+   "box": 83,
+   "why": "breadcrumb round 3: lead-in sentence ending in a colon over the stats column (same style as #129 on p8, which is text); with #91/#95 text it would also contain the COP15 and 滨海湿地 stories -> text"
   }
  ]
 }

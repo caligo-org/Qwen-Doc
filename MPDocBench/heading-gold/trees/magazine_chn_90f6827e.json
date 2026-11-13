@@ -1,157 +1,220 @@
 {
  "doc": "magazine_chn_90f6827e",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "知音",
-   "note": "masthead (gold OCR text is garbage)"
+   "text": "知音 海外版",
+   "why": "title: periodical masthead 知音 ∪ its edition logo 海外版 (box #3, printed as part of the masthead; same masthead as magazine_chn_5997ac40 where one box holds both); edition = what document"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 2,
    "parent": 2,
    "text": "一滴墨香",
-   "note": "running section tag"
+   "why": "section: running section tag 一滴墨香, poem page"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 36,
    "text": "界限",
-   "note": "poem title"
+   "why": "story: poem title, poem below (containment)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 2,
    "parent": 2,
    "text": "目录 CONTENTS",
-   "note": "contents title"
+   "why": "contents title (front matter at section level)"
   },
   {
-   "anno": 65,
+   "boxes": [
+    65
+   ],
    "level": 2,
    "parent": 2,
-   "text": "海外版|大千世界",
-   "note": "running section tag"
+   "text": "大千世界",
+   "why": "section: running section tag 大千世界 starts a section; node text = section name 大千世界 only: the edition prefix 海外版 | printed in the tag repeats the L1 masthead (知音 海外版) and the contents lists the section as 大千世界"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 3,
    "parent": 65,
-   "text": "美74岁妇人遭诈骗，竟持枪打劫银行弥补损失？"
+   "text": "美74岁妇人遭诈骗，竟持枪打劫银行弥补损失？",
+   "why": "story headline: describes the story below"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 3,
    "parent": 65,
-   "text": "游客聚集团扰民众，富士山热门“打卡地”被遮"
+   "text": "游客聚集团扰民众，富士山热门“打卡地”被遮",
+   "why": "story headline: describes the story below"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 65,
-   "text": "奥运在即,巴黎监测塞纳河大肠杆菌含量仍超标"
+   "text": "奥运在即,巴黎监测塞纳河大肠杆菌含量仍超标",
+   "why": "story headline: describes the story below"
   },
   {
-   "anno": 92,
+   "boxes": [
+    92
+   ],
    "level": 2,
    "parent": 2,
    "text": "百科&生活",
-   "note": "section banner of a briefs page"
+   "why": "section: banner of the briefs section 百科&生活; 【...】 items are run-in labels"
   },
   {
-   "anno": 117,
+   "boxes": [
+    117
+   ],
    "level": 2,
    "parent": 2,
    "text": "陈道明:我的“诈糊人生”",
-   "note": "article opening on a full-bleed photo page without section tag (its tag 名人明星 first appears on p9, after the headline), so directly under the masthead; the p9/p10 tags are its running heads"
+   "why": "story headline in the section slot: opens on a photo page with no section tag (名人明星 tag first printed on the next page, after the headline)"
   },
   {
-   "anno": 121,
+   "boxes": [
+    121
+   ],
    "level": 3,
    "parent": 117,
-   "text": "爱上麻将"
+   "text": "爱上麻将",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 139,
+   "boxes": [
+    139
+   ],
    "level": 3,
    "parent": 117,
-   "text": "麻将为媒"
+   "text": "麻将为媒",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 3,
    "parent": 117,
-   "text": "沉淀人生"
+   "text": "沉淀人生",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 2,
    "parent": 2,
-   "text": "海外版|本刊特稿",
-   "note": "running section tag, section changes"
+   "text": "本刊特稿",
+   "why": "section: running section tag 本刊特稿, section changes; node text = section name 本刊特稿 only: the edition prefix 海外版 | printed in the tag repeats the L1 masthead (知音 海外版) and the contents lists the section as 本刊特稿"
   },
   {
-   "anno": 182,
-   "level": 3,
-   "parent": 181,
-   "text": "伊拉克老王：跟着味蕾探索舌尖上的中国",
-   "merge": [
+   "boxes": [
+    182,
     183
    ],
-   "note": "headline printed in two vertical boxes"
+   "level": 3,
+   "parent": 181,
+   "text": "伊拉克老王： 跟着味蕾探索舌尖上的中国",
+   "why": "story headline: union of the two vertical boxes 伊拉克老王：+ 跟着味蕾探索舌尖上的中国"
   },
   {
-   "anno": 187,
+   "boxes": [
+    187
+   ],
    "level": 4,
    "parent": 182,
-   "text": "童年时颠沛流离"
+   "text": "童年时颠沛流离",
+   "why": "in-story subhead with its block"
   },
   {
-   "anno": 208,
+   "boxes": [
+    208
+   ],
    "level": 4,
    "parent": 182,
-   "text": "用诚信开创事业"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 14,
-   "note": "ad page (header 广告): subscription ad headline"
-  },
-  {
-   "anno": 20,
-   "note": "ad page: label in subscription ad"
-  },
-  {
-   "anno": 37,
-   "note": "masthead repeated on the colophon/contents page"
-  },
-  {
-   "anno": 49,
-   "note": "logo in the colophon column"
-  },
-  {
-   "anno": 54,
-   "note": "colophon-column notice box"
-  },
-  {
-   "anno": 58,
-   "note": "colophon-column recruiting notice"
-  },
-  {
-   "anno": 63,
-   "note": "colophon-column bank-account box"
+   "text": "用诚信开创事业",
+   "why": "in-story subhead with its block"
   }
  ],
  "repeats": [
   {
-   "anno": 201,
-   "of": 181
+   "boxes": [
+    37
+   ],
+   "of": 2,
+   "why": "repeat: masthead (BOSOM FRIEND) restated over the colophon/contents page"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "of": 181,
+   "why": "repeat: running section tag 本刊特稿 of the open section"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "repeat: vertical running header naming the magazine (知音海外版)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "ad page (header 广告): subscription ad headline"
+  },
+  {
+   "box": 20,
+   "why": "ad page: label inside the subscription ad"
+  },
+  {
+   "box": 49,
+   "why": "house-ad logo above QR codes in the colophon column"
+  },
+  {
+   "box": 54,
+   "why": "colophon-column notice box (copyright statement): colophon text"
+  },
+  {
+   "box": 58,
+   "why": "colophon-column recruiting notice: ad/colophon text"
+  },
+  {
+   "box": 63,
+   "why": "colophon-column bank-account box: contact box"
+  }
+ ],
+ "considered": [
+  {
+   "box": 134,
+   "why": "running section tag 名人明星 printed only after the story opener: the story holds the section slot, so text"
+  },
+  {
+   "box": 159,
+   "why": "running section tag 名人明星 on the story's later page: text"
   }
  ]
 }

@@ -1,109 +1,179 @@
 {
  "doc": "paper_eng_64b5e1f4",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code"
+   "text": "discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code",
+   "why": "title: paper title"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 1,
-   "text": "I. INTRODUCTION"
+   "text": "I. INTRODUCTION",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 1,
-   "text": "II. APPROACH OVERVIEW"
+   "text": "II. APPROACH OVERVIEW",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 1,
-   "text": "III. DISCOVRE"
+   "text": "III. DISCOVRE",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 28,
-   "text": "A. Data Set"
+   "text": "A. Data Set",
+   "why": "subsection A. (lettered, italic)"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 28,
-   "text": "B. Numeric filter"
+   "text": "B. Numeric filter",
+   "why": "subsection B."
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 3,
    "parent": 28,
-   "text": "C. Structural Similarity"
+   "text": "C. Structural Similarity",
+   "why": "subsection C."
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 2,
    "parent": 1,
-   "text": "IV. EVALUATION"
+   "text": "IV. EVALUATION",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 152,
+   "boxes": [
+    152
+   ],
    "level": 3,
    "parent": 148,
-   "text": "A. Similarity Metric"
+   "text": "A. Similarity Metric",
+   "why": "subsection A."
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 3,
    "parent": 148,
-   "text": "B. Cross-Architecture Bug Search"
+   "text": "B. Cross-Architecture Bug Search",
+   "why": "subsection B."
   },
   {
-   "anno": 188,
+   "boxes": [
+    188
+   ],
    "level": 3,
    "parent": 148,
-   "text": "C. Comparison to BinDiff"
+   "text": "C. Comparison to BinDiff",
+   "why": "subsection C."
   },
   {
-   "anno": 191,
+   "boxes": [
+    191
+   ],
    "level": 2,
    "parent": 1,
-   "text": "V. LIMITATIONS"
+   "text": "V. LIMITATIONS",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 196,
+   "boxes": [
+    196
+   ],
    "level": 2,
    "parent": 1,
-   "text": "VI. RELATED WORK"
+   "text": "VI. RELATED WORK",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 209,
+   "boxes": [
+    209
+   ],
    "level": 2,
    "parent": 1,
-   "text": "VII. CONCLUSION AND FUTURE WORK"
+   "text": "VII. CONCLUSION AND FUTURE WORK",
+   "why": "section: roman-numbered top section"
   },
   {
-   "anno": 214,
+   "boxes": [
+    214
+   ],
    "level": 3,
    "parent": 209,
-   "text": "A. Future Work"
+   "text": "A. Future Work",
+   "why": "subsection A."
   },
   {
-   "anno": 218,
+   "boxes": [
+    218
+   ],
    "level": 2,
    "parent": 1,
-   "text": "ACKNOWLEDGEMENTS"
+   "text": "ACKNOWLEDGEMENTS",
+   "why": "back matter: acknowledgements, same look as top sections"
   },
   {
-   "anno": 220,
+   "boxes": [
+    220
+   ],
    "level": 2,
    "parent": 1,
-   "text": "REFERENCES"
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "run-in \"Abstract—\" starting the abstract paragraph: text"
+  },
+  {
+   "box": 26,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 27,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 41,
+   "why": "IEEE run-in subsubsection \"1) Open source projects:\" starting a paragraph: text"
+  }
+ ]
 }

@@ -1,27 +1,71 @@
 {
  "doc": "researchReport_eng_53adef78",
- "notation": "researchReport (English): L1 headline; L2 Table of Contents and body sections. Bold paragraph lead-ins are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "A new era for ESG in Asia Pacific",
-   "note": "the box also holds the series kicker GS SUSTAIN: APAC ESG Regulation, which is text"
+   "text": "Goldman Sachs GS SUSTAIN: APAC ESG Regulation A new era for ESG in Asia Pacific",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: GS SUSTAIN: APAC ESG Regulation A new era for ESG in Asia Pacific)."
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Table of Contents"
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Executive summary"
+   "parent": 2,
+   "text": "Executive summary",
+   "why": "section: body section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    24
+   ],
+   "of": 2,
+   "why": "repeat: running head restating the report title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "repeat: running head restating the report title"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "of": 2,
+   "why": "repeat: running head restating the report title"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 2,
+   "why": "repeat: running head restating the report title"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 33,
+   "why": "bold run-in lead sentence"
+  }
+ ]
 }

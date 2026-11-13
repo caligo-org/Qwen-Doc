@@ -1,95 +1,174 @@
 {
  "doc": "pptSlides_eng_a04b6aef",
- "notation": "pptSlides-v2: L1 deck title (once); L2 contents title, section divider (an agenda slide that highlights one entry is the divider for that entry) and slides before the first divider; L3 slide title; L4 titled block inside a slide; repeated or (cont.) slide titles are continuation nodes. Lecturer, affiliation, course/series lines, logos, callout labels (定义, Note) are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "THE NERVOUS SYSTEM"
+   "text": "THE NERVOUS SYSTEM",
+   "why": "deck title"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 4,
    "text": "FUNCTIONS OF THE NERVOUS SYSTEM",
-   "note": "slide titles L2 (no dividers)"
+   "why": "slide title (deck without dividers)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Sensory input-gathering information",
+   "why": "short topic label (first-level bullet) heading its own sub-bullets"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Integration",
+   "why": "short topic label heading its own sub-bullet; breadcrumb round 2: node text drops the printed ◉ bullet glyph (OCR \"\\(\\odot\\)\") so the breadcrumb reads as a description"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Motor output",
+   "why": "short topic label heading its own sub-bullets (on the repeated slide)"
+  },
+  {
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 4,
-   "text": "STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM"
+   "text": "STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM",
+   "why": "slide title"
   },
   {
-   "anno": 35,
-   "level": 2,
-   "parent": 4,
-   "text": "FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM"
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "Central nervous system (CNS)",
+   "why": "short topic label heading its own sub-bullets; breadcrumb round 2: node text drops the printed ◉ bullet glyph (OCR \"\\(\\odot\\)\") so the breadcrumb reads as a description"
   },
   {
-   "anno": 40,
-   "level": 2,
-   "parent": 4,
-   "text": "ORGANIZATION OF THE NERVOUS SYSTEM",
-   "note": "gold text included the figure label below it"
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "Peripheral nervous system (PNS)",
+   "why": "short topic label heading its own sub-bullets; breadcrumb round 2: node text drops the printed ◉ bullet glyph (OCR \"\\(\\odot\\)\") so the breadcrumb reads as a description"
   },
   {
-   "anno": 43,
+   "boxes": [
+    35
+   ],
    "level": 2,
    "parent": 4,
    "text": "FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "Sensory (afferent) division",
+   "why": "short topic label heading its own sub-bullet; breadcrumb round 2: node text drops the printed ◉ bullet glyph (OCR \"\\(\\odot\\)\") so the breadcrumb reads as a description"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "Motor (efferent) division",
+   "why": "short topic label heading its own sub-bullet"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "ORGANIZATION OF THE NERVOUS SYSTEM",
+   "why": "slide title (gold box also swallowed a figure label; text is the title only)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM",
+   "why": "slide title resumed after the organization slide came in between",
    "continues": 35
   },
   {
-   "anno": 49,
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "Motor (efferent) division (continued)",
+   "why": "topic resumed with \"(continued)\" after other slides came in between",
+   "continues": 38
+  },
+  {
+   "boxes": [
+    49
+   ],
    "level": 2,
    "parent": 4,
-   "text": "NERVOUS TISSUE: SUPPORT CELLS"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 7,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 10,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 13,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 28,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 31,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 36,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 38,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading"
-  },
-  {
-   "anno": 44,
-   "note": "first-level bullet item (same look as the sentence bullets on p9), not a heading (marked \"(continued)\")"
+   "text": "NERVOUS TISSUE: SUPPORT CELLS",
+   "why": "slide title"
   }
  ],
  "repeats": [
   {
-   "anno": 12,
-   "of": 6
+   "boxes": [
+    12
+   ],
+   "of": 6,
+   "why": "same slide title on the next slide, nothing in between"
   },
   {
-   "anno": 17,
-   "of": 6
+   "boxes": [
+    17
+   ],
+   "of": 6,
+   "why": "same slide title on the next slide, nothing in between"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 20,
+   "why": "diagram arrow label"
+  },
+  {
+   "box": 23,
+   "why": "diagram arrow label"
+  },
+  {
+   "box": 50,
+   "why": "first-level bullet sentence (not a label)"
   }
  ]
 }

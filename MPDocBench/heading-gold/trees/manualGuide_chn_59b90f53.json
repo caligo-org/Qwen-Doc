@@ -1,127 +1,184 @@
 {
  "doc": "manualGuide_chn_59b90f53",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
-   "level": 1,
-   "parent": "root",
-   "text": "富士数码相机 FINEPIX Z200fd 用户手册",
-   "merge": [
+   "boxes": [
+    1,
+    2,
     3
    ],
-   "note": "product line + manual type merged into the title"
+   "level": 1,
+   "parent": "root",
+   "text": "FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册",
+   "why": "title union: owner logo box #1 (FUJIFILM) + product line and model + manual type. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: 富士数码相机FINEPIXZ200fd 用户手册)."
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "目录"
+   "parent": 1,
+   "text": "目录",
+   "why": "front matter: contents title, big barred heading like 关于本手册"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 2,
+   "parent": 1,
    "text": "可使用的存储卡",
-   "note": "front-matter notice box on its own page"
+   "why": "box with its own title (grey band) on the contents pages: one level below the section it sits in Breadcrumb review r3: the memory-card box is not part of the contents (目录 › 可使用的存储卡 is no breadcrumb); its subtree is only its own sentence, so it is a front-matter box at the top-section level (L2)."
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
-   "parent": 2,
+   "parent": 1,
    "text": "产品中有毒有害物质或元素的名称及含量",
-   "note": "front-matter regulatory section (■ style, but front matter sits at the top-section level)"
+   "why": "front matter: regulatory section (■ table title) at the level of the top sections, not part of contents"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "标志的含义"
+   "parent": 1,
+   "text": "标志的含义",
+   "why": "front matter: regulatory section, same look and role as the hazardous-substance table"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "盒内各类同装物品的包装材料的标识"
+   "parent": 1,
+   "text": "盒内各类同装物品的包装材料的标识",
+   "why": "front matter: regulatory section (packaging marks)"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "关于本手册"
+   "parent": 1,
+   "text": "关于本手册",
+   "why": "section: barred top heading (TOC entry)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 37,
-   "text": "关于标记"
+   "text": "关于标记",
+   "why": "subsection: ■ subhead with its own block"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 37,
-   "text": "可使用的存储卡"
+   "text": "可使用的存储卡",
+   "why": "subsection: ■ subhead"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 37,
-   "text": "十字键（▲▼◀▶）"
+   "text": "十字键（▲▼◀▶）",
+   "why": "subsection: ■ subhead"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 37,
-   "text": "关于电缆"
+   "text": "关于电缆",
+   "why": "subsection: ■ subhead"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 37,
-   "text": "关于LCD显示屏显示的插图"
+   "text": "关于LCD显示屏显示的插图",
+   "why": "subsection: ■ subhead"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 3,
    "parent": 37,
-   "text": "使用拨盘"
+   "text": "使用拨盘",
+   "why": "subsection: ■ subhead with three sub-items"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 4,
    "parent": 59,
-   "text": "选择缩略图（见40页）"
+   "text": "选择缩略图（见40页）",
+   "why": "item heading: bold label with its own paragraph + figure under 使用拨盘"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 4,
    "parent": 59,
-   "text": "选择菜单（见51，65，83页）"
+   "text": "选择菜单（见51，65，83页）",
+   "why": "item heading: same"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 4,
    "parent": 59,
-   "text": "改变文件夹（见26页）"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 1,
-   "note": "brand logo text"
-  },
-  {
-   "anno": 57,
-   "note": "■-styled callout \"注\" (note label)"
+   "text": "改变文件夹（见26页）",
+   "why": "item heading: same"
   }
  ],
  "repeats": [
   {
-   "anno": 24,
-   "of": 17
+   "boxes": [
+    24
+   ],
+   "of": 17,
+   "why": "repeat: running section tag of the contents pages"
   },
   {
-   "anno": 56,
-   "of": 37
+   "boxes": [
+    56
+   ],
+   "of": 37,
+   "why": "repeat: running section tag 关于本手册 while the section is open"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 57,
+   "why": "callout: ■注 note label inside 关于本手册"
+  }
+ ],
+ "considered": [
+  {
+   "box": 15,
+   "why": "cover chapter thumb-tab index: text"
+  },
+  {
+   "box": 54,
+   "why": "续下页 footer: text"
   }
  ]
 }

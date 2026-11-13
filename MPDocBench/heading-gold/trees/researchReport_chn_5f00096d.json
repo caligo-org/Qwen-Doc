@@ -1,129 +1,180 @@
 {
  "doc": "researchReport_chn_5f00096d",
- "notation": "researchReport (industry weekly): L1 headline + —series/date subtitle line; L2 报告摘要 and 一、 chapters; L3 summary bullet heading lines and （一） sections; L4 1、 items. Industry label, sidebar chart label, analyst names and related-research list are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724",
-   "merge": [
-    4
+   "why": "title union: headline + —家电行业周报 report-type line printed with it"
+  },
+  {
+   "boxes": [
+    6
    ],
-   "note": "headline + subtitle line naming the series"
-  },
-  {
-   "anno": 6,
    "level": 2,
    "parent": 3,
-   "text": "报告摘要："
+   "text": "报告摘要：",
+   "why": "section: cover summary title"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 3,
    "parent": 6,
-   "text": "· 行情回顾：家电板块周下跌1.0%"
+   "text": "行情回顾：家电板块周下跌1.0%",
+   "why": "section: own-line bullet subhead with its paragraph under the summary"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 3,
    "parent": 6,
-   "text": "- 重要数据：6月份空调内销高增长"
+   "text": "- 重要数据：6月份空调内销高增长",
+   "why": "section: own-line bullet subhead"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 3,
    "parent": 6,
-   "text": "空调内销持续高增长，继续推荐空调产业链"
+   "text": "空调内销持续高增长，继续推荐空调产业链",
+   "why": "section: own-line bullet subhead"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 6,
-   "text": "· 半年报将进入披露期，毛利率水平有望提升"
+   "text": "半年报将进入披露期，毛利率水平有望提升",
+   "why": "section: own-line bullet subhead"
   },
   {
-   "anno": 15,
+   "boxes": [
+    15
+   ],
    "level": 3,
    "parent": 6,
-   "text": "· 拥有一线蓝筹，关注细分龙头"
+   "text": "拥有一线蓝筹，关注细分龙头",
+   "why": "section: own-line bullet subhead"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 2,
    "parent": 3,
-   "text": "一、家电行情与相关数据回顾"
+   "text": "一、家电行情与相关数据回顾",
+   "why": "section: chapter 一、"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 39,
-   "text": "（一）行情回顾：家电板块周下跌 1.0%"
+   "text": "（一）行情回顾：家电板块周下跌 1.0%",
+   "why": "section: （一）"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 39,
-   "text": "（二）行业数据：6月份空调内销持续高增长"
+   "text": "（二）行业数据：6月份空调内销持续高增长",
+   "why": "section: （二）"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 4,
    "parent": 62,
-   "text": "1、产品数据"
+   "text": "1、产品数据",
+   "why": "section: 1、 under （二）"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 4,
    "parent": 62,
-   "text": "2、相关行业及原材料"
+   "text": "2、相关行业及原材料",
+   "why": "section: 2、 under （二）"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 2,
    "parent": 3,
-   "text": "二、一周重要新闻和公告汇总"
+   "text": "二、一周重要新闻和公告汇总",
+   "why": "section: chapter 二、"
   },
   {
-   "anno": 109,
+   "boxes": [
+    109
+   ],
    "level": 3,
    "parent": 108,
-   "text": "（一）一周重要新闻与点评"
+   "text": "（一）一周重要新闻与点评",
+   "why": "section: （一）"
   },
   {
-   "anno": 110,
+   "boxes": [
+    110
+   ],
    "level": 4,
    "parent": 109,
-   "text": "1、吸尘器市场：手持推杆式吸尘器的崛起"
+   "text": "1、吸尘器市场：手持推杆式吸尘器的崛起",
+   "why": "section: 1、 news item with its paragraphs"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 4,
    "parent": 109,
-   "text": "2.负重前行，2017年中国彩电市场"
+   "text": "2.负重前行，2017年中国彩电市场",
+   "why": "section: 2. news item"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "industry label + report type on the cover"
+   "box": 2,
+   "why": "industry / report-type banner (家电行业 行业研究/周报): text, the headline is the title"
   },
   {
-   "anno": 22,
-   "note": "sidebar chart label"
+   "box": 22,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 25,
-   "note": "analyst name"
+   "box": 25,
+   "why": "analyst name line: text"
   },
   {
-   "anno": 27,
-   "note": "research assistant name"
+   "box": 27,
+   "why": "research assistant name line: text"
   },
   {
-   "anno": 29,
-   "note": "相关研究: related-reports list"
+   "box": 29,
+   "why": "related-research list label: text per category note"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 18,
+   "why": "table title"
+  }
+ ]
 }

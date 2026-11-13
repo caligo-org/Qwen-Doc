@@ -1,117 +1,180 @@
 {
  "doc": "magazine_eng_a217be3f",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
    "text": "GARDENS ILLUSTRATED",
-   "note": "masthead"
+   "why": "title: periodical masthead GARDENS ILLUSTRATED"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 2,
    "text": "Welcome",
-   "note": "editor's letter"
+   "why": "front matter: editor's letter Welcome, its letter below"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 2,
    "parent": 2,
    "text": "Contents",
-   "note": "contents title (DECEMBER 2025 in the box is text)"
+   "why": "contents title (DECEMBER 2025 in the box is text)"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 31,
    "text": "COVER IMAGE",
-   "note": "info box with its own title in the contents sidebar"
+   "why": "info box with own title in the contents sidebar (cover image credit)"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 3,
    "parent": 31,
    "text": "ON THE COVER",
-   "note": "info box with its own title in the contents sidebar"
+   "why": "info box with own title in the contents sidebar (cover topics)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 31,
    "text": "EVENTS AND OFFERS",
-   "note": "info box with its own title in the contents sidebar"
+   "why": "info box with own title in the contents sidebar (events and offers list)"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 31,
    "text": "Our packaging",
-   "note": "info box with its own title in the contents sidebar"
+   "why": "info box with own title in the contents sidebar (packaging note)"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 2,
    "parent": 2,
    "text": "Contributors",
-   "note": "Contributors page"
+   "why": "front matter: Contributors page"
   },
   {
-   "anno": 74,
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Matt Collins",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Fiona Pickles",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Andrea Jones",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    74
+   ],
    "level": 3,
    "parent": 62,
    "text": "CONTRIBUTING EDITORS",
-   "note": "second block of the contributors page with its own title"
+   "why": "box with own title (CONTRIBUTING EDITORS) on the contributors page, one level below Contributors"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Charlotte Harris",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Fergus Garrett",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "James Basson",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Anna Pavord",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Dan Pearson",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Sarah Price",
+   "why": "contributing editor name heading her/his own bio paragraph"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 37,
-   "note": "house-ad teaser (subscription) in the contents sidebar"
+   "box": 37,
+   "why": "house-ad teaser (subscription) in the contents sidebar"
   },
   {
-   "anno": 53,
-   "note": "advertisement"
-  },
-  {
-   "anno": 65,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 68,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 72,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 84,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 86,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 88,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 90,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 92,
-   "note": "contributor name (list of names with bios)"
-  },
-  {
-   "anno": 94,
-   "note": "contributor name (list of names with bios)"
+   "box": 53,
+   "why": "advertisement (garden design college)"
   }
  ],
- "repeats": []
+ "considered": []
 }

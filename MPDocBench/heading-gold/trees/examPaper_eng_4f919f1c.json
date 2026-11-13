@@ -1,14 +1,31 @@
 {
  "doc": "examPaper_eng_4f919f1c",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
    "text": "3. To Commemorate the Centenary of Rutherford's Atomic Nucleus: the Scattering of an Ion by a Neutral Atom",
-   "note": "question title is the document title; 3.1-3.5 are bold run-in task numbers"
+   "why": "title: single-problem document, the problem title is L1"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "running header (competition, date): text"
+  },
+  {
+   "box": 3,
+   "why": "running header Question 3: text"
+  },
+  {
+   "box": 9,
+   "why": "3.1 run-in task number: individual question, text"
+  }
+ ]
 }

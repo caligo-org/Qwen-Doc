@@ -1,49 +1,86 @@
 {
  "doc": "goverment_eng_d4c4a9f2",
- "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block), so the dashed-underlined section heads are the top level (several L1). The underlined SENSITIVE BUT UNCLASSIFIED line is a classification marking (text) even though it is printed like a section head. Routing, page tags, signature are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 9,
+   "boxes": [
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "BACKGROUND TO THE MINISTERIAL"
+   "text": "MGSF01: ASEAN+3 Flu Ministerial May 7-8",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
   },
   {
-   "anno": 14,
-   "level": 1,
-   "parent": "root",
-   "text": "ASEAN+3 PREPARED BUT NEEDS RESEARCH, VACCINE CAPACITY"
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "BACKGROUND TO THE MINISTERIAL",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 17,
-   "level": 1,
-   "parent": "root",
-   "text": "INDONESIAN NEGATIVITY TOWARDS CDC"
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "ASEAN+3 PREPARED BUT NEEDS RESEARCH, VACCINE CAPACITY",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 19,
-   "level": 1,
-   "parent": "root",
-   "text": "REMARKS PRAISE DONOR COOPERATION"
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "INDONESIAN NEGATIVITY TOWARDS CDC",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 21,
-   "level": 1,
-   "parent": "root",
-   "text": "JOINT MINISTER'S STATEMENT"
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "REMARKS PRAISE DONOR COOPERATION",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 26,
-   "level": 1,
-   "parent": "root",
-   "text": "COMMENT:"
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "JOINT MINISTER'S STATEMENT",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "COMMENT:",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 7,
-   "note": "classification/handling marking printed in section-head style (text)"
+   "box": 7,
+   "why": "classification marking (SENSITIVE BUT UNCLASSIFIED) underlined like a head: describes no section, text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 6,
+   "why": "cable page id line: text"
+  },
+  {
+   "box": 16,
+   "why": "cable page id line: text"
+  }
+ ]
 }

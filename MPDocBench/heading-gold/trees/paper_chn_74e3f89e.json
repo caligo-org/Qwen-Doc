@@ -1,68 +1,103 @@
 {
  "doc": "paper_chn_74e3f89e",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "从生育水平估计到未来人口预测"
+   "text": "从生育水平估计到未来人口预测",
+   "why": "title: paper title"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一、1990～2000年总和生育率估计"
+   "text": "一、1990～2000年总和生育率估计",
+   "why": "section: 一、 top section"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 1,
-   "text": "二、预测方案选择"
+   "text": "二、预测方案选择",
+   "why": "section: 二、 top section"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 41,
-   "text": "（一）预测初始年份人口数"
+   "text": "（一）预测初始年份人口数",
+   "why": "subsection （一） (numbering)"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 41,
-   "text": "（二）生育方案"
+   "text": "（二）生育方案",
+   "why": "subsection （二） (numbering)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 41,
-   "text": "（三）预测情景方案"
+   "text": "（三）预测情景方案",
+   "why": "subsection （三） (numbering)"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 2,
    "parent": 1,
-   "text": "三、预测结果"
+   "text": "三、预测结果",
+   "why": "section: 三、 top section"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 1,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    27
+   ],
+   "of": 1,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 1,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "of": 1,
+   "why": "repeat: running head = paper title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 27,
-   "of": 1
-  },
-  {
-   "anno": 53,
-   "of": 1
-  },
-  {
-   "anno": 72,
-   "of": 1
-  }
- ]
+ "considered": []
 }

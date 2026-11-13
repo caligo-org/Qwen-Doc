@@ -1,157 +1,214 @@
 {
  "doc": "newspaper_chn_43c21ee3",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). 经济日报: front page = implicit section, 要闻 page tag p2 = L2; headline L3 (引题/副题 decks and red 专栏 rubrics are text; node text = main title only); in-story subheads L4.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "經濟日報",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 3,
    "parent": 1,
    "text": "『双十一』消费转向多点驱动",
-   "note": "vertical headline; the 引题 '商品与服务并重，体验和情绪主导——' in the same box is a deck"
+   "why": "story: vertical headline on front page (no banner); 引题 in the same box is a deck"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 4,
    "parent": 6,
-   "text": "市场亮点纷呈"
+   "text": "市场亮点纷呈",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 4,
    "parent": 6,
-   "text": "AI技术持续赋能"
+   "text": "AI技术持续赋能",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 4,
    "parent": 6,
-   "text": "创造更多增量价值"
+   "text": "创造更多增量价值",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 3,
    "parent": 1,
-   "text": "10月份我国新能源汽车销售171.5万辆"
+   "text": "10月份我国新能源汽车销售171.5万辆",
+   "why": "story headline"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 1,
-   "text": "习近平致电祝贺康诺利就任爱尔兰总统"
+   "text": "习近平致电祝贺康诺利就任爱尔兰总统",
+   "why": "story headline"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 3,
    "parent": 1,
    "text": "发挥重点区域增长极作用",
-   "note": "'经济论坛' column rubric and columnist are text"
+   "why": "story headline (column rubric above is text)"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 3,
    "parent": 1,
    "text": "跨省跨区电力应急调度机制更完善",
-   "note": "引题 above is a deck"
+   "why": "story headline (引题 above is a deck)"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 3,
    "parent": 1,
    "text": "河北唐山做优特色产业集群",
-   "note": "副题 in the same box is a deck"
+   "why": "story headline; 副题 in the same box is a deck"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 1,
    "text": "要闻",
-   "note": "page section tag p2"
+   "why": "section: page tag 要闻 on p2"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 3,
    "parent": 78,
-   "text": "丁薛祥会见挪威外交大臣艾德"
+   "text": "丁薛祥会见挪威外交大臣艾德",
+   "why": "story headline"
   },
   {
-   "anno": 88,
+   "boxes": [
+    88
+   ],
    "level": 3,
    "parent": 78,
    "text": "学习贯彻党的二十届四中全会精神 中央宣讲团报告会在住房城乡建设系统举行",
-   "note": "two-line headline; the small red line above is a 专栏 rubric"
+   "why": "story headline printed over two lines in the same big type"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 3,
    "parent": 78,
    "text": "乡镇工业也能锚定高水平",
-   "note": "red rubric '四中全会精神在基层' is text"
+   "why": "story headline (red 专栏 label above is text)"
   },
   {
-   "anno": 111,
+   "boxes": [
+    111
+   ],
    "level": 3,
    "parent": 78,
    "text": "长期护理险守护老有所养",
-   "note": "column '金视角' label in the same box is a rubric"
+   "why": "story headline; column label 金视角 in the same box is a rubric"
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 3,
    "parent": 78,
-   "text": "2025年度中央安全生产考核巡查正式启动"
+   "text": "2025年度中央安全生产考核巡查正式启动",
+   "why": "story headline"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 3,
    "parent": 78,
-   "text": "工信部加快制造业中试平台体系化布局"
+   "text": "工信部加快制造业中试平台体系化布局",
+   "why": "story headline"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 3,
    "parent": 78,
-   "text": "湾区品牌为啥这么火"
+   "text": "湾区品牌为啥这么火",
+   "why": "story headline"
   },
   {
-   "anno": 143,
+   "boxes": [
+    143
+   ],
    "level": 3,
    "parent": 78,
-   "text": "打好黄河“几字弯”攻坚战"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 41,
-   "note": "column rubric 经济论坛"
-  },
-  {
-   "anno": 53,
-   "note": "导读 index box"
-  },
-  {
-   "anno": 56,
-   "note": "引题 (deck)"
-  },
-  {
-   "anno": 87,
-   "note": "专栏 rubric"
-  },
-  {
-   "anno": 96,
-   "note": "专栏 rubric"
+   "text": "打好黄河“几字弯”攻坚战",
+   "why": "story headline"
   }
  ],
  "repeats": [
   {
-   "anno": 80,
-   "of": 1
+   "boxes": [
+    80
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 41,
+   "why": "column rubric 经济论坛 (rubric above a headline)"
+  },
+  {
+   "box": 53,
+   "why": "导读 index box (teasers with page pointers)"
+  },
+  {
+   "box": 56,
+   "why": "引题 ending in —— above the headline: deck"
+  },
+  {
+   "box": 87,
+   "why": "red 专栏 rubric above a headline"
+  },
+  {
+   "box": 96,
+   "why": "red 专栏 rubric above a headline"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "masthead English name ECONOMIC DAILY"
   }
  ]
 }

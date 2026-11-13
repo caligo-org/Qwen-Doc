@@ -1,95 +1,202 @@
 {
  "doc": "prospectus_chn_5da38fd1",
- "notation": "prospectus-v2: L1 cover document title; L2 front-matter sections; L3 一、; L4 1、. Cover issuer name/English name/address/sponsor are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 5,
+   "boxes": [
+    1,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "首次公开发行股票并在主板上市招股说明书"
+   "text": "包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "发行人声明"
+   "parent": 1,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "致投资者的声明"
+   "parent": 1,
+   "text": "致投资者的声明",
+   "why": "front matter section 致投资者的声明 with numbered subsections"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 18,
-   "text": "一、发行人上市的目的"
+   "text": "一、发行人上市的目的",
+   "why": "section 一、 with its paragraphs"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 18,
-   "text": "二、发行人现代企业制度的建立健全情况"
+   "text": "二、发行人现代企业制度的建立健全情况",
+   "why": "section 二、 with its paragraphs"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 18,
-   "text": "三、发行人本次融资的必要性及募集资金使用规划"
+   "text": "三、发行人本次融资的必要性及募集资金使用规划",
+   "why": "section 三、 with its 1、 subsections"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 4,
    "parent": 29,
-   "text": "1、公司本次融资的必要性"
+   "text": "1、公司本次融资的必要性",
+   "why": "subsection 1、 with its paragraphs"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 4,
    "parent": 29,
-   "text": "2、公司募集资金使用规划"
+   "text": "2、公司募集资金使用规划",
+   "why": "subsection 2、 with its paragraph"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 18,
-   "text": "四、发行人持续经营能力及未来发展规划"
+   "text": "四、发行人持续经营能力及未来发展规划",
+   "why": "section 四、 with its 1、 subsections"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 4,
    "parent": 36,
-   "text": "1、公司持续经营能力"
+   "text": "1、公司持续经营能力",
+   "why": "subsection 1、 with its paragraphs"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 4,
    "parent": 36,
-   "text": "2、公司的未来发展规划"
+   "text": "2、公司的未来发展规划",
+   "why": "subsection 2、 with its paragraph"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "本次发行概况"
+   "parent": 1,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
-   "parent": 5,
-   "text": "目录"
+   "parent": 1,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    16,
+    17
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    27,
+    28
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    40,
+    41
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    49,
+    50
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    54,
+    55
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    59,
+    60
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    63,
+    64
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
   }
  ],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "issuer name on cover"
-  },
-  {
-   "anno": 2,
-   "note": "issuer English name on cover"
+   "box": 2,
+   "why": "issuer English name on the cover: cover text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 45,
+   "why": "signature field 董事长签字： : form field, text"
+  }
+ ]
 }

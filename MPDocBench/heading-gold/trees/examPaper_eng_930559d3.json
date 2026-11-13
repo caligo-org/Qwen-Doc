@@ -1,72 +1,132 @@
 {
  "doc": "examPaper_eng_930559d3",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "2024 MCM Problem C: Momentum in Tennis",
-   "note": "title printed on two lines in one box"
+   "why": "title: contest problem (2024 MCM + Problem C title in one box)"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Files provided:"
+   "text": "Files provided:",
+   "why": "section label with its own file list (substance)"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Glossary"
+   "text": "Glossary",
+   "why": "section: Glossary with its entry"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 1,
    "text": "Glossary of key terms/concepts:",
-   "note": "second glossary title on the next page; different wording, kept as a sibling section"
+   "why": "section: glossary of key terms with its own term list"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 2,
    "parent": 1,
-   "text": "References:"
+   "text": "References:",
+   "why": "back matter: references"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Examples to Help Understand the Data Set"
+   "text": "Examples to Help Understand the Data Set",
+   "why": "section: data examples (tables below)"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 2,
    "parent": 1,
    "text": "Use of Large Language Models and Generative AI Tools in COMAP Contests",
-   "note": "appended policy document; its sections follow at L3"
+   "why": "appended policy document inside the exam pack: one level below the title"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 3,
    "parent": 69,
    "text": "Guidance for teams",
-   "note": "section of the appended AI-use policy"
+   "why": "section of the policy"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 3,
    "parent": 69,
-   "text": "Citation and Referencing Directions"
+   "text": "Citation and Referencing Directions",
+   "why": "section of the policy"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 4,
    "parent": 85,
    "text": "Report on Use of AI",
-   "note": "centred title of the example report shown inside Citation and Referencing Directions"
+   "why": "sample section shown in the examples of Citation and Referencing Directions (user decision: its child)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 15,
+   "why": "lead-in introducing the required contents list: text"
+  },
+  {
+   "box": 22,
+   "why": "Note: run-in label: text"
+  },
+  {
+   "box": 58,
+   "why": "table caption Example 1: text"
+  },
+  {
+   "box": 61,
+   "why": "table caption: text"
+  },
+  {
+   "box": 64,
+   "why": "table caption: text"
+  },
+  {
+   "box": 84,
+   "why": "boxed callout: text"
+  },
+  {
+   "box": 88,
+   "why": "lead-in Examples (...): text"
+  },
+  {
+   "box": 68,
+   "why": "running header version tag: text"
+  }
+ ]
 }

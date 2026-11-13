@@ -1,62 +1,99 @@
 {
  "doc": "financialReport_chn_eef30e08",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2025年半年度财务报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "中航光电科技股份有限公司2025年半年度财务报告",
+   "why": "title: owner + document type in one box"
   },
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 2,
    "parent": 1,
-   "text": "一、审计报告"
+   "text": "一、审计报告",
+   "why": "section: 一、 numbered, own block"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 1,
-   "text": "二、财务报表"
+   "text": "二、财务报表",
+   "why": "section: 一、 numbered, statements below"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 3,
    "parent": 6,
-   "text": "1、合并资产负债表"
+   "text": "1、合并资产负债表",
+   "why": "section: statement title"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 3,
    "parent": 6,
-   "text": "2、母公司资产负债表"
+   "text": "2、母公司资产负债表",
+   "why": "section: statement title"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 6,
-   "text": "3、合并利润表"
+   "text": "3、合并利润表",
+   "why": "section: statement title"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 6,
-   "text": "4、母公司利润表"
+   "text": "4、母公司利润表",
+   "why": "section: statement title"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 3,
    "parent": 6,
-   "text": "5、合并现金流量表"
+   "text": "5、合并现金流量表",
+   "why": "section: statement title"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 3,
    "parent": 6,
-   "text": "6、母公司现金流量表"
+   "text": "6、母公司现金流量表",
+   "why": "section: statement title"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 17,
+   "why": "signature field line, text"
+  },
+  {
+   "box": 9,
+   "why": "preparer line, text"
+  }
+ ]
 }

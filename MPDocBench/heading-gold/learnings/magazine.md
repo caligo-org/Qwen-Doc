@@ -1,117 +1,127 @@
-# Magazine learnings
+# Magazine learnings (v3, from scratch)
 
-## Level scheme (all magazine docs)
-- L1 = masthead on the cover (once). Masthead repeated on colophon/contents page = text.
-- L2 = section: a running section tag (header like "海外版|大千世界", vertical 一滴墨香) or a section banner, when the
-  section changes from the previous content page. Contents title (目录/CONTENTS) = L2.
-- L3 = article headline; L4 = in-article subhead (or L3 where the article is L2, see below).
-- Cover lines/teasers, ads (whole ad page incl. its headlines), colophon boxes, logos, TOC entries and TOC section
-  labels, run-in 【...】 brief labels = text.
-- Node text = as printed: where gold OCR text is wrong (知言 for printed 知音) the node text is the printed text;
-  vertical one-char-per-line tags are joined without spaces.
+## Level scheme
+- L1 = masthead on the cover (printed masthead text where gold OCR is garbled, or where the box also holds the issue
+  date/badges/price: node text = masthead only). Masthead printed in two boxes (Total + TVguide) = one union.
+- Special issues / bookazines: L1 = owner ∪ document type: brand masthead ∪ issue/guide title
+  (Fine WoodWorking ∪ Tools & Shops; BUILD ROCK HARD ABS … ∪ Men's Fitness GUIDE; FROM THE MAKERS OF TRAIL MAGAZINE ∪
+  WINTER GEAR GUIDE — the colophon restates it as TRAIL MAGAZINE WINTER GEAR GUIDE).
+- L2 = section: section banner or running section tag when the section changes from the previous content page;
+  contents title = L2; front matter (editor's letter, introduction, Contributors) = L2.
+- L3 = story headline; L4 = in-story subhead. Briefs column label (Compass 360) = story level, items one below.
+- Text: ads (whole ad pages incl. product headlines and order-form labels; event posters inside images), cover lines,
+  kickers/rubrics above headlines (VIDEO, OUT AND ABOUT, BUY THE BOOK, ENTERTAINMENT), TOC entries, run-in
+  【...】 brief labels, colophon labels and boxes, contact/social boxes, editor sign-offs, captions.
+
+## Repeats
+- Masthead / title restated over a colophon column, credits page, contents spread or part opener = repeat of L1.
+- Running headers and running footers that name the magazine (± issue date) = repeats of L1 (FUSION, Model Boats •
+  November 2025, BEIJING REVIEW DECEMBER 4, 2025, 知\音\海\外\版 vertical header). Footers that are only a URL
+  (gardensillustrated.com, BASEBALLAMERICA.COM) or a sponsor line = text.
+- Same section tag on a later page of the open section = repeat of the section node (Signals, Leading Off, bare
+  THIS WEEK). Social handles under icons (FOURFOURTWO) = considered text.
 
 ## Decisions
-- Article after a printed section whose own section is NOT printed (TOC names a different section): put it directly
-  under the masthead at L2 (its subheads L3), since the tree cannot express "unprinted section" after a printed one
-  and parenting it under the previous section would be a wrong breadcrumb. (magazine_chn_3b0b9920 p8)
-- Briefs page with its own big banner (百科&生活) and listed in the TOC as its own section: L2 section; the
-  【label】 lead-ins of the briefs are run-in labels (text).
-- Notice boxes in the colophon column (本刊稿件授权声明, 诚招…, 账户信息): text (colophon/contact boxes).
+- Story whose section is not printed, after a printed section/contents L2: story takes the L2 slot (subheads L3).
+  An L3 would become a child of the previous section (wrong breadcrumb). When only the masthead is open and no
+  sibling L2 exists (儿童文学 film feature, column only a logo figure) the story is L3 (level skip).
+- Section tag first printed AFTER the opener of the SAME story (名人明星 on p9 of a story opening on p8): story holds
+  the L2 slot; the later tags = considered text. Section tag first printed on a NEW story's page after an untagged
+  editorial (中华人民共和国成立75周年系列征文, 本刊视点): tag = L2 section, the editorial before it = L2 story.
+- Facing-page running tag of the same section with different wording (·笑口常开 轻松一刻· after ·笑话·) = considered.
+- Compound tags: bare tag first (THIS WEEK) = L2, each compound tag (THIS WEEK SOCIETY/ECONOMY/WORLD/PEOPLE &
+  POINTS) = L3 subsection; photo stories and briefs inside are siblings (L4); data box (NUMBERS) = L4.
+  Where the bare part name is never printed alone (INTRODUCTION WORKOUT STRUCTURE / INTRODUCTION ANATOMY in one box)
+  each compound tag = L2 when the sub-tag changes.
+- Contents: printed contents title = L2; contents group headings in their own boxes (Garden makeovers, Best buys …)
+  = L3 under it; group labels merged into TOC text blocks stay text. A contents spread with no contents title:
+  its group headings (features, in every issue) = L2. Info boxes with own titles in the contents sidebar (ON THE
+  COVER, COVER IMAGE, PRODUCTS ON THE COVER) = L3; subscription teasers there = text.
+- Contents box that also holds the logo and issue line (知音 目录 2024年…): node text = 目录 only. A contents page
+  headed only by the issue date + front section name (NOVEMBER/DECEMBER Leading Off) = contents title L2.
+- Front-matter banner holding the editor's note and contents (Your Total TV WEEK) = L2; From the Editor, Inside = L3.
+- Front-matter page boxes with own titles on the same page as the contents (TRAIL AWARDS, YOUR TESTERS) = L2.
+- Person names heading their own bio paragraph (contributors, testers, contributing editors) = headings one level
+  below their block title (own-line label with its own block). Dancer names under photos = captions (text).
+- Story headline laid out as a figure element (长久的婚姻，都是势均力敌) is still a node. Gold OCR misreads in
+  headlines: write the printed text when clearly legible (冲天辩 → 冲天辫, FUSIOH → FUSION).
+- Headline split over boxes (伊拉克老王： + 跟着味蕾…; KOREA OPP | ORTUNITIES) = one union; a word split across
+  boxes is joined without space. Number badge ∪ title (1 + TYPE OF INSULATION; WORKOUT 1 + ABS AND LEGS) = union.
+- Ranked entries with write-ups (1. DRAKE BALDWIN …) = one level below the feature; sidebar in the feature (THE
+  REST OF OUR PICKS) = same level as its entries (one below the feature). Cartoon column title (Trap Toon) = story.
+- Joke pages: section tag ·笑话· L2, each joke title with its joke L3.
+- Colophon-column notice boxes (本刊稿件授权声明, 诚招…, 账户信息, 本刊声明) and the new-media promo box
+  (知音新媒体矩阵) = text.
+- Photo-portfolio magazine: page titles (photographer's name on her intro page, CAPTURE THE MOMENT) = L2.
 
-## Open questions
-- magazine_chn_3b0b9920 p8: L2 article (section unprinted) vs L3 under the previous section; chose L2.
+## OPEN
+1. Untagged story after a printed L2 (section slot L2 vs an L3 that would sit under the wrong section); the tree
+   cannot express "unprinted section after a printed one".
+2. Untagged editorial opener that topically belongs to the series/section whose tag is first printed on the next
+   story (中国速度 before 中华人民共和国成立75周年系列征文; 长久的婚姻… before 本刊视点): kept as a sibling L2.
+3. 本刊稿件授权声明 / 本刊声明 have their own statement blocks (could pass as disclaimer-section titles); kept as
+   colophon text.
+4. Compound tags with the part name never printed alone (INTRODUCTION + sub-tag): two sibling L2 nodes; the shared
+   part is not expressed.
+5. Contents spread without a Contents word: group headings as L2 vs the restated title as contents heading.
+6. Owner lines that read as provenance (FROM THE MAKERS OF TRAIL MAGAZINE) joined into the L1 union.
+7. Rubric banners with an item below (OUT AND ABOUT, BUY THE BOOK, PRIZE DRAW ANNOUNCEMENT, VIDEO) treated as
+   kickers, not labels with their own block.
 
-## 知音·海外版 family (magazine_chn_3b0b9920, _5997ac40, _90f6827e): fixed page pattern
-- p1 cover: masthead 知音 L1 (gold OCR text often garbage: write 知音); vertical BOSOM FRIEND header and cover lines = text.
-- p2 subscription ad (header 广告): all its titles = text.
-- p3 poem page: vertical header 一滴墨香 = L2 section tag, poem title L3.
-- p4 BOSOM FRIEND masthead repeat over colophon + TOC column = text. p5 目录 CONTENTS = L2; 知音海外版 logo and the
-  three colophon-column boxes (本刊稿件授权声明 / 诚招… / 账户信息) = text.
-- p6 header 海外版|大千世界 = L2 section, news items L3; p7 百科&生活 banner = L2 (briefs, run-in labels).
-- Later sections: header 海外版|<section> = L2 when the section changes; repeated on following pages = text.
-- Article opening on a full-bleed photo page without a section tag (tag only on the next page, after the headline):
-  article L2 under the masthead, later tags of the same section = its running heads (text). (_90f6827e p8-10)
-- Headline split over two vertical boxes (伊拉克老王： + 跟着味蕾…) = one node with merge.
-- Articles with no printed section and nothing in between: L3 directly under the masthead (level skip), e.g. the
-  儿童文学 film feature (_6d102faf) whose column label is only a logo figure.
+## Breadcrumb review round 2
+Checked all 25 docs, 258 breadcrumb lines; no automatic FLAG in any doc (before or after). All 67 unseen magazine pages
+viewed (review/*_tree.jpg).
 
-## 知音 (main edition) family (magazine_chn_5b74dff1, _b3948362, _c1e72d14)
-- p1 masthead 知音 L1; p2 colophon + 目录 box (logo + 目录 + issue line in one box): node text 目录, L2.
-- p3 promo box 知音新媒体矩阵 and 本刊声明 = text.
-- Articles carry no section tag (section only in the TOC); since 目录 L2 precedes them they are L2 under the
-  masthead with subheads L3 (open question, same as above).
-- A series running tag (中华人民共和国成立75周年系列征文) first printed on the article page = L2 section; the editorial
-  opener on the previous page without tag = L2 article (_b3948362).
+Fixes by class:
+- Step not narrower / section-tag-after-opener (2): 知音 feature pages whose contents entry lists the opener as THE
+  feature of the section (本刊视点 › 长久的婚姻… p8; 中华人民共和国成立75周年系列征文 › 中国速度 p4, next entry p10/p17).
+  The tag printed first on the following page belongs to the same feature: tag -> considered, the case story below
+  becomes L3 under the feature (d7b9b688 #136, b3948362 #60). This resolves OPEN 2 for these two docs: the contents
+  page decides that the opener and the next story are one feature.
+- Title union (2): 知音 海外版 masthead whose edition logo 海外版 is a separate figure box (3b0b9920, 90f6827e) -> L1 =
+  知音 ∪ 海外版, same L1 as 5997ac40 where one box holds both.
+- Node text not a description / redundant prefix (4): 812 CONTENTS -> CONTENTS (issue number in the contents box,
+  f13451d6); running section tags printed as 海外版 | 大千世界 / 海外版本刊特稿 -> 大千世界 / 本刊特稿 (edition prefix repeats
+  the L1; contents lists the bare section name).
+- Recorded (no tree change): Harper's BAZAAR p6 MEGHAN, Duchess of Sussex + photo/styling credits = cover credit box,
+  considered text inside THE ART ISSUE.
 
-## 故事会 (magazine_chn_f13451d6)
-- Inside-cover contest notice and book ads = text. Column tag before the contents (开卷故事, p4) = L2 with its
-  story L3. Contents header "812 CONTENTS" = L2 (text CONTENTS). Colophon masthead/labels (发稿编辑…) = text.
-- Joke pages: section tag ·笑话· L2; each joke title L3; the facing-page tag (·笑口常开 轻松一刻·) is the same
-  section's running tag = text.
-- Editorial headline laid out as a figure element (长久的婚姻，都是势均力敌, _d7b9b688) is still a node.
+Flags accepted: none (no flags raised).
 
-## English magazines
-- Full-page and in-page advertisements: every gold title in them = text (Chanel, Howes Models, Billing Boats, …).
-- Colophon block (masthead repeat, EDITORIAL/ADVERTISING/SUBSCRIPTIONS labels) = text; "contents" = L2.
-- Editor's letter (WELCOME TO …) = L2 directly under the masthead (no section printed).
-- Model Boats (_22066f34): top-left tab tags (Signals, SEAL of approval) = L2 sections (same place and style); a
-  news column (Compass 360) = L3 briefs label, its items L4; blue rubric banners above item headlines (OUT AND ABOUT,
-  BUY THE BOOK, PRIZE DRAW ANNOUNCEMENT) = text (rubrics), so all items stay L4 (same look).
-- Open question: "SEAL of approval" may be an article-specific kicker rather than a section; chose L2 by same-look.
-- Beijing Review (_2b291ce7): section banners (EDITOR'S DESK, COVER STORY) and the THIS WEEK tag = L2; the
-  THIS WEEK <SUB> tags (SOCIETY, ECONOMY, WORLD, PEOPLE & POINTS) = L3 subsections; bare THIS WEEK on facing pages =
-  running head (text). Photo stories (big photo heads) and news briefs on a subsection page are siblings at L4
-  (gold had the briefs as children of the photo story). Data box (NUMBERS) title = L4. Country labels on photos =
-  caption labels (text). Colophon masthead and WRITE TO US box = text.
-- Cover lines (even large ones like URBAN UPGRADE) and in-magazine house ads = text.
-- Special-issue guide (_571b7df5): L1 = guide title (WINTER GEAR GUIDE); intro, Contents, and front-matter boxes
-  with own titles (TRAIL AWARDS, YOUR TESTERS) = L2; tester names = list of names (text); category opener
-  (INSULATED JACKETS buying guide) = L2; numbered points: number badge merged with its title, L3.
-- Masthead box that also holds the issue banner/date (AWARDS 2025, THE ART ISSUE, issue 220): node text is the
-  masthead only. Garbled gold OCR on photo covers: write the printed masthead.
-- Baseball America (_7d53ba06): contents page titled by the issue (NOVEMBER/DECEMBER + Leading Off in one box) = L2
-  contents; section tag Leading Off = L2 (repeated on a later page of the same section = text); column titles
-  (Numbers Game, From Phenom To The Farm) L3; feature headline L4; ranked entries (1. DRAKE BALDWIN …) L5; a
-  sidebar inside the feature (THE REST OF OUR PICKS) L5.
-- Fusion (_757ea556): editor's letter has no heading (MISSION START! is a sign-off); REVIEW label L2; opinion column
-  title (In Good Faith) L2.
-- Fine Woodworking Tools & Shops (_86eb2981): L1 = the issue title Tools & Shops (Fine WoodWorking brand logo in a
-  header = text); cover-line labels SHOPS/PROJECTS/TOOLS = text; contents spread with no "Contents" word: its
-  group labels (features, in every issue) = L2 and the repeated title = text; department banner (Fine WoodWorking
-  UNLIMITED) L2, its boxes (Online extras, Additional perks) L3, items L4; VIDEO kicker labels above items = text.
-- Open question: contents spreads without a "Contents" heading — group labels as L2 (chosen) vs. making the
-  repeated title the contents heading.
-- Contributors pages (_a217be3f): "Contributors" = L2; contributor names heading each short bio = list of names
-  (text); a second titled block (CONTRIBUTING EDITORS) = L3.
-- Info boxes with own titles in the contents sidebar (ON THE COVER, COVER IMAGE, EVENTS AND OFFERS, PRODUCTS ON
-  THE COVER) = L3 under Contents; subscription teasers there (Subscribe & save) = text (house ad).
-- Contents with a printed contents title: its group labels (Garden makeovers, Best buys, …) = L3 under it.
-- Sign-offs of editor's letters (Yours merrily, The … Team; MISSION START!) = text. Order-form labels in ads = text.
-- Photo-portfolio magazine (_b2553d3f): page titles (photographer's name on her intro page, CAPTURE THE MOMENT) =
-  L2; dancer names under photos = captions (text).
-- Masthead printed in two boxes (Total + TVguide) = one node with merge. Headline split across a spread
-  (KOREA OPP | ORTUNITIES) = one node with merge, joined without space where a word is split.
-- Front-matter page banner holding the editor's note and contents (Your Total TV WEEK) = L2, From the Editor and
-  Inside = L3.
-- Bookazine guide (_fe444622): L1 = guide title on the cover; title repeated on the credits page and as a part
-  opener = text; running tag "INTRODUCTION <SUB>" = L2 each time the sub-tag changes (open question: the two
-  INTRODUCTION tags are siblings, the shared part is not expressed); WORKOUT n label + title = merge.
+OPEN:
+8. Contents page titled by issue + front section name (Baseball America NOVEMBER/DECEMBER Leading Off) holds ON THE
+   COVER under it, then the Leading Off tag on p4 opens a second L2: kept per the round-1 decision; the alternative
+   (one Leading Off L2 opened by the contents page) would put the colophon and Numbers Game under the contents title.
+9. SEAL of approval (Model Boats p10) is treated as a section tag above Brown-Water Navy Revival; it could also be a
+   punning kicker of the story.
 
-## Open questions (consolidated)
-1. Article after a printed section/contents L2 whose own section is not printed: made L2 under the masthead (subheads
-   L3) instead of L3 under the previous section (知音 family, Fusion In Good Faith, editor's letters).
-2. Section tag first printed on the page after the article's opener (知音海外版 名人明星 p9; 中国力量 series tag;
-   本刊视点): opener L2, later tag = running head or L2 section for the following article.
-3. Masthead nodes: text set to the printed masthead where gold OCR is garbled or the box also holds date/issue
-   banners (知音, TOWN&COUNTRY, Harper's BAZAAR, FUSION, hi-fi+, Modern Gardens …). Is overriding gold text OK?
-4. Model Boats "SEAL of approval" tab: section (chosen) or article kicker.
-5. Contents spreads without a "Contents" word: group labels L2 (Fine Woodworking) vs L3 under a contents node.
-6. Compound running tags (INTRODUCTION + WORKOUT STRUCTURE / ANATOMY; THIS WEEK + SOCIETY): one L2 per sub-tag change
-   in the guide, but L2 THIS WEEK + L3 subsections in Beijing Review where the bare section tag is printed first.
-7. Contributor/tester names heading short bios: treated as lists of names (text).
-8. Colophon-column notice boxes (本刊稿件授权声明, 账户信息, 本刊声明) treated as colophon text, not
-   disclaimer-section headings.
+## Breadcrumb review round 3
+Independent second review. Checked all 25 docs, 229 breadcrumb lines read; no automatic FLAG in any doc before or after.
+All 67 unseen magazine pages re-rendered (review/*_tree.jpg) and viewed; nothing missing (ads, covers, contents
+pages, photo/portrait pages with captions only).
 
-## Label rule pass
-- 知音 colophon promo box (知音新媒体矩阵): channel names with colons (知音公众号: / 知音微刊： / 知音真实故事： / 知音网课：)
-  each beside a QR code = house-ad entries, text (all 4 issues, 16 candidates, no change).
+Fixes by class:
+- Same section opened twice (1): Baseball America (7d53ba06). The contents page is the opening page of the front
+  section Leading Off (its box prints the issue date + Leading Off); the p4 tag Leading Off is a repeat of it, not a
+  second L2. #49 -> repeat of #16; Numbers Game, From Phenom To The Farm, Trap Toon now under #16; node text
+  "Leading Off" only (issue date NOVEMBER/DECEMBER in the same box is text, like a masthead box). ON THE COVER stays
+  L3 in that section. Resolves OPEN 8.
+- Slogan/pun as a section step (1): Model Boats (22066f34) "SEAL of approval" is a pun on the one story (SEAL support
+  craft), not a section the contents knows -> considered text; Brown-Water Navy Revival takes the L2 story slot
+  (unprinted section after the printed Signals), its subheads L3. Resolves OPEN 9.
+- Containment inside a box (1): Men's Fitness (fe444622) TEMPO EXPLAINED was L5 under SUPERSET STRUCTURE; tempo is
+  not part of the superset structure -> L4 sibling under SESSION BREAKDOWN. Node text SUPerset -> SUPERSET (OCR).
+- Checked, no change: every untagged story kept at L2 after a printed section (张朝阳…, 陈道明…, 『冲天辫』老妈…,
+  INSULATED JACKETS buying guide, In Good Faith, KOREA OPPORTUNITIES, Brown-Water Navy Revival): each path reads
+  masthead › story › subhead; no story sits under a section it is not in. Resolves OPEN 1 (decision: an untagged
+  story after a printed section is an L2 sibling of that section; the tree does not express the unprinted section).
+- Compound running tags (INTRODUCTION WORKOUT STRUCTURE / INTRODUCTION ANATOMY): each reads as one step
+  "Introduction: <sub-tag>", narrower than the guide title, and its subtree is about it; kept as two L2 nodes.
+  Resolves OPEN 4 for paths (the shared part name is printed only in the same box, so no INTRODUCTION node can exist).
+- Men's Fitness cover union (BUILD ROCK HARD ABS IN JUST 4 WEEKS ∪ Men's Fitness GUIDE): owner ∪ document type as the
+  rule asks, in reading order; kept.
+
+Flags accepted: none (no flags raised).
+
+OPEN (no path is inconsistent; these are labelling choices only): 2 (resolved for the two 知音 docs in round 2),
+3, 5, 6, 7 as above.

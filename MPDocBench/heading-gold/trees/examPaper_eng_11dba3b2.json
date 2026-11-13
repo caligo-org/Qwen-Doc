@@ -1,49 +1,78 @@
 {
  "doc": "examPaper_eng_11dba3b2",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    2,
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Nowruz"
+   "text": "International Olympiad in Informatics 2017 Nowruz",
+   "why": "round 3: title union owner ∪ document: the olympiad is printed only in the p1 letterhead box (with the date, text = heading part only), the task name is the document; was the task name alone"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Implementation details"
+   "parent": 2,
+   "text": "Implementation details",
+   "why": "section with its block"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Input format"
+   "parent": 2,
+   "text": "Input format",
+   "why": "section"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Output format"
+   "parent": 2,
+   "text": "Output format",
+   "why": "section"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Constraints"
+   "parent": 2,
+   "text": "Constraints",
+   "why": "section"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Scoring"
+   "parent": 2,
+   "text": "Scoring",
+   "why": "section"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Example"
+   "parent": 2,
+   "text": "Example",
+   "why": "section"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 3,
+   "why": "header task tag nowruz English (ISC): running head"
+  }
+ ]
 }

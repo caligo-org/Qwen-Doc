@@ -1,83 +1,129 @@
 {
  "doc": "handwritten_chn_01fba5b3",
- "notation": "handwritten-v2: each note sheet's own title is L1 (several L1 when the sheets carry different titles); the title repeated on later sheets is text; circled topic headings L2; a topic repeated at the top of the next sheet is a continuation node.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "海南五天四晚行程",
-   "note": "itinerary sheet title; DAY1-DAY5 labels sit inside figure boxes (not separate elements)"
+   "why": "sheet title: itinerary sheet, its own document (no shared owner title)"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 1,
    "parent": "root",
    "text": "海南旅游攻略",
-   "note": "guide sheet title"
+   "why": "sheet title: guide sheets, names the following sheets"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 7,
-   "text": "预约指南"
+   "text": "预约指南",
+   "why": "section: circled topic over its list (containment)"
   },
   {
-   "anno": 21,
+   "boxes": [
+    21
+   ],
    "level": 2,
    "parent": 7,
-   "text": "住宿指南"
+   "text": "住宿指南",
+   "why": "section: circled topic over its list"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 7,
-   "text": "注意事项"
+   "text": "注意事项",
+   "why": "section: circled topic over the numbered tips 1-25"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 7,
-   "text": "美食安利"
+   "text": "美食安利",
+   "why": "section: circled topic over the food list"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 2,
    "parent": 7,
-   "text": "抵达海南"
+   "text": "抵达海南",
+   "why": "section: circled topic over arrival info"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 2,
    "parent": 7,
-   "text": "日常出行"
+   "text": "日常出行",
+   "why": "section: circled topic over transport list"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    26
+   ],
+   "of": 7,
+   "why": "repeat: guide title restated at the top of the next sheet, guide still open"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 27,
+   "why": "repeat: 注意事项 restated, its numbered list continues with nothing in between"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 27,
+   "why": "repeat: 注意事项 restated, list continues 22-25"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 26,
-   "of": 7
-  },
-  {
-   "anno": 39,
-   "of": 7
-  },
-  {
-   "anno": 40,
-   "of": 27
-  },
-  {
-   "anno": 50,
-   "of": 7
-  },
-  {
-   "anno": 51,
-   "of": 27
-  },
-  {
-   "anno": 63,
-   "of": 7
+   "box": 66,
+   "why": "run-in label: 机场 among run-in siblings 首站/火车站, only wrapped"
   }
  ]
 }

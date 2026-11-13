@@ -1,61 +1,99 @@
 {
  "doc": "paper_eng_f30006b1",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Deconstructing the Census Bureau's Retail Trade E-Commerce Figures"
+   "text": "Deconstructing the Census Bureau's Retail Trade E-Commerce Figures",
+   "why": "title: paper title (subtitle + authors line below is text; Industry Insights series masthead is text)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Lessons Learned"
+   "text": "Lessons Learned",
+   "why": "front matter: titled summary box (Lessons Learned) at top-section level"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Introduction"
+   "text": "Introduction",
+   "why": "section: top section"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Where Can Users Find Census Bureau E-Commerce Data?"
+   "text": "Where Can Users Find Census Bureau E-Commerce Data?",
+   "why": "section: top section"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
    "parent": 4,
-   "text": "What E-Commerce Data Does the Census Report?"
+   "text": "What E-Commerce Data Does the Census Report?",
+   "why": "section: top section"
   },
   {
-   "anno": 104,
+   "boxes": [
+    104
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Moving Towards a More Transparent E-Commerce Number"
+   "text": "Moving Towards a More Transparent E-Commerce Number",
+   "why": "section: top section"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Convergence: The Omni-Channel Exemption"
+   "text": "Convergence: The Omni-Channel Exemption",
+   "why": "section: top section"
   },
   {
-   "anno": 179,
+   "boxes": [
+    179
+   ],
    "level": 2,
    "parent": 4,
-   "text": "So Where Does That Leave Us?"
+   "text": "So Where Does That Leave Us?",
+   "why": "section: top section"
   },
   {
-   "anno": 191,
+   "boxes": [
+    191
+   ],
    "level": 2,
    "parent": 4,
-   "text": "Appendix: In Focus: Unpacking Amazon's Sales"
+   "text": "Appendix: In Focus: Unpacking Amazon's Sales",
+   "why": "back matter: appendix at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "subtitle (deck) + authors under the title: text"
+  },
+  {
+   "box": 23,
+   "why": "run-in \"Abstract:\" starting the abstract paragraph: text"
+  }
+ ]
 }

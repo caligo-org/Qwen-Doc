@@ -1,97 +1,157 @@
 {
  "doc": "paper_chn_509e934a",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "船舶压载水处理设备的认证及鉴定书发放"
+   "text": "船舶压载水处理设备的认证及鉴定书发放",
+   "why": "title: paper title"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 4,
-   "text": "1 引言"
+   "text": "1 引言",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 4,
-   "text": "2 船舶压载水处理设备的认证"
+   "text": "2 船舶压载水处理设备的认证",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 12,
-   "text": "2.1 压载水处理设备的认证流程"
+   "text": "2.1 压载水处理设备的认证流程",
+   "why": "subsection 2.1 (numbering)"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 3,
    "parent": 12,
-   "text": "2.2 关于压载水处理设备的型式认证（G-8）"
+   "text": "2.2 关于压载水处理设备的型式认证（G-8）",
+   "why": "subsection 2.2 (numbering)"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 12,
-   "text": "2.3 关于活性物质的认证（G-9）"
+   "text": "2.3 关于活性物质的认证（G-9）",
+   "why": "subsection 2.3 (numbering)"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 4,
-   "text": "3 鉴定证书"
+   "text": "3 鉴定证书",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 3,
    "parent": 41,
-   "text": "3.1 鉴定证书的发行流程"
+   "text": "3.1 鉴定证书的发行流程",
+   "why": "subsection 3.1 (numbering)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 4,
    "parent": 42,
-   "text": "3.1.1 鉴定书"
+   "text": "3.1.1 鉴定书",
+   "why": "subsection 3.1.1 (numbering)"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 4,
    "parent": 42,
-   "text": "3.1.2 应对下列相关图纸及文件进行审核"
+   "text": "3.1.2 应对下列相关图纸及文件进行审核",
+   "why": "subsection 3.1.2 (numbering); describes the list below"
   },
   {
-   "anno": 60,
+   "boxes": [
+    60
+   ],
    "level": 3,
    "parent": 41,
-   "text": "3.2 船上测试要领"
+   "text": "3.2 船上测试要领",
+   "why": "subsection 3.2 (numbering)"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 4,
    "parent": 60,
-   "text": "3.2.1 下列文件应在船上得到确认："
+   "text": "3.2.1 下列文件应在船上得到确认：",
+   "why": "subsection 3.2.1 (numbering); describes the list below"
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
    "level": 4,
    "parent": 60,
-   "text": "3.2.2 以下设备检验和性能测试应在船上实施"
+   "text": "3.2.2 以下设备检验和性能测试应在船上实施",
+   "why": "subsection 3.2.2 (numbering); describes the list below"
   },
   {
-   "anno": 76,
+   "boxes": [
+    76
+   ],
    "level": 2,
    "parent": 4,
-   "text": "4 结束语"
+   "text": "4 结束语",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 78,
+   "boxes": [
+    78
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献"
+   "text": "参考文献",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    37
+   ],
+   "of": 4,
+   "why": "repeat: running head (author: title) naming the document"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 16,
+   "why": "lead-in sentence introducing a list (body style, no sibling label)"
+  }
+ ]
 }

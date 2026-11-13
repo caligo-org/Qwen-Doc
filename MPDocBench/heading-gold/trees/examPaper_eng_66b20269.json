@@ -1,43 +1,69 @@
 {
  "doc": "examPaper_eng_66b20269",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Dungeons Game"
+   "text": "IOI 2021 Dungeons Game",
+   "why": "round 3: title union owner ∪ document: IOI 2021 is printed only in the p1 header box (with task tag, Day 2 Tasks and language; text = heading part only), the task name is the document; was the task name alone"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Implementation details"
+   "parent": 2,
+   "text": "Implementation details",
+   "why": "section"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Example"
+   "parent": 2,
+   "text": "Example",
+   "why": "section"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Constraints"
+   "parent": 2,
+   "text": "Constraints",
+   "why": "section"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Subtasks"
+   "parent": 2,
+   "text": "Subtasks",
+   "why": "section"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
-   "parent": 3,
-   "text": "Sample grader"
+   "parent": 2,
+   "text": "Sample grader",
+   "why": "section"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 33,
+   "why": "lead-in \"The game proceeds as follows:\": text"
+  }
+ ]
 }

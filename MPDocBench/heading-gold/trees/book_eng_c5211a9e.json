@@ -1,241 +1,397 @@
 {
  "doc": "book_eng_c5211a9e",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "FOUNDATIONS OF FITNESS PROGRAMMING"
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING",
+   "why": "title: document title on the cover; association logo/slogan footers are text"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 1,
-   "text": "FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW"
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW",
+   "why": "part title (large orange/red part heading)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 3,
    "parent": 5,
-   "text": "ABOUT"
+   "text": "ABOUT",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 3,
    "parent": 5,
-   "text": "WHY WAS THE FFP DEVELOPED?"
+   "text": "WHY WAS THE FFP DEVELOPED?",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 4,
    "parent": 10,
-   "text": "1. Specificity (individuality)"
+   "text": "1. Specificity (individuality)",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 4,
    "parent": 10,
-   "text": "2. Overload"
+   "text": "2. Overload",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 4,
    "parent": 10,
-   "text": "3. Progression"
+   "text": "3. Progression",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22
+   ],
    "level": 4,
    "parent": 10,
-   "text": "4. Variation"
+   "text": "4. Variation",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 5,
-   "text": "DESIGNING INDIVIDUALIZED FITNESS PROGRAMS"
+   "text": "DESIGNING INDIVIDUALIZED FITNESS PROGRAMS",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 4,
    "parent": 25,
-   "text": "1. Consultation and Discussion of Goals"
+   "text": "1. Consultation and Discussion of Goals",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 4,
    "parent": 25,
-   "text": "2. Evaluate Health History Forms and Perform a Fitness Assessment"
+   "text": "2. Evaluate Health History Forms and Perform a Fitness Assessment",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 4,
    "parent": 25,
-   "text": "3. Establish S.M.A.R.T. Goals"
+   "text": "3. Establish S.M.A.R.T. Goals",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 5,
    "parent": 34,
-   "text": "a. Agree Upon the Goals"
+   "text": "a. Agree Upon the Goals",
+   "why": "lettered sub-step with its own paragraph, one level below its numbered step"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 5,
    "parent": 34,
-   "text": "b. Define Roles and Responsibilities"
+   "text": "b. Define Roles and Responsibilities",
+   "why": "lettered sub-step with its own paragraph, one level below its numbered step"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 5,
    "parent": 34,
-   "text": "c. Identify and Address Roadblocks"
+   "text": "c. Identify and Address Roadblocks",
+   "why": "lettered sub-step with its own paragraph, one level below its numbered step"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 4,
    "parent": 25,
-   "text": "4. Develop the Training Program"
+   "text": "4. Develop the Training Program",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 2,
    "parent": 1,
-   "text": "IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING"
+   "text": "IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING",
+   "why": "part title (large orange/red part heading)"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 3,
    "parent": 48,
-   "text": "FOUNDATIONS OF FITNESS PROGRAMMING: INSTRUCTIONS AND APPLICATION"
+   "text": "FOUNDATIONS OF FITNESS PROGRAMMING: INSTRUCTIONS AND APPLICATION",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 3,
    "parent": 48,
-   "text": "MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING"
+   "text": "MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 4,
    "parent": 63,
-   "text": "WARM-UP BENEFITS"
+   "text": "WARM-UP BENEFITS",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 72,
+   "boxes": [
+    72
+   ],
    "level": 4,
    "parent": 63,
-   "text": "DYNAMIC WARM-UP RECOMMENDATIONS"
+   "text": "DYNAMIC WARM-UP RECOMMENDATIONS",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 63,
-   "text": "DYNAMIC WARM-UP PROGRAMMING CONSIDERATIONS AND RECOMMENDATIONS"
+   "text": "DYNAMIC WARM-UP PROGRAMMING CONSIDERATIONS AND RECOMMENDATIONS",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 90,
+   "boxes": [
+    90
+   ],
    "level": 4,
    "parent": 63,
-   "text": "FLEXIBILITY TRAINING"
+   "text": "FLEXIBILITY TRAINING",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 94,
+   "boxes": [
+    94
+   ],
    "level": 3,
    "parent": 48,
-   "text": "PROGRAM DESIGN: BASICS"
+   "text": "PROGRAM DESIGN: BASICS",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 4,
    "parent": 94,
-   "text": "CLASSIFYING TRAINING STATUS AND TRAINING FREQUENCY RECOMMENDATIONS"
+   "text": "CLASSIFYING TRAINING STATUS AND TRAINING FREQUENCY RECOMMENDATIONS",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 103,
+   "boxes": [
+    103
+   ],
    "level": 4,
    "parent": 94,
-   "text": "SEQUENCING OF TRAINING"
+   "text": "SEQUENCING OF TRAINING",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 113,
+   "boxes": [
+    113
+   ],
    "level": 4,
    "parent": 94,
-   "text": "EXERCISE SELECTION, REGRESSION, AND PROGRESSION"
+   "text": "EXERCISE SELECTION, REGRESSION, AND PROGRESSION",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 124,
+   "boxes": [
+    124
+   ],
    "level": 4,
    "parent": 94,
-   "text": "TRAINING VARIABLES"
+   "text": "TRAINING VARIABLES",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 131,
+   "boxes": [
+    131
+   ],
    "level": 4,
    "parent": 94,
-   "text": "ASSIGNING LOAD"
+   "text": "ASSIGNING LOAD",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 138,
+   "boxes": [
+    138
+   ],
    "level": 4,
    "parent": 94,
-   "text": "PROGRAM DESIGN METHODS AND DESCRIPTIONS"
+   "text": "PROGRAM DESIGN METHODS AND DESCRIPTIONS",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 156,
+   "boxes": [
+    156
+   ],
    "level": 3,
    "parent": 48,
-   "text": "PROGRAM DESIGN: PHASES OF TRAINING"
+   "text": "PROGRAM DESIGN: PHASES OF TRAINING",
+   "why": "section (orange heading)"
   },
   {
-   "anno": 158,
+   "boxes": [
+    158
+   ],
    "level": 4,
    "parent": 156,
-   "text": "MUSCULAR ENDURANCE"
+   "text": "MUSCULAR ENDURANCE",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 166,
+   "boxes": [
+    166
+   ],
    "level": 4,
    "parent": 156,
-   "text": "SEQUENCING EXAMPLE FOR MUSCULAR ENDURANCE GOAL"
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR ENDURANCE GOAL",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 171,
+   "boxes": [
+    171
+   ],
    "level": 4,
    "parent": 156,
-   "text": "HYPERTROPHY"
+   "text": "HYPERTROPHY",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 4,
    "parent": 156,
-   "text": "SEQUENCING EXAMPLE FOR HYPERTROPHY GOAL"
+   "text": "SEQUENCING EXAMPLE FOR HYPERTROPHY GOAL",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 4,
    "parent": 156,
-   "text": "MUSCULAR STRENGTH"
+   "text": "MUSCULAR STRENGTH",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 198,
+   "boxes": [
+    198
+   ],
    "level": 4,
    "parent": 156,
-   "text": "SEQUENCING EXAMPLE FOR MUSCULAR STRENGTH GOAL"
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR STRENGTH GOAL",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 4,
    "parent": 156,
-   "text": "MUSCULAR POWER"
+   "text": "MUSCULAR POWER",
+   "why": "subsection / numbered principle or step with its own paragraph"
   },
   {
-   "anno": 212,
+   "boxes": [
+    212
+   ],
    "level": 4,
    "parent": 156,
-   "text": "SEQUENCING EXAMPLE FOR MUSCULAR POWER GOAL"
+   "text": "SEQUENCING EXAMPLE FOR MUSCULAR POWER GOAL",
+   "why": "subsection / numbered principle or step with its own paragraph"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 84,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 167,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 169,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 182,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 184,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 199,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 201,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 213,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  },
+  {
+   "box": 215,
+   "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
+  }
+ ]
 }

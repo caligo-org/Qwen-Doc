@@ -1,18 +1,26 @@
 {
  "doc": "book_eng_9997c276",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "The Friend ZONE"
+   "text": "The Friend ZONE",
+   "why": "title: book title on the cover; tagline and author are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 2,
+   "why": "repeat: cover image printed again on page 2"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 5,
-   "of": 2
-  }
- ]
+ "considered": []
 }

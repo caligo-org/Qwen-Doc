@@ -1,69 +1,103 @@
 {
  "doc": "textBook_eng_9587c15d",
- "notation": "textBook-v2: L1 cover title; L2 front-matter titles; L3 preface subsections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Electrolysers, Fuel Cells and Batteries: Analytical modelling"
+   "text": "Electrolysers, Fuel Cells and Batteries: Analytical modelling",
+   "why": "title: book title on the cover"
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Preface"
+   "text": "Preface",
+   "why": "front matter: Preface"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 3,
    "parent": 11,
-   "text": "Prerequisites"
+   "text": "Prerequisites",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 11,
-   "text": "Reader guidelines"
+   "text": "Reader guidelines",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 18,
+   "boxes": [
+    18
+   ],
    "level": 3,
    "parent": 11,
-   "text": "Content"
+   "text": "Content",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 3,
    "parent": 11,
-   "text": "Acknowledgements"
+   "text": "Acknowledgements",
+   "why": "preface subsection heading: describes the block below"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 41,
+   "boxes": [
+    41
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Nomenclature"
+   "text": "Nomenclature",
+   "why": "front matter: Nomenclature"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 27,
+   "why": "repeat: running head of the open contents"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "of": 27,
+   "why": "repeat: running head of the open contents"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 4,
-   "of": 1
-  },
-  {
-   "anno": 32,
-   "of": 27
-  },
-  {
-   "anno": 37,
-   "of": 27
-  }
- ]
+ "considered": []
 }

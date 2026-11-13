@@ -1,50 +1,94 @@
 {
  "doc": "goverment_eng_1e210e8c",
- "notation": "goverment-v2 cable: no printed title line (SUBJECT: is a field inside the E.O./TAGS block #6), so the underlined section heads are the top level (several L1 nodes). Routing lines, classification markings, page tags (ACCRA ... OF 004), signature are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 9,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Statistics"
+   "text": "Ghana: Information on Textiles and Apparel Production",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
   },
   {
-   "anno": 19,
-   "level": 1,
-   "parent": "root",
-   "text": "Textiles"
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Statistics",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 27,
-   "level": 1,
-   "parent": "root",
-   "text": "Apparel"
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Textiles",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 29,
-   "level": 1,
-   "parent": "root",
-   "text": "AGOA Exports"
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Apparel",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 37,
-   "level": 1,
-   "parent": "root",
-   "text": "China"
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "AGOA Exports",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 41,
-   "level": 1,
-   "parent": "root",
-   "text": "Efforts to Increase Competitiveness"
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "China",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   },
   {
-   "anno": 46,
-   "level": 1,
-   "parent": "root",
-   "text": "Overall Assessment of Future Competitiveness"
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Efforts to Increase Competitiveness",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Overall Assessment of Future Competitiveness",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 2,
+   "why": "classification + section count line: text"
+  },
+  {
+   "box": 25,
+   "why": "cable page id line (ACCRA ... 002 OF 004): page header, text"
+  },
+  {
+   "box": 52,
+   "why": "signature: text"
+  }
+ ]
 }

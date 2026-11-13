@@ -1,26 +1,37 @@
 {
  "doc": "prospectus_eng_0ec528dd",
- "notation": "prospectus-v2: L1 cover document title line (Prospectus ...); fund name, revision date and management company are text. L2 Contents.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Prospectus including fund management regulations",
-   "note": "cover document title line (Prospectus including fund management regulations)"
+   "text": "Kapitalfonds L.K. Prospectus including fund management regulations",
+   "why": "title union: fund (owner) + document type (Prospectus including fund management regulations)"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "Contents"
+   "parent": 1,
+   "text": "Contents",
+   "why": "contents title; entries are text"
   }
  ],
- "not_headings": [
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
   {
-   "anno": 1,
-   "note": "fund (issuer) name on cover; document title is the Prospectus line"
+   "box": 3,
+   "why": "revision date on the cover: text"
+  },
+  {
+   "box": 4,
+   "why": "management company name on the cover: text"
   }
- ],
- "repeats": []
+ ]
 }

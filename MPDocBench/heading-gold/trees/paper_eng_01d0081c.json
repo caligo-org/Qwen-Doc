@@ -1,49 +1,72 @@
 {
  "doc": "paper_eng_01d0081c",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices"
+   "text": "New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices",
+   "why": "title: paper title"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Abstract"
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 2,
-   "text": "1 Introduction"
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 2,
-   "text": "2 Basic Definitions and Lemmas"
+   "text": "2 Basic Definitions and Lemmas",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 2,
-   "text": "3 Main Results"
+   "text": "3 Main Results",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 2,
    "parent": 2,
-   "text": "4 Conclusion"
+   "text": "4 Conclusion",
+   "why": "section: numbered top section"
   },
   {
-   "anno": 64,
+   "boxes": [
+    64
+   ],
    "level": 2,
    "parent": 2,
-   "text": "References"
+   "text": "References",
+   "why": "back matter: references at top-section level"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

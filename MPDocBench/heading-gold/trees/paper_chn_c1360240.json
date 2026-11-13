@@ -1,101 +1,148 @@
 {
  "doc": "paper_chn_c1360240",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
    "text": "供应链金融：背景、创新与概念界定",
-   "note": "footnote marker ① left out"
+   "why": "title: paper title (footnote marker ① left out)"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 4,
-   "text": "一、供应链金融创新的实体经济背景"
+   "text": "一、供应链金融创新的实体经济背景",
+   "why": "section: 一、 top section"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 3,
    "parent": 13,
-   "text": "1. 分工的演变与制造模式的变化"
+   "text": "1. 分工的演变与制造模式的变化",
+   "why": "subsection 1. (numbering)"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 13,
-   "text": "2. 供应链管理的兴起"
+   "text": "2. 供应链管理的兴起",
+   "why": "subsection 2. (numbering)"
   },
   {
-   "anno": 33,
+   "boxes": [
+    33
+   ],
    "level": 3,
    "parent": 13,
-   "text": "3. 全球贸易的增长"
+   "text": "3. 全球贸易的增长",
+   "why": "subsection 3. (numbering)"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 2,
    "parent": 4,
-   "text": "二、财务供应链管理在提高供应链竞争力方面的作用"
+   "text": "二、财务供应链管理在提高供应链竞争力方面的作用",
+   "why": "section: 二、 top section"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 43,
-   "text": "1. 供应链生产模式对财务成本的影响"
+   "text": "1. 供应链生产模式对财务成本的影响",
+   "why": "subsection 1. (numbering)"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 3,
    "parent": 43,
-   "text": "2. 通过财务供应链管理降低产品成本"
+   "text": "2. 通过财务供应链管理降低产品成本",
+   "why": "subsection 2. (numbering)"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 2,
    "parent": 4,
-   "text": "三、供应链金融概念的界定"
+   "text": "三、供应链金融概念的界定",
+   "why": "section: 三、 top section"
   },
   {
-   "anno": 68,
+   "boxes": [
+    68
+   ],
    "level": 3,
    "parent": 67,
    "text": "1.金融机构（商业银行和金融公司）在财务供应链管理中发挥的作用",
-   "note": "own-line numbered subheading missed by gold"
+   "why": "subsection 1. on its own line with its block below (same role as the other 1./2. subheads; gold missed it)"
   },
   {
-   "anno": 89,
+   "boxes": [
+    89
+   ],
    "level": 3,
    "parent": 67,
    "text": "2. 供应链金融的定义及其有机构成",
-   "note": "own-line numbered subheading missed by gold"
+   "why": "subsection 2. on its own line with its block below (same role; gold missed it)"
   },
   {
-   "anno": 103,
+   "boxes": [
+    103
+   ],
    "level": 2,
    "parent": 4,
-   "text": "四、结束语"
+   "text": "四、结束语",
+   "why": "section: 四、 top section"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 2,
    "parent": 4,
-   "text": "参考文献："
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    23
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 23,
-   "of": 4
-  },
-  {
-   "anno": 52,
-   "of": 4
-  },
-  {
-   "anno": 79,
-   "of": 4
-  }
- ]
+ "considered": []
 }

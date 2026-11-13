@@ -1,26 +1,41 @@
 {
  "doc": "book_eng_9d008b33",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "THE TESTAMENT OF MARY"
+   "text": "THE TESTAMENT OF MARY",
+   "why": "title: book title on the cover; author and review quotes are text"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 2,
    "parent": 3,
    "text": "By the same author",
-   "note": "front-matter list page title (other books by the author)"
+   "why": "front matter: 'By the same author' page title with its list below"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 2,
    "parent": 3,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 12,
+   "why": "copyright-page cataloguing label (colophon): text"
+  }
+ ]
 }

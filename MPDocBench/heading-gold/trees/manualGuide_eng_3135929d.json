@@ -1,75 +1,118 @@
 {
  "doc": "manualGuide_eng_3135929d",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "DCP-T500W",
-   "note": "product model on the cover band is the title of this product brochure"
+   "text": "DCP-T500W brother",
+   "why": "title union: product model + owner logo header box #2 (brother; the tagline \"at your side\" in the same box is not part of the heading). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: DCP-T500W)."
   },
   {
-   "anno": 11,
+   "boxes": [
+    11
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Refilling is so easy with Refill Tank System 3 Easy Steps!"
+   "text": "Refilling is so easy with Refill Tank System 3 Easy Steps!",
+   "why": "section: panel headline over the 3-step refill panel"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Exceedingly Affordable"
+   "text": "Exceedingly Affordable",
+   "why": "section: headline with its own text block"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Saves Space and Convenient"
+   "text": "Saves Space and Convenient",
+   "why": "section: headline with text and figures"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
    "parent": 1,
-   "text": "User-Friendly Refill Experience"
+   "text": "User-Friendly Refill Experience",
+   "why": "section: headline over the comparison figures"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Work smarter with essential business features"
+   "text": "Work smarter with essential business features",
+   "why": "section: box headline over the feature items"
   },
   {
-   "anno": 44,
+   "boxes": [
+    44
+   ],
    "level": 3,
    "parent": 42,
    "text": "Print Speed",
-   "note": "feature item title inside the business-features box"
+   "why": "feature heading: item title with its own description in the features box"
   },
   {
-   "anno": 48,
+   "boxes": [
+    48
+   ],
    "level": 3,
    "parent": 42,
-   "text": "Wireless"
+   "text": "Wireless",
+   "why": "feature heading: same"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 42,
-   "text": "Mobile Printing"
+   "text": "Mobile Printing",
+   "why": "feature heading: same"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 2,
    "parent": 1,
    "text": "DCP-T500W Technical Specifications",
-   "note": "missed: specifications section title (boxed as header)"
+   "why": "section: specifications page title (printed in the header position, names only this page)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 3,
-   "note": "cover slogan headline"
+   "box": 3,
+   "why": "cover slogan: text"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 36,
+   "why": "picture label: text"
+  },
+  {
+   "box": 39,
+   "why": "picture label: text"
+  },
+  {
+   "box": 30,
+   "why": "picture label: text"
+  }
+ ]
 }

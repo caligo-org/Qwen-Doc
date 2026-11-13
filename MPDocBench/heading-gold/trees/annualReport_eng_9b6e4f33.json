@@ -1,133 +1,220 @@
 {
  "doc": "annualReport_eng_9b6e4f33",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    9
+   ],
    "level": 1,
    "parent": "root",
-   "text": "FORM 10-K",
-   "note": "document title on the Form 10-K cover"
+   "text": "FORM 10-K BLOOM ENERGY CORPORATION",
+   "why": "title union: document type (FORM 10-K) + registrant name (owner); the registrant box's small caption line is a field label"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 2,
    "parent": 2,
-   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+   "why": "front matter section"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Bloom Energy Corporation Annual Report on Form 10-K for the Year Ended December 31, 2024 Table of Contents"
+   "text": "Table of Contents",
+   "why": "contents title. Round 2: text = the printed heading line Table of Contents only; the lines above it in the same box restate owner + form + year (a restated title = repeat), so the breadcrumb no longer restates the L1"
   },
   {
-   "anno": 42,
+   "boxes": [
+    42
+   ],
    "level": 2,
    "parent": 2,
-   "text": "SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS"
+   "text": "SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS",
+   "why": "front matter section: forward-looking note"
   },
   {
-   "anno": 50,
+   "boxes": [
+    50
+   ],
    "level": 2,
    "parent": 2,
-   "text": "Part I"
+   "text": "Part I",
+   "why": "PART level"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 50,
-   "text": "ITEM 1-BUSINESS"
+   "text": "ITEM 1-BUSINESS",
+   "why": "Item level"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 4,
    "parent": 51,
-   "text": "Overview"
+   "text": "Overview",
+   "why": "bold section head under Item"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 5,
    "parent": 52,
-   "text": "Description of Bloom Energy"
+   "text": "Description of Bloom Energy",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 55,
+   "boxes": [
+    55
+   ],
    "level": 5,
    "parent": 52,
-   "text": "Key Macro Trends"
+   "text": "Key Macro Trends",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 4,
    "parent": 51,
-   "text": "Our Markets"
+   "text": "Our Markets",
+   "why": "bold section head"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 4,
    "parent": 51,
-   "text": "Products & Services"
+   "text": "Products & Services",
+   "why": "bold section head"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 5,
    "parent": 79,
-   "text": "Solid Oxide Platform"
+   "text": "Solid Oxide Platform",
+   "why": "bold-italic subhead (platform)"
   },
   {
-   "anno": 86,
+   "boxes": [
+    86
+   ],
    "level": 5,
    "parent": 79,
-   "text": "The Bloom Energy Server System"
+   "text": "The Bloom Energy Server System",
+   "why": "bold-italic subhead (product)"
   },
   {
-   "anno": 97,
+   "boxes": [
+    97
+   ],
+   "level": 6,
+   "parent": 86,
+   "text": "Value Proposition",
+   "why": "bold-italic subhead: value proposition of the Energy Server (content beats look, user decision)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 6,
+   "parent": 86,
+   "text": "Competition",
+   "why": "bold-italic subhead: competition of the Energy Server (content)"
+  },
+  {
+   "boxes": [
+    122
+   ],
    "level": 5,
    "parent": 79,
-   "text": "Value Proposition"
+   "text": "Bloom Electrolyzer",
+   "why": "bold-italic subhead (second product, sibling of the Energy Server)"
   },
   {
-   "anno": 105,
-   "level": 5,
-   "parent": 79,
-   "text": "Competition"
+   "boxes": [
+    126
+   ],
+   "level": 6,
+   "parent": 122,
+   "text": "Value Proposition",
+   "why": "bold-italic subhead: value proposition of the Electrolyzer (repeated label with its own block)"
   },
   {
-   "anno": 122,
-   "level": 5,
-   "parent": 79,
-   "text": "Bloom Electrolyzer"
+   "boxes": [
+    129
+   ],
+   "level": 6,
+   "parent": 122,
+   "text": "Electrolyzer Competition",
+   "why": "bold-italic subhead: electrolyzer competition"
   },
   {
-   "anno": 126,
-   "level": 5,
-   "parent": 79,
-   "text": "Value Proposition"
-  },
-  {
-   "anno": 129,
-   "level": 5,
-   "parent": 79,
-   "text": "Electrolyzer Competition"
-  },
-  {
-   "anno": 131,
+   "boxes": [
+    131
+   ],
    "level": 4,
    "parent": 51,
-   "text": "Research and Development"
+   "text": "Research and Development",
+   "why": "bold section head"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 4,
    "parent": 51,
-   "text": "Intellectual Property"
+   "text": "Intellectual Property",
+   "why": "bold section head"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "issuing body on the Form 10-K cover"
+   "box": 1,
+   "why": "issuing body (SEC name and address) above the form title"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 4,
+   "why": "form check-box line"
+  },
+  {
+   "box": 49,
+   "why": "navigation links in the header"
+  },
+  {
+   "box": 56,
+   "why": "lead-in sentence introducing the trend list"
+  },
+  {
+   "box": 57,
+   "why": "bold list item summarizing a trend (its paragraph follows separately as a run-in)"
+  },
+  {
+   "box": 62,
+   "why": "bold-italic run-in lead-in starting a paragraph"
+  },
+  {
+   "box": 82,
+   "why": "bold-italic run-in bullet lead-in"
+  }
+ ]
 }

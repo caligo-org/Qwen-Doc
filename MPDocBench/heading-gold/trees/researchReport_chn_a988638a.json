@@ -1,44 +1,76 @@
 {
  "doc": "researchReport_chn_a988638a",
- "notation": "researchReport (strategy weekly): L1 headline; numbered bold lead-ins (一、二、三、) run into their paragraphs and are text; back-matter titles L2.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "急跌或暂息，仍需防风险"
+   "text": "急跌或暂息，仍需防风险",
+   "why": "title: report headline"
   },
   {
-   "anno": 19,
+   "boxes": [
+    19
+   ],
    "level": 2,
    "parent": 4,
-   "text": "公司评级说明："
+   "text": "公司评级说明：",
+   "why": "back matter: rating explanation title with its list"
   },
   {
-   "anno": 24,
+   "boxes": [
+    24
+   ],
    "level": 2,
    "parent": 4,
-   "text": "行业评级说明："
+   "text": "行业评级说明：",
+   "why": "back matter: industry rating explanation"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 2,
    "parent": 4,
-   "text": "分析师声明："
+   "text": "分析师声明：",
+   "why": "back matter: analyst statement"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 2,
    "parent": 4,
-   "text": "本公司具备证券投资咨询业务资格的说明："
+   "text": "本公司具备证券投资咨询业务资格的说明：",
+   "why": "back matter: licence statement"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 2,
    "parent": 4,
-   "text": "免责声明："
+   "text": "免责声明：",
+   "why": "back matter: disclaimer"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 7,
+   "why": "bold run-in lead sentence 一、... starting a paragraph: text"
+  },
+  {
+   "box": 8,
+   "why": "bold run-in 二、...: text"
+  },
+  {
+   "box": 14,
+   "why": "bold run-in 三、...: text"
+  }
+ ]
 }

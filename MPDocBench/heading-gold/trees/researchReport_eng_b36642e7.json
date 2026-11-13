@@ -1,29 +1,39 @@
 {
  "doc": "researchReport_eng_b36642e7",
- "notation": "researchReport: L1 = title + subtitle (merged; the report cites itself as \"Adaptation: Physical risk, Financial risk, Opportunity\"); L2 Table of Contents. AUTHORS list title is text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
-   "level": 1,
-   "parent": "root",
-   "text": "ADAPTATION Physical risk, Financial risk, Opportunity",
-   "merge": [
+   "boxes": [
+    2,
+    4,
     5
    ],
-   "note": "title + subtitle printed as one title block"
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs ADAPTATION Physical risk, Financial risk, Opportunity",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: ADAPTATION Physical risk, Financial risk, Opportunity)."
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 2,
-   "parent": 4,
-   "text": "Table of Contents"
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 18,
-   "note": "AUTHORS: list of analyst names"
+   "box": 18,
+   "why": "author list title (AUTHORS): text per category note"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 37,
+   "why": "running series tag GS SUSTAIN (series, not the report title)"
+  }
+ ]
 }

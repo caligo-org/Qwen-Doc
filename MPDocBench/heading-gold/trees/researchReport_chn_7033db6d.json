@@ -1,80 +1,116 @@
 {
  "doc": "researchReport_chn_7033db6d",
- "notation": "researchReport (industry weekly): L1 headline; L2 cover summary title (核心观点) with its numbered items at L3; 目录 and 最新研究观点 L2 with 一、 at L3. Sidebar analyst/contact/chart/related-research labels are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 1,
    "parent": "root",
-   "text": "快递专题：双十一临近，利好快递板块"
+   "text": "快递专题：双十一临近，利好快递板块",
+   "why": "title: report headline"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 4,
    "text": "核心观点（10.8-10.12）：",
-   "note": "cover summary title (like 投资要点); gold had it as text"
+   "why": "section: cover summary title over the numbered points"
   },
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 3,
    "parent": 5,
-   "text": "1. 上周行业热点"
+   "text": "1. 上周行业热点",
+   "why": "section: numbered point 1. under the summary, with its block"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 3,
    "parent": 5,
-   "text": "2. 最新观点"
+   "text": "2. 最新观点",
+   "why": "section: numbered point 2."
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 3,
    "parent": 5,
-   "text": "3. 核心组合表现"
+   "text": "3. 核心组合表现",
+   "why": "section: numbered point 3. with its table"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 2,
    "parent": 4,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 2,
    "parent": 4,
-   "text": "最新研究观点"
+   "text": "最新研究观点",
+   "why": "section: body top section 最新研究观点"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 46,
-   "text": "一、上周热点动态跟踪"
+   "text": "一、上周热点动态跟踪",
+   "why": "section: 一、 under it"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 46,
-   "text": "二、最新观点"
+   "text": "二、最新观点",
+   "why": "section: 二、 under it"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 17,
-   "note": "分析师: analyst name box"
+   "box": 17,
+   "why": "analyst label: text per category note"
   },
   {
-   "anno": 20,
-   "note": "联系人: contact box"
+   "box": 20,
+   "why": "contact label: text"
   },
   {
-   "anno": 23,
-   "note": "sidebar chart label"
+   "box": 23,
+   "why": "sidebar chart label: text"
   },
   {
-   "anno": 25,
-   "note": "相关研究: related-reports list"
+   "box": 25,
+   "why": "related-research list label: text per category note"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 15,
+   "why": "industry tag in sidebar"
+  },
+  {
+   "box": 2,
+   "why": "running report-type header"
+  }
+ ]
 }

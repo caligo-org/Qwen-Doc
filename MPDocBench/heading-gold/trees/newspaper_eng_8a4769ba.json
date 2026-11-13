@@ -1,189 +1,239 @@
 {
  "doc": "newspaper_eng_8a4769ba",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Same family as newspaper_eng_30d4d13c (The Times).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1,
+    5
+   ],
    "level": 1,
    "parent": "root",
    "text": "THE TIMES",
-   "merge": [
-    5
+   "why": "title union: masthead split around the crest (THE | TIMES)"
+  },
+  {
+   "boxes": [
+    12
    ],
-   "note": "masthead split around the crest"
-  },
-  {
-   "anno": 12,
    "level": 3,
    "parent": 1,
-   "text": "Police have given up on punishing shoplifters"
+   "text": "Police have given up on punishing shoplifters",
+   "why": "story headline, front page (no section banner)"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Starmer: I'll bring back trust in politics"
+   "text": "Starmer: I'll bring back trust in politics",
+   "why": "story headline"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 2,
    "parent": 1,
    "text": "News",
-   "note": "running section tag p2 (section changes from the front page); p3/p4 tags repeat it"
+   "why": "section: running section tag News on p2 (section changes from the front page)"
   },
   {
-   "anno": 74,
+   "boxes": [
+    74
+   ],
    "level": 3,
    "parent": 56,
-   "text": "'Emergency powers' needed by Ofcom to stop online hate"
+   "text": "‘Emergency powers’ needed by Ofcom to stop online hate",
+   "why": "story headline (two lines in one box)"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Military training to be cut to fund pay rises for troops"
+   "text": "Military training to be cut to fund pay rises for troops",
+   "why": "story headline"
   },
   {
-   "anno": 100,
+   "boxes": [
+    100
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Dig for victim of 1977 IRA murder"
+   "text": "Dig for victim of 1977 IRA murder",
+   "why": "story headline"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 3,
    "parent": 56,
    "text": "Shoplifters go unpunished",
-   "continues": 12,
-   "note": "jump: CONTINUED FROM PAGE 1"
+   "why": "continuation: jump head after CONTINUED FROM PAGE 1 (label is text)",
+   "continues": 12
   },
   {
-   "anno": 122,
+   "boxes": [
+    122
+   ],
    "level": 3,
    "parent": 56,
-   "text": "It's a jungle out there after officials ban pesticides from their streets"
+   "text": "It’s a jungle out there after officials ban pesticides from their streets",
+   "why": "story headline"
   },
   {
-   "anno": 146,
+   "boxes": [
+    146
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Parental love is the mother and father of all loves, science agrees"
+   "text": "Parental love is the mother and father of all loves, science agrees",
+   "why": "story headline"
   },
   {
-   "anno": 170,
+   "boxes": [
+    170
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Patients are treating their own injuries to avoid waiting in A&E"
+   "text": "Patients are treating their own injuries to avoid waiting in A&E",
+   "why": "story headline"
   },
   {
-   "anno": 188,
+   "boxes": [
+    188
+   ],
    "level": 3,
    "parent": 56,
-   "text": "NHS launches a 24-hour mental health phone line"
+   "text": "NHS launches a 24-hour mental health phone line",
+   "why": "story headline"
   },
   {
-   "anno": 199,
+   "boxes": [
+    199
+   ],
    "level": 3,
    "parent": 56,
    "text": "Quintagram No 2031",
-   "note": "puzzle box with its own title"
+   "why": "puzzle box with its own title"
   },
   {
-   "anno": 213,
+   "boxes": [
+    213
+   ],
    "level": 3,
    "parent": 56,
    "text": "Briton dies in Ukraine",
-   "note": "short story, no briefs label"
+   "why": "short story headline (untitled column, no briefs label)"
   },
   {
-   "anno": 215,
+   "boxes": [
+    215
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Biodiversity warning"
+   "text": "Biodiversity warning",
+   "why": "short story headline"
   },
   {
-   "anno": 217,
+   "boxes": [
+    217
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Ten stabbing arrests"
+   "text": "Ten stabbing arrests",
+   "why": "short story headline"
   },
   {
-   "anno": 219,
+   "boxes": [
+    219
+   ],
    "level": 3,
    "parent": 56,
-   "text": "Gravy wrestling champ"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 32,
-   "note": "byline"
-  },
-  {
-   "anno": 41,
-   "note": "IN THE NEWS teaser box (items point to pages)"
-  },
-  {
-   "anno": 42,
-   "note": "teaser"
-  },
-  {
-   "anno": 44,
-   "note": "teaser"
-  },
-  {
-   "anno": 46,
-   "note": "teaser"
-  },
-  {
-   "anno": 48,
-   "note": "teaser"
-  },
-  {
-   "anno": 50,
-   "note": "teaser"
-  },
-  {
-   "anno": 52,
-   "note": "teaser"
-  },
-  {
-   "anno": 58,
-   "note": "TODAY'S EDITION index box"
-  },
-  {
-   "anno": 60,
-   "note": "COMMENT pointer box"
-  },
-  {
-   "anno": 66,
-   "note": "podcast promo"
-  },
-  {
-   "anno": 69,
-   "note": "subscription offer (ad)"
-  },
-  {
-   "anno": 70,
-   "note": "weather box"
-  },
-  {
-   "anno": 75,
-   "note": "byline"
-  },
-  {
-   "anno": 221,
-   "note": "radio ad"
+   "text": "Gravy wrestling champ",
+   "why": "short story headline"
   }
  ],
  "repeats": [
   {
-   "anno": 121,
-   "of": 56
+   "boxes": [
+    121,
+    167
+   ],
+   "of": 56,
+   "why": "running section tag News on following pages of the open section"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 32,
+   "why": "byline"
   },
   {
-   "anno": 167,
-   "of": 56
+   "box": 75,
+   "why": "byline"
+  },
+  {
+   "box": 41,
+   "why": "IN THE NEWS teaser box: every item points to an inside page"
+  },
+  {
+   "box": 42,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 44,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 46,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 48,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 50,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 52,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 58,
+   "why": "TODAY'S EDITION index box"
+  },
+  {
+   "box": 60,
+   "why": "COMMENT pointer box (quote + page pointer)"
+  },
+  {
+   "box": 66,
+   "why": "podcast promo box"
+  },
+  {
+   "box": 69,
+   "why": "subscription offer (ad)"
+  },
+  {
+   "box": 70,
+   "why": "weather box"
+  },
+  {
+   "box": 221,
+   "why": "radio station ad"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "slogan above the masthead"
   }
  ]
 }

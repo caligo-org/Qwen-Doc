@@ -1,356 +1,498 @@
 {
  "doc": "newspaper_eng_105ddbb0",
- "notation": "newspaper-v2 (see newspaper_eng_daf7a3e4). Washington Post A section: front page and A2 have no section tag (stories L3 under the masthead); POLITICS & THE NATION banner p3 = L2 and holds through A10 (ELECTION 2024 page label is a rubric); jumps with their own jump headline are continuation nodes.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "The Washington Post",
-   "note": "masthead"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 3,
    "parent": 1,
-   "text": "Iran's new president, a reformer, courts U.S."
+   "text": "Iran's new president, a reformer, courts U.S.",
+   "why": "story headline, front page (no section banner)"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 1,
-   "text": "NFL rookie and former teammates die in crash"
+   "text": "NFL rookie and former teammates die in crash",
+   "why": "story headline"
   },
   {
-   "anno": 25,
+   "boxes": [
+    25
+   ],
    "level": 3,
    "parent": 1,
-   "text": "4.1 million migrants: Where they're from, where they stay"
+   "text": "4.1 million migrants: Where they're from, where they stay",
+   "why": "story headline"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 3,
    "parent": 1,
-   "text": "She took on a Miss. city's police. They arrested her."
+   "text": "She took on a Miss. city's police. They arrested her.",
+   "why": "story headline"
   },
   {
-   "anno": 39,
+   "boxes": [
+    39
+   ],
    "level": 3,
    "parent": 1,
    "text": "Biden digs in as walls close in",
-   "note": "'PUSH FOR HIS EXIT IS GAINING STEAM' above is a kicker"
+   "why": "story headline (caps line below is a kicker/deck)"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 1,
-   "text": "President felt that he had a handle on the fallout, at first"
+   "text": "President felt that he had a handle on the fallout, at first",
+   "why": "story headline"
   },
   {
-   "anno": 80,
+   "boxes": [
+    80
+   ],
    "level": 3,
    "parent": 1,
    "text": "Biden responds to his critics with defiance. But they see him as being in denial.",
-   "note": "The Sunday Take column, A2"
+   "why": "story headline: A2 column, no section tag on A2 (stays under the masthead)"
   },
   {
-   "anno": 133,
+   "boxes": [
+    133
+   ],
    "level": 3,
    "parent": 1,
    "text": "CORRECTIONS",
-   "note": "corrections column (as 'For the record' in the reference)"
+   "why": "corrections column with its own text (box with its own title)"
   },
   {
-   "anno": 145,
+   "boxes": [
+    145
+   ],
    "level": 2,
    "parent": 1,
    "text": "POLITICS & THE NATION",
-   "note": "section banner A3"
+   "why": "section: printed section banner on A3"
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 145,
-   "text": "Supreme Court term saw declining faith in neutrality, ethical standards"
+   "text": "Supreme Court term saw declining faith in neutrality, ethical standards",
+   "why": "story headline"
   },
   {
-   "anno": 193,
+   "boxes": [
+    193
+   ],
    "level": 3,
    "parent": 145,
-   "text": "Trump tries to back away from Project 2025 as Democrats pounce"
+   "text": "Trump tries to back away from Project 2025 as Democrats pounce",
+   "why": "story headline"
   },
   {
-   "anno": 225,
+   "boxes": [
+    225
+   ],
    "level": 3,
    "parent": 145,
    "text": "Biden's base has been the Senate, which has gone eerily quiet since the debate",
-   "note": "@PKCapitol column; 'ELECTION 2024' rubric is text"
+   "why": "story headline (ELECTION 2024 topic label above is a rubric)"
   },
   {
-   "anno": 277,
+   "boxes": [
+    277
+   ],
    "level": 3,
    "parent": 145,
-   "text": "Trump allies prepare to tie Harris to president on vulnerable issues"
+   "text": "Trump allies prepare to tie Harris to president on vulnerable issues",
+   "why": "story headline"
   },
   {
-   "anno": 313,
+   "boxes": [
+    313
+   ],
    "level": 3,
    "parent": 145,
    "text": "Debate left Biden team flailing, unable to remedy worsening political narrative",
-   "continues": 51,
-   "note": "jump: BIDEN FROM A1"
+   "why": "continuation: jump of a front-page story with its own new headline",
+   "continues": 51
   },
   {
-   "anno": 325,
+   "boxes": [
+    325
+   ],
    "level": 4,
    "parent": 313,
-   "text": "One bad night"
+   "text": "One bad night",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 342,
+   "boxes": [
+    342
+   ],
    "level": 4,
    "parent": 313,
-   "text": "Lost days"
+   "text": "Lost days",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 356,
+   "boxes": [
+    356
+   ],
    "level": 4,
    "parent": 313,
-   "text": "Doubling down"
+   "text": "Doubling down",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 417,
+   "boxes": [
+    417
+   ],
    "level": 3,
    "parent": 145,
    "text": "Civil right lawyer confronts police force in Miss. town",
-   "continues": 29,
-   "note": "jump: MISSISSIPPI FROM A1"
+   "why": "continuation: jump of a front-page story with its own new headline",
+   "continues": 29
   },
   {
-   "anno": 433,
+   "boxes": [
+    433
+   ],
    "level": 4,
    "parent": 417,
-   "text": "A secret recording"
+   "text": "A secret recording",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 448,
+   "boxes": [
+    448
+   ],
    "level": 4,
    "parent": 417,
-   "text": "A family story"
+   "text": "A family story",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 482,
+   "boxes": [
+    482
+   ],
    "level": 4,
    "parent": 417,
-   "text": "Pulled over, then hired"
+   "text": "Pulled over, then hired",
+   "why": "in-story subhead with its own block"
   },
   {
-   "anno": 508,
+   "boxes": [
+    508
+   ],
    "level": 4,
    "parent": 417,
-   "text": "Arrest logbooks and a trial"
+   "text": "Arrest logbooks and a trial",
+   "why": "in-story subhead with its own block (story continues on A7)"
   },
   {
-   "anno": 539,
+   "boxes": [
+    539
+   ],
    "level": 3,
    "parent": 145,
-   "text": "8 policies that could be vulnerable to challenges"
+   "text": "8 policies that could be vulnerable to challenges",
+   "why": "explainer story headline"
   },
   {
-   "anno": 549,
+   "boxes": [
+    549
+   ],
    "level": 4,
    "parent": 539,
-   "text": "1. Student loan forgiveness"
+   "text": "1. Student loan forgiveness",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 557,
+   "boxes": [
+    557
+   ],
    "level": 4,
    "parent": 539,
-   "text": "2. Protections for transgender students"
+   "text": "2. Protections for transgender students",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 563,
+   "boxes": [
+    563
+   ],
    "level": 4,
    "parent": 539,
-   "text": "3. Workers' rights"
+   "text": "3. Workers' rights",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 571,
+   "boxes": [
+    571
+   ],
    "level": 4,
    "parent": 539,
-   "text": "4. Electric vehicle support and emissions limits"
+   "text": "4. Electric vehicle support and emissions limits",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 579,
+   "boxes": [
+    579
+   ],
    "level": 4,
    "parent": 539,
-   "text": "5. Corporate climate disclosures"
+   "text": "5. Corporate climate disclosures",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 585,
+   "boxes": [
+    585
+   ],
    "level": 4,
    "parent": 539,
-   "text": "6. Net neutrality"
+   "text": "6. Net neutrality",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 590,
+   "boxes": [
+    590
+   ],
    "level": 4,
    "parent": 539,
-   "text": "7. Intellectual property rights"
+   "text": "7. Intellectual property rights",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 596,
+   "boxes": [
+    596
+   ],
    "level": 4,
    "parent": 539,
-   "text": "8. Lab-developed medical tests"
+   "text": "8. Lab-developed medical tests",
+   "why": "numbered explainer item head with its own block"
   },
   {
-   "anno": 609,
+   "boxes": [
+    609
+   ],
    "level": 3,
    "parent": 145,
    "text": "As Biden doubles down on staying in the race, Craig calls on him to withdraw",
-   "continues": 39,
-   "note": "jump: CANDIDACY FROM A1"
+   "why": "continuation: jump of a front-page story with its own new headline",
+   "continues": 39
   },
   {
-   "anno": 675,
+   "boxes": [
+    675
+   ],
    "level": 3,
    "parent": 145,
-   "text": "The major Supreme Court rulings of 2024"
+   "text": "The major Supreme Court rulings of 2024",
+   "why": "explainer package headline (deck below is text)"
   },
   {
-   "anno": 679,
+   "boxes": [
+    679
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Prosecuting Trump for trying to block the 2020 election results"
+   "text": "Prosecuting Trump for trying to block the 2020 election results",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 686,
+   "boxes": [
+    686
+   ],
    "level": 4,
    "parent": 675,
    "text": "Limits on social media posts",
-   "note": "missed by gold (same style as its siblings)"
+   "why": "ruling item head with its own block (same style as siblings)"
   },
   {
-   "anno": 696,
+   "boxes": [
+    696
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Charging Jan. 6 rioters with obstruction"
+   "text": "Charging Jan. 6 rioters with obstruction",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 702,
+   "boxes": [
+    702
+   ],
    "level": 4,
    "parent": 675,
    "text": "Power of federal agencies",
-   "note": "missed by gold"
+   "why": "ruling item head with its own block (same style as siblings)"
   },
   {
-   "anno": 713,
+   "boxes": [
+    713
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Homeless encampments in public spaces"
+   "text": "Homeless encampments in public spaces",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 719,
+   "boxes": [
+    719
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Emergency room abortions"
+   "text": "Emergency room abortions",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 727,
+   "boxes": [
+    727
+   ],
    "level": 4,
    "parent": 675,
-   "text": "SEC tribunals"
+   "text": "SEC tribunals",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 733,
+   "boxes": [
+    733
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Opioid lawsuit settlement"
+   "text": "Opioid lawsuit settlement",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 743,
+   "boxes": [
+    743
+   ],
    "level": 4,
    "parent": 675,
-   "text": "Downwind industrial pollution"
+   "text": "Downwind industrial pollution",
+   "why": "ruling item head with its own block"
   },
   {
-   "anno": 749,
+   "boxes": [
+    749
+   ],
    "level": 4,
    "parent": 675,
-   "text": "White House communicating with social media companies on misinformation"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 60,
-   "note": "front-page teaser strip label"
-  },
-  {
-   "anno": 62,
-   "note": "teaser strip label"
-  },
-  {
-   "anno": 65,
-   "note": "teaser strip label"
-  },
-  {
-   "anno": 67,
-   "note": "teaser strip label"
-  },
-  {
-   "anno": 70,
-   "note": "teaser strip label"
-  },
-  {
-   "anno": 72,
-   "note": "teaser strip label"
-  },
-  {
-   "anno": 121,
-   "note": "colophon field"
-  },
-  {
-   "anno": 123,
-   "note": "colophon field"
-  },
-  {
-   "anno": 125,
-   "note": "colophon field"
-  },
-  {
-   "anno": 127,
-   "note": "colophon field"
-  },
-  {
-   "anno": 129,
-   "note": "colophon field"
-  },
-  {
-   "anno": 131,
-   "note": "colophon field"
-  },
-  {
-   "anno": 377,
-   "note": "ad"
-  },
-  {
-   "anno": 602,
-   "note": "ad"
-  },
-  {
-   "anno": 664,
-   "note": "ad"
-  },
-  {
-   "anno": 666,
-   "note": "ad"
+   "text": "White House communicating with social media companies on misinformation",
+   "why": "ruling item head with its own block"
   }
  ],
  "repeats": [
   {
-   "anno": 120,
-   "of": 1
+   "boxes": [
+    120
+   ],
+   "of": 1,
+   "why": "masthead name restated as the colophon box title = repeat of L1 (breadcrumb round 2: was not_headings, aligned with the other papers)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 60,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 62,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 65,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 67,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 70,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 72,
+   "why": "front-page teaser strip section label (teasers point to sections)"
+  },
+  {
+   "box": 121,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 123,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 125,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 127,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 129,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 131,
+   "why": "colophon field label in the contact box"
+  },
+  {
+   "box": 377,
+   "why": "advertisement line"
+  },
+  {
+   "box": 602,
+   "why": "advertisement line"
+  },
+  {
+   "box": 664,
+   "why": "advertisement line"
+  },
+  {
+   "box": 666,
+   "why": "advertisement line"
+  }
+ ],
+ "considered": [
+  {
+   "box": 40,
+   "why": "kicker above a headline"
+  },
+  {
+   "box": 224,
+   "why": "topic rubric ELECTION 2024 above stories in the open section"
+  },
+  {
+   "box": 312,
+   "why": "topic rubric ELECTION 2024 above stories in the open section"
+  },
+  {
+   "box": 676,
+   "why": "deck under the explainer headline"
   }
  ]
 }

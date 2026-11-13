@@ -1,58 +1,82 @@
 {
  "doc": "textBook_chn_6bc808b4",
- "notation": "textBook-v2 (人教A版 数学): L1 cover subject title; L2 front matter and chapters; L3 numbered sections.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3,
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "数学",
-   "note": "cover title; 选择性必修/第三册/A版 are text"
+   "text": "数学 选择性必修 第三册",
+   "why": "title union: subject + course/volume lines naming this book"
   },
   {
-   "anno": 23,
+   "boxes": [
+    23
+   ],
    "level": 2,
    "parent": 3,
-   "text": "本册导引"
+   "text": "本册导引",
+   "why": "front matter: volume guide title"
   },
   {
-   "anno": 29,
+   "boxes": [
+    29
+   ],
    "level": 2,
    "parent": 3,
-   "text": "目录"
+   "text": "目录",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 2,
    "parent": 3,
    "text": "第六章 计数原理",
-   "note": "chapter label + title in one box"
+   "why": "chapter label + title (one box)"
   },
   {
-   "anno": 38,
+   "boxes": [
+    38
+   ],
    "level": 3,
    "parent": 34,
-   "text": "6.1 分类加法计数原理与分步乘法计数原理"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 40,
-   "note": "callout label 思考"
-  },
-  {
-   "anno": 45,
-   "note": "callout label 探究"
+   "text": "6.1 分类加法计数原理与分步乘法计数原理",
+   "why": "numbered section 6.1"
   }
  ],
  "repeats": [
   {
-   "anno": 9,
-   "of": 3
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
   },
   {
-   "anno": 57,
-   "of": 34
+   "boxes": [
+    57
+   ],
+   "of": 34,
+   "why": "repeat: running foot naming the open chapter"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 40,
+   "why": "callout box 思考 with a one-line prompt: no significant block (substance), text"
+  },
+  {
+   "box": 45,
+   "why": "callout box 探究 with a one-line prompt; the following explanation is main text: label, text"
+  }
+ ],
+ "considered": []
 }

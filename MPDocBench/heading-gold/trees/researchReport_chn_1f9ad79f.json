@@ -1,44 +1,76 @@
 {
  "doc": "researchReport_chn_1f9ad79f",
- "notation": "researchReport: L1 report title; L2 摘要 and 一、 chapters; L3 （一） sections. Agency/department and author lines are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "机场行业研究报告"
+   "text": "机场行业研究报告",
+   "why": "title: report headline (names the industry covered)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 2,
    "parent": 2,
-   "text": "摘要"
+   "text": "摘要",
+   "why": "front matter: abstract title with its block"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 2,
    "parent": 2,
-   "text": "一、行业概况"
+   "text": "一、行业概况",
+   "why": "section: chapter 一、"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 2,
    "parent": 2,
-   "text": "二、行业环境"
+   "text": "二、行业环境",
+   "why": "section: chapter 二、"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 26,
-   "text": "（一）宏观环境"
+   "text": "（一）宏观环境",
+   "why": "section: （一） under 二、"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 3,
    "parent": 26,
-   "text": "（二）行业政策"
+   "text": "（二）行业政策",
+   "why": "section: （二） under 二、"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 1,
+   "why": "running series banner 联合研究报告 (brand), not the title"
+  },
+  {
+   "box": 3,
+   "why": "author organisation line on the cover"
+  },
+  {
+   "box": 4,
+   "why": "author names"
+  }
+ ]
 }

@@ -1,14 +1,18 @@
 {
  "doc": "handwritten_chn_92741860",
- "notation": "handwritten-v2 (essay): the essay title is L1 (it is printed on page 3; the photographed pages are out of order).",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 6,
+   "boxes": [
+    6
+   ],
    "level": 1,
    "parent": "root",
-   "text": "传承经典. 筑梦未来"
+   "text": "传承经典. 筑梦未来",
+   "why": "title: essay title (photos out of order: it is printed on the third photo, the earlier photos are later essay pages)"
   }
  ],
+ "repeats": [],
  "not_headings": [],
- "repeats": []
+ "considered": []
 }

@@ -1,349 +1,557 @@
 {
  "doc": "prospectus_eng_4da61756",
- "notation": "prospectus-v2: L1 cover document title (Sales Prospectus with Management Regulations); fund name on cover and repeated title page are text. L2 TABLE OF CONTENTS and part banner SALES PROSPECTUS; L3 numbered sections and FUND OVERVIEW / MANAGEMENT AND ADMINISTRATION (part of A. SALES PROSPECTUS per contents); L4 sub-fund and risk subheads. Directory labels in MANAGEMENT AND ADMINISTRATION are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Sales Prospectus with Management Regulations",
-   "note": "cover document title"
+   "text": "BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations",
+   "why": "title union: fund (owner) + document type Sales Prospectus with Management Regulations"
   },
   {
-   "anno": 14,
+   "boxes": [
+    14
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "TABLE OF CONTENTS"
+   "parent": 1,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "SALES PROSPECTUS"
+   "parent": 1,
+   "text": "SALES PROSPECTUS",
+   "why": "part banner SALES PROSPECTUS (TOC part A), top body unit"
   },
   {
-   "anno": 17,
+   "boxes": [
+    17
+   ],
    "level": 3,
    "parent": 16,
-   "text": "1. The Fund"
+   "text": "1. The Fund",
+   "why": "numbered chapter under the part banner"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 16,
-   "text": "2. Investment Policy"
+   "text": "2. Investment Policy",
+   "why": "numbered chapter with fund subsections"
   },
   {
-   "anno": 28,
+   "boxes": [
+    28
+   ],
    "level": 4,
    "parent": 27,
-   "text": "Bantleon Return"
+   "text": "Bantleon Return",
+   "why": "sub-fund name subhead with its paragraphs"
   },
   {
-   "anno": 31,
+   "boxes": [
+    31
+   ],
    "level": 4,
    "parent": 27,
-   "text": "Bantleon Yield"
+   "text": "Bantleon Yield",
+   "why": "sub-fund name subhead with its paragraphs"
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
    "level": 4,
    "parent": 27,
-   "text": "Bantleon Strategie"
+   "text": "Bantleon Strategie",
+   "why": "sub-fund name subhead with its paragraphs"
   },
   {
-   "anno": 37,
+   "boxes": [
+    37
+   ],
    "level": 4,
    "parent": 27,
-   "text": "Bantleon Trend"
+   "text": "Bantleon Trend",
+   "why": "sub-fund name subhead with its paragraphs"
   },
   {
-   "anno": 40,
+   "boxes": [
+    40
+   ],
    "level": 4,
    "parent": 27,
-   "text": "Bantleon Dynamic"
+   "text": "Bantleon Dynamic",
+   "why": "sub-fund name subhead with its paragraphs"
   },
   {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 16,
-   "text": "3. Risk Warning"
+   "text": "3. Risk Warning",
+   "why": "numbered chapter with risk subheads"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 4,
    "parent": 46,
-   "text": "General"
+   "text": "General",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Risk Management"
+   "text": "Risk Management",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 53,
+   "boxes": [
+    53
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Leverage"
+   "text": "Leverage",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 57,
+   "boxes": [
+    57
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Market Risk"
+   "text": "Market Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 59,
+   "boxes": [
+    59
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Interest Rate Risk"
+   "text": "Interest Rate Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Credit Risk"
+   "text": "Credit Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 67,
+   "boxes": [
+    67
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Counter Party Risk"
+   "text": "Counter Party Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 69,
+   "boxes": [
+    69
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Concentration Risk"
+   "text": "Concentration Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Country or Transfer Risk"
+   "text": "Country or Transfer Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 73,
+   "boxes": [
+    73
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Custody Risk"
+   "text": "Custody Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 75,
+   "boxes": [
+    75
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Political Risk/Regulatory Risk"
+   "text": "Political Risk/Regulatory Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Inflation Risk"
+   "text": "Inflation Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Key Persons Risk"
+   "text": "Key Persons Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Change in Investment Policy"
+   "text": "Change in Investment Policy",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 83,
+   "boxes": [
+    83
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Change of Management Regulations; Dissolution or Merger"
+   "text": "Change of Management Regulations; Dissolution or Merger",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 85,
+   "boxes": [
+    85
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Liquidity Risk"
+   "text": "Liquidity Risk",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 87,
+   "boxes": [
+    87
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Risks Associated with Derivative Transactions"
+   "text": "Risks Associated with Derivative Transactions",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 91,
+   "boxes": [
+    91
+   ],
    "level": 4,
    "parent": 46,
-   "text": "Risk of Increased Sales"
+   "text": "Risk of Increased Sales",
+   "why": "risk subhead (bold underlined own line) with its paragraph"
   },
   {
-   "anno": 93,
+   "boxes": [
+    93
+   ],
    "level": 3,
    "parent": 16,
-   "text": "4. Investor Profile"
+   "text": "4. Investor Profile",
+   "why": "numbered chapter"
   },
   {
-   "anno": 95,
+   "boxes": [
+    95
+   ],
    "level": 3,
    "parent": 16,
-   "text": "5. The Management Company"
+   "text": "5. The Management Company",
+   "why": "numbered chapter"
   },
   {
-   "anno": 102,
+   "boxes": [
+    102
+   ],
    "level": 3,
    "parent": 16,
-   "text": "6. The Depositary Bank"
+   "text": "6. The Depositary Bank",
+   "why": "numbered chapter"
   },
   {
-   "anno": 105,
+   "boxes": [
+    105
+   ],
    "level": 3,
    "parent": 16,
-   "text": "7. Management and Transfer Agent"
+   "text": "7. Management and Transfer Agent",
+   "why": "numbered chapter"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 3,
    "parent": 16,
-   "text": "8. Prevention of Money Laundering"
+   "text": "8. Prevention of Money Laundering",
+   "why": "numbered chapter"
   },
   {
-   "anno": 115,
+   "boxes": [
+    115
+   ],
    "level": 3,
    "parent": 16,
-   "text": "9. Shares"
+   "text": "9. Shares",
+   "why": "numbered chapter"
   },
   {
-   "anno": 123,
+   "boxes": [
+    123
+   ],
    "level": 3,
    "parent": 16,
-   "text": "10. Share Prices"
+   "text": "10. Share Prices",
+   "why": "numbered chapter"
   },
   {
-   "anno": 125,
+   "boxes": [
+    125
+   ],
    "level": 3,
    "parent": 16,
-   "text": "11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment"
+   "text": "11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+   "why": "numbered chapter with two table subheads"
   },
   {
-   "anno": 132,
+   "boxes": [
+    128
+   ],
+   "level": 4,
+   "parent": 125,
+   "text": "Shares of the classes \\(\\gg\\) PA and \\(\\gg\\) PT",
+   "why": "own-line subhead printed like the risk subheads, with its table as block"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 4,
+   "parent": 125,
+   "text": "Shares of the classes \\(\\gg 1A\\ll\\) and \\(\\gg 1T\\ll\\)",
+   "why": "own-line subhead printed like the risk subheads, with its table as block"
+  },
+  {
+   "boxes": [
+    132
+   ],
    "level": 3,
    "parent": 16,
-   "text": "12. Charges and Fees"
+   "text": "12. Charges and Fees",
+   "why": "numbered chapter"
   },
   {
-   "anno": 153,
+   "boxes": [
+    153
+   ],
    "level": 3,
    "parent": 16,
-   "text": "13. Further Notes"
+   "text": "13. Further Notes",
+   "why": "numbered chapter"
   },
   {
-   "anno": 164,
+   "boxes": [
+    164
+   ],
    "level": 3,
    "parent": 16,
-   "text": "14. Publications and Information"
+   "text": "14. Publications and Information",
+   "why": "numbered chapter"
   },
   {
-   "anno": 167,
+   "boxes": [
+    167
+   ],
    "level": 3,
    "parent": 16,
-   "text": "15. The Management Regulations"
+   "text": "15. The Management Regulations",
+   "why": "numbered chapter"
   },
   {
-   "anno": 169,
+   "boxes": [
+    169
+   ],
    "level": 3,
    "parent": 16,
-   "text": "16. Combating Market Timing and Late Trading Activities"
+   "text": "16. Combating Market Timing and Late Trading Activities",
+   "why": "numbered chapter"
   },
   {
-   "anno": 174,
+   "boxes": [
+    174
+   ],
    "level": 3,
    "parent": 16,
    "text": "FUND OVERVIEW",
-   "note": "listed under A. SALES PROSPECTUS in the contents; same style as numbered sections"
+   "why": "section of part A (TOC lists it inside A), same face as the numbered chapters"
   },
   {
-   "anno": 178,
+   "boxes": [
+    178
+   ],
    "level": 3,
    "parent": 16,
    "text": "MANAGEMENT AND ADMINISTRATION",
-   "note": "listed under A. SALES PROSPECTUS in the contents"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 1,
-   "note": "fund (issuer) name on cover"
+   "why": "section of part A (TOC lists it inside A), directory"
   },
   {
-   "anno": 128,
-   "note": "table title (label above an issue-surcharge table)"
+   "boxes": [
+    179
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Management Company",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 130,
-   "note": "table title (label above an issue-surcharge table)"
+   "boxes": [
+    186
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Investment Manager",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 179,
-   "note": "directory label (service provider name/address list)"
+   "boxes": [
+    188
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Depository Bank",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 186,
-   "note": "directory label (service provider name/address list)"
+   "boxes": [
+    190
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Management and Transfer Agent",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 188,
-   "note": "directory label (service provider name/address list)"
+   "boxes": [
+    192
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Auditor of the Management Company and the Fund",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 190,
-   "note": "directory label (service provider name/address list)"
+   "boxes": [
+    194
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Paying Agents",
+   "why": "directory label with its own block of names/addresses"
   },
   {
-   "anno": 192,
-   "note": "directory label (service provider name/address list)"
-  },
-  {
-   "anno": 194,
-   "note": "directory label (service provider name/address list)"
-  },
-  {
-   "anno": 201,
-   "note": "directory label (service provider name/address list)"
+   "boxes": [
+    201
+   ],
+   "level": 4,
+   "parent": 178,
+   "text": "Distributors",
+   "why": "directory label with its own block of names/addresses"
   }
  ],
  "repeats": [
   {
-   "anno": 5,
-   "of": 2
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "title page restating the document type: repeat of the title"
   },
   {
-   "anno": 43,
-   "of": 2
+   "boxes": [
+    65
+   ],
+   "of": 16,
+   "why": "running head naming the open part SALES PROSPECTUS"
   },
   {
-   "anno": 65,
-   "of": 16
+   "boxes": [
+    122
+   ],
+   "of": 16,
+   "why": "running head naming the open part SALES PROSPECTUS"
   },
   {
-   "anno": 99,
-   "of": 2
+   "boxes": [
+    173
+   ],
+   "of": 16,
+   "why": "running head naming the open part SALES PROSPECTUS (TOC lists FUND OVERVIEW inside part A)"
   },
   {
-   "anno": 122,
-   "of": 16
+   "boxes": [
+    43
+   ],
+   "of": 1,
+   "why": "running foot naming the document type: repeat of the title"
   },
   {
-   "anno": 158,
-   "of": 2
+   "boxes": [
+    99
+   ],
+   "of": 1,
+   "why": "running foot naming the document type: repeat of the title"
   },
   {
-   "anno": 173,
-   "of": 16
+   "boxes": [
+    158
+   ],
+   "of": 1,
+   "why": "running foot naming the document type: repeat of the title"
   },
   {
-   "anno": 177,
-   "of": 2
+   "boxes": [
+    177
+   ],
+   "of": 1,
+   "why": "running foot naming the document type: repeat of the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 6,
+   "why": "title page owner line with sub-fund list lead-in: text"
+  },
+  {
+   "box": 181,
+   "why": "bold run-in label inside a directory entry: text"
+  },
+  {
+   "box": 185,
+   "why": "bold run-in label inside a directory entry: text"
   }
  ]
 }

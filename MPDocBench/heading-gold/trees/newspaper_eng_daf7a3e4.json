@@ -1,485 +1,575 @@
 {
  "doc": "newspaper_eng_daf7a3e4",
- "notation": "newspaper-v2: L1 masthead; L2 section (printed banner, or the running section tag when the section differs from the previous content page); L3 story / column / briefs label; L4 sub-item. Front page = implicit section. A continuation or resumed section is its own node where it appears, with \"continues\": <anno of the original>; parents are always earlier in reading order. Kickers, rubrics, columnist names, decks, ads, colophons, weather and index boxes are not headings.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "The Boston Globe",
-   "note": "The Boston Globe (masthead)"
+   "why": "masthead (periodical title)"
   },
   {
-   "anno": 4,
+   "boxes": [
+    4
+   ],
    "level": 3,
    "parent": 1,
    "text": "Healey's message to migrants: No room left",
-   "note": "Healey's message to migrants: No room left (package)"
+   "why": "package headline over two front-page stories (no section banner)"
   },
   {
-   "anno": 5,
+   "boxes": [
+    5
+   ],
    "level": 4,
    "parent": 4,
    "text": "Loss of airport sanctuary brings feelings of despair",
-   "note": "Loss of airport sanctuary brings feelings of despair (package story, own byline)"
+   "why": "package story headline with its own byline"
   },
   {
-   "anno": 13,
+   "boxes": [
+    13
+   ],
    "level": 4,
    "parent": 4,
    "text": "Warning about state’s capacity reflects budgetary and political pressures",
-   "note": "Warning about state's capacity ... (package story, own byline)"
+   "why": "package story headline with its own byline"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 1,
    "text": "Biden aware of stakes, allies say",
-   "note": "Biden aware of stakes, allies say"
+   "why": "story headline"
   },
   {
-   "anno": 44,
-   "level": 3,
-   "parent": 1,
-   "text": "BLOOMIN' GROUP",
-   "note": "BLOOMIN' GROUP (photo story)"
-  },
-  {
-   "anno": 46,
+   "boxes": [
+    46
+   ],
    "level": 3,
    "parent": 1,
    "text": "State pushes for concessions from 8 hospitals' landlords",
-   "note": "State pushes for concessions from 8 hospitals' landlords"
+   "why": "story headline"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 1,
    "text": "With ERs overwhelmed, patients will be diverted to urgent cares",
-   "note": "With ERs overwhelmed, patients will be diverted to urgent cares"
+   "why": "story headline"
   },
   {
-   "anno": 81,
+   "boxes": [
+    81
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Nation",
-   "note": "The Nation (banner p2)"
+   "why": "section: printed section banner The Nation on A2"
   },
   {
-   "anno": 82,
+   "boxes": [
+    82
+   ],
    "level": 3,
    "parent": 81,
    "text": "Abortion rights could be on Ariz., Neb. ballots",
-   "note": "Abortion rights could be on Ariz., Neb. ballots"
+   "why": "story headline"
   },
   {
-   "anno": 107,
+   "boxes": [
+    107
+   ],
    "level": 3,
    "parent": 81,
    "text": "DAILY BRIEFING",
-   "note": "DAILY BRIEFING"
+   "why": "briefs column label"
   },
   {
-   "anno": 111,
+   "boxes": [
+    111
+   ],
    "level": 4,
    "parent": 107,
    "text": "Blazing hot surfaces are a danger for catastrophic burn injuries in the Southwest",
-   "note": "Blazing hot surfaces ..."
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 120,
+   "boxes": [
+    120
+   ],
    "level": 4,
    "parent": 107,
    "text": "US departs I16 Chinese migrants",
-   "note": "US departs 116 Chinese migrants"
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 128,
+   "boxes": [
+    128
+   ],
    "level": 4,
    "parent": 107,
    "text": "Deadline looms in Baldwin case",
-   "note": "Deadline looms in Baldwin case"
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 4,
    "parent": 107,
    "text": "Maryland OK's $50 million Key Bridge cleanup",
-   "note": "Maryland OK's $50 million Key Bridge cleanup"
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 147,
+   "boxes": [
+    147
+   ],
    "level": 3,
    "parent": 81,
    "text": "Justice Dept. plans to pursue Trump cases past Election Day",
-   "note": "Justice Dept. plans to pursue Trump cases past Election Day"
+   "why": "separate story headline with byline"
   },
   {
-   "anno": 159,
+   "boxes": [
+    159
+   ],
    "level": 3,
    "parent": 81,
    "text": "For the record",
-   "note": "For the record (corrections column)"
+   "why": "corrections column with its own text"
   },
   {
-   "anno": 176,
+   "boxes": [
+    176
+   ],
    "level": 2,
    "parent": 1,
    "text": "The World",
-   "note": "The World (banner p4)"
+   "why": "section: printed section banner The World on A4"
   },
   {
-   "anno": 180,
+   "boxes": [
+    180
+   ],
    "level": 3,
    "parent": 176,
    "text": "Israel pushes ahead with West Bank land taking",
-   "note": "Israel pushes ahead with West Bank land taking"
+   "why": "story headline"
   },
   {
-   "anno": 208,
+   "boxes": [
+    208
+   ],
    "level": 3,
    "parent": 176,
    "text": "Israel kills another senior Hezbollah leader in Lebanon",
-   "note": "Israel kills another senior Hezbollah leader in Lebanon"
+   "why": "story headline"
   },
   {
-   "anno": 232,
+   "boxes": [
+    232
+   ],
    "level": 3,
    "parent": 176,
    "text": "DAILY BRIEFING",
-   "note": "DAILY BRIEFING"
+   "why": "briefs column label"
   },
   {
-   "anno": 233,
+   "boxes": [
+    233
+   ],
    "level": 4,
    "parent": 232,
    "text": "Sierra Leone passes law banning child marriages",
-   "note": "Sierra Leone passes law banning child marriages"
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 240,
+   "boxes": [
+    240
+   ],
    "level": 4,
    "parent": 232,
    "text": "China warns Taiwan on fishing boat incident",
-   "note": "China warns Taiwan on fishing boat incident"
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 246,
+   "boxes": [
+    246
+   ],
    "level": 4,
    "parent": 232,
-   "text": "Hurricane moves\non to Jamaica\nas death toll climbs",
-   "note": "Hurricane moves on to Jamaica as death toll climbs"
+   "text": "Hurricane moves on to Jamaica as death toll climbs",
+   "why": "brief headline under the briefs label"
   },
   {
-   "anno": 273,
+   "boxes": [
+    273
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Nation",
-   "note": "The Nation resumed (running section tag p6; section changed from The World)",
+   "why": "continuation: running section tag The Nation on A6, section resumes after The World",
    "continues": 81
   },
   {
-   "anno": 276,
+   "boxes": [
+    276
+   ],
    "level": 3,
    "parent": 273,
    "text": "Post-debate poll shows Trump with a widening lead",
-   "note": "Post-debate poll shows Trump with a widening lead (p6, running tag 'The Nation')"
+   "why": "story headline"
   },
   {
-   "anno": 299,
+   "boxes": [
+    299
+   ],
    "level": 3,
    "parent": 273,
    "text": "Obama tells allies Biden has tough road",
-   "note": "Obama tells allies Biden has tough road (separate NYT story)"
+   "why": "separate wire story headline"
   },
   {
-   "anno": 311,
+   "boxes": [
+    311
+   ],
    "level": 3,
    "parent": 273,
    "text": "MSNBC hosts have harsh words on president",
-   "note": "MSNBC hosts have harsh words on president (separate WaPo story)"
+   "why": "separate wire story headline"
   },
   {
-   "anno": 332,
+   "boxes": [
+    332
+   ],
    "level": 3,
    "parent": 273,
    "text": "US allies see a worrisome turn in presidential immunity ruling",
-   "note": "US allies see a worrisome turn in presidential immunity ruling"
+   "why": "story headline"
   },
   {
-   "anno": 366,
+   "boxes": [
+    366
+   ],
    "level": 3,
    "parent": 273,
    "text": "Business leaders urge president to 'pass the torch'",
-   "note": "Business leaders urge president to 'pass the torch' (p8, 'The Nation')"
+   "why": "story headline (CAMPAIGN 2024 topic label above is text)"
   },
   {
-   "anno": 388,
+   "boxes": [
+    388
+   ],
    "level": 3,
    "parent": 273,
    "text": "Biden well aware of stakes heading into weekend, allies say",
-   "note": "Biden well aware of stakes ... (continuation)",
+   "why": "continuation: jump of a front-page story with a new headline",
    "continues": 27
   },
   {
-   "anno": 427,
+   "boxes": [
+    427
+   ],
    "level": 3,
    "parent": 273,
    "text": "Trump advisers hope Biden stays in race, as they eye alternate scenarios",
-   "note": "Trump advisers hope Biden stays in race ..."
+   "why": "story headline"
   },
   {
-   "anno": 455,
+   "boxes": [
+    455
+   ],
    "level": 2,
    "parent": 1,
    "text": "The Region",
-   "note": "The Region (running section tag p9; no banner in the issue)"
+   "why": "section: running section tag The Region on A9 (section changes)"
   },
   {
-   "anno": 457,
+   "boxes": [
+    457
+   ],
    "level": 3,
    "parent": 455,
    "text": "Healey's message to migrants: No room left",
-   "note": "Healey's message to migrants (continuation)",
+   "why": "continuation: package headline reprinted over the jump",
    "continues": 4
   },
   {
-   "anno": 498,
+   "boxes": [
+    498
+   ],
    "level": 4,
    "parent": 457,
    "text": "Impending loss of airport sanctuary leaves many at a loss",
-   "note": "Impending loss of airport sanctuary ... (continuation)",
+   "why": "continuation: jump of a package story with a new headline, inside the reprinted package",
    "continues": 5
   },
   {
-   "anno": 542,
+   "boxes": [
+    542
+   ],
    "level": 2,
    "parent": 1,
    "text": "Opinion",
-   "note": "Opinion (banner p10; currently a header element)"
+   "why": "section: printed Opinion banner on A10 (url in the same box is text)"
   },
   {
-   "anno": 581,
+   "boxes": [
+    581
+   ],
    "level": 3,
    "parent": 542,
    "text": "To restore Harvard's reputation, faculty should speak up",
-   "note": "To restore Harvard's reputation, faculty should speak up (editorial)"
+   "why": "editorial headline (EDITORIAL rubric is text)"
   },
   {
-   "anno": 618,
+   "boxes": [
+    618
+   ],
    "level": 3,
    "parent": 542,
    "text": "How much did Democrats and the press know about Biden's decline before the debate?",
-   "note": "How much did Democrats and the press know ... (column)"
+   "why": "column headline (columnist name above is text)"
   },
   {
-   "anno": 635,
+   "boxes": [
+    635
+   ],
    "level": 3,
    "parent": 542,
    "text": "High electricity rates may prevent people from installing heat pumps in their homes",
-   "note": "High electricity rates may prevent people from installing heat pumps"
+   "why": "opinion piece headline"
   },
   {
-   "anno": 652,
+   "boxes": [
+    652
+   ],
    "level": 3,
    "parent": 542,
    "text": "INBOX",
-   "note": "INBOX (letters column)"
+   "why": "letters column label (INBOX)"
   },
   {
-   "anno": 653,
+   "boxes": [
+    653
+   ],
    "level": 4,
    "parent": 652,
    "text": "We must defend the freedoms the founders gave us",
-   "note": "We must defend the freedoms the founders gave us"
+   "why": "letter headline under the letters label"
   },
   {
-   "anno": 657,
+   "boxes": [
+    657
+   ],
    "level": 4,
    "parent": 652,
    "text": "While the Legislature dawdles, climate change presses on",
-   "note": "While the Legislature dawdles, climate change presses on"
+   "why": "letter headline under the letters label"
   },
   {
-   "anno": 672,
+   "boxes": [
+    672
+   ],
    "level": 4,
    "parent": 652,
    "text": "How to right a wrong done to Bill Russell",
-   "note": "How to right a wrong done to Bill Russell"
+   "why": "letter headline under the letters label"
   },
   {
-   "anno": 677,
+   "boxes": [
+    677
+   ],
    "level": 2,
    "parent": 1,
    "text": "World/Region",
-   "note": "World/Region (running section tag p12)"
+   "why": "section: running section tag World/Region on A12 (section changes)"
   },
   {
-   "anno": 680,
+   "boxes": [
+    680
+   ],
    "level": 3,
    "parent": 677,
    "text": "Nazi hunter picks far right over far left on French ballot",
-   "note": "Nazi hunter picks far right over far left on French ballot (p12 'World/Region', no banner)"
+   "why": "story headline"
   },
   {
-   "anno": 699,
+   "boxes": [
+    699
+   ],
    "level": 3,
    "parent": 677,
    "text": "State pushes for concessions from 8 hospitals' landlords",
-   "note": "State pushes for concessions ... (continuation)",
+   "why": "continuation: jump of a front-page story with headline reprinted",
    "continues": 46
   },
   {
-   "anno": 736,
+   "boxes": [
+    736
+   ],
    "level": 3,
    "parent": 677,
    "text": "With ERs overwhelmed, some patients will be diverted to urgent cares",
-   "note": "With ERs overwhelmed ... (continuation)",
+   "why": "continuation: jump of a front-page story",
    "continues": 61
   },
   {
-   "anno": 768,
+   "boxes": [
+    768
+   ],
    "level": 2,
    "parent": 1,
    "text": "Metro",
-   "note": "Metro (banner p13)"
+   "why": "section: printed Metro banner on B1"
   },
   {
-   "anno": 772,
+   "boxes": [
+    772
+   ],
    "level": 3,
    "parent": 768,
    "text": "The royal scam",
-   "note": "The royal scam (column)"
+   "why": "column headline (columnist name above is text)"
   },
   {
-   "anno": 793,
+   "boxes": [
+    793
+   ],
    "level": 3,
    "parent": 768,
    "text": "Plans for E. Boston park scratched",
-   "note": "Plans for E. Boston park scratched"
+   "why": "story headline"
   },
   {
-   "anno": 812,
+   "boxes": [
+    812
+   ],
    "level": 3,
    "parent": 768,
    "text": "Mass. man could be top dog at Coney Island contest",
-   "note": "Mass. man could be top dog at Coney Island contest"
+   "why": "story headline"
   },
   {
-   "anno": 827,
+   "boxes": [
+    827
+   ],
    "level": 3,
    "parent": 768,
    "text": "YOU DON'T NEED TO LOOK UP TO SEE THESE EXPLOSIONS OF COLOR",
-   "note": "YOU DON'T NEED TO LOOK UP TO SEE THESE EXPLOSIONS OF COLOR"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 75,
-   "note": "Sparklers (weather box)"
-  },
-  {
-   "anno": 165,
-   "note": "ad"
-  },
-  {
-   "anno": 168,
-   "note": "ad"
-  },
-  {
-   "anno": 170,
-   "note": "ad"
-  },
-  {
-   "anno": 255,
-   "note": "ad"
-  },
-  {
-   "anno": 256,
-   "note": "ad"
-  },
-  {
-   "anno": 288,
-   "note": "BOSTON GLOBE MEDIA (colophon)"
-  },
-  {
-   "anno": 357,
-   "note": "ad"
-  },
-  {
-   "anno": 358,
-   "note": "ad"
-  },
-  {
-   "anno": 543,
-   "note": "EDITORIAL (rubric)"
-  },
-  {
-   "anno": 617,
-   "note": "JOAN VENNOCHI (columnist name)"
-  },
-  {
-   "anno": 771,
-   "note": "Yvonne Abraham (columnist name)"
+   "why": "photo story headline with its own story text"
   }
  ],
  "repeats": [
   {
-   "anno": 79,
-   "of": 1
+   "boxes": [
+    599
+   ],
+   "of": 1,
+   "why": "masthead restated over the editorial-board box"
   },
   {
-   "anno": 163,
-   "of": 1
+   "boxes": [
+    362
+   ],
+   "of": 273,
+   "why": "running section tag The Nation on A8"
   },
   {
-   "anno": 174,
-   "of": 1
+   "boxes": [
+    615
+   ],
+   "of": 542,
+   "why": "running section tag Opinion on A11"
   },
   {
-   "anno": 253,
-   "of": 1
+   "boxes": [
+    79,
+    163,
+    174,
+    253,
+    274,
+    354,
+    363,
+    454,
+    540,
+    614,
+    678
+   ],
+   "of": 1,
+   "why": "running head repeats the masthead"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 44,
+   "why": "front-page photo teaser pointing to B1"
   },
   {
-   "anno": 274,
-   "of": 1
+   "box": 75,
+   "why": "weather box (Sparklers)"
   },
   {
-   "anno": 354,
-   "of": 1
+   "box": 165,
+   "why": "advertisement line"
   },
   {
-   "anno": 362,
-   "of": 273
+   "box": 168,
+   "why": "advertisement line"
   },
   {
-   "anno": 363,
-   "of": 1
+   "box": 170,
+   "why": "advertisement line"
   },
   {
-   "anno": 454,
-   "of": 1
+   "box": 255,
+   "why": "advertisement line"
   },
   {
-   "anno": 540,
-   "of": 1
+   "box": 256,
+   "why": "advertisement line"
   },
   {
-   "anno": 599,
-   "of": 1
+   "box": 357,
+   "why": "advertisement line"
   },
   {
-   "anno": 614,
-   "of": 1
+   "box": 358,
+   "why": "advertisement line"
   },
   {
-   "anno": 615,
-   "of": 542
+   "box": 288,
+   "why": "colophon box (BOSTON GLOBE MEDIA)"
   },
   {
-   "anno": 678,
-   "of": 1
+   "box": 543,
+   "why": "EDITORIAL rubric above the editorial headline"
+  },
+  {
+   "box": 617,
+   "why": "columnist name above a column headline"
+  },
+  {
+   "box": 771,
+   "why": "columnist name above a column headline"
+  }
+ ],
+ "considered": [
+  {
+   "box": 365,
+   "why": "topic rubric CAMPAIGN 2024 under the open section"
+  },
+  {
+   "box": 767,
+   "why": "pointer to an inside page (LivingArts B6)"
   }
  ]
 }

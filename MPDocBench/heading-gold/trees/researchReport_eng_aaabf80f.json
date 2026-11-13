@@ -1,252 +1,454 @@
 {
  "doc": "researchReport_eng_aaabf80f",
- "notation": "researchReport (periodical issue, Top of Mind; same family as researchReport_eng_1588f970): L1 masthead; L2 issue theme; L3 contents box and article banners; L4 region boxes in Macro news and views. The two list labels repeated in every box (Latest GS proprietary datapoints/major changes in views, Datapoints/trends we're focused on) are generic labels: text (label rule). Deck under the banner, chart titles, editor byline and interview questions are text.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 4,
+   "boxes": [
+    4,
+    5
+   ],
    "level": 1,
    "parent": "root",
-   "text": "TOP of MIND",
-   "note": "masthead"
+   "text": "TOPof MIND THE IPO SPAC-TACLE",
+   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2"
   },
   {
-   "anno": 5,
+   "boxes": [
+    16
+   ],
    "level": 2,
    "parent": 4,
-   "text": "THE IPO SPAC-TACLE",
-   "note": "issue theme (cover headline)"
+   "text": "WHAT'S INSIDE",
+   "why": "box title: contents box of the issue"
   },
   {
-   "anno": 16,
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Macro news and views",
+   "why": "article page banner"
+  },
+  {
+   "boxes": [
+    33
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "WHAT'S INSIDE"
-  },
-  {
-   "anno": 31,
-   "level": 3,
-   "parent": 5,
-   "text": "Macro news and views"
-  },
-  {
-   "anno": 33,
-   "level": 4,
    "parent": 31,
-   "text": "US"
+   "text": "US",
+   "why": "box title: region box"
   },
   {
-   "anno": 44,
+   "boxes": [
+    34
+   ],
    "level": 4,
-   "parent": 31,
-   "text": "Europe"
+   "parent": 33,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 56,
+   "boxes": [
+    37
+   ],
    "level": 4,
-   "parent": 31,
-   "text": "Japan"
+   "parent": 33,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
   },
   {
-   "anno": 68,
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "Europe",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    45
+   ],
    "level": 4,
+   "parent": 44,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
    "parent": 31,
-   "text": "Emerging Markets (EM)"
+   "text": "Japan",
+   "why": "box title: region box"
   },
   {
-   "anno": 84,
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    68
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "The IPO SPAC-tacle"
+   "parent": 31,
+   "text": "Emerging Markets (EM)",
+   "why": "box title: region box"
   },
   {
-   "anno": 104,
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "The IPO SPAC-tacle",
+   "why": "article page banner, L2 (round 3): editor lead article of the issue; it prints the theme words again, but it opens one article after Macro news and views (a repeat of L1 would leave its pages inside Macro news and views), so it is a node narrower than the issue title union"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with Jay R. Ritter",
+   "why": "article page banner: interview"
+  },
+  {
+   "boxes": [
+    107
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Interview with Jay R. Ritter"
+   "parent": 104,
+   "text": "Allison Nathan: How does the recent boom period for IPOs compare to past cycles?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 146,
+   "boxes": [
+    111
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Interview with David Ludwig"
+   "parent": 104,
+   "text": "Allison Nathan: So what's changed that's motivated more companies to pursue IPOs recently?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 187,
+   "boxes": [
+    113
+   ],
    "level": 3,
-   "parent": 5,
-   "text": "Going public: the basics"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 32,
-   "note": "deck under the section banner"
+   "parent": 104,
+   "text": "Allison Nathan: Given these high valuations, do you see any risks of a bubble?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 40,
-   "note": "chart title"
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: How common is such IPO outperformance?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 52,
-   "note": "chart title"
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Can the recent high volume of IPOs be sustained in 2021?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 64,
-   "note": "chart title"
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Amid the current IPO surge, why are so many more companies choosing alternative paths to going public, such as direct listings and SPACs?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 76,
-   "note": "chart title"
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: But are alternative IPO paths less costly?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 97,
-   "note": "editor byline"
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: What percent of SPAC shareholders typically choose to redeem?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 107,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    133
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: So are listed SPACs good investments?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 111,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Is the SPAC frenzy likely to persist in 2021?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 113,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: That said, are some issues that have contributed to the shift towards alternative IPOs, like the \"pop\" in first day pricing of recent IPOs, likely to diminish?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 117,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    146
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with David Ludwig",
+   "why": "article page banner: interview"
   },
   {
-   "anno": 120,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    150
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: How large was the surge in equity capital market activity in 2020?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 122,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    154
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: It seems like not that long ago everyone was focused on the shift toward private markets and the death of the IPO market. What's changed?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 128,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    156
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: Who's buying all of this new IPO issuance?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 131,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    159
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: How else does the current IPO boom compare to past cycles in your career?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 133,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    161
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: Does this disconnect between markets and the economy suggest this IPO cycle is fragile?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 138,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    163
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: Today's high valuations have led to comparisons between the current cycle and the 2000 internet bubble. Do you see worrying similarities?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 140,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    166
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: What risks to your positive IPO outlook worry you the most?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 150,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    172
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: Amid the current IPO boom, why are some companies choosing alternative paths to going public—like SPACs and direct listings—rather than traditional IPOs?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 154,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    176
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: There's a market narrative that the traditional IPO process leads to systematic underpricing, and that's one major reason why companies are increasingly looking at alternative ways of going public. Is there a structural flaw in the traditional IPO process?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 156,
-   "note": "interview question (Q&A turn)"
+   "boxes": [
+    180
+   ],
+   "level": 3,
+   "parent": 146,
+   "text": "Allison Nathan: How is the traditional IPO process evolving to take advantage of some of the features of alternative listing models?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
   },
   {
-   "anno": 159,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 161,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 163,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 166,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 172,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 176,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 180,
-   "note": "interview question (Q&A turn)"
-  },
-  {
-   "anno": 34,
-   "note": "label rule"
-  },
-  {
-   "anno": 37,
-   "note": "label rule"
-  },
-  {
-   "anno": 45,
-   "note": "label rule"
-  },
-  {
-   "anno": 47,
-   "note": "label rule"
-  },
-  {
-   "anno": 57,
-   "note": "label rule"
-  },
-  {
-   "anno": 59,
-   "note": "label rule"
-  },
-  {
-   "anno": 69,
-   "note": "label rule"
-  },
-  {
-   "anno": 71,
-   "note": "label rule"
+   "boxes": [
+    187
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Going public: the basics",
+   "why": "article page banner: explainer page"
   }
  ],
  "repeats": [
   {
-   "anno": 29,
-   "of": 4
+   "boxes": [
+    29
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 82,
-   "of": 4
+   "boxes": [
+    82
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 102,
-   "of": 4
+   "boxes": [
+    102
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 125,
-   "of": 4
+   "boxes": [
+    125
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 144,
-   "of": 4
+   "boxes": [
+    144
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 169,
-   "of": 4
+   "boxes": [
+    169
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
   },
   {
-   "anno": 185,
-   "of": 4
+   "boxes": [
+    185
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 32,
+   "why": "deck under the page banner: text"
+  },
+  {
+   "box": 40,
+   "why": "chart title in the region box: text"
+  },
+  {
+   "box": 52,
+   "why": "chart title: text"
+  },
+  {
+   "box": 64,
+   "why": "chart title: text"
+  },
+  {
+   "box": 76,
+   "why": "chart title: text"
+  },
+  {
+   "box": 97,
+   "why": "editor byline: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 17,
+   "why": "INTERVIEWS WITH: label over a names list"
+  },
+  {
+   "box": 188,
+   "why": "bold run-in question starting an explainer paragraph (no separate answer block)"
   }
  ]
 }

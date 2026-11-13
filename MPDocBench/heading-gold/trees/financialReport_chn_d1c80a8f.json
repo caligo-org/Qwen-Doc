@@ -1,25 +1,53 @@
 {
  "doc": "financialReport_chn_d1c80a8f",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    2,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "二零二五年 上半年度 財務報告"
-  },
+   "text": "二零二五年 \n上半年度 \n財務報告 Prudential plc",
+   "why": "title union: document type + owner printed under it on the cover"
+  }
+ ],
+ "repeats": [
   {
-   "anno": 5,
-   "level": 2,
-   "parent": 2,
-   "text": "我們的宗旨",
-   "note": "small section label of the purpose spread; the large line under it is a slogan"
+   "boxes": [
+    12
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the document"
   }
  ],
  "not_headings": [
   {
-   "anno": 6,
-   "note": "slogan under the 我們的宗旨 label"
+   "box": 5,
+   "why": "breadcrumb round 2: was L2; fails containment and substance - its block is only the slogan + one mission sentence, and the untitled TOC (#9/#10) that follows is not about it, with no later heading closing it -> text (small label)"
+  },
+  {
+   "box": 6,
+   "why": "slogan under the section label: callout, no block of its own"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 7,
+   "why": "slogan continuation, text"
+  },
+  {
+   "box": 8,
+   "why": "mission statement, body of 我們的宗旨"
+  },
+  {
+   "box": 9,
+   "why": "TOC entries without a printed contents title, text"
+  },
+  {
+   "box": 4,
+   "why": "stock code line on cover, text"
+  }
+ ]
 }

@@ -1,61 +1,174 @@
 {
  "doc": "financialReport_chn_16e75a27",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
+   "boxes": [
+    1,
+    2
+   ],
    "level": 1,
    "parent": "root",
-   "text": "2025年半年度财务会计报告"
+   "text": "山西太钢不锈钢股份有限公司 2025年半年度财务会计报告",
+   "why": "title: owner ∪ document type. The owner is printed only in the p1 running head (#1, which also prints the report title); per NOTATIONS \"Every path is a breadcrumb\" that box joins the union and only its owner part counts. Round 3: was body title #2 alone (breadcrumb lacked whose)."
   },
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "一、审计报告"
+   "parent": 1,
+   "text": "一、审计报告",
+   "why": "section: 一、 numbered, own block"
   },
   {
-   "anno": 7,
+   "boxes": [
+    7
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "二、财务报表"
+   "parent": 1,
+   "text": "二、财务报表",
+   "why": "section: 一、 numbered, statements below"
   },
   {
-   "anno": 9,
+   "boxes": [
+    9
+   ],
    "level": 3,
    "parent": 7,
-   "text": "1、合并资产负债表"
+   "text": "1、合并资产负债表",
+   "why": "section: statement title over its table"
   },
   {
-   "anno": 26,
+   "boxes": [
+    26
+   ],
    "level": 3,
    "parent": 7,
-   "text": "2、母公司资产负债表"
+   "text": "2、母公司资产负债表",
+   "why": "section: statement title over its table"
   },
   {
-   "anno": 35,
+   "boxes": [
+    35
+   ],
    "level": 3,
    "parent": 7,
-   "text": "3、合并利润表"
+   "text": "3、合并利润表",
+   "why": "section: statement title over its table"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 3,
    "parent": 7,
-   "text": "4、母公司利润表"
+   "text": "4、母公司利润表",
+   "why": "section: statement title over its table"
   },
   {
-   "anno": 56,
+   "boxes": [
+    56
+   ],
    "level": 3,
    "parent": 7,
-   "text": "5、合并现金流量表"
+   "text": "5、合并现金流量表",
+   "why": "section: statement title over its table"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 3,
    "parent": 7,
-   "text": "6、母公司现金流量表"
+   "text": "6、母公司现金流量表",
+   "why": "section: statement title over its table"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
   }
  ],
  "not_headings": [],
- "repeats": []
+ "considered": [
+  {
+   "box": 23,
+   "why": "signature field, text"
+  }
+ ]
 }

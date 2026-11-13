@@ -1,167 +1,256 @@
 {
  "doc": "annualReport_eng_0c770734",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    3
+   ],
    "level": 1,
    "parent": "root",
    "text": "2018 ANNUAL REPORT",
-   "note": "cover title (company only as logo)"
+   "why": "title: document type printed on the cover; the owner appears only as a logo (logo is text)"
   },
   {
-   "anno": 22,
+   "boxes": [
+    22,
+    26
+   ],
    "level": 2,
    "parent": 3,
-   "text": "FORM 10-K",
-   "note": "the embedded Form 10-K is the report's main part; the shareholder letter before it has no printed title"
+   "text": "FORM 10-K CRAY INC.",
+   "why": "embedded filing title union: FORM 10-K + registrant name (printed inside a cover-field box with the file number)"
   },
   {
-   "anno": 52,
+   "boxes": [
+    52
+   ],
    "level": 3,
    "parent": 22,
-   "text": "DOCUMENTS INCORPORATED BY REFERENCE"
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+   "why": "front matter section of the 10-K"
   },
   {
-   "anno": 54,
+   "boxes": [
+    54
+   ],
    "level": 3,
    "parent": 22,
-   "text": "CRAY INC. FORM 10-K For Fiscal Year Ended December 31, 2018 INDEX",
-   "note": "contents title block (title restated + INDEX)"
+   "text": "INDEX",
+   "why": "contents title of the 10-K. Round 2: text = the printed heading line INDEX only; the lines above it in the same box restate registrant/form/year (a restated title = repeat, not part of this heading), so the breadcrumb no longer restates the L2"
   },
   {
-   "anno": 58,
+   "boxes": [
+    58
+   ],
    "level": 3,
    "parent": 22,
-   "text": "Forward-Looking Statements"
+   "text": "Forward-Looking Statements",
+   "why": "front matter section: forward-looking note"
   },
   {
-   "anno": 61,
+   "boxes": [
+    61
+   ],
    "level": 3,
    "parent": 22,
-   "text": "PART I"
+   "text": "PART I",
+   "why": "PART level"
   },
   {
-   "anno": 62,
+   "boxes": [
+    62
+   ],
    "level": 4,
    "parent": 61,
-   "text": "Item 1. Business"
+   "text": "Item 1. Business",
+   "why": "Item level"
   },
   {
-   "anno": 63,
+   "boxes": [
+    63
+   ],
    "level": 5,
    "parent": 62,
-   "text": "General"
+   "text": "General",
+   "why": "bold section head under Item"
   },
   {
-   "anno": 71,
+   "boxes": [
+    71
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Overview"
+   "text": "Overview",
+   "why": "bold section head"
   },
   {
-   "anno": 77,
+   "boxes": [
+    77
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Products, Services and Customer Support"
+   "text": "Products, Services and Customer Support",
+   "why": "bold section head"
   },
   {
-   "anno": 79,
+   "boxes": [
+    79
+   ],
    "level": 6,
    "parent": 77,
-   "text": "Cray Supercomputing Systems"
+   "text": "Cray Supercomputing Systems",
+   "why": "bold-italic subhead under a bold head"
   },
   {
-   "anno": 96,
+   "boxes": [
+    96
+   ],
    "level": 6,
    "parent": 77,
-   "text": "Software"
+   "text": "Software",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 98,
+   "boxes": [
+    98
+   ],
    "level": 6,
    "parent": 77,
-   "text": "Cray Analytics and AI Products"
+   "text": "Cray Analytics and AI Products",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 102,
+   "boxes": [
+    102
+   ],
    "level": 6,
    "parent": 77,
-   "text": "Cray Storage and Data Management Products"
+   "text": "Cray Storage and Data Management Products",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 106,
+   "boxes": [
+    106
+   ],
    "level": 6,
    "parent": 77,
-   "text": "Customer Support"
+   "text": "Customer Support",
+   "why": "bold-italic subhead"
   },
   {
-   "anno": 108,
+   "boxes": [
+    108
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Sales and Marketing"
+   "text": "Sales and Marketing",
+   "why": "bold section head"
   },
   {
-   "anno": 113,
+   "boxes": [
+    113
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Manufacturing and Supply Chain"
+   "text": "Manufacturing and Supply Chain",
+   "why": "bold section head"
   },
   {
-   "anno": 116,
+   "boxes": [
+    116
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Our Markets"
+   "text": "Our Markets",
+   "why": "bold section head"
   },
   {
-   "anno": 130,
+   "boxes": [
+    130
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Competition"
+   "text": "Competition",
+   "why": "bold section head"
   },
   {
-   "anno": 136,
+   "boxes": [
+    136
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Intellectual Property"
+   "text": "Intellectual Property",
+   "why": "bold section head"
   },
   {
-   "anno": 140,
+   "boxes": [
+    140
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Employees"
+   "text": "Employees",
+   "why": "bold section head"
   },
   {
-   "anno": 142,
+   "boxes": [
+    142
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Corporation Information"
+   "text": "Corporation Information",
+   "why": "bold section head"
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 5,
    "parent": 62,
-   "text": "Available Information"
+   "text": "Available Information",
+   "why": "bold section head"
   },
   {
-   "anno": 147,
+   "boxes": [
+    147
+   ],
    "level": 4,
    "parent": 61,
-   "text": "Item 1A. Risk Factors"
+   "text": "Item 1A. Risk Factors",
+   "why": "Item level"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 1,
-   "note": "cover slogan"
+   "box": 1,
+   "why": "cover slogan"
   },
   {
-   "anno": 2,
-   "note": "cover slogan"
+   "box": 2,
+   "why": "cover slogan"
   },
   {
-   "anno": 21,
-   "note": "issuing body on the Form 10-K cover"
+   "box": 21,
+   "why": "issuing body (SEC name and address) on the 10-K cover"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 5,
+   "why": "letter salutation"
+  },
+  {
+   "box": 23,
+   "why": "form check-box line"
+  },
+  {
+   "box": 82,
+   "why": "italic run-in lead-in inside a paragraph"
+  },
+  {
+   "box": 149,
+   "why": "bold run-in risk sentence starting a paragraph"
+  }
+ ]
 }

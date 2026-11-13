@@ -1,101 +1,171 @@
 {
  "doc": "textBook_eng_99585330",
- "notation": "textBook-v2: L1 cover title; L2 Contents and chapters; L3 bold section heads; L4 light-weight subheads.",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "General Microbiology"
+   "text": "General Microbiology",
+   "why": "title: book title on the cover"
   },
   {
-   "anno": 10,
+   "boxes": [
+    10
+   ],
    "level": 2,
    "parent": 1,
-   "text": "Contents"
+   "text": "Contents",
+   "why": "front matter: contents title"
   },
   {
-   "anno": 12,
+   "boxes": [
+    12
+   ],
    "level": 2,
    "parent": 1,
-   "text": "I. Introduction to Microbiology"
+   "text": "1. Introduction to Microbiology",
+   "why": "chapter heading"
   },
   {
-   "anno": 16,
+   "boxes": [
+    16
+   ],
    "level": 3,
    "parent": 12,
-   "text": "Characteristics of Microbes"
+   "text": "Characteristics of Microbes",
+   "why": "bold section heading"
   },
   {
-   "anno": 20,
+   "boxes": [
+    20
+   ],
    "level": 3,
    "parent": 12,
-   "text": "Microbe Size"
+   "text": "Microbe Size",
+   "why": "bold section heading"
   },
   {
-   "anno": 27,
+   "boxes": [
+    27
+   ],
    "level": 3,
    "parent": 12,
-   "text": "The Discovery of Microbes"
+   "text": "The Discovery of Microbes",
+   "why": "bold section heading"
   },
   {
-   "anno": 30,
+   "boxes": [
+    30
+   ],
    "level": 4,
    "parent": 27,
    "text": "Robert Hooke (1635-1703)",
-   "note": "lighter weight than The Discovery of Microbes: its subsection"
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides); one of the two people the section names"
   },
   {
-   "anno": 32,
+   "boxes": [
+    32
+   ],
    "level": 4,
    "parent": 27,
    "text": "Antony van Leeuwenhoek (1632-1723)",
-   "note": "lighter weight: subsection of The Discovery of Microbes"
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
   },
   {
-   "anno": 36,
+   "boxes": [
+    36
+   ],
    "level": 3,
    "parent": 12,
-   "text": "Microbial Groups"
+   "text": "Microbial Groups",
+   "why": "bold section heading"
   },
   {
-   "anno": 43,
+   "boxes": [
+    43
+   ],
    "level": 4,
    "parent": 36,
    "text": "Bacteria",
-   "note": "lighter weight: subsection of Microbial Groups"
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides); a domain the section lists"
   },
   {
-   "anno": 45,
+   "boxes": [
+    45
+   ],
    "level": 4,
    "parent": 36,
-   "text": "Archaea"
+   "text": "Archaea",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
   },
   {
-   "anno": 47,
+   "boxes": [
+    47
+   ],
    "level": 4,
    "parent": 36,
-   "text": "Eukarya"
+   "text": "Eukarya",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
   },
   {
-   "anno": 49,
+   "boxes": [
+    49
+   ],
    "level": 4,
    "parent": 36,
-   "text": "Viruses"
+   "text": "Viruses",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
   },
   {
-   "anno": 51,
+   "boxes": [
+    51
+   ],
    "level": 3,
    "parent": 12,
    "text": "Taxonomic Ranks",
-   "note": "bold like Microbial Groups"
+   "why": "bold section heading"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    2
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
   }
  ],
  "not_headings": [],
- "repeats": [
-  {
-   "anno": 2,
-   "of": 1
-  }
- ]
+ "considered": []
 }

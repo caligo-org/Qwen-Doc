@@ -1,187 +1,237 @@
 {
  "doc": "magazine_eng_86eb2981",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 3,
+   "boxes": [
+    1,
+    3
+   ],
    "level": 1,
    "parent": "root",
-   "text": "Tools & Shops",
-   "note": "issue title on the cover (ANNUAL ISSUE line in the box is text; Fine WoodWorking logo is the brand line)"
+   "text": "Fine WoodWorking Tools & Shops",
+   "why": "title union: owner masthead Fine WoodWorking + issue title Tools & Shops (ANNUAL ISSUE line in the box is text)"
   },
   {
-   "anno": 142,
+   "boxes": [
+    142
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "features",
-   "note": "contents group (features)"
+   "why": "contents group heading 'features' (the contents spread prints no Contents title)"
   },
   {
-   "anno": 148,
+   "boxes": [
+    148
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "in every issue",
-   "note": "contents group (in every issue)"
+   "why": "contents group heading 'in every issue'"
   },
   {
-   "anno": 166,
+   "boxes": [
+    166
+   ],
    "level": 2,
-   "parent": 3,
+   "parent": 1,
    "text": "Fine WoodWorking UNLIMITED",
-   "note": "department banner (On the Web in the contents)"
+   "why": "section: department banner Fine WoodWorking UNLIMITED"
   },
   {
-   "anno": 168,
+   "boxes": [
+    168
+   ],
    "level": 3,
    "parent": 166,
-   "text": "Online extras"
+   "text": "Online extras",
+   "why": "box with own title (Online extras), its items below"
   },
   {
-   "anno": 172,
+   "boxes": [
+    172
+   ],
    "level": 4,
    "parent": 168,
-   "text": "Evolution of a tool chest"
+   "text": "Evolution of a tool chest",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 177,
+   "boxes": [
+    177
+   ],
    "level": 4,
    "parent": 168,
-   "text": "Tough grain? Try a bevel-up plane"
+   "text": "Tough grain? Try a bevel-up plane",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 181,
+   "boxes": [
+    181
+   ],
    "level": 4,
    "parent": 168,
-   "text": "Align the spine"
+   "text": "Align the spine",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 186,
+   "boxes": [
+    186
+   ],
    "level": 4,
    "parent": 168,
-   "text": "Bright ideas"
+   "text": "Bright ideas",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 191,
+   "boxes": [
+    191
+   ],
    "level": 4,
    "parent": 168,
-   "text": "Fresh fence"
+   "text": "Fresh fence",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 195,
+   "boxes": [
+    195
+   ],
    "level": 4,
    "parent": 168,
-   "text": "The not-so-big workbench"
+   "text": "The not-so-big workbench",
+   "why": "item headline with its blurb and bullet list"
   },
   {
-   "anno": 201,
+   "boxes": [
+    201
+   ],
    "level": 3,
    "parent": 166,
-   "text": "Additional perks of Unlimited"
+   "text": "Additional perks of Unlimited",
+   "why": "box with own title (Additional perks of Unlimited), its items below"
   },
   {
-   "anno": 203,
+   "boxes": [
+    203
+   ],
    "level": 4,
    "parent": 201,
-   "text": "FREE PLANS"
+   "text": "FREE PLANS",
+   "why": "item headline with its blurb"
   },
   {
-   "anno": 205,
+   "boxes": [
+    205
+   ],
    "level": 4,
    "parent": 201,
-   "text": "ONLINE ARCHIVES"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 6,
-   "note": "cover-line label"
-  },
-  {
-   "anno": 8,
-   "note": "cover-line label"
-  },
-  {
-   "anno": 10,
-   "note": "cover-line label"
-  },
-  {
-   "anno": 12,
-   "note": "advertisement (p2)"
-  },
-  {
-   "anno": 21,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 33,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 45,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 58,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 70,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 84,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 96,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 108,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 119,
-   "note": "advertisement product title"
-  },
-  {
-   "anno": 156,
-   "note": "advertisement (p5)"
-  },
-  {
-   "anno": 171,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 176,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 180,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 185,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 190,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 194,
-   "note": "kicker label above an item headline"
-  },
-  {
-   "anno": 210,
-   "note": "advertisement (p7)"
+   "text": "ONLINE ARCHIVES",
+   "why": "item headline with its blurb"
   }
  ],
  "repeats": [
   {
-   "anno": 137,
-   "of": 3
+   "boxes": [
+    136,
+    137
+   ],
+   "of": 1,
+   "why": "repeat: title union (Fine WoodWorking + Tools & Shops) restated over the contents spread"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (FINE WOODWORKING)"
   }
- ]
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "cover-line label"
+  },
+  {
+   "box": 8,
+   "why": "cover-line label"
+  },
+  {
+   "box": 10,
+   "why": "cover-line label"
+  },
+  {
+   "box": 171,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 176,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 180,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 185,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 190,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 194,
+   "why": "kicker label VIDEO WORKSHOP above an item headline"
+  },
+  {
+   "box": 12,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 21,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 33,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 45,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 58,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 70,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 84,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 96,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 108,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 119,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 156,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 210,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  }
+ ],
+ "considered": []
 }

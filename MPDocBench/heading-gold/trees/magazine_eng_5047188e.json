@@ -1,28 +1,37 @@
 {
  "doc": "magazine_eng_5047188e",
- "notation": "magazine-v2: L1 masthead (cover); L2 section (running section tag or section banner, when the section changes); L3 article headline; L4 in-article subhead. An article whose section is not printed sits directly under the masthead (L2). Cover lines, ads, colophon/masthead boxes, TOC entries, run-in 【...】 brief labels are text.",
- "source_gold_sha256": "0a579dca6cf875a41fdab0975efee6d4e0fea999e0fa6c3ca95ad08b948f40df",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
    "text": "Harper's BAZAAR",
-   "note": "masthead (gold OCR garbled by the cover photo; THE ART ISSUE line in the box is text)"
+   "why": "title: periodical masthead Harper's BAZAAR (gold OCR garbled; THE ART ISSUE line in the box is text)"
   },
   {
-   "anno": 8,
+   "boxes": [
+    8
+   ],
    "level": 2,
    "parent": 1,
    "text": "THE ART ISSUE",
-   "note": "editor's introduction to the issue; no section printed"
+   "why": "front matter: editor's introduction to the issue, its essay below (no section printed)"
   }
  ],
+ "repeats": [],
  "not_headings": [
   {
-   "anno": 2,
-   "note": "cover line"
+   "box": 2,
+   "why": "cover line"
   }
  ],
- "repeats": []
+ "considered": [
+  {
+   "box": 10,
+   "why": "cover credit box on the editor page (cover subject name + photograph/styling/dress credits): caption-like text with no story block; stays inside THE ART ISSUE front-matter page"
+  }
+ ]
 }

@@ -1,206 +1,309 @@
 {
  "doc": "manualGuide_eng_6202ad06",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 2,
-   "level": 1,
-   "parent": "root",
-   "text": "INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING",
-   "merge": [
+   "boxes": [
+    1,
+    2,
     3
    ],
-   "note": "manual type + product line (missed) merged"
+   "level": 1,
+   "parent": "root",
+   "text": "TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING",
+   "why": "title union: owner logo header box #1 (TruWood SIDING) + document type + product. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING)."
   },
   {
-   "anno": 9,
+   "boxes": [
+    12
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "DESIGNER SHAKE™ LAP SIDING",
-   "note": "product name restated as the head of the installation part; same look as the warranty and care heads (L2)"
+   "parent": 1,
+   "text": "Warranty Requirements",
+   "why": "section: green head with its own bullets"
   },
   {
-   "anno": 12,
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Proper Storage",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Construction Essentials",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    22
+   ],
    "level": 3,
-   "parent": 9,
-   "text": "Warranty Requirements"
-  },
-  {
-   "anno": 15,
-   "level": 3,
-   "parent": 9,
-   "text": "Proper Storage"
-  },
-  {
-   "anno": 19,
-   "level": 3,
-   "parent": 9,
-   "text": "Construction Essentials"
-  },
-  {
-   "anno": 22,
-   "level": 4,
    "parent": 19,
-   "text": "A. FRAMING"
+   "text": "A. FRAMING",
+   "why": "subsection: lettered A. head under Construction Essentials"
   },
   {
-   "anno": 25,
-   "level": 4,
+   "boxes": [
+    25
+   ],
+   "level": 3,
    "parent": 19,
-   "text": "B. SHEATHING"
+   "text": "B. SHEATHING",
+   "why": "subsection: lettered B."
   },
   {
-   "anno": 28,
-   "level": 4,
+   "boxes": [
+    28
+   ],
+   "level": 3,
    "parent": 19,
-   "text": "C. VAPOR BARRIERS, VENTILATION AND MOISTURE CONTROL"
+   "text": "C. VAPOR BARRIERS, VENTILATION AND MOISTURE CONTROL",
+   "why": "subsection: lettered C."
   },
   {
-   "anno": 34,
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Proper Installation",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    35
+   ],
    "level": 3,
-   "parent": 9,
-   "text": "Proper Installation"
-  },
-  {
-   "anno": 35,
-   "level": 4,
    "parent": 34,
-   "text": "A. FASTENING"
+   "text": "A. FASTENING",
+   "why": "subsection: lettered A."
   },
   {
-   "anno": 49,
-   "level": 4,
+   "boxes": [
+    49
+   ],
+   "level": 3,
    "parent": 34,
-   "text": "B. GAPS, CLEARANCES, AND CORNERS"
+   "text": "B. GAPS, CLEARANCES, AND CORNERS",
+   "why": "subsection: lettered B."
   },
   {
-   "anno": 56,
-   "level": 4,
+   "boxes": [
+    56
+   ],
+   "level": 3,
    "parent": 34,
-   "text": "C. CAULKING"
+   "text": "C. CAULKING",
+   "why": "subsection: lettered C."
   },
   {
-   "anno": 60,
-   "level": 4,
+   "boxes": [
+    60
+   ],
+   "level": 3,
    "parent": 34,
-   "text": "D. PAINTING"
+   "text": "D. PAINTING",
+   "why": "subsection: lettered D."
   },
   {
-   "anno": 70,
+   "boxes": [
+    70
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Installation Errors That Void the Warranty",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Key Homeowner Maintenance Responsibilities",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Codes and Standards",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Product Guidelines",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "California WUI Application Requirements",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Additional Requirements",
+   "why": "section: green head"
+  },
+  {
+   "boxes": [
+    117
+   ],
    "level": 3,
-   "parent": 9,
-   "text": "Installation Errors That Void the Warranty"
-  },
-  {
-   "anno": 84,
-   "level": 3,
-   "parent": 9,
-   "text": "Key Homeowner Maintenance Responsibilities"
-  },
-  {
-   "anno": 89,
-   "level": 3,
-   "parent": 9,
-   "text": "Codes and Standards"
-  },
-  {
-   "anno": 100,
-   "level": 3,
-   "parent": 9,
-   "text": "Product Guidelines"
-  },
-  {
-   "anno": 113,
-   "level": 3,
-   "parent": 9,
-   "text": "California WUI Application Requirements"
-  },
-  {
-   "anno": 116,
-   "level": 3,
-   "parent": 9,
-   "text": "Additional Requirements"
-  },
-  {
-   "anno": 119,
-   "level": 4,
    "parent": 116,
-   "text": "Designer Shake Style Examples"
+   "text": "Old Mill Shingle Lap Siding",
+   "why": "label heading: own-line product-variant label with its own bullet below"
   },
   {
-   "anno": 133,
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "Designer Shake Style Examples",
+   "why": "label heading: own-line label over the style example figures"
+  },
+  {
+   "boxes": [
+    133
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY"
+   "parent": 1,
+   "text": "TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY",
+   "why": "part: warranty title (big green head, same role as the installation sections' top heads)"
   },
   {
-   "anno": 134,
+   "boxes": [
+    134
+   ],
    "level": 3,
    "parent": 133,
-   "text": "1. LIMITED WARRANTY - TRANSFERABLE WARRANTY COVERAGE"
+   "text": "1. LIMITED WARRANTY - TRANSFERABLE WARRANTY COVERAGE",
+   "why": "section: numbered 1."
   },
   {
-   "anno": 137,
+   "boxes": [
+    137
+   ],
    "level": 3,
    "parent": 133,
-   "text": "2. WARRANTY REMEDIES"
+   "text": "2. WARRANTY REMEDIES",
+   "why": "section: numbered 2."
   },
   {
-   "anno": 141,
+   "boxes": [
+    141
+   ],
    "level": 3,
    "parent": 133,
-   "text": "3. WARRANTY LIMITATIONS"
+   "text": "3. WARRANTY LIMITATIONS",
+   "why": "section: numbered 3."
   },
   {
-   "anno": 144,
+   "boxes": [
+    144
+   ],
    "level": 3,
    "parent": 133,
-   "text": "4. EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES"
+   "text": "4. EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES",
+   "why": "section: numbered 4."
   },
   {
-   "anno": 146,
+   "boxes": [
+    146
+   ],
    "level": 3,
    "parent": 133,
-   "text": "5. ADDITIONAL EXCLUSIONS"
+   "text": "5. ADDITIONAL EXCLUSIONS",
+   "why": "section: numbered 5."
   },
   {
-   "anno": 149,
+   "boxes": [
+    149
+   ],
    "level": 3,
    "parent": 133,
-   "text": "6. STATE LAW"
+   "text": "6. STATE LAW",
+   "why": "section: numbered 6."
   },
   {
-   "anno": 151,
+   "boxes": [
+    151
+   ],
    "level": 3,
    "parent": 133,
-   "text": "7. CONTACT US"
+   "text": "7. CONTACT US",
+   "why": "section: numbered 7."
   },
   {
-   "anno": 155,
+   "boxes": [
+    155
+   ],
    "level": 2,
-   "parent": 2,
-   "text": "CARE AND MAINTENANCE"
-  },
-  {
-   "anno": 169,
-   "level": 3,
-   "parent": 155,
-   "text": "CONTACT US"
-  }
- ],
- "not_headings": [
-  {
-   "anno": 135,
-   "note": "bold caps opening sentence of the clause (text)"
-  },
-  {
-   "anno": 138,
-   "note": "bold caps opening sentence of the clause (text)"
+   "parent": 1,
+   "text": "CARE AND MAINTENANCE",
+   "why": "part: care and maintenance title"
   }
  ],
  "repeats": [
   {
-   "anno": 99,
-   "of": 9
+   "boxes": [
+    9
+   ],
+   "of": 1,
+   "why": "repeat: product line restated as the title of the installation pages"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "of": 1,
+   "why": "repeat: product line printed as the page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 135,
+   "why": "bold all-caps opening sentence of clause 1: text"
+  },
+  {
+   "box": 138,
+   "why": "bold all-caps opening sentence of clause 2: text"
+  },
+  {
+   "box": 169,
+   "why": "contact box label at the foot of the care page (contact boxes are text). Breadcrumb review r3: CARE AND MAINTENANCE › CONTACT US is no breadcrumb."
+  }
+ ],
+ "considered": [
+  {
+   "box": 11,
+   "why": "IMPORTANT callout band: text"
+  },
+  {
+   "box": 156,
+   "why": "run-in label GENERAL: text"
   }
  ]
 }

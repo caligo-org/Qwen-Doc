@@ -1,121 +1,198 @@
 {
  "doc": "financialReport_chn_dd929555",
+ "schema": 3,
  "nodes": [
   {
-   "anno": 1,
+   "boxes": [
+    1
+   ],
    "level": 1,
    "parent": "root",
-   "text": "审计报告",
-   "note": "company name is text; L1 = the document title only (user decision 2026-11-12)"
+   "text": "深圳市卫光生物制品股份有限公司\n审计报告",
+   "why": "title: owner + document type in one cover box"
   },
   {
-   "anno": 12,
+   "boxes": [
+    15
+   ],
    "level": 2,
    "parent": 1,
-   "text": "审计报告"
+   "text": "一、审计意见",
+   "why": "section: 一、 part of the letter; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
   },
   {
-   "anno": 15,
-   "level": 3,
-   "parent": 12,
-   "text": "一、审计意见"
-  },
-  {
-   "anno": 18,
-   "level": 3,
-   "parent": 12,
-   "text": "二、形成审计意见的基础"
-  },
-  {
-   "anno": 21,
-   "level": 3,
-   "parent": 12,
-   "text": "三、关键审计事项"
-  },
-  {
-   "anno": 23,
-   "level": 4,
-   "parent": 21,
-   "text": "（一）营业收入的确认"
-  },
-  {
-   "anno": 24,
-   "level": 5,
-   "parent": 23,
-   "text": "1. 事项描述"
-  },
-  {
-   "anno": 34,
-   "level": 5,
-   "parent": 23,
-   "text": "2.审计应对"
-  },
-  {
-   "anno": 51,
-   "level": 4,
-   "parent": 21,
-   "text": "（二）应收账款坏账准备的计提"
-  },
-  {
-   "anno": 52,
-   "level": 5,
-   "parent": 51,
-   "text": "1. 事项描述"
-  },
-  {
-   "anno": 56,
-   "level": 5,
-   "parent": 51,
-   "text": "2、审计应对"
-  },
-  {
-   "anno": 67,
-   "level": 4,
-   "parent": 21,
-   "text": "（三）存货的账面价值"
-  },
-  {
-   "anno": 68,
-   "level": 5,
-   "parent": 67,
-   "text": "1. 事项描述"
-  },
-  {
-   "anno": 70,
-   "level": 5,
-   "parent": 67,
-   "text": "2.审计应对"
-  },
-  {
-   "anno": 77,
-   "level": 3,
-   "parent": 12,
-   "text": "四、其他信息"
-  },
-  {
-   "anno": 89,
-   "level": 3,
-   "parent": 12,
-   "text": "五、管理层和治理层对财务报表的责任"
-  },
-  {
-   "anno": 93,
-   "level": 3,
-   "parent": 12,
-   "text": "六、注册会计师对财务报表审计的责任"
-  },
-  {
-   "anno": 126,
+   "boxes": [
+    18
+   ],
    "level": 2,
    "parent": 1,
-   "text": "合并资产负债表"
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "（一）营业收入的确认",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 4,
+   "parent": 23,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 4,
+   "parent": 23,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "（二）应收账款坏账准备的计提",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "（三）存货的账面价值",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "四、其他信息",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "合并资产负债表",
+   "why": "section: statement title over its table"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    145
+   ],
+   "of": 126,
+   "why": "repeat: （续） on the next page, statement still open"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "of": 1,
+   "why": "repeat: 审计报告 restated above the auditor letter is a restatement of the L1 (owner ∪ 审计报告), not a child of it (NOTATIONS \"Every path is a breadcrumb\", round 3; was an L2 section). The letter sections become children of L1."
   }
  ],
  "not_headings": [],
- "repeats": [
+ "considered": [
   {
-   "anno": 145,
-   "of": 126
+   "box": 2,
+   "why": "report number, text"
+  },
+  {
+   "box": 3,
+   "why": "audit firm on cover, text"
+  },
+  {
+   "box": 13,
+   "why": "report number, text"
+  },
+  {
+   "box": 14,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 96,
+   "why": "（一） list item in paragraph flow, text"
   }
  ]
 }
