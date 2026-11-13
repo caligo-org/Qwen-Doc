@@ -28,8 +28,8 @@ annotated as the child of the original.
 - **Breaks:** where a section ends without a new printed heading (a label's block ends and the main text resumes, a
   story ends before an ad, a list ends before a closing paragraph about the whole list), a break closes it and the
   content after it belongs to the parent. Breaks change where content sits, never the heading tree; they are annotated
-  for later use and not scored. Where the layout's reading order misplaces content,  (a section that begins
-  before its heading's box) and  (a box assigned to its section) fix it; same status as breaks.
+  for later use and not scored. Where the layout's reading order misplaces content, `starts` (a section that begins
+  before its heading's box) and `places` (a box assigned to its section) fix it; same status as breaks.
 - **Decisions on doubtful kinds** (all in `NOTATIONS.md`): repeated own-line labels with their own block are headings;
   interview questions with an answer are headings; exam questions are text; national-standard term entries are
   headings; a closing paragraph after a numbered list stays under the last item instead of dropping the list.
@@ -39,7 +39,7 @@ annotated as the child of the original.
 | Path | What |
 |---|---|
 | `NOTATIONS.md` | The notation and every decision. |
-| `trees/<doc>.json` | The gold, schema v3 (`tools/tree.py`): `nodes` (`boxes` = the union, level, parent, text, `why`, optional `continues`), `repeats` (`boxes`, `of`, `why`), `breaks` (`before`, `closes`, `why`), `not_headings` and `considered` (text, with `why`). Every entry carries its reason. |
+| `trees/<doc>.json` | The gold, schema v3 (`tools/tree.py`): `nodes` (`boxes` = the union, level, parent, text, `why`, optional `continues`), `repeats` (`boxes`, `of`, `why`), `breaks` (`before`, `closes`, `why`), node `starts`, `places` (`box`, `in`, `why`), `not_headings` and `considered` (text, with `why`). Every entry carries its reason. |
 | `MPDocBench.roletrees.json` | `MPDocBench.json` with the trees written in: each node's first box becomes the title with the node text and the union's box; other union boxes, repeats and text decisions become text blocks; title relations are the tree's parents. Built by `to_mpdocbench.py`. |
 | `to_mpdocbench.py` | Builds `MPDocBench.roletrees.json` from `../MPDocBench.json` and `trees/` (validates every tree first). |
 | `score_tree.py` | Scores explicit trees (`{doc: [{id, text, parent, boxes?, continues?} \| {id, text, repeat_of}]}`): Heading TEDS on the tree without Markdown flattening, plus precision/recall of unions, repeats and `continues`. |
@@ -48,6 +48,7 @@ annotated as the child of the original.
 | `tools/breadcrumbs.py` | Prints every breadcrumb of a tree and flags paths that look inconsistent (numbering that does not nest, siblings out of order, a heading repeating its ancestor, front matter under a body section, several roots). |
 | `tools/listing.py`, `tools/show.py`, `tools/suggest_repeats.py`, `tools/coverage.py` | Review tools: element listing, page renders with every box labelled (`MPDOCBENCH_PAGES` = folder of `<doc>/page_<n>.jpg`), repeat candidates, pages not yet reviewed. |
 | `path_review/<type>.tsv`, `break_review/<type>.tsv`, `logo_owner.tsv` | Round 4: a verdict for every node, checked on its page. Round 5: every break and restored heading, and a line for every document checked without one. Owner-logo pass: one line per report-type document. `tools/path_coverage.py` checks that every node has a verdict. |
+| `starts_review/*.tsv` | Round 6: section starts, caption-only photo items made text, and placed boxes (`places.tsv`); every page viewed, one line per document. |
 | `final_check/*.tsv` | Independent final check on the page of every round-5 change: 92 changed nodes (restored headings, owner-logo titles) and all breaks. |
 | `ACCEPTED_FLAGS.json` | Checker flags reviewed on the page, by kind, with the reason each flagged path is consistent. |
 | `learnings/<type>.md` | Decision log per document type: rounds of annotation and breadcrumb review, accepted checker flags with reasons, open cases. |
