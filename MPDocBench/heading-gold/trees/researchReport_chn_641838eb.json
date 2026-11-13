@@ -5,12 +5,13 @@
   {
    "boxes": [
     16,
-    17
+    17,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "电子 三季度消费电子旺季来临，重点关注苹果产业链",
-   "why": "title union: covered industry banner (电子) printed atop the headline + headline; headline alone does not name the industry"
+   "text": "财信证券 电子 三季度消费电子旺季来临，重点关注苹果产业链",
+   "why": "title union: covered industry banner (电子) printed atop the headline + headline; headline alone does not name the industry Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (财信证券) joins the union after the title box."
   },
   {
    "boxes": [

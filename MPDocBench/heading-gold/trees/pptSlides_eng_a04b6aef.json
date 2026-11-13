@@ -170,5 +170,12 @@
    "box": 50,
    "why": "first-level bullet sentence (not a label)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 13,
+   "why": "the Motor output bullets end; the anatomy figure (CNS/PNS) and the next slide's sensory-integration-motor diagram are about the functions slide #6 as a whole"
+  }
  ]
 }

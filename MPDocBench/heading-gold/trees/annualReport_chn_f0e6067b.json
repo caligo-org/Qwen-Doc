@@ -217,5 +217,12 @@
    "box": 70,
    "why": "yes/no question with one-word answer (substance)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 26,
+   "why": "round 5: the 利润分配预案 paragraph after the last risk item is not about 3、技术储备不足的风险; it belongs to 第一节"
+  }
  ]
 }

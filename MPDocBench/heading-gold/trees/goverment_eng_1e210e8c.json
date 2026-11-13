@@ -90,5 +90,12 @@
    "box": 52,
    "why": "signature: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 52,
+   "closes": 46,
+   "why": "round 5: the sender's signature closes the cable; it signs the whole cable, not this section"
+  }
  ]
 }

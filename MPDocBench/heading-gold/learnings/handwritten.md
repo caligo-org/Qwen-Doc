@@ -137,3 +137,29 @@ error instead of what the page prints:
   eac3f5a2 #2 keeps its pinyin ruby (bào yè), which sits inside the title box.
 - Earlier decisions re-checked on the pages and kept: 50d71ae2 7.3 cases 一-三 text / 四-五 headings (series rule:
   last own-line members); a6f48a98 run-in 2. 纸币的职能 a heading; 92bf52bc / 6a1cedac 思考题 Q&A text.
+
+## Round 5 (breaks)
+Docs 18, every page rendered with `show.py --tree` and viewed. 9 breaks in 6 docs, 1 node restored; check.py: no ERROR.
+- BREAK 048c9a89 before #4 closes #2: the red teaching-goals box (第一课时教学目标) is about the lesson, not 一：由来.
+- BREAK 1ae487be before #188 closes #148: items 20-22 (equations from conversion diagrams) are not about 考法二
+  根据原理、用途书写; no 考法 title is printed for them, so they sit under the round-2 banner.
+- BREAK 9ad83bc1 before #15 closes #10: the essay's closing paragraph (round 1-3 kept it under the last part
+  because no heading closed it; the break resolves that).
+- RESTORED a6f48a98 #21 (1) 物品交换的4个阶段 (L2 under 三. 货币的产生的过程): own-line title with its own block; it
+  was text only because the run-in siblings (2)-(4) would fall under it (series rule, containment). BREAK before
+  #24 closes it. The round-2 series rule "a FIRST own-line member followed by run-in siblings is text" is
+  superseded by breaks; a LAST own-line member after run-in siblings was already a heading.
+- BREAK a6f48a98 before #67 closes #44 (外汇/汇率 lines, not about 纸币) and before #127 closes #75 (income /
+  consumption lines, not about 价格). Both groups now sit at root; round 3 kept them under the open heading only
+  because no heading closed them.
+- BREAK eac2d8c2 before #49 closes #44: ΔG=ΔH-TΔS and T转 resume 3.4's main text after the Gibbs 判据 label block.
+- BREAK edc60213 before #21 closes #11 and before #34 closes #30: photo-order spill-over (an element-property
+  example end; subset / empty-set facts) under topics 4 and 3. Resolves the round-2 OPEN on the p3 top lines.
+- Kept without break: 50d71ae2 ★ exercises under 三. 推理 (they apply 推理/位移); 92bf52bc 离心机的类型 under
+  4. 离心技术; eac2d8c2 #14 焓变只是…之一 under the 焓变判据 label (it qualifies that criterion); 1ae487be day
+  markers and a6f48a98 curve titles stay text (pacing marks / chart titles, not containment).
+- OPEN 71864fb7 p5: the σ_2i(cos jπ/n) identity after III. 组合反演公式 may apply the Waring formula rather than the
+  inversion formula; not decidable from the page, no break.
+- OPEN a6f48a98 #24: NOTATIONS' exception bullet (book_eng_dc66edfa "Star Topology") says a run-in sibling's
+  content sits under the previous own-line label (no break); the Breaks section and the round-5 brief say a break
+  closes it. I followed the brief (break added); confirm which applies.

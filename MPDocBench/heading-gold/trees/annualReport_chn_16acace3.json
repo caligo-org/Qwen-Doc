@@ -760,5 +760,12 @@
    "box": 227,
    "why": "closing paragraph of 概述, not a heading"
   }
+ ],
+ "breaks": [
+  {
+   "before": 227,
+   "closes": 225,
+   "why": "round 5: closing paragraph about all of （一）–（八） (得益于上述各项工作); belongs to 一、概述"
+  }
  ]
 }

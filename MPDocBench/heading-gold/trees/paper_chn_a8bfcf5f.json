@@ -112,5 +112,12 @@
    "why": "foreign article: references of another article on p3"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 83,
+   "closes": 49,
+   "why": "round 5: the resumed conclusion (上接第26页) ends; the editor credit follows, not about 结语 (belongs to the paper)"
+  }
+ ]
 }

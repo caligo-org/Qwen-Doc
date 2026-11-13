@@ -4,12 +4,22 @@
  "nodes": [
   {
    "boxes": [
-    3
+    3,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "EM9161 嵌入式主板数据手册",
-   "why": "title: product model + document type (数据手册) in one cover band"
+   "text": "Emtronix EM9161 嵌入式主板数据手册",
+   "why": "title: product model + document type (数据手册) in one cover band Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (Emtronix) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "EM9161主要特点：",
+   "why": "round 5: restored, a break now closes it before the manual-scope / contact paragraphs (#21). Own-line label 'EM9161主要特点：' with its own ● feature list (#9-#20), one level below the L1 it sits in (front matter has no other heading)."
   },
   {
    "boxes": [
@@ -236,10 +246,6 @@
  "not_headings": [],
  "considered": [
   {
-   "box": 1,
-   "why": "company logo on the cover: text"
-  },
-  {
    "box": 134,
    "why": "table lead-in sentence"
   },
@@ -258,10 +264,13 @@
   {
    "box": 116,
    "why": "figure caption"
-  },
+  }
+ ],
+ "breaks": [
   {
-   "box": 8,
-   "why": "breadcrumb review r2: containment fails: after its bullets the manual-scope, website and contact paragraphs (#21-#29) are not features, and no heading closes the label before 目录; printed in body style, so the label is a list lead-in (text). Resolves the round-1 OPEN"
+   "before": 21,
+   "closes": 8,
+   "why": "the feature list ends; the manual-scope, website and contact paragraphs (#21-#29) are about the manual, not the features"
   }
  ]
 }

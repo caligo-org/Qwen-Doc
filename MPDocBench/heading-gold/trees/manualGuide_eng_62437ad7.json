@@ -357,5 +357,22 @@
    "why": "callout: NOTICE band"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 204,
+   "closes": 200,
+   "why": "the Receive PGN table ends; 'This data applies only to NMEA 2000-compatible products.' is about all three PGN label tables (belongs to NMEA 2000 PGN Information)"
+  },
+  {
+   "before": 211,
+   "closes": 208,
+   "why": "the NMEA 0183 Receive table ends; the paragraph on purchasing full NMEA format information is about the whole NMEA 0183 section, not the Receive label"
+  },
+  {
+   "before": 220,
+   "closes": 212,
+   "why": "the substance declaration ends; the copyright and trademark notices are about the whole document"
+  }
+ ]
 }

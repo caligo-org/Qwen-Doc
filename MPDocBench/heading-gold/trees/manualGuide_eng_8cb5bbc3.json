@@ -141,5 +141,17 @@
    "box": 12,
    "why": "form field Item No.: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 11,
+   "why": "the short-form specification text ends; the APPROVAL: sign-off field at the foot of the panel is a form field of the whole sheet"
+  },
+  {
+   "before": 49,
+   "closes": 41,
+   "why": "the page-1 accessories list ends; the front/top/side dimension drawing at the top of page 2 is about the oven, not accessories (no heading printed above it)"
+  }
  ]
 }

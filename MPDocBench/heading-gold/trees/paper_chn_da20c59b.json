@@ -169,5 +169,17 @@
    "box": 109,
    "why": "run-in numbered subsection 3.1.3 starting a paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 139,
+   "closes": 126,
+   "why": "round 5: after 3.2's block, \"对黄河流域年、四季平均气温、潜在蒸散量变化趋势的分析表明...\" sums up all of 3 (the 3.1 trend findings) and leads into 3.3; it is not about 3.2 潜在蒸散量与降水的关系"
+  },
+  {
+   "before": 219,
+   "closes": 164,
+   "why": "round 5: the reference list ends; the English title/abstract block (repeat of L1) follows, not references (belongs to the paper)"
+  }
  ]
 }

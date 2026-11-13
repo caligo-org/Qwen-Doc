@@ -288,5 +288,12 @@
    "box": 99,
    "why": "lead-in sentence introducing the tips: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 93,
+   "closes": 77,
+   "why": "round 5: the Dale Carnegie quote box (figure + quote + attribution) follows the end of the LISTEN UP story; filler box, not about the story"
+  }
  ]
 }

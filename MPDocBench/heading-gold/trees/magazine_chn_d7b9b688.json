@@ -100,5 +100,17 @@
    "box": 132,
    "why": "section tag 本刊视点 first printed on p9, after the opener of the same feature 长久的婚姻… (contents: 本刊视点 › 长久的婚姻 p8); the feature holds the L2 slot (magazine rule)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 16,
+   "why": "contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)"
+  },
+  {
+   "before": 118,
+   "closes": 48,
+   "why": "story ends (editor credit); QR pointer box \"扫我，看更多劲爆故事\" follows, not about this story"
+  }
  ]
 }

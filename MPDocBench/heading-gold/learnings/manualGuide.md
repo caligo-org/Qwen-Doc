@@ -179,3 +179,29 @@ OPEN: eng_a3556095 #16 / #40: the untitled per-language LED-status notes + table
 Checked and kept: eng_3135929d the refill-angle paragraph #33 precedes its headline #34 in reading order (column
   layout); eng_e19dcc01 #57 "Informations sur la batterie" repeated under "Mise en place de piles AA" (printed there,
   bold italic, with its warning bands).
+
+## Round 5 (breaks)
+28 docs, every page rendered with `show.py --tree` and viewed (review/breaks/manualGuide.tsv); reading order for breaks
+is page + box id (as check.py uses). 19 breaks in 11 docs, 2 nodes restored, 17 docs with neither; check.py clean.
+- Closing paragraph about a whole label list (4): chn_5b94cfef #172 「这样就完成了安装向导。」 after the six wizard steps;
+  chn_894ac6ec #84 (operators must read this manual) after 八、注意事项 1-11; eng_62437ad7 #204 (applies to all NMEA 2000
+  PGN tables) and #211 (NMEA 0183 format info) after the last Receive table.
+- Notices / imprints / colophons after a section's block (8): chn_9818e751 #7 document number below the 声明 box;
+  chn_bf4b003e #11 spec note + copyright below the warning-label figure; chn_5b94cfef #20 national-standard box after the
+  safety warning box; eng_62437ad7 #220 copyright/trademarks after 物質宣言; eng_6202ad06 #169 CONTACT US box after care
+  text; eng_a3556095 #82 company address after registration; eng_8cb5bbc3 #16 APPROVAL form field; eng_8d2c3220 #24
+  customer note box after the EC declaration box.
+- Run-in sibling (1): chn_9818e751 #162 防潜回： closes #159 (see Restored).
+- Untitled content of another panel (5): eng_a3556095 #23 / #47 LED-status notes + tables below each Declaration of
+  Conformity panel (resolves the round-4 OPEN); eng_8cb5bbc3 #49 dimension drawing at the top of p2 (was under page-1
+  Optional Accessories); eng_3135929d #20 refill step panels after the affordability column (their box heading #11
+  comes first in reading order, so they fall back to L1) and #33 refill-angle paragraph before its headline #34.
+- Restored (2): chn_57d8d5ed #8 「EM9161主要特点：」 L2 (round-2 containment text) with a break before #21 (scope /
+  contact paragraphs); chn_9818e751 #159 「通行级别选项：」 L5 under 3.4.3 (round-1 OPEN): own-line label with its own
+  bullets; a break before its run-in sibling 防潜回： (#162) closes it (NOTATIONS run-in exception, updated during this pass),
+  so the 防潜回 block sits under 3.4.3.
+- Not restored: chn_5b94cfef #41 目录 stays text: its why is breadcrumb (as L3 under 使用必读 the path is no breadcrumb),
+  and as L2 a break would force 附件/关于本手册 to change level.
+- Kept without a break: margin icons before a heading (eng_714e4656 #46/#77/#90), footnotes and footers, figures
+  referenced from another section (eng_6202ad06 Fig. 6/7 under Designer Shake Style Examples).
+OPEN: none.

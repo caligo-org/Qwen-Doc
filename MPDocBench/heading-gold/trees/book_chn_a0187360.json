@@ -284,5 +284,12 @@
  ],
  "repeats": [],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 9,
+   "closes": 7,
+   "why": "the 目录 list ends; the author biography and the 重要说明 note that follow are not about the contents"
+  }
+ ]
 }

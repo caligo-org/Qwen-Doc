@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    4
+    4,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "宏观周报：美联储放鸽，9月结束缩表",
-   "why": "title: report headline (report type + topic in one line)"
+   "text": "东海证券 宏观周报：美联储放鸽，9月结束缩表",
+   "why": "title: report headline (report type + topic in one line) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (东海证券) joins the union after the title box."
   },
   {
    "boxes": [

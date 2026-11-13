@@ -22,6 +22,15 @@
   },
   {
    "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "二、未出席董事情况",
+   "why": "round 5: restored, a break now closes it before 三、 (was text only because the one-sentence items 三、/四、 would sit under it); numbered 重要提示 item printed on its own line with its own table"
+  },
+  {
+   "boxes": [
     13
    ],
    "level": 3,
@@ -552,10 +561,13 @@
   {
    "box": 135,
    "why": "label with answer 无 (substance)"
-  },
+  }
+ ],
+ "breaks": [
   {
-   "box": 9,
-   "why": "Round 2: 二、未出席董事情况 + its small table is one of the 重要提示 items 一、–四、; as a heading it fails containment (the one-sentence items 三、 and 四、 that follow are not about absent directors and would sit in its subtree), so it is text like the other items 一、–四、 (was L3)"
+   "before": 11,
+   "closes": 9,
+   "why": "round 5: the one-sentence items 三、/四、 after the absent-director table are not about 二、未出席董事情况; they belong to 重要提示"
   }
  ]
 }

@@ -1,0 +1,59 @@
+doc	kind	box	closes	page	note
+textBook_chn_028c0453	BREAK	45	36	7	目录 ends; chapter-opening picture above the chapter-1 title is not contents (pages 1-7 viewed; preface letter is untitled under L1)
+textBook_chn_0505fdad	NONE				pages 1-9 viewed with the tree: colophon under L1; 前言, 目录 end at the next L2; teacher-book part labels each run to the next label; 教学评价 box ends the excerpt; nothing to close
+textBook_chn_06561845	NONE				pages 1-5 viewed with the tree: cover, title page, CIP colophon under L1; 致同学 letter fills p4; p5 blank; nothing to close
+textBook_chn_12b0d2b4	RESTORED	92		10	练习 L4 under 4.1 (own exercise list); break before 例3 closes it
+textBook_chn_12b0d2b4	BREAK	103	92	10	练习 box ends; 例3 resumes the 4.1 main text
+textBook_chn_1f0d94bf	RESTORED	40		8	探究与分享 L6 under 近代中国的基本国情和主要矛盾; break before #43 closes it
+textBook_chn_1f0d94bf	RESTORED	50		9	名词点击 L6 under 近代中国的基本国情和主要矛盾; break before #54 closes it
+textBook_chn_1f0d94bf	RESTORED	61		10	探究与分享 L6 under 各种政治力量解决中国问题的方案; break before #64 closes it
+textBook_chn_1f0d94bf	RESTORED	93		12	探究与分享 L6 under 没有共产党就没有新中国; break before #99 closes it
+textBook_chn_1f0d94bf	RESTORED	105		13	探究与分享 L6 under 没有共产党就没有新中国; break before #112 closes it
+textBook_chn_1f0d94bf	BREAK	43	40	8	探究与分享 box ends; main text of 近代中国的基本国情和主要矛盾 resumes
+textBook_chn_1f0d94bf	BREAK	54	50	9	名词点击 box ends; main text resumes
+textBook_chn_1f0d94bf	BREAK	64	61	10	探究与分享 box ends; main text of 各种政治力量解决中国问题的方案 resumes
+textBook_chn_1f0d94bf	BREAK	99	93	12	探究与分享 box ends; main text of 没有共产党就没有新中国 resumes
+textBook_chn_1f0d94bf	BREAK	112	105	13	探究与分享 box ends; main text of 没有共产党就没有新中国 resumes
+textBook_chn_27d8ad59	NONE				pages 1-8 viewed with the tree: back-cover work and colophon precede 写给亲爱的同学们; 目录 ends at 第1课; lesson pages and labelled boxes (学习建议, 生活中的设计, 走进博物馆 frame p6-7, 儿童美术馆, 访问艺术家) each end at the next heading; nothing to close
+textBook_chn_47c3d791	NONE				p1-7 checked: cover/front matter end at 编者的话/目录/第1课; 问题导入 #28 kept text (block is a one-paragraph question prompt = callout); no untitled content off-topic
+textBook_chn_6bc808b4	NONE				pages 1-7 viewed with the tree: colophon under L1; 本册导引, 目录 end at the next L2; 思考/探究 one-line callouts are text inside 6.1; nothing to close
+textBook_chn_6c84840b	NONE				pages 1-7 viewed with the tree: colophon under L1; 目录 ends at 第一章; chapter opener questions and the section text run to the next heading; nothing to close
+textBook_chn_766e2ab6	NONE				pages 1-6 viewed with the tree: colophon under L1; 目录 ends at the unit; lesson 1 activity 探究土壤的成分 runs to the excerpt end (notes and safety tips belong to it); nothing to close
+textBook_chn_83116662	BREAK	32	28	7	目录 ends; untitled full-page picture (left half of the chapter-1 opener spread) follows
+textBook_chn_87e64920	RESTORED	36		8	相关史事 L5 under 我国境内的早期人类 (own material paragraph); break before #38 closes it
+textBook_chn_87e64920	BREAK	38	36	8	相关史事 box ends; 问题思考 prompt and site map belong to the section
+textBook_chn_8b86cd5f	NONE				pages 1-8 viewed with the tree: colophon under L1; 目录 ends at the unit; 运用你的经验 box ends at the 目 heading; 阅读感悟 box ends the excerpt; nothing to close
+textBook_chn_912349ba	RESTORED	40		8	任务一 L4 under 活动任务单 (own-line marker opening a task unit; user decision); run-in name stays in the paragraph; no break: next task / excerpt end closes it (pages 1-8 viewed)
+textBook_chn_912349ba	RESTORED	42		8	任务二 L4 under 活动任务单 (own-line marker opening a task unit; user decision); run-in name stays in the paragraph; no break: next task / excerpt end closes it (pages 1-8 viewed)
+textBook_chn_912349ba	RESTORED	44		8	任务三 L4 under 活动任务单 (own-line marker opening a task unit; user decision); run-in name stays in the paragraph; no break: next task / excerpt end closes it (pages 1-8 viewed)
+textBook_chn_b3181880	BREAK	36	32	4	内容提要 ends; CIP block and colophon follow on the copyright page (pages 1-6 viewed)
+textBook_chn_bd56ef2c	RESTORED	67		8	问题导引 L4 under 主题1 (panel over own question list); closed by sibling 学习目标
+textBook_chn_bd56ef2c	RESTORED	71		8	学习目标 L4 under 主题1 (panel over own objectives list); closed by sibling 核心术语
+textBook_chn_bd56ef2c	RESTORED	75		8	核心术语 L4 under 主题1 (panel over own term list); break before #79 closes it
+textBook_chn_bd56ef2c	RESTORED	80		8	“资源赌约”谁会赢 L4 under 主题1 (探究 box with story + questions); break before #89 closes it
+textBook_chn_bd56ef2c	BREAK	79	75	8	panel row ends; 探究 kind label of the next box is not about 核心术语
+textBook_chn_bd56ef2c	BREAK	89	80	9	探究 box ends; the topic's main text resumes under 主题1
+textBook_chn_d4a9cac4	BREAK	15	12	3	内容提要 ends; CIP block and colophon follow on the copyright page (pages 1-6 viewed)
+textBook_chn_d605335f	NONE				pages 1-4 viewed with the tree: cover, title page, colophon under L1; 编者的话 letter (signed 编者, date) ends the excerpt; nothing to close
+textBook_chn_df6c9bad	NONE				pages 1-3 viewed with the tree: cover with back cover, title page (repeat), editor box; only L1, nothing to close
+textBook_chn_fdc97197	RESTORED	85		10	分析 L6 under 中国人自己设计的第一条铁路——京张铁路 (task + table 表1-1); break before #89 closes it
+textBook_chn_fdc97197	BREAK	63	51	8	目录 ends; chapter-opening picture above the chapter-1 title is not contents (pages 1-11 viewed)
+textBook_chn_fdc97197	BREAK	89	85	10	分析 task ends; 思考 prompt about the new railway belongs to the case
+textBook_eng_0ee658d7	RESTORED	3		2	On the cover: L2 front matter (own paragraph); break before title page #5 closes it
+textBook_eng_0ee658d7	BREAK	5	3	3	cover note ends; title page and license page follow
+textBook_eng_215881e5	NONE				pages 1-9 viewed with the tree: front pages under L1; Contents, About this Book, Acknowledgements each end at the next L2; p9 acknowledgement notes (course note, NSF footnote) still belong to Acknowledgements
+textBook_eng_47833e8c	NONE				pages 1-4 viewed with the tree: cover, half-title and title page (repeats of L1), blank page; only L1, nothing to close
+textBook_eng_499f6e93	NONE				pages 1-5 viewed with the tree: cover, title page, copyright page sit under L1 before Contents; Contents ends the excerpt; nothing to close
+textBook_eng_5074afd3	NONE				pages 1-11 viewed with the tree: cover/title/license pages under L1; Contents ends at Preface; preface subsections and revision-history entries each run to the next heading or the excerpt end; nothing to close
+textBook_eng_6104753f	NONE				pages 1-8 viewed with the tree: cover/title/license pages under L1; Preface (signed), Acknowledgements, From the Student Authors (signed), Authors and Contributors each end at the next L2 or the excerpt end; nothing to close
+textBook_eng_6f1daec7	NONE				pages 1-9 viewed with the tree: cover/title/copyright under L1; THANKS, PREFACE (signed), Contents each end at the next L2 or the excerpt end; blank pages; nothing to close
+textBook_eng_7438dcd2	NONE				pages 1-4 viewed with the tree: cover, PDF note, copyright page; only L1, nothing to close
+textBook_eng_7ee5bbca	BREAK	15	10	3	license notice at the end of the Acknowledgements page is not an acknowledgement (pages 1-14 viewed)
+textBook_eng_81dcb97d	NONE				pages 1-5 viewed with the tree: cover, blanks, title page (repeat of L1); only L1, nothing to close
+textBook_eng_865c3034	NONE				pages 1-3 viewed with the tree: cover, title page (repeat), copyright/license page; only L1, nothing to close
+textBook_eng_9587c15d	BREAK	25	23	7	signature (Delft, April 2024 / author) signs the whole Preface, not Acknowledgements (pages 1-15 viewed)
+textBook_eng_99585330	NONE				pages 1-10 viewed with the tree: title/license pages under L1; Contents ends at chapter 1; every section and the two person subsections run to the next heading; nothing to close
+textBook_eng_a237ffc8	NONE				pages 1-13 viewed with the tree: cover under L1; preface sections and Other Boring Stuff subsections each run to the next heading; Contents ends at chapter 0; Definition/Example margin labels are run-in text; nothing to close
+textBook_eng_a5d8350e	BREAK	24	16	3	Cover figure note under the author photo is about the book cover, not About the Author (pages 1-4 viewed)
+textBook_eng_b6949668	NONE				pages 1-3 viewed with the tree: cover, blank, title page (repeat of L1); only L1, nothing to close
+textBook_eng_db8099b5	NONE				pages 1-9 viewed with the tree: repository cover sheets, title page and advisory list under L1 (cover-sheet labels are text for metadata, not containment); both prefaces end at the next L2 or the excerpt end; nothing to close

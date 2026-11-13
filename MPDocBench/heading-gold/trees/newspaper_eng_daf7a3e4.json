@@ -571,5 +571,42 @@
    "box": 767,
    "why": "pointer to an inside page (LivingArts B6)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 38,
+   "closes": 27,
+   "why": "round 5: the story ends (BIDEN, Page A8); the hydrangea photo teaser (BLOOMIN' GROUP ... B1) follows"
+  },
+  {
+   "before": 72,
+   "closes": 61,
+   "why": "round 5: the story ends (URGENT CARE, Page A12); the teaser column, weather box and barcode follow"
+  },
+  {
+   "before": 165,
+   "closes": 159,
+   "why": "round 5: the For the record box ends p2; a full-page display ad (Herb Chambers) fills p3"
+  },
+  {
+   "before": 255,
+   "closes": 232,
+   "why": "round 5: the briefs column ends p4; a full-page display ad (Mohegan Sun) fills p5"
+  },
+  {
+   "before": 327,
+   "closes": 311,
+   "why": "round 5: the story ends (WASHINGTON POST); the A Capitol Fourth display ad follows"
+  },
+  {
+   "before": 356,
+   "closes": 332,
+   "why": "round 5: the story ends on p6; a full-page display ad (Boston Pops / Herb Chambers) fills p7"
+  },
+  {
+   "before": 809,
+   "closes": 793,
+   "why": "round 5: the story ends (PIER, Page B5); a stand-alone photo brief (SAILORS AND SERENADES ... B3) follows"
+  }
  ]
 }

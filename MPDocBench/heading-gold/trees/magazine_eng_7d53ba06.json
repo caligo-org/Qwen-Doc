@@ -31,10 +31,20 @@
   },
   {
    "boxes": [
+    49
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Leading Off",
+   "continues": 16,
+   "why": "round 5: continuation of Leading Off (#16): the break before the p4 colophon closes the section opened by the contents page, so the Leading Off tag printed again on p4 reopens it (was a repeat of #16)"
+  },
+  {
+   "boxes": [
     50
    ],
    "level": 3,
-   "parent": 16,
+   "parent": 49,
    "text": "Numbers Game",
    "why": "story: column title Numbers Game, its feature below"
   },
@@ -151,7 +161,7 @@
     140
    ],
    "level": 3,
-   "parent": 16,
+   "parent": 49,
    "text": "From Phenom To The Farm",
    "why": "story: column title From Phenom To The Farm"
   },
@@ -169,7 +179,7 @@
     171
    ],
    "level": 3,
-   "parent": 16,
+   "parent": 49,
    "text": "Trap Toon",
    "why": "story: cartoon column title Trap Toon with its strip below (byline in the box is text)"
   }
@@ -186,15 +196,8 @@
    "boxes": [
     139
    ],
-   "of": 16,
-   "why": "repeat: section tag Leading Off on a later page of the same open section (#16)"
-  },
-  {
-   "boxes": [
-    49
-   ],
-   "of": 16,
-   "why": "repeat: section tag Leading Off on a later page of the Leading Off section opened on p3 (round 3: was a second L2 node)"
+   "of": 49,
+   "why": "repeat: section tag Leading Off on a later page of the same open section (#16) (round 5: now a repeat of the continuation node #49)"
   }
  ],
  "not_headings": [
@@ -207,6 +210,18 @@
   {
    "box": 18,
    "why": "TOC group label (NATIONAL LEAGUE TOP 10s) over contents entries: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 25,
+   "closes": 23,
+   "why": "ON THE COVER box ends; the ON DECK FOR JANUARY/FEBRUARY next-issue teaser follows, not about the cover"
+  },
+  {
+   "before": 27,
+   "closes": 16,
+   "why": "contents page (Leading Off opener) ends; the restated masthead and colophon on p4 follow, not about Leading Off"
   }
  ]
 }

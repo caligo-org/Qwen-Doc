@@ -193,5 +193,27 @@
    "box": 202,
    "why": "running head with the book title, which is printed nowhere else (no title node to repeat)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 7,
+   "closes": 3,
+   "why": "the Before Reading questions box ends; the story (illustration, then text) resumes under the story title"
+  },
+  {
+   "before": 34,
+   "closes": 30,
+   "why": "Before Reading box ends; the story resumes"
+  },
+  {
+   "before": 114,
+   "closes": 110,
+   "why": "Before Reading box ends; the story resumes"
+  },
+  {
+   "before": 172,
+   "closes": 168,
+   "why": "Before Reading box ends; the story text resumes"
+  }
  ]
 }

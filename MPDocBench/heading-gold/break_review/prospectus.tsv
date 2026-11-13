@@ -1,0 +1,38 @@
+doc	kind	box	closes	page	note
+prospectus_chn_15fc0f65	NONE				all pages viewed with show.py --tree; cover, 重要声明, 本次发行概况, 目录 to the end; TOC runs to the last page; no untitled content outside its heading
+prospectus_chn_212f97dc	NONE				all pages viewed with show.py --tree; cover, 发行人声明, 本次发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_chn_30f024e2	NONE				all pages viewed with show.py --tree; 重大事项提示 一、-三、 and （一）-（六）: each block ends at the next heading; 目录 last; no untitled content outside its heading
+prospectus_chn_4aa05674	BREAK	67	57	13	the note on rounding of figures in the whole prospectus (注：本招股说明书数值...) ends the 释义 chapter; it is not about 二、专业术语, so it belongs to 第一节 释义
+prospectus_chn_5a8c16de	NONE				all pages viewed with show.py --tree; cover, 发行人声明, 发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_chn_5da38fd1	BREAK	45	36	5	the chairman's signature (董事长签字) signs the whole 致投资者的声明 letter, not 四、/2、未来发展规划; it belongs to 致投资者的声明
+prospectus_chn_87fe5712	NONE				all pages viewed with show.py --tree; cover, 发行概况 table over p2-3, 发行人声明; no untitled content outside its heading
+prospectus_chn_9f9de8c8	NONE				all pages viewed with show.py --tree; cover, 声明, 概况, 目录 p4-7, 释义 一、一般释义 table; no untitled content outside its heading
+prospectus_chn_b3199fd6	NONE				all pages viewed with show.py --tree; cover, 发行人声明, 本次发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_chn_c52dcb3a	NONE				all pages viewed with show.py --tree; cover, 发行人声明, 本次发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_chn_cf5aeb95	BREAK	129	116	12	rule 4、 (one-line item, text by substance) is about the whole 股价稳定措施的具体实施方案, not about 3、公司非独立董事、高级管理人员增持公司股份; it belongs to （三）
+prospectus_chn_dac1e5e9	NONE				all pages viewed with show.py --tree; cover, 发行人声明, 本次发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_chn_fd769c1b	NONE				all pages viewed with show.py --tree; cover, 声明, 发行概况, 目录 to the end; no untitled content outside its heading
+prospectus_eng_01db2dde	RESTORED	29		4	Handling of data L3 under WARNING; was text by containment (round 4)
+prospectus_eng_01db2dde	BREAK	37	29	5	the KIID/subscription paragraphs #37-#38 are not about data handling; they belong to WARNING
+prospectus_eng_01db2dde	BREAK	43	41	6	paragraph on the sub-fund information sections (#43, p6-7) follows the contents list and is not a TOC entry; it belongs to the prospectus (L1)
+prospectus_eng_0ec528dd	NONE				all pages viewed with show.py --tree; cover, Contents p2-3 to the end; no untitled content outside its heading
+prospectus_eng_241e405e	RESTORED	40		4	Board of Directors' Powers L3 under IMPORTANT INFORMATION; was text by containment (round 4)
+prospectus_eng_241e405e	BREAK	47	40	4	the share offer, Fund segregation, price suspension, translation and availability notices #47-#51 are not about the board's powers; they belong to IMPORTANT INFORMATION
+prospectus_eng_29c1e521	NONE				all pages viewed with show.py --tree; cover, Important information, Glossary table p3-4, TABLE OF CONTENTS; no untitled content outside its heading
+prospectus_eng_36d76993	NONE				all pages viewed with show.py --tree; Important information, Glossary p3-5, TOC, I. The Fund, 2.1 parties table with footnotes p8-9; no untitled content outside its heading
+prospectus_eng_4da61756	NONE				all pages viewed with show.py --tree; every Investment Policy / Risk Warning label block ends at the next label or chapter; Leverage table, PA/IA tables, directory labels to the end; no untitled content outside its heading
+prospectus_eng_51f57153	BREAK	104	102	7	closing paragraph about the investment policy of all sub-funds after the label list Man / Man AHL / GLG Sub-Funds:; it belongs to The Fund (resolves the round 4 (was OPEN))
+prospectus_eng_60d1e00b	NONE				all pages viewed with show.py --tree; chapter 1 notices, unit-class table with footnotes p4-7, chapter 4 general subheads and fund groups p8-10; no untitled content outside its heading
+prospectus_eng_613dbac9	RESTORED	14		2	United States L3 under NOTE TO THE READERS; was text by containment (round 4)
+prospectus_eng_613dbac9	RESTORED	22		3	Data Protection L3 under NOTE TO THE READERS; was text by containment (round 4)
+prospectus_eng_613dbac9	BREAK	29	22	4	the business-day definition #29 and the Directors' responsibility statement #30 are not about data protection; they belong to NOTE TO THE READERS
+prospectus_eng_bab1780c	RESTORED	22		5	Overview of Subfunds: ... L3 under 1. INTRODUCTION; table title with the overview table as its block, like 4da61756 #128/#130; was text by containment
+prospectus_eng_bab1780c	BREAK	27	22	6	the introduction text resumes after the overview table (#27-#49); it belongs to 1. INTRODUCTION
+prospectus_eng_cc0c7019	NONE				all pages viewed with show.py --tree; INTRODUCTION with lead-in list, REQUEST INFORMATION, NB, CONTACTS directory, LEGAL STRUCTURE p8-9; no untitled content outside its heading
+prospectus_eng_cd9d4d87	NONE				all pages viewed with show.py --tree; CONTENTS, INTRODUCTION, DEFINITIONS table, 1.1 Structure; no untitled content outside its heading
+prospectus_eng_d2e37b2e	RESTORED	115		11	QUEST MANAGEMENT – QUEST CLEANTECH FUND L3 under INVESTMENT OBJECTIVE AND POLICY; was text by containment (round 1)
+prospectus_eng_d2e37b2e	RESTORED	119		11	Renewable Energy L4 (label + bullet list); was text by containment
+prospectus_eng_d2e37b2e	RESTORED	127		12	Energy Efficiency L4 (label + bullet list); was text by containment
+prospectus_eng_d2e37b2e	RESTORED	133		12	Resource Efficiency L4 (label + bullet list); was text by containment
+prospectus_eng_d2e37b2e	BREAK	139	133	12	the paragraphs after the category list (#139-#147: growth thesis, selection, diversification, limits, investor profile) are about the whole sub-fund, not Resource Efficiency; they belong to QUEST MANAGEMENT - QUEST CLEANTECH FUND
+prospectus_eng_edf49303	BREAK	26	23	3	paragraph on Luxembourg regulation and HSBC as BHCA holding company introduces the Bank Holding Company Act section and is not about Hong Kong; it belongs to IMPORTANT INFORMATION (resolves the round 4 (was OPEN))

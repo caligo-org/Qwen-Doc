@@ -82,5 +82,17 @@
    "box": 16,
    "why": "cable page id line: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 25,
+   "closes": 21,
+   "why": "round 5: paragraph 11 (POC and list of scanned documents) follows the joint statement paragraphs; it is about the cable, not the statement"
+  },
+  {
+   "before": 31,
+   "closes": 26,
+   "why": "round 5: the sender's signature closes the cable; it signs the whole cable, not this section"
+  }
  ]
 }

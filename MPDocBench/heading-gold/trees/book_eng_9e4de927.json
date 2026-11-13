@@ -66,5 +66,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 12,
+   "why": "untitled epigraph page follows the Table of Contents list; not about the contents"
+  }
+ ]
 }

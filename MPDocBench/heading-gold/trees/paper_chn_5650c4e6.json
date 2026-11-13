@@ -239,5 +239,12 @@
    "box": 86,
    "why": "run-in item 2) starting a paragraph under 3.1: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 186,
+   "closes": 179,
+   "why": "round 5: 6 结论 jumps away (下转第51页); the tail and references of another article (#186-#200) follow, not about 结论. They are a block set inside this paper, whose own content continues after it (上接第30页, 参考文献 #202), so L1 stays open"
+  }
  ]
 }

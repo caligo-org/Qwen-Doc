@@ -66,5 +66,12 @@
    "why": "author name on the cover: byline, text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 16,
+   "why": "the note 'Cover figure: Hölder's Inequality...' at the foot of the About the Author page describes the cover, not the author"
+  }
+ ]
 }

@@ -137,5 +137,22 @@
    "why": "sign-off of the editor's letter (no block below)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 59,
+   "closes": 44,
+   "why": "editor's letter ends (sign-off); reader-contact and social-media box follows"
+  },
+  {
+   "before": 82,
+   "closes": 78,
+   "why": "Outdoor living group ends; FREE 190 BULBS teaser follows (contents-page teaser, not about Outdoor living)"
+  },
+  {
+   "before": 106,
+   "closes": 63,
+   "why": "contents groups end; SUBSCRIBE TODAY teaser follows (not contents)"
+  }
+ ]
 }

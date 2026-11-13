@@ -614,5 +614,52 @@
    "box": 24,
    "why": "deck below headline"
   }
+ ],
+ "breaks": [
+  {
+   "before": 68,
+   "closes": 55,
+   "why": "round 5: the story ends (with its chart); the 导读 index box (teasers with page pointers) follows"
+  },
+  {
+   "before": 119,
+   "closes": 112,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (red leaves, Hangzhou) follows"
+  },
+  {
+   "before": 215,
+   "closes": 203,
+   "why": "round 5: the story ends; the page colophon (editor credits) follows"
+  },
+  {
+   "before": 284,
+   "closes": 275,
+   "why": "round 5: the commentary ends; a QR pointer box (视频报道请扫二维码) follows"
+  },
+  {
+   "before": 301,
+   "closes": 286,
+   "why": "round 5: the story ends; the page colophon (本版编辑) follows"
+  },
+  {
+   "before": 355,
+   "closes": 344,
+   "why": "round 5: the commentary ends; the page colophon (本版编辑, 来稿邮箱) follows"
+  },
+  {
+   "before": 439,
+   "closes": 428,
+   "why": "round 5: the story ends; the page colophon (本版编辑) follows"
+  },
+  {
+   "before": 502,
+   "closes": 471,
+   "why": "round 5: the 天津航空 story ends; the photo of the next story (青岛榕信, printed above its headline) follows"
+  },
+  {
+   "before": 517,
+   "closes": 504,
+   "why": "round 5: the story ends; the page colophon (本版编辑) follows, then a stand-alone news photo"
+  }
  ]
 }

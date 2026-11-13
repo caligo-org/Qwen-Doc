@@ -2,6 +2,9 @@
   {"boxes": [39, 40], "level": 3, "parent": "root" | <node id>, "text": "...", "why": "...", "continues": <node id>?}
   node id = boxes[0]. repeats: [{"boxes": [..], "of": <node id>, "why": ...}]. not_headings: [{"box": id, "why": ...}].
   considered (optional): [{"box": id, "why": ...}]  heading-looking lines that are text (not gold titles).
+  breaks (optional): [{"before": box id, "closes": <node id>, "why": ...}]  the section of node `closes` (and every
+  section open inside it) ends right before box `before`; the content from there to the next heading belongs to the
+  parent of `closes`. Breaks change only where content sits, never the heading tree.
 read() also accepts the v2 schema (anno + merge, repeats {anno, of}, not_headings {anno, note}) and returns v3."""
 import os, json
 from common import TREES
@@ -16,4 +19,5 @@ def upgrade(t):
     reps=[{'boxes':[x['anno']],'of':x['of'],'why':x.get('why','')} for x in t.get('repeats',[])]
     nh=[{'box':x['anno'],'why':x.get('why') or x.get('note','')} for x in t.get('not_headings',[])]
     return {'doc':t['doc'],'schema':3,'nodes':nodes,'repeats':reps,'not_headings':nh,'considered':t.get('considered',[])}
-def read(doc, tdir=TREES): return upgrade(json.load(open(os.path.join(tdir,doc+'.json'))))
+def read(doc, tdir=TREES):
+    t=upgrade(json.load(open(os.path.join(tdir,doc+'.json')))); t.setdefault('breaks',[]); t.setdefault('considered',[]); return t

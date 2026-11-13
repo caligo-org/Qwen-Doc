@@ -157,5 +157,12 @@
    "box": 36,
    "why": "lead-in 对于化学反应："
   }
+ ],
+ "breaks": [
+  {
+   "before": 49,
+   "closes": 44,
+   "why": "round 5: the Gibbs equation ΔG=ΔH-TΔS and the turning temperature T转 resume 3.4's main text after the 判据 label's block (ΔG<0/>0/=0)"
+  }
  ]
 }

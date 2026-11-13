@@ -22,6 +22,24 @@
   },
   {
    "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "a - 1st method",
+   "why": "round 5: restored, a break now closes it before the run-in part b (#36); own-line italic method label with its own derivation block, one level below the solution title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "2nd method",
+   "why": "round 5: restored, a break now closes it before the run-in part b (#36); same italic look as #13, own line with its own derivation block"
+  },
+  {
+   "boxes": [
     45
    ],
    "level": 2,
@@ -34,16 +52,15 @@
  "not_headings": [],
  "considered": [
   {
-   "box": 13,
-   "why": "a - 1st method: italic part/method label; text because part b is run-in, so a method heading would wrongly contain part b (containment)"
-  },
-  {
-   "box": 28,
-   "why": "2nd method: method label, would contain run-in part b (containment): text"
-  },
-  {
    "box": 36,
    "why": "b - run-in part label: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 36,
+   "closes": 28,
+   "why": "the 2nd method's block ends; the run-in part b (#36 on) is not about the method labels of part a and belongs to Solution of question 3."
   }
  ]
 }

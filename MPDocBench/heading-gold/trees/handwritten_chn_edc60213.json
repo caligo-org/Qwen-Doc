@@ -64,5 +64,17 @@
    "box": 1,
    "why": "notebook Date/No. header"
   }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 11,
+   "why": "round 5: top of the next photo (…违背了互异性，因此不能构成集合) continues an element-property example from another notebook page; topic 4's example already ended with 请体会…双向过程"
+  },
+  {
+   "before": 34,
+   "closes": 30,
+   "why": "round 5: subset-count and empty-set facts at the top of notebook page 3 are not about 等价转化思想; they follow topic 3 only because the photos are out of order"
+  }
  ]
 }

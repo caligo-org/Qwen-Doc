@@ -170,5 +170,17 @@
    "box": 57,
    "why": "office address block"
   }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 7,
+   "why": "round 5: host/contact box (主持人, 电话, 传真) after the overview boxes is not about 概览"
+  },
+  {
+   "before": 57,
+   "closes": 48,
+   "why": "round 5: office address block (colophon) after the disclaimer text is not about 免责声明"
+  }
  ]
 }

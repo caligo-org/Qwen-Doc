@@ -91,3 +91,20 @@ above the title = considered) confirmed on the pages.
   joined without spaces), d603bfdc #4 "中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月",
   dd929555 #1 "深圳市卫光生物制品股份有限公司 审计报告". Boxes, levels and parents unchanged.
 - OPEN: none.
+
+## Round 5 (breaks)
+Docs 15, pages 117: every page dumped with the tree in reading order, and every page rendered with `show.py --tree` (4 per image) and viewed; each break confirmed on its page. 12 breaks, 1
+node restored, 0 OPEN. `check.py` clean on all 15.
+- Contents ends, auditor letter follows (4): when 目录 is an L2 node and the letter's restated 审计报告 is a repeat of
+  L1 (no heading of its own), the report number and addressee line would sit under 目录. Break before the restated
+  title closes 目录 (58dd29fc #14, 87bc5908 #16, ad31878f #11, d65056e3 #17). Where the letter's 审计报告 is itself
+  an L2 node (07ebf5d6, 4b6d76a1) it closes 目录 already: no break.
+- Auditor signature block (7): firm name, seal, signing CPAs and date (and "（以下无正文）" / the 本页无正文…签字盖章页
+  note) sign the whole letter, not its last section 六、注册会计师对财务报表审计的责任. Break before its first box
+  closes 六、 (07ebf5d6 #107, 486c6f77 #82, 4b6d76a1 #98, 58dd29fc #89, 87bc5908 #127, d65056e3 #90, dd929555 #112);
+  the block falls to 审计报告 (L2) or to the owner ∪ 审计报告 L1.
+- Statement sign-off lines (法定代表人 / 主管会计工作负责人 / 会计机构负责人) and "（后附财务报表附注…）" are part of
+  the statement above: no break. Half-year 一、审计报告 blocks (是否经过审计 …) are about their heading.
+- RESTORED d1c80a8f #5 我們的宗旨 L2 (round 2 had made it text on containment + substance): own line, own block
+  (slogan #6/#7 + mission statement #8, a separate multi-line block about the purpose, not a caption or one line).
+  Break before the untitled TOC #9 closes it. #6 slogan stays text (callout).

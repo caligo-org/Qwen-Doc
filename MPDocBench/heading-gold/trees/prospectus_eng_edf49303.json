@@ -101,5 +101,12 @@
    "box": 2,
    "why": "legal form line on the cover: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 23,
+   "why": "round 5: paragraph on Luxembourg regulation and HSBC as BHCA holding company introduces the Bank Holding Company Act section and is not about Hong Kong; it belongs to IMPORTANT INFORMATION (resolves the round 4 OPEN)"
+  }
  ]
 }

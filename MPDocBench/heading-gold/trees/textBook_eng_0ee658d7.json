@@ -10,6 +10,15 @@
    "parent": "root",
    "text": "TRIGONOMETRY",
    "why": "title: book title on the cover spine band (OCR casing fixed)"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "On the cover:",
+   "why": "round 5: restored, a break now closes it before the title page (#5); own-line front-matter label over its own paragraph about the cover image (#4): L2 by the v3 label rule"
   }
  ],
  "repeats": [
@@ -33,11 +42,14 @@
   {
    "box": 18,
    "why": "license lead-in sentence introducing a bullet list (\"You are free:\"): lead-in, text"
-  },
-  {
-   "box": 3,
-   "why": "On the cover:: was L2 heading; round 3 breadcrumb review, containment: the title-page repeat, author, date and the whole license page p4 follow with no later heading and would fall under On the cover: (resolves round-1 OPEN) -> text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 5,
+   "closes": 3,
+   "why": "the cover note ends with its page; the title page (repeat of L1, author, date) and the license page are not about the cover"
+  }
+ ]
 }

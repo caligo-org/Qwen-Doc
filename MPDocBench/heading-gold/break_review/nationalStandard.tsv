@@ -1,0 +1,18 @@
+doc	kind	box	closes	page	note
+nationalStandard_chn_00457a35	NONE				all pages rendered with show.py --tree and viewed as images; p1-6 viewed: clauses 1-8 with titled subclauses; untitled requirement clauses (6.1/6.2, 7.4.1/7.4.2, 8.1.1/8.1.2) and tables 1-2 sit under the clause they belong to; no untitled content off-topic for its heading
+nationalStandard_chn_040d3ee5	NONE				all pages rendered with show.py --tree and viewed as images; p1-7 viewed: tables 1-3 and untitled 6.x/7.4.x/7.5.x/8.2.x/8.3.x requirement sentences all about their open clause; doc ends in 8.3
+nationalStandard_chn_1a47ad75	NONE				all pages rendered with show.py --tree and viewed as images; excerpt p1-4 viewed: cover, 目次 (TOC p2-3), 前言; nothing after a block that is off-topic
+nationalStandard_chn_2bed867d	NONE				all pages rendered with show.py --tree and viewed as images; excerpt p1,3 viewed: cover and 目次 only
+nationalStandard_chn_2cbf14a0	NONE				all pages rendered with show.py --tree and viewed as images; p1-9 viewed: 目次, 前言 (change list continues p6), 引言, clause 1-2; each block about its heading
+nationalStandard_chn_4234f2c5	NONE				all pages rendered with show.py --tree and viewed as images; p1-6 viewed: term entry, 4.1/4.2 with table 1, 5.1; no off-topic untitled content
+nationalStandard_chn_5ad1e78c	NONE				all pages rendered with show.py --tree and viewed as images; p1-16 viewed: 目次 p3-4, 73 nodes to 4.5.3; untitled 4.3.11.x/4.5.1.x sentences, notes, exemption lists, table 1 all about their open clause
+nationalStandard_chn_65073101	NONE				all pages rendered with show.py --tree and viewed as images; excerpt p1-6 viewed: 目次 p3, 前言 change list p5-6
+nationalStandard_chn_689650a7	NONE				all pages rendered with show.py --tree and viewed as images; excerpt p1-5 viewed: cover, 目次, 前言
+nationalStandard_chn_6e5f6a70	NONE				all pages rendered with show.py --tree and viewed as images; cover-only p1 viewed: L1 only
+nationalStandard_chn_733bf6f5	NONE				all pages rendered with show.py --tree and viewed as images; p1-8 viewed: tables 1-3 (+续, note) under 4.2/4.4; untitled 5.x/6.x sentences under 5/6; annex A to A.5
+nationalStandard_chn_7b396eb8	NONE				all pages rendered with show.py --tree and viewed as images; p1-13 viewed: figures 1-2 under 5.2.1, tables 1-4 and figures 3-4 under 5.3/6.3/7.1/9; annex A; nothing off-topic
+nationalStandard_chn_96c25428	NONE				all pages rendered with show.py --tree and viewed as images; p1-7 viewed: 目次 p2-4 (incl. figure/table lists), 前言, clauses 1-3 with term groups
+nationalStandard_chn_9fd6a86f	NONE				all pages rendered with show.py --tree and viewed as images; excerpt p1-5 viewed: cover, 目次, 前言
+nationalStandard_chn_cf448e58	NONE				all pages rendered with show.py --tree and viewed as images; p1-8 viewed: table 1 (p7) under 5.3, clause 6 subclauses; nothing off-topic
+nationalStandard_chn_e4f3909e	NONE				all pages rendered with show.py --tree and viewed as images; p1-6 viewed: 目次, 前言, 引言, clauses 1-3 term entries
+nationalStandard_chn_f3f3a014	NONE				all pages rendered with show.py --tree and viewed as images; p1-8 viewed (p2 blank): tables 1-2 under 4.1/4.2, 5.x, 参考文献 ends doc

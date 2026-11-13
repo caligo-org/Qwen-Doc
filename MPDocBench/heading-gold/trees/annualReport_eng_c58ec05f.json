@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    2
+    2,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "2024 ANNUAL REPORT",
-   "why": "title: document type on the cover; owner printed only as the logo (text)"
+   "text": "alstria 2024 ANNUAL REPORT",
+   "why": "title: document type on the cover; owner printed only as the logo (text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (alstria) joins the union after the title box."
   },
   {
    "boxes": [
@@ -417,10 +418,6 @@
  ],
  "not_headings": [],
  "considered": [
-  {
-   "box": 1,
-   "why": "logo"
-  },
   {
    "box": 3,
    "why": "cover subtitle (edition line)"

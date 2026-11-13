@@ -1,29 +1,62 @@
 {
  "doc": "examPaper_eng_6c2631df",
  "schema": 3,
- "nodes": [],
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Solution:",
+   "why": "round 5: restored, a break now closes it before the run-in Problem 2 statement (#36); own-line label with its own solution block; no document title printed, so a top-level section (as Solution in eng_2122d135)"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Numerical solution:",
+   "why": "round 5: restored, a break now closes it before the run-in Case 2 (#22); own-line label with its own equation block (#21), one level below Solution:"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Numerical results:",
+   "why": "round 5: restored, a break now closes Solution: (and it) before the run-in Problem 2 statement (#36); own-line label with its own equation block (#35), same look as #20"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Solution:",
+   "why": "round 5: restored with #1 (was text only by the same role as #1); own-line label of problem 2's solution, its block runs to the end of the pages"
+  }
+ ],
  "repeats": [],
  "not_headings": [],
  "considered": [
   {
-   "box": 1,
-   "why": "Solution: label; text because the next problem statement (Problem 2., run-in) would fall under it (containment)"
-  },
-  {
-   "box": 20,
-   "why": "Numerical solution: label inside the solution, text (would contain Case 2)"
-  },
-  {
-   "box": 34,
-   "why": "Numerical results: label; would contain the run-in Problem 2 statement (containment): text"
-  },
-  {
    "box": 36,
    "why": "Problem 2. bold run-in problem label: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 22,
+   "closes": 20,
+   "why": "the numerical solution of case 1 ends; the run-in Case 2 continues the solution, not the numerical-solution label"
   },
   {
-   "box": 40,
-   "why": "Solution: label of problem 2: text, same role as #1"
+   "before": 36,
+   "closes": 1,
+   "why": "problem 1's solution ends (with its numerical results); the run-in Problem 2 statement is not about that solution and belongs to the root"
   }
  ]
 }

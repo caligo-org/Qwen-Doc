@@ -233,5 +233,22 @@
    "why": "advertisement (pp. 2, 5, 7): product/brand headline"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 145,
+   "closes": 142,
+   "why": "features list ends; the tablet-editions subscriber promo follows (not a feature)"
+  },
+  {
+   "before": 155,
+   "closes": 148,
+   "why": "in-every-issue contents page ends; a full-page ad follows"
+  },
+  {
+   "before": 210,
+   "closes": 166,
+   "why": "Fine WoodWorking UNLIMITED page ends; a full-page ad follows"
+  }
+ ]
 }

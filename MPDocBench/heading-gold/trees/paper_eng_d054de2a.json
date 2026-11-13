@@ -194,5 +194,12 @@
    "box": 4,
    "why": "run-in \"Abstract:\" starting the abstract paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 72,
+   "closes": 63,
+   "why": "round 5: after the region-wise block (Table 2, Figure 2), Table 3 \"FDI equity Inflows in Aviation Sector\" follows; it is not about region-wise inflows (belongs to VII. DATA ANALYSIS)"
+  }
  ]
 }

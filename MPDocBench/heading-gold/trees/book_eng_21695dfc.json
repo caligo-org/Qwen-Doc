@@ -212,5 +212,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 18,
+   "closes": 16,
+   "why": "the framed '1956' sidebar ends; the pull quote and the main text of section 2 resume"
+  }
+ ]
 }

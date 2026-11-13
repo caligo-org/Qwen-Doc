@@ -403,5 +403,27 @@
    "box": 427,
    "why": "rubric inside the story text (NEWS ANALYSIS, POLITICAL NOTEBOOK)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 4,
+   "why": "round 5: the story ends (MASS SHOOTING, Page A7); the pull quote and photo of the next story (From fractured past, printed above its headline) follow"
+  },
+  {
+   "before": 32,
+   "closes": 20,
+   "why": "round 5: the story ends (SLAVERY, Page A7); the teaser column, the photo teaser (SHOOTING FOR MORE ... C1) and the weather box follow"
+  },
+  {
+   "before": 65,
+   "closes": 52,
+   "why": "round 5: the story and its photo end; the ELECTION 2024 teaser box (Bittersweet for Biden ... A4, The white pantsuit ... A4) follows"
+  },
+  {
+   "before": 608,
+   "closes": 564,
+   "why": "round 5: the jumped story ends; the colophon / subscription box (BOSTON GLOBE MEDIA, mail subscription rates) follows"
+  }
  ]
 }

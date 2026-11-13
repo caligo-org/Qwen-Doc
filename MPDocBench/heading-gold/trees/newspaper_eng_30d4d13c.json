@@ -126,5 +126,12 @@
    "box": 2,
    "why": "slogan above the masthead"
   }
+ ],
+ "breaks": [
+  {
+   "before": 43,
+   "closes": 32,
+   "why": "round 5: the story ends (Continued on page 2); the IN THE NEWS teaser box (every item ends in a page pointer) follows"
+  }
  ]
 }

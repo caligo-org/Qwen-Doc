@@ -212,5 +212,17 @@
    "box": 127,
    "why": "signature-page note, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 9,
+   "why": "Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents"
+  },
+  {
+   "before": 127,
+   "closes": 103,
+   "why": "the signature page (本页无正文…签字盖章页, firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
  ]
 }

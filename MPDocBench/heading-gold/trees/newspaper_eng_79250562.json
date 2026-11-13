@@ -70,5 +70,12 @@
    "box": 20,
    "why": "contents entries without a contents title"
   }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 21,
+   "why": "round 5: the product feature ends; the magazine colophon (EDITOR ... DEPUTY EDITOR ...) follows, then a full-page ad"
+  }
  ]
 }

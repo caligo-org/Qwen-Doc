@@ -194,3 +194,38 @@ OPEN (round 4):
   mixed box are nodes (label part only) so that they close the section above (containment). The substance rule says a
   bullet item with nothing below it is never a heading. Kept; which rule wins?
 - chn_e960c7b3: colon-ended key-point bullets kept as text lead-ins (carried over).
+
+## Round 5 (breaks, 2026-11-13)
+All 37 docs, every page rendered with `show.py --tree` and viewed (205 pages). 23 breaks in 17 docs, 2 nodes restored,
+20 docs with none (review/breaks/researchReport.tsv). check.py: no ERROR.
+
+Breaks by class:
+- Cover sidebar after the summary block (date/rating, analysts, chart, market data, related reports): break before its
+  first box, closing the summary title (chn_1fb28f59 #8, chn_4064c117 #10, chn_5f00096d #6, chn_7033db6d #5,
+  chn_d07a67be #6, chn_d0eac218 #4, chn_e960c7b3 #5) or the deepest open item. Only where the sidebar follows the whole
+  summary in reading order; where it is interleaved and the summary resumes after it, no break (OPEN below).
+- Risk line / investment-advice run-in after a label's block, not about the label: chn_25d1b14f (closes 受益标的组合),
+  chn_5463fcf3 (closes 本周行业观点), chn_5f00096d (closes 拥有一线蓝筹; the risk bullet stays in 报告摘要),
+  chn_a2f46550 (own-line 风险提示 + company table + sidebar close 财务预测与投资建议), chn_ae3bbb85 (投资建议 run-in closes
+  本周行业主要动态, back to 投资要点).
+- Office address / colophon boxes after the disclaimer text: chn_2161890a #57, chn_a2f46550 #90, chn_b857707d #54,
+  chn_e960c7b3 #48 (replaces the round-3 "colophons stay inside the last disclaimer section"); also the broker address
+  box under 产品提示 (chn_5463fcf3 #11) and the 晨会 host/contact box under 概览 (chn_2161890a #20).
+- Top of Mind covers: editor names/emails under WHAT'S INSIDE close it (eng_1588f970, eng_5b6f3871, eng_aaabf80f).
+- Contents ends and a note about the whole report follows: eng_b36642e7 redaction note closes Table of Contents
+  (in eng_39be8c41 the same note is a footer: no break).
+- Figure list ends and the unheaded body starts: chn_1fb28f59 #49 closes 图表目录.
+
+Restored (round-3 containment text, now closed by a break):
+- chn_1fb28f59 #8 投资要点 L2 (break before the cover sidebar #15) and #42 图表目录 L2 (break before the body #49).
+
+Kept without break:
+- Exhibits after the last section that illustrate earlier sections (chn_b857707d 图表1 under 风险提示) stay: exhibit,
+  not untitled foreign content.
+- Run-in 风险提示 lines inside a column piece (chn_1c78bccd) and summary bullets (chn_17cde74d, chn_641838eb) are about
+  their section.
+
+OPEN (round 5):
+- Interleaved foreign content: the section's own content resumes after it in reading order, so a break would move that
+  content out too. chn_17cde74d (related-reports tail #29 between 投资要点 bullets), eng_bcc8ee71 (analyst names
+  #12-#19 inside Where are we headed?), eng_b3735ab5 (crossword note #36 between Across clues). No break added.

@@ -99,5 +99,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 25,
+   "closes": 23,
+   "why": "place/date and author signature close the whole Preface, not its last subsection Acknowledgements"
+  }
+ ]
 }

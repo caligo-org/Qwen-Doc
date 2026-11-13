@@ -63,5 +63,12 @@
    "why": "cover author name (creator, not part of the title)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "title page (author, restated title, imprint) follows the 'Also by' series lists; closes the Also-by page"
+  }
+ ]
 }

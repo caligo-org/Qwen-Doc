@@ -778,5 +778,77 @@
    "box": 189,
    "why": "deck below a headline"
   }
+ ],
+ "breaks": [
+  {
+   "before": 13,
+   "closes": 6,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (Hefei-Wuhan railway) follows"
+  },
+  {
+   "before": 102,
+   "closes": 79,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (Liuzhou kumquat sorting) follows"
+  },
+  {
+   "before": 177,
+   "closes": 166,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (Tongren, Wu River) follows"
+  },
+  {
+   "before": 206,
+   "closes": 193,
+   "why": "round 5: the story ends; the page colophon (editor credits) follows"
+  },
+  {
+   "before": 269,
+   "closes": 260,
+   "why": "round 5: the segment ends; a stand-alone Games photo (artistic swimming) follows, not about the segment"
+  },
+  {
+   "before": 279,
+   "closes": 270,
+   "why": "round 5: the commentary ends; stand-alone Games photos with captions and the page colophon follow"
+  },
+  {
+   "before": 355,
+   "closes": 343,
+   "why": "round 5: the story ends; the page colophon (本版编辑, 来稿邮箱) follows"
+  },
+  {
+   "before": 403,
+   "closes": 375,
+   "why": "round 5: the story ends; the illustration of the next commentary (区域谈, printed above its headline) follows"
+  },
+  {
+   "before": 413,
+   "closes": 404,
+   "why": "round 5: the commentary ends; the page colophon (本版编辑) follows"
+  },
+  {
+   "before": 508,
+   "closes": 485,
+   "why": "round 5: the story ends; a stand-alone photo with its caption (Qianhai) follows"
+  },
+  {
+   "before": 520,
+   "closes": 511,
+   "why": "round 5: the commentary (with its columnist photo) ends; the page colophon (本版编辑) follows"
+  },
+  {
+   "before": 550,
+   "closes": 525,
+   "why": "round 5: the photo feature ends; the page colophon (本版编辑, 投稿网站) follows"
+  },
+  {
+   "before": 627,
+   "closes": 616,
+   "why": "round 5: the story ends; the page colophon (本版编辑) follows"
+  },
+  {
+   "before": 674,
+   "closes": 664,
+   "why": "round 5: the commentary ends; the page colophon (本版编辑) follows"
+  }
  ]
 }

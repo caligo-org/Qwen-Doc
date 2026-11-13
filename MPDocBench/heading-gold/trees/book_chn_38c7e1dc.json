@@ -636,5 +636,12 @@
    "box": 237,
    "why": "bracket callout label (【...】), text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 117,
+   "closes": 112,
+   "why": "the 【指导案例】 callout (guiding case on related-company personality confusion) follows the litigation-status list; it is about 二、法人人格否认 as a whole, not about （三）法人人格否认诉讼地位"
+  }
  ]
 }

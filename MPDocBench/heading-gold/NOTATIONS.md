@@ -23,25 +23,44 @@ Everything else is text, however big, bold or coloured it is printed.
   marker ("（一）", "3.1", "Part 2") is a union with the title it labels. A bare marker that opens a real unit with no
   printed title (chapters "1"…"8", "案例一：") is a heading on its own (user decision): "The Little Prince › 2" is a
   breadcrumb. It is text only when it opens no unit.
-- Containment closes subtrees: if content that is not about a heading would fall into its subtree (because no later
-  heading closes it), that heading is text, even if it is an own-line label with a block (the label rule applies only
-  when its block really ends before unrelated content).
-- Exception (user decision): own-line label headings stay headings when a later sibling of the same list is run in
-  (book_eng_dc66edfa "Star Topology:", "Bus Topology:"); the run-in sibling's content sits under the previous label.
+- Containment: content that is not about a heading must not sit in its subtree. Where no later heading closes the
+  section, a break closes it (see "Breaks"); the heading stays.
+- Own-line label headings stay headings when a later sibling of the same list is run in (user decision,
+  book_eng_dc66edfa "Star Topology:", "Bus Topology:"); a break before the run-in sibling closes the previous label,
+  so the run-in sibling's content sits under the list's parent.
 - Trailing untitled content (user decision 2026-11-13): a heading with a real block of its own stays a heading when
-  untitled content about something else follows its block and no printed heading closes it (Contents before an
-  untitled novel opening, References before author bios, a slide label before the next slide's figures, a story before
-  a teaser box or a full ad). That content sits under it: a small containment error. A heading whose only block is a
-  caption or one line is text. (Whether this also restores labels made text by containment in rounds 2-3 is open.)
+  untitled content about something else follows its block; a break closes it there (see "Breaks"). A heading whose
+  only block is a caption or one line is text.
 - Substance beats containment (user decision 2026-11-13): a one-line bullet with nothing below it is text, even when as
   a node it would close the section above it.
-- Exception (user decision): a numbered list of headings stays headings when a closing or summary paragraph follows
-  its last item with no heading in between. The paragraph sits under the last item: a small containment error is
-  better than dropping the list's headings.
+- A numbered or labelled list of headings followed by a closing or summary paragraph about the whole list: the list
+  stays headings and a break before the paragraph closes the last item (the paragraph belongs to the list's parent).
 - A restated title of the whole document inside it (e.g. 审计报告 restated above the auditor's letter of an
   "X 审计报告" bundle) is a repeat of L1, not a child of it: its sections become children of L1.
 - When the owner of the document is printed only in a box that also holds other fields (a cable header with the
   SUBJECT line, a 10-K cover field), the node uses that box and its text is only the heading part.
+
+## Breaks
+
+A **break** closes a heading's section where the page ends it without printing a new heading: the content after the
+break belongs to the parent of the closed heading (user decision 2026-11-13). In the tree: `breaks:
+[{"before": <first box after the break>, "closes": <node id>, "why"}]`. Closing a node also closes every section open
+inside it. A break changes only where content sits, never the heading tree or any path, and it is not used for
+scoring or training yet.
+
+- Put a break wherever untitled content that is not about the open heading follows that heading's block: a slide
+  label's block ends and the slide's figures follow; Contents or References ends and untitled pages follow; a story
+  ends and a teaser box, an ad or a colophon follows; a label list ends and a closing paragraph about the whole list
+  follows; an own-line label's block ends and the section's main text resumes (探究与分享 boxes, 学习目标 panels).
+- Because a break fixes containment, a label with its own block is a heading even when the content after its block
+  is not about it: the break closes it. Containment no longer turns such a heading into text. Text stays text for its
+  other reasons (substance: a caption, a one-line bullet; a lead-in; a chart title; a run-in label).
+- A block set inside a section whose own content continues after it (a quote box or pull quote in a story, a
+  sidebar field between bullets, a note between clues) gets no break: a break is needed only where the hierarchy is
+  affected, i.e. where the content after it no longer belongs to the open section (user decision 2026-11-13).
+- No break is needed where a heading closes the section anyway (a heading of the same or a higher level).
+- A printed heading with no layout box of its own cannot be a node; put a break before its content so that content
+  does not sit under the previous heading.
 
 ## Unions
 
@@ -61,7 +80,16 @@ Naruida". So on a report cover the company name and the report title are one uni
 registrant name ∪ FORM 10-K; The New Ireland Fund ∪ Annual Report October 31, 2022). Everything else on the cover is
 text: the owner's English name, address, dates, dates, edition and document numbers, regulator names,
 series lines, slogans, ribbons, risk banners, sponsor / underwriter blocks. When the owner is printed only as a logo, the logo's text joins the union if the layout has a box with that text
-(user decision: "MSCI" ∪ "2024 Annual Report", "DENON" ∪ product ∪ manual type); a logo with no text box stays out.
+(user decision: "MSCI" ∪ "2024 Annual Report", "DENON" ∪ product ∪ manual type). When the owner is printed on the cover
+only as a logo and the layout has a box for that logo, even an image box with no text (header_image / figure), the logo
+box joins the union and the node text includes the owner's name as printed on the logo, in the main language (川财证券,
+西南证券, brother) (user decision 2026-11-13). This applies only where the L1 text does not already name the owner, and
+only to "whose document + what document" titles: annual and financial reports, prospectuses, research reports, manuals,
+government documents, and slide decks that are an organisation's report. It does not apply to books, textbooks, papers,
+exams, magazines, newspapers, national standards or handwritten notes (book authors, publishers and journals are not
+owners; mastheads are already L1). The main printed title box stays the first box of the union (the node id); the logo
+box comes after it. A sidebar metadata field that repeats the owner (川财研究 | 宏观策略部) is text, not part of the title.
+A document with no L1 stays without one.
 Book authors are not the owner: a book's L1 is its title (user decision). Periodicals: the masthead is L1.
 A title repeated later (half-title, title page, title restated above clause 1, running head) is a repeat.
 
@@ -129,7 +157,7 @@ A title repeated later (half-title, title page, title restated above clause 1, r
   issuing bodies are text; term entries: number ∪ term = one heading (user decision: kept as headings).
 - government / legal: law, notice or agreement title L1; chapter / article levels below; issuing body, document number,
   dates, signatures are text. Newsletters follow the newspaper notes.
-- manual: brand ∪ product ∪ manual type is the title (the brand logo's text joins when it has a text box); warning bands are text.
+- manual: brand ∪ product ∪ manual type is the title (the brand logo joins when the layout has a box for it, see "The title"); warning bands are text.
 - newspaper / magazine: masthead L1; section banner L2 (and the running section tag when the section changes from the
   previous content page, with `continues` when that section appeared before); story headline L3; in-story subhead L4.
   The front page is a section with no printed banner. Kickers, decks, ads, teasers, skyboxes, pointer boxes, weather

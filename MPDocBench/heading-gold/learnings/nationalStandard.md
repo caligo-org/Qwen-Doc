@@ -79,3 +79,16 @@ All 17 docs are Chinese GB standards on the SAC template; one mapping covers the
   9.1–9.4 7b396eb8, 5.1.x 4234f2c5/cf448e58/f3f3a014), synonym lines, notes, table/figure captions, TOC
   listings, preface change lists. None is a heading; no fix needed.
 - OPEN: none.
+
+## Round 5 (breaks)
+- 17/17 docs, every page viewed with `show.py --tree` (100 pages). Breaks added: 0. Nodes restored: 0.
+- Reading-order scan (scratch in review/breaks/nationalStandard_tmp/): every non-node element listed with its open
+  heading; every numbered element (n.n…, A.n…) checked against the open clause number. No element sits under a
+  clause it does not belong to: untitled requirement clauses (6.1/6.2, 7.4.x, 8.1.x, 4.3.11.x, 4.5.1.x, A.2.x …)
+  are inside their titled parent; tables, figures, notes and formulas sit under the clause that cites them.
+- Front matter: 目次 is followed by 前言 / 引言 (headings close it); excerpt docs end on 目次 or 前言; cover
+  fields under L1 describe the document. 参考文献 (f3f3a014) and annex A (733bf6f5, 7b396eb8) end their docs.
+- Restore check: no not_headings / considered entry in the category is text because of containment (16 are the
+  standard-family label "中华人民共和国国家标准"; the rest, in 00457a35 and 040d3ee5, are synonym lines and untitled
+  numbered sentences, text for substance reasons).
+- check.py: no ERROR on any doc. OPEN: none.

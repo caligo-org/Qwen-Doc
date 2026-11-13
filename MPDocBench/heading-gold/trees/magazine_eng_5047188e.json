@@ -33,5 +33,12 @@
    "box": 10,
    "why": "cover credit box on the editor page (cover subject name + photograph/styling/dress credits): caption-like text with no story block; stays inside THE ART ISSUE front-matter page"
   }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 8,
+   "why": "editor's note ends; the cover credit box (cover subject, photo/styling/dress credits) follows, not about the note"
+  }
  ]
 }

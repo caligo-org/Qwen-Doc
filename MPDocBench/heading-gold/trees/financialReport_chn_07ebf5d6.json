@@ -26,4 +26,7 @@
   {"box": 10, "why": "addressee line, text"},
   {"box": 94, "why": "（一） list item inside paragraph flow, no own block"},
   {"box": 6, "why": "auditor letterhead logo, text"}
+ ],
+ "breaks": [
+  {"before": 107, "closes": 87, "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"}
  ]}

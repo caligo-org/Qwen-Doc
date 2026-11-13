@@ -61,5 +61,12 @@
    "box": 36,
    "why": "CIP block title: colophon, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 36,
+   "closes": 32,
+   "why": "内容提要 ends after its three paragraphs; the CIP block and colophon on the same page are not about the book summary"
+  }
  ]
 }

@@ -215,5 +215,12 @@
    "why": "issuer English name on the cover: cover text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 67,
+   "closes": 57,
+   "why": "round 5: the note on rounding of figures in the whole prospectus (注：本招股说明书数值...) ends the 释义 chapter; it is not about 二、专业术语, so it belongs to 第一节 释义"
+  }
+ ]
 }

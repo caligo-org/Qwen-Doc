@@ -788,5 +788,12 @@
    "box": 268,
    "why": "drawing sub-caption under a solution label"
   }
+ ],
+ "breaks": [
+  {
+   "before": 258,
+   "closes": 252,
+   "why": "printed head 'Design Solutions:' has no box of its own (OCR put it inside bullet box #257); its three solution bullets must not sit under GOAL / 'Plant Characteristics to Look For:' (in every other scenario Design Solutions is a sibling of GOAL)"
+  }
  ]
 }

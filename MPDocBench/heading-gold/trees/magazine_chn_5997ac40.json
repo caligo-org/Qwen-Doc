@@ -81,5 +81,17 @@
    "why": "colophon-column bank-account box: contact box"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 39,
+   "why": "poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column"
+  },
+  {
+   "before": 52,
+   "closes": 50,
+   "why": "contents list ends; house-ad QR box and colophon-column notices follow (not contents)"
+  }
+ ]
 }

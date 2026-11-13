@@ -144,5 +144,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 117,
+   "closes": 106,
+   "why": "round 5: the reference list ends; the editor credit \"（责任编辑：孟 耀）\" follows, not a reference (belongs to the paper)"
+  }
+ ]
 }

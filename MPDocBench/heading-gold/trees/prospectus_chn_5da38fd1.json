@@ -198,5 +198,12 @@
    "box": 45,
    "why": "signature field 董事长签字： : form field, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 45,
+   "closes": 36,
+   "why": "round 5: the chairman's signature (董事长签字) signs the whole 致投资者的声明 letter, not 四、/2、未来发展规划; it belongs to 致投资者的声明"
+  }
  ]
 }

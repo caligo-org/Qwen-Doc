@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    2
+    2,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report 2024",
-   "why": "title: document type on the cover; owner printed only as the logo (logo is text)"
+   "text": "Lam Research Annual Report 2024",
+   "why": "title: document type on the cover; owner printed only as the logo (logo is text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (Lam Research) joins the union after the title box."
   },
   {
    "boxes": [

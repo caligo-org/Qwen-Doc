@@ -311,5 +311,12 @@
    "why": "4、 bold rule sentence with no block of its own before （四） (substance): text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 129,
+   "closes": 116,
+   "why": "round 5: rule 4、 (one-line item, text by substance) is about the whole 股价稳定措施的具体实施方案, not about 3、公司非独立董事、高级管理人员增持公司股份; it belongs to （三）"
+  }
+ ]
 }

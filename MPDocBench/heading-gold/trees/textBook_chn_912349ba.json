@@ -39,6 +39,33 @@
    "parent": 36,
    "text": "活动任务单",
    "why": "task-sheet banner 活动任务单 with its own block: heading one level below the unit"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务一",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务二",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务三",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
   }
  ],
  "repeats": [
@@ -80,19 +107,6 @@
    "why": "repeat: running foot naming the open contents section"
   }
  ],
- "not_headings": [
-  {
-   "box": 40,
-   "why": "任务一: was L4 heading; round 3 breadcrumb review, containment: bare item number (任务一) labelling one paragraph; the task name 新闻阅读 is a run-in inside the paragraph box and cannot be unioned: a bare marker that labels no heading is text; the tasks are items of 活动任务单 -> text"
-  },
-  {
-   "box": 42,
-   "why": "任务二: was L4 heading; round 3 breadcrumb review, containment: bare item number (任务二) over one paragraph; run-in task name cannot be unioned: text, item of 活动任务单 -> text"
-  },
-  {
-   "box": 44,
-   "why": "任务三: was L4 heading; round 3 breadcrumb review, containment: bare item number (任务三) over one paragraph; run-in task name cannot be unioned: text, item of 活动任务单 -> text"
-  }
- ],
+ "not_headings": [],
  "considered": []
 }

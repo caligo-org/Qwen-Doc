@@ -216,5 +216,12 @@
    "box": 82,
    "why": "bold-italic run-in bullet lead-in"
   }
+ ],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 38,
+   "why": "round 5: definition of \"we/Bloom/the Company\" below the contents is about the whole report, not the Table of Contents; belongs to L1"
+  }
  ]
 }

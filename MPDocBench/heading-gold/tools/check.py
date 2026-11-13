@@ -4,6 +4,9 @@ Checks: boxes exist and appear only once in the file; nodes in reading order (pa
 with a smaller level); a union's boxes are distinct; `continues` points to an earlier node whose section was closed by
 something in between; every repeat points to a node whose section is still open at the repeat; every gold title is in
 a node, a repeat or not_headings; every node, repeat, not_heading and considered entry has a non-empty `why`.
+Breaks: `before` is an existing box that is not a heading box; `closes` is a node whose section is open there; the
+next node after a break is not deeper than the closed node (else the levels would reopen it); a repeat after a break
+must point to a section the break left open.
 Exit 1 on errors."""
 import sys, os, json, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -56,6 +59,30 @@ def check(doc, quiet=False):
         if not (x.get('why') or '').strip(): errs.append(f"repeat {x['boxes']} missing why")
     for x in t['not_headings']+t['considered']:
         if not (x.get('why') or '').strip(): errs.append(f"#{x['box']} missing why")
+    def pos(b): return (by[b]['page_id'],b)
+    heads={b for n in nodes for b in n['boxes']}
+    for x in t['breaks']:
+        b=x.get('before'); c=x.get('closes')
+        if b not in by: errs.append(f'break before #{b}: no such box'); continue
+        if b in heads: errs.append(f'break before #{b}: that box is a heading (a heading already closes by its level)')
+        if not (x.get('why') or '').strip(): errs.append(f'break before #{b} missing why')
+        st=[]; nxt=None
+        for n in nodes:
+            a=nid(n)
+            if a not in by: continue
+            if pos(a)>pos(b): nxt=n; break
+            while st and st[-1][0]>=n['level']: st.pop()
+            st.append((n['level'],a))
+        for y in t['breaks']:  # earlier breaks close sections before this one
+            if y is x or y.get('before') not in by or pos(y['before'])>=pos(b): continue
+            if any(s[1]==y['closes'] for s in st) and not any(nid(n) in by and pos(y['before'])<pos(nid(n))<=pos(b) for n in nodes):
+                st=st[:[s[1] for s in st].index(y['closes'])]
+        if c not in [s[1] for s in st]: errs.append(f'break before #{b} closes #{c}, which is not open there'); continue
+        if nxt is not None and nxt['level']>lv.get(c,0): errs.append(f'break before #{b} closes #{c} (L{lv.get(c)}) but the next node #{nid(nxt)} is L{nxt["level"]}: deeper, so its levels reopen #{c}')
+        for x2 in t['repeats']:
+            rb=x2['boxes'][0] if x2['boxes'] else None
+            if rb in by and pos(b)<pos(rb) and (nxt is None or pos(rb)<pos(nid(nxt))) and x2['of'] in [s[1] for s in st[[s[1] for s in st].index(c):]]:
+                errs.append(f"repeat {x2['boxes']} of #{x2['of']} comes after the break before #{b} that closed it: make it a node with continues")
     gt=gold_tree(r)
     miss=[a for a in gt if a not in seen]
     if miss: errs.append(f'gold titles not accounted for (node box, repeat or not_headings): {miss}')
@@ -64,7 +91,8 @@ def check(doc, quiet=False):
             a=nid(n); ex=(f" ∪{n['boxes'][1:]}" if len(n['boxes'])>1 else '')+(f" cont#{n['continues']}" if n.get('continues') is not None else '')
             print('  '*(n.get('level',1)-1)+f"L{n.get('level')} #{a} p{by[a]['page_id'] if a in by else '?'}{ex} {n.get('text','')[:70]!r}")
         for x in t['repeats']: print(f"  repeat {x['boxes']} of #{x['of']}")
-        print(f"{len(nodes)} nodes, {sum(len(n['boxes'])>1 for n in nodes)} unions, {len(t['repeats'])} repeats, {len(t['not_headings'])} not_headings, {len(t['considered'])} considered, gold titles {len(gt)}")
+        for x in t['breaks']: print(f"  break before #{x['before']} closes #{x['closes']}")
+        print(f"{len(nodes)} nodes, {sum(len(n['boxes'])>1 for n in nodes)} unions, {len(t['repeats'])} repeats, {len(t['not_headings'])} not_headings, {len(t['considered'])} considered, {len(t['breaks'])} breaks, gold titles {len(gt)}")
     for e in errs: print('ERROR', doc, e)
     return not errs
 if __name__=='__main__':

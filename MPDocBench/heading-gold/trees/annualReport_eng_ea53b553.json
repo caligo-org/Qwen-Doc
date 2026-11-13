@@ -220,5 +220,12 @@
    "box": 122,
    "why": "table column caption"
   }
+ ],
+ "breaks": [
+  {
+   "before": 147,
+   "closes": 144,
+   "why": "round 5: closing paragraph about both non-clinical studies (300 and 301), not only APT-RDR-301; belongs to LTX-03 Development"
+  }
  ]
 }

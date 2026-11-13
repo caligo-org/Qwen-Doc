@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    8
+    8,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究",
-   "why": "title union: headline + covered company/report type in one title block"
+   "text": "国海证券 优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究",
+   "why": "title union: headline + covered company/report type in one title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (国海证券) joins the union after the title box."
   },
   {
    "boxes": [

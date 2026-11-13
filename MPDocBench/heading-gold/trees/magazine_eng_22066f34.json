@@ -397,5 +397,12 @@
    "box": 336,
    "why": "kicker: SEAL of approval is a pun on this one story (SEAL support craft), not a section name (the contents lists no such section, only the story); a slogan is not a description, so text. Round 3: was an L2 section tag"
   }
+ ],
+ "breaks": [
+  {
+   "before": 114,
+   "closes": 103,
+   "why": "editor's welcome ends; two pages of retailer ads follow, not about the welcome"
+  }
  ]
 }

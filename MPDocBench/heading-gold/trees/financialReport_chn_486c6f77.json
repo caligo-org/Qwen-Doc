@@ -148,5 +148,12 @@
    "box": 68,
    "why": "（一） list item in paragraph flow, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 82,
+   "closes": 65,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
  ]
 }

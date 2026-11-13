@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    1
+    1,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna",
-   "why": "title: document type + its translation printed with it (one box); owner only as logo (text)"
+   "text": "Fonterra Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna",
+   "why": "title: document type + its translation printed with it (one box); owner only as logo (text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Fonterra) joins the union after the title box."
   },
   {
    "boxes": [

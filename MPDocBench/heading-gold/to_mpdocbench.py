@@ -2,7 +2,7 @@
   to_mpdocbench.py [out.json]      (default MPDocBench.roletrees.json; reads tools/common.GOLD and trees/)
 Docs without a tree are copied unchanged. For a doc with a tree (validated with tools/check.py first):
 - each heading node is a union of boxes: its first box becomes the title element, with the node text and the union's
-  bounding box (boxes on the first box's page); the union's other boxes become text_block;
+  bounding box (boxes on the first box's page); the union's other boxes that are gold titles become text_block (others, e.g. a logo image, keep their category);
 - repeats, not_headings and considered entries that are gold titles become text_block;
 - parent_son relations into any touched box are replaced by the tree's parents (node id = first box);
 - where the tree's reading order differs from anno_id order (the scorer's sibling order), heading ids are permuted
@@ -24,7 +24,8 @@ def convert(r, t):
             bs=[box(by[b]['poly']) for b in n['boxes'] if by[b]['page_id']==e['page_id']]
             x0,y0,x1,y1=min(b[0] for b in bs),min(b[1] for b in bs),max(b[2] for b in bs),max(b[3] for b in bs)
             e['poly']=[x0,y0,x1,y0,x1,y1,x0,y1]
-            for b in n['boxes'][1:]: by[b]['category_type']='text_block'; by[b]['label']='段落'
+            for b in n['boxes'][1:]:
+                if by[b]['category_type']=='title': by[b]['category_type']='text_block'; by[b]['label']='段落'
     for b in [b for x in t['repeats'] for b in x['boxes']]+[x['box'] for x in t['not_headings']]+[x['box'] for x in t.get('considered',[])]:
         touched.add(b)
         if by[b]['category_type']=='title': by[b]['category_type']='text_block'; by[b]['label']='段落'

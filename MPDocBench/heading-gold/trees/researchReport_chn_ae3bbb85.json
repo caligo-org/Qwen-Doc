@@ -5,12 +5,13 @@
   {
    "boxes": [
     18,
-    19
+    19,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
-   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block"
+   "text": "德邦证券 万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
+   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (德邦证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -107,6 +108,13 @@
   {
    "box": 26,
    "why": "run-in label 投资建议："
+  }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 23,
+   "why": "round 5: run-in 投资建议, the risk line and the stock table follow the news bullets and are not about 本周行业主要动态 (they belong to 投资要点)"
   }
  ]
 }

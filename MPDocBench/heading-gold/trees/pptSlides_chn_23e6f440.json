@@ -184,6 +184,24 @@
   },
   {
    "boxes": [
+    91
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "联合国《生物多样性公约》第十五次缔约方大会，向全球展示中国企业的ESG绿色理念",
+   "why": "round 5: restored, a break now closes it: pill box title over the COP15 story (#92-#94), L4 under the slide title #75 like #98; #95 (restored) closes it"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "探索滨海湿地生态修复",
+   "why": "round 5: restored, a break now closes it: pill box title over the 滨海湿地 story (#96); the break before #97 closes it"
+  },
+  {
+   "boxes": [
     98
    ],
    "level": 4,
@@ -309,16 +327,20 @@
    "why": "run-in start of a stat statement"
   },
   {
-   "box": 95,
-   "why": "breadcrumb round 3 (containment): pill title over the 滨海湿地 box, but the free paragraph #97 (蚂蚁森林 as 绿色基建 / eco products, lead-in to the 沙棘 box) follows it in reading order with no heading before #98 and is not about 滨海湿地 -> text"
-  },
-  {
-   "box": 91,
-   "why": "breadcrumb round 3 (containment): with #95 text, the 滨海湿地 story (#96) and #97 would fall under this COP15 title, which they are not about -> text; content sits under the L3 slide title"
-  },
-  {
    "box": 83,
    "why": "breadcrumb round 3: lead-in sentence ending in a colon over the stats column (same style as #129 on p8, which is text); with #91/#95 text it would also contain the COP15 and 滨海湿地 stories -> text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 97,
+   "closes": 95,
+   "why": "the 滨海湿地 box (#96) ends; the free paragraph about 蚂蚁森林 as 绿色基建 (lead-in to the 沙棘 box) is not about 滨海湿地, it belongs to the slide title #75"
+  },
+  {
+   "before": 129,
+   "closes": 107,
+   "why": "the 绿色低碳倡导场景 icon-grid panel ends; the stats column (users, green energy, 636 partners) is about the whole section #104"
   }
  ]
 }

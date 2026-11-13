@@ -273,5 +273,22 @@
    "why": "colophon field label (contact box)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 30,
+   "closes": 21,
+   "why": "round 5: the story ends (See OUTDATED 911, Page 2A); the barcode / home-delivery box follows"
+  },
+  {
+   "before": 119,
+   "closes": 87,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  },
+  {
+   "before": 227,
+   "closes": 200,
+   "why": "round 5: the story ends; the PAID ADVERTISEMENT label of the advertorial below it follows"
+  }
+ ]
 }

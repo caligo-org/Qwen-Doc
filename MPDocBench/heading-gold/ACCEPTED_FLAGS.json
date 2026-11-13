@@ -50,7 +50,8 @@
    "handwritten_chn_a6f48a98",
    "handwritten_chn_d1ec88bb",
    "handwritten_chn_edc60213",
-   "manualGuide_chn_51cbdc09"
+   "manualGuide_chn_51cbdc09",
+   "examPaper_eng_6c2631df"
   ]
  },
  "NUM": {
@@ -66,13 +67,14 @@
   ]
  },
  "SEQ": {
-  "_reason": "numbering as printed by the document (two consecutive '1.3' slides; '2、' printed twice; handwritten notes restart their numbering or skip an item; photos out of notebook order); each path itself is a narrower step",
+  "_reason": "numbering as printed by the document (two consecutive '1.3' slides; '2、' printed twice; handwritten notes restart their numbering or skip an item; photos out of notebook order); each path itself is a narrower step 77918496: 重要提示 三、/四、 are one-sentence items (text by substance) between 二、 and 五、.",
   "docs": [
    "pptSlides_chn_746216ac",
    "manualGuide_chn_894ac6ec",
    "handwritten_chn_a6f48a98",
    "handwritten_chn_edc60213",
-   "book_chn_69dd792e"
+   "book_chn_69dd792e",
+   "annualReport_chn_77918496"
   ]
  }
 }

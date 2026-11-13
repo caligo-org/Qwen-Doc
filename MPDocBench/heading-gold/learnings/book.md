@@ -192,3 +192,15 @@
 - a59ff1e5 (round 4, all 19 pages seen): no change. OPEN (no box, cannot be labelled): besides p5 'Locating House on Property' / 'Locating Outlying Landscape Features' and p19 'Plant Palette', p18 'Pulling it all together' is an own-line head with no box; its two paragraphs (#261 #262) fall under 'Accenting the main entrance'.
 - e343e570 #147: node text 'SCENARIO C: ALONG SIDEWALKs' -> 'SCENARIO C: ALONG SIDEWALKS' (printed all caps; OCR case slip). FIXED.
 - OPEN e343e570 p17 (SCENARIO F): the 'Design Solutions:' label is printed inside bullet box #257 (no box of its own), so the three solution bullets fall under 'Plant Characteristics to Look For:' (#254). Cannot be labelled; same class as the a59ff1e5 unboxed heads.
+
+## Round 5 (breaks)
+- All 33 book docs, all 449 pages viewed with `show.py --tree`; 44 breaks in 21 docs, 2 nodes restored, 12 docs with neither. review/breaks/book.tsv has one line per break / restored node / NONE doc.
+- Front matter followed by untitled front matter or body (resolves the round-4 OPEN on 9d008b33 / 9e4de927): a break closes the front-matter title (9d008b33 'By the same author' before the copyright page, 'Contents' before the novel text; 9e4de927 'Table of Contents' before the epigraph; 4ba599d0 'ALSO BY' before the title page; a0187360 目录 before the author bio / 重要说明).
+- Label box ends, main text resumes: 600ba37c Before Reading boxes (4), 21695dfc '1956' sidebar, 04edb0ff 'Practical Recommendations' box, 77552588 KEY POINT(S) boxes (3), f2e8d789 objectives box, f0c264a5 提要 frame (chapter intro outside the frame), dd57800f [萌主点拨] box (inheritance diagram after it), 38c7e1dc 【指导案例】 after （三）.
+- Closing paragraph about a whole list: 0f8b3268 (rules), b5a23ac1 (safety guidelines), c5211a9e (principles 1.-4.), f2e8d789 (3 pillars), a59ff1e5 checklist lead-ins (2).
+- 3ef07034: the framed Nutrition Facts band of every recipe is closed off from the last label by a break (12 recipes); supersedes the round-3 ACCEPTED note (band as furniture under the last label).
+- Printed heads with no box of their own (round-4 OPENs): a59ff1e5 'Locating House on Property' (p5), 'Pulling it all together' (p18), 'Plant Palette' (p19); e343e570 SCENARIO F 'Design Solutions:' (closes GOAL). The heads themselves still cannot be nodes.
+- Run-in siblings after an own-line label (NOTATIONS update): dc66edfa break before run-in 'Ring Topology' (closes 'Bus Topology:'); 69dd792e breaks before run-in 3. (closes '2. 舌神经和舌下神经') and 7. (closes '6. 舌动脉').
+- RESTORED 0875d4ae #247 '4岁以前乳牙𬌗特征' and #257 '4~6岁期间乳牙𬌗特征是：' as L5 under （二）不同发育阶段𬌗特征 (were text for containment only); break before the run-in '2. 混牙𬌗特征' (#267) closes #257. Resolves the round-4 OPEN.
+- 77552588: the node list keeps content order (KEY POINTS boxes placed where their content belongs), so breaks were placed against that order (#17 needs none: main text on p2 already sits under 'You, your staff...').
+- Kept without a break (user decision on blocks inside a section): floating figures between checklist items (a59ff1e5 Fig. 11/12), pull quotes, untitled shaded boxes inside a section (04edb0ff p11).

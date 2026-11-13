@@ -176,6 +176,42 @@
   },
   {
    "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 112,
+   "text": "QUEST MANAGEMENT – QUEST CLEANTECH FUND",
+   "why": "round 5: restored (round 1 made it text by containment); own-line sub-fund label after the lead-in #114 whose block #116-#147 (objective, policy, category list, investor profile) is all about this sub-fund, up to TECHNIQUES AND INSTRUMENTS; the break before #139 closes only the last category label under it"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Renewable Energy",
+   "why": "round 5: restored, a break now closes it (the next label closes it); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Energy Efficiency",
+   "why": "round 5: restored, a break now closes it (the next label closes it); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Resource Efficiency",
+   "why": "round 5: restored, a break now closes it before #139 (p12); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
     148
    ],
    "level": 2,
@@ -480,22 +516,13 @@
   {
    "box": 1,
    "why": "running head printed above the title on the cover: text, title not yet open"
-  },
+  }
+ ],
+ "breaks": [
   {
-   "box": 115,
-   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
-  },
-  {
-   "box": 119,
-   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
-  },
-  {
-   "box": 127,
-   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
-  },
-  {
-   "box": 133,
-   "why": "plain-weight label in the policy list; the general paragraphs after the list are not about it (containment): text"
+   "before": 139,
+   "closes": 133,
+   "why": "round 5: the paragraphs after the category list (#139-#147: growth thesis, selection, diversification, limits, investor profile) are about the whole sub-fund, not Resource Efficiency; they belong to QUEST MANAGEMENT - QUEST CLEANTECH FUND"
   }
  ]
 }

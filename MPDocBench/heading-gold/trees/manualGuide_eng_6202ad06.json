@@ -305,5 +305,12 @@
    "box": 156,
    "why": "run-in label GENERAL: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 169,
+   "closes": 155,
+   "why": "the care and maintenance text ends; the CONTACT US box (label is text) at the foot of the page is contact information for the whole sheet, not care"
+  }
  ]
 }

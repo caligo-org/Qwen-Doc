@@ -543,5 +543,22 @@
    "box": 267,
    "why": "even-page running head with the book title, printed nowhere else"
   }
+ ],
+ "breaks": [
+  {
+   "before": 125,
+   "closes": 120,
+   "why": "the second KEY POINTS box of p5 ends; the main column of WORKING WITH OTHERS (healthy-organizations list and paragraph) resumes on p6"
+  },
+  {
+   "before": 165,
+   "closes": 161,
+   "why": "the KEY POINT box ends; the main patient-consent text resumes on p8"
+  },
+  {
+   "before": 203,
+   "closes": 197,
+   "why": "the KEY POINTS box of p10 ends; the main column of PLANNING (in-service training list, educational planning text) resumes"
+  }
  ]
 }

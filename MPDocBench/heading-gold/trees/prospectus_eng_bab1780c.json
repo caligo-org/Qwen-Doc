@@ -29,6 +29,15 @@
    "parent": 1,
    "text": "1. INTRODUCTION",
    "why": "numbered chapter 1."
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "Overview of Subfunds: Denomination / Accounting Currency / Initial subscription period",
+   "why": "round 5: restored, a break now closes it before #27 (p6); own-line bold underlined table title whose block is the overview table #23/#26, like the table-titling subheads of 4da61756 #128/#130 (kept as headings); round 3 kept it text only by containment"
   }
  ],
  "repeats": [
@@ -79,11 +88,14 @@
   {
    "box": 2,
    "why": "legal form line on the cover (A SICAV under Luxembourg law): cover text"
-  },
-  {
-   "box": 22,
-   "why": "table title over the sub-fund overview table; the introduction text resumes after the table, so it does not head what follows (containment)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 22,
+   "why": "round 5: the introduction text resumes after the overview table (#27-#49); it belongs to 1. INTRODUCTION"
+  }
+ ]
 }

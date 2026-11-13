@@ -103,3 +103,25 @@ Cables: SUBJECT-box L1 + dashed/underlined section heads read as consistent brea
 numbered paragraphs stay text. eng_d4c4a9f2 "JOINT MINISTER'S STATEMENT" also holds ¶9-11 (POC paragraph) because the
 cable prints no closing head before COMMENT: kept (the cable's own outline). eng_1fb9cb74 has no node (two untitled
 notes). No OPEN question.
+
+## Round 5 (breaks)
+
+26 docs, every page rendered with `show.py --tree` and viewed (12 chn, 14 eng). 8 breaks, 3 nodes restored; check.py
+clean on all 26.
+
+- Chinese regulations (12): NONE. Title › 第N章 › 第N节 with articles only; every article is about its chapter and the
+  last article (施行) ends the document. No untitled foreign content.
+- Cable signatures (class, 3 breaks): a sender's signature in its own box (1e210e8c BRIDGEWATER #52, d4c4a9f2 JOHN #31,
+  c8c79eab Jackson #33 with the classified-website pointer #32) signs the whole cable -> break closing the last
+  section. Signatures inside a paragraph box (04fdb344 CLAPP, 5a7b6d51 BOYCE, aa75e353 RICE) cannot be broken out.
+- Cable paragraphs not about the open section (2): c8c79eab ¶9 mayors-and-coalitions table (#21, all cities) after the
+  Oujda section -> break closes #16; d4c4a9f2 ¶11 POC/documents paragraph (#25) after JOINT MINISTER'S STATEMENT ->
+  break closes #21 (round 4 had kept it there for lack of breaks).
+- Newsletter eng_10e7766e: p6 Dale Carnegie quote box #93-95 after the LISTEN UP story -> break closes #77.
+- Restored (containment entries from round 2): eng_553a7f3f "Highlights:" #23 L2 under the CSH account, break before
+  #32; eng_d44e80eb "Article 29" #8 and "Article 31" #10 L3 under Preface, break before #15 (Preface's own text).
+- NONE with nothing to close: docs with only an L1 (04fdb344, aa75e353, a323eb0a, b95bd887), no nodes (1fb9cb74),
+  or content that stays on topic (186128cd, 446784ca, 5a7b6d51).
+
+OPEN: eng_10e7766e p2 Churchill quote box #24-26 interrupts the "Digital dirt" subsection (story resumes at #27); a
+break would also move #27-29 out of the section. NOTATIONS has no rule for a box that interrupts a story mid-flow.

@@ -508,5 +508,37 @@
    "box": 309,
    "why": "byline affiliation USA TODAY under the headline, not a title repeat"
   }
+ ],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 19,
+   "why": "round 5: the story ends (See COLLEGES, Page 4A); the barcode / home-delivery box follows"
+  },
+  {
+   "before": 42,
+   "closes": 32,
+   "why": "round 5: the package story's front-page part ends (See HOPE, Page 2A); the package photo caption and the About this series box follow"
+  },
+  {
+   "before": 116,
+   "closes": 72,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  },
+  {
+   "before": 267,
+   "closes": 239,
+   "why": "round 5: the jumped story ends; the photo of the next jump (Colleges, printed above its jump head) follows"
+  },
+  {
+   "before": 342,
+   "closes": 305,
+   "why": "round 5: the explainer ends; the Empire Today display ad follows"
+  },
+  {
+   "before": 517,
+   "closes": 433,
+   "why": "round 5: the Opinion page ends; a full-page display ad (Luxury Escapes) under the running tag NEWS follows"
+  }
  ]
 }

@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    4
+    4,
+    3
    ],
    "level": 1,
    "parent": "root",
-   "text": "急跌或暂息，仍需防风险",
-   "why": "title: report headline"
+   "text": "宏信证券 急跌或暂息，仍需防风险",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #3 (宏信证券) joins the union after the title box."
   },
   {
    "boxes": [

@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    1
+    1,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "nüvi® 2440",
-   "why": "title: product model on the product sheet (no document type printed; brand logo separate) Breadcrumb review r3: OCR \"?\" replaced by the printed ®."
+   "text": "GARMIN nüvi® 2440",
+   "why": "title: product model on the product sheet (no document type printed; brand logo separate) Breadcrumb review r3: OCR \"?\" replaced by the printed ®. Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (GARMIN) joins the union after the title box."
   },
   {
    "boxes": [
@@ -108,10 +109,6 @@
   }
  ],
  "considered": [
-  {
-   "box": 2,
-   "why": "brand logo: text"
-  },
   {
    "box": 53,
    "why": "list lead-in Vous allez aimer : text"

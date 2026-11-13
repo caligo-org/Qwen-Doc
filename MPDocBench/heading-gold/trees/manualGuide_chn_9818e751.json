@@ -173,6 +173,15 @@
    "parent": 117,
    "text": "3.4.3 高级选项",
    "why": "subsection: 3.4.3"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 5,
+   "parent": 158,
+   "text": "通行级别选项：",
+   "why": "round 5: restored, own-line label '通行级别选项：' with its own bullet block (#160-#161), one level below 3.4.3; a break before the run-in sibling 防潜回： (#162) closes it (NOTATIONS run-in exception)."
   }
  ],
  "repeats": [
@@ -272,16 +281,24 @@
    "why": "document number: text"
   },
   {
-   "box": 159,
-   "why": "own-line label 通行级别选项： but its sibling 防潜回： is run-in in the same body style; kept text so the 防潜回 block is not put under it (OPEN)"
-  },
-  {
    "box": 60,
    "why": "callout: 注 note in parentheses"
   },
   {
    "box": 1,
    "why": "page-1 running head above the cover title (precedes the title in reading order): text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 7,
+   "closes": 5,
+   "why": "the 声明 box ends; the document number printed below it is cover furniture of the whole manual, not part of the statement"
+  },
+  {
+   "before": 162,
+   "closes": 159,
+   "why": "run-in sibling 防潜回： (#162) starts; its block is not about 通行级别选项 (NOTATIONS run-in exception: a break before the run-in sibling closes the previous label)"
   }
  ]
 }

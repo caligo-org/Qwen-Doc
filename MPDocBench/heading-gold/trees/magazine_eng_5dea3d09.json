@@ -56,5 +56,17 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 48,
+   "closes": 25,
+   "why": "editorial page ends; a full-page ad follows before the contents page"
+  },
+  {
+   "before": 65,
+   "closes": 51,
+   "why": "PRODUCTS ON THE COVER list ends; the main contents list follows, not about the cover products (it belongs to contents)"
+  }
+ ]
 }

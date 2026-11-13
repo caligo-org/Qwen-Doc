@@ -114,5 +114,17 @@
    "box": 30,
    "why": "picture label: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 13,
+   "why": "the affordability column (text, 6000 badge, bottles, yield note) ends; the three refill step panels belong to the 'Refilling is so easy' box, not to 'Exceedingly Affordable' (that box's heading #11 comes first in reading order, so the steps fall back to the L1)"
+  },
+  {
+   "before": 33,
+   "closes": 26,
+   "why": "the space-saving text and pictures end; the refill-angle paragraph #33 is about the refill experience (#34 follows it in reading order), not about saving space"
+  }
  ]
 }

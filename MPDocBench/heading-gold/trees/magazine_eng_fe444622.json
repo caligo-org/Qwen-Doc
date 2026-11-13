@@ -162,5 +162,12 @@
    "why": "house ad box title"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 43,
+   "closes": 41,
+   "why": "contents page ends; the part-opener spread (photo, restated title, intro line) follows, not about contents"
+  }
+ ]
 }

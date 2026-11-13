@@ -48,6 +48,15 @@
    "parent": 31,
    "text": "4.1 数列的概念",
    "why": "numbered section 4.1: describes the block below"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 34,
+   "text": "练习",
+   "why": "round 5: restored, a break now closes it before 例3 (#103); exercise box 练习 with its own exercise list (#93-102): heading one level below 4.1 by the box rule"
   }
  ],
  "repeats": [
@@ -97,11 +106,14 @@
   {
    "box": 51,
    "why": "callout box 归纳 with a one-line question; the definition text after it is main text: label, text"
-  },
-  {
-   "box": 92,
-   "why": "练习: was L4 heading; round 3 breadcrumb review, containment: main text resumes after the exercise list (例3 + 分析 on p10) with no later heading closing the box, so it would fall under 练习 -> text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 103,
+   "closes": 92,
+   "why": "练习 box ends at the dashed rule; the section's main text resumes with 例3, which belongs to 4.1"
+  }
+ ]
 }

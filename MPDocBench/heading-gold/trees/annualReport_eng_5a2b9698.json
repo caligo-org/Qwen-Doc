@@ -381,5 +381,17 @@
    "box": 140,
    "why": "figure caption"
   }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 19,
+   "why": "round 5: the cover image of the attached Annual Financial Report is not about the DRP; it belongs to L1 (the attached report title follows)"
+  },
+  {
+   "before": 37,
+   "closes": 35,
+   "why": "round 5: the read-in-conjunction note below CONTENTS is about the Annual Financial Report, not the contents list"
+  }
  ]
 }

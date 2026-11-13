@@ -423,5 +423,17 @@
    "why": "colophon field label (contact box)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 14,
+   "why": "round 5: the story ends (See PAGE, Page 4A); the teaser (Biden backers sound off ... 6A) with its photo and the barcode box follow"
+  },
+  {
+   "before": 142,
+   "closes": 118,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  }
+ ]
 }

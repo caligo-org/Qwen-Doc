@@ -87,5 +87,17 @@
    "why": "advertisement (p2)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 35,
+   "closes": 31,
+   "why": "editor's note ends (signature); ON-SALE DATE CHANGES notice box follows, not about the note"
+  },
+  {
+   "before": 46,
+   "closes": 37,
+   "why": "Inside contents ends; SUBSCRIBE NOW teaser follows, not about Inside"
+  }
+ ]
 }

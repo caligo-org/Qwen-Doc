@@ -55,5 +55,12 @@
    "box": 21,
    "why": "lead-in sentence introducing the marking scheme: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 34,
+   "closes": 27,
+   "why": "round 5: the Experimental part marking list ends; Fig. 11 (#34, caption #35) is the example graph the Solution text cites (#20 'example is shown in Fig. 11'), not part of the marks list, so it belongs to Solution. Supersedes the round-3 note that kept it under Experimental part."
+  }
  ]
 }

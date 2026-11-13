@@ -211,3 +211,29 @@ Checked and kept (all covered by NOTATIONS.md or earlier decisions):
   "LIMITx? Technology" for ™, Alaska "PARTI", "10\%" escapes) were left as the box text.
 
 OPEN: none.
+
+## Round 5 (breaks, 2026-11-13)
+
+All 37 documents, every page rendered with `show.py --tree` and viewed (100 images, review/breaks/annualReport_tmp/img),
+plus a reading-order outline per document. 13 breaks, 9 restored nodes. check.py: no ERROR on any doc.
+Lines: review/breaks/annualReport.tsv.
+
+- Closing paragraph after a numbered list (user decision 2026-11-13 kept the items as headings): break before the
+  paragraph closes the last item. baa53c78 #36 (closes 5、#33) and f0e6067b #32 (closes 3、#26): the 利润分配预案
+  paragraph after the 第一节 risk list; 16acace3 #227 (closes （八）#225); b20666fd #131 (closes 4. #129);
+  Acura ea53b553 #147 (sentence about both non-clinical studies, closes APT-RDR-301 #144).
+- Contents ends and untitled text follows: break closes the contents node. Bloom #40 and Alaska #135 (definition of
+  "we / the Company" below the 10-K table of contents), Cray #56 (trademark notice below INDEX), Abacus #37
+  (read-in-conjunction note below CONTENTS, now under the attached report's L2).
+- Abacus #21: the cover image of the attached Annual Financial Report precedes its title in reading order; break
+  closes Distribution Reinvestment Plan (#19) so the image is not under it.
+- Restored (were text only by containment): 77918496 二、未出席董事情况 #9 (L3, numbered item + its own table; break
+  before 三、#11). 600 Group (778bc822) Who We Are #10 (L2) with Position Statement / Mission / Vision #14 #16 #18 (L3),
+  We Stand For #41 (L2) with Service / Innovation / Quality #42 #44 #46 (L3). Breaks: #20 closes Vision (the group and
+  brand logos stay under Who We Are), #25 closes Who We Are (company-information list and board photo go to L1), #50
+  closes We Stand For (untitled p5 contents list goes to L1). Supersedes the round-3 containment fix.
+- No break: signature / date blocks after letters and statements (attribution), lead-in sentences, 适用/不适用 answers,
+  table captions and notes, running heads, decorative full-page photos with location captions (Fonterra, Lam chip
+  spread), cover taglines under L1.
+- OPEN: Abacus #45, an intro paragraph to the operating and financial review sits under PRINCIPAL ACTIVITIES AND
+  STRUCTURE (#43); a break is impossible because #43's own L5 child follows it.

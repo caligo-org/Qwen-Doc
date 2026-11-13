@@ -393,5 +393,12 @@
    "box": 215,
    "why": "short run-in / level label over a one-line sequence (no substantial block of its own)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 22,
+   "why": "closing paragraph about the whole list of principles 1.-4. ('Keeping in line with these principles, ...') follows the last item 4. Variation; belongs to the list's parent"
+  }
  ]
 }

@@ -37,15 +37,19 @@
    "parent": "root",
    "text": "Child Survival and Health Programs Fund",
    "why": "account page title: budget excerpt has no document title, each account is a top-level section"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 17,
+   "text": "Highlights:",
+   "why": "round 5: restored, a break now closes it before the account paragraphs #32-35; own-line label over its own bullet list (#24-31), one level below the account title"
   }
  ],
  "repeats": [],
- "not_headings": [
-  {
-   "box": 23,
-   "why": "Highlights: lead-in label over the bullet list; breadcrumb round 2 made it text: the account's general paragraphs (#32-35) follow the bullets with no closing head and are not highlights, so the label fails containment"
-  }
- ],
+ "not_headings": [],
  "considered": [
   {
    "box": 19,
@@ -54,6 +58,13 @@
   {
    "box": 20,
    "why": "table footnote: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 23,
+   "why": "round 5: the account's general paragraphs (#32-35) follow the highlight bullets; they are about the account, not the highlights"
   }
  ]
 }

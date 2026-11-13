@@ -107,5 +107,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 11,
+   "closes": 7,
+   "why": "contents page ends; the restated masthead, colophon column and editor's letter on p3 follow, not about contents"
+  }
+ ]
 }

@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    3
+    3,
+    4
    ],
    "level": 1,
    "parent": "root",
-   "text": "2018 ANNUAL REPORT",
-   "why": "title: document type printed on the cover; the owner appears only as a logo (logo is text)"
+   "text": "CRAY 2018 ANNUAL REPORT",
+   "why": "title: document type printed on the cover; the owner appears only as a logo (logo is text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #4 (CRAY) joins the union after the title box."
   },
   {
    "boxes": [
@@ -251,6 +252,13 @@
   {
    "box": 149,
    "why": "bold run-in risk sentence starting a paragraph"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 56,
+   "closes": 54,
+   "why": "round 5: trademark notice below the index is about the whole report, not the INDEX; belongs to FORM 10-K"
   }
  ]
 }

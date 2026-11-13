@@ -148,5 +148,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 4,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (大美中国 丰收画卷) follows"
+  }
+ ]
 }

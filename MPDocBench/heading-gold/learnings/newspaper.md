@@ -157,3 +157,25 @@ gives no ERROR on any tree. Fixes (2, both by "containment closes subtrees"):
 Checked and kept: front-page teaser boxes (The Times IN THE NEWS, Washington Post teaser strip, Globe front-page teasers)
 and full-page display ads still fall under the preceding story in reading order (OPEN 1, 12); package banners with L4
 stories (Globe "Healey's message...", USA TODAY "Hope in America") and their jumps; "50 States" stays L3.
+
+## Round 5 (breaks)
+Every page of all 22 newspaper trees (119 pages) was rendered with `show.py --tree` and viewed. check.py gives no ERROR
+on any tree. 87 breaks, 1 restored node; per-break lines in review/breaks/newspaper.tsv.
+- Typical breaks (story L3 closed, content goes to the page section or L1): a stand-alone news photo with its caption
+  after a story (大美中国, 中经视觉 photos); the page colophon (本版编辑 / 一版编辑…) after the last story; 导读 and
+  IN THE NEWS teaser boxes, skybox / photo teasers, MORE COVERAGE pointer boxes, weather and barcode boxes after the
+  last front-page story; colophon / contact boxes (masthead restated) and corrections-adjacent ads after a jump;
+  display ads (half-page and full-page, incl. full-page ads on their own page after the previous page's last story);
+  the photo of the next story printed above its headline in reading order; the PAID ADVERTISEMENT label above an
+  advertorial node.
+- Label blocks: 11ae9c36 the boxed speech #20 (L4 inside story #12) is closed before the story body #47 resumes
+  (resolves the OPEN 11 example of the speech box); the 镜头/回访 series closes before the closing paragraph #198 of
+  the whole story #94.
+- Restored (1): eng_ad370234 #732 "HIGHLIGHT: INDIANA" L4 under 50 States (round 4 made it text only by containment);
+  a break before #736 now returns the run-in state briefs to 50 States. "The rat pack" (b6de1de8 #9) stays text: its
+  block is a caption.
+- No break (user decision): a box set inside a story whose own text continues after it, e.g. the Boston Globe
+  colophon box printed between the paragraphs of "Post-debate poll…" (daf7a3e4 #288-#295), pull quotes, sidebars,
+  photo + caption inside a story.
+- Not fixable by breaks: reading-order cases of OPEN 11 (headline after its intro, 11ae9c36 p2) stay as they are.
+- Documents with no break: chn_adf00537, chn_ccf4163f, eng_b6de1de8 (see the NONE lines).

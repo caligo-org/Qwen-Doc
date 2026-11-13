@@ -205,5 +205,22 @@
    "box": 21,
    "why": "form field Signature: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 5,
+   "why": "the English Declaration of Conformity panel ends (signature); the LED-status notes and tables below it (EN/FR/DE) are about the switch, not the declaration (resolves the round-4 OPEN)"
+  },
+  {
+   "before": 47,
+   "closes": 29,
+   "why": "the French declaration panel ends; the ES/IT LED-status notes and tables below it are about the switch, not the declaration (resolves the round-4 OPEN)"
+  },
+  {
+   "before": 82,
+   "closes": 80,
+   "why": "the registration text ends; the TRENDnet address block at the foot of the back panel is the company imprint, not registration"
+  }
  ]
 }

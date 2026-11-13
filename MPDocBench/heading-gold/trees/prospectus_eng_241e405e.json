@@ -32,6 +32,15 @@
   },
   {
    "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "Board of Directors' Powers",
+   "why": "round 5: restored, a break now closes it before #47 (p4); own-line label with its block #41-#46 on the board's powers"
+  },
+  {
+   "boxes": [
     52
    ],
    "level": 2,
@@ -263,16 +272,19 @@
   {
    "box": 11,
    "why": "OFFER: first word of the offer sentence continued in the next box (run-in), not a heading"
-  },
-  {
-   "box": 40,
-   "why": "own-line label \"Board of Directors' Powers\" (p4): no later heading closes it before CONTENTS, so the general notices after its block (#47 share offer, #48 segregation of Fund assets, #50 translations of the Prospectus, #51 Prospectus availability) would fall under it; containment fails -> text, its paragraphs fall under The Company (round 4)"
   }
  ],
  "considered": [
   {
    "box": 1,
    "why": "cover date April 2012: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 47,
+   "closes": 40,
+   "why": "round 5: the share offer, Fund segregation, price suspension, translation and availability notices #47-#51 are not about the board's powers; they belong to IMPORTANT INFORMATION"
   }
  ]
 }

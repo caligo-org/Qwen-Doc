@@ -5,12 +5,13 @@
   {
    "boxes": [
     6,
-    7
+    7,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评",
-   "why": "title union: headline + ——company + report type line printed with it"
+   "text": "国元证券 医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评",
+   "why": "title union: headline + ——company + report type line printed with it Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (国元证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -112,6 +113,13 @@
   {
    "box": 47,
    "why": "table title 财务预测表"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 10,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (rating, target price, base data, chart, related reports, authors); not about 点评"
   }
  ]
 }

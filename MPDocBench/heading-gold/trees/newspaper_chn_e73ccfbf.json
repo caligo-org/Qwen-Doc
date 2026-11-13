@@ -257,5 +257,22 @@
    "box": 60,
    "why": "deck lines below a headline"
   }
+ ],
+ "breaks": [
+  {
+   "before": 46,
+   "closes": 38,
+   "why": "round 5: the story ends; the 导读 index box (teasers with page pointers) follows"
+  },
+  {
+   "before": 74,
+   "closes": 67,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (railway) follows"
+  },
+  {
+   "before": 158,
+   "closes": 123,
+   "why": "round 5: the story ends; the photo of the next photo story (匈牙利发行兔年生肖邮票, printed before its title) follows"
+  }
  ]
 }

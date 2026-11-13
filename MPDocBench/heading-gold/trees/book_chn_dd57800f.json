@@ -273,5 +273,12 @@
    "box": 111,
    "why": "numbered list line inside the [图释] explanation"
   }
+ ],
+ "breaks": [
+  {
+   "before": 101,
+   "closes": 99,
+   "why": "the [萌主点拨] box holds only the 征收 VS 征用 table; the inheritance diagram, its [图释] explanation and the practice question that follow are about （二）非基于民事法律行为的物权变动 (inheritance row), not about that box"
+  }
  ]
 }

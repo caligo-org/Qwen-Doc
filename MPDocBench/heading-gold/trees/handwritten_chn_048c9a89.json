@@ -120,5 +120,12 @@
    "box": 3,
    "why": "note under 一 (中国版/古罗马版): text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 4,
+   "closes": 2,
+   "why": "round 5: the red teaching-goals box (第一课时教学目标) is about the lesson as a whole, not about 一：由来 (its only block is the note #3)"
+  }
  ]
 }

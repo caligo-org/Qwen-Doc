@@ -80,5 +80,12 @@
    "box": 20,
    "why": "run-in numbered item 3.1 starting a paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 52,
+   "closes": 49,
+   "why": "round 5: section 4's items end; the author note and received/editor line follow, not about 基地建设 (belong to the paper)"
+  }
  ]
 }

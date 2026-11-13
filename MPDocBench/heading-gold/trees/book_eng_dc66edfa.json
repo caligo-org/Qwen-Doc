@@ -325,5 +325,12 @@
    "box": 84,
    "why": "user decision 2026-11-13: Advantages:/Disadvantages: of the run-in Mesh: item stay text (as headings they would read as advantages of 1.2.3.1 Physical Topology)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 104,
+   "closes": 95,
+   "why": "run-in sibling 'Ring Topology' (inside paragraph box #104) follows own-line 'Bus Topology:'; per the run-in-sibling rule a break closes the previous label, so the ring content sits under 1.2.3.1 Physical Topology"
+  }
  ]
 }

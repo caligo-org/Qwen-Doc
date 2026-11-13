@@ -78,6 +78,15 @@
   },
   {
    "boxes": [
+    85
+   ],
+   "level": 6,
+   "parent": 75,
+   "text": "分析",
+   "why": "round 5: restored, a break now closes it before #89; activity label 分析 over its own task with a table (#86-88) about the 京张铁路 case: heading one level below the case title (box rule)"
+  },
+  {
+   "boxes": [
     91
    ],
    "level": 5,
@@ -139,16 +148,24 @@
   {
    "box": 89,
    "why": "prompt label 思考 over one question: callout, text"
-  },
-  {
-   "box": 85,
-   "why": "分析: was L5 heading; round 3 breadcrumb review, containment: the separate 思考 prompt about the new railway (#89-90) follows the table with no heading before 立即行动 and is not part of the analysis task; 讨论/分析/思考 all sit under the case title 京张铁路 -> text"
   }
  ],
  "considered": [
   {
    "box": 81,
    "why": "chapter number tab beside the running head: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 63,
+   "closes": 51,
+   "why": "contents end on p7; the chapter-opening picture printed above the chapter-1 title on p8 is not part of the contents"
+  },
+  {
+   "before": 89,
+   "closes": 85,
+   "why": "分析 task ends with its table; the separate 思考 prompt about the new 京张 line belongs to the case, not to the analysis task"
   }
  ]
 }

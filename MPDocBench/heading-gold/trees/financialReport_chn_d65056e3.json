@@ -203,5 +203,17 @@
    "box": 75,
    "why": "（1） list item in paragraph flow, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 17,
+   "closes": 10,
+   "why": "Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents"
+  },
+  {
+   "before": 90,
+   "closes": 72,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
  ]
 }

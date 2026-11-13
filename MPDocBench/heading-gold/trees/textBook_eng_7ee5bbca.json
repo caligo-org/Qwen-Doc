@@ -122,5 +122,12 @@
  ],
  "repeats": [],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "the license notice ('Except where otherwise noted, this book is licensed...') closing the page is not part of the acknowledgements"
+  }
+ ]
 }

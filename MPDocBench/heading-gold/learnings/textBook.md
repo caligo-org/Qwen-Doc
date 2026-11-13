@@ -122,3 +122,31 @@ Stuff) re-checked on the page and kept.
 - Rule applied: node text joins the printed lines of a heading with one space and drops decorative marks (dashes,
   badge spacing), so the breadcrumb reads like the printed title.
 - OPEN: none.
+
+## Round 5 (breaks)
+
+All 37 docs, every page rendered with `show.py --tree` and viewed (286 pages). 19 breaks, 16 nodes restored, 23 docs
+with neither. List: review/breaks/textBook.tsv. All trees pass check.py.
+- RESTORED (round-3 containment text, block of their own, a break now closes them): 12b0d2b4 #92 练习 (L4);
+  1f0d94bf #40 #61 #93 #105 探究与分享 and #50 名词点击 (L6 under their 目); 87e64920 #36 相关史事 (L5, one
+  5-line material paragraph); bd56ef2c #67 问题导引, #71 学习目标, #75 核心术语 (L4 panels, siblings close each
+  other) and #80 "资源赌约"谁会赢 (L4); fdc97197 #85 分析 (L6 under the 京张铁路 case, task + table);
+  0ee658d7 #3 "On the cover:" (L2). This supersedes the round-3 rule "box label is text when main text resumes
+  after it": the box is a heading and a break before the resumed main text closes it.
+- Kept text: 47c3d791 #28 问题导入 (its only block is a one-paragraph question prompt = callout by substance);
+  (912349ba: see the resolved question below.)
+- Break kinds used: box/panel label block ends and the section's main text resumes (8); 内容提要 followed by the CIP
+  block and colophon on the same copyright page (b3181880, d4a9cac4); contents followed by the chapter-opening
+  picture printed before the chapter title (83116662 p7 full-page picture, fdc97197 and 028c0453 picture above the
+  chapter title); front-matter page ending in a note about something else (a5d8350e cover-figure note under About
+  the Author; 7ee5bbca license notice at the end of Acknowledgements; 0ee658d7 cover note followed by title page);
+  a signature closing a whole preface after its last subsection (9587c15d, closes Acknowledgements).
+- Not breaks: callout prompts (思考, 探究, 讨论, 问题思考) after a box inside the same section; footnotes; a signed
+  letter's signature where the letter has no subsections; quotation boxes inside the main text.
+- Order note: break and node positions compare (page, box id) as check.py does; 27d8ad59 lesson badges sit in
+  header boxes printed in the top band, so lesson content precedes them in the gold reading order but not in
+  box-id order (no break needed).
+- RESOLVED (user decision, round 5): 912349ba #40 #42 #44 任务一/二/三 are L4 nodes under 活动任务单. An own-line
+  marker that opens a real unit (a task block listed in the contents) is a heading; node text is the marker as
+  printed, and the run-in task name (新闻阅读) stays in the paragraph. No break: each task ends at the next task or at
+  the excerpt end. This replaces the round-3 "bare item number -> text" fix.

@@ -164,5 +164,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 88,
+   "closes": 81,
+   "why": "round 5: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)"
+  }
+ ]
 }

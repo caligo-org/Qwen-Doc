@@ -52,6 +52,15 @@
   },
   {
    "boxes": [
+    36
+   ],
+   "level": 5,
+   "parent": 29,
+   "text": "相关史事",
+   "why": "round 5: restored, a break now closes it before #38; material box 相关史事 with its own paragraph of material (#37): heading one level below 我国境内的早期人类 by the box rule"
+  },
+  {
+   "boxes": [
     43
    ],
    "level": 4,
@@ -112,11 +121,14 @@
   {
    "box": 39,
    "why": "prompt box 问题思考 with one short question: callout, text"
-  },
-  {
-   "box": 36,
-   "why": "相关史事: was L5 heading; round 3 breadcrumb review, containment: its box is one paragraph; the 问题思考 prompt and the site map of the section follow with no heading before 北京人 and would fall under 相关史事 -> text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 38,
+   "closes": 36,
+   "why": "相关史事 box ends at its dotted rule; the 问题思考 prompt and the site map belong to the section 我国境内的早期人类"
+  }
+ ]
 }

@@ -210,5 +210,17 @@
    "box": 3,
    "why": "masthead English name ECONOMIC DAILY"
   }
+ ],
+ "breaks": [
+  {
+   "before": 51,
+   "closes": 43,
+   "why": "round 5: the commentary ends; a stand-alone news photo with its caption (aviation, Chongqing) follows"
+  },
+  {
+   "before": 108,
+   "closes": 98,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (photovoltaic, Xinjiang) follows"
+  }
  ]
 }

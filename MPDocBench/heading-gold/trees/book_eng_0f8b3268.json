@@ -420,5 +420,12 @@
    "why": "publisher logo / brand on the cover"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 119,
+   "closes": 107,
+   "why": "the 'should not do' list ends; the closing paragraph about violating any of the rules (and the women's rules) belongs to Rules of the Game"
+  }
+ ]
 }

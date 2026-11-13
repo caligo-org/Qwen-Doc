@@ -49,5 +49,12 @@
    "why": "salutation opening the preface letter: does not describe the letter (containment), text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 45,
+   "closes": 36,
+   "why": "contents end on p6; the chapter-opening picture printed above the chapter-1 title on p7 is not part of the contents"
+  }
+ ]
 }

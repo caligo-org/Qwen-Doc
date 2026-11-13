@@ -123,5 +123,12 @@
    "box": 46,
    "why": "callout: 注意 note"
   }
+ ],
+ "breaks": [
+  {
+   "before": 84,
+   "closes": 71,
+   "why": "the numbered precautions 1-11 end; the set-apart closing paragraph (operators must read this manual) is about the whole manual, not about 注意事项"
+  }
  ]
 }

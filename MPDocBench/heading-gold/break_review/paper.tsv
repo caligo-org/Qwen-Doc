@@ -1,0 +1,45 @@
+doc	kind	box	closes	page	note
+paper_chn_0945f03a	BREAK	79	4	3	"round 5: the paper ends with its references; from the jump line ""（上接第49页）"" on, the page carries the tail of another article (not_headings 81, 89), not about this paper"
+paper_chn_3567e55d	NONE				all 5 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_4476a4b2	BREAK	80	65	3	round 5: the reference list ends; the article's received date and editor credit follow, which are not references (they belong to the paper)
+paper_chn_4c5fe122	NONE				all 2 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_509e934a	NONE				all 4 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_5650c4e6	BREAK	186	179	6	round 5: 6 结论 jumps away (下转第51页); the tail and references of another article (#186-#200) follow, not about 结论. They are a block set inside this paper, whose own content continues after it (上接第30页, 参考文献 #202), so L1 stays open
+paper_chn_74e3f89e	BREAK	84	78	7	"round 5: the reference list ends; the editor credit ""（责任编辑：朱犁）"" follows, not a reference (belongs to the paper)"
+paper_chn_7d70eb40	NONE				all 10 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_8fb8a35e	NONE				all 3 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_95da6884	NONE				all 7 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_a197458e	BREAK	52	49	2	round 5: section 4's items end; the author note and received/editor line follow, not about 基地建设 (belong to the paper)
+paper_chn_a8bfcf5f	BREAK	83	49	3	round 5: the resumed conclusion (上接第26页) ends; the editor credit follows, not about 结语 (belongs to the paper)
+paper_chn_b4b85a83	BREAK	91	53	8	"round 5: closing summary of the whole paper (""从上文的数据分析和田野调查看..."" and the outlook after it) follows the last item （四）; it is about the paper, not about （四） or 二、"
+paper_chn_b4b85a83	BREAK	108	96	9	round 5: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)
+paper_chn_be9986ff	BREAK	115	105	8	"round 5: after 2.1.4's block, ""总的来说...被动防护方式..."" sums up all of 2.1 被动防护, not 2.1.4 星体表面浮土"
+paper_chn_be9986ff	BREAK	171	168	12	"round 5: after 3.6's block, ""综上所述，以上辐射防护剂..."" sums up all of 3 生物医学防护, not 3.6 植物来源的活性物质"
+paper_chn_be9986ff	BREAK	287	179	17	"round 5: the reference list ends; the ""Summary for ..."" page with the English title/abstract (repeat of L1) follows, not references (belongs to the paper)"
+paper_chn_c1360240	BREAK	117	106	7	"round 5: the reference list ends; the editor credit ""（责任编辑：孟 耀）"" follows, not a reference (belongs to the paper)"
+paper_chn_ceb8680b	NONE				all 8 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_chn_da20c59b	BREAK	139	126	8	"round 5: after 3.2's block, ""对黄河流域年、四季平均气温、潜在蒸散量变化趋势的分析表明..."" sums up all of 3 (the 3.1 trend findings) and leads into 3.3; it is not about 3.2 潜在蒸散量与降水的关系"
+paper_chn_da20c59b	BREAK	219	164	12	round 5: the reference list ends; the English title/abstract block (repeat of L1) follows, not references (belongs to the paper)
+paper_chn_f9576e8f	BREAK	57	47	5	"round 5: the reference list ends; the received date ""收稿日期"" follows, not a reference (belongs to the paper)"
+paper_chn_fb0e66b1	BREAK	173	7	9	round 5: the paper ends with its references; the journal subscription notice (ad, not_heading 173) and its contact lines follow, not about this paper
+paper_chn_fdabe9a2	BREAK	88	81	3	round 5: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)
+paper_eng_01d0081c	NONE				all 4 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_20a93115	NONE				all 22 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_369ef675	BREAK	209	207	19	"round 5: closing paragraph ""Overall, the systematic literature review shows..."" about the whole list of factors 1-10 follows the last item; it belongs to the list's parent"
+paper_eng_3e5b1e3a	NONE				all 5 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_4b1e42ed	BREAK	96	82	9	"round 5: the run-in ""Acknowledgements"" paragraph (considered text) follows the Discussion; it is not about the Discussion (belongs to the paper)"
+paper_eng_54c94e58	NONE				all 5 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_64b5e1f4	NONE				all 15 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_6a66645a	NONE				all 10 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_81997c1e	BREAK	68	66	4	"round 5: closing paragraph ""Based on the above discussions following hypothesis are..."" with H1-H4 is about the whole list 2.1-2.4, not 2.4 Compensation; belongs to the list's parent"
+paper_eng_81997c1e	BREAK	241	153	10	round 5: the reference list ends; author photos and biographies follow, not references (belong to the paper)
+paper_eng_b8670bda	NONE				all 20 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_bba70704	NONE				all 10 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_c1aa81bd	NONE				all 16 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_ce403572	NONE				all 6 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_d054de2a	BREAK	72	63	4	"round 5: after the region-wise block (Table 2, Figure 2), Table 3 ""FDI equity Inflows in Aviation Sector"" follows; it is not about region-wise inflows (belongs to VII. DATA ANALYSIS)"
+paper_eng_d76efc79	NONE				all 9 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_f30006b1	BREAK	23	6	2	"round 5: the Lessons Learned box ends; the run-in ""Abstract:"" paragraph (considered text) follows, not about Lessons Learned (belongs to the paper)"
+paper_eng_f30006b1	BREAK	185	179	10	"round 5: the last section's text ends; the author biographies follow, not about ""So Where Does That Leave Us?"" (belong to the paper)"
+paper_eng_fd23041b	NONE				all 10 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore
+paper_eng_ff3a3862	NONE				all 21 pages viewed with --tree: every heading's content runs to the next heading or the end; no untitled content about something else, no containment-text entries to restore

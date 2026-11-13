@@ -669,5 +669,17 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 371,
+   "closes": 365,
+   "why": "run-in sibling '3. 腭大神经血管束' (inside paragraph box) follows own-line '2. 舌神经和舌下神经'; per the run-in-sibling rule a break closes the previous label, so items 3.-5. sit under 一、重要的解剖结构与外科手术"
+  },
+  {
+   "before": 385,
+   "closes": 378,
+   "why": "run-in sibling '7. 唇动脉与Abbe瓣' follows own-line '6. 舌动脉'; the break closes it, so items 7.-9. sit under 一、"
+  }
+ ]
 }

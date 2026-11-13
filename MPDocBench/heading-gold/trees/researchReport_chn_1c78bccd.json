@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    1
+    1,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "中國市場及A股點評",
-   "why": "title: periodical commentary banner names the publication (masthead role); no other headline names the issue"
+   "text": "海通國際 中國市場及A股點評",
+   "why": "title: periodical commentary banner names the publication (masthead role); no other headline names the issue Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (海通國際) joins the union after the title box."
   },
   {
    "boxes": [

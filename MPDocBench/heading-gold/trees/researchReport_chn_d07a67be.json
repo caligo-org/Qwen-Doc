@@ -6,12 +6,12 @@
    "boxes": [
     2,
     3,
-    10
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究",
-   "why": "title union: headline + ——subject/report-type line printed with it Round 4: owner box #10 (sidebar field '川财研究 |宏观策略部'; heading part 川财研究 only) joins the union: the cover prints the owner only as an image logo and in this mixed field box (NOTATIONS 'The title': owner in a box with other fields; user decision 2026-11-13). Was: headline ∪ subtitle."
+   "text": "川财证券 全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评",
+   "why": "title union: headline + ——subject/report-type line printed with it Round 4: owner box #10 (sidebar field '川财研究 |宏观策略部'; heading part 川财研究 only) joins the union: the cover prints the owner only as an image logo and in this mixed field box (NOTATIONS 'The title': owner in a box with other fields; user decision 2026-11-13). Was: headline ∪ subtitle. Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (川财证券) joins the union after the title box. Sidebar box #10 removed from the union (user decision 2026-11-13: sidebar metadata field, not the title; the owner joins from the logo)."
   },
   {
    "boxes": [
@@ -66,6 +66,10 @@
    "why": "date in the sidebar: text"
   },
   {
+   "box": 10,
+   "why": "sidebar metadata field, not the title; the owner joins from the logo"
+  },
+  {
    "box": 12,
    "why": "analyst label: text per category note"
   },
@@ -74,5 +78,12 @@
    "why": "office address box label: text per category note"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 9,
+   "closes": 6,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (date, report type, analyst, office box); not about 点评"
+  }
+ ]
 }

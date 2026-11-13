@@ -1,0 +1,92 @@
+doc	kind	box	closes	page	note
+newspaper_chn_11ae9c36	BREAK	47	20	1	the boxed speech (and its highlight box #42-#46) ends; the body of the 团拜会 story #12 resumes
+newspaper_chn_11ae9c36	BREAK	198	186	2	the last 镜头/回访 segment ends; a closing paragraph about the whole series of the story #94 follows
+newspaper_chn_43c21ee3	BREAK	51	43	1	the commentary ends; a stand-alone news photo with its caption (aviation, Chongqing) follows
+newspaper_chn_43c21ee3	BREAK	108	98	2	the story ends; a stand-alone news photo with its caption (photovoltaic, Xinjiang) follows
+newspaper_chn_4f3edefe	BREAK	68	55	1	the story ends (with its chart); the 导读 index box (teasers with page pointers) follows
+newspaper_chn_4f3edefe	BREAK	119	112	2	the story ends; a stand-alone news photo with its caption (red leaves, Hangzhou) follows
+newspaper_chn_4f3edefe	BREAK	215	203	3	the story ends; the page colophon (editor credits) follows
+newspaper_chn_4f3edefe	BREAK	284	275	4	the commentary ends; a QR pointer box (视频报道请扫二维码) follows
+newspaper_chn_4f3edefe	BREAK	301	286	4	the story ends; the page colophon (本版编辑) follows
+newspaper_chn_4f3edefe	BREAK	355	344	5	the commentary ends; the page colophon (本版编辑, 来稿邮箱) follows
+newspaper_chn_4f3edefe	BREAK	439	428	6	the story ends; the page colophon (本版编辑) follows
+newspaper_chn_4f3edefe	BREAK	502	471	7	the 天津航空 story ends; the photo of the next story (青岛榕信, printed above its headline) follows
+newspaper_chn_4f3edefe	BREAK	517	504	7	the story ends; the page colophon (本版编辑) follows, then a stand-alone news photo
+newspaper_chn_adf00537	NONE				pages 1-2 rendered with --tree and viewed; every story runs to the next headline or jump; the p1 ruled spacer and slogan rubric (#33) sit between stories, no untitled foreign content after any heading's block
+newspaper_chn_ccf4163f	NONE				pages 1-2 rendered with --tree and viewed; front-page photos/QR (#78-#82) belong to the 怀远 story they illustrate; every other story runs to the next headline or jump
+newspaper_chn_e542162c	BREAK	13	6	1	the story ends; a stand-alone news photo with its caption (Hefei-Wuhan railway) follows
+newspaper_chn_e542162c	BREAK	102	79	2	the story ends; a stand-alone news photo with its caption (Liuzhou kumquat sorting) follows
+newspaper_chn_e542162c	BREAK	177	166	3	the story ends; a stand-alone news photo with its caption (Tongren, Wu River) follows
+newspaper_chn_e542162c	BREAK	206	193	3	the story ends; the page colophon (editor credits) follows
+newspaper_chn_e542162c	BREAK	269	260	4	the segment ends; a stand-alone Games photo (artistic swimming) follows, not about the segment
+newspaper_chn_e542162c	BREAK	279	270	4	the commentary ends; stand-alone Games photos with captions and the page colophon follow
+newspaper_chn_e542162c	BREAK	355	343	5	the story ends; the page colophon (本版编辑, 来稿邮箱) follows
+newspaper_chn_e542162c	BREAK	403	375	6	the story ends; the illustration of the next commentary (区域谈, printed above its headline) follows
+newspaper_chn_e542162c	BREAK	413	404	6	the commentary ends; the page colophon (本版编辑) follows
+newspaper_chn_e542162c	BREAK	508	485	7	the story ends; a stand-alone photo with its caption (Qianhai) follows
+newspaper_chn_e542162c	BREAK	520	511	7	the commentary (with its columnist photo) ends; the page colophon (本版编辑) follows
+newspaper_chn_e542162c	BREAK	550	525	8	the photo feature ends; the page colophon (本版编辑, 投稿网站) follows
+newspaper_chn_e542162c	BREAK	627	616	9	the story ends; the page colophon (本版编辑) follows
+newspaper_chn_e542162c	BREAK	674	664	10	the commentary ends; the page colophon (本版编辑) follows
+newspaper_chn_e73ccfbf	BREAK	46	38	1	the story ends; the 导读 index box (teasers with page pointers) follows
+newspaper_chn_e73ccfbf	BREAK	74	67	1	the story ends; a stand-alone news photo with its caption (railway) follows
+newspaper_chn_e73ccfbf	BREAK	158	123	2	the story ends; the photo of the next photo story (匈牙利发行兔年生肖邮票, printed before its title) follows
+newspaper_chn_eb87830d	BREAK	52	36	1	the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows
+newspaper_chn_eb87830d	BREAK	155	129	2	the story ends; a stand-alone news photo with its caption (Hainan duty-free) follows
+newspaper_chn_eb87830d	BREAK	261	241	4	the story ends; a stand-alone news photo with its caption (wetland in early winter) follows
+newspaper_chn_eb87830d	BREAK	267	263	4	the story ends; the photo of the next photo story (乡村企业 便民就业, printed before its title) follows
+newspaper_chn_ec796be7	BREAK	29	10	1	the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows
+newspaper_chn_ed6aed31	BREAK	10	4	1	the story ends; a stand-alone news photo with its caption (大美中国 丰收画卷) follows
+newspaper_eng_105ddbb0	BREAK	16	7	1	the story ends (SEE IRAN ON A18); a pointer line to another story (French election ... A17) follows
+newspaper_eng_105ddbb0	BREAK	24	17	1	the story ends (SEE CRASH ON A14); the map of the next story (4.1 million migrants, printed above its headline) follows
+newspaper_eng_105ddbb0	BREAK	60	51	1	the last front-page story ends; the teaser strip (METRO, SPORTS, TRAVEL ...) and the coupon box follow
+newspaper_eng_105ddbb0	BREAK	120	80	2	the column ends; the colophon / contact box (masthead restated, delivery and newsroom numbers) follows
+newspaper_eng_105ddbb0	BREAK	137	133	2	the corrections box ends; display ads and a promo box (Retropolis) follow
+newspaper_eng_105ddbb0	BREAK	376	313	5	the jumped story ends (Ashley Parker contributed); the Wolf Trap display ad follows
+newspaper_eng_105ddbb0	BREAK	535	417	7	the jumped story ends; the Window Nation display ad follows
+newspaper_eng_105ddbb0	BREAK	601	539	8	the explainer ends; the Kohler display ad follows
+newspaper_eng_105ddbb0	BREAK	662	609	9	the jumped story ends; the Case display ad follows
+newspaper_eng_1153fb03	BREAK	15	4	1	the story ends (MASS SHOOTING, Page A7); the pull quote and photo of the next story (From fractured past, printed above its headline) follow
+newspaper_eng_1153fb03	BREAK	32	20	1	the story ends (SLAVERY, Page A7); the teaser column, the photo teaser (SHOOTING FOR MORE ... C1) and the weather box follow
+newspaper_eng_1153fb03	BREAK	65	52	1	the story and its photo end; the ELECTION 2024 teaser box (Bittersweet for Biden ... A4, The white pantsuit ... A4) follows
+newspaper_eng_1153fb03	BREAK	608	564	7	the jumped story ends; the colophon / subscription box (BOSTON GLOBE MEDIA, mail subscription rates) follows
+newspaper_eng_30d4d13c	BREAK	43	32	1	the story ends (Continued on page 2); the IN THE NEWS teaser box (every item ends in a page pointer) follows
+newspaper_eng_79250562	BREAK	32	21	3	the product feature ends; the magazine colophon (EDITOR ... DEPUTY EDITOR ...) follows, then a full-page ad
+newspaper_eng_8a4769ba	BREAK	28	12	1	the story ends (Continued on page 2); the Eriksson photo teaser (News, page 7, Obituary, page 37) follows
+newspaper_eng_8a4769ba	BREAK	41	31	1	the story ends (Continued on page 6); the IN THE NEWS teaser box follows
+newspaper_eng_8a4769ba	BREAK	168	146	4	the p3 story ends; a stand-alone news photo with its caption (Sweet celebration, Greenwich) opens p4
+newspaper_eng_8a4769ba	BREAK	221	219	4	the last brief ends; the Times Radio ad follows
+newspaper_eng_ad370234	BREAK	28	14	1	the story ends (See SHOOTING, Page 2A); the barcode / home-delivery box and the photo of the next story (Rallygoer's death, printed above its headline) follow
+newspaper_eng_ad370234	BREAK	41	33	1	the story ends (See COMPERATORE, Page 3A); the MORE COVERAGE pointer box follows
+newspaper_eng_ad370234	BREAK	140	106	2	the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows
+newspaper_eng_ad370234	BREAK	324	289	5	the story ends (Contributing: Karen Weintraub); the Floridian Club display ad follows
+newspaper_eng_ad370234	BREAK	504	459	7	the column ends; the staff box (masthead restated, executives) follows
+newspaper_eng_ad370234	BREAK	515	419	8	the Opinion page ends; a full-page display ad (Fisher Investments) under the running tag NEWS follows
+newspaper_eng_ad370234	BREAK	736	732	12	the HIGHLIGHT: INDIANA brief (photo, caption, Bloomington brief) ends; the run-in state briefs of 50 States follow
+newspaper_eng_ad370234	RESTORED	732		12	HIGHLIGHT: INDIANA L4 under 50 States (#730); was text only by containment (round 4); its block is photo, caption and Bloomington brief; the break before #736 closes it
+newspaper_eng_b5e01773	BREAK	35	26	1	the story ends (HOSPITAL, Page A15); the skybox photo, teaser column, weather box and barcode follow, then the pull quote of the next story
+newspaper_eng_b5e01773	BREAK	62	49	1	the story and its photo end; the Eastern Bank display ad follows
+newspaper_eng_b5e01773	BREAK	143	135	2	the briefs column ends; the INDEX box follows
+newspaper_eng_b5e01773	BREAK	208	190	4	the story ends; a stand-alone photo brief (RETURN TO FORMALITY) and the photo of the next story follow
+newspaper_eng_b5e01773	BREAK	250	214	5	the story ends on p4; a full-page display ad (Mass General Brigham) fills p5
+newspaper_eng_b5e01773	BREAK	301	262	6	the story ends; display ads (Sunrise of Newton, N.E.T.R.) follow
+newspaper_eng_b5e01773	BREAK	361	336	7	the story ends; display ads (Beal Bank, aday) follow
+newspaper_eng_b6de1de8	NONE				pages 1-6 rendered with --tree and viewed; cover, Eyewitness photo spread, colophon and contents page sit under L1 before the first section (no heading open); Global report briefs each run to the next brief headline; The rat pack stays text (its block is a caption)
+newspaper_eng_c21bfc8c	BREAK	27	19	1	the story ends (See COLLEGES, Page 4A); the barcode / home-delivery box follows
+newspaper_eng_c21bfc8c	BREAK	42	32	1	the package story's front-page part ends (See HOPE, Page 2A); the package photo caption and the About this series box follow
+newspaper_eng_c21bfc8c	BREAK	116	72	2	the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows
+newspaper_eng_c21bfc8c	BREAK	267	239	4	the jumped story ends; the photo of the next jump (Colleges, printed above its jump head) follows
+newspaper_eng_c21bfc8c	BREAK	342	305	5	the explainer ends; the Empire Today display ad follows
+newspaper_eng_c21bfc8c	BREAK	517	433	8	the Opinion page ends; a full-page display ad (Luxury Escapes) under the running tag NEWS follows
+newspaper_eng_daf7a3e4	BREAK	38	27	1	the story ends (BIDEN, Page A8); the hydrangea photo teaser (BLOOMIN' GROUP ... B1) follows
+newspaper_eng_daf7a3e4	BREAK	72	61	1	the story ends (URGENT CARE, Page A12); the teaser column, weather box and barcode follow
+newspaper_eng_daf7a3e4	BREAK	165	159	3	the For the record box ends p2; a full-page display ad (Herb Chambers) fills p3
+newspaper_eng_daf7a3e4	BREAK	255	232	5	the briefs column ends p4; a full-page display ad (Mohegan Sun) fills p5
+newspaper_eng_daf7a3e4	BREAK	327	311	6	the story ends (WASHINGTON POST); the A Capitol Fourth display ad follows
+newspaper_eng_daf7a3e4	BREAK	356	332	7	the story ends on p6; a full-page display ad (Boston Pops / Herb Chambers) fills p7
+newspaper_eng_daf7a3e4	BREAK	809	793	13	the story ends (PIER, Page B5); a stand-alone photo brief (SAILORS AND SERENADES ... B3) follows
+newspaper_eng_e4dd9616	BREAK	30	21	1	the story ends (See OUTDATED 911, Page 2A); the barcode / home-delivery box follows
+newspaper_eng_e4dd9616	BREAK	119	87	2	the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows
+newspaper_eng_e4dd9616	BREAK	227	200	4	the story ends; the PAID ADVERTISEMENT label of the advertorial below it follows
+newspaper_eng_ed12985c	BREAK	24	14	1	the story ends (See PAGE, Page 4A); the teaser (Biden backers sound off ... 6A) with its photo and the barcode box follow
+newspaper_eng_ed12985c	BREAK	142	118	2	the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows

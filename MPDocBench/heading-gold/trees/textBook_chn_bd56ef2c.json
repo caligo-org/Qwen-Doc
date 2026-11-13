@@ -50,6 +50,42 @@
   },
   {
    "boxes": [
+    67
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "问题导引",
+   "why": "round 5: restored; topic-opener panel label 问题导引 over its own bullet list (#68-69): heading at the level of the topic's sections (v3 label rule); the next panel 学习目标 closes it"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "学习目标",
+   "why": "round 5: restored; topic-opener panel label 学习目标 over its own bullet list (#72-73): heading at the level of the topic's sections; the next panel 核心术语 closes it"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "核心术语",
+   "why": "round 5: restored, a break now closes it before #79; topic-opener panel label 核心术语 over its own term list (#76-78): heading at the level of the topic's sections"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "“资源赌约”谁会赢",
+   "why": "round 5: restored, a break now closes it before #89; 探究 box title over its own block (story #81-83 + questions #85-86): heading one level below 主题1 by the box rule"
+  },
+  {
+   "boxes": [
     91
    ],
    "level": 4,
@@ -107,23 +143,19 @@
   {
    "box": 104,
    "why": "kind label 阅读 printed before the box title: label, text"
-  },
-  {
-   "box": 80,
-   "why": "“资源赌约”谁会赢: was L4 heading; round 3 breadcrumb review, containment: main text of the topic (p9 #89-90, definition of 自然资源) follows the box with no heading before 自然资源的类型 and would fall under the box title -> text"
-  },
-  {
-   "box": 75,
-   "why": "核心术语: was L4 heading; round 3 breadcrumb review, containment: the 探究 box and the topic's main text (p9 #89-90) follow with no heading closing the panel; panel label is a callout of the topic opener -> text"
-  },
-  {
-   "box": 71,
-   "why": "学习目标: was L4 heading; round 3 breadcrumb review, containment: the following panels, the 探究 box and main text would fall under it (no heading closes the panel); callout of the topic opener -> text"
-  },
-  {
-   "box": 67,
-   "why": "问题导引: was L4 heading; round 3 breadcrumb review, containment: the following panels, the 探究 box and main text would fall under it (no heading closes the panel); callout of the topic opener -> text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 79,
+   "closes": 75,
+   "why": "panel row ends at the dotted rule; the 探究 box (kind label #79 + title #80) is not about 核心术语"
+  },
+  {
+   "before": 89,
+   "closes": 80,
+   "why": "探究 box ends at the page; the topic's main text (definition of 自然资源) resumes under 主题1"
+  }
+ ]
 }

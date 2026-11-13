@@ -22,7 +22,9 @@ if use_tree:
         for m in n['boxes'][1:]: lab[m]=(n['level'],f"∪ part of #{a}")
     for x in t['repeats']:
         for b in x['boxes']: lab[b]=('rep',f"REPEAT of #{x['of']} (not a node)")
+    BRK={x['before']:x['closes'] for x in t.get('breaks',[])}
 else:
+    BRK={}
     for a,(d,p) in gt.items(): lab[a]=(d or 0,f"L{d} #{a}" if d else f"no-rel #{a}")
 ims=[]
 for p in pages:
@@ -36,6 +38,9 @@ for p in pages:
             c=COL.get(lab[a][0],(90,90,90)); txt=lab[a][1]; dr.rectangle(b,outline=c,width=3); f=F
         else:
             c=(150,150,150); txt=f"#{a} {e['category_type'][:6]}"; dr.rectangle(b,outline=c,width=1); f=FS
+        if a in BRK:  # break: thick red line above the box, the section of #closes ends here
+            dr.line([0,b[1]-6,im.width,b[1]-6],fill=(230,0,0),width=5); bt=f"BREAK closes #{BRK[a]}"
+            dr.rectangle([im.width-dr.textlength(bt,font=F)-8,b[1]-28,im.width,b[1]-8],fill=(230,0,0)); dr.text((im.width-dr.textlength(bt,font=F)-4,b[1]-28),bt,fill='white',font=F)
         if a in HL: dr.rectangle([b[0]-4,b[1]-4,b[2]+4,b[3]+4],outline=(255,0,0),width=6)
         tw=dr.textlength(txt,font=f); h=f.size+3; ty=b[1]-h if b[1]>=h else b[1]
         dr.rectangle([b[0],ty,b[0]+tw+4,ty+h],fill=c); dr.text((b[0]+2,ty),txt,fill='white',font=f)

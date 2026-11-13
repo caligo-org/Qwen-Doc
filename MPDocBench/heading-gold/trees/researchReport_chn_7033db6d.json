@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    4
+    4,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "快递专题：双十一临近，利好快递板块",
-   "why": "title: report headline"
+   "text": "中国银河证券 快递专题：双十一临近，利好快递板块",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (中国银河证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -120,6 +121,13 @@
   {
    "box": 2,
    "why": "running report-type header"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 5,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (industry tag, rating, analysts, chart, related research); not about 核心观点"
   }
  ]
 }

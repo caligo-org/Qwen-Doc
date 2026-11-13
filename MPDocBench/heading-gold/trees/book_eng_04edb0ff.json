@@ -304,5 +304,12 @@
    "box": 30,
    "why": "side-tab section tag printed before the section heading on the same page (running tag)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 114,
+   "closes": 109,
+   "why": "the shaded 'Practical Recommendations' bullet box ends; main-column text about buying vs producing hay resumes under the section"
+  }
  ]
 }

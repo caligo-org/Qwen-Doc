@@ -5,12 +5,13 @@
   {
    "boxes": [
     4,
-    10
+    10,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复",
-   "why": "title union (round 3): the covered industry + report type is printed only in the banner box fused with the rating (动力电池行业行业研究 买入（维持评级）); per NOTATIONS the node uses that box and its text is only the heading part, ∪ the headline"
+   "text": "国金证券 动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复",
+   "why": "title union (round 3): the covered industry + report type is printed only in the banner box fused with the rating (动力电池行业行业研究 买入（维持评级）); per NOTATIONS the node uses that box and its text is only the heading part, ∪ the headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (国金证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -90,6 +91,13 @@
   {
    "box": 29,
    "why": "table caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 54,
+   "closes": 44,
+   "why": "round 5: office address blocks (上海/北京/深圳, colophon) after the disclaimer text are not about 特别声明"
   }
  ]
 }

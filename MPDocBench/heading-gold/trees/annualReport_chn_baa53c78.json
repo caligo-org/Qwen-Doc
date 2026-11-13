@@ -124,5 +124,12 @@
    "box": 7,
    "why": "cover date line"
   }
+ ],
+ "breaks": [
+  {
+   "before": 36,
+   "closes": 33,
+   "why": "round 5: the 利润分配预案 paragraph after the last risk item is not about 5、疫情冲击风险; it belongs to 第一节"
+  }
  ]
 }

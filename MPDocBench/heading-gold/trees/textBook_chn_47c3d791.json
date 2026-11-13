@@ -81,7 +81,7 @@
  "not_headings": [
   {
    "box": 28,
-   "why": "问题导入: was L3 heading; round 3 breadcrumb review, containment: its block is only the grey question #29; the lesson's main text (#30, p7 #35-50) follows with no heading before 一、 and would fall under 问题导入 -> text"
+   "why": "问题导入: was L3 heading; round 3 breadcrumb review, containment: its block is only the grey question #29; the lesson's main text (#30, p7 #35-50) follows with no heading before 一、 and would fall under 问题导入 -> text; round 5: kept text, its block #29 is a one-paragraph question prompt (callout by substance, not only containment)"
   }
  ],
  "considered": []

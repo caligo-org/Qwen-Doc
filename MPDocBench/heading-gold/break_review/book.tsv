@@ -1,0 +1,59 @@
+doc	kind	box	closes	page	note
+book_chn_0875d4ae	RESTORED	247		15	4岁以前乳牙𬌗特征: round 5: restored, a break now closes it (before #267, after the sibling label #257 closes it by level); own-line label with its own (1)-(4) block inside run-in item '1. 乳牙𬌗特征'; L5 under （二）不同发育阶段𬌗特征
+book_chn_0875d4ae	RESTORED	257		15	4~6岁期间乳牙𬌗特征是：: round 5: restored, a break now closes it before the run-in item '2. 混牙𬌗特征' (#267); own-line label with its own (1)-(4) block and closing paragraph; L5 under （二）不同发育阶段𬌗特征
+book_chn_0875d4ae	BREAK	267	257	15	run-in item '2. 混牙𬌗特征' of the outer list follows the restored own-line label '4~6岁期间乳牙𬌗特征是：'; the break closes it so items 2./3. sit under （二）不同发育阶段𬌗特征
+book_chn_38c7e1dc	BREAK	117	112	8	the 【指导案例】 callout (guiding case on related-company personality confusion) follows the litigation-status list; it is about 二、法人人格否认 as a whole, not about （三）法人人格否认诉讼地位
+book_chn_69dd792e	BREAK	371	365	25	run-in sibling '3. 腭大神经血管束' (inside paragraph box) follows own-line '2. 舌神经和舌下神经'; per the run-in-sibling rule a break closes the previous label, so items 3.-5. sit under 一、重要的解剖结构与外科手术
+book_chn_69dd792e	BREAK	385	378	26	run-in sibling '7. 唇动脉与Abbe瓣' follows own-line '6. 舌动脉'; the break closes it, so items 7.-9. sit under 一、
+book_chn_a0187360	BREAK	9	7	1	the 目录 list ends; the author biography and the 重要说明 note that follow are not about the contents
+book_chn_dbd95bcd	NONE				pp1-20 viewed with the tree drawn: 本章主要内容提示 boxes closed by 第一节, every numbered level runs to the next heading, 【本章主要法律规定】 lists closed by the next chapter; no untitled content after a heading's block
+book_chn_dd57800f	BREAK	101	99	7	the [萌主点拨] box holds only the 征收 VS 征用 table; the inheritance diagram, its [图释] explanation and the practice question that follow are about （二）非基于民事法律行为的物权变动 (inheritance row), not about that box
+book_chn_f0c264a5	BREAK	6	3	1	the dashed 提要 summary frame ends; the chapter's untitled introductory text (pp1-2) follows outside the frame and belongs to the chapter
+book_eng_04edb0ff	BREAK	114	109	9	the shaded 'Practical Recommendations' bullet box ends; main-column text about buying vs producing hay resumes under the section
+book_eng_0f8b3268	BREAK	119	107	11	the 'should not do' list ends; the closing paragraph about violating any of the rules (and the women's rules) belongs to Rules of the Game
+book_eng_10fbf0e9	NONE				pp1-18 viewed with the tree drawn: the dedication is closed by chapter 1; chapters 1-8 each run to the next chapter number
+book_eng_1ba1e70d	NONE				pp1-6 viewed with the tree drawn: cover, title page, dedication; the Contents list (chapter links with first lines) runs to the end of the excerpt
+book_eng_21695dfc	BREAK	18	16	3	the framed '1956' sidebar ends; the pull quote and the main text of section 2 resume
+book_eng_3ef07034	BREAK	106	103	7	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Apricot Chicken Tagine', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	134	131	8	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Roasted Eggplant Spread', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	156	152	9	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Baklava-Inspired Baked Oatmeal', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	187	185	10	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Curried Chicken Salad', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	211	204	11	the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kofta (Turkey Kebabs)', not about 'Directions'
+book_eng_3ef07034	BREAK	240	237	12	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Microwave White Bean and Egg Shakshuka', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	265	263	14	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Black Rice Porridge', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	304	301	15	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Chicken Chow Mein', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	329	326	16	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Garlic Edamame', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	360	357	17	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Hot-and-Sour Soup', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	391	389	18	the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kimchi', not about 'Recipe Notes'
+book_eng_3ef07034	BREAK	426	416	19	the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Vegetable Pad Thai', not about 'Directions'
+book_eng_4ba599d0	BREAK	15	10	5	title page (author, restated title, imprint) follows the 'Also by' series lists; closes the Also-by page
+book_eng_4dc2618c	NONE				pp1-3 viewed with the tree drawn: L1 only; publisher ebook insert and author title page are text under L1
+book_eng_600ba37c	BREAK	7	3	1	the Before Reading questions box ends; the story (illustration, then text) resumes under the story title
+book_eng_600ba37c	BREAK	34	30	3	Before Reading box ends; the story resumes
+book_eng_600ba37c	BREAK	114	110	8	Before Reading box ends; the story resumes
+book_eng_600ba37c	BREAK	172	168	12	Before Reading box ends; the story text resumes
+book_eng_77552588	BREAK	125	120	6	the second KEY POINTS box of p5 ends; the main column of WORKING WITH OTHERS (healthy-organizations list and paragraph) resumes on p6
+book_eng_77552588	BREAK	165	161	8	the KEY POINT box ends; the main patient-consent text resumes on p8
+book_eng_77552588	BREAK	203	197	10	the KEY POINTS box of p10 ends; the main column of PLANNING (in-service training list, educational planning text) resumes
+book_eng_82b4201c	NONE				pp1-22 viewed with the tree drawn: the TOC (p2) is closed by I.; every lettered subsection runs to the next; the per-page figures are the running page logo
+book_eng_9997c276	NONE				pp1-2 viewed with the tree drawn: L1 only (cover and title-page repeat)
+book_eng_9c2fed1c	NONE				pp1-6 viewed with the tree drawn: L1 only; back-cover blurb, title page and copyright page sit under L1
+book_eng_9d008b33	BREAK	10	6	3	untitled copyright page follows the 'By the same author' list; not about it
+book_eng_9d008b33	BREAK	22	20	6	untitled novel text starts after the Contents list; not about Contents
+book_eng_9e4de927	BREAK	15	12	6	untitled epigraph page follows the Table of Contents list; not about the contents
+book_eng_a59ff1e5	BREAK	77	69	5	printed head 'Locating House on Property' has no box of its own (OCR folded it); its content must not sit under 'Identifying Property Lines' (the next unboxed head 'Locating Outlying Landscape Features' #80 follows under the same parent)
+book_eng_a59ff1e5	BREAK	122	111	9	lead-in about the Step 1 Checklist ('Before proceeding to Step 2, carefully review the following'), not about transferring measurements
+book_eng_a59ff1e5	BREAK	166	150	10	lead-in about the Step 2 Checklist ('Review the checklist below before proceeding to Step 3'), not about Views / environmental features
+book_eng_a59ff1e5	BREAK	261	249	18	printed head 'Pulling it all together' has no box of its own; its two paragraphs must not sit under 'Accenting the main entrance'
+book_eng_a59ff1e5	BREAK	277	264	19	printed head 'Plant Palette' has no box of its own (OCR folded it into #276); its paragraph must not sit under 'Section One: Selecting plants'
+book_eng_ab95f5db	NONE				pp1-15 viewed with the tree drawn: inside-cover boxes, Acknowledgments, label boxes (Learning Objectives, Guiding Principles, Strategy boxes, transcript labels) each closed by the next heading; no untitled content after a heading's block
+book_eng_b155f179	NONE				pp1-18 viewed with the tree drawn: Preface ends at chapter 1; the objectives list sits under the chapter (no label); each L3 section runs to the next L3
+book_eng_b5a23ac1	BREAK	134	110	14	closing paragraph about all the guidelines ('I hope you see that these guidelines are for YOUR benefit') follows the General Guidelines list; belongs to the Safety Guidelines section
+book_eng_c5211a9e	BREAK	24	22	3	closing paragraph about the whole list of principles 1.-4. ('Keeping in line with these principles, ...') follows the last item 4. Variation; belongs to the list's parent
+book_eng_d4818a54	NONE				pp1-9 viewed with the tree drawn: Dedication, CONTENTS (pp4-6) and the Playlist each run to the next L2; chapter 1 runs to the end
+book_eng_dc66edfa	BREAK	104	95	11	run-in sibling 'Ring Topology' (inside paragraph box #104) follows own-line 'Bus Topology:'; per the run-in-sibling rule a break closes the previous label, so the ring content sits under 1.2.3.1 Physical Topology
+book_eng_e343e570	BREAK	258	252	17	printed head 'Design Solutions:' has no box of its own (OCR put it inside bullet box #257); its three solution bullets must not sit under GOAL / 'Plant Characteristics to Look For:' (in every other scenario Design Solutions is a sibling of GOAL)
+book_eng_ea532ac6	NONE				pp1-3 viewed with the tree drawn: L1 only; title page and copyright page under L1
+book_eng_efc51bfb	NONE				pp1-5 viewed with the tree drawn: L1 only; title page and copyright/CIP pages under L1
+book_eng_f2e8d789	BREAK	68	63	8	the 'In This Chapter, You'll Learn:' objectives box ends; the chapter's untitled opening narrative starts (drop cap) and belongs to Chapter 1
+book_eng_f2e8d789	BREAK	192	180	17	closing paragraph about all 3 pillars ('These definitions describe our intentions as we created each of the 3 Pillars') follows the last pillar item 3 Habit; belongs to The 3 Pillars of Mindpower

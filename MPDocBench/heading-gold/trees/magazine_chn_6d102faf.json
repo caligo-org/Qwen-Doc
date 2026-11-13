@@ -23,5 +23,12 @@
  ],
  "repeats": [],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 8,
+   "why": "film write-up ends; pointer box (scan QR to follow the magazine account) follows, not about the film"
+  }
+ ]
 }

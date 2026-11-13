@@ -481,5 +481,17 @@
    "box": 41,
    "why": "contents box printed inside the 使用必读 page. Breadcrumb review r3: as L3 under 使用必读 the path is no breadcrumb (the contents covers the whole document and lists 使用必读 itself); as L2 it would take 附件/关于本手册/操作注意事项 into its subtree (containment). Text."
   }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 9,
+   "why": "the warning box and its power-plug note end; the separate standards box (national standard numbers, product standard) is regulatory info about the product, not safety precautions"
+  },
+  {
+   "before": 172,
+   "closes": 167,
+   "why": "the six wizard step panels end; '这样就完成了安装向导。' closes the whole step list (belongs to 安装向导)"
+  }
  ]
 }

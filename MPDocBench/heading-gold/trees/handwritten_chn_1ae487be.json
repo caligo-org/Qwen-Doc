@@ -244,5 +244,12 @@
    "box": 236,
    "why": "notebook Date header: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 188,
+   "closes": 148,
+   "why": "round 5: items 20-22 write equations from conversion diagrams (图1/图2), not from principles/uses; no 考法 title is printed for them, so they sit under the round-2 banner"
+  }
  ]
 }

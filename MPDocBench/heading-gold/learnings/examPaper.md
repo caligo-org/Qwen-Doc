@@ -142,3 +142,21 @@ check.py shows no ERROR on any doc.
   document (truncated pack), so the node has no content on these pages.
 - Checked, no fix: no group line missed in 0fced805, 6b10fb9e, 254e4dc5 (no module labels printed for 13-16),
   3e46326d (第Ⅱ卷 has only question titles 22-25).
+
+## Round 5 (breaks)
+Scope: all 38 examPaper docs, every page viewed with the tree drawn (show.py --tree) and read in reading order.
+Lines in review/breaks/examPaper.tsv.
+- Breaks: 4, in 3 docs. Restored: 6 nodes. check.py: no ERROR on any doc.
+- eng_0b2fd078: "a - 1st method" (#13) and "2nd method" (#28) were text only by containment (run-in part b would fall
+  under them). Restored as L2 under "Solution of question 3." (same italic look), break before #36 (part b) closes #28.
+  Supersedes the round-1 "method labels ... text" note.
+- eng_6c2631df: "Solution:" (#1, L1), "Numerical solution:" (#20, L2), "Numerical results:" (#34, L2), "Solution:" of
+  problem 2 (#40, L1) restored; breaks before #22 (run-in Case 2) closes #20 and before #36 (run-in Problem 2) closes
+  #1. Resolves the "solution labels vs run-in problems" case: the label rule now applies, breaks fix containment.
+- eng_2122d135: break before Fig. 11 (#34) closes "Experimental part:" (#27): the figure follows the marks list and is
+  the example graph the Solution text cites ("example is shown in Fig. 11"), so it belongs to Solution. Supersedes the
+  round-3 ACCEPTED note that kept it under Experimental part.
+- No break elsewhere: exam groups and parts close by level; front labels (考试注意/考生注意/参考公式) end at the next
+  part; questions, stems, 材料一/二, sub-task numbers and captions stay text for their own reasons (not containment).
+- eng_930559d3: boxed callout #84 after the "Guidance for teams" list (COMAP acts on undisclosed AI use) is about the
+  teams' disclosure duty, so it stays under Guidance for teams; no break.

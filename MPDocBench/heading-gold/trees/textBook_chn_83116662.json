@@ -113,5 +113,12 @@
    "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 28,
+   "why": "contents end on p6; the full-page picture on p7 is the left half of the chapter-1 opening spread, not part of the contents"
+  }
+ ]
 }

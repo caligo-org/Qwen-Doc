@@ -1,0 +1,46 @@
+doc	kind	box	closes	page	note
+researchReport_chn_17cde74d	NONE				RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); cover sidebar (related reports) continues on p2 (#29) between 投资要点 bullets, so a break before it would also move the later summary text #30-#33 out of 投资要点; how to close an interleaved sidebar? No break added. pages viewed with show.py --tree
+researchReport_chn_1c78bccd	NONE				checked: each column piece ends with its own 風險提示 line (about that piece); 免責聲明 runs to the end. pages viewed with show.py --tree
+researchReport_chn_1f9ad79f	NONE				checked: every section runs to the next heading; author line sits under L1 before 摘要. pages viewed with show.py --tree
+researchReport_chn_1fb28f59	RESTORED	8		1	L2 投资要点: round 5: restored, a break now closes it before the cover sidebar; cover summary title with its bullet block (L2, category convention)
+researchReport_chn_1fb28f59	RESTORED	42		2	L2 图表目录: round 5: restored, a break now closes it before the unheaded body (p3); front-matter figure-list title with its list block (L2)
+researchReport_chn_1fb28f59	BREAK	15	8	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; back to L1; pages viewed with show.py --tree
+researchReport_chn_1fb28f59	BREAK	49	42	3	round 5: the figure list ends and the unheaded body (pp3-6, only bold run-ins) starts; it is not about 图表目录; pages viewed with show.py --tree
+researchReport_chn_2161890a	BREAK	20	7	1	round 5: host/contact box (主持人, 电话, 传真) after the overview boxes is not about 概览; pages viewed with show.py --tree
+researchReport_chn_2161890a	BREAK	57	48	4	round 5: office address block (colophon) after the disclaimer text is not about 免责声明; pages viewed with show.py --tree
+researchReport_chn_25d1b14f	BREAK	26	24	1	round 5: the risk bullet ● 风险提示 (text: one-line run-in) is not about 受益标的组合； it belongs to the cover summary level; pages viewed with show.py --tree
+researchReport_chn_4064c117	BREAK	21	10	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (rating, target price, base data, chart, related reports, authors); not about 点评; pages viewed with show.py --tree
+researchReport_chn_476a222a	NONE				checked: cover sidebar comes before 投资要点 in reading order; TOC/figure list end at the next heading. pages viewed with show.py --tree
+researchReport_chn_5463fcf3	BREAK	11	7	1	round 5: broker address block (colophon) after the 产品提示 items is not about them; pages viewed with show.py --tree
+researchReport_chn_5463fcf3	BREAK	22	14	2	round 5: risk line and 本期【卓越推】暂不推荐 (one-line run-ins, text) are not about the weekly industry view; pages viewed with show.py --tree
+researchReport_chn_5f00096d	BREAK	17	15	1	round 5: the 风险提示 bullet closes the last summary item; it is about the whole summary, not 拥有一线蓝筹; pages viewed with show.py --tree
+researchReport_chn_5f00096d	BREAK	21	6	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; not about 报告摘要; pages viewed with show.py --tree
+researchReport_chn_641838eb	NONE				checked: sidebar and forecast table come before 投资要点; ● 风险提示 is a summary bullet. pages viewed with show.py --tree
+researchReport_chn_7033db6d	BREAK	15	5	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (industry tag, rating, analysts, chart, related research); not about 核心观点; pages viewed with show.py --tree
+researchReport_chn_a2f46550	BREAK	13	11	1	round 5: own-line 风险提示 run-in, the company financial table and the sidebar follow the 财务预测与投资建议 block and are not about it; pages viewed with show.py --tree
+researchReport_chn_a2f46550	BREAK	90	80	5	round 5: office address box (colophon) after the disclaimer text is not about 免责声明; pages viewed with show.py --tree
+researchReport_chn_a988638a	NONE				checked: unheaded body under L1, rating/disclaimer titles close each other. pages viewed with show.py --tree
+researchReport_chn_ae3bbb85	BREAK	26	23	1	round 5: run-in 投资建议, the risk line and the stock table follow the news bullets and are not about 本周行业主要动态 (they belong to 投资要点); pages viewed with show.py --tree
+researchReport_chn_b857707d	BREAK	54	44	4	round 5: office address blocks (上海/北京/深圳, colophon) after the disclaimer text are not about 特别声明; pages viewed with show.py --tree
+researchReport_chn_d07a67be	BREAK	9	6	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (date, report type, analyst, office box); not about 点评; pages viewed with show.py --tree
+researchReport_chn_d0eac218	BREAK	16	4	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (analysts, chart, base data, related research); not about 投资要点; pages viewed with show.py --tree
+researchReport_chn_dd0407a2	NONE				checked: sidebar precedes the body; statements p3 sit under 数据预测与估值; disclaimer runs to the end. pages viewed with show.py --tree
+researchReport_chn_e960c7b3	BREAK	23	5	1	round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (main data, chart, related reports, authors); not about 报告要点; pages viewed with show.py --tree
+researchReport_chn_e960c7b3	BREAK	48	46	2	round 5: office address box (colophon) after the disclaimer text is not about 免责条款; pages viewed with show.py --tree
+researchReport_eng_02963ff9	NONE				checked: cover and p2 exhibit under L1 before the first section; disclosure parts each run to the next heading; copyright lines belong to General disclosures. pages viewed with show.py --tree
+researchReport_eng_1588f970	BREAK	27	15	1	round 5: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE; pages viewed with show.py --tree
+researchReport_eng_39be8c41	NONE				checked: author list (text) p2 under L1 before Table of Contents; redaction note on p3 is a footer. pages viewed with show.py --tree
+researchReport_eng_4872e373	NONE				checked: cover and exhibit pages under L1 before PM Summary. pages viewed with show.py --tree
+researchReport_eng_53adef78	NONE				checked: cover under L1; TOC ends at Executive summary. pages viewed with show.py --tree
+researchReport_eng_5b6f3871	BREAK	27	17	1	round 5: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE; pages viewed with show.py --tree
+researchReport_eng_aaabf80f	BREAK	25	16	1	round 5: closing pull-quote mark of the cover quotes and the editor names/emails (colophon) are not about WHAT'S INSIDE; pages viewed with show.py --tree
+researchReport_eng_af983a3b	NONE				checked: each numbered question runs to the next one. pages viewed with show.py --tree
+researchReport_eng_b36642e7	BREAK	40	38	3	round 5: the redaction note after the contents list is about the whole report, not about Table of Contents; pages viewed with show.py --tree
+researchReport_eng_b3735ab5	NONE				RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); crossword note #36 (Puzzle made at... Solutions on pg. 41) is about the whole puzzle but sits in reading order between Across clues (#37/#38 follow it); a break would move those clues out of Across:. No break added. Rest checked. pages viewed with show.py --tree
+researchReport_eng_bcc8ee71	NONE				RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); analyst names #12-#19 follow the first point of Where are we headed? and the section text resumes on p2 (#26); a break would move that text out of the section. No break added. pages viewed with show.py --tree
+researchReport_eng_bfd076b2	NONE				checked: cover under L1; outlook sections run to the next heading. pages viewed with show.py --tree
+researchReport_eng_d3339752	NONE				checked: cover and TOC; infographic stats under Impact through Affordability. pages viewed with show.py --tree
+researchReport_eng_d3abe75a	NONE				checked: cover and restated headline (repeat) under L1; two sections run to the next heading. pages viewed with show.py --tree
+researchReport_eng_df933ffb	NONE				checked: cover, AUTHORS (text) and chart pages; figure-content labels stay inside Exhibit 14. pages viewed with show.py --tree
+researchReport_eng_f653f866	NONE				checked: cover under L1; sections run to the next heading. pages viewed with show.py --tree
+researchReport_eng_f8406343	NONE				checked: cover under L1; Q1-Q5 each run to the next question. pages viewed with show.py --tree

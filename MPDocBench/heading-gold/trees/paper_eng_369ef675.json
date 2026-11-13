@@ -523,5 +523,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 209,
+   "closes": 207,
+   "why": "round 5: closing paragraph \"Overall, the systematic literature review shows...\" about the whole list of factors 1-10 follows the last item; it belongs to the list's parent"
+  }
+ ]
 }

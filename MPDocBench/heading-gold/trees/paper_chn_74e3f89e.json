@@ -99,5 +99,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 84,
+   "closes": 78,
+   "why": "round 5: the reference list ends; the editor credit \"（责任编辑：朱犁）\" follows, not a reference (belongs to the paper)"
+  }
+ ]
 }

@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    2
+    2,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "2025年第三季度新兴品类简报",
-   "why": "title: report title (publisher printed only as logo and slogan)"
+   "text": "千瓜 2025年第三季度新兴品类简报",
+   "why": "title: report title (publisher printed only as logo and slogan) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (千瓜) joins the union after the title box."
   },
   {
    "boxes": [
@@ -139,6 +140,13 @@
   {
    "box": 38,
    "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 13,
+   "closes": 9,
+   "why": "the 趋势调研 box ends; the four category pictures beside it belong to the 前言 slide #7"
   }
  ]
 }

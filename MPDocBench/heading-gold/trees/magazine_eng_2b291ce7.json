@@ -428,5 +428,37 @@
    "why": "contact box title (WRITE TO US) in the colophon area"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 14,
+   "why": "contents list ends; cover-photo credit and copyright line follow (colophon text, not contents)"
+  },
+  {
+   "before": 46,
+   "closes": 24,
+   "why": "editorial ends; cover thumbnail, WRITE TO US contact box, price list and Chinese colophon follow (not the editor's desk)"
+  },
+  {
+   "before": 107,
+   "closes": 105,
+   "why": "photo item A Flourishing Industry is its caption only; the College Graduates text resumes after it and is not about the photo (closes only the photo item; the resumed text sits in THIS WEEK SOCIETY)"
+  },
+  {
+   "before": 154,
+   "closes": 142,
+   "why": "NUMBERS data box ends on p8; the Carbon Market Expansion text resumes on p9 and is not about NUMBERS (it sits in THIS WEEK ECONOMY)"
+  },
+  {
+   "before": 175,
+   "closes": 169,
+   "why": "Rural Banks item ends; the NUMBERS FDI chart continued from p8 follows, not about Rural Banks (it sits in THIS WEEK ECONOMY)"
+  },
+  {
+   "before": 246,
+   "closes": 240,
+   "why": "YOUNGEST CAS MEMBER item ends; the POINTS quote band (quotes by other people) follows, not about this item"
+  }
+ ]
 }

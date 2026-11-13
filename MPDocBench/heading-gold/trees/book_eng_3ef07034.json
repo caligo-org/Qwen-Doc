@@ -632,5 +632,67 @@
    "box": 429,
    "why": "footer link 'Table of Contents' (navigation), not a heading"
   }
+ ],
+ "breaks": [
+  {
+   "before": 106,
+   "closes": 103,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Apricot Chicken Tagine', not about 'Recipe Notes'"
+  },
+  {
+   "before": 134,
+   "closes": 131,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Roasted Eggplant Spread', not about 'Recipe Notes'"
+  },
+  {
+   "before": 156,
+   "closes": 152,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Baklava-Inspired Baked Oatmeal', not about 'Recipe Notes'"
+  },
+  {
+   "before": 187,
+   "closes": 185,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Curried Chicken Salad', not about 'Recipe Notes'"
+  },
+  {
+   "before": 211,
+   "closes": 204,
+   "why": "the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kofta (Turkey Kebabs)', not about 'Directions'"
+  },
+  {
+   "before": 240,
+   "closes": 237,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Microwave White Bean and Egg Shakshuka', not about 'Recipe Notes'"
+  },
+  {
+   "before": 265,
+   "closes": 263,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Black Rice Porridge', not about 'Recipe Notes'"
+  },
+  {
+   "before": 304,
+   "closes": 301,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Chicken Chow Mein', not about 'Recipe Notes'"
+  },
+  {
+   "before": 329,
+   "closes": 326,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Garlic Edamame', not about 'Recipe Notes'"
+  },
+  {
+   "before": 360,
+   "closes": 357,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Hot-and-Sour Soup', not about 'Recipe Notes'"
+  },
+  {
+   "before": 391,
+   "closes": 389,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kimchi', not about 'Recipe Notes'"
+  },
+  {
+   "before": 426,
+   "closes": 416,
+   "why": "the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Vegetable Pad Thai', not about 'Directions'"
+  }
  ]
 }

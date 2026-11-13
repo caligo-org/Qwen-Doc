@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    4
+    4,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "输入性通缩的有限发酵：3月物价数据印象",
-   "why": "title: report headline"
+   "text": "国元证券 输入性通缩的有限发酵：3月物价数据印象",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (国元证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -105,6 +106,18 @@
   {
    "box": 18,
    "why": "key-point lead-in bullet: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 5,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (main data, chart, related reports, authors); not about 报告要点"
+  },
+  {
+   "before": 48,
+   "closes": 46,
+   "why": "round 5: office address box (colophon) after the disclaimer text is not about 免责条款"
   }
  ]
 }

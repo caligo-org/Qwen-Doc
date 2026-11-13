@@ -148,5 +148,12 @@
    "box": 27,
    "why": "table caption"
   }
+ ],
+ "breaks": [
+  {
+   "before": 64,
+   "closes": 59,
+   "why": "the Key points list ends; the next slide repeats the title Guard hypothesis and shows figures, which belong to #58"
+  }
  ]
 }

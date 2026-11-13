@@ -221,6 +221,24 @@
   },
   {
    "boxes": [
+    247
+   ],
+   "level": 5,
+   "parent": 240,
+   "text": "4岁以前乳牙𬌗特征",
+   "why": "round 5: restored, a break now closes it (before #267, after the sibling label #257 closes it by level); own-line label with its own (1)-(4) block inside run-in item '1. 乳牙𬌗特征'; L5 under （二）不同发育阶段𬌗特征"
+  },
+  {
+   "boxes": [
+    257
+   ],
+   "level": 5,
+   "parent": 240,
+   "text": "4~6岁期间乳牙𬌗特征是：",
+   "why": "round 5: restored, a break now closes it before the run-in item '2. 混牙𬌗特征' (#267); own-line label with its own (1)-(4) block and closing paragraph; L5 under （二）不同发育阶段𬌗特征"
+  },
+  {
+   "boxes": [
     306
    ],
    "level": 3,
@@ -375,20 +393,18 @@
    "why": "repeat: running head naming the chapter"
   }
  ],
- "not_headings": [
-  {
-   "box": 247,
-   "why": "breadcrumb round 2: own-line label inside run-in item '1. 乳牙殆特征'; the run-in items '2. 混牙殆特征' / '3. 早期恒牙殆特征' that follow would sit in its subtree (containment fails), so it is text under （二） (resolves the v2 OPEN)"
-  },
-  {
-   "box": 257,
-   "why": "breadcrumb round 2: own-line label inside run-in item '1. 乳牙殆特征'; the run-in items '2. 混牙殆特征' / '3. 早期恒牙殆特征' that follow would sit in its subtree (containment fails), so it is text under （二） (resolves the v2 OPEN)"
-  }
- ],
+ "not_headings": [],
  "considered": [
   {
    "box": 341,
    "why": "author / affiliation line closing the chapter"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 267,
+   "closes": 257,
+   "why": "run-in item '2. 混牙𬌗特征' of the outer list follows the restored own-line label '4~6岁期间乳牙𬌗特征是：'; the break closes it so items 2./3. sit under （二）不同发育阶段𬌗特征"
   }
  ]
 }

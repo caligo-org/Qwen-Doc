@@ -5,12 +5,13 @@
   {
    "boxes": [
     3,
-    4
+    4,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724",
-   "why": "title union: headline + —家电行业周报 report-type line printed with it"
+   "text": "民生证券 6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724",
+   "why": "title union: headline + —家电行业周报 report-type line printed with it Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (民生证券) joins the union after the title box."
   },
   {
    "boxes": [
@@ -175,6 +176,18 @@
   {
    "box": 18,
    "why": "table title"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 17,
+   "closes": 15,
+   "why": "round 5: the 风险提示 bullet closes the last summary item; it is about the whole summary, not 拥有一线蓝筹"
+  },
+  {
+   "before": 21,
+   "closes": 6,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; not about 报告摘要"
   }
  ]
 }

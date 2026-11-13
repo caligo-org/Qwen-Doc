@@ -323,5 +323,17 @@
    "why": "callout label over a one-sentence quote band (no block of its own)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 68,
+   "closes": 63,
+   "why": "the 'In This Chapter, You'll Learn:' objectives box ends; the chapter's untitled opening narrative starts (drop cap) and belongs to Chapter 1"
+  },
+  {
+   "before": 192,
+   "closes": 180,
+   "why": "closing paragraph about all 3 pillars ('These definitions describe our intentions as we created each of the 3 Pillars') follows the last pillar item 3 Habit; belongs to The 3 Pillars of Mindpower"
+  }
+ ]
 }

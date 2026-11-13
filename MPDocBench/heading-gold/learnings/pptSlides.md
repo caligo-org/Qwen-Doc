@@ -162,3 +162,26 @@
   previous slide? If not, the next slide's content falls under the last block label: chn_ca2c7356 p5-p7 under
   "取虚部则为正弦信号" (#38), eng_24541ef2 p12 figures under "Key points" (#59), eng_a04b6aef p4 diagram under
   "Motor output" (#13). Trees kept.
+
+## Round 5 (breaks)
+22 docs, all 172 pages rendered with `show.py --tree` and viewed (review/breaks/pptSlides.tsv): 16 breaks in 9 docs,
+2 nodes restored, 13 docs NONE, no OPEN.
+- Break class "slide label's block ends, the slide's figures/diagram follow" (5): chn_b30fedce #13 (category pictures
+  after 趋势调研 box), chn_d81f00a8 #19/#79 (agent diagram after 规则说明 / 方案6), eng_312b78ba #10 (data panels after
+  Company Background), eng_a04b6aef #16 (anatomy figure after Motor output).
+- Break class "next slide repeats the title and shows other content" (2; resolves the round-4 OPEN): chn_ca2c7356 #42
+  closes #38, eng_24541ef2 #64 closes #59 (eng_a04b6aef p4 is covered by the #16 break on p3).
+- Break class "the slide's main content resumes after a label's block" (2): chn_d81f00a8 #29 (machine prompt after 人是怎么
+  下棋的), #39 (modelling after 井字棋规则说明).
+- Break class "diagram centre / whole-box labels after the last quadrant" (2): chn_746216ac #26 (PEST slogan closes 技术),
+  eng_312b78ba #123 (SWOT centre labels close Organization).
+- Break class "trailing slide that is text by substance" (2): chn_d81f00a8 #82 closes the 02 agenda divider #21,
+  eng_82a06813 #71 closes the Storyboard slide #56; both trailing slides now sit under L1.
+- Other (3): chn_23e6f440 #97 (free 绿色基建 paragraph closes 滨海湿地), #129 (stats column closes the 倡导场景 panel);
+  eng_312b78ba #175 (THE BODY SHOP picture+label close ACTIVE COSMETICS).
+- Restored (containment-only text, round 3): chn_23e6f440 #91 (COP15 pill title) and #95 (探索滨海湿地生态修复), L4 under
+  #75 like #98. #83 (colon lead-in over the stats column) stays text (lead-in). eng_312b78ba #95/#98 stay text (chart /
+  panel titles).
+- Checked, no break: eng_312b78ba p7 ranking tables after the repeat (still competitive positioning), p8 pie/ranking
+  panels under Key Financial Figures (round 3); chn_746216ac p3 社会 text before its bottom label (reading order, not
+  a break case); eng_312b78ba p12 brand pictures above their labels (reading order).

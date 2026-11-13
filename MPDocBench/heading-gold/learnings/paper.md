@@ -128,3 +128,22 @@ OPEN:
 ## Round 4 note (main session)
 
 - paper_eng_d054de2a #26 "Gross Domestic Product" is L2 (user decision: content beats look; it is not about civil aviation). The round-3 line accepting "II. CIVIL AVIATION › Gross Domestic Product" is superseded.
+
+## Round 5 (breaks)
+All 38 paper documents, every page viewed with `show.py --tree` (images in review/breaks/paper_tmp/img). 24 breaks
+in 18 documents, 0 nodes restored (no not_headings / considered entry was text because of containment), 20
+documents with neither. `check.py` clean on all 38. Table: review/breaks/paper.tsv.
+- Back matter after References that is not a reference (received date, editor credit 责任编辑/编辑, the English
+  title/abstract block that repeats L1, a "Summary for ..." page, author biographies/photos): break closing
+  References; the content belongs to the paper (L1).
+- Same for an author-bio block after the last section (paper_eng_f30006b1) and a run-in "Abstract:"/"Acknowledgements"
+  paragraph (considered text) after a titled section (Lessons Learned box; Discussion).
+- Another article's fragment or a journal ad after the paper's last content (0945f03a, fb0e66b1): break closing L1.
+- Another article's fragment inside the paper whose own content continues after it (a197458e section 3,
+  a8bfcf5f 结语 resumed via 上接): no break (user decision: a block set inside a section whose content continues
+  gets no break). 5650c4e6: the conclusion jumps away (下转) and the paper's References follow the foreign tail, so
+  the break closes only 6 结论 (#179); L1 stays open.
+- Closing paragraph about a whole list of headings (369ef675 "Overall, ..." after factor 10; 81997c1e hypotheses
+  after 2.1-2.4; b4b85a83 summary after （四）; be9986ff "总的来说"/"综上所述" summing up 2.1 and 3; da20c59b
+  summary of 3 after 3.2): break closing the last item, content goes to the list's parent.
+- paper_eng_d054de2a: Table 3 (aviation equity inflows) after the region-wise block: break closing REGION-WISE.

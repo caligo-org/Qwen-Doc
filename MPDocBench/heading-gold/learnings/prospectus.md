@@ -130,3 +130,20 @@
   a closing paragraph follows; this list is not numbered. Kept by analogy.
 - OPEN: edf49303 #23 "Hong Kong": paragraph #26 introduces the next section (Bank Holding Company Act) but is printed
   before its heading, so it falls under Hong Kong. Making #23 text would cascade to all the sibling country labels. Kept.
+
+## Round 5 (breaks)
+- 27 docs (13 CN, 14 EN), every page rendered with show.py --tree and viewed. 10 breaks added, 8 nodes restored, 17 docs
+  with neither. check.py: no ERROR in any doc. Lines in review/breaks/prospectus.tsv.
+- CN breaks: 4aa05674 before #67 closes #57 (rounding note 注：本招股说明书数值... ends the 释义 chapter, not about 二、专业术语);
+  5da38fd1 before #45 closes #36 (董事长签字 signs the whole 致投资者的声明); cf5aeb95 before #129 closes #116 (one-line rule
+  4、, text by substance, is about the whole （三）实施方案, not about 3、). CN covers, declarations, overview tables and TOCs need no break.
+- EN restored (round 1/4 containment text, now headings with a break): 01db2dde #29 Handling of data (break before #37;
+  also break before #43 closes TABLE OF CONTENTS: the note after the TOC belongs to L1); 241e405e #40 Board of Directors'
+  Powers (break before #47); 613dbac9 #14 United States + #22 Data Protection (break before #29); bab1780c #22 Overview of
+  Subfunds table title (break before #27; treated like 4da61756 #128/#130, its only stated reason was containment);
+  d2e37b2e #115 QUEST MANAGEMENT – QUEST CLEANTECH FUND L3 + #119/#127/#133 category labels L4 (break before #139, the
+  general paragraphs go to the sub-fund).
+- Round 4 OPENs resolved by breaks: 51f57153 before #104 closes #102 (closing paragraph after the Man / Man AHL / GLG
+  label list); edf49303 before #26 closes #23 (the BHCA introduction is not about Hong Kong).
+- Kept as text (other reasons): 241e405e #11 OFFER (run-in), cc0c7019 #34 lead-in, cover lines, running heads.
+- OPEN: none.

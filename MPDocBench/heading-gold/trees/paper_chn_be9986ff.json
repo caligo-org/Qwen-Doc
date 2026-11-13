@@ -180,5 +180,22 @@
    "box": 287,
    "why": "label \"Summary for <title>\" above the English title: text (kicker)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 115,
+   "closes": 105,
+   "why": "round 5: after 2.1.4's block, \"总的来说...被动防护方式...\" sums up all of 2.1 被动防护, not 2.1.4 星体表面浮土"
+  },
+  {
+   "before": 171,
+   "closes": 168,
+   "why": "round 5: after 3.6's block, \"综上所述，以上辐射防护剂...\" sums up all of 3 生物医学防护, not 3.6 植物来源的活性物质"
+  },
+  {
+   "before": 287,
+   "closes": 179,
+   "why": "round 5: the reference list ends; the \"Summary for ...\" page with the English title/abstract (repeat of L1) follows, not references (belongs to the paper)"
+  }
  ]
 }

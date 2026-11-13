@@ -113,5 +113,12 @@
  ],
  "repeats": [],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 57,
+   "closes": 47,
+   "why": "round 5: the reference list ends; the received date \"收稿日期\" follows, not a reference (belongs to the paper)"
+  }
+ ]
 }

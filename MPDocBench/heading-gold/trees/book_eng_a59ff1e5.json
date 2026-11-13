@@ -392,5 +392,32 @@
  ],
  "repeats": [],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 77,
+   "closes": 69,
+   "why": "printed head 'Locating House on Property' has no box of its own (OCR folded it); its content must not sit under 'Identifying Property Lines' (the next unboxed head 'Locating Outlying Landscape Features' #80 follows under the same parent)"
+  },
+  {
+   "before": 122,
+   "closes": 111,
+   "why": "lead-in about the Step 1 Checklist ('Before proceeding to Step 2, carefully review the following'), not about transferring measurements"
+  },
+  {
+   "before": 166,
+   "closes": 150,
+   "why": "lead-in about the Step 2 Checklist ('Review the checklist below before proceeding to Step 3'), not about Views / environmental features"
+  },
+  {
+   "before": 261,
+   "closes": 249,
+   "why": "printed head 'Pulling it all together' has no box of its own; its two paragraphs must not sit under 'Accenting the main entrance'"
+  },
+  {
+   "before": 277,
+   "closes": 264,
+   "why": "printed head 'Plant Palette' has no box of its own (OCR folded it into #276); its paragraph must not sit under 'Section One: Selecting plants'"
+  }
+ ]
 }

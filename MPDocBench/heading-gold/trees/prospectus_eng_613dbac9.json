@@ -23,6 +23,24 @@
   },
   {
    "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "United States",
+   "why": "round 5: restored, a break now closes it (Data Protection #22 is a node again and ends its section); own-line label with its block #15-#21"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Data Protection",
+   "why": "round 5: restored, a break now closes it before the business-day definition #29 (p4); own-line label with its block #23-#26"
+  },
+  {
+   "boxes": [
     33
    ],
    "level": 2,
@@ -68,20 +86,18 @@
    "why": "running head: fund name restates the title owner"
   }
  ],
- "not_headings": [
-  {
-   "box": 22,
-   "why": "own-line label \"Data Protection\" (p3): no later heading closes it before CONTENTS (p5), so the business-day definition #29 and the Directors' responsibility statement #30 (p4) would fall under it; containment fails -> text (round 4)"
-  },
-  {
-   "box": 14,
-   "why": "own-line label \"United States\" (p2): with Data Protection text, its subtree would run on into the data-protection paragraphs #23-#26 and #29-#30, which are not about the United States; containment fails -> text, all notes sit under NOTE TO THE READERS (round 4)"
-  }
- ],
+ "not_headings": [],
  "considered": [
   {
    "box": 2,
    "why": "legal form line on the cover: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 29,
+   "closes": 22,
+   "why": "round 5: the business-day definition #29 and the Directors' responsibility statement #30 are not about data protection; they belong to NOTE TO THE READERS"
   }
  ]
 }

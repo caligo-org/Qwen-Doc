@@ -37,5 +37,17 @@
    "box": 12,
    "why": "copyright-page cataloguing label (colophon): text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 6,
+   "why": "untitled copyright page follows the 'By the same author' list; not about it"
+  },
+  {
+   "before": 22,
+   "closes": 20,
+   "why": "untitled novel text starts after the Contents list; not about Contents"
+  }
  ]
 }

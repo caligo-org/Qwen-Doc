@@ -402,5 +402,27 @@
    "box": 320,
    "why": "slogan banner of the supplement page"
   }
+ ],
+ "breaks": [
+  {
+   "before": 52,
+   "closes": 36,
+   "why": "round 5: the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows"
+  },
+  {
+   "before": 155,
+   "closes": 129,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (Hainan duty-free) follows"
+  },
+  {
+   "before": 261,
+   "closes": 241,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (wetland in early winter) follows"
+  },
+  {
+   "before": 267,
+   "closes": 263,
+   "why": "round 5: the story ends; the photo of the next photo story (乡村企业 便民就业, printed before its title) follows"
+  }
  ]
 }

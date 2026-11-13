@@ -359,5 +359,12 @@
    "box": 23,
    "why": "running section tag printed above the section heading on its first page"
   }
+ ],
+ "breaks": [
+  {
+   "before": 134,
+   "closes": 110,
+   "why": "closing paragraph about all the guidelines ('I hope you see that these guidelines are for YOUR benefit') follows the General Guidelines list; belongs to the Safety Guidelines section"
+  }
  ]
 }

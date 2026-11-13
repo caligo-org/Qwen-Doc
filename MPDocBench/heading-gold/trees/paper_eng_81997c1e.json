@@ -172,5 +172,17 @@
    "box": 5,
    "why": "run-in \"Abstract—\" starting the abstract paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 68,
+   "closes": 66,
+   "why": "round 5: closing paragraph \"Based on the above discussions following hypothesis are...\" with H1-H4 is about the whole list 2.1-2.4, not 2.4 Compensation; belongs to the list's parent"
+  },
+  {
+   "before": 241,
+   "closes": 153,
+   "why": "round 5: the reference list ends; author photos and biographies follow, not references (belong to the paper)"
+  }
  ]
 }

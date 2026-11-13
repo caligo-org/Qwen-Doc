@@ -60,5 +60,12 @@
    "box": 55,
    "why": "TOC part entry: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 12,
+   "why": "内容提要 ends after its two paragraphs; the CIP block and colophon on the same page are not about the book summary"
+  }
  ]
 }

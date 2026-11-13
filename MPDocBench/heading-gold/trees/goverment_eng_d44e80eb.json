@@ -22,6 +22,24 @@
   },
   {
    "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Article 29",
+   "why": "round 5: restored, a break now closes the article labels before the Preface's own paragraphs (#15-19); own-line label over the quoted convention provision #9, one level below Preface"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Article 31",
+   "why": "round 5: restored, a break now closes it before #15 (family members paragraph of the Preface); own-line label over the quoted provision #11-14"
+  },
+  {
+   "boxes": [
     21
    ],
    "level": 2,
@@ -31,16 +49,7 @@
   }
  ],
  "repeats": [],
- "not_headings": [
-  {
-   "box": 8,
-   "why": "Article 29: label of a convention provision quoted inside the Preface; breadcrumb round 2 made it text: the Preface's own text (family members, NOTE, availability) follows Article 31 with no closing head, so the article labels fail containment; both quoted article labels treated alike"
-  },
-  {
-   "box": 10,
-   "why": "Article 31: label of a convention provision quoted inside the Preface; breadcrumb round 2 made it text: the following Preface paragraphs (#15-19) are not about Article 31 and no later head closes it (containment)"
-  }
- ],
+ "not_headings": [],
  "considered": [
   {
    "box": 2,
@@ -57,6 +66,13 @@
   {
    "box": 16,
    "why": "NOTE: callout paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "round 5: the Preface's own text (family members, NOTE, availability) follows the quoted Article 31; not about the article"
   }
  ]
 }

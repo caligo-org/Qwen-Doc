@@ -294,5 +294,17 @@
    "box": 6,
    "why": "column rubric 本报评论员"
   }
+ ],
+ "breaks": [
+  {
+   "before": 47,
+   "closes": 20,
+   "why": "round 5: the boxed speech (and its highlight box #42-#46) ends; the body of the 团拜会 story #12 resumes"
+  },
+  {
+   "before": 198,
+   "closes": 186,
+   "why": "round 5: the last 镜头/回访 segment ends; a closing paragraph about the whole series of the story #94 follows"
+  }
  ]
 }

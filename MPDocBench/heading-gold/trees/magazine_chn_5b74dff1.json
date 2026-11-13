@@ -68,5 +68,17 @@
    "why": "colophon notice 本刊声明: colophon text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 17,
+   "why": "contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)"
+  },
+  {
+   "before": 126,
+   "closes": 49,
+   "why": "story ends (editor credit); QR pointer box \"扫我，看更多劲爆故事\" follows, not about this story"
+  }
+ ]
 }

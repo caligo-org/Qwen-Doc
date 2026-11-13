@@ -102,5 +102,12 @@
    "box": 30,
    "why": "lead-in sentence, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 11,
+   "closes": 5,
+   "why": "Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents"
+  }
  ]
 }

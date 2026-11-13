@@ -5,12 +5,13 @@
   {
    "boxes": [
     2,
-    4
+    4,
+    5
    ],
    "level": 1,
    "parent": "root",
-   "text": "Senator Paul Simon Water for the Poor Act Report to Congress",
-   "why": "title union: subject act (owner/subject) + document type (Report to Congress) printed apart on the cover"
+   "text": "DEPARTMENT OF STATE UNITED STATES OF AMERICA Senator Paul Simon Water for the Poor Act Report to Congress",
+   "why": "title union: subject act (owner/subject) + document type (Report to Congress) printed apart on the cover Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #5 (DEPARTMENT OF STATE UNITED STATES OF AMERICA) joins the union after the title box."
   }
  ],
  "repeats": [

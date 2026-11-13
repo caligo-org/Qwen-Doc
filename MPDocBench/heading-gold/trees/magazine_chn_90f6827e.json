@@ -216,5 +216,17 @@
    "box": 159,
    "why": "running section tag 名人明星 on the story's later page: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 37,
+   "closes": 36,
+   "why": "poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column"
+  },
+  {
+   "before": 49,
+   "closes": 47,
+   "why": "contents list ends; house-ad QR box and colophon-column notices follow (not contents)"
+  }
  ]
 }

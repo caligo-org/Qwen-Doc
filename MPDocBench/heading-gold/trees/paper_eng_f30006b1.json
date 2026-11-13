@@ -95,5 +95,17 @@
    "box": 23,
    "why": "run-in \"Abstract:\" starting the abstract paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 6,
+   "why": "round 5: the Lessons Learned box ends; the run-in \"Abstract:\" paragraph (considered text) follows, not about Lessons Learned (belongs to the paper)"
+  },
+  {
+   "before": 185,
+   "closes": 179,
+   "why": "round 5: the last section's text ends; the author biographies follow, not about \"So Where Does That Leave Us?\" (belong to the paper)"
+  }
  ]
 }

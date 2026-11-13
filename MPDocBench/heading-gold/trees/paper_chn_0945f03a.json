@@ -126,5 +126,12 @@
    "why": "foreign article: section of another article jumped onto this page"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 79,
+   "closes": 4,
+   "why": "round 5: the paper ends with its references; from the jump line \"（上接第49页）\" on, the page carries the tail of another article (not_headings 81, 89), not about this paper"
+  }
+ ]
 }

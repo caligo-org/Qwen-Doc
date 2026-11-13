@@ -149,5 +149,12 @@
    "box": 105,
    "why": "facing-page running tag of the same jokes section (·笑口常开 轻松一刻·): text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 71,
+   "closes": 57,
+   "why": "contents list ends; the restated masthead and colophon column follow (not contents)"
+  }
  ]
 }

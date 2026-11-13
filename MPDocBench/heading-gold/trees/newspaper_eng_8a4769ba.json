@@ -235,5 +235,27 @@
    "box": 2,
    "why": "slogan above the masthead"
   }
+ ],
+ "breaks": [
+  {
+   "before": 28,
+   "closes": 12,
+   "why": "round 5: the story ends (Continued on page 2); the Eriksson photo teaser (News, page 7, Obituary, page 37) follows"
+  },
+  {
+   "before": 41,
+   "closes": 31,
+   "why": "round 5: the story ends (Continued on page 6); the IN THE NEWS teaser box follows"
+  },
+  {
+   "before": 168,
+   "closes": 146,
+   "why": "round 5: the p3 story ends; a stand-alone news photo with its caption (Sweet celebration, Greenwich) opens p4"
+  },
+  {
+   "before": 221,
+   "closes": 219,
+   "why": "round 5: the last brief ends; the Times Radio ad follows"
+  }
  ]
 }

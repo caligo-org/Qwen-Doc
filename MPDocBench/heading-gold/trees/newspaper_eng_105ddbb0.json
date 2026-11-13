@@ -494,5 +494,52 @@
    "box": 676,
    "why": "deck under the explainer headline"
   }
+ ],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 7,
+   "why": "round 5: the story ends (SEE IRAN ON A18); a pointer line to another story (French election ... A17) follows"
+  },
+  {
+   "before": 24,
+   "closes": 17,
+   "why": "round 5: the story ends (SEE CRASH ON A14); the map of the next story (4.1 million migrants, printed above its headline) follows"
+  },
+  {
+   "before": 60,
+   "closes": 51,
+   "why": "round 5: the last front-page story ends; the teaser strip (METRO, SPORTS, TRAVEL ...) and the coupon box follow"
+  },
+  {
+   "before": 120,
+   "closes": 80,
+   "why": "round 5: the column ends; the colophon / contact box (masthead restated, delivery and newsroom numbers) follows"
+  },
+  {
+   "before": 137,
+   "closes": 133,
+   "why": "round 5: the corrections box ends; display ads and a promo box (Retropolis) follow"
+  },
+  {
+   "before": 376,
+   "closes": 313,
+   "why": "round 5: the jumped story ends (Ashley Parker contributed); the Wolf Trap display ad follows"
+  },
+  {
+   "before": 535,
+   "closes": 417,
+   "why": "round 5: the jumped story ends; the Window Nation display ad follows"
+  },
+  {
+   "before": 601,
+   "closes": 539,
+   "why": "round 5: the explainer ends; the Kohler display ad follows"
+  },
+  {
+   "before": 662,
+   "closes": 609,
+   "why": "round 5: the jumped story ends; the Case display ad follows"
+  }
  ]
 }

@@ -5,12 +5,13 @@
   {
    "boxes": [
     4,
-    5
+    5,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "TOPof MIND ALL ABOUT BANK(PANIC)S",
-   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2"
+   "text": "Goldman Sachs TOP of MIND ALL ABOUT BANK(PANIC)S",
+   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Goldman Sachs) joins the union after the title box."
   },
   {
    "boxes": [
@@ -333,6 +334,13 @@
   {
    "box": 92,
    "why": "editor byline"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 15,
+   "why": "round 5: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE"
   }
  ]
 }

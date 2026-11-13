@@ -425,5 +425,22 @@
    "box": 95,
    "why": "breadcrumb round 3: title of a pie-chart panel (chart title, like COMPANY RANKING); with \"North American\" text the ranking panel would fall under it and fail containment -> text; the pie and ranking panels sit under \"Key Financial Figures NA-Q1-12\" (all NA key figures)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 7,
+   "why": "the Company Background bullets end; the embedded data panels (QUICK STATS, rankings, charts, net debt, ratings) are figures of the slide #6"
+  },
+  {
+   "before": 123,
+   "closes": 121,
+   "why": "the Organization box ends; the SWOT centre labels (Strengths/Weaknesses/Opportunities/Threats) are about the whole SWOT #114"
+  },
+  {
+   "before": 175,
+   "closes": 173,
+   "why": "the ACTIVE COSMETICS list ends; THE BODY SHOP picture and label (text by substance) are another division, under #161"
+  }
  ]
 }

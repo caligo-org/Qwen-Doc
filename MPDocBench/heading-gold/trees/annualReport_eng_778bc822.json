@@ -13,6 +13,78 @@
   },
   {
    "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Who We Are",
+   "why": "round 5: restored, a break now closes it before the p3 company-information list (was text only by containment); own-line title with its own paragraph"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Position Statement",
+   "why": "round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Mission",
+   "why": "round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Vision",
+   "why": "round 5: restored, a break now closes it before the logos (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "We Stand For",
+   "why": "round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line title over the Service/Innovation/Quality labels"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Service",
+   "why": "round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Innovation",
+   "why": "round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Quality",
+   "why": "round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
     52
    ],
    "level": 2,
@@ -401,38 +473,23 @@
   {
    "box": 145,
    "why": "bold run-in lead-in starting a paragraph"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 18,
+   "why": "round 5: the group and brand logos are not about Vision; they show who the group is (Who We Are)"
   },
   {
-   "box": 10,
-   "why": "round 3: was L2 \"Who We Are\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+   "before": 25,
+   "closes": 10,
+   "why": "round 5: the company-information list (secretary, registered office, registrar, auditor, bankers, broker) and the board photo are not about Who We Are; they belong to L1"
   },
   {
-   "box": 14,
-   "why": "round 3: was L3 \"Position Statement\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 16,
-   "why": "round 3: was L3 \"Mission\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 18,
-   "why": "round 3: was L3 \"Vision\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 41,
-   "why": "round 3: was L2 \"We Stand For\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 42,
-   "why": "round 3: was L3 \"Service\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 44,
-   "why": "round 3: was L3 \"Innovation\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
-  },
-  {
-   "box": 46,
-   "why": "round 3: was L3 \"Quality\"; containment: no heading closes this front-matter block before the Chairman's statement header (p6). Vision would hold the brand logos, the p3 adviser list and the board photo; Quality would hold the untitled p5 contents list; Who We Are / We Stand For would hold the contents list too. None of these is about the label, so the labels and their series are text under L1"
+   "before": 50,
+   "closes": 41,
+   "why": "round 5: the untitled contents list on p5 is not about We Stand For / Quality; it belongs to L1"
   }
  ]
 }

@@ -176,5 +176,17 @@
    "why": "advertisement (garden design college)"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 22,
+   "closes": 10,
+   "why": "editor's welcome ends (sign-off); book promo with QR and social-media box follow"
+  },
+  {
+   "before": 52,
+   "closes": 31,
+   "why": "contents sidebar ends (Our packaging); a full-page ad follows before Contributors"
+  }
+ ]
 }

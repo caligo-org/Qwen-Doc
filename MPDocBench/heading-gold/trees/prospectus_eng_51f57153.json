@@ -324,5 +324,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 104,
+   "closes": 102,
+   "why": "round 5: closing paragraph about the investment policy of all sub-funds after the label list Man / Man AHL / GLG Sub-Funds:; it belongs to The Fund (resolves the round 4 OPEN)"
+  }
+ ]
 }

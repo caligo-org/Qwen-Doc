@@ -64,5 +64,12 @@
    "box": 58,
    "why": "series tag first printed on p5, after the opener of the same feature 中国速度 (contents: 中华人民共和国成立75周年系列征文 › 中国速度 p4); the feature holds the L2 slot (magazine rule)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 16,
+   "why": "contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)"
+  }
  ]
 }

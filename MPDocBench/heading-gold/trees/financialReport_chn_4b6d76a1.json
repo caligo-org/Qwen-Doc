@@ -293,5 +293,12 @@
    "box": 234,
    "why": "period line under notes title, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 98,
+   "closes": 83,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
  ]
 }

@@ -68,5 +68,17 @@
    "box": 21,
    "why": "numbered paragraph \"9. (U) Mayors and Their Coalitions\" run into its table: table title, text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 16,
+   "why": "round 5: paragraph 9 table of mayors and coalitions in all major cities follows the Oujda section; it is about the mayoral selections overall, not Oujda"
+  },
+  {
+   "before": 32,
+   "closes": 28,
+   "why": "round 5: classified-website pointer and the signature follow the comment; they belong to the whole cable"
+  }
  ]
 }

@@ -112,5 +112,17 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 91,
+   "closes": 53,
+   "why": "round 5: closing summary of the whole paper (\"从上文的数据分析和田野调查看...\" and the outlook after it) follows the last item （四）; it is about the paper, not about （四） or 二、"
+  },
+  {
+   "before": 108,
+   "closes": 96,
+   "why": "round 5: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)"
+  }
+ ]
 }

@@ -69,5 +69,17 @@
    "box": 4,
    "why": "series subtitle 推荐公司精选 under the product name"
   }
+ ],
+ "breaks": [
+  {
+   "before": 11,
+   "closes": 7,
+   "why": "round 5: broker address block (colophon) after the 产品提示 items is not about them"
+  },
+  {
+   "before": 22,
+   "closes": 14,
+   "why": "round 5: risk line and 本期【卓越推】暂不推荐 (one-line run-ins, text) are not about the weekly industry view"
+  }
  ]
 }

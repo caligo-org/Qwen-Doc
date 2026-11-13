@@ -146,3 +146,43 @@ OPEN:
 10. FUSION (757ea556): the p3 editor's letter has no printed heading of its own (only the masthead restated over the
     colophon column, a repeat of L1), so its text falls under CONTENTS (p2) until REVIEW (p4). Kept; the restated
     masthead as the editor's-page heading would contradict the repeat rule.
+
+## Round 5 (breaks)
+All 25 magazine docs, all 165 pages rendered with the tree (review/breaks/magazine_tmp/) and viewed. 42 breaks in 22
+docs, 0 nodes restored (no not_heading/considered entry is text because of containment: all are ads, colophon labels,
+kickers, cover lines, house ads, running tags or captions). check.py: no ERROR. Lines in review/breaks/magazine.tsv.
+
+Break classes:
+- 一滴墨香 poem page then restated masthead + colophon + contents column (知音海外版 x3): break before the restated
+  masthead closes the column L2 (the repeat of L1 stays a repeat; L1 is still open).
+- Contents ends, then house ads / QR promos / new-media box / 本刊声明 / colophon (知音 x4, 知音海外版 x3, 故事会, Beijing
+  Review cover credit): break closes the contents L2.
+- Story ends with the editor credit, then the QR pointer box 扫我，看更多劲爆故事 (知音 x3) or a scan-to-follow box
+  (儿童文学): break closes the story (the editor credit stays with the story).
+- Editor's letter / welcome ends, then social/contact box, book promo, newsletter QR, notice box, cover credit box, or
+  ad pages (Gardens Illustrated, Modern Gardens, FourFourTwo, Total TV Guide, Harper's BAZAAR, Model Boats, hi-fi+,
+  Beijing Review editor's desk): break closes the letter's node.
+- Front-matter page then full-page ad (hi-fi+, Fine WoodWorking x2, Gardens Illustrated): break closes the open L2.
+- Teasers after the last contents group (Modern Gardens FREE BULBS / SUBSCRIBE TODAY, Total TV SUBSCRIBE NOW, Fine
+  WoodWorking tablet promo, Baseball America ON DECK teaser): break closes the group (or the contents L2 when the teaser
+  is not about contents).
+- Label list then a line about the whole list (Trail INSULATED JACKETS: IN PARTNERSHIP WITH after point 5): break
+  closes the last point.
+- News-brief pages where a photo item or data box interrupts another item's text (Beijing Review: College Graduates
+  text after the photo item A Flourishing Industry; Carbon Market text after NUMBERS; NUMBERS chart after Rural Banks;
+  POINTS quotes after YOUNGEST CAS MEMBER): break closes the interrupting item; the resumed text sits in the section
+  (a break cannot reopen the item it belongs to).
+- Contents page then the part-opener spread (Men's Fitness), tester bios then staff credits (Trail), contents then
+  colophon + editor's letter (FUSION; resolves OPEN 10).
+
+No break: content under L1 only (covers, ad pages before any section); colophon that precedes a letter in reading
+order under the same L2 (hi-fi+ editorial, Beijing Review editor's desk; a break cannot come before content that
+belongs to the section); contents-sidebar teasers that sit before contents items (Gardens Illustrated Subscribe & save);
+credit lines (编辑/…, 据网络 编辑/…, 本栏插图); MOTION photo pages (all about the page titles).
+
+OPEN:
+11. Beijing Review p12: the POINTS quote band sits in reading order inside Sports Mean Business, whose text resumes on
+    p13; a break would push the resumed text out of its item. Interleaved untitled blocks cannot be marked.
+12. Resolved (coordinator): Baseball America p4: a break before the restated masthead/colophon (#27) closes Leading Off
+    (#16, opened by the contents page); the Leading Off tag printed again on p4 (#49) becomes a continuation node
+    (continues #16, L2), Numbers Game and the later stories sit under it, and the p6 tag (#139) is a repeat of #49.

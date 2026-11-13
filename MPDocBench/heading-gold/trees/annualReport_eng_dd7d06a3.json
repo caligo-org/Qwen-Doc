@@ -5,12 +5,13 @@
   {
    "boxes": [
     2,
-    3
+    3,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "2024 Annual Report",
-   "why": "title union: year + document type printed as one cover title; owner only as logo (text)"
+   "text": "gogo 2024 Annual Report",
+   "why": "title union: year + document type printed as one cover title; owner only as logo (text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (gogo) joins the union after the title box."
   },
   {
    "boxes": [

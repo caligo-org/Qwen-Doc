@@ -151,5 +151,12 @@
    "box": 96,
    "why": "run-in \"Acknowledgements\" starting a paragraph: text"
   }
+ ],
+ "breaks": [
+  {
+   "before": 96,
+   "closes": 82,
+   "why": "round 5: the run-in \"Acknowledgements\" paragraph (considered text) follows the Discussion; it is not about the Discussion (belongs to the paper)"
+  }
  ]
 }

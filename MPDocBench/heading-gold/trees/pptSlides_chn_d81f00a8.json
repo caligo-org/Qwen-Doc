@@ -213,5 +213,32 @@
    "box": 31,
    "why": "picture label"
   }
+ ],
+ "breaks": [
+  {
+   "before": 19,
+   "closes": 13,
+   "why": "the 井字棋规则说明 list ends; the agent diagram (棋盘状态/落子/输赢) is about the game as a whole (#9), not the rules"
+  },
+  {
+   "before": 29,
+   "closes": 23,
+   "why": "the 人是怎么下棋的 rules end; the prompt 如何让机器实现上述方案 with its figure and 人 vs 机器 is about the slide #22, not how humans play"
+  },
+  {
+   "before": 39,
+   "closes": 33,
+   "why": "the 井字棋规则说明 list ends; the callout and the symbolic model (Cell, TTT, 初态, 落子, 胜负判定) are the slide's main content (#32)"
+  },
+  {
+   "before": 79,
+   "closes": 72,
+   "why": "the 方案6 list ends; the agent diagram (符号推理/规则) is about all the schemes of slide #61"
+  },
+  {
+   "before": 82,
+   "closes": 21,
+   "why": "section 02 (agenda divider #21) ends: the last page reprints the agenda for 03 with nothing after it (text by substance); it is not about 02 or 方案5实战, it belongs to L1"
+  }
  ]
 }

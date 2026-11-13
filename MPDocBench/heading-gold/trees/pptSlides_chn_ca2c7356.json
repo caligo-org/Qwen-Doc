@@ -111,5 +111,12 @@
    "box": 25,
    "why": "breadcrumb round 3: ➲ entry of the overview slide of (一) 时域描述; its block is only item names, and the topic itself is taught on the following slides (普通信号：正弦信号 …), which cannot sit under it (奇异信号的描述 comes between) -> overview entry, text, like the entries of the p2 overview"
   }
+ ],
+ "breaks": [
+  {
+   "before": 42,
+   "closes": 38,
+   "why": "the 取虚部则为正弦信号 label's equation ends; the next slide repeats the slide title and shows other content (波形, figure), which belongs to #34"
+  }
  ]
 }

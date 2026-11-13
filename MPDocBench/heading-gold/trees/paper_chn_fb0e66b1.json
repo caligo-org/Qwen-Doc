@@ -154,5 +154,12 @@
    "why": "journal subscription notice (ad) after the paper: text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 173,
+   "closes": 7,
+   "why": "round 5: the paper ends with its references; the journal subscription notice (ad, not_heading 173) and its contact lines follow, not about this paper"
+  }
+ ]
 }

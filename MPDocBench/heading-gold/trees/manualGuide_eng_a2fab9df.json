@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    3
+    3,
+    2
    ],
    "level": 1,
    "parent": "root",
-   "text": "PHARRELL WILLIAMS OVER THE MOON",
-   "why": "title: set name on the cover (LEGO logo beside it is an image)"
+   "text": "LEGO PHARRELL WILLIAMS OVER THE MOON",
+   "why": "title: set name on the cover (LEGO logo beside it is an image) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (LEGO) joins the union after the title box."
   },
   {
    "boxes": [

@@ -4,12 +4,13 @@
  "nodes": [
   {
    "boxes": [
-    2
+    2,
+    1
    ],
    "level": 1,
    "parent": "root",
-   "text": "2022中国科技产业投资机构调研报告",
-   "why": "title: report title (publisher printed only as 出品机构 credit line)"
+   "text": "甲子光年 2022中国科技产业投资机构调研报告",
+   "why": "title: report title (publisher printed only as 出品机构 credit line) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (甲子光年) joins the union after the title box."
   },
   {
    "boxes": [
@@ -269,6 +270,13 @@
   {
    "box": 104,
    "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 25,
+   "why": "PEST quadrant 技术 ends; the diagram centre slogan is about the whole PEST headline #17, not 技术"
   }
  ]
 }

@@ -214,5 +214,12 @@
   }
  ],
  "not_headings": [],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 29,
+   "closes": 10,
+   "why": "round 5: the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows"
+  }
+ ]
 }

@@ -35,5 +35,12 @@
    "box": 37,
    "why": "running series tag GS SUSTAIN (series, not the report title)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 38,
+   "why": "round 5: the redaction note after the contents list is about the whole report, not about Table of Contents"
+  }
  ]
 }

@@ -67,5 +67,12 @@
    "why": "column label (• 实验研究 •) above the title: text"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 80,
+   "closes": 65,
+   "why": "round 5: the reference list ends; the article's received date and editor credit follow, which are not references (they belong to the paper)"
+  }
+ ]
 }

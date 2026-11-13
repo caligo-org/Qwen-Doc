@@ -6,12 +6,13 @@
    "boxes": [
     1,
     2,
-    3
+    3,
+    8
    ],
    "level": 1,
    "parent": "root",
-   "text": "用户手册 FORIS® FS2331 彩色液晶显示器",
-   "why": "title union: document type 用户手册 + product model FORIS FS2331 + product type 彩色液晶显示器 on the cover Breadcrumb review r3: OCR \"?\" replaced by the printed ®."
+   "text": "EIZO 用户手册 FORIS® FS2331 彩色液晶显示器",
+   "why": "title union: document type 用户手册 + product model FORIS FS2331 + product type 彩色液晶显示器 on the cover Breadcrumb review r3: OCR \"?\" replaced by the printed ®. Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #8 (EIZO) joins the union after the title box."
   },
   {
    "boxes": [
@@ -295,10 +296,12 @@
    "why": "callout: 注 label"
   }
  ],
- "considered": [
+ "considered": [],
+ "breaks": [
   {
-   "box": 8,
-   "why": "brand logo: text"
+   "before": 11,
+   "closes": 9,
+   "why": "the warning-label figure ends; the regional-spec note and the copyright / reproduction notice at the page foot are about the whole manual, not where the warnings are"
   }
  ]
 }

@@ -239,5 +239,42 @@
    "why": "advertisement line"
   }
  ],
- "considered": []
+ "considered": [],
+ "breaks": [
+  {
+   "before": 35,
+   "closes": 26,
+   "why": "round 5: the story ends (HOSPITAL, Page A15); the skybox photo, teaser column, weather box and barcode follow, then the pull quote of the next story"
+  },
+  {
+   "before": 62,
+   "closes": 49,
+   "why": "round 5: the story and its photo end; the Eastern Bank display ad follows"
+  },
+  {
+   "before": 143,
+   "closes": 135,
+   "why": "round 5: the briefs column ends; the INDEX box follows"
+  },
+  {
+   "before": 208,
+   "closes": 190,
+   "why": "round 5: the story ends; a stand-alone photo brief (RETURN TO FORMALITY) and the photo of the next story follow"
+  },
+  {
+   "before": 250,
+   "closes": 214,
+   "why": "round 5: the story ends on p4; a full-page display ad (Mass General Brigham) fills p5"
+  },
+  {
+   "before": 301,
+   "closes": 262,
+   "why": "round 5: the story ends; display ads (Sunrise of Newton, N.E.T.R.) follow"
+  },
+  {
+   "before": 361,
+   "closes": 336,
+   "why": "round 5: the story ends; display ads (Beal Bank, aday) follow"
+  }
+ ]
 }

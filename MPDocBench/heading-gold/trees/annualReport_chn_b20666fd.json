@@ -651,5 +651,12 @@
    "box": 223,
    "why": "lead-in sentence to a table"
   }
+ ],
+ "breaks": [
+  {
+   "before": 131,
+   "closes": 129,
+   "why": "round 5: closing sentence about all core competences (核心竞争力未发生重大变化); belongs to 三、核心竞争力分析"
+  }
  ]
 }

@@ -1,0 +1,51 @@
+doc	kind	box	closes	page	note
+annualReport_chn_00114ac3	NONE				SZSE 第一节 statements + 目录/释义; all pages viewed with tree; no untitled content outside its heading
+annualReport_chn_07e73462	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_1695038a	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_16acace3	BREAK	227	225	18	round 5: closing paragraph about all of （一）–（八） (得益于上述各项工作); belongs to 一、概述
+annualReport_chn_170f7a9e	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_1737c8bb	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_1c29d148	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_3344b949	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_35b8e075	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_588028f9	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_679b76a4	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_77918496	BREAK	11	9	2	round 5: the one-sentence items 三、/四、 after the absent-director table are not about 二、未出席董事情况; they belong to 重要提示
+annualReport_chn_77918496	RESTORED	9		2	L3 二、未出席董事情况: round 5: restored, a break now closes it before 三、 (was text only because the one-sentence items 三、/四、 would sit under it); numbered 重要提示 item printed on its own line with its own table
+annualReport_chn_787462d7	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_7de80556	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_7f487dea	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_b20666fd	BREAK	131	129	12	round 5: closing sentence about all core competences (核心竞争力未发生重大变化); belongs to 三、核心竞争力分析
+annualReport_chn_baa53c78	BREAK	36	33	4	round 5: the 利润分配预案 paragraph after the last risk item is not about 5、疫情冲击风险; it belongs to 第一节
+annualReport_chn_bad1d0cc	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_bd2f20cd	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_c8425a15	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_cee67928	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_dbf02372	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_ebe06969	NONE				numbered template outline (第X节/一、/（一）/1、): every block sits under its numbered item, unnumbered label lines are captions or 适用/不适用 text; all pages viewed with tree
+annualReport_chn_f0e6067b	BREAK	32	26	4	round 5: the 利润分配预案 paragraph after the last risk item is not about 3、技术储备不足的风险; it belongs to 第一节
+annualReport_eng_03d56f29	NONE				cover, ESEF note under L1, Contents pages only; all pages viewed
+annualReport_eng_0c770734	BREAK	56	54	5	round 5: trademark notice below the index is about the whole report, not the INDEX; belongs to FORM 10-K
+annualReport_eng_5a2b9698	BREAK	21	19	2	round 5: the cover image of the attached Annual Financial Report is not about the DRP; it belongs to L1 (the attached report title follows)
+annualReport_eng_5a2b9698	BREAK	37	35	3	round 5: the read-in-conjunction note below CONTENTS is about the Annual Financial Report, not the contents list
+annualReport_eng_70d0bf2b	NONE				Letter to Shareholders with signature block (attribution, no break); all pages viewed
+annualReport_eng_778bc822	BREAK	20	18	2	round 5: the group and brand logos are not about Vision; they show who the group is (Who We Are)
+annualReport_eng_778bc822	BREAK	25	10	3	round 5: the company-information list (secretary, registered office, registrar, auditor, bankers, broker) and the board photo are not about Who We Are; they belong to L1
+annualReport_eng_778bc822	BREAK	50	41	5	round 5: the untitled contents list on p5 is not about We Stand For / Quality; it belongs to L1
+annualReport_eng_778bc822	RESTORED	10		2	L2 Who We Are: round 5: restored, a break now closes it before the p3 company-information list (was text only by containment); own-line title with its own paragraph
+annualReport_eng_778bc822	RESTORED	14		2	L3 Position Statement: round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph
+annualReport_eng_778bc822	RESTORED	16		2	L3 Mission: round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph
+annualReport_eng_778bc822	RESTORED	18		2	L3 Vision: round 5: restored, a break now closes it before the logos (was text only by containment); own-line label with its own paragraph
+annualReport_eng_778bc822	RESTORED	41		3	L2 We Stand For: round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line title over the Service/Innovation/Quality labels
+annualReport_eng_778bc822	RESTORED	42		3	L3 Service: round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph
+annualReport_eng_778bc822	RESTORED	44		3	L3 Innovation: round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph
+annualReport_eng_778bc822	RESTORED	46		3	L3 Quality: round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line label with its own paragraph
+annualReport_eng_824dec82	NONE				opening spread chip image and letter signatures are about their sections; investor-information boxes each close by the next L2; all pages viewed
+annualReport_eng_9b6e4f33	BREAK	40	38	3	"round 5: definition of ""we/Bloom/the Company"" below the contents is about the whole report, not the Table of Contents; belongs to L1"
+annualReport_eng_a7bf8c0c	BREAK	135	133	8	"round 5: definition of ""Air Group/the Company/we"" below the contents is about the whole 10-K, not the TABLE OF CONTENTS; belongs to FORM 10-K"
+annualReport_eng_b3c337f8	NONE				About / Financial Highlights / Quarterly data each hold only their own block; all pages viewed
+annualReport_eng_c58ec05f	NONE				key figures, contents, detail index and management report outline: every block sits under its numbered heading; all pages viewed
+annualReport_eng_dd7d06a3	NONE				cover tagline under L1, 10-K cover, Documents Incorporated, INDEX with nothing after it; all pages viewed
+annualReport_eng_ea53b553	BREAK	147	144	9	round 5: closing paragraph about both non-clinical studies (300 and 301), not only APT-RDR-301; belongs to LTX-03 Development
+annualReport_eng_fc735d9d	NONE				About this report, Contents; full-bleed photos with location captions treated as decoration of the spread; all pages viewed
+annualReport_eng_5a2b9698	NONE	45	43	4	"RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); ""The operating and financial review is intended to convey..."" sits under PRINCIPAL ACTIVITIES AND STRUCTURE but introduces the OFR (L4 #57, p5); a break closing #43 is impossible because Listed Structure / Entities (L5 #46) follows it as a child of #43. Should such an intro paragraph stay under the open heading?"

@@ -62,5 +62,12 @@
    "box": 73,
    "why": "item label (ii)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 79,
+   "closes": 65,
+   "why": "round 5 (main session, page viewed): p5 is a fragment of another proof (an identity about sigma_2i of cos(j pi/n)), an application of the Waring formula, not part of III. 组合反演公式; it belongs to the title Waring 公式及其应用"
+  }
  ]
 }

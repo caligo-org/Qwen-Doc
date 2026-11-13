@@ -112,5 +112,12 @@
    "box": 79,
    "why": "social-media handle under an icon (not a running head)"
   }
+ ],
+ "breaks": [
+  {
+   "before": 74,
+   "closes": 64,
+   "why": "editor's welcome (letter, signature, photo) ends; newsletter QR sign-up and FOLLOW US social box follow"
+  }
  ]
 }

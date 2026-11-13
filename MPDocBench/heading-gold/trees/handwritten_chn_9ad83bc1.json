@@ -46,5 +46,12 @@
    "box": 1,
    "why": "notebook NO/Date header"
   }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "round 5: closing paragraph about the whole essay (成长的代价 / 少年可期), not about the part 爱好无奈放弃 (that part ends with its own 成长的代价或许是放弃… paragraph #14)"
+  }
  ]
 }

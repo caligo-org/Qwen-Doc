@@ -728,6 +728,15 @@
   },
   {
    "boxes": [
+    732
+   ],
+   "level": 4,
+   "parent": 730,
+   "text": "HIGHLIGHT: INDIANA",
+   "why": "round 5: restored, a break now closes it before the run-in state briefs (#736). Own-line label of the highlight box under 50 States; its block is the photo, caption and Bloomington brief (#733-#735). Was text in round 4 only by containment."
+  },
+  {
+   "boxes": [
     787
    ],
    "level": 2,
@@ -896,16 +905,49 @@
   {
    "box": 518,
    "why": "full-page advertisement"
-  },
-  {
-   "box": 732,
-   "why": "round 4 path review: was L4 under 50 States. The kicker label HIGHLIGHT: INDIANA heads one photo brief, but the 50 state briefs that follow in reading order would fall into its subtree and are not about it. Containment closes subtrees (NOTATIONS), so it is text; its brief sits under 50 States with the other state briefs"
   }
  ],
  "considered": [
   {
    "box": 514,
    "why": "running tag NEWS over a full-page ad after the OPINION page: no content, no section node"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 28,
+   "closes": 14,
+   "why": "round 5: the story ends (See SHOOTING, Page 2A); the barcode / home-delivery box and the photo of the next story (Rallygoer's death, printed above its headline) follow"
+  },
+  {
+   "before": 41,
+   "closes": 33,
+   "why": "round 5: the story ends (See COMPERATORE, Page 3A); the MORE COVERAGE pointer box follows"
+  },
+  {
+   "before": 140,
+   "closes": 106,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  },
+  {
+   "before": 324,
+   "closes": 289,
+   "why": "round 5: the story ends (Contributing: Karen Weintraub); the Floridian Club display ad follows"
+  },
+  {
+   "before": 504,
+   "closes": 459,
+   "why": "round 5: the column ends; the staff box (masthead restated, executives) follows"
+  },
+  {
+   "before": 515,
+   "closes": 419,
+   "why": "round 5: the Opinion page ends; a full-page display ad (Fisher Investments) under the running tag NEWS follows"
+  },
+  {
+   "before": 736,
+   "closes": 732,
+   "why": "round 5: the HIGHLIGHT: INDIANA brief (photo, caption, Bloomington brief) ends; the run-in state briefs of 50 States follow"
   }
  ]
 }

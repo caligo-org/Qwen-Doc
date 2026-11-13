@@ -11,6 +11,15 @@
    "parent": "root",
    "text": "二零二五年上半年度財務報告 Prudential plc",
    "why": "title union: document type + owner printed under it on the cover"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "我們的宗旨",
+   "why": "round 5: restored, a break now closes it before the untitled TOC (#9); own-line label with its own block (slogan #6/#7 + mission statement #8), which is about it"
   }
  ],
  "repeats": [
@@ -23,10 +32,6 @@
   }
  ],
  "not_headings": [
-  {
-   "box": 5,
-   "why": "breadcrumb round 2: was L2; fails containment and substance - its block is only the slogan + one mission sentence, and the untitled TOC (#9/#10) that follows is not about it, with no later heading closing it -> text (small label)"
-  },
   {
    "box": 6,
    "why": "slogan under the section label: callout, no block of its own"
@@ -48,6 +53,13 @@
   {
    "box": 4,
    "why": "stock code line on cover, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 9,
+   "closes": 5,
+   "why": "the untitled table of contents follows the purpose label's block (slogan + mission statement); it is not about 我們的宗旨"
   }
  ]
 }
