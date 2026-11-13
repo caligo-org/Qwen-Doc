@@ -47,6 +47,7 @@ annotated as the child of the original.
 | `tools/breadcrumbs.py` | Prints every breadcrumb of a tree and flags paths that look inconsistent (numbering that does not nest, siblings out of order, a heading repeating its ancestor, front matter under a body section, several roots). |
 | `tools/listing.py`, `tools/show.py`, `tools/suggest_repeats.py`, `tools/coverage.py` | Review tools: element listing, page renders with every box labelled (`MPDOCBENCH_PAGES` = folder of `<doc>/page_<n>.jpg`), repeat candidates, pages not yet reviewed. |
 | `path_review/<type>.tsv`, `break_review/<type>.tsv`, `logo_owner.tsv` | Round 4: a verdict for every node, checked on its page. Round 5: every break and restored heading, and a line for every document checked without one. Owner-logo pass: one line per report-type document. `tools/path_coverage.py` checks that every node has a verdict. |
+| `final_check/*.tsv` | Independent final check on the page of every round-5 change: 92 changed nodes (restored headings, owner-logo titles) and all breaks. |
 | `ACCEPTED_FLAGS.json` | Checker flags reviewed on the page, by kind, with the reason each flagged path is consistent. |
 | `learnings/<type>.md` | Decision log per document type: rounds of annotation and breadcrumb review, accepted checker flags with reasons, open cases. |
 
@@ -65,15 +66,15 @@ its reason in `learnings/`.
 | Headings | 6,309 titles | 5,717 nodes |
 | Multi-box headings (unions) | — | 309 |
 | Repeats / continuations | — | 1,212 / 56 |
-| Breaks | — | 333 |
+| Breaks | — | 332 |
 | Titles with no relation | 21 | 0 |
 | Parents not expressible as Markdown levels | 116 | 0 |
 
 - Every tree, written as Markdown with its levels, scores exactly 1.0 against `MPDocBench.roletrees.json` with the
   unchanged Heading TEDS. Fed back as explicit trees, `score_tree.py` gives TEDS 100.00 and all unions, repeats and
   continuations correct.
-- A stored third-party parser output (uocr2) moved from 60.12 to 58.81 Heading TEDS (held-out half 60.58 → 58.28)
-  on the v3 trees before rounds 4 and 5, scored with the Markdown-expressible gold tree of caligo-org/Qwen-Doc#17.
+- A stored third-party parser output (uocr2) moves from 60.12 to 59.10 Heading TEDS (held-out half 60.58 → 58.62),
+  scored with the Markdown-expressible gold tree of caligo-org/Qwen-Doc#17.
 
 ## Use
 

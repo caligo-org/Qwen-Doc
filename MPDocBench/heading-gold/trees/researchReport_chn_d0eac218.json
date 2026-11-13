@@ -154,9 +154,9 @@
  ],
  "breaks": [
   {
-   "before": 16,
+   "before": 15,
    "closes": 4,
-   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (analysts, chart, base data, related research); not about 投资要点"
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (analysts, chart, base data, related research); not about 投资要点; final check: the sidebar starts at its office title #15 (西南证券研究发展中心), so the break moves from #16 to #15"
   }
  ]
 }

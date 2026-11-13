@@ -872,7 +872,7 @@
   },
   {
    "box": 41,
-   "why": "MORE COVERAGE pointer box"
+   "why": "MORE COVERAGE pointer box; final check: no break before it (the round-5 break before #41 closing #33 is removed): the box sits inside the Rallygoer story's column and the story body #44-#49 (ending See COMPERATORE, Page 3A) continues after it in reading order; heading #50 closes the story"
   },
   {
    "box": 42,
@@ -918,11 +918,6 @@
    "before": 28,
    "closes": 14,
    "why": "round 5: the story ends (See SHOOTING, Page 2A); the barcode / home-delivery box and the photo of the next story (Rallygoer's death, printed above its headline) follow"
-  },
-  {
-   "before": 41,
-   "closes": 33,
-   "why": "round 5: the story ends (See COMPERATORE, Page 3A); the MORE COVERAGE pointer box follows"
   },
   {
    "before": 140,

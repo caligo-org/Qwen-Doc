@@ -180,8 +180,8 @@
    ],
    "level": 3,
    "parent": 112,
-   "text": "QUEST MANAGEMENT – QUEST CLEANTECH FUND",
-   "why": "round 5: restored (round 1 made it text by containment); own-line sub-fund label after the lead-in #114 whose block #116-#147 (objective, policy, category list, investor profile) is all about this sub-fund, up to TECHNIQUES AND INSTRUMENTS; the break before #139 closes only the last category label under it"
+   "text": "QUEST MANAGEMENT – QUEST CLEANTECH FUND (denominated in EUR)",
+   "why": "round 5: restored (round 1 made it text by containment); own-line sub-fund label after the lead-in #114 whose block #116-#147 (objective, policy, category list, investor profile) is all about this sub-fund, up to TECHNIQUES AND INSTRUMENTS; the break before #139 closes only the last category label under it; final check: text restored to the print (it prints \"(denominated in EUR):\"; only the trailing colon dropped, as elsewhere in this tree)"
   },
   {
    "boxes": [

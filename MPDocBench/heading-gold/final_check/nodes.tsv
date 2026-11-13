@@ -1,0 +1,93 @@
+doc	item	page	verdict	note
+annualReport_chn_77918496	RESTORED #9	2	OK	二、未出席董事情况 own line with its own absent-director table; break before 三、 (one-sentence items about 重要提示)
+annualReport_eng_778bc822	RESTORED #10	2	OK	Who We Are: own title with intro paragraph and labels below; break before the p3 company-information list
+annualReport_eng_778bc822	RESTORED #14	2	OK	Position Statement: own-line label with its paragraph; Mission follows
+annualReport_eng_778bc822	RESTORED #16	2	OK	Mission: own-line label with its paragraph; Vision follows
+annualReport_eng_778bc822	RESTORED #18	2	OK	Vision: own-line label with its paragraph; break before the group/brand logos
+annualReport_eng_778bc822	RESTORED #41	3	OK	We Stand For: title over Service/Innovation/Quality; break before the p5 contents list
+annualReport_eng_778bc822	RESTORED #42	3	OK	Service: own-line label with its paragraph
+annualReport_eng_778bc822	RESTORED #44	3	OK	Innovation: own-line label with its paragraph
+annualReport_eng_778bc822	RESTORED #46	3	OK	Quality: own-line label with its paragraph; closed with We Stand For before p5
+researchReport_chn_1fb28f59	RESTORED #8	1	OK	投资要点 over the six bullet paragraphs; break before the cover sidebar (date, analysts, market data)
+researchReport_chn_1fb28f59	RESTORED #42	2	OK	图表目录 with its figure list on p2; break before the unheaded p3 body
+book_chn_0875d4ae	RESTORED #247	15	OK	4岁以前乳牙𬌗特征 own line over (1)-(4) and fig 3-30; closed by sibling label #257
+book_chn_0875d4ae	RESTORED #257	15	OK	4~6岁期间乳牙𬌗特征是： own line over (1)-(4) and closing paragraph; break before run-in item 2. 混牙𬌗特征
+newspaper_eng_ad370234	RESTORED #732	12	OK	HIGHLIGHT: INDIANA label over photo, caption and Bloomington brief; break before the run-in state briefs
+goverment_eng_553a7f3f	RESTORED #23	4	OK	Highlights: own line over the 8 bullets (p4-5); break before the account paragraphs #32-35
+goverment_eng_d44e80eb	RESTORED #8	3	OK	Article 29 centred own line over the quoted provision #9; closed by sibling Article 31
+goverment_eng_d44e80eb	RESTORED #10	3	OK	Article 31 own line over provision #11 and items (a)-(c); break before the Preface's own family-members paragraph
+pptSlides_chn_23e6f440	RESTORED #91	7	OK	pill-box title over the COP15 story, photo and caption; closed by the next pill title #95
+pptSlides_chn_23e6f440	RESTORED #95	7	OK	探索滨海湿地生态修复 pill-box title over its story #96; break before the free 绿色基建 paragraph #97
+manualGuide_chn_57d8d5ed	RESTORED #8	2	OK	EM9161主要特点： own line over the ● feature list (p2-3); break before the manual-scope/contact paragraphs #21
+manualGuide_chn_9818e751	RESTORED #159	13	OK	通行级别选项： own line over its two bullets; break before the run-in sibling 防潜回： (#162) so it sits under 3.4.3
+prospectus_eng_01db2dde	RESTORED #29	4	OK	Handling of data own line over the personal-data paragraphs #30-36 (p4-5); break before the KIID/subscription paragraphs #37
+prospectus_eng_241e405e	RESTORED #40	4	OK	Board of Directors' Powers own line over #41-46 (new Funds, management, share issue, closure, issue stop); break before the shares/segregation/suspension/translation notices #47-51
+prospectus_eng_613dbac9	RESTORED #14	2	OK	United States own line over the US-offering/FATCA paragraphs #15-21 (p2-3); closed by sibling Data Protection
+prospectus_eng_613dbac9	RESTORED #22	3	OK	Data Protection own line over personal-data paragraphs #23-26; break before the p4 business-day definition #29
+prospectus_eng_bab1780c	RESTORED #22	5	OK	bold underlined own-line title over the subfund overview table (#23 p5, #26 p6); break before the introduction text resuming at #27
+prospectus_eng_d2e37b2e	RESTORED #115	11	FIXED	own-line sub-fund label after the lead-in, its block (objective, policy, category list, investor profile) runs to TECHNIQUES AND INSTRUMENTS; text dropped the printed '(denominated in EUR)', restored
+prospectus_eng_d2e37b2e	RESTORED #119	11	OK	Renewable Energy: own-line category label over its five bullets; closed by the next label
+prospectus_eng_d2e37b2e	RESTORED #127	12	OK	Energy Efficiency: own-line category label over its five bullets; closed by the next label
+prospectus_eng_d2e37b2e	RESTORED #133	12	OK	Resource Efficiency: own-line label over its five bullets; break before the sub-fund paragraphs #139-147
+handwritten_chn_a6f48a98	RESTORED #21	2	OK	(1) 物品交换的4个阶段 own line over the four-stage block #22-23; break before the run-in sibling (2) 货币含义
+financialReport_chn_d1c80a8f	RESTORED #5	2	OK	我們的宗旨 label over the slogan (p2) and mission statement (p3); break before the untitled contents list #9
+examPaper_eng_0b2fd078	RESTORED #13	1	OK	'a - 1st method' italic own line over its derivation (p1-2); closed by the sibling label 2nd method
+examPaper_eng_0b2fd078	RESTORED #28	2	OK	2nd method, same italic look, own line over its derivation; break before the run-in part b (#36)
+examPaper_eng_6c2631df	RESTORED #1	1	OK	Solution: own line over problem 1's solution (pp1-3, no document title printed); break before the run-in Problem 2 statement #36
+examPaper_eng_6c2631df	RESTORED #20	2	OK	Numerical solution: own line over its equation #21; break before the run-in Case 2 (#22)
+examPaper_eng_6c2631df	RESTORED #34	3	OK	Numerical results: own line over its equation #35; closed by the break that closes Solution: before Problem 2
+examPaper_eng_6c2631df	RESTORED #40	3	OK	Solution: own line over problem 2's solution (notation list, cases) to the end of the pages
+textBook_chn_12b0d2b4	RESTORED #92	10	OK	练习 banner over exercises 1-4 between dashed rules; break before 例3 where 4.1's main text resumes
+textBook_chn_1f0d94bf	RESTORED #40	8	OK	探究与分享 activity box (quote + question) under 近代中国的基本国情和主要矛盾; break at its dotted rule before the main text #43
+textBook_chn_1f0d94bf	RESTORED #50	9	OK	名词点击 term box (terms + two definitions) between dotted rules; break before the main text #54
+textBook_chn_1f0d94bf	RESTORED #61	10	OK	探究与分享 box (material + question) under 各种政治力量解决中国问题的方案; break before the main text #64
+textBook_chn_1f0d94bf	RESTORED #93	12	OK	探究与分享 box (song story + three questions) under 没有共产党就没有新中国; break at the dotted rule before #99
+textBook_chn_1f0d94bf	RESTORED #105	13	OK	探究与分享 box (monument material, questions, photo); break at the dotted rule before the main text #112
+textBook_chn_87e64920	RESTORED #36	8	OK	相关史事 material box with its paragraph #37; break at its dotted rule before the 问题思考 prompt and site map (section text)
+textBook_chn_912349ba	RESTORED #40	8	OK	任务一 badge over its own task block (run-in 新闻阅读 paragraph), under 活动任务单; closed by 任务二
+textBook_chn_912349ba	RESTORED #42	8	OK	任务二 badge over its task block (新闻采访); closed by 任务三
+textBook_chn_912349ba	RESTORED #44	8	OK	任务三 badge over its task block (新闻写作); last content of the excerpt
+textBook_chn_bd56ef2c	RESTORED #67	8	OK	问题导引 panel label over its two question bullets; closed by the next panel 学习目标
+textBook_chn_bd56ef2c	RESTORED #71	8	OK	学习目标 panel label over its two goal bullets; closed by 核心术语
+textBook_chn_bd56ef2c	RESTORED #75	8	OK	核心术语 panel label over its three terms; break at the dotted rule before the 探究 box
+textBook_chn_bd56ef2c	RESTORED #80	8	OK	探究 box title over the bet story and two questions; break before the topic's main text on p9 (#89)
+textBook_chn_fdc97197	RESTORED #85	10	OK	分析 activity label over its task and table 1-1 about the 京张铁路 case; break before the one-line 思考 prompt (case content)
+textBook_eng_0ee658d7	RESTORED #3	2	OK	On the cover: own line over the cover-image paragraph #4; break before the p3 title page (repeat of L1, author, date)
+annualReport_eng_0c770734	LOGO_L1	1	OK	CRAY logo box #4 + '2018 ANNUAL REPORT'; slogan lines KEEP ASKING / MORE DISCOVERY stay text
+annualReport_eng_824dec82	LOGO_L1	1	OK	Lam Research logo (prints 'Lam RESEARCH') + 'Annual Report 2024'; nothing else on the cover
+annualReport_eng_c58ec05f	LOGO_L1	1	OK	alstria logo + '2024 ANNUAL REPORT'; 'IFRS financial statements' line stays text
+annualReport_eng_dd7d06a3	LOGO_L1	1	OK	gogo logo + '2024' + 'Annual Report'
+annualReport_eng_fc735d9d	LOGO_L1	1	OK	Fonterra logo + 'Annual Report 2024' with its printed Maori title; slogan 'Dairy for life' stays text
+goverment_eng_b95bd887	LOGO_L1	1	OK	State Department seal (prints DEPARTMENT OF STATE / UNITED STATES OF AMERICA) + act title + 'Report to Congress'; date header stays text
+manualGuide_chn_561cd575	LOGO_L1	1	FIXED	ElinkThings logo + 'AiLink 4G 血糖仪应用说明'; version/date/copyright lines text; text said 'elinkThings', logo prints 'ElinkThings', corrected
+manualGuide_chn_57d8d5ed	LOGO_L1	1	OK	Emtronix logo + 'EM9161 嵌入式主板数据手册'
+manualGuide_chn_bf4b003e	LOGO_L1	1	OK	EIZO footer logo + 用户手册 + FORIS FS2331 + 彩色液晶显示器 (brand + manual type + product); 重要 notice stays text
+manualGuide_eng_8d2c3220	LOGO_L1	1	OK	KRONE logo + 'Originele handleiding' + machine name/types; document number and machine-Nr. left out of the text
+manualGuide_eng_a2fab9df	LOGO_L1	1	OK	LEGO logo + 'PHARRELL WILLIAMS OVER THE MOON' (set name)
+manualGuide_eng_c8f5395d	LOGO_L1	1	OK	GARMIN logo + 'nüvi® 2440'; feature list title and bullets stay text
+pptSlides_chn_746216ac	LOGO_L1	1	OK	甲子光年 logo + report title; subtitle and publisher/date fields stay text
+pptSlides_chn_b30fedce	LOGO_L1	1	OK	千瓜 logo + '2025年第三季度新兴品类简报'; category line and data dates stay text
+pptSlides_chn_eba02de5	LOGO_L1	1	OK	果集 logo + two-line title + '{个性表达赛道}篇'; category line and date stay text
+researchReport_chn_17cde74d	LOGO_L1	1	OK	国海证券 logo + headline with '——鼎龙股份（300054）深度研究'; date, 公司研究, rating headers stay text
+researchReport_chn_1c78bccd	LOGO_L1	1	OK	海通國際 logo + '中國市場及A股點評'; date and 銷售部 header stay text
+researchReport_chn_1fb28f59	LOGO_L1	1	OK	东吴证券 logo + 通威股份（600438） + headline; series line, rating, sidebar stay text
+researchReport_chn_25d1b14f	LOGO_L1	1	OK	开源证券 logo #4 + headline with ——非银金融行业周报; sidebar 非银金融/date/rating and vertical band stay text
+researchReport_chn_4064c117	LOGO_L1	1	OK	国元证券 logo + headline + '——久远银海(002777.SZ)2020年年度报告点评'; headers and rating stay text
+researchReport_chn_476a222a	LOGO_L1	1	OK	东海证券 logo + '宏观周报：美联储放鸽，9月结束缩表'; date and series header stay text
+researchReport_chn_5f00096d	LOGO_L1	1	FIXED	民生证券 logo + headline + subtitle; subtitle prints '—家电行业周报 20170724', text had OCR '一家电', corrected; 家电行业 label stays text
+researchReport_chn_641838eb	LOGO_L1	1	OK	财信证券 logo + banner '电子' (industry named in the title band) + headline; 行业月度报告/date/rating stay text
+researchReport_chn_7033db6d	LOGO_L1	1	OK	中国银河证券 logo + '快递专题：双十一临近，利好快递板块'; series/date header stays text
+researchReport_chn_a2f46550	LOGO_L1	1	OK	东方证券 logo #17 + '长海股份 300196.SZ' + headline + '——2020年年报&一季报预告点评'; rating table stays text
+researchReport_chn_a988638a	LOGO_L1	1	OK	宏信证券 logo + '急跌或暂息，仍需防风险'; date and series headers stay text
+researchReport_chn_ae3bbb85	LOGO_L1	1	OK	德邦证券 logo + headline + '化工行业周报（20230324-20230331）'; 化工 banner and rating stay text
+researchReport_chn_b857707d	LOGO_L1	1	OK	国金证券 logo + '动力电池行业行业研究' + headline; rating '买入（维持评级）' in the same box left out of the text
+researchReport_chn_d07a67be	LOGO_L1	1	OK	川财证券 logo + headline + '——欧洲央行7月议息会议点评'; sidebar 川财研究 fields stay text
+researchReport_chn_d0eac218	LOGO_L1	1	OK	西南证券 logo + 宁德时代（300750）2019年年报点评 (heading part of the header box; date, rating, prices left out) + headline
+researchReport_chn_dd0407a2	LOGO_L1	1	OK	上海證券 logo #6 + '洽洽食品 (002557)' + headline; rating, date, series header stay text
+researchReport_chn_e960c7b3	LOGO_L1	1	OK	国元证券 logo + '输入性通缩的有限发酵：3月物价数据印象'; 宏观研究报告/date headers stay text
+researchReport_eng_1588f970	LOGO_L1	1	OK	Goldman Sachs (heading part of the logo header, 'Global Macro Research' left out) + TOP of MIND + 'ALL ABOUT BANK(PANIC)S'
+researchReport_eng_5b6f3871	LOGO_L1	1	OK	Goldman Sachs + TOP of MIND + 'TRUMP TARIFFS: MOSTLY TALK, OR BIG ACTION?'; issue/date header stays text
+researchReport_eng_aaabf80f	LOGO_L1	1	OK	Goldman Sachs + TOP of MIND + 'THE IPO SPAC-TACLE'; issue/date header stays text
+researchReport_eng_b3735ab5	LOGO_L1	1	FIXED	Goldman Sachs + TOP of MIND + '2023: 3 THEMES IN CHARTS'; text read 'TOP OF MIND 2023:3', corrected to the print; Special Issue/date box stays text
+researchReport_chn_25d1b14f	NODE_ID #16	1	OK	L1 node id is the headline box #16 (main printed title first), logo box #4 after it; text = 开源证券 + headline with ——非银金融行业周报, matches the cover
+magazine_eng_7d53ba06	CONTINUATION #49	4	OK	p4 prints the Leading Off section tag again after the masthead/colophon that a break closed off; continuation of #16 at L2 over Numbers Game, path Baseball America › Leading Off

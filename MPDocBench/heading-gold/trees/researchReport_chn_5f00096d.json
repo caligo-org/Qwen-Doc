@@ -10,8 +10,8 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "民生证券 6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724",
-   "why": "title union: headline + —家电行业周报 report-type line printed with it Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (民生证券) joins the union after the title box."
+   "text": "民生证券 6月空调内销持续高增长，看好产业链投资价值 —家电行业周报20170724",
+   "why": "title union: headline + —家电行业周报 report-type line printed with it Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (民生证券) joins the union after the title box.; final check: the subtitle prints a dash \"—家电行业周报\", not \"一\" (OCR); text corrected"
   },
   {
    "boxes": [
