@@ -1,0 +1,18 @@
+doc	node	verdict	fix
+examPaper_chn_ab4971e2	100	FIXED	node text drops the [选修4-4] option label printed in the same box; [选修4-5] now a narrower step
+handwritten_chn_50d71ae2	122	REMOVED	side note 拉普拉斯逆变换 inside the property list is text; break closes 1. 线性性质
+manualGuide_chn_1a73fd62	66	ADDED	bold label 他們還是可以接受其他的治療 with its block, L3 under #64 (page viewed, main session)
+manualGuide_chn_1a73fd62	72	ADDED	bold label 他們可能無法延長生命 with its block, L3 under #64 (page viewed, main session)
+manualGuide_chn_5b94cfef	41	ADDED	目录 (contents of the whole manual) L2 front matter, listed before 使用必读 (page viewed, main session)
+manualGuide_chn_f3fc9a26	39	REMOVED	one-line item 11 is text (substance); break closes 10.
+manualGuide_eng_3135929d	11	OK	intro paragraph under the refill heading is a layout reading-order artifact; not corrected (user rule)
+manualGuide_eng_c8f5395d	4	OK	cover line with feature bullets stays text (cover rule)
+textBook_chn_27d8ad59	3	FIXED	title drops the series line 义务教育教科书 (cover field in the same box)
+textBook_chn_47c3d791	28	ADDED	问题导入 label with its block, L3, break before #30 (as 相关史事/练习)
+textBook_eng_865c3034	1	FIXED	title drops "(Second Edition)" (cover field in the same box)
+paper_chn_a197458e	19	OK	another article printed inside section 3, which continues after it: no break (user rule)
+paper_chn_a8bfcf5f	49	OK	another article printed inside 4 结语, which continues after it: no break (user rule)
+annualReport_eng_c58ec05f	53	FIXED	markdown escapes removed from the text
+newspaper_chn_adf00537	19	ADDED	bold subhead 以上率下，高站位高起点部署推进主题教育 L4 under story #14
+newspaper_eng_daf7a3e4	581	FIXED	break closes the op-ed before the restated masthead and staff box
+book_eng_77552588	KEY POINTS	FIXED	user decision: every KEY POINTS box L3, listed in the correct reading order (#187 closes 1.3 ETHICS)

@@ -108,8 +108,8 @@
    ],
    "level": 6,
    "parent": 52,
-   "text": "3.1. Economic development \\*\\*\\*\\*",
-   "why": "1.1 level"
+   "text": "3.1. Economic development ****",
+   "why": "1.1 level | third check: markdown escapes removed, text as printed"
   },
   {
    "boxes": [

@@ -52,6 +52,15 @@
   },
   {
    "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "目录",
+   "why": "third check: the contents of the whole manual, printed inside the 使用必读 page; front matter at the top level, listed before 使用必读 (headings in the correct reading order); its block #42 sits under it by reading order"
+  },
+  {
+   "boxes": [
     37
    ],
    "level": 2,
@@ -476,10 +485,6 @@
   {
    "box": 133,
    "why": "pointer footer: text"
-  },
-  {
-   "box": 41,
-   "why": "contents box printed inside the 使用必读 page. Breadcrumb review r3: as L3 under 使用必读 the path is no breadcrumb (the contents covers the whole document and lists 使用必读 itself); as L2 it would take 附件/关于本手册/操作注意事项 into its subtree (containment). Text."
   }
  ],
  "breaks": [

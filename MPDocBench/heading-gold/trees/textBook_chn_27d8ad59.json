@@ -9,8 +9,8 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "美术 义务教育教科书 一年级下册",
-   "why": "title union: subject + grade/volume line (box also carries the series line)"
+   "text": "美术 一年级下册",
+   "why": "title union: subject + grade/volume line (box also carries the series line) | third check: the series/edition line printed in the same box is cover text (mixed box -> heading part)"
   },
   {
    "boxes": [

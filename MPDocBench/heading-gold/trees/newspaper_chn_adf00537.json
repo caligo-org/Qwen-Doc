@@ -31,6 +31,15 @@
   },
   {
    "boxes": [
+    19
+   ],
+   "level": 4,
+   "parent": 14,
+   "text": "以上率下，高站位高起点部署推进主题教育",
+   "why": "third check: bold own-line subhead with its own block (#20-#26) inside story #14"
+  },
+  {
+   "boxes": [
     27
    ],
    "level": 3,

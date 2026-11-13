@@ -103,15 +103,6 @@
   },
   {
    "boxes": [
-    122
-   ],
-   "level": 5,
-   "parent": 114,
-   "text": "拉普拉斯逆变换：",
-   "why": "starred own-line topic with its formula, ① ② cases and 例3 (an inverse transform split by linearity); inserted inside property 1. 线性性质 before 2. 位移性质. Round 3: L5 under 1. 线性性质 (breadcrumb 性质 › 线性性质 › 拉普拉斯逆变换); as a sibling of the properties the path 性质 › 拉普拉斯逆变换 was not a narrower step (it is not a property)"
-  },
-  {
-   "boxes": [
     129
    ],
    "level": 4,
@@ -170,6 +161,17 @@
   {
    "box": 71,
    "why": "starred exercise statement: text"
+  },
+  {
+   "box": 122,
+   "why": "third check: starred side topic 拉普拉斯逆变换 written inside the property list (between 1. 线性性质 and 2. 位移性质); it is neither a part of linearity nor a property, so no level gives it a breadcrumb path; text, and a break closes 1. 线性性质 before it"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 122,
+   "closes": 114,
+   "why": "the inverse-transform note is not about 1. 线性性质 (third check)"
   }
  ]
 }

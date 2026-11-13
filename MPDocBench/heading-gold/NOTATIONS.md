@@ -69,7 +69,9 @@ decision 2026-11-13). Where the layout reads a box before its heading or after a
 the reading order puts it. Breaks close sections; they are not used to repair reading order. Headings themselves are
 listed under the section they belong to (every path must read as a breadcrumb, user goal), so a heading box that the
 layout reads before or after its own section (a KEY POINTS box beside the section it summarises, a column tag, a
-headline read after its first column) keeps its true parent; only content follows the reader's order.
+headline read after its first column) keeps its true parent; only content follows the reader's order. The tree lists
+headings in the correct reading order (user decision: "assume correct reading order"), e.g. every KEY POINTS box of
+book_eng_77552588 is L3 and closes the numbered section it summarises.
 
 ## Unions
 

@@ -1,0 +1,149 @@
+doc	node	page	verdict	note
+examPaper_chn_0d1c391f	1	1	OK	
+examPaper_chn_0d1c391f	4	1	OK	instruction label 考试注意 with its own rule list: own-line label rule applies (exam note says instructions are text; label kept, as in second pass)
+examPaper_chn_0d1c391f	8	1	OK	
+examPaper_chn_0d1c391f	15	2	OK	
+examPaper_chn_0d1c391f	16	2	OK	
+examPaper_chn_0d1c391f	70	4	OK	
+examPaper_chn_0d1c391f	71	4	OK	
+examPaper_chn_0d1c391f	77	4	OK	
+examPaper_chn_0d1c391f	80	4	OK	
+examPaper_chn_0fced805	1	1	OK	
+examPaper_chn_0fced805	2	1	OK	
+examPaper_chn_12e76eb4	1	1	OK	
+examPaper_chn_12e76eb4	2	1	OK	
+examPaper_chn_12e76eb4	61	4	OK	
+examPaper_chn_12e76eb4	62	4	OK	
+examPaper_chn_12e76eb4	94	7	OK	
+examPaper_chn_12e76eb4	95	7	OK	
+examPaper_chn_12e76eb4	106	8	OK	
+examPaper_chn_254e4dc5	1	1	OK	
+examPaper_chn_254e4dc5	2	1	OK	
+examPaper_chn_254e4dc5	55	3	OK	
+examPaper_chn_254e4dc5	56	3	OK	
+examPaper_chn_254e4dc5	92	5	OK	
+examPaper_chn_3e46326d	1	1	OK	
+examPaper_chn_3e46326d	2	1	OK	
+examPaper_chn_3e46326d	3	1	OK	
+examPaper_chn_3e46326d	59	3	OK	
+examPaper_chn_439ef81c	1	1	OK	
+examPaper_chn_439ef81c	5	1	OK	instruction label 考生注意 with its own list: own-line label rule (same open point as 0d1c391f #4)
+examPaper_chn_439ef81c	8	1	OK	
+examPaper_chn_439ef81c	9	1	OK	
+examPaper_chn_439ef81c	191	8	OK	
+examPaper_chn_439ef81c	192	8	OK	
+examPaper_chn_4d42e18f	1	1	OK	
+examPaper_chn_4d42e18f	2	1	OK	
+examPaper_chn_4d42e18f	52	4	OK	box also prints （一）必考题 (no separate box)
+examPaper_chn_4d42e18f	83	6	OK	union of the two lines of 三、选考题; box also prints [物理--选修3-3]
+examPaper_chn_4d42e18f	95	7	OK	printed 四、 numbering puts the 3-4 option at the part level, sibling of 三、选考题
+examPaper_chn_6b10fb9e	1	1	OK	
+examPaper_chn_707b861f	1	1	OK	
+examPaper_chn_707b861f	2	1	OK	
+examPaper_chn_707b861f	74	4	OK	box prints the 注意事项 run-on with the part title; text is the box text
+examPaper_chn_7603db95	1	1	OK	
+examPaper_chn_7603db95	3	1	OK	
+examPaper_chn_7603db95	138	6	OK	
+examPaper_chn_7603db95	177	8	OK	
+examPaper_chn_85419d1b	2	1	OK	
+examPaper_chn_85419d1b	13	2	OK	
+examPaper_chn_9627d6c2	1	1	OK	
+examPaper_chn_9627d6c2	2	1	OK	
+examPaper_chn_9627d6c2	3	1	OK	
+examPaper_chn_9627d6c2	65	2	OK	
+examPaper_chn_9627d6c2	66	2	OK	
+examPaper_chn_9627d6c2	73	3	OK	
+examPaper_chn_99ec4b2c	3	1	OK	
+examPaper_chn_99ec4b2c	18	2	OK	
+examPaper_chn_ab4971e2	1	1	OK	
+examPaper_chn_ab4971e2	2	1	OK	
+examPaper_chn_ab4971e2	73	3	OK	
+examPaper_chn_ab4971e2	78	3	OK	box also prints （一）必考题 (no separate box)
+examPaper_chn_ab4971e2	100	6	OK	box also prints the [选修4-4] option label (one layout box); Q22 content correctly under it
+examPaper_chn_ab4971e2	104	6	FAIL	parent #100 is one layout box that also prints the first option label [选修4-4：坐标系与参数方程]; path reads "...[选修4-4] › [选修4-5]", so the last step is a sibling option, not narrower. Not fixable by a union; needs a decision (e.g. accept, or cut the parent text to the 选考题 part)
+examPaper_chn_b2d34828	2	1	OK	
+examPaper_chn_b2d34828	15	2	OK	
+examPaper_chn_d80f262e	2	1	OK	
+examPaper_chn_d80f262e	15	2	OK	
+examPaper_chn_f672afcf	2	1	OK	
+examPaper_chn_f672afcf	11	2	OK	
+examPaper_chn_ff633fd0	2	1	OK	
+examPaper_chn_ff633fd0	4	1	OK	instruction label 考生注意 with its own list: own-line label rule (same open point as 0d1c391f #4)
+examPaper_chn_ff633fd0	9	1	OK	
+examPaper_chn_ff633fd0	10	1	OK	
+examPaper_chn_ff633fd0	87	5	OK	
+examPaper_chn_ff633fd0	98	5	OK	
+examPaper_chn_ff633fd0	99	5	OK	
+examPaper_eng_08960d5c	1	1	OK	
+examPaper_eng_08960d5c	17	3	OK	
+examPaper_eng_0b2fd078	1	1	OK	marks block of a problem whose title is not on these pages; top level, no printed parent
+examPaper_eng_0b2fd078	12	1	OK	
+examPaper_eng_0b2fd078	13	1	OK	
+examPaper_eng_0b2fd078	28	2	OK	
+examPaper_eng_0b2fd078	45	3	OK	
+examPaper_eng_11dba3b2	2	1	OK	header box also prints dates/place/Day 1 Tasks; text takes the heading part
+examPaper_eng_11dba3b2	10	1	OK	
+examPaper_eng_11dba3b2	13	1	OK	
+examPaper_eng_11dba3b2	20	2	OK	
+examPaper_eng_11dba3b2	25	2	OK	
+examPaper_eng_11dba3b2	27	2	OK	
+examPaper_eng_11dba3b2	33	2	OK	
+examPaper_eng_2122d135	1	1	OK	
+examPaper_eng_2122d135	22	2	OK	
+examPaper_eng_2122d135	27	2	OK	
+examPaper_eng_2122d135	36	3	OK	
+examPaper_eng_2122d135	38	3	OK	
+examPaper_eng_23110a64	-	-	OK	no nodes; only run-in labels (A1., Answer., Solution.) printed, no title
+examPaper_eng_2a2d3def	1	1	OK	
+examPaper_eng_2a2d3def	10	1	OK	
+examPaper_eng_2a2d3def	26	4	OK	
+examPaper_eng_2a4c8db3	1	1	OK	
+examPaper_eng_2a4c8db3	10	1	OK	
+examPaper_eng_2a4c8db3	27	3	OK	
+examPaper_eng_498d26ee	2	1	OK	
+examPaper_eng_498d26ee	15	2	OK	
+examPaper_eng_4f919f1c	5	1	OK	
+examPaper_eng_58d7c49f	1	1	OK	
+examPaper_eng_58d7c49f	11	1	OK	
+examPaper_eng_658ab010	1	1	OK	box also prints Bucharest; text is the heading part
+examPaper_eng_658ab010	2	1	OK	
+examPaper_eng_658ab010	15	2	OK	
+examPaper_eng_66b20269	2	1	OK	header box prints task id + IOI 2021 Day 2 Tasks; text takes the heading part
+examPaper_eng_66b20269	11	1	OK	
+examPaper_eng_66b20269	27	2	OK	
+examPaper_eng_66b20269	41	3	OK	
+examPaper_eng_66b20269	49	3	OK	
+examPaper_eng_66b20269	56	3	OK	
+examPaper_eng_6c2631df	1	1	OK	
+examPaper_eng_6c2631df	20	2	OK	
+examPaper_eng_6c2631df	34	3	OK	
+examPaper_eng_6c2631df	40	3	OK	same printed text as #1; problem 2 label is a run-in (text), so the two roots are told apart only by position
+examPaper_eng_75d067cd	1	1	OK	
+examPaper_eng_75d067cd	2	1	OK	
+examPaper_eng_75d067cd	9	1	OK	
+examPaper_eng_930559d3	1	1	OK	
+examPaper_eng_930559d3	23	2	OK	
+examPaper_eng_930559d3	27	2	OK	
+examPaper_eng_930559d3	30	3	OK	sibling of Glossary (#27), same look; child of #27 would also read as a breadcrumb, not a fail
+examPaper_eng_930559d3	51	4	OK	
+examPaper_eng_930559d3	57	5	OK	
+examPaper_eng_930559d3	69	7	OK	
+examPaper_eng_930559d3	78	8	OK	
+examPaper_eng_930559d3	85	8	OK	
+examPaper_eng_930559d3	89	8	OK	
+examPaper_eng_d1508a80	1	1	OK	
+examPaper_eng_dbf0e536	2	1	OK	
+examPaper_eng_dbf0e536	15	2	OK	
+examPaper_eng_dd12c9cc	1	1	OK	
+examPaper_eng_dd12c9cc	2	1	OK	
+examPaper_eng_dd12c9cc	32	4	OK	
+examPaper_eng_dd12c9cc	55	7	OK	
+examPaper_eng_f46d7359	2	1	OK	header_image box (candies / IOI 2021 Day 1 Tasks) ∪ title; text takes the heading part
+examPaper_eng_f46d7359	9	1	OK	
+examPaper_eng_f46d7359	15	1	OK	
+examPaper_eng_f46d7359	16	1	OK	
+examPaper_eng_f46d7359	25	2	OK	
+examPaper_eng_f46d7359	31	2	OK	
+examPaper_eng_f46d7359	37	2	OK	
+examPaper_eng_fc1f7054	2	1	OK	
+examPaper_eng_fc1f7054	12	2	OK	

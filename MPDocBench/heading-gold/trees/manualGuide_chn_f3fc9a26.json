@@ -121,15 +121,6 @@
   },
   {
    "boxes": [
-    39
-   ],
-   "level": 3,
-   "parent": 9,
-   "text": "11. 84 键 Windows 键盘",
-   "why": "numbered hardware item 11 of 1.2, printed like items 1.-12. Breadcrumb review r3: as text it fell into the subtree of 10. 外置设备 (a built-in keyboard is not an external device) and no other heading closes 10, so it is a node; its content is the item line itself (OCR \"W ndows\" fixed)."
-  },
-  {
-   "boxes": [
     40
    ],
    "level": 3,
@@ -162,6 +153,17 @@
   {
    "box": 59,
    "why": "callout: 注意 note"
+  },
+  {
+   "box": 39,
+   "why": "third check: one-line numbered item with nothing below it before 12. (substance beats containment): text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 39,
+   "closes": 35,
+   "why": "item 11 (a one-line item) is not about 10. 外置设备 (third check)"
   }
  ]
 }

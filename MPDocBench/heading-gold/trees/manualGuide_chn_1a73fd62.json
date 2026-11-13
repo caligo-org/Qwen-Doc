@@ -159,6 +159,24 @@
   },
   {
    "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "他們還是可以接受其他的治療。",
+   "why": "third check: bold own-line label with its own block under the question heading #64 (label rule)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "他們可能無法延長生命。",
+   "why": "third check: bold own-line label with its own block under the question heading #64 (label rule)"
+  },
+  {
+   "boxes": [
     75,
     76
    ],
@@ -179,14 +197,6 @@
   {
    "box": 32,
    "why": "callout: 備註 note box"
-  },
-  {
-   "box": 66,
-   "why": "bold body-style key statement followed by its explanation: text, not the coloured heading style"
-  },
-  {
-   "box": 72,
-   "why": "bold body-style key statement: text"
   }
  ]
 }

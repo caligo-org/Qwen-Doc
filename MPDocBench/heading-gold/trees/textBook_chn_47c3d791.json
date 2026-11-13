@@ -43,6 +43,15 @@
   },
   {
    "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 26,
+   "text": "问题导入",
+   "why": "third check: own-line label with its own block (#29), restored like 相关史事/练习 in round 5; a break before #30 closes it"
+  },
+  {
+   "boxes": [
     52
    ],
    "level": 3,
@@ -78,11 +87,13 @@
    "why": "repeat: running head naming the open lesson"
   }
  ],
- "not_headings": [
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
   {
-   "box": 28,
-   "why": "问题导入: was L3 heading; round 3 breadcrumb review, containment: its block is only the grey question #29; the lesson's main text (#30, p7 #35-50) follows with no heading before 一、 and would fall under 问题导入 -> text; round 5: kept text, its block #29 is a one-paragraph question prompt (callout by substance, not only containment)"
+   "before": 30,
+   "closes": 28,
+   "why": "the lesson text resumes after the 问题导入 prompt (third check)"
   }
- ],
- "considered": []
+ ]
 }

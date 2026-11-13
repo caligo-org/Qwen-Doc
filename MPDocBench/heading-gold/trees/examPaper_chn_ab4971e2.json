@@ -44,8 +44,8 @@
    ],
    "level": 3,
    "parent": 78,
-   "text": "（二）选考题：共10分。请考生在第22、23题中任选一题作答。如果多做，则按所做的第一题计分。[选修4-4：坐标系与参数方程]（10分）",
-   "why": "sub-group (二)选考题 of group 三 (its box also carries the first module label)"
+   "text": "（二）选考题：共10分。请考生在第22、23题中任选一题作答。如果多做，则按所做的第一题计分。",
+   "why": "sub-group (二)选考题 of group 三 (its box also carries the first module label) | third check: the box also prints the instructions and the first option label [选修4-4]; the node drops the [选修4-4] option label (another heading in the same box); its run-in instructions stay, as in every exam group heading (NOTATIONS: mixed box -> heading part), so [选修4-5] reads as a narrower step under it"
   },
   {
    "boxes": [

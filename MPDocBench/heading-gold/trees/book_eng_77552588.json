@@ -27,7 +27,7 @@
    "level": 3,
    "parent": 3,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box with its own bullet block, one level below its section"
+   "why": "box title: KEY POINTS box with its own bullet block, one level below its section | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -63,7 +63,7 @@
    "level": 3,
    "parent": 36,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about leadership, belongs to 1.2 (printed beside the 1.2 heading)"
+   "why": "box title: KEY POINTS box about leadership, belongs to 1.2 (printed beside the 1.2 heading) | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -159,10 +159,10 @@
    "boxes": [
     117
    ],
-   "level": 4,
-   "parent": 79,
+   "level": 3,
+   "parent": 36,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about listening"
+   "why": "box title: KEY POINTS box about listening | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -172,15 +172,6 @@
    "parent": 36,
    "text": "WORKING WITH OTHERS",
    "why": "uppercase subhead of 1.2"
-  },
-  {
-   "boxes": [
-    120
-   ],
-   "level": 4,
-   "parent": 96,
-   "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about working with others"
   },
   {
    "boxes": [
@@ -199,6 +190,15 @@
    "parent": 96,
    "text": "Feedback",
    "why": "mixed-case bold subhead under WORKING WITH OTHERS"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about working with others | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -222,10 +222,10 @@
    "boxes": [
     161
    ],
-   "level": 4,
-   "parent": 152,
+   "level": 3,
+   "parent": 149,
    "text": "KEY POINT",
-   "why": "box title: KEY POINT box about consent"
+   "why": "box title: KEY POINT box about consent | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -249,10 +249,10 @@
    "boxes": [
     187
    ],
-   "level": 4,
-   "parent": 177,
+   "level": 3,
+   "parent": 149,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about caring for care givers"
+   "why": "box title: KEY POINTS box about caring for care givers | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -270,7 +270,7 @@
    "level": 3,
    "parent": 182,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about education, beside the 1.4 heading"
+   "why": "box title: KEY POINTS box about education, beside the 1.4 heading | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -285,10 +285,10 @@
    "boxes": [
     197
    ],
-   "level": 4,
-   "parent": 184,
+   "level": 3,
+   "parent": 182,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box about planning education"
+   "why": "box title: KEY POINTS box about planning education | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -369,7 +369,7 @@
    "level": 3,
    "parent": 251,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box of 1.5"
+   "why": "box title: KEY POINTS box of 1.5 | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   },
   {
    "boxes": [
@@ -459,7 +459,7 @@
    "level": 3,
    "parent": 307,
    "text": "KEY POINTS",
-   "why": "box title: KEY POINTS box of 1.6"
+   "why": "box title: KEY POINTS box of 1.6 | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
   }
  ],
  "repeats": [
