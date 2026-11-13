@@ -66,7 +66,10 @@ scoring or training yet.
 
 Content follows the reader's reading order (page, box id) as the layout gives it; the gold never re-orders it (user
 decision 2026-11-13). Where the layout reads a box before its heading or after a later heading, the box stays where
-the reading order puts it. Breaks close sections; they are not used to repair reading order.
+the reading order puts it. Breaks close sections; they are not used to repair reading order. Headings themselves are
+listed under the section they belong to (every path must read as a breadcrumb, user goal), so a heading box that the
+layout reads before or after its own section (a KEY POINTS box beside the section it summarises, a column tag, a
+headline read after its first column) keeps its true parent; only content follows the reader's order.
 
 ## Unions
 
