@@ -1,0 +1,454 @@
+doc	node	page	path	verdict	note
+manualGuide_chn_1a73fd62	1	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA	OK	cover band: zh title + en title + Coalition logo box
+manualGuide_chn_1a73fd62	4	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 什麽是人工呼吸器？ What is a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	7	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 當病人連上人工呼吸器時會發生什麼情況？如何操作？ What happens when someone is attached to a ventilator? How is it done?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	12	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 什麼時候須要人工呼吸器？ When do people need a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	16	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 什麼時候須要人工呼吸器？ When do people need a ventilator? › 短期使用人工呼吸器的原因可能包括： Reasons for short-term ventilator use may include:	OK	orange label line ending in colon over its bullet block, inside the When-needed section
+manualGuide_chn_1a73fd62	22	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 什麼時候須要人工呼吸器？ When do people need a ventilator? › 長期使用人工呼吸器的原因包括： Reasons for long-term ventilator use may include:	OK	orange label line ending in colon over its bullet block, inside the When-needed section
+manualGuide_chn_1a73fd62	29	1	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 誰應該使用這份指南？ Who should use this guide?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	33	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人工呼吸器可能有何帮助？How might using a ventilator help?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	39	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人工呼吸器可能造成哪些傷害？How might a ventilator cause harm?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	44	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人工呼吸器能使病情好转嗎？Does a ventilator help people to get better?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	46	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人工呼吸器對哪些病人最有益？Who is most likely to be helped from being on a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	50	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人工呼吸器對哪些病人較無益？Who is less likely to be helped by using a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	54	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 使用人工呼吸器，會是什麼樣的情況？ What is it like being on a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	57	2	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 一旦用了人工呼吸器，他們可以停止不用嗎？ Once someone is on a ventilator, can they come off?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	60	3	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 如果有人需要長時間使用人工呼吸器，會有什麼情況出現呢？ What happens if someone needs a ventilator for a long time?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	64	3	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 對決定不嘗試人工呼吸器的病人，會有什麼情況？ What happens to people who decide NOT to try a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_1a73fd62	75	3	人工呼吸器 決策指南 Ventilator Decision Aid COALITION FOR COMPASSIONATE CARE OF CALIFORNIA › 人們如何決定是否要試用人工呼吸器？ How do people decide whether or not to try a ventilator?	OK	orange question heading + en translation over its answer block
+manualGuide_chn_51cbdc09	4	1	序言	OK	chapter title 序言 (excerpt, no document title printed; chapters top level)
+manualGuide_chn_51cbdc09	5	1	序言 › 本手册编排介绍	OK	section title over chapter-list table
+manualGuide_chn_51cbdc09	8	1	序言 › 技术支持	OK	section title over support info table
+manualGuide_chn_51cbdc09	16	2	目录	OK	目录 title over 2-page TOC
+manualGuide_chn_51cbdc09	27	4	简介	OK	chapter title 简介
+manualGuide_chn_51cbdc09	28	4	简介 › 概述	OK	section title over intro paragraph
+manualGuide_chn_51cbdc09	30	4	简介 › 特征	OK	section title over feature subsections
+manualGuide_chn_51cbdc09	31	4	简介 › 特征 › 主板SB-810的主要配置	OK	subhead over configuration bullet list
+manualGuide_chn_51cbdc09	43	4	简介 › 特征 › CPU	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	45	4	简介 › 特征 › CRT接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	47	4	简介 › 特征 › LCD接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	49	4	简介 › 特征 › 串口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	51	4	简介 › 特征 › 并口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	53	4	简介 › 特征 › IDE接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	55	4	简介 › 特征 › DOC接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	61	5	简介 › 特征 › FDC接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	63	5	简介 › 特征 › USB接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	65	5	简介 › 特征 › 网络接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	67	5	简介 › 特征 › 声卡接口	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	69	5	简介 › 特征 › 物理特征	OK	small subhead under 特征 over its paragraph (TOC indents it under 特征)
+manualGuide_chn_51cbdc09	71	5	产品特征	OK	chapter title 产品特征
+manualGuide_chn_51cbdc09	72	5	产品特征 › 功能原理示意图	OK	section title over block diagram
+manualGuide_chn_51cbdc09	79	6	产品特征 › 接口示意图	OK	section title over interface photo
+manualGuide_chn_51cbdc09	81	6	产品特征 › 主板机械示意图	OK	section title over mechanical drawing
+manualGuide_chn_561cd575	3	1	AiLink 4G 血糖仪应用说明	OK	cover title; ElinkThings logo is an image with no text box
+manualGuide_chn_561cd575	12	2	AiLink 4G 血糖仪应用说明 › 修改记录	OK	front-matter title over revision table
+manualGuide_chn_561cd575	18	3	AiLink 4G 血糖仪应用说明 › 目录	OK	front-matter title over TOC
+manualGuide_chn_561cd575	24	4	AiLink 4G 血糖仪应用说明 › 1 概述	OK	numbered section heading over its block (matches TOC)
+manualGuide_chn_561cd575	33	4	AiLink 4G 血糖仪应用说明 › 2 说明	OK	numbered section heading over its block (matches TOC)
+manualGuide_chn_561cd575	42	5	AiLink 4G 血糖仪应用说明 › 3 硬件接口	OK	numbered section heading over its block (matches TOC)
+manualGuide_chn_561cd575	43	5	AiLink 4G 血糖仪应用说明 › 3 硬件接口 › 3.1 硬件连接参考框图	OK	numbered subsection over block diagram
+manualGuide_chn_561cd575	45	5	AiLink 4G 血糖仪应用说明 › 3 硬件接口 › 3.2串口UART	OK	numbered subsection over UART paragraph + note
+manualGuide_chn_561cd575	48	5	AiLink 4G 血糖仪应用说明 › 3 硬件接口 › 3.3MCU_ON/OFF	OK	numbered subsection over ON/OFF paragraphs
+manualGuide_chn_57d8d5ed	3	1	EM9161 嵌入式主板数据手册	OK	cover title band; Emtronix logo is an image; running head = repeats
+manualGuide_chn_57d8d5ed	35	4	EM9161 嵌入式主板数据手册 › 目录	OK	目录 over TOC
+manualGuide_chn_57d8d5ed	42	5	EM9161 嵌入式主板数据手册 › 1、主要技术指标	OK	numbered chapter over spec groups
+manualGuide_chn_57d8d5ed	43	5	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › CPU单元	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	50	5	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 通讯接口配置	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	61	5	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 显示键盘单元	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	72	6	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 数字IO控制单元	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	76	6	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 精简ISA扩展总线	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	81	6	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 电源及模块机械参数	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	86	6	EM9161 嵌入式主板数据手册 › 1、主要技术指标 › 基本软件环境	OK	bold subhead over its bullet list inside 1、
+manualGuide_chn_57d8d5ed	102	7	EM9161 嵌入式主板数据手册 › 2、外形尺寸	OK	numbered chapter (figure_caption box) over drawing
+manualGuide_chn_57d8d5ed	110	8	EM9161 嵌入式主板数据手册 › 3、模块信号管脚功能描述	OK	numbered chapter over pin-description intro
+manualGuide_chn_57d8d5ed	123	9	EM9161 嵌入式主板数据手册 › 3、模块信号管脚功能描述 › 3.1 EM9161 的 CN1 信号定义	OK	numbered 3.1 (table_caption box) over CN1 pin table
+manualGuide_chn_57d8d5ed	131	10	EM9161 嵌入式主板数据手册 › 3、模块信号管脚功能描述 › 3.1 EM9161 的 CN1 信号定义 › 关于CN1中相关信号的进一步说明：	OK	own-line label over CN1 bullet notes and summary table
+manualGuide_chn_57d8d5ed	151	12	EM9161 嵌入式主板数据手册 › 3、模块信号管脚功能描述 › 3.2 EM9161的CN2信号定义	OK	numbered 3.2 over CN2 tables
+manualGuide_chn_57d8d5ed	163	13	EM9161 嵌入式主板数据手册 › 3、模块信号管脚功能描述 › 3.2 EM9161的CN2信号定义 › 关于CN2中相关信号的进一步说明：	OK	own-line label over CN2 bullet notes
+manualGuide_chn_59b90f53	1	1	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册	OK	cover: FUJIFILM wordmark + product line/model + 用户手册
+manualGuide_chn_59b90f53	17	2	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 目录	OK	目录 over 2-page TOC
+manualGuide_chn_59b90f53	25	4	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 可使用的存储卡	OK	memory-card note box on last contents page (front-matter box, round 3)
+manualGuide_chn_59b90f53	28	5	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 产品中有毒有害物质或元素的名称及含量	OK	■ regulatory table title (front matter)
+manualGuide_chn_59b90f53	31	6	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 标志的含义	OK	■ regulatory marks table title (front matter)
+manualGuide_chn_59b90f53	33	6	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 盒内各类同装物品的包装材料的标识	OK	■ packaging marks title over recycle figure + list
+manualGuide_chn_59b90f53	37	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册	OK	section band 关于本手册 (TOC p7)
+manualGuide_chn_59b90f53	38	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 关于标记	OK	■ subhead inside 关于本手册 over its paragraph/figure
+manualGuide_chn_59b90f53	42	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 可使用的存储卡	OK	■ subhead inside 关于本手册 over its paragraph/figure
+manualGuide_chn_59b90f53	44	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 十字键（▲▼◀▶）	OK	■ subhead inside 关于本手册 over its paragraph/figure
+manualGuide_chn_59b90f53	47	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 关于电缆	OK	■ subhead inside 关于本手册 over its paragraph/figure
+manualGuide_chn_59b90f53	52	7	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 关于LCD显示屏显示的插图	OK	■ subhead inside 关于本手册 over its paragraph/figure
+manualGuide_chn_59b90f53	59	8	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 使用拨盘	OK	■ subhead over dial usage + three dial panels
+manualGuide_chn_59b90f53	61	8	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 使用拨盘 › 选择缩略图（见40页）	OK	panel title over its text + screenshots
+manualGuide_chn_59b90f53	64	8	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 使用拨盘 › 选择菜单（见51，65，83页）	OK	panel title over its text + screenshots
+manualGuide_chn_59b90f53	67	8	FUJIFILM 富士数码相机FINEPIXZ200fd 用户手册 › 关于本手册 › 使用拨盘 › 改变文件夹（见26页）	OK	panel title over its text + screenshots
+manualGuide_chn_5b94cfef	1	1	DENON 收音环绕扩音机 AVR-1912 开始使用	OK	cover: DENON logo box + product type + model + 开始使用
+manualGuide_chn_5b94cfef	9	2	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安全注意事项	OK	□ front-matter safety head over warning box
+manualGuide_chn_5b94cfef	22	2	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用注意事项	OK	□ front-matter usage precautions over 警告 table
+manualGuide_chn_5b94cfef	24	2	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装注意事项	OK	□ front-matter installation head over clearance figures
+manualGuide_chn_5b94cfef	30	3	DENON 收音环绕扩音机 AVR-1912 开始使用 › 根据电子信息产品污染控制管理办法的有毒·有害物质或元素的标识表	ADDED	「」 regulatory table title over substance table + 10-year mark notes (p II); as text it fell under 安装注意事项
+manualGuide_chn_5b94cfef	37	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读	OK	black band chapter
+manualGuide_chn_5b94cfef	43	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 附件	OK	grey band over parts list
+manualGuide_chn_5b94cfef	50	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 关于本手册	OK	grey band over □ subheads
+manualGuide_chn_5b94cfef	51	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 关于本手册 › 操作按键	OK	□ subhead over its line
+manualGuide_chn_5b94cfef	53	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 关于本手册 › 符号	OK	□ subhead over symbol list
+manualGuide_chn_5b94cfef	58	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 关于本手册 › 插图	OK	□ subhead over its line
+manualGuide_chn_5b94cfef	60	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 关于本手册 › 关于光盘	OK	□ subhead over Adobe Reader block
+manualGuide_chn_5b94cfef	65	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项	OK	grey band over bold bullet labels
+manualGuide_chn_5b94cfef	66	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项 › 开启电源开关前	OK	bold bullet label over its paragraph
+manualGuide_chn_5b94cfef	69	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项 › 关于冷凝	OK	bold bullet label over its paragraph
+manualGuide_chn_5b94cfef	71	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项 › 使用移动电话的注意事项	OK	bold bullet label over its paragraph
+manualGuide_chn_5b94cfef	73	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项 › 移动本机	OK	bold bullet label over its paragraph
+manualGuide_chn_5b94cfef	75	4	DENON 收音环绕扩音机 AVR-1912 开始使用 › 使用必读 › 操作注意事项 › 爱护本机	OK	bold bullet label over its bullets
+manualGuide_chn_5b94cfef	83	5	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导	OK	black band chapter
+manualGuide_chn_5b94cfef	87	5	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导 › 本步骤所需的部件	OK	rounded box title over parts grid
+manualGuide_chn_5b94cfef	105	5	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导 › 1将扬声器放置到合适的位置	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	117	6	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导 › 2 使用HDMI电缆(单独出售)将此设备连接到电视机	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	121	6	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导 › 3 打开电视机电源，并将视频输入切换到此设备（HDMI输入）	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	124	6	DENON 收音环绕扩音机 AVR-1912 开始使用 › 准备安装向导 › 4 将提供的电池放入遥控器	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	135	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导	OK	black band chapter
+manualGuide_chn_5b94cfef	138	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 1 选择语言	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	143	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 2 音箱连接	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	152	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 3 音箱设定	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	157	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 4 音源设定	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	162	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 5 遥控器设定	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	167	7	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 6 网络设定	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	175	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 安装向导的基本操作	OK	rounded box title over basic-operation panels
+manualGuide_chn_5b94cfef	188	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用	OK	rounded box title over numbered steps
+manualGuide_chn_5b94cfef	189	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 1 将主设备电源插头插入电源插座。	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	192	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 2 按ZONE SELECT键，将区域操作模式切换为M（主区域）。	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	197	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 将电源切换到待机状态后	OK	orange own-line label over standby block in the 开始使用 panel
+manualGuide_chn_5b94cfef	206	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 3 按AMP将遥控器设置为AMP操作模式。	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	209	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 4 对准此设备按ON（I）。	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	214	8	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 开始使用 › 5 按ENTER。	OK	step badge + step title over its own panel
+manualGuide_chn_5b94cfef	223	9	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 连接扬声器	OK	□ head over manual speaker connection page
+manualGuide_chn_5b94cfef	226	9	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 连接扬声器 › 连接	OK	rounded box title over connection text
+manualGuide_chn_5b94cfef	228	9	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 连接扬声器 › 连接 › 连接扬声器电缆	OK	grey band inside 连接 box over cable figure
+manualGuide_chn_5b94cfef	236	9	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 连接扬声器 › 7.1 声道	OK	rounded box title over 7.1 wiring figure
+manualGuide_chn_5b94cfef	238	9	DENON 收音环绕扩音机 AVR-1912 开始使用 › 安装向导 › 连接扬声器 › 5.1 声道	OK	rounded box title over 5.1 wiring figure
+manualGuide_chn_5b94cfef	241	10	DENON 收音环绕扩音机 AVR-1912 开始使用 › 播放(基本操作)	OK	black band chapter
+manualGuide_chn_5b94cfef	244	10	DENON 收音环绕扩音机 AVR-1912 开始使用 › 播放(基本操作) › 选择输入源	OK	grey band over input selection
+manualGuide_chn_5b94cfef	248	10	DENON 收音环绕扩音机 AVR-1912 开始使用 › 播放(基本操作) › 选择输入源 › 使用主机上的键	OK	underlined subhead over its block
+manualGuide_chn_5b94cfef	253	10	DENON 收音环绕扩音机 AVR-1912 开始使用 › 播放(基本操作) › 选择输入源 › 使用“音源选择”菜单	OK	underlined subhead over its block
+manualGuide_chn_78622ad7	1	1	magicolor® 5440 DL 用户指南	OK	cover title: product + 用户指南 (part numbers text)
+manualGuide_chn_78622ad7	4	2	magicolor® 5440 DL 用户指南 › 商标	OK	bold front-matter head over its paragraph
+manualGuide_chn_78622ad7	7	2	magicolor® 5440 DL 用户指南 › 版权通告	OK	bold front-matter head over its paragraph
+manualGuide_chn_78622ad7	9	2	magicolor® 5440 DL 用户指南 › 通告	OK	bold front-matter head over its paragraph
+manualGuide_chn_78622ad7	11	3	magicolor® 5440 DL 用户指南 › 软件许可协议	OK	centered head over licence clauses 1-12
+manualGuide_chn_78622ad7	27	5	magicolor® 5440 DL 用户指南 › 目录	OK	目录 over 2-page TOC (footer 目录 = repeats; p4 blank)
+manualGuide_chn_894ac6ec	1	1	R-1000型变压器绕线机 使用说明书	OK	cover: product name + 使用说明书
+manualGuide_chn_894ac6ec	3	1	R-1000型变压器绕线机 使用说明书 › 一、概述：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	7	2	R-1000型变压器绕线机 使用说明书 › 二、主要技术指标和性能参数：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	18	2	R-1000型变压器绕线机 使用说明书 › 三、主要功能特点：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	27	3	R-1000型变压器绕线机 使用说明书 › 四、调整绕线机及绕制变压器的操作步骤：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	39	3	R-1000型变压器绕线机 使用说明书 › 五、脚踏操作形式：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	43	4	R-1000型变压器绕线机 使用说明书 › 六、使用说明和异常处理：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	44	4	R-1000型变压器绕线机 使用说明书 › 六、使用说明和异常处理： › 1、控制器显示说明：	OK	numbered sub-item over display notes (1)-(5)
+manualGuide_chn_894ac6ec	53	4	R-1000型变压器绕线机 使用说明书 › 六、使用说明和异常处理： › 2、控制器面板按键说明：	OK	numbered sub-item over key descriptions (1)-(6)
+manualGuide_chn_894ac6ec	61	5	R-1000型变压器绕线机 使用说明书 › 六、使用说明和异常处理： › 2、异常及处理方法：	OK	"printed ""2、"" again (doc numbering) over fault table"
+manualGuide_chn_894ac6ec	63	5	R-1000型变压器绕线机 使用说明书 › 七、安装与维护：	OK	bold numbered chapter 一、… over its numbered items
+manualGuide_chn_894ac6ec	71	5	R-1000型变压器绕线机 使用说明书 › 八、注意事项：	OK	chapter 八 over items 1-11; closing paragraph falls under it (closing-paragraph rule)
+manualGuide_chn_9818e751	2	1	USP-CDG 门禁管理软件使用说明书	OK	cover: USP-CDG + 门禁管理软件使用说明书; NITRO logo is an image; running head = repeats
+manualGuide_chn_9818e751	5	1	USP-CDG 门禁管理软件使用说明书 › 声明	OK	声明 box title over disclaimer
+manualGuide_chn_9818e751	10	2	USP-CDG 门禁管理软件使用说明书 › 目录	OK	目录 over TOC
+manualGuide_chn_9818e751	15	3	USP-CDG 门禁管理软件使用说明书 › 1. 简介	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	21	4	USP-CDG 门禁管理软件使用说明书 › 2. 软件安装	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	22	4	USP-CDG 门禁管理软件使用说明书 › 2. 软件安装 › 2.1 数据库安装	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	26	4	USP-CDG 门禁管理软件使用说明书 › 2. 软件安装 › 2.2 USP-CDG管理软件安装	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	28	4	USP-CDG 门禁管理软件使用说明书 › 2. 软件安装 › 2.3 数据库设置	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	46	5	USP-CDG 门禁管理软件使用说明书 › 2. 软件安装 › 2.4 软件版本查看	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	57	7	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	58	7	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.1 系统登录	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	66	7	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.2 操作菜单介绍	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	67	7	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.2 操作菜单介绍 › 功能目录	OK	bold own-line label over function list + figure
+manualGuide_chn_9818e751	85	8	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.2 操作菜单介绍 › 快捷菜单	OK	bold own-line label over shortcut list + figure
+manualGuide_chn_9818e751	99	9	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.3 网络连接	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	117	10	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.4 新建门	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	119	10	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.4 新建门 › 3.4.1 常规	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	148	12	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.4 新建门 › 3.4.2 事件	OK	numbered outline heading over its block (matches TOC)
+manualGuide_chn_9818e751	158	13	USP-CDG 门禁管理软件使用说明书 › 3. 系统配置 › 3.4 新建门 › 3.4.3 高级选项	OK	3.4.3 over access-level and anti-passback blocks (run-in labels text, round-1 RESOLVED by rule (run-in labels are text) kept)
+manualGuide_chn_b4d94d54	4	1	大宗农产品进口报告 用户操作手册	OK	cover: system name + 用户操作手册; running head = repeats
+manualGuide_chn_b4d94d54	9	2	大宗农产品进口报告 用户操作手册 › 目录	OK	目录 over TOC
+manualGuide_chn_b4d94d54	13	3	大宗农产品进口报告 用户操作手册 › 1 引言	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	14	3	大宗农产品进口报告 用户操作手册 › 1 引言 › 1.1编写目的	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	16	3	大宗农产品进口报告 用户操作手册 › 1 引言 › 1.2背景	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	21	3	大宗农产品进口报告 用户操作手册 › 1 引言 › 1.3定义	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	23	3	大宗农产品进口报告 用户操作手册 › 2 用途功能	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	24	3	大宗农产品进口报告 用户操作手册 › 2 用途功能 › 2.1功能	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_b4d94d54	26	3	大宗农产品进口报告 用户操作手册 › 2 用途功能 › 2.2系统要求	OK	numbered bold heading over its block (matches TOC)
+manualGuide_chn_bf4b003e	1	1	用户手册 FORIS® FS2331 彩色液晶显示器	OK	cover: 用户手册 + FORIS FS2331 + product type; EIZO footer logo is an image
+manualGuide_chn_bf4b003e	9	2	用户手册 FORIS® FS2331 彩色液晶显示器 › 警告声明的位置	OK	front-matter head over label figure + copyright
+manualGuide_chn_bf4b003e	15	3	用户手册 FORIS® FS2331 彩色液晶显示器 › 有关此显示器的注意事项	OK	front-matter head over precaution list
+manualGuide_chn_bf4b003e	31	4	用户手册 FORIS® FS2331 彩色液晶显示器 › 清洁	OK	front-matter grey-rule head over cleaning notes + ● 面板/机壳
+manualGuide_chn_bf4b003e	36	4	用户手册 FORIS® FS2331 彩色液晶显示器 › 清洁 › 面板	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	39	4	用户手册 FORIS® FS2331 彩色液晶显示器 › 清洁 › 机壳	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	41	4	用户手册 FORIS® FS2331 彩色液晶显示器 › 舒适地使用显示器	OK	front-matter grey-rule head over two bullets
+manualGuide_chn_bf4b003e	45	5	用户手册 FORIS® FS2331 彩色液晶显示器 › 目录	OK	目录 over 2-column TOC
+manualGuide_chn_bf4b003e	50	6	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍	OK	chapter band 第1章 介绍; running footer = repeats
+manualGuide_chn_bf4b003e	52	6	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-1. 特征	OK	1-1. over feature bullets
+manualGuide_chn_bf4b003e	82	7	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能	OK	1-2. over 显示器 / 遥控器
+manualGuide_chn_bf4b003e	83	7	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能 › 显示器	OK	grey-rule subhead over controls figure + table
+manualGuide_chn_bf4b003e	90	8	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能 › 遥控器	OK	grey-rule subhead over remote figure + table
+manualGuide_chn_bf4b003e	93	8	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能 › 遥控器 › 在使用遥控器之前	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	94	8	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能 › 遥控器 › 在使用遥控器之前 › 如何安装电池	OK	plain subhead under ● 在使用遥控器之前 over battery steps
+manualGuide_chn_bf4b003e	101	8	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-2. 控制和功能 › 遥控器 › 在使用遥控器之前 › 遥控器的接收范围	OK	plain subhead under ● 在使用遥控器之前 over range figure
+manualGuide_chn_bf4b003e	106	9	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-3. EIZO LCD Utility Disk	OK	1-3. over disk sections
+manualGuide_chn_bf4b003e	108	9	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-3. EIZO LCD Utility Disk › 光盘内容和软件概述	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	111	9	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-3. EIZO LCD Utility Disk › 使用“ScreenManager Pro for LCD (DDC/CI)/EIZO ScreenSlicer”	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	115	10	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能	OK	1-4. over basic operation + functions
+manualGuide_chn_bf4b003e	116	10	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能 › 设定菜单的基本操作	OK	● item heading under its parent, over its own block
+manualGuide_chn_bf4b003e	117	10	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能 › 设定菜单的基本操作 › 1. 显示设定菜单	OK	numbered step over its instructions + screenshot
+manualGuide_chn_bf4b003e	120	10	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能 › 设定菜单的基本操作 › 2. 调节/设定	OK	numbered step over its instructions + screenshots
+manualGuide_chn_bf4b003e	126	10	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能 › 设定菜单的基本操作 › 3.退出	OK	numbered step over its instructions + note
+manualGuide_chn_bf4b003e	131	11	用户手册 FORIS® FS2331 彩色液晶显示器 › 第1章 介绍 › 1-4. 基本操作和功能 › 功能	OK	● item heading under its parent, over its own block
+manualGuide_chn_db260b52	1	1	AutoChips AC781x 数据手册	OK	cover: AutoChips logo text box + AC781x 数据手册; header title = repeats
+manualGuide_chn_db260b52	12	2	AutoChips AC781x 数据手册 › 修订记录	OK	front-matter head over revision table
+manualGuide_chn_db260b52	20	3	AutoChips AC781x 数据手册 › 文档目录	OK	文档目录 over 2-page TOC
+manualGuide_chn_db260b52	35	5	AutoChips AC781x 数据手册 › 1 主要特性	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	36	5	AutoChips AC781x 数据手册 › 1 主要特性 › 操作特性	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	39	5	AutoChips AC781x 数据手册 › 1 主要特性 › 性能	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	43	5	AutoChips AC781x 数据手册 › 1 主要特性 › 存储器和存储器接口	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	46	5	AutoChips AC781x 数据手册 › 1 主要特性 › 时钟	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	50	5	AutoChips AC781x 数据手册 › 1 主要特性 › 系统外设	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	59	5	AutoChips AC781x 数据手册 › 1 主要特性 › 人机接口	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	62	5	AutoChips AC781x 数据手册 › 1 主要特性 › 模拟模块	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	65	5	AutoChips AC781x 数据手册 › 1 主要特性 › 定时器	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	71	5	AutoChips AC781x 数据手册 › 1 主要特性 › 通信接口	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	77	5	AutoChips AC781x 数据手册 › 1 主要特性 › 封装选项	OK	• bullet group label over its ➤ sub-list
+manualGuide_chn_db260b52	86	6	AutoChips AC781x 数据手册 › 2 器件标识	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	87	6	AutoChips AC781x 数据手册 › 2 器件标识 › 2.1 说明	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	89	6	AutoChips AC781x 数据手册 › 2 器件标识 › 2.2 格式	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	92	6	AutoChips AC781x 数据手册 › 2 器件标识 › 2.3 字段	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	96	6	AutoChips AC781x 数据手册 › 2 器件标识 › 2.4 示例	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	104	7	AutoChips AC781x 数据手册 › 3 参数分类	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	114	8	AutoChips AC781x 数据手册 › 4 额定值	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	115	8	AutoChips AC781x 数据手册 › 4 额定值 › 4.1 热学操作额定值	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	120	8	AutoChips AC781x 数据手册 › 4 额定值 › 4.2 湿度操作额定值	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	124	8	AutoChips AC781x 数据手册 › 4 额定值 › 4.3 ESD操作额定值	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	138	9	AutoChips AC781x 数据手册 › 4 额定值 › 4.4 电压和电流操作额定值	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	150	10	AutoChips AC781x 数据手册 › 5 通用	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	151	10	AutoChips AC781x 数据手册 › 5 通用 › 5.1 静态电气规格	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	152	10	AutoChips AC781x 数据手册 › 5 通用 › 5.1 静态电气规格 › 5.1.1 电源和地引脚	OK	red numbered heading over its block (matches TOC)
+manualGuide_chn_db260b52	159	10	AutoChips AC781x 数据手册 › 5 通用 › 5.1 静态电气规格 › 5.1.2 DC特性	OK	5.1.2 over DC table continuing to p11 and LVD/POR table p12 (5.1.3 starts p13)
+manualGuide_chn_f3fc9a26	1	1	第一章 系统简介	OK	chapter title (excerpt, no document title)
+manualGuide_chn_f3fc9a26	6	1	第一章 系统简介 › 1.1系统软硬件兼容性说明	OK	1.1 over its paragraphs
+manualGuide_chn_f3fc9a26	9	1	第一章 系统简介 › 1.2产品硬件配置	OK	1.2 over hardware items
+manualGuide_chn_f3fc9a26	11	1	第一章 系统简介 › 1.2产品硬件配置 › 1. CPU	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	15	2	第一章 系统简介 › 1.2产品硬件配置 › 2. Chipset	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	18	2	第一章 系统简介 › 1.2产品硬件配置 › 3. 内存	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	20	2	第一章 系统简介 › 1.2产品硬件配置 › 4. L2 Cache	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	22	2	第一章 系统简介 › 1.2产品硬件配置 › 5. 硬盘	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	24	2	第一章 系统简介 › 1.2产品硬件配置 › 6. 声音系统	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	27	2	第一章 系统简介 › 1.2产品硬件配置 › 7. 显示系统	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	31	2	第一章 系统简介 › 1.2产品硬件配置 › 8. AV控制面板	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	33	2	第一章 系统简介 › 1.2产品硬件配置 › 9. 光驱	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	35	2	第一章 系统简介 › 1.2产品硬件配置 › 10. 外置设备	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	39	3	第一章 系统简介 › 1.2产品硬件配置 › 11. 84 键 Windows 键盘	OK	item with no block; node so the keyboard is not filed under 10. 外置设备 (round 3)
+manualGuide_chn_f3fc9a26	40	3	第一章 系统简介 › 1.2产品硬件配置 › 12. 扩展接口	OK	numbered hardware item inside 1.2 over its bullets
+manualGuide_chn_f3fc9a26	56	3	第一章 系统简介 › 1.2产品硬件配置 › 笔记本电脑重量尺寸：	OK	own-line label over weight/size bullets + note
+manualGuide_chn_f3fc9a26	60	3	第一章 系统简介 › 1.3 快速开始	OK	1.3 over start steps
+manualGuide_eng_2ea63cc3	1	1	PRIME H510M-K ASUS Motherboard	OK	cover: model + ASUS logo/Motherboard band (p2 copyright page under L1)
+manualGuide_eng_2ea63cc3	11	3	PRIME H510M-K ASUS Motherboard › Contents	OK	Contents over TOC
+manualGuide_eng_2ea63cc3	14	4	PRIME H510M-K ASUS Motherboard › Safety information	OK	front-matter section over two safety subheads
+manualGuide_eng_2ea63cc3	15	4	PRIME H510M-K ASUS Motherboard › Safety information › Electrical safety	OK	bold subhead over its bullet list
+manualGuide_eng_2ea63cc3	22	4	PRIME H510M-K ASUS Motherboard › Safety information › Operation safety	OK	bold subhead over its bullet list
+manualGuide_eng_3135929d	1	1	DCP-T500W brother	OK	cover: model band + brother logo box (tagline dropped); slogan text
+manualGuide_eng_3135929d	11	2	DCP-T500W brother › Refilling is so easy with Refill Tank System 3 Easy Steps!	OK	boxed headline over 3 step panels
+manualGuide_eng_3135929d	13	2	DCP-T500W brother › Exceedingly Affordable	OK	blue brochure headline over its copy/figures
+manualGuide_eng_3135929d	26	3	DCP-T500W brother › Saves Space and Convenient	OK	headline over space-saving copy + photo; the refill-angle paragraph #33 (top of column 2) precedes #34 in reading order
+manualGuide_eng_3135929d	34	3	DCP-T500W brother › User-Friendly Refill Experience	OK	headline over spillage comparison figures
+manualGuide_eng_3135929d	42	3	DCP-T500W brother › Work smarter with essential business features	OK	boxed headline over 3 feature icons
+manualGuide_eng_3135929d	44	3	DCP-T500W brother › Work smarter with essential business features › Print Speed	OK	feature caption over its line
+manualGuide_eng_3135929d	48	3	DCP-T500W brother › Work smarter with essential business features › Wireless	OK	feature caption over its line
+manualGuide_eng_3135929d	51	3	DCP-T500W brother › Work smarter with essential business features › Mobile Printing	OK	feature caption over its line
+manualGuide_eng_3135929d	53	4	DCP-T500W brother › DCP-T500W Technical Specifications	OK	spec page title over spec tables
+manualGuide_eng_43edf789	2	1	GARMIN New Product Announcement	OK	GARMIN logo box + New Product Announcement (memo header text)
+manualGuide_eng_43edf789	7	1	GARMIN New Product Announcement › Features	OK	section head over feature bullets
+manualGuide_eng_43edf789	30	2	GARMIN New Product Announcement › Product Configuration	OK	blue-rule section head over its block
+manualGuide_eng_43edf789	32	2	GARMIN New Product Announcement › Product Configuration › quatix™	OK	product name over config details
+manualGuide_eng_43edf789	41	2	GARMIN New Product Announcement › Featured New Accessories	OK	blue-rule section head over its block
+manualGuide_eng_43edf789	43	2	GARMIN New Product Announcement › Featured New Accessories › GNT™ 10 NMEA Transceiver	OK	accessory name over its details
+manualGuide_eng_43edf789	52	2	GARMIN New Product Announcement › Additional quatix Accessories	OK	blue-rule section head over its block
+manualGuide_eng_43edf789	55	2	GARMIN New Product Announcement › Shipping and Case Pack Information	OK	blue-rule section head over its block
+manualGuide_eng_6202ad06	1	1	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING	OK	cover: TruWood SIDING header logo + INSTALLATION INSTRUCTIONS + product line; restated product line = repeats
+manualGuide_eng_6202ad06	12	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Warranty Requirements	OK	green section head over bullets
+manualGuide_eng_6202ad06	15	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Storage	OK	green section head over bullets
+manualGuide_eng_6202ad06	19	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Construction Essentials	OK	green section head over intro + A-C
+manualGuide_eng_6202ad06	22	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Construction Essentials › A. FRAMING	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	25	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Construction Essentials › B. SHEATHING	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	28	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Construction Essentials › C. VAPOR BARRIERS, VENTILATION AND MOISTURE CONTROL	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	34	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Installation	OK	green section head over A-D
+manualGuide_eng_6202ad06	35	2	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Installation › A. FASTENING	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	49	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Installation › B. GAPS, CLEARANCES, AND CORNERS	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	56	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Installation › C. CAULKING	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	60	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Proper Installation › D. PAINTING	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	70	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Installation Errors That Void the Warranty	OK	green section head over error list + note
+manualGuide_eng_6202ad06	84	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Key Homeowner Maintenance Responsibilities	OK	green section head over bullets
+manualGuide_eng_6202ad06	89	3	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Codes and Standards	OK	green section head over code list
+manualGuide_eng_6202ad06	100	4	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Product Guidelines	OK	green section head over guideline bullets + Fig 4
+manualGuide_eng_6202ad06	113	4	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › California WUI Application Requirements	OK	green section head over two bullets
+manualGuide_eng_6202ad06	116	4	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Additional Requirements	OK	green section head over Old Mill item + style examples
+manualGuide_eng_6202ad06	117	4	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Additional Requirements › Old Mill Shingle Lap Siding	OK	own-line subhead over its bullet
+manualGuide_eng_6202ad06	119	4	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › Additional Requirements › Designer Shake Style Examples	OK	subhead over style figures
+manualGuide_eng_6202ad06	133	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY	OK	warranty title over clauses 1-7
+manualGuide_eng_6202ad06	134	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 1. LIMITED WARRANTY - TRANSFERABLE WARRANTY COVERAGE	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	137	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 2. WARRANTY REMEDIES	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	141	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 3. WARRANTY LIMITATIONS	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	144	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 4. EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	146	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 5. ADDITIONAL EXCLUSIONS	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	149	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 6. STATE LAW	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	151	5	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › TRUWOOD SIDING & TRIM 30-YEAR LIMITED WARRANTY › 7. CONTACT US	OK	green lettered/numbered subhead over its bullets
+manualGuide_eng_6202ad06	155	6	TruWood® SIDING INSTALLATION INSTRUCTIONS DESIGNER SHAKE™ LAP SIDING › CARE AND MAINTENANCE	OK	care title over run-in paragraphs (CONTACT US box text, round 3)
+manualGuide_eng_62437ad7	1	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS	OK	cover: GARMIN logo box + ECHOMAP UHD INSTALLATION INSTRUCTIONS
+manualGuide_eng_62437ad7	4	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Important Safety Information	OK	blue head over WARNING/CAUTION/NOTICE bands
+manualGuide_eng_62437ad7	19	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › ECHOMAP UHD 6x Connector View	OK	bold head over connector figure + table
+manualGuide_eng_62437ad7	24	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › ECHOMAP UHD 7x/9x Connector View	OK	bold head over connector figure + table
+manualGuide_eng_62437ad7	29	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Software Update	OK	bold head over update paragraph (L2, round 2)
+manualGuide_eng_62437ad7	31	1	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Tools Needed	OK	bold head over tools list (L2, round 2)
+manualGuide_eng_62437ad7	45	2	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Mounting Considerations	OK	blue head over mounting options
+manualGuide_eng_62437ad7	55	2	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Bail Mounting a Device with a Swivel Base	OK	blue head over swivel steps
+manualGuide_eng_62437ad7	68	2	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Fixed-Bail Mounting the Device	OK	blue head over fixed-bail steps
+manualGuide_eng_62437ad7	79	2	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Flush Mounting the Device	OK	blue head over flush-mount steps 1-19
+manualGuide_eng_62437ad7	108	3	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations	OK	blue head over cable subsections
+manualGuide_eng_62437ad7	110	3	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Connecting the Cables to the ECHOMAP UHD 6x Cradle	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	120	3	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Connecting the Cables to the ECHOMAP UHD 7x/9x Cradle	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	124	3	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Power and Data Cable	OK	bold head over harness bullets + wire table
+manualGuide_eng_62437ad7	132	3	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Power and Data Cable › Connecting to Power	OK	bold italic subhead over power steps
+manualGuide_eng_62437ad7	143	4	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Connecting the Device to a Transducer	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	148	4	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Connecting to a Garmin Device to Share User Data	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	157	4	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › Installing the Ferrite Bead on the Transducer Cable	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	161	4	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Connection Considerations › NMEA 2000 Considerations	OK	bold black subhead over its steps/text inside the blue section
+manualGuide_eng_62437ad7	171	4	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Installing the Device in the Cradle	OK	blue head over cradle steps
+manualGuide_eng_62437ad7	179	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Installing the Device in the Cradle › Removing the Device from the Cradle	OK	bold head over removal steps
+manualGuide_eng_62437ad7	183	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications	OK	blue head over spec tables
+manualGuide_eng_62437ad7	184	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › All Models	OK	bold head over spec table
+manualGuide_eng_62437ad7	186	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › 6x Models	OK	bold head over spec table
+manualGuide_eng_62437ad7	188	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › 7x Models	OK	bold head over spec table (continues next column)
+manualGuide_eng_62437ad7	193	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › 9x Models	OK	bold head over spec table
+manualGuide_eng_62437ad7	195	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 2000 PGN Information	OK	bold head over PGN tables
+manualGuide_eng_62437ad7	196	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 2000 PGN Information › Transmit and Receive	OK	table label over its PGN table
+manualGuide_eng_62437ad7	198	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 2000 PGN Information › Transmit	OK	table label over its PGN table
+manualGuide_eng_62437ad7	200	5	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 2000 PGN Information › Receive	OK	table label over its PGN table
+manualGuide_eng_62437ad7	205	6	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 0183 Information	OK	bold head over 0183 tables
+manualGuide_eng_62437ad7	206	6	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 0183 Information › Transmit	OK	table label over its sentence table
+manualGuide_eng_62437ad7	208	6	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › Specifications › NMEA 0183 Information › Receive	OK	table label over its sentence table
+manualGuide_eng_62437ad7	212	6	GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS › 物質宣言	OK	Chinese substance declaration title over table (L2 regulatory back matter)
+manualGuide_eng_714e4656	2	1	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux	OK	cover: models + Washer-Dryer + Instruction Booklet + AEG Electrolux footer logo; welcome page p2 under L1
+manualGuide_eng_714e4656	34	3	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Contents	OK	Contents over 3-page TOC (later Contents labels = repeats)
+manualGuide_eng_714e4656	47	6	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Safety instructions	OK	big bold section over safety subheads
+manualGuide_eng_714e4656	49	6	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Safety instructions › General safety	OK	bold subhead over bullets
+manualGuide_eng_714e4656	56	6	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Safety instructions › Installation	OK	bold subhead over bullets
+manualGuide_eng_714e4656	62	7	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Safety instructions › Child safety	OK	bold subhead over bullets (running head p7 = repeat)
+manualGuide_eng_714e4656	68	7	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Safety instructions › During use	OK	bold subhead over bullets
+manualGuide_eng_714e4656	78	8	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Disposal	OK	big bold section over two subheads
+manualGuide_eng_714e4656	79	8	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Disposal › Packaging materials	OK	bold subhead over recycling lines
+manualGuide_eng_714e4656	85	8	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Disposal › Machine	OK	bold subhead over disposal text
+manualGuide_eng_714e4656	91	9	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Tips for environmental protection	OK	big bold section over tips
+manualGuide_eng_714e4656	101	10	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Main features of your washer-dryer	OK	big bold section over feature bullets
+manualGuide_eng_714e4656	116	11	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance	OK	big bold section over Front view / Control panel
+manualGuide_eng_714e4656	117	11	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Front view	OK	bold subhead over front-view drawing
+manualGuide_eng_714e4656	122	12	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel	OK	bold subhead over panel drawing + button sections
+manualGuide_eng_714e4656	133	12	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › Programme selector dial	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	150	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › ON/OFF button	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	152	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › Mains-on light	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	154	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › START/PAUSE button	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	156	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › START/PAUSE button › a) Start	OK	a) sub-function label over its paragraph
+manualGuide_eng_714e4656	158	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › START/PAUSE button › b) Pause	OK	b) sub-function label over its paragraphs
+manualGuide_eng_714e4656	161	13	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › DELAY START button	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	170	14	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › DRYING TIME button	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	174	14	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › Programme Option buttons	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	178	14	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › SPIN SPEED	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_714e4656	180	14	LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux › Description of the appliance › Control panel › RINSE HOLD	OK	control/button heading under Control panel (TOC indent) over its paragraphs
+manualGuide_eng_8cb5bbc3	2	1	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1	OK	Electrolux header logo + product name under photo; header product = repeats
+manualGuide_eng_8cb5bbc3	11	1	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Short Form Specification	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	17	1	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Main Features	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	35	1	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Construction	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	41	1	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Optional Accessories	OK	grey band over accessory table (resumed p3)
+manualGuide_eng_8cb5bbc3	50	2	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Electric	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	52	2	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Water:	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	56	2	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Installation:	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	58	2	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Capacity:	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	60	2	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Key Information:	OK	grey-band spec head over its block
+manualGuide_eng_8cb5bbc3	67	3	Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1 › Optional Accessories	OK	continuation of Optional Accessories on p3 after spec sections
+manualGuide_eng_8d2c3220	2	1	Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD	OK	cover: Originele handleiding (doc number dropped) + product/models box; KRONE logo image only
+manualGuide_eng_8d2c3220	8	2	Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD › EG-conformiteitsverklaring	OK	header-box title of declaration page over declaration and form fields
+manualGuide_eng_8d2c3220	28	3	Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD › Voorwoord	OK	section-only running header Voorwoord = that page's heading over foreword text
+manualGuide_eng_a2fab9df	3	1	PHARRELL WILLIAMS OVER THE MOON	OK	set name box; LEGO logo is a figure with no text box
+manualGuide_eng_a2fab9df	6	2	PHARRELL WILLIAMS OVER THE MOON › ÉVEILLER L'IMAGINATION	OK	yellow spread headline over its copy
+manualGuide_eng_a2fab9df	13	5	PHARRELL WILLIAMS OVER THE MOON › ENFLAMMER LA CRÉATIVITÉ	OK	yellow spread headline over its copy
+manualGuide_eng_a2fab9df	15	6	PHARRELL WILLIAMS OVER THE MOON › PROPULSÉ PAR LA CURIOSITÉ	OK	yellow spread headline over its copy
+manualGuide_eng_a3556095	1	1	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3)	OK	cover: TRENDnet logo box + Quick Installation Guide + product/model
+manualGuide_eng_a3556095	5	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Declaration of Conformity	OK	DoC panel title over its fields
+manualGuide_eng_a3556095	7	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Declaration of Conformity › Manufacturer's Name and Address	OK	field label over address
+manualGuide_eng_a3556095	11	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Declaration of Conformity › Product Information:	OK	field label over product data + standards
+manualGuide_eng_a3556095	16	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Declaration of Conformity › Declaration:	OK	"RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): the untitled LED-status notes + tables (#23-#28) printed below the DoC panel fall under ""Declaration:""; no printed heading closes it"
+manualGuide_eng_a3556095	29	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Déclaration de conformité	OK	French DoC panel title over its fields
+manualGuide_eng_a3556095	31	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Déclaration de conformité › Nom et adresse du fabricant	OK	field label over address
+manualGuide_eng_a3556095	35	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Déclaration de conformité › Détails du produit	OK	field label over product data + standards
+manualGuide_eng_a3556095	40	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Déclaration de conformité › Déclaration:	OK	RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): same as #16 for the Spanish/Italian LED notes + tables (#47-#50)
+manualGuide_eng_a3556095	51	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Limited Warranty	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	53	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Garantie Limitée	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	55	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Eingeschrankte Garantie	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	57	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Garantia limitada	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	59	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Ограниченная гарантия	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	61	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Garantia Limitada	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	63	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Piiratud garantii	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	65	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Garanzia limitata	OK	per-language warranty head over its paragraph
+manualGuide_eng_a3556095	67	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Certifications	OK	head over FCC/CE/WEEE text + Note/Advertencia callouts
+manualGuide_eng_a3556095	78	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Technical Support	OK	head over support text
+manualGuide_eng_a3556095	80	2	TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3) › Product Warranty Registration	OK	head over registration text + address
+manualGuide_eng_a7839445	2	1	EPSON Connection & Control Box Operation Guide	OK	EPSON header logo box (tagline dropped) + guide title band
+manualGuide_eng_a7839445	4	1	EPSON Connection & Control Box Operation Guide › How To Switch Input Sources	OK	blue-square section head over its panel
+manualGuide_eng_a7839445	6	1	EPSON Connection & Control Box Operation Guide › Part Names and Functions	OK	blue-square section head over its panel
+manualGuide_eng_a7839445	17	1	EPSON Connection & Control Box Operation Guide › Input Ports	OK	blue-square section head over its panel
+manualGuide_eng_a7839445	34	2	EPSON Connection & Control Box Operation Guide › Connection Examples	OK	blue-square section head over its panel
+manualGuide_eng_a7839445	35	2	EPSON Connection & Control Box Operation Guide › Connection Examples › Connecting Using a Computer Cable	OK	panel title over cable diagram + note
+manualGuide_eng_a7839445	39	2	EPSON Connection & Control Box Operation Guide › Connection Examples › Connecting Using a USB Cable	OK	panel title over USB diagram + notes
+manualGuide_eng_a7839445	44	2	EPSON Connection & Control Box Operation Guide › Connection Examples › Connecting with HDMI Cables	OK	panel title over HDMI diagrams + notes
+manualGuide_eng_a7839445	56	3	EPSON Connection & Control Box Operation Guide › Switching Images	OK	blue-square section head over its panel
+manualGuide_eng_a7839445	57	3	EPSON Connection & Control Box Operation Guide › Switching Images › Names and Functions of the Input Source Buttons	OK	panel title over buttons figure + table
+manualGuide_eng_a7839445	63	3	EPSON Connection & Control Box Operation Guide › Troubleshooting	OK	head over troubleshooting table (problem heads in the table have no box; round-1 RESOLVED (problem heads inside the table have no box; table sits under this head))
+manualGuide_eng_c53257de	1	1	GENERAC Manual del usuario Generadores enfriados por aire de 60 Hz trifásicos	OK	cover: GENERAC header logo + manual type + product line; running footer = repeats
+manualGuide_eng_c53257de	26	3	GENERAC Manual del usuario Generadores enfriados por aire de 60 Hz trifásicos › Índice de contenidos	OK	Índice de contenidos over 2-column TOC
+manualGuide_eng_c8f5395d	1	1	nüvi® 2440	OK	model in header (Garmin logo image, slogan text); p2 header model = repeat
+manualGuide_eng_c8f5395d	28	2	nüvi® 2440 › Fonctionnalités	OK	▶ head over its block
+manualGuide_eng_c8f5395d	46	2	nüvi® 2440 › Fonctionnalités › nüRoute™	OK	feature box title over subtitle (deck) + text
+manualGuide_eng_c8f5395d	49	2	nüvi® 2440 › Fonctionnalités › PhotoReal™	OK	feature box title over subtitle (deck) + text + screenshots
+manualGuide_eng_c8f5395d	59	2	nüvi® 2440 › Cartographie	OK	▶ head over its block
+manualGuide_eng_c8f5395d	63	2	nüvi® 2440 › Caractéristiques physiques	OK	▶ head over its block
+manualGuide_eng_c8f5395d	65	2	nüvi® 2440 › Contenu du pack	OK	▶ head over its block
+manualGuide_eng_c8f5395d	72	2	nüvi® 2440 › Conditionnement	OK	▶ head over its block
+manualGuide_eng_c8f5395d	79	2	nüvi® 2440 › Accessoires	OK	▶ head over its block
+manualGuide_eng_e19dcc01	1	1	GARMIN Oregon® Série 700 Manuel d'utilisation	OK	cover box GARMIN + Oregon Série 700 + Manuel d'utilisation (p2 copyright text under L1)
+manualGuide_eng_e19dcc01	11	3	GARMIN Oregon® Série 700 Manuel d'utilisation › Table des matières	FIXED	"TOC title; text was OCR ""matieres"", page prints ""Table des matières"""
+manualGuide_eng_e19dcc01	20	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction	OK	chapter large black over sections (running footer = repeats)
+manualGuide_eng_e19dcc01	23	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil	OK	blue bold over device figure + battery subsections
+manualGuide_eng_e19dcc01	26	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Informations sur la batterie	OK	black bold over warning bands + battery subsections
+manualGuide_eng_e19dcc01	34	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Informations sur la batterie › Optimisation de l'autonomie de la batterie	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	40	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Informations sur la batterie › Activation du mode Economie d'énergie	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	45	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Informations sur la batterie › Rangement pour une longue période	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	47	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Mise en place de piles AA	OK	black bold over AA steps
+manualGuide_eng_e19dcc01	57	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Mise en place de piles AA › Informations sur la batterie	OK	bold italic label repeated after the AA steps over its warning bands (printed under AA install)
+manualGuide_eng_e19dcc01	65	5	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Installation de la batterie NiMH	OK	black bold over NiMH steps
+manualGuide_eng_e19dcc01	75	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Présentation de l'appareil › Installation de la batterie NiMH › Chargement de la batterie	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	90	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Mise sous tension de l'appareil	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	92	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Ecran d'accueil	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	95	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Ecran d'accueil › Utilisation de l'écran tactile	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	102	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Ecran d'accueil › Verrouillage de l'écran tactile	FIXED	"black bold subhead; text was OCR ""I'ecran"", page prints ""Verrouillage de l'écran tactile"""
+manualGuide_eng_e19dcc01	105	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Ecran d'accueil › Verrouillage de l'écran tactile › Déverrouillage de l'écran tactile	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	107	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Introduction › Acquisition des signaux satellites	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	111	6	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées	OK	chapter large black over sections
+manualGuide_eng_e19dcc01	123	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Prérequis pour les fonctions connectées	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	127	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Connexion à un réseau sans fil	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	135	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Connexion à un réseau sans fil › Configuration des fonctions Wi-Fi	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	141	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Couplage de votre smartphone	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	148	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Affichage des widgets	OK	heading at its TOC indent over its block
+manualGuide_eng_e19dcc01	153	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Connect IQObjets	FIXED	"blue bold head; text was ""IQObjects"", page and TOC print ""Connect IQObjets"""
+manualGuide_eng_e19dcc01	158	7	GARMIN Oregon® Série 700 Manuel d'utilisation › Fonctionnalités connectées › Connect IQObjets › Téléchargement d'objets Connect IQ	OK	heading at its TOC indent over its block
+manualGuide_eng_e665d244	2	1	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser	OK	cover: Einbauanleitung / Installation Instructions + Kit CSF48 + Endress+Hauser footer logo
+manualGuide_eng_e665d244	13	2	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 1 Identifizierung	OK	numbered heading over its block
+manualGuide_eng_e665d244	14	2	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 1 Identifizierung › 1.1 Lieferumfang	OK	numbered heading over its block
+manualGuide_eng_e665d244	22	2	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 1 Identifizierung › 1.2 Werkzeugliste	OK	numbered heading over its block
+manualGuide_eng_e665d244	30	3	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 2 Montage	OK	German chapter over safety messages (callouts) and steps 1-9 to p6
+manualGuide_eng_e665d244	88	7	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 3 Identification	OK	English chapter (reading order after German part)
+manualGuide_eng_e665d244	89	7	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 3 Identification › 3.1 Scope of delivery	OK	numbered heading over its block
+manualGuide_eng_e665d244	97	7	Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser › 3 Identification › 3.2 Tool list	OK	numbered heading over its block

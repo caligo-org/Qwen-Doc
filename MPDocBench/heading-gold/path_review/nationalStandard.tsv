@@ -1,0 +1,304 @@
+doc	node	page	path	verdict	note
+nationalStandard_chn_00457a35	5	1	商品煤质量 民用散煤 Commercial coal quality—Civil bulk	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_00457a35	11	2	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 前言	OK	preface title + preface text
+nationalStandard_chn_00457a35	21	3	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	24	3	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	46	3	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_00457a35	48	3	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义 › 3.1 商品煤 commercial coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_00457a35	54	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义 › 3.2 动力用煤 steam coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_00457a35	59	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义 › 3.3 民用煤 civil coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_00457a35	62	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义 › 3.4 民用散煤 civil bulk coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_00457a35	65	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 3 术语和定义 › 3.5 民用型煤 civil briquette	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_00457a35	68	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 4 原料要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_00457a35	69	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 4 原料要求 › 4.1 类别	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	71	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 4 原料要求 › 4.2 品种	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	73	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 5 产品分类	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	75	4	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 6 要求和试验方法	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	84	5	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则	OK	numbered clause title + its subclauses
+nationalStandard_chn_00457a35	85	5	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则 › 7.1 组批	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	87	5	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则 › 7.2 采样与制备	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	89	5	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则 › 7.3 出厂检验	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	94	6	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则 › 7.4 型式检验	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	102	6	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 7 检验规则 › 7.5 判定规则	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	104	6	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 8 标识、运输及贮存	OK	numbered clause title + its subclauses
+nationalStandard_chn_00457a35	105	6	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 8 标识、运输及贮存 › 8.1 标识	OK	numbered clause title + its text
+nationalStandard_chn_00457a35	115	6	商品煤质量 民用散煤 Commercial coal quality—Civil bulk › 8 标识、运输及贮存 › 8.2 运输、贮存	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	5	1	商品煤质量 民用型煤 Commercial coal quality—Civil briq	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_040d3ee5	11	2	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 前言	OK	preface title + preface text
+nationalStandard_chn_040d3ee5	21	3	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	24	3	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	44	3	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_040d3ee5	46	3	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.1 商品煤 commercial coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	52	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.2 动力用煤 steam coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	57	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.3 民用煤 civil coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	60	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.4 民用散煤 civil bulk coal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	63	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.5 民用型煤 civil briquette	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	66	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.6 冷压强度 cold compressive strength	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	70	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.7 落下强度 shatter strength	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	73	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 3 术语和定义 › 3.8 限下率 undersize fraction	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_040d3ee5	77	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 4 原料要求	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	79	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 5 产品分类	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	81	4	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 6 要求和试验方法	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	93	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则	OK	numbered clause title + its subclauses
+nationalStandard_chn_040d3ee5	94	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.1 组批	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	96	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.2 采样与制备	OK	numbered clause title + its subclauses
+nationalStandard_chn_040d3ee5	97	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.2 采样与制备 › 7.2.1 蜂窝煤	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	99	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.2 采样与制备 › 7.2.2 其他型煤	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	101	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.3 出厂检验	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	105	6	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.4 型式检验	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	115	7	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 7 检验规则 › 7.5 判定规则	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	118	7	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 8 包装、标识、运输及贮存	OK	numbered clause title + its subclauses
+nationalStandard_chn_040d3ee5	119	7	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 8 包装、标识、运输及贮存 › 8.1 包装	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	121	7	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 8 包装、标识、运输及贮存 › 8.2 标识	OK	numbered clause title + its text
+nationalStandard_chn_040d3ee5	131	7	商品煤质量 民用型煤 Commercial coal quality—Civil briq › 8 包装、标识、运输及贮存 › 8.3 运输、卸装及贮存	OK	numbered clause title + its text
+nationalStandard_chn_1a47ad75	5	1	民用无人驾驶航空器系统安全要求 Safety requirements for civil	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_1a47ad75	11	2	民用无人驾驶航空器系统安全要求 Safety requirements for civil › 目次	OK	contents title + TOC listing
+nationalStandard_chn_1a47ad75	18	4	民用无人驾驶航空器系统安全要求 Safety requirements for civil › 前言	OK	preface title + preface text
+nationalStandard_chn_2bed867d	6	1	家用和类似用途单相插头插座型式、基本参数和尺寸 Single phase plugs an	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_2bed867d	12	3	家用和类似用途单相插头插座型式、基本参数和尺寸 Single phase plugs an › 目 次	OK	contents title + TOC listing
+nationalStandard_chn_2cbf14a0	6	1	锻压机械 安全技术规范 Metalforming machinery—Safety tec	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_2cbf14a0	12	3	锻压机械 安全技术规范 Metalforming machinery—Safety tec › 目次	OK	contents title + TOC listing
+nationalStandard_chn_2cbf14a0	16	5	锻压机械 安全技术规范 Metalforming machinery—Safety tec › 前言	OK	preface title + preface text
+nationalStandard_chn_2cbf14a0	50	7	锻压机械 安全技术规范 Metalforming machinery—Safety tec › 引言	OK	introduction title + its text
+nationalStandard_chn_2cbf14a0	56	9	锻压机械 安全技术规范 Metalforming machinery—Safety tec › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_2cbf14a0	60	9	锻压机械 安全技术规范 Metalforming machinery—Safety tec › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_4234f2c5	6	1	鞋类通用安全要求 General safety requirements for foot	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_4234f2c5	12	3	鞋类通用安全要求 General safety requirements for foot › 前言	OK	preface title + preface text
+nationalStandard_chn_4234f2c5	40	5	鞋类通用安全要求 General safety requirements for foot › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_4234f2c5	44	5	鞋类通用安全要求 General safety requirements for foot › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_4234f2c5	61	5	鞋类通用安全要求 General safety requirements for foot › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_4234f2c5	63	5	鞋类通用安全要求 General safety requirements for foot › 3 术语和定义 › 3.1 可触及 accessible	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_4234f2c5	69	6	鞋类通用安全要求 General safety requirements for foot › 4 技术要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_4234f2c5	70	6	鞋类通用安全要求 General safety requirements for foot › 4 技术要求 › 4.1 钉尖和断针要求	OK	numbered clause title + its text
+nationalStandard_chn_4234f2c5	73	6	鞋类通用安全要求 General safety requirements for foot › 4 技术要求 › 4.2 化学物质限量要求	OK	numbered clause title + its text
+nationalStandard_chn_4234f2c5	77	6	鞋类通用安全要求 General safety requirements for foot › 5 试验方法	OK	numbered clause title + its subclauses
+nationalStandard_chn_4234f2c5	78	6	鞋类通用安全要求 General safety requirements for foot › 5 试验方法 › 5.1 钉尖和断针	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	5	1	儿童用品通用安全要求 General safety requirements for ch	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_5ad1e78c	11	3	儿童用品通用安全要求 General safety requirements for ch › 目 次	OK	contents title + TOC listing
+nationalStandard_chn_5ad1e78c	18	5	儿童用品通用安全要求 General safety requirements for ch › 前言	OK	preface title + preface text
+nationalStandard_chn_5ad1e78c	24	6	儿童用品通用安全要求 General safety requirements for ch › 引言	OK	introduction title + its text
+nationalStandard_chn_5ad1e78c	30	7	儿童用品通用安全要求 General safety requirements for ch › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	42	7	儿童用品通用安全要求 General safety requirements for ch › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	56	7	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	58	7	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.1 儿童用品 children's products	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	63	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.2 正常使用 normal use	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	67	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.3 可预见的合理滥用 reasonably foreseeable abuse	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	72	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.4 伤害 harm	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	76	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.5 危险 hazard	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	81	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.6 风险 risk	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	85	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.7 可触及 accessible	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	88	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.8 开口 opening	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	91	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.9 可拆卸部件 detachable/removable component	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	94	8	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.10 球 ball	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	102	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.11 折叠机构 folding mechanism	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	106	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.12 危险突出物 hazardous projection	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	109	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.13 危险锐利边缘 hazardous sharp edge	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	112	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.14 危险锐利尖端 hazardous sharp point	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	115	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.15 总含量 totalcontent	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	120	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.16 填充物 filling materials	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	125	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.17 使用说明 instructions for use	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	130	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.18 束缚系统 restraint system	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	134	9	儿童用品通用安全要求 General safety requirements for ch › 3 术语和定义 › 3.19 尖刺 splinter	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_5ad1e78c	139	9	儿童用品通用安全要求 General safety requirements for ch › 4 要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	140	9	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.1 总体要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	141	9	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.1 总体要求 › 4.1.1 通用性	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	147	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.1 总体要求 › 4.1.2 协调性	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	149	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	150	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.1 清洁	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	154	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.2 安全防护	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	156	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.3 外观	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	158	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.4 异味	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	160	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.5 易与食品混淆的产品	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	162	10	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.6 玻璃和陶瓷	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	171	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.7 液体	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	173	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.8 填充物	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	179	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.2 一般要求 › 4.2.9 腐烂和昆虫侵害	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	181	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	182	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.1 形状及尺寸	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	183	11	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.1 形状及尺寸 › 4.3.1.1 小零件	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	205	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.1 形状及尺寸 › 4.3.1.2 小球	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	208	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.1 形状及尺寸 › 4.3.1.3 球形、半球形、卵形或椭圆形包装和包装上的可拆卸部件	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	211	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.2 开口和间隙	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	212	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.2 开口和间隙 › 4.3.2.1 开口	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	215	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.2 开口和间隙 › 4.3.2.2 活动部件间隙	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	220	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.3 边缘、尖端及转角	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	221	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.3 边缘、尖端及转角 › 4.3.3.1 危险锐利边缘、危险锐利尖端和转角	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	224	12	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.3 边缘、尖端及转角 › 4.3.3.2 功能性锐利边缘和功能性锐利尖端	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	229	13	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.3 边缘、尖端及转角 › 4.3.3.3 尖刺	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	231	13	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.4 危险突出物	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	235	13	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.5 绳索或绳圈	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	244	13	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.6 密闭空间	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	248	13	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.7 稳定性能	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	254	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.8 结构强度和耐久性	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	256	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.9 运动和旋转物部件	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	263	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.10 折叠机构	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	265	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.11 限制活动区域类儿童用品	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	268	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.12 束缚系统	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	271	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.13 溺水危险	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	276	14	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.14 声响要求	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	282	15	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.3 机械和物理性能 › 4.3.15 用于包装和儿童用品中的塑料薄膜或塑料袋	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	290	15	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.4 热危险及易燃性能	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	291	15	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.4 热危险及易燃性能 › 4.4.1 易燃性能	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	300	15	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.4 热危险及易燃性能 › 4.4.2 非电热源产品烫伤危险	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	314	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.4 热危险及易燃性能 › 4.4.3 明火烧伤危险	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	316	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.4 热危险及易燃性能 › 4.4.4 封闭空间中的高温或低温危险	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	319	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.5 化学安全	OK	numbered clause title + its subclauses
+nationalStandard_chn_5ad1e78c	320	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.5 化学安全 › 4.5.1 一般要求	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	324	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.5 化学安全 › 4.5.2 可迁移元素的最大限量要求	OK	numbered clause title + its text
+nationalStandard_chn_5ad1e78c	328	16	儿童用品通用安全要求 General safety requirements for ch › 4 要求 › 4.5 化学安全 › 4.5.3 增塑剂的限量要求	OK	numbered clause title + its text
+nationalStandard_chn_65073101	6	1	乘用车制动系统技术要求及试验方法 Technical requirements and t	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_65073101	12	3	乘用车制动系统技术要求及试验方法 Technical requirements and t › 目次	OK	contents title + TOC listing
+nationalStandard_chn_65073101	16	5	乘用车制动系统技术要求及试验方法 Technical requirements and t › 前言	OK	preface title + preface text
+nationalStandard_chn_689650a7	5	1	电动汽车供电设备 能效限定值及能效等级 Minimum allowable values 	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_689650a7	11	3	电动汽车供电设备 能效限定值及能效等级 Minimum allowable values  › 目 次	OK	contents title + TOC listing
+nationalStandard_chn_689650a7	15	5	电动汽车供电设备 能效限定值及能效等级 Minimum allowable values  › 前言	OK	preface title + preface text
+nationalStandard_chn_6e5f6a70	5	1	燃气燃烧器具用电安全通用技术要求 General safety technical req	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_733bf6f5	5	1	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_733bf6f5	11	2	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 前言	OK	preface title + preface text
+nationalStandard_chn_733bf6f5	22	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	26	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	37	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_733bf6f5	39	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.1 纺织产品 textile products	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	43	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.2 婴幼儿纺织产品 textile products for infants	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	48	3	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.3 儿童纺织产品 textile products for children	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	54	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.4 直接接触皮肤的纺织产品 textile products with direct 	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	58	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.5 非直接接触皮肤的纺织产品 textile products without dir	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	62	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.6 附件 attached components	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	65	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 3 术语和定义 › 3.7 绳带 cords and drawstrings	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_733bf6f5	68	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_733bf6f5	69	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求 › 4.1 总则	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	76	4	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求 › 4.2 织物的要求	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	84	5	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求 › 4.3 填充物的要求	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	87	5	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求 › 4.4 附件的要求	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	100	6	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 4 要求 › 4.5 其他要求	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	104	6	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 5 试验方法	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	112	6	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 6 检验规则	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	119	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法	OK	annex heading + annex clauses
+nationalStandard_chn_733bf6f5	120	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.1 原理	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	123	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.2 设备	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	127	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.3 样品	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	130	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.4 步骤	OK	numbered clause title + its subclauses
+nationalStandard_chn_733bf6f5	131	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.4 步骤 › A.4.1 抗拉强力试验	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	139	7	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.4 步骤 › A.4.2 洗涤试验	OK	numbered clause title + its text
+nationalStandard_chn_733bf6f5	151	8	婴幼儿及儿童纺织产品安全技术规范 Safety technical code for in › 附录A（规范性附录）附件抗拉强力试验方法 › A.5 试验报告	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	6	1	冷轧带肋钢筋 Cold rolled ribbed steel bars	OK	cover: Chinese + English title in one box
+nationalStandard_chn_7b396eb8	11	3	冷轧带肋钢筋 Cold rolled ribbed steel bars › 前言	OK	preface title + preface text
+nationalStandard_chn_7b396eb8	31	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	34	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	43	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	45	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 3 术语和定义 › 3.1 冷轧带肋钢筋 cold rolled ribbed steel bars	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_7b396eb8	48	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 3 术语和定义 › 3.2 公称直径 nominal diameter	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_7b396eb8	51	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 3 术语和定义 › 3.3 相对肋面积 specific projected rib area	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_7b396eb8	54	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 3 术语和定义 › 3.4 横肋间隙rib spacing	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_7b396eb8	57	5	冷轧带肋钢筋 Cold rolled ribbed steel bars › 4 牌号	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	63	6	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	64	6	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.1 公称直径范围	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	66	6	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.2 外形	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	67	6	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.2 外形 › 5.2.1 外形要求	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	91	7	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.2 外形 › 5.2.2 横肋要求	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	116	8	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.3 尺寸、重量及允许偏差	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	120	8	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.4 交货型式、长度及允许偏差	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	122	8	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.5 弯曲度	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	126	9	冷轧带肋钢筋 Cold rolled ribbed steel bars › 5 尺寸、外形、重量及允许偏差 › 5.6 重量	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	129	9	冷轧带肋钢筋 Cold rolled ribbed steel bars › 6 原料及性能	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	130	9	冷轧带肋钢筋 Cold rolled ribbed steel bars › 6 原料及性能 › 6.1 原料	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	132	9	冷轧带肋钢筋 Cold rolled ribbed steel bars › 6 原料及性能 › 6.2 交货状态	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	134	9	冷轧带肋钢筋 Cold rolled ribbed steel bars › 6 原料及性能 › 6.3 力学性能和工艺性能	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	145	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 6 原料及性能 › 6.4 表面质量	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	148	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	149	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.1 检验项目	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	153	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.2 力学性能	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	155	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.3 应力松弛试验	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	162	10	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.4 尺寸测量	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	167	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.5 重量偏差的测量	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	175	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 7 试验方法 › 7.6 数值修约	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	177	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 8 检验规则	OK	numbered clause title + its subclauses
+nationalStandard_chn_7b396eb8	178	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 8 检验规则 › 8.1 检查和验收	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	180	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 8 检验规则 › 8.2 组批规则	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	182	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 8 检验规则 › 8.3 取样数量	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	184	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 8 检验规则 › 8.4 复验与判定	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	186	11	冷轧带肋钢筋 Cold rolled ribbed steel bars › 9 包装、标志和质量证明书	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	199	13	冷轧带肋钢筋 Cold rolled ribbed steel bars › 附录A (规范性) 冷轧带肋钢筋用热轧盘条	OK	annex heading + annex clauses
+nationalStandard_chn_7b396eb8	200	13	冷轧带肋钢筋 Cold rolled ribbed steel bars › 附录A (规范性) 冷轧带肋钢筋用热轧盘条 › A.1 牌号及化学成分	OK	numbered clause title + its text
+nationalStandard_chn_7b396eb8	205	13	冷轧带肋钢筋 Cold rolled ribbed steel bars › 附录A (规范性) 冷轧带肋钢筋用热轧盘条 › A.2 力学性能和工艺性能	OK	numbered clause title + its text
+nationalStandard_chn_96c25428	5	1	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_96c25428	11	2	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 目次	OK	contents title + TOC listing
+nationalStandard_chn_96c25428	21	5	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 前言	OK	preface title + preface text
+nationalStandard_chn_96c25428	51	6	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_96c25428	56	6	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_96c25428	77	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_96c25428	80	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.1 设备和设备的类别	OK	numbered clause title + its subclauses
+nationalStandard_chn_96c25428	81	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.1 设备和设备的类别 › 3.1.1 固定式设备 fixed equipment	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	85	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.1 设备和设备的类别 › 3.1.2 永久性连接式设备 permanently connected equipmen	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	89	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件	OK	numbered clause title + its subclauses
+nationalStandard_chn_96c25428	90	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件 › 3.2.1 端子 terminal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	95	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件 › 3.2.2 功能接地端子 functional earth terminal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	99	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件 › 3.2.3 保护导体端子 protective conductor terminal	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	102	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件 › 3.2.4 外壳 enclosure	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_96c25428	106	7	工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requiremen › 3 术语和定义 › 3.2 零部件和附件 › 3.2.5 挡板 barrier	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_9fd6a86f	5	1	建筑施工机械与设备 通用安全要求 Building construction machin	OK	cover: Chinese + English title in one box
+nationalStandard_chn_9fd6a86f	10	3	建筑施工机械与设备 通用安全要求 Building construction machin › 目 次	OK	contents title + TOC listing
+nationalStandard_chn_9fd6a86f	14	5	建筑施工机械与设备 通用安全要求 Building construction machin › 前言	OK	preface title + preface text
+nationalStandard_chn_cf448e58	6	1	童鞋安全技术规范 Safety technical specifications for 	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_cf448e58	12	3	童鞋安全技术规范 Safety technical specifications for  › 前言	OK	preface title + preface text
+nationalStandard_chn_cf448e58	42	5	童鞋安全技术规范 Safety technical specifications for  › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	45	5	童鞋安全技术规范 Safety technical specifications for  › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	65	5	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_cf448e58	67	5	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.1 可触及 accessible	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	73	6	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.2 锐利边缘 sharp edge	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	76	6	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.3 锐利尖端 sharp point	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	79	6	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.4 可拆卸小附件 removable small accessory	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	83	6	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.5 儿童鞋 children's footwear	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	87	6	童鞋安全技术规范 Safety technical specifications for  › 3 术语和定义 › 3.6 婴幼儿鞋 infants' footwear	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_cf448e58	91	6	童鞋安全技术规范 Safety technical specifications for  › 4 产品分类	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	95	6	童鞋安全技术规范 Safety technical specifications for  › 5 技术要求	OK	numbered clause title + its subclauses
+nationalStandard_chn_cf448e58	96	6	童鞋安全技术规范 Safety technical specifications for  › 5 技术要求 › 5.1 基本要求	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	100	6	童鞋安全技术规范 Safety technical specifications for  › 5 技术要求 › 5.2 婴幼儿鞋小附件要求	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	105	6	童鞋安全技术规范 Safety technical specifications for  › 5 技术要求 › 5.3 化学物质限量要求	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	113	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法	OK	numbered clause title + its subclauses
+nationalStandard_chn_cf448e58	114	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.1 断针	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	116	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.2 可触及的锐利边缘和锐利尖端	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	118	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.3 有效跟高	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	120	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.4 婴幼儿鞋小附件	OK	numbered clause title + its subclauses
+nationalStandard_chn_cf448e58	121	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.4 婴幼儿鞋小附件 › 6.4.1 不可拆卸小附件的拉力测试	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	123	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.4 婴幼儿鞋小附件 › 6.4.2 小附件容入试验	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	125	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.5 六价铬	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	127	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.6 可分解致癌芳香胺染料	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	130	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.7 甲醛	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	133	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.8 重金属总量	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	135	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.9 富马酸二甲酯	OK	numbered clause title + its text
+nationalStandard_chn_cf448e58	137	8	童鞋安全技术规范 Safety technical specifications for  › 6 试验方法 › 6.10 含氯苯酚	OK	numbered clause title + its text
+nationalStandard_chn_e4f3909e	6	1	食品机械安全要求 Food machinery safety requirements	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_e4f3909e	12	2	食品机械安全要求 Food machinery safety requirements › 目次	OK	contents title + TOC listing
+nationalStandard_chn_e4f3909e	15	3	食品机械安全要求 Food machinery safety requirements › 前言	OK	preface title + preface text
+nationalStandard_chn_e4f3909e	32	4	食品机械安全要求 Food machinery safety requirements › 引言	OK	introduction title + its text
+nationalStandard_chn_e4f3909e	38	5	食品机械安全要求 Food machinery safety requirements › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_e4f3909e	41	5	食品机械安全要求 Food machinery safety requirements › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_e4f3909e	63	5	食品机械安全要求 Food machinery safety requirements › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_e4f3909e	65	5	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.1 食品机械 food machinery	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	70	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.2 产品 product	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	73	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.3 工作空气 working air	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	76	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.4 产品区域 area of product	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	80	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.5 结构材料 materials of construction	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	84	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.6 产品接触表面 product contact surface	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	87	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.7 非产品接触表面 noncontact surface of product	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	91	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.8 主要工艺设备 main process equipment	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	94	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.9 辅助设备 auxiliary equipment	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	98	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.10 易于清洗和检查 easy to clean and check	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	101	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.11 检验性清洗 verifying rinse	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_e4f3909e	104	6	食品机械安全要求 Food machinery safety requirements › 3 术语和定义 › 3.12 在线清洗 clean-in-place; CIP	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_f3f3a014	6	1	土方机械 噪声限值 Earth-moving machinery—Noise limits	OK	cover: Chinese title ∪ English title
+nationalStandard_chn_f3f3a014	13	3	土方机械 噪声限值 Earth-moving machinery—Noise limits › 前 言	OK	preface title + preface text
+nationalStandard_chn_f3f3a014	26	4	土方机械 噪声限值 Earth-moving machinery—Noise limits › 引 言	OK	introduction title + its text
+nationalStandard_chn_f3f3a014	32	5	土方机械 噪声限值 Earth-moving machinery—Noise limits › 1 范围	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	37	5	土方机械 噪声限值 Earth-moving machinery—Noise limits › 2 规范性引用文件	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	48	5	土方机械 噪声限值 Earth-moving machinery—Noise limits › 3 术语和定义	OK	numbered clause title + its subclauses
+nationalStandard_chn_f3f3a014	50	5	土方机械 噪声限值 Earth-moving machinery—Noise limits › 3 术语和定义 › 3.1 轮胎式叉装机 forklift wheel loader	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_f3f3a014	55	5	土方机械 噪声限值 Earth-moving machinery—Noise limits › 3 术语和定义 › 3.2 水平定向钻机 horizontal directional drilling ma	OK	term number ∪ term (CN+EN) + definition
+nationalStandard_chn_f3f3a014	63	6	土方机械 噪声限值 Earth-moving machinery—Noise limits › 4 噪声限值	OK	numbered clause title + its subclauses
+nationalStandard_chn_f3f3a014	64	6	土方机械 噪声限值 Earth-moving machinery—Noise limits › 4 噪声限值 › 4.1 机外发射噪声限值	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	68	6	土方机械 噪声限值 Earth-moving machinery—Noise limits › 4 噪声限值 › 4.2 司机位置噪声限值	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	74	7	土方机械 噪声限值 Earth-moving machinery—Noise limits › 5 试验方法	OK	numbered clause title + its subclauses
+nationalStandard_chn_f3f3a014	75	7	土方机械 噪声限值 Earth-moving machinery—Noise limits › 5 试验方法 › 5.1 声功率级的测定	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	79	7	土方机械 噪声限值 Earth-moving machinery—Noise limits › 5 试验方法 › 5.2 司机位置处发射声压级的测定	OK	numbered clause title + its text
+nationalStandard_chn_f3f3a014	84	8	土方机械 噪声限值 Earth-moving machinery—Noise limits › 参 考 文 献	OK	bibliography title + reference list

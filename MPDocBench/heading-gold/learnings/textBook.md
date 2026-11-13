@@ -108,3 +108,17 @@ nothing missing.
   same kind label is a heading elsewhere in the book.
 - OPEN: none for paths. Remaining judgment: 06561845 lists the title-page pinyin SHU XUE as part of the L1
   repeat while the cover pinyin is text (no path effect).
+
+## Round 4 (full path review)
+
+All 37 docs, all 211 nodes, every page rendered with the tree and viewed (286 pages). Paths:
+review/paths/textBook.tsv (207 OK, 4 FIXED, 0 ADDED, 0 REMOVED). No missing headings found; earlier-round
+decisions (box rule per instance, opener labels, bare task markers, a237ffc8 Acknowledgements under Other Boring
+Stuff) re-checked on the page and kept.
+- FIX node text, lines of one heading joined without a space (3): 6c84840b #44 "第一节 地球的宇宙环境";
+  bd56ef2c #2 "地理 选择性必修3 资源、环境与国家安全"; bd56ef2c #60 "第1单元 自然资源与人类活动".
+- FIX node text, cover ornament dashes dropped (1): fdc97197 #4 "通用技术 选择性必修3 工程设计基础" (the "——" and
+  "—" around 选择性必修3 are decoration, not title words).
+- Rule applied: node text joins the printed lines of a heading with one space and drops decorative marks (dashes,
+  badge spacing), so the breadcrumb reads like the printed title.
+- OPEN: none.

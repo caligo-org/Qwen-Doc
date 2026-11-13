@@ -28,6 +28,13 @@ Everything else is text, however big, bold or coloured it is printed.
   when its block really ends before unrelated content).
 - Exception (user decision): own-line label headings stay headings when a later sibling of the same list is run in
   (book_eng_dc66edfa "Star Topology:", "Bus Topology:"); the run-in sibling's content sits under the previous label.
+- Trailing untitled content (user decision 2026-11-13): a heading with a real block of its own stays a heading when
+  untitled content about something else follows its block and no printed heading closes it (Contents before an
+  untitled novel opening, References before author bios, a slide label before the next slide's figures, a story before
+  a teaser box or a full ad). That content sits under it: a small containment error. A heading whose only block is a
+  caption or one line is text. (Whether this also restores labels made text by containment in rounds 2-3 is open.)
+- Substance beats containment (user decision 2026-11-13): a one-line bullet with nothing below it is text, even when as
+  a node it would close the section above it.
 - Exception (user decision): a numbered list of headings stays headings when a closing or summary paragraph follows
   its last item with no heading in between. The paragraph sits under the last item: a small containment error is
   better than dropping the list's headings.

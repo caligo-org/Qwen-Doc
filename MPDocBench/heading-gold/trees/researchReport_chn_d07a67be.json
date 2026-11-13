@@ -5,12 +5,13 @@
   {
    "boxes": [
     2,
-    3
+    3,
+    10
    ],
    "level": 1,
    "parent": "root",
-   "text": "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评",
-   "why": "title union: headline + ——subject/report-type line printed with it"
+   "text": "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究",
+   "why": "title union: headline + ——subject/report-type line printed with it Round 4: owner box #10 (sidebar field '川财研究 |宏观策略部'; heading part 川财研究 only) joins the union: the cover prints the owner only as an image logo and in this mixed field box (NOTATIONS 'The title': owner in a box with other fields; user decision 2026-11-13). Was: headline ∪ subtitle."
   },
   {
    "boxes": [

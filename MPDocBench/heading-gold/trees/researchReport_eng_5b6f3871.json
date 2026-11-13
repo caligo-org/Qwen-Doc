@@ -189,8 +189,8 @@
    ],
    "level": 3,
    "parent": 104,
-   "text": "Allison Nathan: What about the proposed \\(25\\%\\) tariff on US auto imports? Is that also just a negotiating tactic?",
-   "why": "interview question with its own separate answer block (user decision: heading)"
+   "text": "Allison Nathan: What about the proposed 25% tariff on US auto imports? Is that also just a negotiating tactic?",
+   "why": "interview question with its own separate answer block (user decision: heading) Round 4: LaTeX escape in the OCR text replaced by the printed \"25%\"."
   },
   {
    "boxes": [

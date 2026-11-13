@@ -150,3 +150,15 @@
   key-message headline; eng_a04b6aef continuations.
 - OPEN: none concerning a path. Non-path round-1 OPENs (bullet labels as headings, generic labels, figure labels,
   trailing agenda dividers as text) unchanged.
+
+## Round 4 (full path review, every node on its page)
+22 docs, 172 pages rendered with the tree, 241 nodes reviewed (review/paths/pptSlides.tsv): 238 OK, 2 FIXED, 1 REMOVED.
+- Fix class "label restating the slide title -> repeat" (eng_312b78ba #42): bold label "RESEARCH & DEVELOPMENT" on p4
+  restates the slide title "L'ORÉAL – R&D, a Key to Success" (not narrower) -> repeat of #41; the p4 text and tables sit
+  directly under the slide title; "STRATEGIC DIRECTION:" (p5) stays its L3 child. Same class as round-2 chn_7c522d1e #48.
+- Fix class "node text as printed" (2): chn_d81f00a8 #54 restores the printed "○" ("○方，第n+1步时的策略：" — the O player,
+  not a bullet glyph); eng_312b78ba #170 "LUXURY PRODUCTS" (OCR dropped the space).
+- OPEN: does a repeated slide title (same title on the next slide, `repeats`) close the open block headings of the
+  previous slide? If not, the next slide's content falls under the last block label: chn_ca2c7356 p5-p7 under
+  "取虚部则为正弦信号" (#38), eng_24541ef2 p12 figures under "Key points" (#59), eng_a04b6aef p4 diagram under
+  "Motor output" (#13). Trees kept.

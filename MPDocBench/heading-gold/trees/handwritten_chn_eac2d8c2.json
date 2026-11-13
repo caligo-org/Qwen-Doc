@@ -8,8 +8,8 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "第三章 化学反应的自发性.",
-   "why": "chapter title: 第三章 + title, names the notes"
+   "text": "第3章 化学反应的自发性.",
+   "why": "chapter title: 第三章 + title, names the notes | round 4: page prints 第3章 (OCR box reads 第三章)"
   },
   {
    "boxes": [
@@ -125,8 +125,8 @@
    ],
    "level": 3,
    "parent": 43,
-   "text": "(2) 反应商}",
-   "why": "subsection: own-line (n) title over its block"
+   "text": "(2) 反应商",
+   "why": "subsection: own-line (n) title over its block | round 4: OCR box adds a stray \"}\"; page prints (2) 反应商"
   },
   {
    "boxes": [

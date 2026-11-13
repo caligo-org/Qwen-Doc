@@ -113,3 +113,18 @@ Resolved OPEN cases (path-related):
   transport service / Gross Domestic Product as the same bold subheads inside section II (its term definitions); no
   unnumbered L2 style exists to lift GDP to, so look + printed outline decide.
 OPEN: none.
+
+## Round 4 (full path review)
+38 docs, 539 nodes, every page of every doc viewed with the tree drawn (347 pages). Result in review/paths/paper.tsv:
+539 OK, 0 FIXED, 0 ADDED, 0 REMOVED. No tree changes; every path reads as a narrowing breadcrumb, no missing heading
+found on any page.
+OPEN:
+- paper_eng_81997c1e #153 REFERENCES: p10 prints two author bios with photos (no heading) after the reference list, so
+  they fall under REFERENCES. Kept (same case as other back matter followed by unheaded colophon-like boxes).
+- paper_eng_d054de2a #26 "Gross Domestic Product": the tree has it at L2 (why: content, not about civil aviation), but
+  the Round 3 note above records "II. CIVIL AVIATION › Gross Domestic Product" as the accepted path. The page prints
+  it in the same style as Airports / Air transport service (L3 look). Kept at L2; which version stands is a user call.
+
+## Round 4 note (main session)
+
+- paper_eng_d054de2a #26 "Gross Domestic Product" is L2 (user decision: content beats look; it is not about civil aviation). The round-3 line accepting "II. CIVIL AVIATION › Gross Domestic Product" is superseded.

@@ -125,3 +125,24 @@ Flags accepted: none (no flags raised).
 
 OPEN (no path is inconsistent; these are labelling choices only): 2 (resolved for the two 知音 docs in round 2),
 3, 5, 6, 7 as above.
+
+## Round 4 (full path review)
+Every node of all 25 magazine docs checked on its page (all 165 pages rendered with the tree into
+review/paths/magazine_tmp/ and viewed). 229 nodes: 223 OK, 6 FIXED, 0 ADDED, 0 REMOVED. Lines in
+review/paths/magazine.tsv. No ERROR from check.py.
+
+Fixes (node text only; no level or structure change):
+- Stray decoration in node text (1): 故事会 (f13451d6) #87 笑话· -> 笑话 (the dots of ·笑话· are decoration; the
+  contents lists 笑话 13 则).
+- Logo without word gap (1): Beijing Review (2b291ce7) L1 BEIJINGREVIEW -> BEIJING REVIEW (running heads and colophon
+  print BEIJING REVIEW; same class as FUSIOH -> FUSION).
+- Compound tag restating its parent (4): Beijing Review THIS WEEK SOCIETY / ECONOMY / WORLD / PEOPLE & POINTS under
+  the THIS WEEK node #55 -> SOCIETY / ECONOMY / WORLD / PEOPLE & POINTS. The path read "THIS WEEK › THIS WEEK SOCIETY";
+  the THIS WEEK part restates the parent node, like the edition prefix 海外版 restated the L1 in round 2. Where the
+  part name has no node of its own (Men's Fitness INTRODUCTION WORKOUT STRUCTURE / INTRODUCTION ANATOMY) the full
+  compound text stays, as decided in round 3.
+
+OPEN:
+10. FUSION (757ea556): the p3 editor's letter has no printed heading of its own (only the masthead restated over the
+    colophon column, a repeat of L1), so its text falls under CONTENTS (p2) until REVIEW (p4). Kept; the restated
+    masthead as the editor's-page heading would contradict the repeat rule.

@@ -728,15 +728,6 @@
   },
   {
    "boxes": [
-    732
-   ],
-   "level": 4,
-   "parent": 730,
-   "text": "HIGHLIGHT:INDIANA",
-   "why": "highlighted item label with its own block"
-  },
-  {
-   "boxes": [
     787
    ],
    "level": 2,
@@ -905,6 +896,10 @@
   {
    "box": 518,
    "why": "full-page advertisement"
+  },
+  {
+   "box": 732,
+   "why": "round 4 path review: was L4 under 50 States. The kicker label HIGHLIGHT: INDIANA heads one photo brief, but the 50 state briefs that follow in reading order would fall into its subtree and are not about it. Containment closes subtrees (NOTATIONS), so it is text; its brief sits under 50 States with the other state briefs"
   }
  ],
  "considered": [

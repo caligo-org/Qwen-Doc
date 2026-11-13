@@ -8,8 +8,8 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "BEIJINGREVIEW",
-   "why": "title: periodical masthead BEIJING REVIEW"
+   "text": "BEIJING REVIEW",
+   "why": "title: periodical masthead BEIJING REVIEW (logo set without a word gap; the running heads and colophon print BEIJING REVIEW)"
   },
   {
    "boxes": [
@@ -62,8 +62,8 @@
    ],
    "level": 3,
    "parent": 55,
-   "text": "THIS WEEK SOCIETY",
-   "why": "subsection: tag THIS WEEK + SOCIETY (subsection name changes)"
+   "text": "SOCIETY",
+   "why": "subsection: compound running tag THIS WEEK + SOCIETY (sub-tag printed in red); node text = SOCIETY only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
   },
   {
    "boxes": [
@@ -152,8 +152,8 @@
    ],
    "level": 3,
    "parent": 55,
-   "text": "THIS WEEK ECONOMY",
-   "why": "subsection: tag THIS WEEK + ECONOMY"
+   "text": "ECONOMY",
+   "why": "subsection: compound running tag THIS WEEK + ECONOMY (sub-tag printed in red); node text = ECONOMY only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
   },
   {
    "boxes": [
@@ -224,8 +224,8 @@
    ],
    "level": 3,
    "parent": 55,
-   "text": "THIS WEEK WORLD",
-   "why": "subsection: tag THIS WEEK + WORLD (photo pages; country labels are caption labels)"
+   "text": "WORLD",
+   "why": "subsection: compound running tag THIS WEEK + WORLD (sub-tag printed in red); node text = WORLD only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
   },
   {
    "boxes": [
@@ -233,8 +233,8 @@
    ],
    "level": 3,
    "parent": 55,
-   "text": "THIS WEEK PEOPLE & POINTS",
-   "why": "subsection: tag THIS WEEK + PEOPLE & POINTS"
+   "text": "PEOPLE & POINTS",
+   "why": "subsection: compound running tag THIS WEEK + PEOPLE & POINTS (sub-tag printed in red); node text = PEOPLE & POINTS only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
   },
   {
    "boxes": [

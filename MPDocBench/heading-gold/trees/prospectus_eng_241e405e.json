@@ -32,15 +32,6 @@
   },
   {
    "boxes": [
-    40
-   ],
-   "level": 3,
-   "parent": 15,
-   "text": "Board of Directors' Powers",
-   "why": "own-line subsection with its paragraphs"
-  },
-  {
-   "boxes": [
     52
    ],
    "level": 2,
@@ -272,6 +263,10 @@
   {
    "box": 11,
    "why": "OFFER: first word of the offer sentence continued in the next box (run-in), not a heading"
+  },
+  {
+   "box": 40,
+   "why": "own-line label \"Board of Directors' Powers\" (p4): no later heading closes it before CONTENTS, so the general notices after its block (#47 share offer, #48 segregation of Fund assets, #50 translations of the Prospectus, #51 Prospectus availability) would fall under it; containment fails -> text, its paragraphs fall under The Company (round 4)"
   }
  ],
  "considered": [

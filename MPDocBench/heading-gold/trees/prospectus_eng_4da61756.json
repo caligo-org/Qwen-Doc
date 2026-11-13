@@ -342,8 +342,8 @@
    ],
    "level": 4,
    "parent": 125,
-   "text": "Shares of the classes \\(\\gg\\) PA and \\(\\gg\\) PT",
-   "why": "own-line subhead printed like the risk subheads, with its table as block"
+   "text": "Shares of the classes »PA« and »PT«",
+   "why": "own-line subhead printed like the risk subheads, with its table as block; text: page prints the guillemets »…« (OCR LaTeX removed, round 4)"
   },
   {
    "boxes": [
@@ -351,8 +351,8 @@
    ],
    "level": 4,
    "parent": 125,
-   "text": "Shares of the classes \\(\\gg 1A\\ll\\) and \\(\\gg 1T\\ll\\)",
-   "why": "own-line subhead printed like the risk subheads, with its table as block"
+   "text": "Shares of the classes »IA« and »IT«",
+   "why": "own-line subhead printed like the risk subheads, with its table as block; text: page prints the guillemets »…« (OCR LaTeX removed, round 4)"
   },
   {
    "boxes": [

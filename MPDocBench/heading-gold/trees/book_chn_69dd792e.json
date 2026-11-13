@@ -401,6 +401,33 @@
   },
   {
    "boxes": [
+    354
+   ],
+   "level": 4,
+   "parent": 353,
+   "text": "1. 唾液腺导管",
+   "why": "path review round 4: own-line numbered item head with its own (1)-(n) block under 一、; later siblings (3.-5., 7.-9.) are run in, their content sits under the previous own-line item (user decision 2026-11-13, NOTATIONS exception; supersedes the round-2 text fix)"
+  },
+  {
+   "boxes": [
+    365
+   ],
+   "level": 4,
+   "parent": 353,
+   "text": "2. 舌神经和舌下神经",
+   "why": "path review round 4: own-line numbered item head with its own (1)-(n) block under 一、; later siblings (3.-5., 7.-9.) are run in, their content sits under the previous own-line item (user decision 2026-11-13, NOTATIONS exception; supersedes the round-2 text fix)"
+  },
+  {
+   "boxes": [
+    378
+   ],
+   "level": 4,
+   "parent": 353,
+   "text": "6. 舌动脉",
+   "why": "path review round 4: own-line numbered item head with its own (1)-(n) block under 一、; later siblings (3.-5., 7.-9.) are run in, their content sits under the previous own-line item (user decision 2026-11-13, NOTATIONS exception; supersedes the round-2 text fix)"
+  },
+  {
+   "boxes": [
     391
    ],
    "level": 3,
@@ -641,19 +668,6 @@
    "why": "repeat: running head naming the chapter"
   }
  ],
- "not_headings": [
-  {
-   "box": 354,
-   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
-  },
-  {
-   "box": 365,
-   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
-  },
-  {
-   "box": 378,
-   "why": "breadcrumb round 2: own-line numbered item in a list whose other items (3.-5., 7.-9.) are run-in text; the run-in items after it would sit in its subtree (containment fails), so every item of this list is text under 一、"
-  }
- ],
+ "not_headings": [],
  "considered": []
 }

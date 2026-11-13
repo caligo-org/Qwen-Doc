@@ -1,0 +1,367 @@
+doc	node	page	path	verdict	note
+researchReport_chn_17cde74d	8	1	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究	OK	cover title bar: headline + ——鼎龙股份（300054）深度研究
+researchReport_chn_17cde74d	19	1	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 投资要点：	OK	cover summary title over key-point bullets
+researchReport_chn_17cde74d	35	2	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 合规声明	OK	compliance title + holding statement
+researchReport_chn_17cde74d	41	3	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 内容目录	OK	contents title + TOC
+researchReport_chn_17cde74d	47	4	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 图表目录	OK	figure list title + list
+researchReport_chn_17cde74d	53	5	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 1、打印耗材业务成长稳健	OK	chapter 1 title, its 1.1/1.2 below
+researchReport_chn_17cde74d	54	5	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 1、打印耗材业务成长稳健 › 1.1、上半年下滑有因，全产业链布局是超越行业之本	OK	1.1 title, Q1 results paragraphs + figs 1-2
+researchReport_chn_17cde74d	77	6	优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究 › 1、打印耗材业务成长稳健 › 1.2、彩打耗材市场规模稳中有升	OK	1.2 title, market-size paragraphs
+researchReport_chn_1c78bccd	1	1	中國市場及A股點評	OK	banner title (no headline); logo has no text box
+researchReport_chn_1c78bccd	5	1	中國市場及A股點評 › 大市導航	OK	column rubric 大市導航 over two market pieces
+researchReport_chn_1c78bccd	6	1	中國市場及A股點評 › 大市導航 › 年報季來臨，佈局高送轉	OK	piece headline + paragraphs on 高送轉
+researchReport_chn_1c78bccd	12	2	中國市場及A股點評 › 大市導航 › 有色金屬：小金屬全面上漲	OK	sector piece headline + paragraphs (round-3: stays in 大市導航)
+researchReport_chn_1c78bccd	19	2	中國市場及A股點評 › 免責聲明	OK	disclaimer title + legal paragraphs pp2-3
+researchReport_chn_1f9ad79f	2	1	机场行业研究报告 联合资信	FIXED	headline 机场行业研究报告 + owner line 联合资信 公用事业三部 under it; owner joined (was headline alone)
+researchReport_chn_1f9ad79f	5	1	机场行业研究报告 联合资信 › 摘要	OK	摘要 title + summary paragraphs
+researchReport_chn_1f9ad79f	9	1	机场行业研究报告 联合资信 › 一、行业概况	OK	一、 chapter + industry definition, table/fig 1
+researchReport_chn_1f9ad79f	26	3	机场行业研究报告 联合资信 › 二、行业环境	OK	二、 chapter over （一）（二）
+researchReport_chn_1f9ad79f	27	3	机场行业研究报告 联合资信 › 二、行业环境 › （一）宏观环境	OK	（一） macro paragraphs + fig 2
+researchReport_chn_1f9ad79f	37	4	机场行业研究报告 联合资信 › 二、行业环境 › （二）行业政策	OK	（二） policy paragraphs
+researchReport_chn_1fb28f59	3	1	通威股份（600438） 2022年&2023Q1业绩点评：硅料量利双超，电池技术持续迭代	OK	company banner 通威股份（600438） ∪ headline; body pp3-6 prints no heading (round 3: L1 only); logo is an image
+researchReport_chn_2161890a	5	1	万联晨会	OK	brief name 万联晨会 under logo (logo is an image)
+researchReport_chn_2161890a	7	1	万联晨会 › 概览	OK	cover overview title over four boxes
+researchReport_chn_2161890a	8	1	万联晨会 › 概览 › 核心观点	OK	overview box: core view paragraphs
+researchReport_chn_2161890a	11	1	万联晨会 › 概览 › 财经要闻	OK	overview box: list of news headlines
+researchReport_chn_2161890a	16	1	万联晨会 › 概览 › 国内市场表现	OK	overview box title over domestic index table
+researchReport_chn_2161890a	18	1	万联晨会 › 概览 › 国际市场表现	OK	overview box title over international index table
+researchReport_chn_2161890a	24	2	万联晨会 › 核心观点	OK	red banner over 市场回顾/今日观点
+researchReport_chn_2161890a	25	2	万联晨会 › 核心观点 › 市场回顾	OK	market recap paragraph
+researchReport_chn_2161890a	27	2	万联晨会 › 核心观点 › 今日观点	OK	today's view paragraph + team line
+researchReport_chn_2161890a	30	2	万联晨会 › 财经要闻	OK	red banner over four news stories
+researchReport_chn_2161890a	31	2	万联晨会 › 财经要闻 › 看好民营经济活力与韧性推动小微贷款扩量降价	OK	news story headline + paragraph
+researchReport_chn_2161890a	33	2	万联晨会 › 财经要闻 › 份额逆势增长资金借道ETF布局A股	OK	news story headline + paragraph
+researchReport_chn_2161890a	35	2	万联晨会 › 财经要闻 › 商务部：我国连续5个月实现吸收外资增长	OK	news story headline + paragraph
+researchReport_chn_2161890a	37	2	万联晨会 › 财经要闻 › 多因素催化新股报价走低公募基金科创板打新更加谨慎	OK	news story headline + paragraph (ends p3)
+researchReport_chn_2161890a	46	4	万联晨会 › 证券分析师承诺	OK	analyst pledge title + paragraph
+researchReport_chn_2161890a	48	4	万联晨会 › 免责声明	OK	disclaimer title + paragraphs + office addresses
+researchReport_chn_25d1b14f	3	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报	FIXED	cover band 开源证券证券研究报告 + headline ——非银金融行业周报; owner joined (was node #16, headline alone)
+researchReport_chn_25d1b14f	18	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 周观点：非银3季报符合预期，继续看好保险股投资机会	OK	cover bullet heading + view paragraph
+researchReport_chn_25d1b14f	20	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期	OK	cover bullet heading + 1)2)3) paragraph
+researchReport_chn_25d1b14f	22	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 券商：全面推行注册制进度或超预期，3季报符合我们预期	OK	cover bullet heading + paragraph
+researchReport_chn_25d1b14f	24	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 受益标的组合：	OK	own-line label + stock list
+researchReport_chn_25d1b14f	26	1	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 风险提示	REMOVED	one-line run-in bullet, now text (user decision: substance beats containment)
+researchReport_chn_25d1b14f	31	2	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 目录	OK	contents title + TOC + figure list
+researchReport_chn_25d1b14f	37	3	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 1、一周观点：非银3季报符合预期，继续看好保险股投资机会	OK	chapter 1 over 保险/券商/受益标的
+researchReport_chn_25d1b14f	39	3	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 1、一周观点：非银3季报符合预期，继续看好保险股投资机会 › 保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期	OK	subheading + paragraph
+researchReport_chn_25d1b14f	41	3	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 1、一周观点：非银3季报符合预期，继续看好保险股投资机会 › 券商：全面推行注册制进度或超预期，3季报符合我们预期	OK	subheading + paragraph
+researchReport_chn_25d1b14f	43	3	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 1、一周观点：非银3季报符合预期，继续看好保险股投资机会 › 受益标的组合：	OK	label + list, valuation table p4
+researchReport_chn_25d1b14f	54	4	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 2、市场回顾：A股整体下跌，非银板块跑输指数	OK	chapter 2 paragraph + figs 1-2
+researchReport_chn_25d1b14f	62	4	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 3、数据追踪：融券余额破千亿，占两融比重持续攀升	OK	chapter 3 data paragraphs + figs 3-9 (pp4-6)
+researchReport_chn_25d1b14f	98	6	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排	OK	chapter 4 over 行业要闻
+researchReport_chn_25d1b14f	99	6	开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 › 4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排 › 行业要闻：	OK	label + bracketed news items pp6-7
+researchReport_chn_25d1b14f	16	1	(old node id) 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报	REMOVED	node id moved to owner box #3 (L1 now #3 ∪ #16)
+researchReport_chn_4064c117	6	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评	OK	headline ∪ ——久远银海(002777.SZ)2020年年度报告点评; logo is an image
+researchReport_chn_4064c117	8	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 事件：	OK	label 事件： + one-line event
+researchReport_chn_4064c117	10	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评：	OK	label 点评： over five bullet headings
+researchReport_chn_4064c117	11	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评： › 疫情影响逐步消退，2020年第四季度业绩增速显著恢复	FIXED	bullet heading + Q4 results paragraph; bullet glyph '- ' dropped from text
+researchReport_chn_4064c117	13	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评： › 加大研发投入保障未来可持续成长，盈利能力有望不断提升	OK	bullet heading + R&D paragraph
+researchReport_chn_4064c117	15	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评： › 医保IT竞争优势明显，连续中标省级新医保项目	OK	bullet heading + medical-insurance IT paragraph
+researchReport_chn_4064c117	17	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评： › 投资建议与盈利预测	OK	bullet heading + forecast paragraph
+researchReport_chn_4064c117	19	1	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 点评： › 风险提示	OK	bullet heading + risk line
+researchReport_chn_4064c117	38	2	医保IT成绩突出，智慧民生前景可期 久远银海(002777.SZ)2020年年度报告点评 › 附表：盈利预测	OK	appendix title + forecast table, PE-band fig, p3 statements
+researchReport_chn_476a222a	4	1	宏观周报：美联储放鸽，9月结束缩表	OK	headline bar 宏观周报：…; logo is an image, header strip 证券研究报告—宏观周报 is a series tag
+researchReport_chn_476a222a	7	1	宏观周报：美联储放鸽，9月结束缩表 › 投资要点：	OK	cover summary title + bold-lead paragraphs
+researchReport_chn_476a222a	19	2	宏观周报：美联储放鸽，9月结束缩表 › 正文目录	OK	contents title + TOC
+researchReport_chn_476a222a	21	2	宏观周报：美联储放鸽，9月结束缩表 › 图表目录	OK	figure list title + list
+researchReport_chn_476a222a	27	3	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯	OK	chapter 1 over news items 1.1-1.8
+researchReport_chn_476a222a	28	3	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.1.习近平主持召开中央全面深化改革委员会第七次会议	OK	1.1 news heading + paragraphs
+researchReport_chn_476a222a	34	3	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.2.韩正：稳地价稳房价稳预期	OK	1.2 news heading + paragraphs
+researchReport_chn_476a222a	43	4	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.3.八部委：关于在部分地区开展甲醇汽车应用的指导意见	OK	1.3 news heading + paragraphs
+researchReport_chn_476a222a	47	4	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.4.国常会：明确增值税减税配套措施	OK	1.4 news heading + paragraphs
+researchReport_chn_476a222a	55	5	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.5.李克强考察财政部、税务总局并主持召开座谈会：把更大规模减税政策落实到位，进一步激发	OK	1.5 two-line heading + paragraphs
+researchReport_chn_476a222a	58	5	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.6.中美经贸高级别磋商将于近期分别在北京和华盛顿举行	OK	1.6 heading + paragraph
+researchReport_chn_476a222a	60	5	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.7.两市余额破9000亿关口	OK	1.7 heading + paragraph
+researchReport_chn_476a222a	62	5	宏观周报：美联储放鸽，9月结束缩表 › 1.最新资讯 › 1.8.上交所发布科创板上市审核问答：原则上要求申报前清理对赌协议	OK	1.8 two-line heading + paragraphs
+researchReport_chn_5463fcf3	3	1	信达卓越推 家电行业	OK	product series 信达卓越推 ∪ industry 家电行业 (owner 信达 in the name)
+researchReport_chn_5463fcf3	7	1	信达卓越推 家电行业 › 产品提示：	OK	sidebar box title + three 【卓越推】 paragraphs, office box
+researchReport_chn_5463fcf3	14	1	信达卓越推 家电行业 › 本周行业观点：中国家电协会启动对冰洗空厨电技术路线图的修订	OK	weekly-view line over numbered news items 1-4
+researchReport_chn_5463fcf3	22	2	信达卓越推 家电行业 › 风险提示	REMOVED	one-line run-in bullet, now text (user decision: substance beats containment)
+researchReport_chn_5463fcf3	23	2	信达卓越推 家电行业 › 本期【卓越推】	REMOVED	one-line run-in bullet, now text (user decision: substance beats containment)
+researchReport_chn_5463fcf3	27	3	信达卓越推 家电行业 › 研究团队简介	OK	team title + two analyst bios
+researchReport_chn_5463fcf3	30	3	信达卓越推 家电行业 › 机构销售联系人	OK	sales-contact title + table (round 3)
+researchReport_chn_5f00096d	3	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724	OK	headline ∪ ——家电行业周报20170724; 家电行业 banner text; logo image
+researchReport_chn_5f00096d	6	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要：	OK	cover summary title 报告摘要：
+researchReport_chn_5f00096d	7	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要： › 行情回顾：家电板块周下跌1.0%	OK	● bullet title + paragraph
+researchReport_chn_5f00096d	9	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要： › 重要数据：6月份空调内销高增长	FIXED	● bullet title + paragraph; dropped '- ' bullet mark
+researchReport_chn_5f00096d	11	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要： › 空调内销持续高增长，继续推荐空调产业链	OK	● bullet title + paragraph
+researchReport_chn_5f00096d	13	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要： › 半年报将进入披露期，毛利率水平有望提升	OK	● bullet title + paragraph
+researchReport_chn_5f00096d	15	1	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 报告摘要： › 拥有一线蓝筹，关注细分龙头	OK	● bullet title + paragraph
+researchReport_chn_5f00096d	39	2	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 一、家电行情与相关数据回顾	OK	chapter 一、 p2
+researchReport_chn_5f00096d	40	2	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 一、家电行情与相关数据回顾 › （一）行情回顾：家电板块周下跌 1.0%	OK	（一） + text, charts, p3 stock table
+researchReport_chn_5f00096d	62	3	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 一、家电行情与相关数据回顾 › （二）行业数据：6月份空调内销持续高增长	OK	（二） p3
+researchReport_chn_5f00096d	63	3	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 一、家电行情与相关数据回顾 › （二）行业数据：6月份空调内销持续高增长 › 1、产品数据	OK	1、 + text, p4 charts
+researchReport_chn_5f00096d	81	4	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 一、家电行情与相关数据回顾 › （二）行业数据：6月份空调内销持续高增长 › 2、相关行业及原材料	OK	2、 + text, p5 charts
+researchReport_chn_5f00096d	108	6	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 二、一周重要新闻和公告汇总	OK	chapter 二、 p6
+researchReport_chn_5f00096d	109	6	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 二、一周重要新闻和公告汇总 › （一）一周重要新闻与点评	OK	（一） over news items
+researchReport_chn_5f00096d	110	6	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 二、一周重要新闻和公告汇总 › （一）一周重要新闻与点评 › 1、吸尘器市场：手持推杆式吸尘器的崛起	OK	1、 news item + paragraphs
+researchReport_chn_5f00096d	115	6	6月空调内销持续高增长，看好产业链投资价值 一家电行业周报20170724 › 二、一周重要新闻和公告汇总 › （一）一周重要新闻与点评 › 2.负重前行，2017年中国彩电市场	OK	2. news item + paragraphs
+researchReport_chn_641838eb	16	1	电子 三季度消费电子旺季来临，重点关注苹果产业链	OK	industry 电子 on headline bar ∪ headline; logo image; 行业月度报告 band text
+researchReport_chn_641838eb	20	1	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 投资要点：	OK	cover summary 投资要点： over ➢ run-in bullets
+researchReport_chn_641838eb	30	2	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 内容目录	OK	内容目录 p2
+researchReport_chn_641838eb	32	2	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 图表目录	OK	图表目录 p2
+researchReport_chn_641838eb	39	3	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 1投资策略	OK	1 投资策略 + paragraphs
+researchReport_chn_641838eb	43	3	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 2市场运行情况	OK	2 市场运行情况
+researchReport_chn_641838eb	44	3	电子 三季度消费电子旺季来临，重点关注苹果产业链 › 2市场运行情况 › 2.1行业及个股运行情况	OK	2.1 + text, p4-5 figures and table (doc ends p5)
+researchReport_chn_7033db6d	4	1	快递专题：双十一临近，利好快递板块	OK	red headline; 行业周报●交通运输行业 band and logo text
+researchReport_chn_7033db6d	5	1	快递专题：双十一临近，利好快递板块 › 核心观点（10.8-10.12）：	OK	cover summary 核心观点 over 1. 2. 3.
+researchReport_chn_7033db6d	6	1	快递专题：双十一临近，利好快递板块 › 核心观点（10.8-10.12）： › 1. 上周行业热点	OK	1. + paragraph
+researchReport_chn_7033db6d	8	1	快递专题：双十一临近，利好快递板块 › 核心观点（10.8-10.12）： › 2. 最新观点	OK	2. + bold-lead paragraphs
+researchReport_chn_7033db6d	13	1	快递专题：双十一临近，利好快递板块 › 核心观点（10.8-10.12）： › 3. 核心组合表现	OK	3. + portfolio table
+researchReport_chn_7033db6d	40	3	快递专题：双十一临近，利好快递板块 › 目录	OK	目录 p3
+researchReport_chn_7033db6d	46	4	快递专题：双十一临近，利好快递板块 › 最新研究观点	OK	body top section p4
+researchReport_chn_7033db6d	47	4	快递专题：双十一临近，利好快递板块 › 最新研究观点 › 一、上周热点动态跟踪	OK	一、 + events table
+researchReport_chn_7033db6d	51	4	快递专题：双十一临近，利好快递板块 › 最新研究观点 › 二、最新观点	OK	二、 over numbered point 1.
+researchReport_chn_7033db6d	52	4	快递专题：双十一临近，利好快递板块 › 最新研究观点 › 二、最新观点 › 1. 网上零售增速显著高于社会零售销售增速，快递行业仍具有较大的成长空间。	ADDED	own-line numbered point 1. + paragraph, figures 1-3 (pp4-5)
+researchReport_chn_a2f46550	3	1	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预	OK	company/stock line ∪ headline ∪ ——report-type line; logo figure has no text
+researchReport_chn_a2f46550	6	1	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 核心观点	OK	cover 核心观点 over ● bold-lead bullets
+researchReport_chn_a2f46550	11	1	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 财务预测与投资建议	OK	财务预测与投资建议 + bullet, risk line, financial table
+researchReport_chn_a2f46550	31	2	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 投资建议	OK	投资建议 + paragraphs, PE-band figure
+researchReport_chn_a2f46550	37	2	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 风险提示	OK	风险提示 + three risk paragraphs
+researchReport_chn_a2f46550	45	3	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 附表：财务报表预测与比率分析	OK	styled appendix title over statement tables p3
+researchReport_chn_a2f46550	59	4	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 分析师申明	OK	分析师申明 + statement
+researchReport_chn_a2f46550	62	4	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 投资评级和相关定义	OK	rating definitions over two standards
+researchReport_chn_a2f46550	64	4	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 投资评级和相关定义 › 公司投资评级的量化标准	OK	company rating standard + rating lines
+researchReport_chn_a2f46550	71	4	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 投资评级和相关定义 › 行业投资评级的量化标准：	OK	industry rating standard + rating lines
+researchReport_chn_a2f46550	80	5	长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预 › 免责声明	OK	免责声明 + paragraphs; 东方证券研究所 contact box text
+researchReport_chn_a988638a	4	1	急跌或暂息，仍需防风险	OK	headline; logo header has no text; 证券研究报告/策略周报 tag text
+researchReport_chn_a988638a	19	3	急跌或暂息，仍需防风险 › 公司评级说明：	OK	back matter rating block + 4 lines
+researchReport_chn_a988638a	24	3	急跌或暂息，仍需防风险 › 行业评级说明：	OK	back matter rating block + 3 lines
+researchReport_chn_a988638a	28	3	急跌或暂息，仍需防风险 › 分析师声明：	OK	analyst statement + paragraph
+researchReport_chn_a988638a	30	3	急跌或暂息，仍需防风险 › 本公司具备证券投资咨询业务资格的说明：	OK	licence statement + paragraph
+researchReport_chn_a988638a	32	3	急跌或暂息，仍需防风险 › 免责声明：	OK	disclaimer + paragraph
+researchReport_chn_ae3bbb85	18	1	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202	OK	headline ∪ 化工行业周报（dates）; 化工 banner text; logo image
+researchReport_chn_ae3bbb85	20	1	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 投资要点：	OK	cover 投资要点： over ● run-in bullets, p2 stock table
+researchReport_chn_ae3bbb85	23	1	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 投资要点： › 本周行业主要动态：	OK	own-line label over two news bullets; run-in sibling 投资建议/风险提示 sit under it (label exception)
+researchReport_chn_ae3bbb85	38	3	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 内容目录	OK	内容目录 p3
+researchReport_chn_ae3bbb85	44	4	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 图表目录	OK	图表目录 pp4-5
+researchReport_chn_ae3bbb85	55	6	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 1.化工板块市场行情回顾	OK	1. section p6
+researchReport_chn_ae3bbb85	56	6	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 1.化工板块市场行情回顾 › 1.1.化工板块整体表现	OK	1.1 + text, figures 1-2
+researchReport_chn_ae3bbb85	65	6	万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-202 › 1.化工板块市场行情回顾 › 1.2.化工板块个股表现	OK	1.2 + text, table (doc ends p6)
+researchReport_chn_b857707d	4	1	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复	OK	banner (heading part of banner+rating box) ∪ headline; logo image
+researchReport_chn_b857707d	11	1	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 事件	OK	事件 + paragraph
+researchReport_chn_b857707d	13	1	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 评论	OK	评论 + ■ numbered bullets
+researchReport_chn_b857707d	23	1	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 风险提示	OK	风险提示 + paragraph; p2 subsidy exhibit follows (exhibit at end)
+researchReport_chn_b857707d	36	3	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 公司投资评级的说明：	OK	rating definitions block p3
+researchReport_chn_b857707d	38	3	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 行业投资评级的说明：	OK	rating definitions block p3
+researchReport_chn_b857707d	44	4	动力电池行业行业研究 短期调整不改长期趋势，静待电新板块估值修复 › 特别声明：	OK	特别声明 + paragraphs; office boxes text
+researchReport_chn_d07a67be	2	1	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究	FIXED	headline ∪ ——subtitle ∪ owner field 川财研究 (sidebar box, heading part only); logo image
+researchReport_chn_d07a67be	4	1	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究 › 事件	OK	事件 + bullet paragraph
+researchReport_chn_d07a67be	6	1	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究 › 点评	OK	点评 + ❖ bold-lead paragraphs
+researchReport_chn_d07a67be	21	2	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究 › 分析师声明	OK	分析师声明 + paragraph
+researchReport_chn_d07a67be	23	2	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究 › 投资评级说明	OK	投资评级说明 + rating table
+researchReport_chn_d07a67be	25	2	全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究 › 免责声明	OK	免责声明 + paragraphs pp2-3
+researchReport_chn_d0eac218	1	1	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券	FIXED	header box heading part (company + report type) ∪ headline ∪ broker 西南证券 from sidebar banner #15; logo image
+researchReport_chn_d0eac218	4	1	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 投资要点	OK	cover 投资要点 over ● bullets, financial table
+researchReport_chn_d0eac218	30	2	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 1 2019 年年度报告点评	OK	1 + paragraphs, figures p2
+researchReport_chn_d0eac218	57	3	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 1 2019 年年度报告点评 › 1.1 动力电池业务	OK	1.1 + text, figures pp3-5
+researchReport_chn_d0eac218	96	5	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 1 2019 年年度报告点评 › 1.2 储能系统业务和锂电材料业务	OK	1.2 + text, figures p5-6
+researchReport_chn_d0eac218	115	6	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 2 盈利预测与评级	OK	2 + assumptions, forecast tables pp6-7
+researchReport_chn_d0eac218	129	7	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 3 风险提示	OK	3 风险提示 + line
+researchReport_chn_d0eac218	135	8	宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券 › 附表：财务预测与估值	OK	appendix statement tables p8 (round 3 closing title)
+researchReport_chn_dd0407a2	2	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充	OK	company/stock banner ∪ headline; logo figure, no text
+researchReport_chn_dd0407a2	20	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 公司动态事项	OK	■ 公司动态事项 + paragraph
+researchReport_chn_dd0407a2	22	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 事项点评	OK	■ 事项点评 over three subheads
+researchReport_chn_dd0407a2	23	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 事项点评 › 瓜子延续快增长，Q2坚果逐步恢复	OK	subhead + paragraph
+researchReport_chn_dd0407a2	25	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 事项点评 › 受益销售费用率下降，净利率提升	OK	subhead + paragraph
+researchReport_chn_dd0407a2	27	1	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 事项点评 › 产品矩阵扩充，全渠道发力	OK	subhead + paragraph
+researchReport_chn_dd0407a2	32	2	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 投资建议	OK	■ 投资建议 + paragraph p2
+researchReport_chn_dd0407a2	34	2	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 风险提示	OK	■ 风险提示 + line
+researchReport_chn_dd0407a2	36	2	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 数据预测与估值：	OK	forecast table title closing 风险提示 (round 3), tables p3
+researchReport_chn_dd0407a2	53	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 分析师声明	OK	分析师声明 + paragraph; analyst name text
+researchReport_chn_dd0407a2	56	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 公司业务资格说明	OK	licence statement + line
+researchReport_chn_dd0407a2	58	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 投资评级体系与评级定义	OK	rating system over three blocks
+researchReport_chn_dd0407a2	59	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 投资评级体系与评级定义 › 股票投资评级：	OK	stock rating block + table
+researchReport_chn_dd0407a2	62	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 投资评级体系与评级定义 › 行业投资评级：	OK	industry rating block + table
+researchReport_chn_dd0407a2	65	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 投资评级体系与评级定义 › 投资评级说明：	OK	rating note + paragraph
+researchReport_chn_dd0407a2	67	4	洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充 › 免责声明	OK	免责声明 + paragraphs
+researchReport_chn_e960c7b3	4	1	输入性通缩的有限发酵：3月物价数据印象	OK	headline; logo image, 宏观研究报告 tag text
+researchReport_chn_e960c7b3	5	1	输入性通缩的有限发酵：3月物价数据印象 › 报告要点：	OK	cover 报告要点： over ● key-point bullets (colon-ended lead-ins kept text, carried RESOLVED by rule (lead-ins ending in a colon over a list are text))
+researchReport_chn_e960c7b3	38	2	输入性通缩的有限发酵：3月物价数据印象 › 投资评级说明：	OK	rating definitions table p2
+researchReport_chn_e960c7b3	40	2	输入性通缩的有限发酵：3月物价数据印象 › 分析师声明	OK	分析师声明 + paragraph
+researchReport_chn_e960c7b3	42	2	输入性通缩的有限发酵：3月物价数据印象 › 证券投资咨询业务的说明	OK	licence statement + paragraph
+researchReport_chn_e960c7b3	44	2	输入性通缩的有限发酵：3月物价数据印象 › 一般性声明	OK	一般性声明 + paragraph
+researchReport_chn_e960c7b3	46	2	输入性通缩的有限发酵：3月物价数据印象 › 免责条款	OK	免责条款 + paragraph; 国元证券研究所 contact box text
+researchReport_eng_02963ff9	2	1	Goldman Sachs Singapore Equities Reform: Shar	OK	logo box ∪ kicker Singapore ∪ headline; running head Singapore = repeat
+researchReport_eng_02963ff9	29	3	Goldman Sachs Singapore Equities Reform: Shar › What happened and what has worked so far?	OK	section title + bold-lead paragraphs, exhibits 3-6
+researchReport_eng_02963ff9	55	5	Goldman Sachs Singapore Equities Reform: Shar › What's next?	OK	section title + paragraphs, exhibits 8-10
+researchReport_eng_02963ff9	82	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix	OK	back matter title p8
+researchReport_eng_02963ff9	83	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Reg AC	OK	Reg AC + certification
+researchReport_eng_02963ff9	87	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › GS Factor Profile	OK	subhead + paragraphs
+researchReport_eng_02963ff9	92	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › M&A Rank	OK	subhead + paragraph
+researchReport_eng_02963ff9	94	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Quantum	OK	subhead + paragraph
+researchReport_eng_02963ff9	96	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Company-specific regulatory disclosures	OK	subhead + line
+researchReport_eng_02963ff9	98	8	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Distribution of ratings/investment banking re	OK	subhead + ratings table, paragraph p9
+researchReport_eng_02963ff9	106	9	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Price target and rating history chart(s)	OK	subhead + line
+researchReport_eng_02963ff9	108	9	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Regulatory disclosures	OK	subhead over four parts
+researchReport_eng_02963ff9	109	9	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Regulatory disclosures › Disclosures required by United States laws an	OK	part + paragraphs
+researchReport_eng_02963ff9	113	9	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Regulatory disclosures › Additional disclosures required under the law	OK	part + long paragraph pp9-10
+researchReport_eng_02963ff9	122	10	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Regulatory disclosures › Ratings, coverage universe and related defini	OK	part + definitions
+researchReport_eng_02963ff9	127	10	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › Regulatory disclosures › Global product; distributing entities	OK	part + entity paragraphs
+researchReport_eng_02963ff9	131	10	Goldman Sachs Singapore Equities Reform: Shar › Disclosure Appendix › General disclosures	OK	subhead + paragraphs pp10-11
+researchReport_eng_1588f970	4	1	TOPof MIND ALL ABOUT BANK(PANIC)S	OK	masthead ∪ issue title; running head Top of Mind = repeat
+researchReport_eng_1588f970	15	1	TOPof MIND ALL ABOUT BANK(PANIC)S › WHAT'S INSIDE	OK	WHAT'S INSIDE contents box
+researchReport_eng_1588f970	34	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views	OK	page banner over four region boxes
+researchReport_eng_1588f970	36	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › US	OK	region box over two list labels
+researchReport_eng_1588f970	37	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › US › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	40	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › US › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	45	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Europe	OK	region box over two list labels
+researchReport_eng_1588f970	46	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Europe › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	49	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Europe › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	55	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Japan	OK	region box over two list labels
+researchReport_eng_1588f970	56	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Japan › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	58	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Japan › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	65	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Emerging Markets (EM)	OK	region box over two list labels
+researchReport_eng_1588f970	66	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Emerging Markets (EM) › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	68	2	TOPof MIND ALL ABOUT BANK(PANIC)S › Macro news and views › Emerging Markets (EM) › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_1588f970	79	3	TOPof MIND ALL ABOUT BANK(PANIC)S › All about bank(panic)s	OK	editor lead-article banner + article p3
+researchReport_eng_1588f970	99	4	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo	OK	interview banner pp4-5 over questions
+researchReport_eng_1588f970	102	4	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: As former Chairman of the Fed	OK	interview question box + answer block
+researchReport_eng_1588f970	105	4	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: What was responsible for the 	OK	interview question box + answer block
+researchReport_eng_1588f970	110	4	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: It's been argued that the 201	OK	interview question box + answer block
+researchReport_eng_1588f970	113	4	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: So, how would you rate policy	OK	interview question box + answer block
+researchReport_eng_1588f970	120	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: How concerned are you that we	OK	interview question box + answer block
+researchReport_eng_1588f970	122	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: Could increasing deposit insu	OK	interview question box + answer block
+researchReport_eng_1588f970	124	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: What—if any—adjustments to ru	OK	interview question box + answer block
+researchReport_eng_1588f970	127	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: What—if any—more lasting impa	OK	interview question box + answer block
+researchReport_eng_1588f970	129	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: As a former member of the Fed	OK	interview question box + answer block
+researchReport_eng_1588f970	131	5	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Daniel K. Tarullo › Allison Nathan: How should the Fed weigh infl	OK	interview question box + answer block
+researchReport_eng_1588f970	137	6	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Thomas Hoenig	OK	interview banner p6 over questions
+researchReport_eng_1588f970	140	6	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Thomas Hoenig › Allison Nathan: Who/what is responsible for t	OK	interview question box + answer block
+researchReport_eng_1588f970	143	6	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Thomas Hoenig › Allison Nathan: That said, you've called the 	OK	interview question box + answer block
+researchReport_eng_1588f970	145	6	TOPof MIND ALL ABOUT BANK(PANIC)S › Interview with Thomas Hoenig › Allison Nathan: But didn't Dodd-Frank substan	OK	interview question box + answer block
+researchReport_eng_39be8c41	2	1	Goldman Sachs Carbonomics The third American 	OK	logo box ∪ Carbonomics ∪ subtitle; All Authors list text; running head Carbonomics = repeat
+researchReport_eng_39be8c41	38	3	Goldman Sachs Carbonomics The third American  › Table of Contents	OK	contents title + TOC p3
+researchReport_eng_4872e373	2	1	Goldman Sachs GS SUSTAIN: ESG of the Future A	OK	logo box ∪ series kicker ∪ headline; running head = repeat
+researchReport_eng_4872e373	65	4	Goldman Sachs GS SUSTAIN: ESG of the Future A › PM Summary	OK	PM Summary + bold-lead paragraphs, exhibit 3 pp4-5
+researchReport_eng_4872e373	90	6	Goldman Sachs GS SUSTAIN: ESG of the Future A › Recommendations	OK	Recommendations + numbered run-in paragraphs
+researchReport_eng_53adef78	2	1	Goldman Sachs GS SUSTAIN: APAC ESG Regulation	OK	logo box ∪ series kicker ∪ headline; running head = repeat
+researchReport_eng_53adef78	25	2	Goldman Sachs GS SUSTAIN: APAC ESG Regulation › Table of Contents	OK	contents title + TOC p2
+researchReport_eng_53adef78	31	3	Goldman Sachs GS SUSTAIN: APAC ESG Regulation › Executive summary	OK	Executive summary + bold-lead paragraphs pp3-5
+researchReport_eng_5b6f3871	4	1	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG 	OK	masthead ∪ issue title; running head = repeat
+researchReport_eng_5b6f3871	17	1	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › WHAT'S INSIDE	OK	WHAT'S INSIDE contents box
+researchReport_eng_5b6f3871	34	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views	OK	page banner over four region boxes
+researchReport_eng_5b6f3871	36	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › US	OK	region box over two list labels
+researchReport_eng_5b6f3871	37	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › US › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	39	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › US › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	48	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Europe	OK	region box over two list labels
+researchReport_eng_5b6f3871	49	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Europe › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	52	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Europe › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	60	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Japan	OK	region box over two list labels
+researchReport_eng_5b6f3871	61	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Japan › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	63	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Japan › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	70	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Emerging Markets (EM)	OK	region box over two list labels
+researchReport_eng_5b6f3871	71	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Emerging Markets (EM) › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	73	2	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Macro news and views › Emerging Markets (EM) › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_5b6f3871	85	3	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Trump tariffs: mostly talk, or big action?	OK	editor lead-article banner + article p3
+researchReport_eng_5b6f3871	104	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish	OK	interview banner pp4-5 over questions
+researchReport_eng_5b6f3871	108	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: You played a key role in trad	OK	interview question box + answer block
+researchReport_eng_5b6f3871	112	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: While Trump's goals vis-à-vis	OK	interview question box + answer block
+researchReport_eng_5b6f3871	114	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: So, are the tariffs on Canada	OK	interview question box + answer block
+researchReport_eng_5b6f3871	118	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: What about the proposed 25% t	FIXED	interview question + answer; text with LaTeX escape -> 25% as printed
+researchReport_eng_5b6f3871	120	4	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: What about the steel and alum	OK	interview question box + answer block
+researchReport_eng_5b6f3871	128	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: The million-dollar question i	OK	interview question box + answer block
+researchReport_eng_5b6f3871	130	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: The market seemed relieved th	OK	interview question box + answer block
+researchReport_eng_5b6f3871	132	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: So, it sounds like you think 	OK	interview question box + answer block
+researchReport_eng_5b6f3871	135	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: With that in mind, where do y	OK	interview question box + answer block
+researchReport_eng_5b6f3871	138	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: Given all we've discussed, ar	OK	interview question box + answer block
+researchReport_eng_5b6f3871	140	5	TOPof MIND TRUMPTARIFFS: MOSTLY TALK, OR BIG  › Interview with Jeff Gerrish › Allison Nathan: Trump presumably understands 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	4	1	TOPof MIND THE IPO SPAC-TACLE	OK	masthead ∪ issue title; running head = repeat
+researchReport_eng_aaabf80f	16	1	TOPof MIND THE IPO SPAC-TACLE › WHAT'S INSIDE	OK	WHAT'S INSIDE contents box
+researchReport_eng_aaabf80f	31	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views	OK	page banner over four region boxes
+researchReport_eng_aaabf80f	33	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › US	OK	region box over two list labels
+researchReport_eng_aaabf80f	34	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › US › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	37	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › US › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	44	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Europe	OK	region box over two list labels
+researchReport_eng_aaabf80f	45	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Europe › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	47	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Europe › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	56	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Japan	OK	region box over two list labels
+researchReport_eng_aaabf80f	57	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Japan › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	59	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Japan › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	68	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Emerging Markets (EM)	OK	region box over two list labels
+researchReport_eng_aaabf80f	69	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Emerging Markets (EM) › Latest GS proprietary datapoints/major change	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	71	2	TOPof MIND THE IPO SPAC-TACLE › Macro news and views › Emerging Markets (EM) › Datapoints/trends we're focused on	OK	repeated region-box list label + bullets
+researchReport_eng_aaabf80f	84	3	TOPof MIND THE IPO SPAC-TACLE › The IPO SPAC-tacle	OK	editor lead-article banner + article p3
+researchReport_eng_aaabf80f	104	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter	OK	interview banner pp4-5 over questions
+researchReport_eng_aaabf80f	107	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: How does the recent boom peri	OK	interview question box + answer block
+researchReport_eng_aaabf80f	111	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: So what's changed that's moti	OK	interview question box + answer block
+researchReport_eng_aaabf80f	113	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: Given these high valuations, 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	117	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: How common is such IPO outper	OK	interview question box + answer block
+researchReport_eng_aaabf80f	120	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: Can the recent high volume of	OK	interview question box + answer block
+researchReport_eng_aaabf80f	122	4	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: Amid the current IPO surge, w	OK	interview question box + answer block
+researchReport_eng_aaabf80f	128	5	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: But are alternative IPO paths	OK	interview question box + answer block
+researchReport_eng_aaabf80f	131	5	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: What percent of SPAC sharehol	OK	interview question box + answer block
+researchReport_eng_aaabf80f	133	5	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: So are listed SPACs good inve	OK	interview question box + answer block
+researchReport_eng_aaabf80f	138	5	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: Is the SPAC frenzy likely to 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	140	5	TOPof MIND THE IPO SPAC-TACLE › Interview with Jay R. Ritter › Allison Nathan: That said, are some issues th	OK	interview question box + answer block
+researchReport_eng_aaabf80f	146	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig	OK	interview banner pp6-7 over questions
+researchReport_eng_aaabf80f	150	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: How large was the surge in eq	OK	interview question box + answer block
+researchReport_eng_aaabf80f	154	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: It seems like not that long a	OK	interview question box + answer block
+researchReport_eng_aaabf80f	156	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: Who's buying all of this new 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	159	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: How else does the current IPO	OK	interview question box + answer block
+researchReport_eng_aaabf80f	161	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: Does this disconnect between 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	163	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: Today's high valuations have 	OK	interview question box + answer block
+researchReport_eng_aaabf80f	166	6	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: What risks to your positive I	OK	interview question box + answer block
+researchReport_eng_aaabf80f	172	7	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: Amid the current IPO boom, wh	OK	interview question box + answer block
+researchReport_eng_aaabf80f	176	7	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: There's a market narrative th	OK	interview question box + answer block
+researchReport_eng_aaabf80f	180	7	TOPof MIND THE IPO SPAC-TACLE › Interview with David Ludwig › Allison Nathan: How is the traditional IPO pr	OK	interview question box + answer block
+researchReport_eng_aaabf80f	187	8	TOPof MIND THE IPO SPAC-TACLE › Going public: the basics	OK	explainer page banner; bold run-in questions text
+researchReport_eng_af983a3b	1	1	Goldman Sachs US Economics Analyst 10 Questio	OK	logo box ∪ series kicker ∪ headline; restated headline p2 and running head = repeats
+researchReport_eng_af983a3b	21	2	Goldman Sachs US Economics Analyst 10 Questio › 1. Will Congress pass any reconciliation pack	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	45	4	Goldman Sachs US Economics Analyst 10 Questio › 2. Will Congress pass any legislation this ye	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	51	4	Goldman Sachs US Economics Analyst 10 Questio › 3. Will any of that legislation boost spendin	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	61	5	Goldman Sachs US Economics Analyst 10 Questio › 4. What will happen to the expanded Child Tax	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	69	6	Goldman Sachs US Economics Analyst 10 Questio › 5. Will Congress pass tax increases in 2022?	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	86	7	Goldman Sachs US Economics Analyst 10 Questio › 6. Will Medicare drug pricing be cut?	OK	numbered question heading + answer paragraphs
+researchReport_eng_af983a3b	88	7	Goldman Sachs US Economics Analyst 10 Questio › 7. Will Democrats meaningfully weaken (or eli	FIXED	numbered question + answer; text 7 -> 7. as printed
+researchReport_eng_b36642e7	2	1	Goldman Sachs ADAPTATION Physical risk, Finan	OK	logo box ∪ ADAPTATION ∪ subtitle; AUTHORS list text; GS SUSTAIN running tag text
+researchReport_eng_b36642e7	38	3	Goldman Sachs ADAPTATION Physical risk, Finan › Table of Contents	OK	contents title + TOC p3
+researchReport_eng_b3735ab5	4	1	TOP OF MIND 2023:3 THEMES IN CHARTS	OK	masthead ∪ issue title; running head = repeat
+researchReport_eng_b3735ab5	17	2	TOP OF MIND 2023:3 THEMES IN CHARTS › Revisiting 2023 themes, crossword-style	OK	crossword page banner over Across:/Down:
+researchReport_eng_b3735ab5	19	2	TOP OF MIND 2023:3 THEMES IN CHARTS › Revisiting 2023 themes, crossword-style › Across:	OK	label + clue list
+researchReport_eng_b3735ab5	39	2	TOP OF MIND 2023:3 THEMES IN CHARTS › Revisiting 2023 themes, crossword-style › Down:	OK	label + clue list
+researchReport_eng_b3735ab5	56	3	TOP OF MIND 2023:3 THEMES IN CHARTS › In the words of our 2023 interviewees	OK	quotes page banner + quote boxes
+researchReport_eng_b3735ab5	114	4	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then	OK	theme divider panel: badge 1 ∪ every panel line; subtree pgs 5-17 (doc ends p14)
+researchReport_eng_b3735ab5	131	5	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › Ample soft landing evidence (so far)	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	161	6	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › Bonds are back…	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	190	7	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › ...and JGBs are still in focus	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	219	8	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › JGB yields: higher, but still low	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	225	9	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › UST yields: higher, but near average	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	231	10	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › Higher-for-longer: banking tremors…	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	244	12	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › ...have since subsided	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	275	13	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › ...but new bank regulation is on the way	OK	page banner + charts/exhibits on the page
+researchReport_eng_b3735ab5	287	14	TOP OF MIND 2023:3 THEMES IN CHARTS › 1 Markets worried first about growth but then › Higher-for-longer: credit still holding up	OK	page banner + charts/exhibits on the page
+researchReport_eng_bcc8ee71	1	1	Goldman Sachs Global Strategy Views Diversify	OK	logo box ∪ series kicker ∪ headline; running head = repeat
+researchReport_eng_bcc8ee71	10	1	Goldman Sachs Global Strategy Views Diversify › Where are we headed?	OK	section title + numbered run-in paragraphs, exhibits pp2-3
+researchReport_eng_bfd076b2	2	1	Goldman Sachs Japan Economics Analyst 2023 Ou	OK	logo box ∪ series kicker ∪ headline; restated headline p2 = repeat
+researchReport_eng_bfd076b2	16	2	Goldman Sachs Japan Economics Analyst 2023 Ou › Global Economic Outlook	OK	section over subhead
+researchReport_eng_bfd076b2	17	2	Goldman Sachs Japan Economics Analyst 2023 Ou › Global Economic Outlook › Further Slowdown Expected in 2023	OK	subhead + paragraphs, exhibit 1
+researchReport_eng_bfd076b2	30	3	Goldman Sachs Japan Economics Analyst 2023 Ou › Japan's Economic Outlook	OK	section over 1.
+researchReport_eng_bfd076b2	31	3	Goldman Sachs Japan Economics Analyst 2023 Ou › Japan's Economic Outlook › 1. Executive Summary	OK	numbered section over subhead
+researchReport_eng_bfd076b2	32	3	Goldman Sachs Japan Economics Analyst 2023 Ou › Japan's Economic Outlook › 1. Executive Summary › Softening External Demand a Drag, but Reopeni	OK	subhead + paragraphs, exhibit 2
+researchReport_eng_d3339752	2	1	Goldman Sachs GS SUSTAIN: Investing in the Su	OK	logo box ∪ series kicker ∪ headline; running head = repeat
+researchReport_eng_d3339752	24	2	Goldman Sachs GS SUSTAIN: Investing in the Su › Table of Contents	OK	contents title + TOC p2
+researchReport_eng_d3339752	28	3	Goldman Sachs GS SUSTAIN: Investing in the Su › Impact through Affordability in numbers	OK	uncaptioned infographic page title over four columns
+researchReport_eng_d3339752	39	3	Goldman Sachs GS SUSTAIN: Investing in the Su › Impact through Affordability in numbers › FOOD	OK	column title + stat items
+researchReport_eng_d3339752	46	3	Goldman Sachs GS SUSTAIN: Investing in the Su › Impact through Affordability in numbers › HEALTHCARE	OK	column title + stat items
+researchReport_eng_d3339752	53	3	Goldman Sachs GS SUSTAIN: Investing in the Su › Impact through Affordability in numbers › EDUCATION	OK	column title + stat items
+researchReport_eng_d3339752	58	3	Goldman Sachs GS SUSTAIN: Investing in the Su › Impact through Affordability in numbers › HOUSING & MOBILITY	OK	column title + stat items
+researchReport_eng_d3abe75a	2	1	Goldman Sachs European Economics Analyst UK O	OK	logo box ∪ series kicker ∪ headline; restated headline p2 = repeat
+researchReport_eng_d3abe75a	36	2	Goldman Sachs European Economics Analyst UK O › More Similar	OK	section title + paragraphs, exhibits pp2-7
+researchReport_eng_d3abe75a	102	7	Goldman Sachs European Economics Analyst UK O › But Not Quite the Same	OK	section title + paragraphs, exhibits p8
+researchReport_eng_df933ffb	2	1	Goldman Sachs Carbonomics Updated cost curve 	OK	logo box ∪ Carbonomics ∪ subtitle; AUTHORS page text; running head = repeat
+researchReport_eng_df933ffb	28	3	Goldman Sachs Carbonomics Updated cost curve  › Carbonomics in 12 charts	OK	section title + exhibits 1-12 pp3-5
+researchReport_eng_df933ffb	89	6	Goldman Sachs Carbonomics Updated cost curve  › Lower energy prices, clean tech inflation and	OK	section title + paragraph, exhibits 13-14, subhead p9
+researchReport_eng_df933ffb	150	9	Goldman Sachs Carbonomics Updated cost curve  › Lower energy prices, clean tech inflation and › The Carbonomics cost curve is updated for the	OK	smaller bold subhead + paragraph, exhibit 15 (round-2 level kept)
+researchReport_eng_f653f866	2	1	Goldman Sachs Oil Squaring Russia's missing b	OK	logo box ∪ kicker Oil ∪ headline; running head Oil = repeat
+researchReport_eng_f653f866	17	2	Goldman Sachs Oil Squaring Russia's missing b › A potentially enormous oil supply shock	OK	section title + ■ paragraphs and exhibits up to next title
+researchReport_eng_f653f866	37	3	Goldman Sachs Oil Squaring Russia's missing b › China key to determining how the oil market w	OK	section title + ■ paragraphs and exhibits up to next title
+researchReport_eng_f653f866	68	5	Goldman Sachs Oil Squaring Russia's missing b › Supply relief would come at a higher price an	OK	section title + ■ paragraphs and exhibits up to next title
+researchReport_eng_f653f866	112	8	Goldman Sachs Oil Squaring Russia's missing b › Demand destruction the solver of last resort	OK	section title + ■ paragraphs and exhibits up to next title
+researchReport_eng_f653f866	163	11	Goldman Sachs Oil Squaring Russia's missing b › Squaring the unknown - a probability weighted	OK	section title + ■ paragraphs and exhibits up to next title
+researchReport_eng_f8406343	2	1	Goldman Sachs Strategy Espresso: Q&A on Women	OK	logo box ∪ series/headline line; running head Strategy Espresso = repeat
+researchReport_eng_f8406343	21	2	Goldman Sachs Strategy Espresso: Q&A on Women › Q1: The share of women on boards has improved	OK	Q heading on own line + answer paragraphs, exhibits; cover bold run-in questions text
+researchReport_eng_f8406343	39	3	Goldman Sachs Strategy Espresso: Q&A on Women › Q2: But are things improving?	OK	Q heading on own line + answer paragraphs, exhibits; cover bold run-in questions text
+researchReport_eng_f8406343	54	4	Goldman Sachs Strategy Espresso: Q&A on Women › Q3: Are certain sectors/countries doing bette	OK	Q heading on own line + answer paragraphs, exhibits; cover bold run-in questions text
+researchReport_eng_f8406343	74	6	Goldman Sachs Strategy Espresso: Q&A on Women › Q4: What matters for the gender pay gap?	OK	Q heading on own line + answer paragraphs, exhibits; cover bold run-in questions text
+researchReport_eng_f8406343	90	7	Goldman Sachs Strategy Espresso: Q&A on Women › Q5: Have women been hit harder by Covid?	OK	Q heading on own line + answer paragraphs, exhibits; cover bold run-in questions text

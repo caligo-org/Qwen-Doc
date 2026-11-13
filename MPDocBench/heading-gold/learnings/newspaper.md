@@ -143,3 +143,17 @@ OPEN (round 3):
     exception for ads.
 13. ——副题 below the main title that names the actor (adf00537 #14 ——农业农村部扎实推进…) stays a deck. Only a 引题
     above the title was folded in.
+
+## Round 4 (full path review)
+Every page of all 22 newspaper trees was rendered with the tree drawn and read (119 pages); every node's breadcrumb was
+checked against its page (724 nodes before the fixes). Per-node verdicts are in review/paths/newspaper.tsv. check.py
+gives no ERROR on any tree. Fixes (2, both by "containment closes subtrees"):
+- eng_ad370234 p12 #732 "HIGHLIGHT:INDIANA" L4 under "50 States" -> text. It is a kicker over one photo brief, and the
+  50 run-in state briefs that follow in reading order fell into its subtree. Its brief now sits under "50 States" with
+  the other state briefs.
+- eng_b6de1de8 p2 #9 "The rat pack" L3 under L1 -> text. Its block is a two-line photo caption, and the colophon box
+  (p2) and the whole contents page (p3, no contents title) fell into its subtree. The caption now sits under the
+  masthead. This replaces the round-2 note that kept it as an L3 photo story.
+Checked and kept: front-page teaser boxes (The Times IN THE NEWS, Washington Post teaser strip, Globe front-page teasers)
+and full-page display ads still fall under the preceding story in reading order (OPEN 1, 12); package banners with L4
+stories (Globe "Healey's message...", USA TODAY "Hope in America") and their jumps; "50 States" stays L3.

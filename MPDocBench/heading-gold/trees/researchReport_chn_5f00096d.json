@@ -36,8 +36,8 @@
    ],
    "level": 3,
    "parent": 6,
-   "text": "- 重要数据：6月份空调内销高增长",
-   "why": "section: own-line bullet subhead"
+   "text": "重要数据：6月份空调内销高增长",
+   "why": "section: own-line bullet subhead Round 4: leading \"- \" is the printed bullet mark (siblings carry none), dropped from the text."
   },
   {
    "boxes": [

@@ -67,3 +67,15 @@ All 17 docs are Chinese GB standards on the SAC template; one mapping covers the
     "… › 3 术语和定义 › 3.n <term>" covers it. CLOSED.
   - 目次 as L2: the contents title is a heading ("Usually text": the contents title itself is a heading). CLOSED.
 - OPEN: none.
+
+## Round 4 (full path review, every node on its page)
+- 17/17 docs, every page rendered with `show.py --tree` and read (100 pages); 303 nodes, one line each in
+  `review/paths/nationalStandard.tsv`: 303 OK, 0 FIXED, 0 ADDED, 0 REMOVED. check.py: no ERROR on any doc.
+- Every node text matches its printed boxes (term entries: number box ∪ term box; L1: Chinese ∪ English title,
+  one box in 7b396eb8 / 9fd6a86f). Every path reads title › clause n › n.n (› n.n.n › n.n.n.n), front/back matter
+  and annexes at the clause-1 level.
+- Missing-heading scan (all non-node elements per page): only untitled numbered requirement sentences
+  (e.g. 7.4.1/7.4.2 00457a35, 7.5.1/7.5.2 040d3ee5, 4.3.11.1/4.3.11.2 5ad1e78c, 5.1–5.7 and 6.1–6.4 733bf6f5,
+  9.1–9.4 7b396eb8, 5.1.x 4234f2c5/cf448e58/f3f3a014), synonym lines, notes, table/figure captions, TOC
+  listings, preface change lists. None is a heading; no fix needed.
+- OPEN: none.

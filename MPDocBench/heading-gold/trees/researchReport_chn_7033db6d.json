@@ -82,6 +82,15 @@
    "parent": 46,
    "text": "二、最新观点",
    "why": "section: 二、 under it"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "1. 网上零售增速显著高于社会零售销售增速，快递行业仍具有较大的成长空间。",
+   "why": "Round 4: own-line numbered point 1. under 二、最新观点 with its own block (paragraphs, figures 1-3 on pp4-5); body outline level below 二、, so L4. The cover prints the same points as run-in bold paragraphs (text there)."
   }
  ],
  "repeats": [],

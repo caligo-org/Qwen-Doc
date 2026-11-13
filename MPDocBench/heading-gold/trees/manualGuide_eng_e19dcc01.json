@@ -18,8 +18,8 @@
    ],
    "level": 2,
    "parent": 1,
-   "text": "Table des matieres",
-   "why": "front matter: contents title at chapter level"
+   "text": "Table des matières",
+   "why": "front matter: contents title at chapter level Path review r4: node text set to the printed heading (OCR/typo cleanup)."
   },
   {
    "boxes": [
@@ -144,8 +144,8 @@
    ],
    "level": 4,
    "parent": 92,
-   "text": "Verrouillage de I'ecran tactile",
-   "why": "subsection: black bold head"
+   "text": "Verrouillage de l'écran tactile",
+   "why": "subsection: black bold head Path review r4: node text set to the printed heading (OCR/typo cleanup)."
   },
   {
    "boxes": [
@@ -225,8 +225,8 @@
    ],
    "level": 3,
    "parent": 111,
-   "text": "Connect IQObjects",
-   "why": "section: blue bold head"
+   "text": "Connect IQObjets",
+   "why": "section: blue bold head Path review r4: node text set to the printed heading (OCR/typo cleanup)."
   },
   {
    "boxes": [

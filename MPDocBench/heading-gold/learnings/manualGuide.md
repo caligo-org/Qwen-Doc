@@ -165,3 +165,17 @@ OPEN: none concerning paths. Still open from round 1 (not path cases): brochure 
   eng_c8f5395d (Garmin header image). Already named: eng_2ea63cc3 (ASUS), eng_43edf789 (GARMIN), eng_e19dcc01
   (GARMIN). No printed title: chn_51cbdc09, chn_f3fc9a26. chn_b4d94d54 prints its owner as a plain text line, not a
   logo (out of this decision's scope).
+
+## Round 4 (full path review, 2026-11-13)
+28 docs, 171 pages rendered with the tree and read, 453 nodes checked (review/paths/manualGuide.tsv): 449 OK, 1 ADDED,
+3 FIXED, 0 REMOVED.
+- Containment, missing front-matter heading (1): chn_5b94cfef #30 「根据电子信息产品污染控制管理办法的有毒·有害物质或元素的
+  标识表」 (bracketed table title on p II) was considered text, so the substance table and 10-year mark notes fell under
+  安装注意事项 -> L2 front-matter node (same treatment as chn_59b90f53 #28).
+- Node text = printed heading (3, eng_e19dcc01): #11 "Table des matières", #102 "Verrouillage de l'écran tactile" (OCR
+  "I'ecran"), #153 "Connect IQObjets" (printed so in heading and TOC; tree had "IQObjects").
+OPEN: eng_a3556095 #16 / #40: the untitled per-language LED-status notes + tables printed below each Declaration of
+  Conformity panel fall under "Declaration:" / "Déclaration:"; no printed heading closes the panel. Kept.
+Checked and kept: eng_3135929d the refill-angle paragraph #33 precedes its headline #34 in reading order (column
+  layout); eng_e19dcc01 #57 "Informations sur la batterie" repeated under "Mise en place de piles AA" (printed there,
+  bold italic, with its warning bands).

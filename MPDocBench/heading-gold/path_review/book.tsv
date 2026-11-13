@@ -1,0 +1,865 @@
+doc	node	page	path	verdict	note
+book_chn_0875d4ae	1	1	第三章 牙列与咬合	OK	chapter opener 第三章 + title (union)
+book_chn_0875d4ae	3	1	第三章 牙列与咬合 › 提要	OK	提要 box label over summary frame
+book_chn_0875d4ae	9	1	第三章 牙列与咬合 › 第一节 牙列	OK	section title line, centred, block below
+book_chn_0875d4ae	13	2	第三章 牙列与咬合 › 第一节 牙列 › 一、牙列分类	OK	一、 section title, block below
+book_chn_0875d4ae	40	3	第三章 牙列与咬合 › 第一节 牙列 › 二、牙列大小的测量方法	OK	一、 section title, block below
+book_chn_0875d4ae	47	3	第三章 牙列与咬合 › 第一节 牙列 › 三、牙正常排列时的倾斜规律	OK	一、 section title, block below
+book_chn_0875d4ae	52	4	第三章 牙列与咬合 › 第一节 牙列 › 三、牙正常排列时的倾斜规律 › （一）近远中向的倾斜（图3-7~10）	OK	（n） subsection line, block below
+book_chn_0875d4ae	63	4	第三章 牙列与咬合 › 第一节 牙列 › 三、牙正常排列时的倾斜规律 › （二）唇（颊)舌向的倾斜（见图3-7~10）	OK	（n） subsection line, block below
+book_chn_0875d4ae	68	5	第三章 牙列与咬合 › 第一节 牙列 › 三、牙正常排列时的倾斜规律 › （三）垂直向关系	OK	（n） subsection line, block below
+book_chn_0875d4ae	76	5	第三章 牙列与咬合 › 第一节 牙列 › 四、牙列的𬌗面形态特征	OK	一、 section title, block below
+book_chn_0875d4ae	80	5	第三章 牙列与咬合 › 第一节 牙列 › 四、牙列的𬌗面形态特征 › （一）纵𬌗曲线（sagittal curve of occlusion）	OK	（n） subsection line, block below
+book_chn_0875d4ae	89	6	第三章 牙列与咬合 › 第一节 牙列 › 四、牙列的𬌗面形态特征 › （二）横𬌗曲线(transverse curve of occlusion）（图3-14）	OK	（n） subsection line, block below
+book_chn_0875d4ae	96	6	第三章 牙列与咬合 › 第二节 牙尖交错𬌗	OK	section title line, centred, block below
+book_chn_0875d4ae	101	7	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 一、牙尖交错𬌗的名称与定义	OK	一、 section title, block below
+book_chn_0875d4ae	104	7	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征	OK	一、 section title, block below
+book_chn_0875d4ae	106	7	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （一）近远中向关系（图3-15、16）	OK	（n） subsection line, block below
+book_chn_0875d4ae	118	8	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （二）唇（颊）舌向的关系	OK	（n） subsection line, block below
+book_chn_0875d4ae	145	9	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （二）唇（颊）舌向的关系 › 4. 后牙覆𬌗、覆盖关系分类（图3-20）	ADDED	own-line 4. head (own box) over (1)-(4), items 1.-3. run-in; closed by （三）
+book_chn_0875d4ae	159	10	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （三）垂直向关系	OK	（n） subsection line, block below
+book_chn_0875d4ae	189	12	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （四）牙尖交错𬌗正常的标志	OK	（n） subsection line, block below
+book_chn_0875d4ae	197	12	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 二、牙尖交错𬌗的特征 › （五）异常牙尖交错𬌗	OK	（n） subsection line, block below
+book_chn_0875d4ae	221	13	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 三、𬌗的建立	OK	一、 section title, block below
+book_chn_0875d4ae	224	13	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 三、𬌗的建立 › （一）建𬌗动力平衡	OK	（n） subsection line, block below
+book_chn_0875d4ae	240	14	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 三、𬌗的建立 › （二）不同发育阶段𬌗特征	OK	（二） head; RESOLVED by rule (labels inside a run-in item stay text: the run-in siblings exception covers only a list whose own sibling is run in): own-line labels #247/#257 inside run-in item 1. stay text: the run-in 2./3. that follow belong to the outer list, not the labels' list, so the run-in-sibling exception does not cover them
+book_chn_0875d4ae	306	18	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 四、面部标志与面部协调关系	OK	一、 section title, block below
+book_chn_0875d4ae	311	18	第三章 牙列与咬合 › 第二节 牙尖交错𬌗 › 四、面部标志与面部协调关系 › 2. 面部协调关系	OK	own-line 2. 面部协调关系 with (1)-(3) below; sibling 1. is run-in before it (kept)
+book_chn_0875d4ae	329	19	第三章 牙列与咬合 › 课后思考题	OK	课后思考题 + question list, chapter end
+book_chn_38c7e1dc	4	1	第一部分 公司法	OK	part title 第一部分 公司法 (no cover; excerpt L1)
+book_chn_38c7e1dc	5	1	第一部分 公司法 › 专题一 公司设立	OK	专题 banner title
+book_chn_38c7e1dc	6	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任	OK	考点 title, green bold
+book_chn_38c7e1dc	7	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	10	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	13	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 一、违约责任	OK	一、 head, block below
+book_chn_38c7e1dc	14	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 一、违约责任 › （一）公司成立	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	15	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 一、违约责任 › （一）公司成立 › 1.发起人以自己名义	OK	own-line numbered item head with paragraph below
+book_chn_38c7e1dc	17	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 一、违约责任 › （一）公司成立 › 2.发起人以设立中公司名义	OK	own-line numbered item head with paragraph below
+book_chn_38c7e1dc	20	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 一、违约责任 › （二）公司未成立	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	23	1	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 关键词记忆 › 二、侵权责任	OK	一、 head, block below
+book_chn_38c7e1dc	32	2	第一部分 公司法 › 专题一 公司设立 › 考点1：发起人责任 › 小案例训练	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	47	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程	OK	考点 title, green bold
+book_chn_38c7e1dc	48	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	50	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	51	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 关键词记忆 › 一、公司章程的效力	OK	一、 head, block below
+book_chn_38c7e1dc	56	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 关键词记忆 › 二、公司章程的订立	OK	一、 head, block below
+book_chn_38c7e1dc	59	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 关键词记忆 › 三、公司章程的变更	OK	一、 head, block below
+book_chn_38c7e1dc	60	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 关键词记忆 › 三、公司章程的变更 › 1. 公司章程的变更程序	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	66	3	第一部分 公司法 › 专题一 公司设立 › 考点2：公司章程 › 小案例训练	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	83	5	第一部分 公司法 › 专题二 公司权利能力	OK	专题 banner title
+book_chn_38c7e1dc	84	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力	OK	考点 title, green bold
+book_chn_38c7e1dc	85	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	88	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	89	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 关键词记忆 › 一、法人责任与股东责任	OK	一、 head, block below
+book_chn_38c7e1dc	92	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 关键词记忆 › 二、法人人格否认	OK	一、 head, block below
+book_chn_38c7e1dc	95	5	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 关键词记忆 › 二、法人人格否认 › （二）法人人格否认的认定	OK	own-line （二） while （一） is run-in in #93 (kept)
+book_chn_38c7e1dc	112	6	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 关键词记忆 › 二、法人人格否认 › （三）法人人格否认诉讼地位	OK	own-line （三） while （一） is run-in (kept)
+book_chn_38c7e1dc	126	7	第一部分 公司法 › 专题二 公司权利能力 › 考点1：法人的责任能力 › 小案例分析	OK	小案例分析 label with case questions + answers
+book_chn_38c7e1dc	142	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保	OK	考点 title, green bold
+book_chn_38c7e1dc	143	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	146	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	147	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 一、公司担保规则	OK	一、 head, block below
+book_chn_38c7e1dc	148	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 一、公司担保规则 › （一）对外担保	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	150	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 一、公司担保规则 › （二）对内担保	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	152	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 二、越权担保规则	OK	一、 head, block below
+book_chn_38c7e1dc	153	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 二、越权担保规则 › 1. 基本规则	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	158	8	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 关键词记忆 › 二、越权担保规则 › 2. 善意的认定	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	170	9	第一部分 公司法 › 专题二 公司权利能力 › 考点2：公司担保 › 小案例训练	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	182	10	第一部分 公司法 › 专题三 股东出资	OK	专题 banner title
+book_chn_38c7e1dc	183	10	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则	OK	考点 title, green bold
+book_chn_38c7e1dc	184	10	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	187	10	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	188	10	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则 › 关键词记忆 › 一、股东出资方式	OK	一、 head, block below
+book_chn_38c7e1dc	191	10	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则 › 关键词记忆 › 二、股东出资具体规则	OK	一、 head, block below
+book_chn_38c7e1dc	201	11	第一部分 公司法 › 专题三 股东出资 › 考点1：股东出资规则 › 小案例训练	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	216	12	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资	OK	考点 title, green bold
+book_chn_38c7e1dc	217	12	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	220	12	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	221	12	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 一、出资违约	OK	一、 head, block below
+book_chn_38c7e1dc	222	12	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 一、出资违约 › 1. 表现形式：	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	233	13	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 一、出资违约 › 2.责任：	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	243	13	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 二、出资不实	OK	一、 head, block below
+book_chn_38c7e1dc	247	13	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 三、增资时出资瑕疵	OK	一、 head, block below
+book_chn_38c7e1dc	254	14	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 四、瑕疵股权转让	OK	一、 head, block below
+book_chn_38c7e1dc	256	14	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 五、抽逃出资	OK	一、 head, block below
+book_chn_38c7e1dc	259	14	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 关键词记忆 › 六、瑕疵出资、抽逃出资股东权利的限制与资格的解除	OK	一、 head, block below
+book_chn_38c7e1dc	267	15	第一部分 公司法 › 专题三 股东出资 › 考点2：瑕疵出资、抽逃出资 › 小案例训练	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	284	16	第一部分 公司法 › 专题四 股东权利	OK	专题 banner title
+book_chn_38c7e1dc	285	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格	OK	考点 title, green bold
+book_chn_38c7e1dc	286	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 命题点拨	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	289	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 关键词记忆	OK	label (命题点拨/关键词记忆/小案例训练) with own block
+book_chn_38c7e1dc	290	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 关键词记忆 › 一、股东资格认定依据	OK	一、 head, block below
+book_chn_38c7e1dc	297	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 关键词记忆 › 二、名义股东与实际出资人	OK	一、 head, block below
+book_chn_38c7e1dc	298	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 关键词记忆 › 二、名义股东与实际出资人 › 1. 概念	OK	own-line （n）/n. head, block below
+book_chn_38c7e1dc	301	16	第一部分 公司法 › 专题四 股东权利 › 考点1：股东资格 › 关键词记忆 › 二、名义股东与实际出资人 › 2.代持股协议	OK	own-line （n）/n. head, block below
+book_chn_69dd792e	1	1	第十二章 口腔局部解剖及其生理功能	OK	chapter opener 第十二章 + title (union)
+book_chn_69dd792e	3	1	第十二章 口腔局部解剖及其生理功能 › 提要	OK	提要 box label over summary frame
+book_chn_69dd792e	5	1	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖	OK	section title line, block below
+book_chn_69dd792e	9	1	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 一、唇	OK	一、 section title, block below
+book_chn_69dd792e	10	1	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 一、唇 › （一）表面解剖标志	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	22	2	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 一、唇 › （二）区域解剖特点	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	46	4	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 二、颊	OK	一、 section title, block below
+book_chn_69dd792e	47	4	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 二、颊 › （一）境界	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	49	4	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 二、颊 › （二）区域解剖特点	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	66	5	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 三、舌	OK	一、 section title, block below
+book_chn_69dd792e	68	5	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 三、舌 › （一）表面解剖标志	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	81	6	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 三、舌 › （二）区域解剖特点	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	126	9	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 三、舌 › （二）区域解剖特点 › 4. 神经分布和支配	OK	own-line 4. head with (1)(2) below; 1.-3. run-in (kept)
+book_chn_69dd792e	129	9	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 四、舌下区（口底）	OK	一、 section title, block below
+book_chn_69dd792e	131	9	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 四、舌下区（口底） › （一）表面解剖标志	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	134	9	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 四、舌下区（口底） › （二）区域解剖特点	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	148	10	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 五、腭	OK	一、 section title, block below
+book_chn_69dd792e	153	10	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 五、腭 › （一）表面解剖标志	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	168	11	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 五、腭 › （二）区域解剖特点	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	192	12	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 六、咽	OK	一、 section title, block below
+book_chn_69dd792e	218	14	第十二章 口腔局部解剖及其生理功能 › 第一节 唇、颊、舌、腭、咽、喉的局部解剖 › 七、喉	OK	一、 section title, block below
+book_chn_69dd792e	232	16	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能	OK	section title line, block below
+book_chn_69dd792e	234	16	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 一、吮吸	OK	一、 section title, block below
+book_chn_69dd792e	238	16	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 二、吞咽	OK	一、 section title, block below
+book_chn_69dd792e	240	16	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 二、吞咽 › （一）吞咽的反射控制	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	242	16	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 二、吞咽 › （二）吞咽过程	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	253	17	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 二、吞咽 › （三）吞咽对、颌、面生长发育的影响	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	272	18	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 三、呕 吐	OK	一、 section title, block below
+book_chn_69dd792e	274	18	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 三、呕 吐 › （一）呕吐的反射控制	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	276	18	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 三、呕 吐 › （二）呕吐过程	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	278	18	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 三、呕 吐 › （三）呕吐的生理病理意义	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	283	19	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 四、言语	OK	一、 section title, block below
+book_chn_69dd792e	285	19	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 四、言语 › （一）言语（语音）的属性	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	288	19	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 四、言语 › （二）言语（语音）器官	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	293	19	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 四、言语 › （三）语音的组成	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	300	20	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 四、言语 › （四）言语的神经控制	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	308	20	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 五、表情	OK	一、 section title, block below
+book_chn_69dd792e	324	21	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 六、呼 吸	OK	一、 section title, block below
+book_chn_69dd792e	326	21	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 六、呼 吸 › （一）喉的结构和功能	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	333	22	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 六、呼 吸 › （二）呼吸功能的检查	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	335	22	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 六、呼 吸 › （三）呼吸与咀嚼、吞咽的关系	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	346	23	第十二章 口腔局部解剖及其生理功能 › 第二节 口腔生理功能 › 六、呼 吸 › （四）呼吸方式与颅面、验的发育	OK	（n） subsection / own-line numbered head, block below
+book_chn_69dd792e	352	23	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用	OK	section title line, block below
+book_chn_69dd792e	353	23	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 一、重要的解剖结构与外科手术	OK	一、 section title, block below
+book_chn_69dd792e	354	23	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 一、重要的解剖结构与外科手术 › 1. 唾液腺导管	ADDED	own-line '1. 唾液腺导管' (title box) with (1)-(3); later 3.-5. run-in
+book_chn_69dd792e	365	24	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 一、重要的解剖结构与外科手术 › 2. 舌神经和舌下神经	ADDED	own-line '2. 舌神经和舌下神经' with (1)(2); run-in 3.-5. fall under it (user decision)
+book_chn_69dd792e	378	25	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 一、重要的解剖结构与外科手术 › 6. 舌动脉	ADDED	own-line '6. 舌动脉' with (1)(2); run-in 7.-9. fall under it (user decision)
+book_chn_69dd792e	391	26	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 二、解剖形态异常	OK	一、 section title, block below
+book_chn_69dd792e	428	28	第十二章 口腔局部解剖及其生理功能 › 第三节 临床应用 › 三、功能异常	OK	一、 section title, block below
+book_chn_69dd792e	448	30	第十二章 口腔局部解剖及其生理功能 › 课后思考题	OK	课后思考题 + question list
+book_chn_69dd792e	455	30	第十二章 口腔局部解剖及其生理功能 › 主要参考文献	OK	主要参考文献 + reference list
+book_chn_a0187360	4	1	黄文涛行政法主观题私塾班 内部十道模拟训练题	OK	cover title block (two lines)
+book_chn_a0187360	7	1	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 目录	OK	目录 title over case list
+book_chn_a0187360	17	2	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一：	OK	case label 案例n (no case title printed), case facts below
+book_chn_a0187360	38	3	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条	OK	***参考答案与重点法条*** banner, answers below
+book_chn_a0187360	39	3	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 一、在第一次行政赔偿诉讼中，唐城县法院裁定不予立案的理由是否成立？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	45	3	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 二、在第一次行政赔偿诉讼中，一审法院判决驳回慕容跃的诉讼请求是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	57	4	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 三、在第一次行政赔偿诉讼中，二审发回重审后一审法院作出的判决是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	63	4	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 四、在第二次行政赔偿诉讼中，慕容跃起诉后法院是否能依据单独提起的行政赔偿诉讼程序进行审理？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	69	4	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 五、在第二次行政赔偿诉讼中，法院判决赔偿数额是否正确？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	82	5	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 六、在第二次行政赔偿诉讼中，法院是否应支持慕容跃要求恢复房屋原貌的诉讼请求？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	88	5	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 七、在第三次行政赔偿诉讼中，慕容跃没有申请精神损害赔偿，法院应如何处理？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	94	5	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 参考答案与重点法条 › 八、在第三次行政赔偿诉讼中，慕容跃是否有权获得精神损害抚慰金？如果答案是肯定的，精神损害抚慰金如何计算？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	110	6	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例一： › 本题涉及的重点考点	OK	***本题涉及的重点考点*** banner + topic list, closed by next case
+book_chn_a0187360	120	7	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二：	OK	case label 案例n (no case title printed), case facts below
+book_chn_a0187360	131	7	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条	OK	***参考答案与重点法条*** banner, answers below
+book_chn_a0187360	132	7	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 一、路政执法大队对宇文法超限运输货物的行为不予处罚是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	138	7	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 二、路政执法人员认为宇文法2个月前的违法行为已经超过追诉期限并决定不予处罚，是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	150	8	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 三、唐城县公安民警将宇文法强制约束至酒醒的行为属于什么性质的法律行为？宇文法酒后打人是否应当被治安处罚？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	158	8	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 四、汉州市公安局采用听证方式进行复议是否合法？为什么	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	164	8	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 五、宇文法对复议决定不服起诉，被告应是哪个机关？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	176	9	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 参考答案与重点法条 › 六、法院的判决是否正确？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	182	9	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例二： › 本题涉及的重点考点	OK	***本题涉及的重点考点*** banner + topic list, closed by next case
+book_chn_a0187360	196	10	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三	OK	case label 案例n (no case title printed), case facts below
+book_chn_a0187360	213	10	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条	OK	***参考答案与重点法条*** banner, answers below
+book_chn_a0187360	214	10	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 一、中原省政府规章中对摩托车禁行的设定是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	228	11	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 二、《汉州市城市交通管理规定》中有关委托的规定是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	235	11	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 三、交警暂扣欧阳龙的驾驶证和行驶证的行为属于什么性质的法律行为？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	241	11	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 四、根据《行政处罚法》的规定，本案中交警的处罚程序存在哪些违法之处？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	257	12	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 五、根据《行政处罚法》的规定，交警队公开该案处罚决定的行为是否合法？为什么？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	263	12	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 六、宋城区公安局复议程序中存在哪些违法之处？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_a0187360	280	13	黄文涛行政法主观题私塾班 内部十道模拟训练题 › 案例三 › 参考答案与重点法条 › 七、欧阳龙起诉的被告是否正确？管辖法院应是哪个法院？	OK	question restated with its own 参考答案 + 法条 block
+book_chn_dbd95bcd	2	1	知识产权法	OK	book title 知识产权法 at top of p1
+book_chn_dbd95bcd	3	1	知识产权法 › 第一章 知识产权保护概述	OK	第x章 + title in grey chapter banner
+book_chn_dbd95bcd	4	1	知识产权法 › 第一章 知识产权保护概述 › 本章主要内容提示	OK	本章主要内容提示 box title over summary frame
+book_chn_dbd95bcd	9	1	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	10	1	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 一、侵犯知识产权的民事责任	OK	一、 head, block below
+book_chn_dbd95bcd	25	2	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 二、知识产权保护的诉讼时效	OK	一、 head, block below
+book_chn_dbd95bcd	27	2	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序	OK	一、 head, block below
+book_chn_dbd95bcd	28	2	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序 › （一）特殊级别管辖	OK	（n） head, block below
+book_chn_dbd95bcd	31	2	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序 › （二）减轻权利人的举证责任	OK	（n） head, block below
+book_chn_dbd95bcd	39	3	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序 › （三）知识产权被许可人的诉讼地位	OK	（n） head, block below
+book_chn_dbd95bcd	46	3	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序 › （四）请求确认不侵犯专利权之诉	OK	（n） head, block below
+book_chn_dbd95bcd	49	3	知识产权法 › 第一章 知识产权保护概述 › 第一节 知识产权的民事保护 › 三、知识产权民事诉讼特殊程序 › （五）技术调查官制度	OK	（n） head, block below
+book_chn_dbd95bcd	56	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	58	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护 › 一、国民待遇原则	OK	一、 head, block below
+book_chn_dbd95bcd	60	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护 › 二、最惠国待遇原则	OK	一、 head, block below
+book_chn_dbd95bcd	62	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护 › 三、独立保护原则	OK	一、 head, block below
+book_chn_dbd95bcd	65	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护 › 四、自动保护原则	OK	一、 head, block below
+book_chn_dbd95bcd	67	4	知识产权法 › 第一章 知识产权保护概述 › 第二节 知识产权的国际保护 › 五、优先权原则	OK	一、 head, block below
+book_chn_dbd95bcd	69	4	知识产权法 › 第一章 知识产权保护概述 › 【本章主要法律规定】	OK	【本章主要法律规定】 + statute list, chapter-level
+book_chn_dbd95bcd	76	5	知识产权法 › 第二章 著作权	OK	第x章 + title in grey chapter banner
+book_chn_dbd95bcd	77	5	知识产权法 › 第二章 著作权 › 本章主要内容提示	OK	本章主要内容提示 box title over summary frame
+book_chn_dbd95bcd	82	5	知识产权法 › 第二章 著作权 › 第一节 著作权的客体	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	84	5	知识产权法 › 第二章 著作权 › 第一节 著作权的客体 › 一、作品的概念	OK	一、 head, block below
+book_chn_dbd95bcd	90	5	知识产权法 › 第二章 著作权 › 第一节 著作权的客体 › 二、作品的种类	OK	一、 head, block below
+book_chn_dbd95bcd	105	6	知识产权法 › 第二章 著作权 › 第一节 著作权的客体 › 三、著作权法不予保护的对象	OK	一、 head, block below
+book_chn_dbd95bcd	109	6	知识产权法 › 第二章 著作权 › 第二节 著作权的主体	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	110	6	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 一、一般意义上的著作权主体	OK	一、 head, block below
+book_chn_dbd95bcd	111	6	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 一、一般意义上的著作权主体 › （一）作者	OK	（n） head, block below
+book_chn_dbd95bcd	116	6	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 一、一般意义上的著作权主体 › （二）继受人	OK	（n） head, block below
+book_chn_dbd95bcd	122	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 一、一般意义上的著作权主体 › （三）外国人和无国籍人	OK	（n） head, block below
+book_chn_dbd95bcd	127	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 二、演绎作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	128	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 二、演绎作品的著作权人 › （一）演绎作品的概念	OK	（n） head, block below
+book_chn_dbd95bcd	130	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 二、演绎作品的著作权人 › （二）演绎作品著作权的归属及行使	OK	（n） head, block below
+book_chn_dbd95bcd	132	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 三、合作作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	133	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 三、合作作品的著作权人 › （一）合作作品的概念	OK	（n） head, block below
+book_chn_dbd95bcd	139	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 三、合作作品的著作权人 › （二）合作作品著作权的归属及行使	OK	（n） head, block below
+book_chn_dbd95bcd	142	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 四、汇编作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	143	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 四、汇编作品的著作权人 › （一）汇编作品的概念	OK	（n） head, block below
+book_chn_dbd95bcd	145	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 四、汇编作品的著作权人 › （二）汇编作品著作权的归属及行使	OK	（n） head, block below
+book_chn_dbd95bcd	147	7	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 五、视听作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	154	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 六、职务作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	155	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 六、职务作品的著作权人 › （一）职务作品的概念	OK	（n） head, block below
+book_chn_dbd95bcd	159	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 六、职务作品的著作权人 › （二）职务作品的种类及著作权归属	OK	（n） head, block below
+book_chn_dbd95bcd	164	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 七、委托作品的著作权人	OK	一、 head, block below
+book_chn_dbd95bcd	168	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 八、原件所有权转移的作品的著作权归属	OK	一、 head, block below
+book_chn_dbd95bcd	170	8	知识产权法 › 第二章 著作权 › 第二节 著作权的主体 › 九、作者身份不明的作品的著作权归属	OK	一、 head, block below
+book_chn_dbd95bcd	177	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	178	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 一、著作人身权	OK	一、 head, block below
+book_chn_dbd95bcd	180	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 一、著作人身权 › (一)发表权	OK	（n） head, block below
+book_chn_dbd95bcd	183	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 一、著作人身权 › (二)署名权	OK	（n） head, block below
+book_chn_dbd95bcd	190	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 一、著作人身权 › (三)修改权	OK	（n） head, block below
+book_chn_dbd95bcd	193	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 一、著作人身权 › （四）保护作品完整权	OK	（n） head, block below
+book_chn_dbd95bcd	195	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 二、著作财产权	OK	一、 head, block below
+book_chn_dbd95bcd	197	9	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 二、著作财产权 › （一）使用权	OK	（n） head, block below
+book_chn_dbd95bcd	216	10	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 二、著作财产权 › （二）许可使用权	OK	（n） head, block below
+book_chn_dbd95bcd	219	10	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 二、著作财产权 › （三）转让权	OK	（n） head, block below
+book_chn_dbd95bcd	221	10	知识产权法 › 第二章 著作权 › 第三节 著作权的内容 › 二、著作财产权 › （四）获得报酬权	OK	（n） head, block below
+book_chn_dbd95bcd	223	10	知识产权法 › 第二章 著作权 › 第四节 著作权的限制	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	224	10	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 一、合理使用	OK	一、 head, block below
+book_chn_dbd95bcd	225	10	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 一、合理使用 › （一）合理使用的概念	OK	（n） head, block below
+book_chn_dbd95bcd	237	11	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 一、合理使用 › （二）合理使用的情形	OK	（n） head, block below
+book_chn_dbd95bcd	252	11	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 二、法定许可使用	OK	一、 head, block below
+book_chn_dbd95bcd	265	12	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 三、著作权的保护期限	OK	一、 head, block below
+book_chn_dbd95bcd	266	12	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 三、著作权的保护期限 › （一）著作人身权的保护期限	OK	（n） head, block below
+book_chn_dbd95bcd	269	12	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 三、著作权的保护期限 › （二）自然人作品的发表权和财产权的保护期限	OK	（n） head, block below
+book_chn_dbd95bcd	271	12	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 三、著作权的保护期限 › （三）法人或非法人组织的作品的发表权和财产权的保护期限	OK	（n） head, block below
+book_chn_dbd95bcd	273	12	知识产权法 › 第二章 著作权 › 第四节 著作权的限制 › 三、著作权的保护期限 › （四）作者身份不明作品使用权的保护期限	OK	（n） head, block below
+book_chn_dbd95bcd	275	12	知识产权法 › 第二章 著作权 › 第五节 邻接权	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	276	12	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 一、邻接权的概念	OK	一、 head, block below
+book_chn_dbd95bcd	279	12	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 二、出版者权	OK	一、 head, block below
+book_chn_dbd95bcd	280	12	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 二、出版者权 › （一）出版者的权利内容	OK	（n） head, block below
+book_chn_dbd95bcd	288	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 二、出版者权 › （二）出版者的主要义务	OK	（n） head, block below
+book_chn_dbd95bcd	294	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 三、表演者权	OK	一、 head, block below
+book_chn_dbd95bcd	295	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 三、表演者权 › （一）表演者权的主体和客体	OK	（n） head, block below
+book_chn_dbd95bcd	298	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 三、表演者权 › （二）表演者的权利内容	OK	（n） head, block below
+book_chn_dbd95bcd	307	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 三、表演者权 › （三）表演者的主要义务	OK	（n） head, block below
+book_chn_dbd95bcd	309	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 四、录制者权	OK	一、 head, block below
+book_chn_dbd95bcd	310	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 四、录制者权 › （一）录制者权的主体和客体	OK	（n） head, block below
+book_chn_dbd95bcd	312	13	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 四、录制者权 › （二）录制者的权利和义务	OK	（n） head, block below
+book_chn_dbd95bcd	319	14	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 五、播放者权	OK	一、 head, block below
+book_chn_dbd95bcd	320	14	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 五、播放者权 › （一）播放者权的主体和客体	OK	（n） head, block below
+book_chn_dbd95bcd	323	14	知识产权法 › 第二章 著作权 › 第五节 邻接权 › 五、播放者权 › （二）播放者的权利和义务	OK	（n） head, block below
+book_chn_dbd95bcd	326	14	知识产权法 › 第二章 著作权 › 第六节 著作权侵权行为	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	327	14	知识产权法 › 第二章 著作权 › 第六节 著作权侵权行为 › 一、著作权侵权行为的概念	OK	一、 head, block below
+book_chn_dbd95bcd	329	14	知识产权法 › 第二章 著作权 › 第六节 著作权侵权行为 › 二、承担民事责任的著作权侵权行为	OK	一、 head, block below
+book_chn_dbd95bcd	343	14	知识产权法 › 第二章 著作权 › 第六节 著作权侵权行为 › 三、承担综合法律责任的著作权侵权行为	OK	一、 head, block below
+book_chn_dbd95bcd	357	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	358	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 一、软件著作权的客体和主体	OK	一、 head, block below
+book_chn_dbd95bcd	359	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 一、软件著作权的客体和主体 › （一）软件著作权的客体	OK	（n） head, block below
+book_chn_dbd95bcd	362	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 一、软件著作权的客体和主体 › （二）软件著作权人及其权利归属	OK	（n） head, block below
+book_chn_dbd95bcd	366	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 二、软件著作权的内容	OK	一、 head, block below
+book_chn_dbd95bcd	367	15	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 二、软件著作权的内容 › （一）软件著作人身权	OK	（n） head, block below
+book_chn_dbd95bcd	375	16	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 二、软件著作权的内容 › （二）软件著作财产权	OK	（n） head, block below
+book_chn_dbd95bcd	379	16	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 三、软件著作权的期限和限制	OK	一、 head, block below
+book_chn_dbd95bcd	380	16	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 三、软件著作权的期限和限制 › （一）软件著作权的期限	OK	（n） head, block below
+book_chn_dbd95bcd	382	16	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 三、软件著作权的期限和限制 › （二）软件著作权的限制	OK	（n） head, block below
+book_chn_dbd95bcd	388	16	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 四、软件登记	OK	一、 head, block below
+book_chn_dbd95bcd	392	17	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 五、侵犯软件著作权行为及法律责任	OK	一、 head, block below
+book_chn_dbd95bcd	393	17	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 五、侵犯软件著作权行为及法律责任 › （一）承担民事责任的侵权行为	OK	（n） head, block below
+book_chn_dbd95bcd	401	17	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 五、侵犯软件著作权行为及法律责任 › （二）承担综合法律责任的侵权行为	OK	（n） head, block below
+book_chn_dbd95bcd	408	17	知识产权法 › 第二章 著作权 › 第七节 计算机软件著作权 › 五、侵犯软件著作权行为及法律责任 › （三）软件复制品有关主体的法律责任	OK	（n） head, block below
+book_chn_dbd95bcd	411	17	知识产权法 › 第二章 著作权 › 【本章主要法律规定】	OK	【本章主要法律规定】 + statute list, chapter-level
+book_chn_dbd95bcd	421	18	知识产权法 › 第三章专利权	OK	第x章 + title in grey chapter banner
+book_chn_dbd95bcd	422	18	知识产权法 › 第三章专利权 › 本章主要内容提示	OK	本章主要内容提示 box title over summary frame
+book_chn_dbd95bcd	428	18	知识产权法 › 第三章专利权 › 第一节 专利权的主体	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	430	18	知识产权法 › 第三章专利权 › 第一节 专利权的主体 › 一、发明人或设计人	OK	一、 head, block below
+book_chn_dbd95bcd	440	19	知识产权法 › 第三章专利权 › 第一节 专利权的主体 › 二、发明人或设计人的单位	OK	一、 head, block below
+book_chn_dbd95bcd	447	19	知识产权法 › 第三章专利权 › 第一节 专利权的主体 › 三、受让人	OK	一、 head, block below
+book_chn_dbd95bcd	456	20	知识产权法 › 第三章专利权 › 第一节 专利权的主体 › 四、外国人、外国企业或外国其他组织	OK	一、 head, block below
+book_chn_dbd95bcd	459	20	知识产权法 › 第三章专利权 › 第二节 专利权的客体	OK	第x节 title, centred green bold
+book_chn_dbd95bcd	461	20	知识产权法 › 第三章专利权 › 第二节 专利权的客体 › 一、发明	OK	一、 head, block below
+book_chn_dbd95bcd	465	20	知识产权法 › 第三章专利权 › 第二节 专利权的客体 › 二、实用新型	OK	一、 head, block below
+book_chn_dd57800f	3	1	专题六 所有权★★★	OK	专题 title on p1 (excerpt L1, no cover)
+book_chn_dd57800f	4	1	专题六 所有权★★★ › 第一节 物权变动★★★	OK	第x节 title, blue
+book_chn_dd57800f	5	1	专题六 所有权★★★ › 第一节 物权变动★★★ › 序言：物权变动的两大基础公式	OK	序言：... opening section of 第一节 with two formula lines (FRONT flag accepted)
+book_chn_dd57800f	8	1	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★	OK	一、 head (green), block below
+book_chn_dd57800f	11	1	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动	OK	（n） head, block/table below
+book_chn_dd57800f	12	1	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 1. 基本原理。	OK	own-line numbered head, block below
+book_chn_dd57800f	27	2	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★	OK	own-line numbered head, block below
+book_chn_dd57800f	33	3	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★ › （1）更正登记和异议登记★★	OK	（n） head over its table and cases
+book_chn_dd57800f	59	4	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★ › （1）更正登记和异议登记★★ › [萌主点拨]	OK	own-line [萌主点拨] label over its own table
+book_chn_dd57800f	64	5	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★ › （2）预告登记★★	FIXED	（2） head over its table; text bracket corrected to full-width as printed
+book_chn_dd57800f	88	6	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★ › （2）预告登记★★ › [萌主点拨]	OK	own-line [萌主点拨] label over its own table
+book_chn_dd57800f	90	6	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （一）基于民事法律行为的物权变动 › 2. 物权变动的公示方法★★ › （3）动产交付★★	FIXED	（3） head over its figure/table; text bracket corrected to full-width as printed
+book_chn_dd57800f	97	7	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （二）非基于民事法律行为的物权变动	OK	（n） head, block/table below
+book_chn_dd57800f	99	7	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （二）非基于民事法律行为的物权变动 › [萌主点拨]	OK	own-line 萌主点拨 over 征收 VS 征用 table + figure (dd57800f decision)
+book_chn_dd57800f	118	8	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （三）善意取得	OK	（n） head, block/table below
+book_chn_dd57800f	145	9	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （三）善意取得 › 1. 善意取得的基本原理★★★	OK	own-line numbered head, block below
+book_chn_dd57800f	150	10	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （三）善意取得 › 2. 善意取得的适用范围和法律效力★★★	OK	own-line numbered head, block below
+book_chn_dd57800f	195	12	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （三）善意取得 › 2. 善意取得的适用范围和法律效力★★★ › 萌主点拨	OK	own-line 萌主点拨 over protection-period figure + table
+book_chn_dd57800f	199	12	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （四）动产遗失物的拾得	OK	（n） head, block/table below
+book_chn_dd57800f	207	13	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （五）先占	OK	（n） head, block/table below
+book_chn_dd57800f	209	13	专题六 所有权★★★ › 第一节 物权变动★★★ › 一、物权变动的法定分类★★★ › （六）添附	OK	（n） head, block/table below
+book_chn_dd57800f	216	14	专题六 所有权★★★ › 第一节 物权变动★★★ › 二、物权变动的学理分类★★★	OK	一、 head (green), block below
+book_chn_dd57800f	221	15	专题六 所有权★★★ › 第二节 业主的建筑物区分所有权★★	OK	第x节 title, blue
+book_chn_dd57800f	222	15	专题六 所有权★★★ › 第二节 业主的建筑物区分所有权★★ › 一、建筑物区分所有权的构成★★	OK	一、 head (green), block below
+book_chn_dd57800f	224	15	专题六 所有权★★★ › 第二节 业主的建筑物区分所有权★★ › 二、建筑物区分所有权之共有权★★	OK	一、 head (green), block below
+book_chn_dd57800f	232	16	专题六 所有权★★★ › 第二节 业主的建筑物区分所有权★★ › 三、建筑物区分所有权之成员权	OK	一、 head (green), block below
+book_chn_dd57800f	237	17	专题六 所有权★★★ › 第二节 业主的建筑物区分所有权★★ › 四、业主的权利和义务☆☆	OK	一、 head (green), block below
+book_chn_f0c264a5	1	1	第九章 头颈部淋巴结和淋巴管	OK	第九章 ∪ chapter title (chapter excerpt); running heads repeat
+book_chn_f0c264a5	3	1	第九章 头颈部淋巴结和淋巴管 › 提要	OK	提要 label over dashed summary box
+book_chn_f0c264a5	15	2	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结	OK	第x节 section title
+book_chn_f0c264a5	21	3	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 一、枕淋巴结	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	23	3	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 二、耳后淋巴结	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	26	3	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 三、腮腺淋巴结	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	32	4	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 三、腮腺淋巴结 › （一）腮腺浅淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	37	4	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 三、腮腺淋巴结 › （二）腮腺深淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	40	4	第九章 头颈部淋巴结和淋巴管 › 第一节 头面部淋巴结 › 四、面淋巴结	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	47	4	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结	OK	第x节 section title
+book_chn_f0c264a5	64	6	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 一、I区淋巴结(LevelI）	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	66	6	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 一、I区淋巴结(LevelI） › （一）颏下淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	69	6	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 一、I区淋巴结(LevelI） › （二）下颌下淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	79	7	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 二、Ⅱ区淋巴结（LevelⅡ）	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	83	7	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 三、Ⅲ区淋巴结（Level III）	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	87	7	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 四、IV区淋巴结（Level IV）	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	93	8	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 五、V区淋巴结(Level V)	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	95	8	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 五、V区淋巴结(Level V) › （一）副神经淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	98	8	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 五、V区淋巴结(Level V) › （二）锁骨上淋巴结	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	101	8	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 六、VI区淋巴结（Level VI）	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	103	8	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 六、VI区淋巴结（Level VI） › （一）颈前群	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	127	10	第九章 头颈部淋巴结和淋巴管 › 第二节 颈部淋巴结 › 六、VI区淋巴结（Level VI） › （二）咽后群	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	136	10	第九章 头颈部淋巴结和淋巴管 › 第三节 颈淋巴干及淋巴导管	OK	第x节 section title
+book_chn_f0c264a5	137	10	第九章 头颈部淋巴结和淋巴管 › 第三节 颈淋巴干及淋巴导管 › 一、颈淋巴干	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	142	11	第九章 头颈部淋巴结和淋巴管 › 第三节 颈淋巴干及淋巴导管 › 二、右淋巴导管	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	146	11	第九章 头颈部淋巴结和淋巴管 › 第三节 颈淋巴干及淋巴导管 › 三、胸导管颈段	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	149	11	第九章 头颈部淋巴结和淋巴管 › 第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组	OK	第x节 section title
+book_chn_f0c264a5	150	11	第九章 头颈部淋巴结和淋巴管 › 第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组 › 一、颈深淋巴结的划分	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	156	12	第九章 头颈部淋巴结和淋巴管 › 第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组 › 二、头颈部淋巴结的传统分组	OK	一、 subhead with paragraphs
+book_chn_f0c264a5	158	12	第九章 头颈部淋巴结和淋巴管 › 第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组 › 二、头颈部淋巴结的传统分组 › （一）环形组淋巴结群	OK	（x） subhead with paragraphs; numbered run-in items text
+book_chn_f0c264a5	163	12	第九章 头颈部淋巴结和淋巴管 › 第四节 颈深淋巴结的划分及头颈部淋巴结的传统分组 › 二、头颈部淋巴结的传统分组 › （二）纵形组淋巴结群	OK	（x） subhead with paragraphs; numbered run-in items text
+book_eng_04edb0ff	1	1	Sustainable Best Management Practices for Beef Production BMPs	FIXED	cover title ∪ BMPs; text 'BMPS' -> 'BMPs' as printed
+book_eng_04edb0ff	9	2	Sustainable Best Management Practices for Beef Production BMPs › Table of Contents	OK	Table of Contents title over TOC list
+book_eng_04edb0ff	11	2	Sustainable Best Management Practices for Beef Production BMPs › 1. Why BMPs Are Important to Louisiana	OK	numbered section 1 title
+book_eng_04edb0ff	18	3	Sustainable Best Management Practices for Beef Production BMPs › 2. Introduction	OK	numbered section 2 title
+book_eng_04edb0ff	31	4	Sustainable Best Management Practices for Beef Production BMPs › 3. The Practical Side of BMPs	OK	numbered section 3 title
+book_eng_04edb0ff	44	5	Sustainable Best Management Practices for Beef Production BMPs › 4. Whole Farm Nutrient Planning	OK	numbered section 4 title
+book_eng_04edb0ff	51	5	Sustainable Best Management Practices for Beef Production BMPs › 4. Whole Farm Nutrient Planning › Whole Farm Nutrient Balance	OK	subhead with its paragraphs
+book_eng_04edb0ff	80	7	Sustainable Best Management Practices for Beef Production BMPs › 4. Whole Farm Nutrient Planning › Typical Nutrient Balances	OK	subhead with figure discussion pp7-8
+book_eng_04edb0ff	97	9	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices	OK	numbered section 5 title
+book_eng_04edb0ff	98	9	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Hay Management	OK	subhead with paragraphs
+book_eng_04edb0ff	102	9	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Hay Waste	OK	subhead with paragraphs
+book_eng_04edb0ff	109	9	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Practical Recommendations	OK	subhead over shaded bullet list
+book_eng_04edb0ff	121	10	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Management Practices for the Herd	OK	subhead with paragraphs
+book_eng_04edb0ff	127	10	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Management Practices for Pastures and Forage	OK	subhead; text continues pp10-12
+book_eng_04edb0ff	149	12	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Management Practices for Pastures and Forage › Forage Quantity	OK	italic subhead under pasture section
+book_eng_04edb0ff	151	12	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Management Practices for Pastures and Forage › Forage Nutritive Value	OK	italic subhead under pasture section
+book_eng_04edb0ff	164	13	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Beef Cattle Herd Requirements	OK	subhead with paragraphs
+book_eng_04edb0ff	182	14	Sustainable Best Management Practices for Beef Production BMPs › 5. Beef Management Practices › Matching Cow Requirements with Forage Production	OK	subhead with paragraphs to end
+book_eng_0f8b3268	2	1	BASKETBALL	OK	cover subject title; tutorialspoint logo/slogan text
+book_eng_0f8b3268	11	2	BASKETBALL › About the Tutorial	OK	front matter title with paragraph
+book_eng_0f8b3268	13	2	BASKETBALL › Audience	OK	front matter title with paragraph
+book_eng_0f8b3268	15	2	BASKETBALL › Prerequisite	OK	front matter title with paragraph
+book_eng_0f8b3268	17	2	BASKETBALL › Copyright & Disclaimer	OK	front matter title with paragraphs
+book_eng_0f8b3268	24	3	BASKETBALL › Table of Contents	OK	TOC title over TOC list
+book_eng_0f8b3268	28	4	BASKETBALL › 1. Basketball – Overview	OK	numbered chapter banner
+book_eng_0f8b3268	36	5	BASKETBALL › 1. Basketball – Overview › Basketball - Objective	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	38	5	BASKETBALL › 1. Basketball – Overview › Basketball - Team Size	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	40	5	BASKETBALL › 1. Basketball – Overview › Participating Countries	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	46	6	BASKETBALL › 2. Basketball - Playing Environment	OK	numbered chapter banner
+book_eng_0f8b3268	48	6	BASKETBALL › 2. Basketball - Playing Environment › Court Design	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	54	7	BASKETBALL › 3. Basketball - Equipment	OK	numbered chapter banner
+book_eng_0f8b3268	56	7	BASKETBALL › 3. Basketball - Equipment › Basket	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	59	7	BASKETBALL › 3. Basketball - Equipment › Ball	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	63	7	BASKETBALL › 3. Basketball - Equipment › Other Equipment	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	69	8	BASKETBALL › 4. Basketball – Common Terms	OK	numbered chapter banner
+book_eng_0f8b3268	84	9	BASKETBALL › 5. Basketball - How to Play?	OK	numbered chapter banner
+book_eng_0f8b3268	95	10	BASKETBALL › 5. Basketball - How to Play? › Rules of the Game	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	107	10	BASKETBALL › 5. Basketball - How to Play? › Rules of the Game › What a Basketball Player Should not Do?	OK	smaller bold head over 'player should not' list, under Rules of the Game
+book_eng_0f8b3268	121	11	BASKETBALL › 5. Basketball - How to Play? › Regulating Bodies	OK	bold subhead with its paragraphs
+book_eng_0f8b3268	126	12	BASKETBALL › 6. Basketball - Variants	OK	numbered chapter banner
+book_eng_0f8b3268	128	12	BASKETBALL › 6. Basketball - Variants › 3-against-3 or 3-on-3	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	130	12	BASKETBALL › 6. Basketball - Variants › 21 or Cut Throat	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	132	12	BASKETBALL › 6. Basketball - Variants › Chicago	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	134	12	BASKETBALL › 6. Basketball - Variants › Horse	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	141	13	BASKETBALL › 6. Basketball - Variants › Shooting Contest	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	143	13	BASKETBALL › 6. Basketball - Variants › Slam Ball	OK	variant name with its paragraph(s)
+book_eng_0f8b3268	145	13	BASKETBALL › Basketball - Tournaments	OK	bold head same look as variants but not a variant; L2 between ch.6 and 7 (round 3)
+book_eng_0f8b3268	159	14	BASKETBALL › 7. Basketball – Champions	OK	numbered chapter banner
+book_eng_0f8b3268	163	14	BASKETBALL › 7. Basketball – Champions › Bob Cousy	OK	champion name with bio paragraph
+book_eng_0f8b3268	165	14	BASKETBALL › 7. Basketball – Champions › Bill Russell	OK	champion name with bio paragraph
+book_eng_0f8b3268	168	14	BASKETBALL › 7. Basketball – Champions › Wilt Chamberlain	OK	champion name with bio paragraph
+book_eng_0f8b3268	171	14	BASKETBALL › 7. Basketball – Champions › Magic Johnson	OK	champion name with bio paragraph
+book_eng_0f8b3268	176	15	BASKETBALL › 7. Basketball – Champions › Larry Bird	OK	champion name with bio paragraph
+book_eng_0f8b3268	178	15	BASKETBALL › 7. Basketball – Champions › Michael Jordan	OK	champion name with bio paragraph
+book_eng_0f8b3268	181	15	BASKETBALL › 7. Basketball – Champions › Kareem Abdul-Jabbar	OK	champion name with bio paragraph
+book_eng_0f8b3268	183	15	BASKETBALL › 7. Basketball – Champions › Shaquille O'Neal	OK	champion name with bio paragraph
+book_eng_0f8b3268	185	15	BASKETBALL › 7. Basketball – Champions › John Stockton	OK	champion name with bio paragraph
+book_eng_0f8b3268	188	15	BASKETBALL › 7. Basketball – Champions › LeBron James	OK	champion name with bio paragraph
+book_eng_10fbf0e9	1	1	The Little Prince	OK	title on title page; author/translator lines text
+book_eng_10fbf0e9	4	1	The Little Prince › TO LEON WERTH	OK	dedication heading over dedication paragraph; restated line #6 text
+book_eng_10fbf0e9	8	2	The Little Prince › 1	OK	chapter number 1 alone at chapter head (no title printed)
+book_eng_10fbf0e9	27	4	The Little Prince › 2	OK	chapter number 2 alone at chapter head (no title printed)
+book_eng_10fbf0e9	71	7	The Little Prince › 3	OK	chapter number 3 alone at chapter head (no title printed)
+book_eng_10fbf0e9	106	9	The Little Prince › 4	OK	chapter number 4 alone at chapter head (no title printed)
+book_eng_10fbf0e9	127	11	The Little Prince › 5	OK	chapter number 5 alone at chapter head (no title printed)
+book_eng_10fbf0e9	155	14	The Little Prince › 6	OK	chapter number 6 alone at chapter head (no title printed)
+book_eng_10fbf0e9	171	15	The Little Prince › 7	OK	chapter number 7 alone at chapter head (no title printed)
+book_eng_10fbf0e9	209	17	The Little Prince › 8	OK	chapter number 8 alone at chapter head (no title printed)
+book_eng_1ba1e70d	3	1	212 a novel	OK	cover title 212 with 'a novel' in box; title page repeat
+book_eng_1ba1e70d	9	4	212 a novel › Contents	OK	Contents title over chapter list (pp4-6)
+book_eng_21695dfc	1	1	Artificial Intelligence and Robotics	OK	report title; authors line text
+book_eng_21695dfc	5	2	Artificial Intelligence and Robotics › 1. INTRODUCTION	OK	numbered section title
+book_eng_21695dfc	14	3	Artificial Intelligence and Robotics › 2. THE BIRTH AND BOOM OF AI	OK	numbered section title
+book_eng_21695dfc	16	3	Artificial Intelligence and Robotics › 2. THE BIRTH AND BOOM OF AI › 1956 - when the term AI was first coined.	OK	dated sidebar box title over its paragraph
+book_eng_21695dfc	36	6	Artificial Intelligence and Robotics › 2. THE BIRTH AND BOOM OF AI › Weak and Strong AI	OK	framed box title over weak/strong AI paragraphs
+book_eng_21695dfc	40	7	Artificial Intelligence and Robotics › 3. QUESTIONING THE IMPACT OF AI	OK	numbered section title
+book_eng_21695dfc	43	7	Artificial Intelligence and Robotics › 3. QUESTIONING THE IMPACT OF AI › The 18 topics covered by the AI100	OK	title over the 18 topic paragraphs pp7-8
+book_eng_21695dfc	64	9	Artificial Intelligence and Robotics › 4. A CLOSER LOOK AT THE EVOLUTION OF AI	OK	numbered section title
+book_eng_21695dfc	65	9	Artificial Intelligence and Robotics › 4. A CLOSER LOOK AT THE EVOLUTION OF AI › 4.1 SEASONS OF AI	OK	numbered subsection with seasons list
+book_eng_21695dfc	74	9	Artificial Intelligence and Robotics › 4. A CLOSER LOOK AT THE EVOLUTION OF AI › 4.2 INFLUENCE OF FUNDING	OK	numbered subsection with paragraph
+book_eng_21695dfc	78	10	Artificial Intelligence and Robotics › 4. A CLOSER LOOK AT THE EVOLUTION OF AI › 4.3 PUBLICATION VERSUS PATENTING	OK	numbered subsection; maps/table pp10-11
+book_eng_21695dfc	95	12	Artificial Intelligence and Robotics › 5. FINANCIAL IMPACT OF AI	OK	numbered section; text, charts, company table to p15
+book_eng_3ef07034	1	1	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen	OK	cover title ∪ program line in title band; VA logos text
+book_eng_3ef07034	8	2	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References	OK	divider page banner
+book_eng_3ef07034	11	3	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely	OK	reference page title
+book_eng_3ef07034	15	3	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Practice Good Hygiene	OK	subhead with its paragraph/list
+book_eng_3ef07034	24	3	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Cook to Safe Temperatures	OK	subhead with its paragraph/list
+book_eng_3ef07034	28	4	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Separate Hazardous Foods	OK	subhead with its paragraph/list
+book_eng_3ef07034	31	4	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Refrigerate and Freeze Properly	OK	subhead with its paragraph/list
+book_eng_3ef07034	33	4	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Avoid the Danger Zone	OK	subhead with its paragraph/list
+book_eng_3ef07034	38	4	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › Wash Produce	OK	subhead with its paragraph/list
+book_eng_3ef07034	40	4	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Cooking Safely › When In Doubt, Throw It Out	OK	subhead with its paragraph/list
+book_eng_3ef07034	44	5	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Measurements and Abbreviations	OK	reference page title
+book_eng_3ef07034	45	5	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Measurements and Abbreviations › Common Abbreviations	OK	subhead with its paragraph/list
+book_eng_3ef07034	56	5	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Cooking References › Measurements and Abbreviations › Volume Conversions	OK	subhead with its paragraph/list
+book_eng_3ef07034	70	6	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa	OK	divider page banner
+book_eng_3ef07034	73	7	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Apricot Chicken Tagine	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	77	7	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Apricot Chicken Tagine › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	92	7	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Apricot Chicken Tagine › Directions	OK	Directions label with its own list
+book_eng_3ef07034	103	7	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Apricot Chicken Tagine › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	110	8	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Roasted Eggplant Spread	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	114	8	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Roasted Eggplant Spread › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	122	8	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Roasted Eggplant Spread › Directions	OK	Directions label with its own list
+book_eng_3ef07034	131	8	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Roasted Eggplant Spread › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	138	9	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Baklava-Inspired Baked Oatmeal	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	142	9	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Baklava-Inspired Baked Oatmeal › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	144	9	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Baklava-Inspired Baked Oatmeal › Directions	OK	Directions label with its own list
+book_eng_3ef07034	152	9	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Baklava-Inspired Baked Oatmeal › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	160	10	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Curried Chicken Salad	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	164	10	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Curried Chicken Salad › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	178	10	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Curried Chicken Salad › Directions	OK	Directions label with its own list
+book_eng_3ef07034	185	10	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Curried Chicken Salad › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	191	11	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Kofta (Turkey Kebabs)	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	195	11	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Kofta (Turkey Kebabs) › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	204	11	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Kofta (Turkey Kebabs) › Directions	OK	Directions label with its own list
+book_eng_3ef07034	215	12	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Microwave White Bean and Egg Shakshuka	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	219	12	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Microwave White Bean and Egg Shakshuka › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	230	12	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Microwave White Bean and Egg Shakshuka › Directions	OK	Directions label with its own list
+book_eng_3ef07034	237	12	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Africa › Microwave White Bean and Egg Shakshuka › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	244	13	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia	OK	divider page banner
+book_eng_3ef07034	247	14	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Black Rice Porridge	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	249	14	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Black Rice Porridge › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	257	14	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Black Rice Porridge › Directions	OK	Directions label with its own list
+book_eng_3ef07034	263	14	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Black Rice Porridge › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	269	15	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Chicken Chow Mein	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	273	15	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Chicken Chow Mein › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	288	15	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Chicken Chow Mein › Directions	OK	Directions label with its own list
+book_eng_3ef07034	301	15	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Chicken Chow Mein › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	308	16	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Garlic Edamame	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	312	16	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Garlic Edamame › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	319	16	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Garlic Edamame › Directions	OK	Directions label with its own list
+book_eng_3ef07034	326	16	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Garlic Edamame › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	333	17	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Hot-and-Sour Soup	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	337	17	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Hot-and-Sour Soup › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	349	17	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Hot-and-Sour Soup › Directions	OK	Directions label with its own list
+book_eng_3ef07034	357	17	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Hot-and-Sour Soup › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	364	18	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Kimchi	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	368	18	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Kimchi › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	380	18	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Kimchi › Directions	OK	Directions label with its own list
+book_eng_3ef07034	389	18	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Kimchi › Recipe Notes	OK	Recipe Notes label with its own list
+book_eng_3ef07034	395	19	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Vegetable Pad Thai	OK	recipe title; prep/yield/region lines text
+book_eng_3ef07034	399	19	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Vegetable Pad Thai › Ingredients	OK	Ingredients label with its own list
+book_eng_3ef07034	416	19	Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen › Recipes Inspired by Eastern Asia › Vegetable Pad Thai › Directions	OK	Directions label with its own list
+book_eng_4ba599d0	5	1	SIDE JOBS	OK	cover title; author/tagline/subtitle text
+book_eng_4ba599d0	8	3	SIDE JOBS › Table of Contents	OK	Table of Contents title over link list
+book_eng_4ba599d0	10	4	SIDE JOBS › ALSO BY JIM BUTCHER	OK	Also by page title
+book_eng_4ba599d0	11	4	SIDE JOBS › ALSO BY JIM BUTCHER › THE DRESDEN FILES	OK	series name over its title list
+book_eng_4ba599d0	13	4	SIDE JOBS › ALSO BY JIM BUTCHER › THE CODEX ALERA	OK	series name over its title list
+book_eng_4dc2618c	1	1	THE LAST of the PRESIDENT'S MEN	OK	cover title; author name below = text
+book_eng_600ba37c	2	1	1. Introduction	OK	story 1 title (excerpt has no book title; stories top level)
+book_eng_600ba37c	3	1	1. Introduction › Before Reading:	OK	Before Reading: box with its questions
+book_eng_600ba37c	23	2	1. Introduction › After Reading:	OK	After Reading: box with its questions
+book_eng_600ba37c	29	3	2. Raggedy Ann Learns a Lesson	OK	story 2 title; odd running heads repeat it
+book_eng_600ba37c	30	3	2. Raggedy Ann Learns a Lesson › Before Reading:	OK	Before Reading: box
+book_eng_600ba37c	103	7	2. Raggedy Ann Learns a Lesson › After Reading:	OK	After Reading: box
+book_eng_600ba37c	109	8	3. Raggedy Ann and the Washing	OK	story 3 title
+book_eng_600ba37c	110	8	3. Raggedy Ann and the Washing › Before Reading:	OK	Before Reading: box
+book_eng_600ba37c	161	11	3. Raggedy Ann and the Washing › After Reading:	OK	After Reading: box
+book_eng_600ba37c	167	12	4. Raggedy Ann and the Kite	OK	story 4 title
+book_eng_600ba37c	168	12	4. Raggedy Ann and the Kite › Before Reading:	OK	Before Reading: box
+book_eng_600ba37c	227	15	4. Raggedy Ann and the Kite › After Reading:	OK	After Reading: box
+book_eng_77552588	1	1	Organization and management of the district hospital surgical service	OK	chapter title (excerpt L1); chapter number figure and running heads aside
+book_eng_77552588	3	1	Organization and management of the district hospital surgical service › 1.1 THE DISTRICT HOSPITAL	OK	numbered section banner
+book_eng_77552588	17	1	Organization and management of the district hospital surgical service › 1.1 THE DISTRICT HOSPITAL › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	4	1	Organization and management of the district hospital surgical service › 1.1 THE DISTRICT HOSPITAL › You, your staff, systems and site	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	29	2	Organization and management of the district hospital surgical service › 1.1 THE DISTRICT HOSPITAL › Community partners	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	36	2	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT	OK	numbered section banner
+book_eng_77552588	33	2	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	41	3	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › ROLE OF THE LEADER WITHIN A HEALTH CARE TEAM	OK	uppercase bold head with its paragraphs
+book_eng_77552588	64	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES	OK	uppercase bold head with its paragraphs
+book_eng_77552588	66	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Democratic	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	68	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Autocratic	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	70	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Laissez-faire	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	72	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Anarchic	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	74	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Consensus	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	76	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › LEADERSHIP STYLES › Situational	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	79	4	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › COMMUNICATION	OK	uppercase bold head with its paragraphs
+book_eng_77552588	94	5	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › COMMUNICATION › Listening	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	117	5	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › COMMUNICATION › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	96	5	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › WORKING WITH OTHERS	OK	uppercase bold head with its paragraphs
+book_eng_77552588	120	5	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › WORKING WITH OTHERS › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	129	6	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › WORKING WITH OTHERS › Meetings	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	140	6	Organization and management of the district hospital surgical service › 1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT › WORKING WITH OTHERS › Feedback	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	149	7	Organization and management of the district hospital surgical service › 1.3 ETHICS	OK	numbered section banner
+book_eng_77552588	152	7	Organization and management of the district hospital surgical service › 1.3 ETHICS › PATIENT CONSENT	OK	uppercase bold head with its paragraphs
+book_eng_77552588	161	7	Organization and management of the district hospital surgical service › 1.3 ETHICS › PATIENT CONSENT › KEY POINT	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	172	8	Organization and management of the district hospital surgical service › 1.3 ETHICS › DISCLOSURE	OK	uppercase bold head with its paragraphs
+book_eng_77552588	177	9	Organization and management of the district hospital surgical service › 1.3 ETHICS › CARING FOR CARE GIVERS	OK	uppercase bold head with its paragraphs
+book_eng_77552588	187	9	Organization and management of the district hospital surgical service › 1.3 ETHICS › CARING FOR CARE GIVERS › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	182	9	Organization and management of the district hospital surgical service › 1.4 EDUCATION	OK	numbered section banner
+book_eng_77552588	191	9	Organization and management of the district hospital surgical service › 1.4 EDUCATION › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	184	9	Organization and management of the district hospital surgical service › 1.4 EDUCATION › PLANNING	OK	uppercase bold head with its paragraphs
+book_eng_77552588	197	10	Organization and management of the district hospital surgical service › 1.4 EDUCATION › PLANNING › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	228	11	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS	OK	uppercase bold head with its paragraphs
+book_eng_77552588	229	11	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS › Morning report	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	234	12	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS › Bedside teaching rounds	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	238	12	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS › Formal educational rounds	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	240	12	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS › Morbidity and mortality meetings	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	242	12	Organization and management of the district hospital surgical service › 1.4 EDUCATION › ROUNDS › Team training in critical care practice	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	247	13	Organization and management of the district hospital surgical service › 1.4 EDUCATION › Hospital library	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	251	13	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING	OK	numbered section banner
+book_eng_77552588	263	13	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_77552588	269	14	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Admission note/preoperative note	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	271	14	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Operating room records	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	279	14	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Delivery book	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	281	14	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › The operative note	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	283	14	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Postoperative note	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	294	15	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Discharge note	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	299	15	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Standard operating procedures	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	301	15	Organization and management of the district hospital surgical service › 1.5 RECORD KEEPING › Interhospital communication	OK	mixed-case bold head with its paragraphs
+book_eng_77552588	307	15	Organization and management of the district hospital surgical service › 1.6 EVALUATION	OK	numbered section banner
+book_eng_77552588	317	15	Organization and management of the district hospital surgical service › 1.6 EVALUATION › KEY POINTS	OK	KEY POINTS sidebar box with its bullets
+book_eng_82b4201c	3	1	Image Editing with Photoshop	OK	cover title; college imprint footer text
+book_eng_82b4201c	12	2	Image Editing with Photoshop › Table of Contents	OK	Table of Contents page title
+book_eng_82b4201c	21	3	Image Editing with Photoshop › I. Overview of Photoshop	OK	roman section title; restated at top of later pages (repeats)
+book_eng_82b4201c	22	3	Image Editing with Photoshop › I. Overview of Photoshop › a. What Photoshop is	OK	lettered subsection with its text
+book_eng_82b4201c	24	3	Image Editing with Photoshop › I. Overview of Photoshop › b. What Photoshop is used for/what it is not used for (raster vs. vector graphics)	OK	lettered subsection with its text
+book_eng_82b4201c	31	4	Image Editing with Photoshop › I. Overview of Photoshop › c. Where Photoshop stands in the Graphic Design world today	OK	lettered subsection with its text
+book_eng_82b4201c	33	4	Image Editing with Photoshop › I. Overview of Photoshop › d. Other Photoshop software	OK	lettered subsection with its text
+book_eng_82b4201c	40	5	Image Editing with Photoshop › II. Starting a New Project	OK	roman section title; restated at top of later pages (repeats)
+book_eng_82b4201c	41	5	Image Editing with Photoshop › II. Starting a New Project › a. Opening a New Project	OK	lettered subsection with its text
+book_eng_82b4201c	48	5	Image Editing with Photoshop › II. Starting a New Project › b. Opening an Existing Project	OK	lettered subsection with its text
+book_eng_82b4201c	50	5	Image Editing with Photoshop › II. Starting a New Project › c. Color Modes	OK	lettered subsection with its text
+book_eng_82b4201c	58	6	Image Editing with Photoshop › II. Starting a New Project › d. Resolution	OK	lettered subsection with its text
+book_eng_82b4201c	68	7	Image Editing with Photoshop › II. Starting a New Project › c. The Interface Overview	OK	lettered subsection (document reuses c./d. under II, kept)
+book_eng_82b4201c	75	8	Image Editing with Photoshop › II. Starting a New Project › d. Photoshop Menus	OK	lettered subsection (document reuses c./d. under II, kept)
+book_eng_82b4201c	90	9	Image Editing with Photoshop › II. Starting a New Project › e. Photoshop Layers Palette	OK	lettered subsection with its text
+book_eng_82b4201c	109	10	Image Editing with Photoshop › II. Starting a New Project › f. Photoshop Other Palettes	OK	lettered subsection with its text
+book_eng_82b4201c	130	12	Image Editing with Photoshop › III. Basic Tools	OK	roman section title; restated at top of later pages (repeats)
+book_eng_82b4201c	131	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool)	OK	lettered subsection with its text
+book_eng_82b4201c	133	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool) › Marquee Tool	OK	tool label with its paragraph under a.
+book_eng_82b4201c	136	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool) › Lasso, Polygonal Lasso, Magnetic Lasso	OK	tool label with its paragraph under a.
+book_eng_82b4201c	139	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool) › Magic Wand, Quick Selection Tool	OK	tool label with its paragraph under a.
+book_eng_82b4201c	142	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool) › Pen Tool	OK	tool label with its paragraph under a.
+book_eng_82b4201c	145	12	Image Editing with Photoshop › III. Basic Tools › a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool) › Quick Mask	OK	tool label with its paragraph under a.
+book_eng_82b4201c	151	13	Image Editing with Photoshop › III. Basic Tools › b. Moving an Image, Transforming the Scale, Rotation, and Shear.	OK	lettered subsection with its text
+book_eng_82b4201c	154	13	Image Editing with Photoshop › III. Basic Tools › c. Copying a Layer or Area of a Layer	OK	lettered subsection with its text
+book_eng_82b4201c	162	14	Image Editing with Photoshop › III. Basic Tools › d. Adding and Deleting Layers	OK	lettered subsection with its text
+book_eng_82b4201c	167	14	Image Editing with Photoshop › III. Basic Tools › e. Changing a Color	OK	lettered subsection with its text
+book_eng_82b4201c	176	15	Image Editing with Photoshop › III. Basic Tools › f. Cropping	OK	lettered subsection with its text
+book_eng_82b4201c	179	15	Image Editing with Photoshop › III. Basic Tools › g. Basic Drawing tools	OK	lettered subsection with its text
+book_eng_82b4201c	203	17	Image Editing with Photoshop › III. Basic Tools › h. Adding Text	OK	lettered subsection with its text
+book_eng_82b4201c	219	18	Image Editing with Photoshop › III. Basic Tools › i. Cloning	OK	lettered subsection with its text
+book_eng_82b4201c	228	19	Image Editing with Photoshop › III. Basic Tools › j. Other tools	OK	lettered subsection with its text
+book_eng_82b4201c	242	20	Image Editing with Photoshop › IV. Saving and Printing Projects	OK	roman section title; restated at top of later pages (repeats)
+book_eng_82b4201c	243	20	Image Editing with Photoshop › IV. Saving and Printing Projects › a. Photoshop Documents (layers and effects)	OK	lettered subsection with its text
+book_eng_82b4201c	245	20	Image Editing with Photoshop › IV. Saving and Printing Projects › b. JPG, GIF, PNG (Flattened)	OK	lettered subsection with its text
+book_eng_82b4201c	254	21	Image Editing with Photoshop › IV. Saving and Printing Projects › c. Other Types (PDF, TIFF, EPS, BMP)	OK	lettered subsection with its text
+book_eng_82b4201c	264	22	Image Editing with Photoshop › IV. Saving and Printing Projects › d. Print Options	OK	lettered subsection with its text
+book_eng_82b4201c	267	22	Image Editing with Photoshop › IV. Saving and Printing Projects › e. Best Results	OK	lettered subsection with its text
+book_eng_9997c276	2	1	The Friend ZONE	OK	cover title; tagline and author text
+book_eng_9c2fed1c	4	1	SAVING the CEO	OK	cover title; tagline, quote, series line, author text
+book_eng_9d008b33	3	1	THE TESTAMENT OF MARY	OK	cover title; author and review quotes text
+book_eng_9d008b33	6	2	THE TESTAMENT OF MARY › By the same author	OK	RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): front-matter page title; its subtree runs on over copyright page and dedication (no later heading until Contents)
+book_eng_9d008b33	20	5	THE TESTAMENT OF MARY › Contents	OK	RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): Contents page; the novel body that follows (pp6-8) prints no chapter heading, so it falls under Contents
+book_eng_9e4de927	2	1	Angry GOD	OK	cover title; tagline and author text
+book_eng_9e4de927	12	4	Angry GOD › Table of Contents	OK	RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): TOC page title (pp4-5); the untitled epigraph page p6 falls under it
+book_eng_9e4de927	16	7	Angry GOD › Theme Song	OK	Theme Song title with its song line
+book_eng_9e4de927	18	7	Angry GOD › Playlist	OK	Playlist title with its song list
+book_eng_9e4de927	28	8	Angry GOD › Chapter ONE Lenora	OK	Chapter ONE label ∪ POV name Lenora; age line text
+book_eng_a59ff1e5	1	1	Home Landscape Design	OK	cover title band; university logo and its EXTENSION box text
+book_eng_a59ff1e5	13	2	Home Landscape Design › Professional Help	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	17	2	Home Landscape Design › Sources of Inspiration	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	21	2	Home Landscape Design › Value of Landscaping	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	23	2	Home Landscape Design › Value of Landscaping › Aesthetic	OK	value item heading listed by Value of Landscaping
+book_eng_a59ff1e5	25	2	Home Landscape Design › Value of Landscaping › Economic	OK	value item heading listed by Value of Landscaping
+book_eng_a59ff1e5	27	2	Home Landscape Design › Value of Landscaping › Function	OK	value item heading listed by Value of Landscaping
+book_eng_a59ff1e5	30	2	Home Landscape Design › Value of Landscaping › Environment	OK	value item heading listed by Value of Landscaping
+book_eng_a59ff1e5	32	2	Home Landscape Design › Steps in Developing a Landscape Plan	OK	step heading under the steps section
+book_eng_a59ff1e5	36	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan	OK	step heading under the steps section
+book_eng_a59ff1e5	37	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Purpose	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	39	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Identifying Your Property Lines	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	43	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Getting Started	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	45	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Gathering Equipment	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	48	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Taking Measurements	OK	RESOLVED (printed head has no layout box, so it cannot be a node; its content sits under the previous heading, as the trailing-content decision allows): subhead; p5 own-line heads Locating House on Property / Locating Outlying Landscape Features have no box (folded into paragraphs), their text falls under Identifying Property Lines
+book_eng_a59ff1e5	69	3	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Taking Measurements › Identifying Property Lines	OK	RESOLVED (printed head has no layout box, so it cannot be a node; its content sits under the previous heading, as the trailing-content decision allows): subhead; holds p5 content of two unboxed heads (Locating House on Property, Locating Outlying Landscape Features)
+book_eng_a59ff1e5	100	8	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Taking Measurements › Measuring Curved Areas	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	105	8	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Taking Measurements › Measuring Angled Features	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	111	8	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Transferring Measurements to Final Base Plan	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	123	9	Home Landscape Design › Steps in Developing a Landscape Plan › Step 1. Develop base plan or plot plan › Step 1 Checklist	OK	checklist title with its numbered list
+book_eng_a59ff1e5	137	9	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis	OK	step heading under the steps section
+book_eng_a59ff1e5	138	9	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Purpose	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	140	9	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Observing Over Time	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	144	9	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Getting Started	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	147	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Recording the Landscape	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	150	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	151	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Sun and Shade	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	154	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Wind	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	156	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Noise	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	159	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Soils and Land Form	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	162	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Surface Drainage	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	164	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Understanding Environmental Features or Patterns › Views	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	167	10	Home Landscape Design › Steps in Developing a Landscape Plan › Step 2. Conduct a site analysis › Step 2 Checklist	OK	checklist title with its numbered list
+book_eng_a59ff1e5	193	13	Home Landscape Design › Steps in Developing a Landscape Plan › Step 3. List the family's wants and needs	OK	step heading under the steps section
+book_eng_a59ff1e5	194	13	Home Landscape Design › Steps in Developing a Landscape Plan › Step 3. List the family's wants and needs › Assessing your family's needs	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	205	13	Home Landscape Design › Steps in Developing a Landscape Plan › Step 4. Locate the use areas	OK	step heading under the steps section
+book_eng_a59ff1e5	209	13	Home Landscape Design › Steps in Developing a Landscape Plan › Step 5. Develop outdoor use areas	OK	step heading under the steps section
+book_eng_a59ff1e5	213	13	Home Landscape Design › Steps in Developing a Landscape Plan › Step 5. Develop outdoor use areas › Considerations for designing or creating outdoor living spaces	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	241	16	Home Landscape Design › Steps in Developing a Landscape Plan › Step 5. Develop outdoor use areas › Considerations for designing or creating outdoor living spaces › Vehicular access and parking	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	243	16	Home Landscape Design › Steps in Developing a Landscape Plan › Step 5. Develop outdoor use areas › Considerations for designing or creating outdoor living spaces › Walkways	OK	bold italic subhead with its paragraphs
+book_eng_a59ff1e5	249	17	Home Landscape Design › Steps in Developing a Landscape Plan › Step 5. Develop outdoor use areas › Considerations for designing or creating outdoor living spaces › Accenting the main entrance	OK	RESOLVED (printed head has no layout box, so it cannot be a node; its content sits under the previous heading, as the trailing-content decision allows): subhead; p18 own-line head Pulling it all together has no box, its paragraphs fall under this node
+book_eng_a59ff1e5	263	18	Home Landscape Design › Steps in Developing a Landscape Plan › Step 6. Select and place plant symbols on plan	OK	step heading under the steps section
+book_eng_a59ff1e5	264	18	Home Landscape Design › Steps in Developing a Landscape Plan › Step 6. Select and place plant symbols on plan › Section One: Selecting plants	OK	RESOLVED (printed head has no layout box, so it cannot be a node; its content sits under the previous heading, as the trailing-content decision allows): subhead; p19 own-line head Plant Palette has no box
+book_eng_ab95f5db	1	1	Introduction to Data Analysis Handbook	OK	cover title; issuer imprint block at foot and quote circle text
+book_eng_ab95f5db	7	2	Introduction to Data Analysis Handbook › AED's Migrant and Seasonal Head Start Technical Assistance Center (TAC-12)	OK	inside-cover organisation box title
+book_eng_ab95f5db	8	2	Introduction to Data Analysis Handbook › AED's Migrant and Seasonal Head Start Technical Assistance Center (TAC-12) › MISSION STATEMENT	OK	MISSION STATEMENT label with its paragraph
+book_eng_ab95f5db	11	2	Introduction to Data Analysis Handbook › AED's Center for Early Care and Education	OK	inside-cover organisation box title
+book_eng_ab95f5db	12	2	Introduction to Data Analysis Handbook › AED's Center for Early Care and Education › MISSION STATEMENT	OK	MISSION STATEMENT label with its paragraph
+book_eng_ab95f5db	14	2	Introduction to Data Analysis Handbook › Acknowledgments	OK	Acknowledgments front matter title
+book_eng_ab95f5db	18	3	Introduction to Data Analysis Handbook › I. Introduction	OK	roman section banner
+book_eng_ab95f5db	19	3	Introduction to Data Analysis Handbook › I. Introduction › Introduction to the Handbook	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	27	4	Introduction to Data Analysis Handbook › I. Introduction › Introduction to the Handbook › Learning Objectives	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	33	4	Introduction to Data Analysis Handbook › I. Introduction › Introduction to the Handbook › Guiding Principles for Approaching Data Analysis	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	39	4	Introduction to Data Analysis Handbook › I. Introduction › What This Handbook Does NOT Do	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	48	5	Introduction to Data Analysis Handbook › I. Introduction › Why Do We Need Data Analysis?	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	55	6	Introduction to Data Analysis Handbook › I. Introduction › Why Do We Need Data Analysis? › From the Head Start Bureau website (October 4, 2005):	OK	source-excerpt label with the quoted text
+book_eng_ab95f5db	57	6	Introduction to Data Analysis Handbook › I. Introduction › Why Do We Need Data Analysis? › From Information Memorandum ACYF-IM-HS-05-08 (10/04/05):	OK	source-excerpt label with the quoted text
+book_eng_ab95f5db	58	6	Introduction to Data Analysis Handbook › I. Introduction › Why Do We Need Data Analysis? › From Information Memorandum ACYF-IM-HS-05-08 (10/04/05): › Changes to the PRISM Process	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	67	7	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data	OK	roman section banner
+book_eng_ab95f5db	68	7	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data is...	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	83	8	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data is... › Why the Soliloquy? Types of Data	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	90	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	92	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	93	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview › (Family One - husband)	OK	transcript speaker label with the answer block
+book_eng_ab95f5db	95	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview › (Family One - wife)	OK	transcript speaker label with the answer block
+book_eng_ab95f5db	97	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview › (Family One - husband)	OK	transcript speaker label with the answer block
+book_eng_ab95f5db	99	9	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview › (Family One-wife)	OK	transcript speaker label with the answer block
+book_eng_ab95f5db	104	10	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Qualitative data › Sample Qualitative Data: Transcript from Parent Interview › (Family One-husband)	OK	transcript speaker label with the answer block
+book_eng_ab95f5db	106	10	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Quantitative data	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	108	10	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Quantitative data › Sample Quantitative Data from PIR	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	111	10	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Quantitative data › Contrasting Types of Data in Head Start	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	116	11	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	118	11	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Strategy: Visualizing the Data	OK	strategy box title with Involves/Reason lines
+book_eng_ab95f5db	121	11	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Strategy: Exploratory Analyses	OK	strategy box title with Involves/Reason lines
+book_eng_ab95f5db	124	11	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Strategy: Trend Analysis	OK	strategy box title with Involves/Reason lines
+book_eng_ab95f5db	127	11	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Strategy: Estimation	OK	strategy box title with Involves/Reason lines
+book_eng_ab95f5db	134	12	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Visualizing Data	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	150	14	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Exploratory Analysis	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	152	14	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Trend Analysis	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	154	14	Introduction to Data Analysis Handbook › II. Ways of Thinking About Data › Data Strategies › Estimation	OK	bold head with its paragraphs/table
+book_eng_ab95f5db	159	15	Introduction to Data Analysis Handbook › III. Conceptualizing Data Analysis as a Process	OK	roman section banner
+book_eng_ab95f5db	160	15	"Introduction to Data Analysis Handbook › III. Conceptualizing Data Analysis as a Process › The ""Problem"" with Data Analysis"	OK	bold head with its paragraphs/table
+book_eng_b155f179	1	1	Modern Robotics with OpenCV	OK	cover title; author and publisher logo text
+book_eng_b155f179	4	2	Modern Robotics with OpenCV › Preface	OK	Preface page title over preface text
+book_eng_b155f179	16	3	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics	OK	'Chapter 1' badge ∪ chapter title; objectives list above Introduction
+book_eng_b155f179	23	4	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics › Introduction	OK	bold head over intro paragraph
+book_eng_b155f179	25	4	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics › History of Robot	OK	bold head; history text, figures 1.1-1.3, timeline table
+book_eng_b155f179	54	8	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics › Types of Robot	OK	bold head; robot types, characteristics, manipulators, ASIMO
+book_eng_b155f179	115	13	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics › Embedded Systems for Robot	OK	bold head; embedded block diagram, controllers, drive types
+book_eng_b155f179	145	16	Modern Robotics with OpenCV › Chapter 1 Introduction to Intelligent Robotics › Robot Vision	OK	bold head; vision text and figures to end of excerpt
+book_eng_b5a23ac1	1	1	Dakota State University General Chemistry Laboratory Manual	OK	university name ∪ manual title on cover; author, year, logos text
+book_eng_b5a23ac1	10	2	Dakota State University General Chemistry Laboratory Manual › Introduction	OK	Introduction page title over 4 paragraphs
+book_eng_b5a23ac1	19	3	Dakota State University General Chemistry Laboratory Manual › Table of Contents	OK	Table of Contents title over contents table
+book_eng_b5a23ac1	25	4	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories	OK	'Laboratory Safety Guidelines / Dakota State University / Chemistry Laboratories' one box; legal notice below
+book_eng_b5a23ac1	27	4	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Introduction	OK	bold head over intro paragraphs
+book_eng_b5a23ac1	36	5	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Laboratory Apparel	OK	bold head over items (1)-(9) on apparel
+book_eng_b5a23ac1	51	6	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Safety Equipment	OK	bold head over items (1)-(3)
+book_eng_b5a23ac1	55	6	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › General Behavior	OK	bold head over items (1)-(17) on behaviour
+book_eng_b5a23ac1	83	8	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Fire	OK	bold head over fire items (1)-(8)
+book_eng_b5a23ac1	96	9	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Chemicals and Chemical Spills	OK	bold head over spill items (1)-(5)
+book_eng_b5a23ac1	107	10	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › Laboratory Equipment	OK	bold head over items (1)-(2)
+book_eng_b5a23ac1	110	10	Dakota State University General Chemistry Laboratory Manual › Laboratory Safety Guidelines Dakota State University Chemistry Laboratories › General Guidelines	OK	bold head over items (1)-(14); closing paragraph of the guidelines falls under it (closing-paragraph exception)
+book_eng_c5211a9e	1	1	FOUNDATIONS OF FITNESS PROGRAMMING	OK	cover title; NSCA logo and slogan text
+book_eng_c5211a9e	5	2	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW	OK	orange overview title p2; ABOUT/WHY/DESIGNING follow
+book_eng_c5211a9e	6	2	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › ABOUT	OK	bold uppercase head over 3 paragraphs
+book_eng_c5211a9e	10	2	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › WHY WAS THE FFP DEVELOPED?	OK	uppercase head; why text and the principles list 1.-4.
+book_eng_c5211a9e	16	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › WHY WAS THE FFP DEVELOPED? › 1. Specificity (individuality)	OK	numbered bold principle over its paragraph
+book_eng_c5211a9e	18	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › WHY WAS THE FFP DEVELOPED? › 2. Overload	OK	numbered bold principle over its paragraph
+book_eng_c5211a9e	20	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › WHY WAS THE FFP DEVELOPED? › 3. Progression	OK	numbered bold principle over its paragraph
+book_eng_c5211a9e	22	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › WHY WAS THE FFP DEVELOPED? › 4. Variation	OK	numbered bold principle; closing 'Keeping in line' paragraph falls under it (closing-paragraph exception)
+book_eng_c5211a9e	25	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS	OK	uppercase head; steps 1.-4.
+book_eng_c5211a9e	28	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 1. Consultation and Discussion of Goals	OK	numbered bold step over paragraphs
+book_eng_c5211a9e	32	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 2. Evaluate Health History Forms and Perform a Fitness Assessment	OK	numbered bold step over paragraph
+book_eng_c5211a9e	34	3	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 3. Establish S.M.A.R.T. Goals	OK	numbered bold step; S.M.A.R.T. items a.-c.
+book_eng_c5211a9e	38	4	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 3. Establish S.M.A.R.T. Goals › a. Agree Upon the Goals	OK	lettered bold item over paragraph
+book_eng_c5211a9e	40	4	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 3. Establish S.M.A.R.T. Goals › b. Define Roles and Responsibilities	OK	lettered bold item over paragraph
+book_eng_c5211a9e	42	4	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 3. Establish S.M.A.R.T. Goals › c. Identify and Address Roadblocks	OK	lettered bold item over paragraph
+book_eng_c5211a9e	44	4	FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING OVERVIEW › DESIGNING INDIVIDUALIZED FITNESS PROGRAMS › 4. Develop the Training Program	OK	numbered bold step over paragraph
+book_eng_c5211a9e	48	5	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING	OK	maroon divider page title p5
+book_eng_c5211a9e	50	6	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › FOUNDATIONS OF FITNESS PROGRAMMING: INSTRUCTIONS AND APPLICATION	OK	orange title; component list and template notes
+book_eng_c5211a9e	63	7	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING	OK	orange title; warm-up subsections
+book_eng_c5211a9e	64	7	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING › WARM-UP BENEFITS	OK	purple head over warm-up text and responses list
+book_eng_c5211a9e	72	8	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING › DYNAMIC WARM-UP RECOMMENDATIONS	OK	purple head over 2 paragraphs
+book_eng_c5211a9e	75	8	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING › DYNAMIC WARM-UP PROGRAMMING CONSIDERATIONS AND RECOMMENDATIONS	OK	purple head; question list, 'Recommendations:' lead-in (text) and list, mobility table
+book_eng_c5211a9e	90	8	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › MOBILITY, MOVEMENT PREPARATION, AND FLEXIBILITY TRAINING › FLEXIBILITY TRAINING	OK	purple head over flexibility paragraph
+book_eng_c5211a9e	94	9	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS	OK	orange title; program basics subsections
+book_eng_c5211a9e	95	9	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › CLASSIFYING TRAINING STATUS AND TRAINING FREQUENCY RECOMMENDATIONS	OK	purple head; classification table
+book_eng_c5211a9e	103	10	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › SEQUENCING OF TRAINING	OK	purple head; periodization text and phase list
+book_eng_c5211a9e	113	10	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › EXERCISE SELECTION, REGRESSION, AND PROGRESSION	OK	purple head; regression text, figure, regression table
+book_eng_c5211a9e	124	11	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › TRAINING VARIABLES	OK	purple head; variables list and notes
+book_eng_c5211a9e	131	11	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › ASSIGNING LOAD	OK	purple head; 1RM text
+book_eng_c5211a9e	138	12	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: BASICS › PROGRAM DESIGN METHODS AND DESCRIPTIONS	OK	purple head; bulleted method definitions
+book_eng_c5211a9e	156	13	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING	OK	orange title; phase subsections
+book_eng_c5211a9e	158	13	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › MUSCULAR ENDURANCE	OK	purple head; endurance text and table
+book_eng_c5211a9e	166	14	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › SEQUENCING EXAMPLE FOR MUSCULAR ENDURANCE GOAL	OK	purple head; INTERMEDIATE:/ADVANCED: sequence lines (text)
+book_eng_c5211a9e	171	14	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › HYPERTROPHY	OK	purple head; hypertrophy text and table
+book_eng_c5211a9e	181	15	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › SEQUENCING EXAMPLE FOR HYPERTROPHY GOAL	OK	purple head; sequence lines
+book_eng_c5211a9e	186	15	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › MUSCULAR STRENGTH	OK	purple head; strength text and table
+book_eng_c5211a9e	198	16	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › SEQUENCING EXAMPLE FOR MUSCULAR STRENGTH GOAL	OK	purple head; sequence lines
+book_eng_c5211a9e	203	16	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › MUSCULAR POWER	OK	purple head; power text and table
+book_eng_c5211a9e	212	16	FOUNDATIONS OF FITNESS PROGRAMMING › IMPLEMENTING THE FOUNDATIONS OF FITNESS PROGRAMMING › PROGRAM DESIGN: PHASES OF TRAINING › SEQUENCING EXAMPLE FOR MUSCULAR POWER GOAL	OK	purple head; sequence lines to end
+book_eng_d4818a54	2	1	WHISKEY lies	OK	cover title; series line 'Falling for Whiskey book one' and author text
+book_eng_d4818a54	11	3	WHISKEY lies › Dedication	OK	Dedication title over dedication text
+book_eng_d4818a54	18	4	WHISKEY lies › CONTENTS	OK	CONTENTS title over chapter link list (pp4-6)
+book_eng_d4818a54	22	7	WHISKEY lies › Whiskey Lies Playlist	OK	playlist title over numbered song list
+book_eng_d4818a54	44	8	WHISKEY lies › CHAPTER 1 GRACE	OK	'CHAPTER 1' ∪ narrator line 'GRACE'; chapter text to end of excerpt
+book_eng_dc66edfa	1	1	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN	OK	cover title ∪ department/college block; logo, approval line, address text
+book_eng_dc66edfa	8	2	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks	OK	UNIT-I ∪ unit title in one box
+book_eng_dc66edfa	9	2	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication:	OK	bold '1.1 Data Communication:' run-in at start of its box; heading part only
+book_eng_dc66edfa	10	2	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.1 Components:	OK	bold numbered head; figure and components list
+book_eng_dc66edfa	19	3	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.2 Data Representation:	OK	bold numbered head; 'Text:' sits inside paragraph box #20 (no own box)
+book_eng_dc66edfa	22	3	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.2 Data Representation: › Numbers:	OK	italic label over paragraph
+book_eng_dc66edfa	24	3	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.2 Data Representation: › Images:	OK	italic label over paragraph
+book_eng_dc66edfa	26	3	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.2 Data Representation: › Audio:	OK	italic label over paragraph
+book_eng_dc66edfa	29	4	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.2 Data Representation: › Video:	OK	italic label over paragraph
+book_eng_dc66edfa	31	4	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.3 Data Flow	OK	bold numbered head; mode figures
+book_eng_dc66edfa	40	5	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.3 Data Flow › Simplex:	OK	italic label over paragraph
+book_eng_dc66edfa	42	5	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.3 Data Flow › Half-Duplex:	OK	italic label over paragraphs
+book_eng_dc66edfa	46	5	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.1 Data Communication: › 1.1.3 Data Flow › Full-Duplex:	OK	italic label over paragraph
+book_eng_dc66edfa	49	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS	OK	bold numbered head over network definition
+book_eng_dc66edfa	51	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.1 Distributed Processing	OK	bold numbered head over paragraph
+book_eng_dc66edfa	53	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.2 Network Criteria	OK	bold numbered head; criteria labels
+book_eng_dc66edfa	55	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.2 Network Criteria › Performance:	OK	italic label over paragraph
+book_eng_dc66edfa	57	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.2 Network Criteria › Reliability:	OK	italic label over paragraph
+book_eng_dc66edfa	59	6	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.2 Network Criteria › Security:	OK	italic label over paragraph
+book_eng_dc66edfa	62	7	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures:	OK	bold numbered head
+book_eng_dc66edfa	63	7	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › Type of Connection	OK	italic label; two connection types
+book_eng_dc66edfa	65	7	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › Type of Connection › Point-to-Point	OK	label over paragraph
+book_eng_dc66edfa	67	7	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › Type of Connection › Multipoint	OK	label over paragraph and figures
+book_eng_dc66edfa	74	8	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › 1.2.3.1 Physical Topology	OK	italic numbered head; topology figure, run-in Mesh: with Advantages:/Disadvantages: (text)
+book_eng_dc66edfa	88	9	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › 1.2.3.1 Physical Topology › Star Topology:	OK	bold own-line label over star paragraphs
+book_eng_dc66edfa	95	10	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.3 Physical Structures: › 1.2.3.1 Physical Topology › Bus Topology:	OK	bold own-line label; run-in Ring and Hybrid fall under it (user decision)
+book_eng_dc66edfa	111	13	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.4 Categories of Networks	OK	bold numbered head
+book_eng_dc66edfa	112	13	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.4 Categories of Networks › Local Area Networks:	OK	bold label; LAN text and figure
+book_eng_dc66edfa	122	14	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.4 Categories of Networks › Metropolitan Area Network (MAN):	OK	bold label; restated on next line (repeat); MAN text and figure
+book_eng_dc66edfa	129	15	COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN › UNIT-I Introduction to Computer Networks › 1.2 NETWORKS › 1.2.4 Categories of Networks › Wide Area Network (WAN).	OK	bold label as printed; restated label repeat; WAN text
+book_eng_e343e570	1	1	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design	OK	cover title in green band; photos and publication line text
+book_eng_e343e570	16	2	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › WHAT ARE FLORIDA-FRIENDLY LANDSCAPES?	OK	inside-cover banner over paragraph
+book_eng_e343e570	18	2	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › SERVICES	OK	banner over services paragraph and list; program-office contact box title is text
+book_eng_e343e570	28	2	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › ACKNOWLEDGEMENTS	OK	banner over thanks line and name table
+book_eng_e343e570	34	3	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Introduction	OK	page banner; four uppercase subsections
+book_eng_e343e570	35	3	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Introduction › WHAT IS A FLORIDA-FRIENDLY LANDSCAPE?	OK	uppercase head over 2 paragraphs
+book_eng_e343e570	38	3	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Introduction › THE FLORIDA-FRIENDLY LANDSCAPING™ PROGRAM	OK	uppercase head over paragraph
+book_eng_e343e570	40	3	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Introduction › LANDSCAPE DESIGN & PLANT SELECTION	OK	uppercase head over paragraph
+book_eng_e343e570	42	3	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Introduction › HOW TO USE THIS BOOK	OK	uppercase head over paragraph
+book_eng_e343e570	46	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles	OK	page banner; intro paragraph and nine principle boxes
+book_eng_e343e570	48	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #1: RIGHT PLANT, RIGHT PLACE	OK	
+book_eng_e343e570	50	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #2: WATER EFFICIENTLY	OK	
+book_eng_e343e570	52	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #3: FERTILIZE APPROPRIATELY	OK	
+book_eng_e343e570	54	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #4: MULCH	OK	
+book_eng_e343e570	56	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #5: ATTRACT WILDLIFE	OK	
+book_eng_e343e570	58	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #6: MANAGE YARD PESTS RESPONSIBLY	OK	
+book_eng_e343e570	60	4	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #7: RECYCLE	OK	
+book_eng_e343e570	64	5	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #8: MANAGE STORMWATER RUNOFF	OK	
+book_eng_e343e570	66	5	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › The Nine Florida-Friendly Landscaping™ Principles › PRINCIPLE #9: PROTECT THE WATERFRONT	OK	
+book_eng_e343e570	70	6	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape	OK	page banner; intro and two subsections
+book_eng_e343e570	72	6	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › WHAT IF I LIVE IN A PLANNED COMMUNITY?	OK	uppercase head over 2 paragraphs
+book_eng_e343e570	76	6	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS	OK	uppercase head; intro of the scenarios that follow
+book_eng_e343e570	81	7	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY	OK	scenario title (deck 'Two design options' in same box)
+book_eng_e343e570	85	7	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › CHALLENGES:	OK	CHALLENGES: box label over 2 bullets
+book_eng_e343e570	88	7	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	90	7	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › GOAL: › Plant Characteristics to Look For:	OK	label over characteristic bullets
+book_eng_e343e570	96	7	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › Design Solutions:	OK	label over solution bullets
+book_eng_e343e570	104	8	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › SOLUTION 1	OK	SOLUTION 1 label over 'With Trees' drawings
+book_eng_e343e570	108	8	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO A: FRONT ENTRY › SOLUTION 2	OK	SOLUTION 2 label over 'Without Trees' drawings
+book_eng_e343e570	114	9	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS	OK	scenario title (deck in same box)
+book_eng_e343e570	118	9	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › CHALLENGES:	OK	CHALLENGES: box label over bullets
+book_eng_e343e570	121	9	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	123	9	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › GOAL: › Plant Characteristics to Look For:	OK	label over bullets
+book_eng_e343e570	128	9	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › Design Solutions:	OK	label over solution bullets
+book_eng_e343e570	137	10	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › SOLUTION 1	OK	SOLUTION 1 label over drawings
+book_eng_e343e570	141	10	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO B: ALONG WALLS › SOLUTION 2	OK	SOLUTION 2 label over drawings
+book_eng_e343e570	147	11	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS	FIXED	scenario title (deck in same box); text 'SIDEWALKs' -> 'SIDEWALKS' as printed
+book_eng_e343e570	151	11	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › CHALLENGE:	OK	CHALLENGE: box label (singular as printed) over bullet
+book_eng_e343e570	153	11	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	155	11	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › GOAL: › Plant Characteristics to Look For:	OK	label over bullets
+book_eng_e343e570	159	11	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › Design Solutions:	OK	label over solution bullets
+book_eng_e343e570	166	12	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › SOLUTION 1	OK	SOLUTION 1 label over 'Turf Buffer Strip' drawings
+book_eng_e343e570	170	12	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO C: ALONG SIDEWALKS › SOLUTION 2	OK	SOLUTION 2 label over 'Raised Edging' drawings
+book_eng_e343e570	176	13	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS	OK	scenario title (deck in same box)
+book_eng_e343e570	180	13	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › CHALLENGES:	OK	CHALLENGES: box label over bullets
+book_eng_e343e570	183	13	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	185	13	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › GOAL: › Plant Characteristics to Look For:	OK	label over bullets
+book_eng_e343e570	190	13	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › Design Solutions:	OK	label over solution bullets
+book_eng_e343e570	198	14	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › SOLUTION 1	OK	SOLUTION 1 label over drawings
+book_eng_e343e570	202	14	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO D: UNDER WINDOWS › SOLUTION 2	OK	SOLUTION 2 label over drawings
+book_eng_e343e570	208	15	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES	OK	scenario title (deck in same box)
+book_eng_e343e570	212	15	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › CHALLENGES:	OK	CHALLENGES: box label over bullets
+book_eng_e343e570	215	15	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	217	15	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › GOAL: › Plant Characteristics to Look For:	OK	label over bullets
+book_eng_e343e570	223	15	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › Design Solutions:	OK	label over solution bullets
+book_eng_e343e570	230	16	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › SOLUTION 1	OK	SOLUTION 1 label over 'With Vines' drawings
+book_eng_e343e570	234	16	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › SOLUTION 2	OK	SOLUTION 2 label over drawings
+book_eng_e343e570	238	16	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO E: ALONG FENCES › SOLUTION 3	OK	SOLUTION 3 label over drawings
+book_eng_e343e570	244	17	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES	OK	scenario title (deck in same box)
+book_eng_e343e570	248	17	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES › CHALLENGES:	OK	CHALLENGES: box label over bullets
+book_eng_e343e570	252	17	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	254	17	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES › GOAL: › Plant Characteristics to Look For:	OK	RESOLVED (label printed inside a bullet box, no box of its own; content sits under the previous heading): 'Design Solutions:' label is folded into bullet box #257 (no own box), so its 3 solution bullets fall under this label; cannot be labelled
+book_eng_e343e570	263	18	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES › SOLUTION 1	OK	SOLUTION 1 label over 'Open Canopy' drawings
+book_eng_e343e570	267	18	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO F: UNDER TREES › SOLUTION 2	OK	SOLUTION 2 label over 'Dense Shade' drawings
+book_eng_e343e570	273	19	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO G: UTILITIES	OK	scenario title (deck in same box)
+book_eng_e343e570	277	19	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO G: UTILITIES › CHALLENGES:	OK	CHALLENGES: box label over bullet
+book_eng_e343e570	279	19	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO G: UTILITIES › GOAL:	OK	GOAL: box label over goal text
+book_eng_e343e570	281	19	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO G: UTILITIES › GOAL: › Plant Characteristics to Look For:	OK	label over bullets
+book_eng_e343e570	287	19	The Florida-Friendly Landscaping™ Guide to Plant Selection & Landscape Design › Designing Your Florida-Friendly Landscape › DESIGN SCENARIOS › SCENARIO G: UTILITIES › Design Solutions:	OK	label over solution bullets to end
+book_eng_ea532ac6	2	1	The Devil's Keepsake	OK	cover title; series box and author text; title page p2 repeat; copyright page p3 text
+book_eng_efc51bfb	3	1	How to Marry Keanu Reeves in 90 Days	OK	cover title; bestseller line and author text; p2 cover image, p3 title page repeat, pp4-5 copyright text
+book_eng_f2e8d789	1	1	YOUR MINDPOWER JOURNEY Bringing Belief To Reality	OK	cover title ∪ subtitle in one box; authors text
+book_eng_f2e8d789	4	2	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Table of CONTENTS	OK	'Table of / CONTENTS' title over contents table
+book_eng_f2e8d789	7	3	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Introduction	OK	Introduction title (byline in same box); definitions, client stories, lead-ins text
+book_eng_f2e8d789	61	8	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey	OK	'Chapter 1 / My Mindpower Journey' one box; byline text
+book_eng_f2e8d789	63	8	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › In This Chapter, You'll Learn:	OK	objectives box title over its 4 bullets (box binds own content)
+book_eng_f2e8d789	98	10	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › Re-Envisioning	OK	red section head; hospital story
+book_eng_f2e8d789	124	12	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › The Visualization Exercise	OK	red section head; visualization routine and healing story
+book_eng_f2e8d789	149	14	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › Neurogenesis & Neuroplasticity	OK	red section head; neuroscience text; Did You Know band text
+book_eng_f2e8d789	165	15	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › The 3 Pillars of Mindpower	OK	red section head; intro of the three pillars
+book_eng_f2e8d789	167	15	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › The 3 Pillars of Mindpower › 1 Foundation, as defined by Merriam-Webster, is:	OK	badge 1 ∪ definition label over 3 bullets
+book_eng_f2e8d789	176	16	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › The 3 Pillars of Mindpower › 2 Mental Toughness is defined as:	OK	badge 2 ∪ definition label over 2 bullets
+book_eng_f2e8d789	180	16	YOUR MINDPOWER JOURNEY Bringing Belief To Reality › Chapter 1 My Mindpower Journey › The 3 Pillars of Mindpower › 3 Habit, as defined by Merriam-Webster, is:	OK	badge 3 ∪ definition label; bullets, figure and closing paragraphs (closing-paragraph exception)

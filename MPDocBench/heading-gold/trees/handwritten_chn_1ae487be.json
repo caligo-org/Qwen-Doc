@@ -170,8 +170,8 @@
    ],
    "level": 2,
    "parent": 237,
-   "text": "1. 化合反应",
-   "why": "section: numbered reaction type over its table"
+   "text": "一. 化合反应",
+   "why": "section: numbered reaction type over its table | round 4: page prints \"一.\" (OCR box reads 1.)"
   },
   {
    "boxes": [

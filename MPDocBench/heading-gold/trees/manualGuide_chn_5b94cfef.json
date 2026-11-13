@@ -43,6 +43,15 @@
   },
   {
    "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "根据电子信息产品污染控制管理办法的有毒·有害物质或元素的标识表",
+   "why": "front matter: regulatory table title (in 「」 brackets) over the substance table and the 10-year mark notes on p II, at top-section level beside the other front-matter sections. Path review r4: as text its page fell under 安装注意事项 (not about installation); same treatment as chn_59b90f53 #28."
+  },
+  {
+   "boxes": [
     37
    ],
    "level": 2,
@@ -456,10 +465,6 @@
   }
  ],
  "considered": [
-  {
-   "box": 30,
-   "why": "table title in brackets (regulatory table label): text"
-  },
   {
    "box": 79,
    "why": "thumb-tab chapter index printed on every page: text"

@@ -36,8 +36,8 @@
    ],
    "level": 3,
    "parent": 10,
-   "text": "- 疫情影响逐步消退，2020年第四季度业绩增速显著恢复",
-   "why": "section: own-line subhead under 点评 with its paragraph"
+   "text": "疫情影响逐步消退，2020年第四季度业绩增速显著恢复",
+   "why": "section: own-line subhead under 点评 with its paragraph Round 4: leading bullet glyph '- ' dropped from the text (printed as a bullet mark, not heading words; siblings already drop it)."
   },
   {
    "boxes": [

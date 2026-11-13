@@ -2,22 +2,77 @@
  "_doc": "Breadcrumb-checker flags reviewed on the page by the main session (2026-11-13): each flagged path reads as a consistent breadcrumb; the flag comes from a numbering or front-matter heuristic. Keys: doc -> {node id: reason}. '*' = every flag of that kind in the doc.",
  "FRONT": {
   "_reason": "contents/preface title nested under a section that names it or contains it: '第一节 重要提示、目录和释义 › 目录' (the section title names the contents), 'FORM 10-K … › INDEX' (contents of the embedded filing), '第一节 物权变动 › 序言：…' (opening section of the chapter), 'Preface › Other Boring Stuff › Acknowledgements' (printed as a preface subsection)",
-  "docs": ["annualReport_chn_00114ac3","annualReport_chn_16acace3","annualReport_chn_1737c8bb","annualReport_chn_588028f9","annualReport_chn_679b76a4","annualReport_chn_787462d7","annualReport_chn_7de80556","annualReport_chn_7f487dea","annualReport_chn_b20666fd","annualReport_chn_baa53c78","annualReport_chn_bad1d0cc","annualReport_chn_c8425a15","annualReport_chn_cee67928","annualReport_chn_dbf02372","annualReport_chn_f0e6067b","annualReport_eng_0c770734","annualReport_eng_5a2b9698","annualReport_eng_a7bf8c0c","annualReport_eng_dd7d06a3","book_chn_dd57800f","textBook_eng_a237ffc8"]
+  "docs": [
+   "annualReport_chn_00114ac3",
+   "annualReport_chn_16acace3",
+   "annualReport_chn_1737c8bb",
+   "annualReport_chn_588028f9",
+   "annualReport_chn_679b76a4",
+   "annualReport_chn_787462d7",
+   "annualReport_chn_7de80556",
+   "annualReport_chn_7f487dea",
+   "annualReport_chn_b20666fd",
+   "annualReport_chn_baa53c78",
+   "annualReport_chn_bad1d0cc",
+   "annualReport_chn_c8425a15",
+   "annualReport_chn_cee67928",
+   "annualReport_chn_dbf02372",
+   "annualReport_chn_f0e6067b",
+   "annualReport_eng_0c770734",
+   "annualReport_eng_5a2b9698",
+   "annualReport_eng_a7bf8c0c",
+   "annualReport_eng_dd7d06a3",
+   "book_chn_dd57800f",
+   "textBook_eng_a237ffc8"
+  ]
  },
  "ROOTS": {
   "_reason": "the document prints no title (untitled excerpt, notes, olympiad paper, solution sheet, budget excerpt): its top sections are the top level and each path starts there",
-  "docs": ["book_eng_600ba37c","examPaper_chn_85419d1b","examPaper_chn_99ec4b2c","examPaper_chn_b2d34828","examPaper_chn_d80f262e","examPaper_chn_f672afcf","examPaper_eng_0b2fd078","examPaper_eng_2122d135","examPaper_eng_498d26ee","examPaper_eng_dbf0e536","examPaper_eng_fc1f7054","financialReport_chn_07ebf5d6","financialReport_chn_4b6d76a1","goverment_eng_553a7f3f","handwritten_chn_01fba5b3","handwritten_chn_1ae487be","handwritten_chn_50d71ae2","handwritten_chn_94af97ba","handwritten_chn_a6f48a98","handwritten_chn_d1ec88bb","handwritten_chn_edc60213","manualGuide_chn_51cbdc09"]
+  "docs": [
+   "book_eng_600ba37c",
+   "examPaper_chn_85419d1b",
+   "examPaper_chn_99ec4b2c",
+   "examPaper_chn_b2d34828",
+   "examPaper_chn_d80f262e",
+   "examPaper_chn_f672afcf",
+   "examPaper_eng_0b2fd078",
+   "examPaper_eng_2122d135",
+   "examPaper_eng_498d26ee",
+   "examPaper_eng_dbf0e536",
+   "examPaper_eng_fc1f7054",
+   "financialReport_chn_07ebf5d6",
+   "financialReport_chn_4b6d76a1",
+   "goverment_eng_553a7f3f",
+   "handwritten_chn_01fba5b3",
+   "handwritten_chn_1ae487be",
+   "handwritten_chn_50d71ae2",
+   "handwritten_chn_94af97ba",
+   "handwritten_chn_a6f48a98",
+   "handwritten_chn_d1ec88bb",
+   "handwritten_chn_edc60213",
+   "manualGuide_chn_51cbdc09"
+  ]
  },
  "NUM": {
   "_reason": "the document prints a second 一、二、三 sequence inside an 一、 section; the path '一、报告期内公司从事的主要业务 › 一、To B端业务' is a narrower step",
-  "docs": ["annualReport_chn_588028f9"]
+  "docs": [
+   "annualReport_chn_588028f9"
+  ]
  },
  "DEEP": {
   "_reason": "numbered list items 1.–12. inside section 1.2 (a list numbered within the section, not section numbers): '1.2产品硬件配置 › 1. CPU' is a narrower step",
-  "docs": ["manualGuide_chn_f3fc9a26"]
+  "docs": [
+   "manualGuide_chn_f3fc9a26"
+  ]
  },
  "SEQ": {
   "_reason": "numbering as printed by the document (two consecutive '1.3' slides; '2、' printed twice; handwritten notes restart their numbering or skip an item; photos out of notebook order); each path itself is a narrower step",
-  "docs": ["pptSlides_chn_746216ac","manualGuide_chn_894ac6ec","handwritten_chn_a6f48a98","handwritten_chn_edc60213"]
+  "docs": [
+   "pptSlides_chn_746216ac",
+   "manualGuide_chn_894ac6ec",
+   "handwritten_chn_a6f48a98",
+   "handwritten_chn_edc60213",
+   "book_chn_69dd792e"
+  ]
  }
 }

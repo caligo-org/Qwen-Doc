@@ -1,0 +1,347 @@
+doc	node	page	path	verdict	note
+prospectus_chn_15fc0f65	2	1	湖南航天环宇通信科技股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…招股说明书
+prospectus_chn_15fc0f65	16	2	湖南航天环宇通信科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重要声明	OK	centred title, two declaration paragraphs
+prospectus_chn_15fc0f65	22	3	湖南航天环宇通信科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_15fc0f65	27	4	湖南航天环宇通信科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC pages 3-7
+prospectus_chn_212f97dc	3	1	安邦护卫集团股份有限公司 首次公开发行股票并在主板上市招股说明书	OK	cover: issuer name + 首次公开发行…主板上市招股说明书
+prospectus_chn_212f97dc	12	2	安邦护卫集团股份有限公司 首次公开发行股票并在主板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_212f97dc	18	3	安邦护卫集团股份有限公司 首次公开发行股票并在主板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_212f97dc	23	4	安邦护卫集团股份有限公司 首次公开发行股票并在主板上市招股说明书 › 目录	OK	centred 目录 title, TOC pages 4-6
+prospectus_chn_30f024e2	4	1	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…科创板上市招股说明书
+prospectus_chn_30f024e2	14	2	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_30f024e2	19	3	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重要声明	OK	centred title, declaration paragraphs
+prospectus_chn_30f024e2	30	4	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示	OK	centred title, notice + 一、二、三、 sections p4-7
+prospectus_chn_30f024e2	32	4	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 一、有关本次发行的相关重要承诺说明	OK	bold 一、 line + commitment paragraph
+prospectus_chn_30f024e2	34	4	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素	OK	bold 二、 line + intro, risk items （一）-（六）
+prospectus_chn_30f024e2	36	4	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （一）公司产品单一，主要应用于气象领域，且采购周期较长，价格相较于X波段传统雷达较高，目前公司产品尚未受到中国气象局的大规模部署，主要依靠于各地气象局推动建设，市场空间受行业政策和各级财政预算影响较大	OK	bold （一） risk statement + paragraph
+prospectus_chn_30f024e2	38	4	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （二）报告期内公司产品销售区域集中，主要在广东省内，销售区域和新客户的拓展面临较大压力	OK	bold （二） risk statement + paragraph
+prospectus_chn_30f024e2	44	5	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （三）相控阵雷达应用在民用领域尚处于起步阶段，同行业老牌企业在资金、研发等方面更具综合优势，随着其他相控阵雷达生产企业逐步进入气象探测等民用领域，公司将面临更多的市场竞争，公司高的毛利率将难以维持	OK	bold （三） risk statement + paragraph
+prospectus_chn_30f024e2	46	5	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （四）公司的客户主要为政府部门或事业单位，受财政预算管理、采购制度、产品验收等因素的影响，公司上半年在手订单较少，收入确认季节性明显，主要集中在12月份	OK	bold （四） risk statement + paragraphs
+prospectus_chn_30f024e2	49	5	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （五）公司产品在其他应用领域尚待培育和推广	OK	bold （五） line + paragraph
+prospectus_chn_30f024e2	55	6	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 二、特别风险因素 › （六）应收账款回收	OK	bold （六） line + paragraph
+prospectus_chn_30f024e2	57	6	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 三、财务报告审计截止日后主要经营情况	OK	bold 三、 line + intro, （一）（二）
+prospectus_chn_30f024e2	59	6	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 三、财务报告审计截止日后主要经营情况 › （一）2022年公司经营情况	OK	bold （一） line + text and table
+prospectus_chn_30f024e2	69	7	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 重大事项提示 › 三、财务报告审计截止日后主要经营情况 › （二）2023年一季度公司预计经营情况	OK	bold （二） line + forecast paragraphs
+prospectus_chn_30f024e2	75	8	广东纳睿雷达科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p8
+prospectus_chn_4aa05674	3	1	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…科创板上市招股说明书
+prospectus_chn_4aa05674	13	2	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 声明	OK	centred 声明 title, two paragraphs
+prospectus_chn_4aa05674	19	3	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_4aa05674	24	4	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-7
+prospectus_chn_4aa05674	41	8	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第一节 释义	OK	centred 第一节 title, lead-in + 一、二、 tables p8-12
+prospectus_chn_4aa05674	43	8	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第一节 释义 › 一、一般术语	OK	bold 一、 line + definitions table p8-10
+prospectus_chn_4aa05674	57	11	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第一节 释义 › 二、专业术语	OK	bold 二、 line + terms table p10-12
+prospectus_chn_4aa05674	71	14	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第二节 概览	OK	centred 第二节 title, intro + 一、
+prospectus_chn_4aa05674	73	14	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第二节 概览 › 一、重大事项提示	OK	bold 一、 line + intro, risk items （一）（二）
+prospectus_chn_4aa05674	76	14	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第二节 概览 › 一、重大事项提示 › （一）发行人行业经验及影响力、市场占有率、经营规模等方面和行业龙头存在差距的风险	OK	bold （一） risk statement + paragraphs
+prospectus_chn_4aa05674	79	14	安徽芯动联科微系统股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第二节 概览 › 一、重大事项提示 › （二）关联交易占比较高的风险	OK	bold （二） risk statement + paragraph
+prospectus_chn_5a8c16de	4	1	武汉逸飞激光股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行股票并在科创板上市招股说明书
+prospectus_chn_5a8c16de	13	2	武汉逸飞激光股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_5a8c16de	19	3	武汉逸飞激光股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 发行概况	OK	centred title, offering table
+prospectus_chn_5a8c16de	24	4	武汉逸飞激光股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-5
+prospectus_chn_5da38fd1	1	1	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书	OK	cover: issuer name + 首次公开发行…主板上市招股说明书
+prospectus_chn_5da38fd1	12	2	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_5da38fd1	18	3	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明	OK	centred title, 一、-四、 sections + chairman signature p3-5
+prospectus_chn_5da38fd1	19	3	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 一、发行人上市的目的	OK	一、 line + three paragraphs
+prospectus_chn_5da38fd1	23	3	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 二、发行人现代企业制度的建立健全情况	OK	二、 line + two paragraphs
+prospectus_chn_5da38fd1	29	4	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 三、发行人本次融资的必要性及募集资金使用规划	OK	三、 line, 1、 2、 below
+prospectus_chn_5da38fd1	30	4	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 三、发行人本次融资的必要性及募集资金使用规划 › 1、公司本次融资的必要性	OK	1、 line + three paragraphs
+prospectus_chn_5da38fd1	34	4	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 三、发行人本次融资的必要性及募集资金使用规划 › 2、公司募集资金使用规划	OK	2、 line + paragraph
+prospectus_chn_5da38fd1	36	4	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 四、发行人持续经营能力及未来发展规划	OK	四、 line, 1、 2、 below
+prospectus_chn_5da38fd1	37	4	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 四、发行人持续经营能力及未来发展规划 › 1、公司持续经营能力	OK	1、 line + paragraphs p4-5
+prospectus_chn_5da38fd1	43	5	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 致投资者的声明 › 四、发行人持续经营能力及未来发展规划 › 2、公司的未来发展规划	OK	2、 line + paragraph, then signature
+prospectus_chn_5da38fd1	51	6	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_5da38fd1	56	7	包头天和磁材科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 目录	OK	centred 目录 title, TOC p7-9
+prospectus_chn_87fe5712	1	1	福建南方路面机械股份有限公司 首次公开发行股票招股说明书	OK	cover: issuer name + 首次公开发行股票招股说明书
+prospectus_chn_87fe5712	12	2	福建南方路面机械股份有限公司 首次公开发行股票招股说明书 › 发行概况	OK	centred title, offering table p2-3
+prospectus_chn_87fe5712	21	4	福建南方路面机械股份有限公司 首次公开发行股票招股说明书 › 发行人声明	OK	centred title, declaration paragraphs
+prospectus_chn_9f9de8c8	2	1	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…科创板上市招股说明书
+prospectus_chn_9f9de8c8	13	2	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_9f9de8c8	19	3	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_9f9de8c8	24	4	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-7
+prospectus_chn_9f9de8c8	41	8	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第一节 释义	OK	centred 第一节 title, lead-in + 一、 table
+prospectus_chn_9f9de8c8	43	8	常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 第一节 释义 › 一、一般释义	OK	bold 一、 line + definitions table
+prospectus_chn_b3199fd6	1	1	宁波索宝蛋白科技股份有限公司 首次公开发行股票并在主板上市招股说明书	OK	cover: issuer name + 首次公开发行…主板上市招股说明书
+prospectus_chn_b3199fd6	12	2	宁波索宝蛋白科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_b3199fd6	18	3	宁波索宝蛋白科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_b3199fd6	23	4	宁波索宝蛋白科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-6
+prospectus_chn_c52dcb3a	2	1	北京航空材料研究院股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…科创板上市招股说明书
+prospectus_chn_c52dcb3a	13	2	北京航空材料研究院股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_c52dcb3a	19	3	北京航空材料研究院股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_c52dcb3a	24	4	北京航空材料研究院股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-7
+prospectus_chn_cf5aeb95	3	1	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书	OK	cover: issuer name + 首次公开发行股票招股说明书
+prospectus_chn_cf5aeb95	12	2	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_cf5aeb95	17	3	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 发行人声明	OK	centred title, declaration paragraphs
+prospectus_chn_cf5aeb95	27	4	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示	OK	centred title, notice + 一、二、三、 p4-12
+prospectus_chn_cf5aeb95	29	4	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺	OK	bold 一、 lock-up commitments line, （一）-（七）
+prospectus_chn_cf5aeb95	30	4	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （一）实际控制人项瞻波、王小红夫妇及控股股东联拓控股承诺	OK	bold （一） line + numbered commitment paragraphs
+prospectus_chn_cf5aeb95	39	5	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （二）实际控制人项瞻波、王小红的亲属王宝光、项有智、王秀云、王桂芬、王莲钗、张作晓、王奕仁、王馨禾、王红专、王侃、吴丽芬、项光华、项怀獬、项小霞、孙作席及联宏合伙承诺	OK	bold （二） line + commitment paragraphs
+prospectus_chn_cf5aeb95	48	6	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （三）持股 5%以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺	OK	bold （三） line + commitment paragraphs
+prospectus_chn_cf5aeb95	51	6	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （四）最近一年新增股东国发新兴二期、高投毅达、招商招银、永达资产、中银资本、方源创盈、国发盈辰、国发盈嘉承诺	OK	bold （四） line + commitment paragraphs
+prospectus_chn_cf5aeb95	54	6	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （五）间接持有公司股份的董事、高级管理人员林俊义、缪克汤、项有和、李利、谢龙锐承诺	OK	bold （五） line + commitment paragraphs
+prospectus_chn_cf5aeb95	62	7	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （六）间接持有公司股份的监事梁小龙、陈瑾琨承诺	OK	bold （六） line + commitment paragraphs
+prospectus_chn_cf5aeb95	70	8	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺 › （七）其他股东联恒合伙、联拓合伙、联发合伙、王永昌承诺	OK	bold （七） line + commitment paragraphs
+prospectus_chn_cf5aeb95	74	8	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 二、发行前持股 5% 以上股东的持股意向及减持意向	FIXED	"bold 二、 line, （一）（二）; text was LaTeX ""\(5\%\)"", page prints 5%"
+prospectus_chn_cf5aeb95	75	8	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 二、发行前持股 5% 以上股东的持股意向及减持意向 › （一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 5% 以上股东王宝光承诺	FIXED	"bold （一） line + paragraphs; text was LaTeX ""\(5\%\)"", page prints 5%"
+prospectus_chn_cf5aeb95	82	9	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 二、发行前持股 5% 以上股东的持股意向及减持意向 › （二）持股 5% 以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺	OK	bold （二） line + paragraphs
+prospectus_chn_cf5aeb95	85	9	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺	OK	bold 三、 line + intro, （一）-（四）
+prospectus_chn_cf5aeb95	87	9	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （一）启动股价稳定措施的具体条件	OK	bold （一） line + paragraph
+prospectus_chn_cf5aeb95	89	9	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （二）稳定股价的具体措施和程序	OK	bold （二） line + measures list
+prospectus_chn_cf5aeb95	98	10	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （三）股价稳定措施的具体实施方案	OK	bold （三） line, 1、2、3、 below
+prospectus_chn_cf5aeb95	99	10	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （三）股价稳定措施的具体实施方案 › 1、公司实施股票回购	OK	bold 1、 line + paragraphs
+prospectus_chn_cf5aeb95	105	10	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （三）股价稳定措施的具体实施方案 › 2、控股股东、实际控制人增持公司股份	OK	bold 2、 line + paragraphs
+prospectus_chn_cf5aeb95	116	11	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （三）股价稳定措施的具体实施方案 › 3、公司非独立董事、高级管理人员增持公司股份	OK	bold 3、 line + paragraphs (4、 rule sentence stays text)
+prospectus_chn_cf5aeb95	130	12	宿迁联盛科技股份有限公司 首次公开发行股票招股说明书 › 重大事项提示 › 三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺 › （四）发行人、控股股东、实际控制人、董事及高级管理人员关于稳定股价的承诺	OK	bold （四） line + commitment paragraphs
+prospectus_chn_dac1e5e9	3	1	柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书	OK	cover: issuer name + 首次公开发行…主板上市招股说明书
+prospectus_chn_dac1e5e9	15	2	柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 发行人声明	OK	centred title, two declaration paragraphs
+prospectus_chn_dac1e5e9	21	3	柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 本次发行概况	OK	centred title, offering table
+prospectus_chn_dac1e5e9	26	4	柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-6
+prospectus_chn_fd769c1b	4	1	成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书	OK	cover: issuer name + 首次公开发行…科创板上市招股说明书
+prospectus_chn_fd769c1b	14	2	成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 声明	OK	centred 声明 title, two paragraphs
+prospectus_chn_fd769c1b	20	3	成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 发行概况	OK	centred title, offering table
+prospectus_chn_fd769c1b	25	4	成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书 › 目录	OK	centred 目录 title, TOC p4-5
+prospectus_eng_01db2dde	1	1	RICHELIEU BOND Prospectus	OK	cover: fund name + Prospectus September 2015 (date in same box)
+prospectus_eng_01db2dde	12	3	RICHELIEU BOND Prospectus › WARNING	OK	own-line WARNING, notice paragraphs p3-5
+prospectus_eng_01db2dde	41	6	RICHELIEU BOND Prospectus › TABLE OF CONTENTS	OK	TABLE OF CONTENTS title, TOC + note p6-7
+prospectus_eng_01db2dde	49	8	RICHELIEU BOND Prospectus › ORGANISATION	OK	ORGANISATION title, directory table p8-9
+prospectus_eng_01db2dde	56	10	RICHELIEU BOND Prospectus › PART I - GENERAL INFORMATION	OK	PART I banner, chapter 1.
+prospectus_eng_01db2dde	58	10	RICHELIEU BOND Prospectus › PART I - GENERAL INFORMATION › 1. THE SICAV	OK	1. THE SICAV + paragraphs p10-11
+prospectus_eng_01db2dde	29	4	RICHELIEU BOND Prospectus › WARNING › Handling of data	REMOVED	own-line label; KIID/subscription paragraphs p5 would fall under it (containment)
+prospectus_eng_0ec528dd	1	1	Kapitalfonds L.K. Prospectus including fund management regulations	OK	cover: fund name + Prospectus including fund management regulations
+prospectus_eng_0ec528dd	6	2	Kapitalfonds L.K. Prospectus including fund management regulations › Contents	OK	Contents title, TOC p2-3
+prospectus_eng_241e405e	2	1	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS	OK	cover: PROSPECTUS + FRANKLIN TEMPLETON INVESTMENT FUNDS
+prospectus_eng_241e405e	15	3	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › FRANKLIN TEMPLETON INVESTMENT FUNDS -IMPORTANT INFORMATION	OK	IMPORTANT INFORMATION banner, notice paragraphs p3-4
+prospectus_eng_241e405e	17	3	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › FRANKLIN TEMPLETON INVESTMENT FUNDS -IMPORTANT INFORMATION › The Company	OK	own-line subhead; Company status, notices, US persons, data p3-4 (now also #41-#51)
+prospectus_eng_241e405e	52	5	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › CONTENTS	OK	CONTENTS title, TOC p5
+prospectus_eng_241e405e	54	6	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › DEFINITIONS	OK	DEFINITIONS title, defined terms p6-7
+prospectus_eng_241e405e	120	8	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION	OK	ADMINISTRATION INFORMATION title, directory p8-10
+prospectus_eng_241e405e	121	8	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › CHAIRMAN:	OK	label + chairman entry
+prospectus_eng_241e405e	123	8	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › DIRECTORS:	OK	label + director entries
+prospectus_eng_241e405e	135	8	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › CONDUCTING OFFICERS:	OK	label + officer entries
+prospectus_eng_241e405e	138	8	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › INVESTMENT MANAGERS:	OK	label + investment manager entries p8-9
+prospectus_eng_241e405e	149	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › PRINCIPAL DISTRIBUTOR:	OK	label + distributor entry
+prospectus_eng_241e405e	151	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › DISTRIBUTION CONTROLLER:	OK	label + controller entry
+prospectus_eng_241e405e	153	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › DISTRIBUTORS, REPRESENTATIVES AND CONSULTANTS:	OK	label + distributor entries
+prospectus_eng_241e405e	164	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › CUSTODIAN:	OK	label + custodian entry
+prospectus_eng_241e405e	166	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › REGISTRAR AND TRANSFER, CORPORATE, DOMICILIARY AND ADMINISTRATIVE AGENT:	OK	label + agent entry
+prospectus_eng_241e405e	168	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › AUDITORS:	OK	label + auditor entry
+prospectus_eng_241e405e	170	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › LEGAL ADVISERS:	OK	label + adviser entry
+prospectus_eng_241e405e	172	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › LISTING AGENT:	OK	label + listing agent entry
+prospectus_eng_241e405e	174	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › PRINCIPAL PAYING AGENT:	OK	label + paying agent entry
+prospectus_eng_241e405e	176	9	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › LOCAL PAYING AGENTS:	OK	label + local paying agents by country p9-10
+prospectus_eng_241e405e	200	10	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › LOCAL FINANCIAL SERVICES AGENTS:	OK	label + agents by country
+prospectus_eng_241e405e	204	10	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › REGISTERED OFFICE:	OK	label + office address
+prospectus_eng_241e405e	206	10	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › ADMINISTRATION INFORMATION › Contact Details:	OK	label + contact lines; next is FUND INFORMATION
+prospectus_eng_241e405e	210	11	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › FUND INFORMATION, OBJECTIVES AND INVESTMENT POLICIES	OK	section banner, general paragraphs + funds p11
+prospectus_eng_241e405e	219	11	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › FUND INFORMATION, OBJECTIVES AND INVESTMENT POLICIES › FRANKLIN ASIAN FLEX CAP FUND	OK	fund name + fact block (run-in labels)
+prospectus_eng_241e405e	40	4	PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS › FRANKLIN TEMPLETON INVESTMENT FUNDS -IMPORTANT INFORMATION › Board of Directors' Powers	REMOVED	own-line label; general notices #47-#51 (share offer, segregation, translations, availability) would fall under it
+prospectus_eng_29c1e521	2	1	Prospectus SEB Concept Biotechnology	OK	cover: one box Prospectus + fund name
+prospectus_eng_29c1e521	5	2	Prospectus SEB Concept Biotechnology › Important information	OK	own-line title, notice paragraphs
+prospectus_eng_29c1e521	14	3	Prospectus SEB Concept Biotechnology › Glossary of terms	OK	own-line title, glossary table p3-4
+prospectus_eng_29c1e521	20	5	Prospectus SEB Concept Biotechnology › TABLE OF CONTENTS	OK	TABLE OF CONTENTS title, TOC p5
+prospectus_eng_36d76993	2	1	Prospectus SEB SICAV 2	OK	cover: one box Prospectus + SEB SICAV 2
+prospectus_eng_36d76993	12	2	Prospectus SEB SICAV 2 › Important information	OK	own-line title, notice paragraphs
+prospectus_eng_36d76993	20	3	Prospectus SEB SICAV 2 › Glossary of terms	OK	own-line title, glossary table p3-5
+prospectus_eng_36d76993	28	6	Prospectus SEB SICAV 2 › TABLE OF CONTENTS	OK	TABLE OF CONTENTS title, TOC p6
+prospectus_eng_36d76993	31	7	Prospectus SEB SICAV 2 › I. The Fund	OK	part banner I. The Fund
+prospectus_eng_36d76993	32	7	Prospectus SEB SICAV 2 › I. The Fund › 1. General information	OK	numbered section + paragraphs
+prospectus_eng_36d76993	42	8	Prospectus SEB SICAV 2 › I. The Fund › 2. Involved parties	OK	numbered section, 2.1 below
+prospectus_eng_36d76993	43	8	Prospectus SEB SICAV 2 › I. The Fund › 2. Involved parties › 2.1. Presentation of involved parties	OK	numbered subsection + parties table p8-9
+prospectus_eng_4da61756	1	1	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations	OK	cover: fund name + Sales Prospectus with Management Regulations
+prospectus_eng_4da61756	14	3	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › TABLE OF CONTENTS	OK	banner title, TOC p3
+prospectus_eng_4da61756	16	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS	OK	part banner, repeated as running head p6-10
+prospectus_eng_4da61756	17	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 1. The Fund	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	27	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy	OK	numbered chapter, sub-fund heads below
+prospectus_eng_4da61756	28	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy › Bantleon Return	OK	sub-fund name + policy + duration line
+prospectus_eng_4da61756	31	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy › Bantleon Yield	OK	sub-fund name + policy + duration line
+prospectus_eng_4da61756	34	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy › Bantleon Strategie	OK	sub-fund name + policy + duration line
+prospectus_eng_4da61756	37	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy › Bantleon Trend	OK	sub-fund name + policy + duration line
+prospectus_eng_4da61756	40	4	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 2. Investment Policy › Bantleon Dynamic	OK	sub-fund name + policy + duration line p4-5
+prospectus_eng_4da61756	46	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning	OK	numbered chapter, risk subheads below
+prospectus_eng_4da61756	47	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › General	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	51	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Risk Management	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	53	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Leverage	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	57	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Market Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	59	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Interest Rate Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	62	5	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Credit Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	67	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Counter Party Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	69	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Concentration Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	71	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Country or Transfer Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	73	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Custody Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	75	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Political Risk/Regulatory Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	77	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Inflation Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	79	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Key Persons Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	81	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Change in Investment Policy	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	83	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Change of Management Regulations; Dissolution or Merger	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	85	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Liquidity Risk	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	87	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Risks Associated with Derivative Transactions	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	91	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 3. Risk Warning › Risk of Increased Sales	OK	underlined risk subhead + paragraph(s)
+prospectus_eng_4da61756	93	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 4. Investor Profile	OK	numbered chapter + paragraph
+prospectus_eng_4da61756	95	6	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 5. The Management Company	OK	numbered chapter + paragraphs p6-7
+prospectus_eng_4da61756	102	7	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 6. The Depositary Bank	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	105	7	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 7. Management and Transfer Agent	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	108	7	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 8. Prevention of Money Laundering	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	115	7	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 9. Shares	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	123	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 10. Share Prices	OK	numbered chapter + paragraph
+prospectus_eng_4da61756	125	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment	OK	numbered chapter + paragraphs, two surcharge labels
+prospectus_eng_4da61756	128	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment › Shares of the classes »PA« and »PT«	FIXED	label + surcharge table; text was LaTeX, page prints »PA« and »PT«
+prospectus_eng_4da61756	130	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 11. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment › Shares of the classes »IA« and »IT«	FIXED	label + surcharge table; text was LaTeX, page prints »IA« and »IT«
+prospectus_eng_4da61756	132	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 12. Charges and Fees	OK	numbered chapter + fee paragraphs and list
+prospectus_eng_4da61756	153	8	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 13. Further Notes	OK	numbered chapter + notes incl. tax p8-9
+prospectus_eng_4da61756	164	9	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 14. Publications and Information	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	167	9	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 15. The Management Regulations	OK	numbered chapter + paragraph
+prospectus_eng_4da61756	169	9	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › 16. Combating Market Timing and Late Trading Activities	OK	numbered chapter + paragraphs
+prospectus_eng_4da61756	174	10	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › FUND OVERVIEW	OK	banner section + fund table p10
+prospectus_eng_4da61756	178	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION	OK	section title, role labels below p11
+prospectus_eng_4da61756	179	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Management Company	OK	role label + company and board entries
+prospectus_eng_4da61756	186	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Investment Manager	OK	role label + entry
+prospectus_eng_4da61756	188	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Depository Bank	OK	role label + entry
+prospectus_eng_4da61756	190	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Management and Transfer Agent	OK	role label + entry
+prospectus_eng_4da61756	192	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Auditor of the Management Company and the Fund	OK	role label + entry
+prospectus_eng_4da61756	194	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Paying Agents	OK	role label + paying agents by country
+prospectus_eng_4da61756	201	11	BANTLEON ANLEIHENFONDS Sales Prospectus with Management Regulations › SALES PROSPECTUS › MANAGEMENT AND ADMINISTRATION › Distributors	OK	role label + distributors; end of document
+prospectus_eng_51f57153	1	1	Man Umbrella SICAV Prospectus	OK	cover: Man Umbrella SICAV + Prospectus
+prospectus_eng_51f57153	18	2	Man Umbrella SICAV Prospectus › Important notices	OK	own-line title, notices + document list
+prospectus_eng_51f57153	34	3	Man Umbrella SICAV Prospectus › Table of contents	OK	own-line title, TOC p3
+prospectus_eng_51f57153	38	4	Man Umbrella SICAV Prospectus › Administration	OK	section title, directory p4-5
+prospectus_eng_51f57153	39	4	Man Umbrella SICAV Prospectus › Administration › Board of Directors	OK	label, Chairman / Board members below
+prospectus_eng_51f57153	40	4	Man Umbrella SICAV Prospectus › Administration › Board of Directors › Chairman	OK	role label + entry
+prospectus_eng_51f57153	42	4	Man Umbrella SICAV Prospectus › Administration › Board of Directors › Board members	OK	role label + entries
+prospectus_eng_51f57153	45	4	Man Umbrella SICAV Prospectus › Administration › Management Company	OK	label + company entry, roles below
+prospectus_eng_51f57153	47	4	Man Umbrella SICAV Prospectus › Administration › Management Company › Chairman	OK	role label + entry
+prospectus_eng_51f57153	49	4	Man Umbrella SICAV Prospectus › Administration › Management Company › Board members	OK	role label + entries
+prospectus_eng_51f57153	54	4	Man Umbrella SICAV Prospectus › Administration › Management Company › Conducting Officers	OK	role label + entries
+prospectus_eng_51f57153	57	4	Man Umbrella SICAV Prospectus › Administration › Registered Office of the Fund	OK	label + address
+prospectus_eng_51f57153	59	4	Man Umbrella SICAV Prospectus › Administration › Central Administrative Agent	OK	label + entry
+prospectus_eng_51f57153	63	5	Man Umbrella SICAV Prospectus › Administration › Investment Managers	OK	label + three manager entries
+prospectus_eng_51f57153	67	5	Man Umbrella SICAV Prospectus › Administration › Registrar and Transfer Agent	OK	label + entry
+prospectus_eng_51f57153	69	5	Man Umbrella SICAV Prospectus › Administration › Custodian Bank	OK	label + entry
+prospectus_eng_51f57153	71	5	Man Umbrella SICAV Prospectus › Administration › Auditors	OK	label + entry
+prospectus_eng_51f57153	73	5	Man Umbrella SICAV Prospectus › Administration › Legal Advisers in Luxembourg	OK	label + entry; next is The Fund p6
+prospectus_eng_51f57153	77	6	Man Umbrella SICAV Prospectus › The Fund	OK	section title, paragraphs p6-7
+prospectus_eng_51f57153	92	7	Man Umbrella SICAV Prospectus › The Fund › Man Sub-Funds:	OK	bold label + bullet list of sub-funds
+prospectus_eng_51f57153	99	7	Man Umbrella SICAV Prospectus › The Fund › Man AHL Sub-Funds:	OK	bold label + bullet list
+prospectus_eng_51f57153	102	7	Man Umbrella SICAV Prospectus › The Fund › GLG Sub-Funds:	OK	bold label + bullet; OPEN: next paragraph #104 (investment policy of all sub-funds) falls under it; kept by analogy to the numbered-list closing-paragraph exception, but this label list is not numbered
+prospectus_eng_51f57153	105	7	Man Umbrella SICAV Prospectus › Management	OK	section title p7-9
+prospectus_eng_51f57153	106	7	Man Umbrella SICAV Prospectus › Management › Board of Directors and senior management	OK	label + paragraph
+prospectus_eng_51f57153	108	7	Man Umbrella SICAV Prospectus › Management › Management Company	OK	label + paragraphs p7-8
+prospectus_eng_51f57153	127	9	Man Umbrella SICAV Prospectus › Management › Investment Managers	OK	label + paragraph, managers below
+prospectus_eng_51f57153	129	9	Man Umbrella SICAV Prospectus › Management › Investment Managers › Man Investments (CH) AG	OK	manager name + paragraphs
+prospectus_eng_51f57153	135	9	Man Umbrella SICAV Prospectus › Management › Investment Managers › Man Investments Ltd.	OK	manager name + paragraph
+prospectus_eng_51f57153	137	9	Man Umbrella SICAV Prospectus › Management › Investment Managers › GLG Partners LP	OK	manager name + paragraph; document ends
+prospectus_eng_60d1e00b	2	1	Credit Suisse Equity Fund (Lux) Sales Prospectus	OK	cover: fund name + Sales Prospectus (date separate)
+prospectus_eng_60d1e00b	7	2	Credit Suisse Equity Fund (Lux) Sales Prospectus › Contents	OK	Contents title, TOC p2
+prospectus_eng_60d1e00b	11	3	Credit Suisse Equity Fund (Lux) Sales Prospectus › 1. Information for Prospective Investors	OK	numbered chapter + notice paragraphs
+prospectus_eng_60d1e00b	25	4	Credit Suisse Equity Fund (Lux) Sales Prospectus › 2. Credit Suisse Equity Fund (Lux) - Summary of Unit Classes (1)	OK	numbered chapter + unit class tables and notes p4-7
+prospectus_eng_60d1e00b	48	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 3. The Fund	OK	numbered chapter + paragraphs
+prospectus_eng_60d1e00b	60	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles	OK	numbered chapter, general subheads + fund groups p8-10
+prospectus_eng_60d1e00b	61	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Investment Objective	OK	bold subhead + paragraph
+prospectus_eng_60d1e00b	63	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Investment Policy	OK	bold subhead + paragraphs
+prospectus_eng_60d1e00b	69	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › General Investment Suitability	OK	bold subhead + paragraphs
+prospectus_eng_60d1e00b	72	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Risk Profile	OK	bold subhead + paragraph
+prospectus_eng_60d1e00b	74	8	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Reference Currency	OK	bold subhead + paragraph
+prospectus_eng_60d1e00b	76	8	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Developed Markets"""	OK	larger fund-group head + intro, funds below
+prospectus_eng_60d1e00b	78	8	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Developed Markets"" › Credit Suisse Equity Fund (Lux) European Blue Chips Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	80	8	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Developed Markets"" › Credit Suisse Equity Fund (Lux) Italy"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	82	8	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Developed Markets"" › Credit Suisse Equity Fund (Lux) Japan Megatrend Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	85	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Developed Markets"" › Credit Suisse Equity Fund (Lux) USA"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	87	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Small and Mid Caps"""	OK	fund-group head + intro, funds below
+prospectus_eng_60d1e00b	89	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Small and Mid Caps"" › Credit Suisse Equity Fund (Lux) Small and Mid Cap Germany"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	92	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Small and Mid Caps"" › Credit Suisse Equity Fund (Lux) Small and Mid Cap Europe"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	95	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Small and Mid Caps"" › Credit Suisse Equity Fund (Lux) Small Cap Japan Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	98	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Country and Regional Funds - ""Small and Mid Caps"" › Credit Suisse Equity Fund (Lux) Small Cap USA"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	101	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"""	OK	fund-group head + intro and notes, funds below
+prospectus_eng_60d1e00b	106	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Asian Tigers Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	108	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Brazil"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	110	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Convergence Europe Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	114	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Eastern Europe Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	118	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Emerging Markets Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	120	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Greater China Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	122	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Latin America Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	124	9	"Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global and Regional Funds - ""Developing Markets"" › Credit Suisse Equity Fund (Lux) Russia Explorer Aberdeen"	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	128	9	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds	OK	fund-group head + intro and notes, funds below
+prospectus_eng_60d1e00b	137	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Future Energy Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	140	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Global Biotech Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	144	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Global Communications Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	148	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Global InfoTech Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	152	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Global Prestige	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	155	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Global Resources Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	158	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Global Sector Funds › Credit Suisse Equity Fund (Lux) Infrastructure Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	162	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Real estate equity funds	OK	fund-group head + intro, funds below
+prospectus_eng_60d1e00b	165	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Real estate equity funds › Credit Suisse Equity Fund (Lux) Asian Property Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	173	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Real estate equity funds › Credit Suisse Equity Fund (Lux) European Property	OK	bold fund name + policy paragraphs
+prospectus_eng_60d1e00b	179	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Other Equity Funds	OK	fund-group head, fund below
+prospectus_eng_60d1e00b	180	10	Credit Suisse Equity Fund (Lux) Sales Prospectus › 4. Investment Principles › Other Equity Funds › Credit Suisse Equity Fund (Lux) Dividend Europe Aberdeen	OK	bold fund name + policy paragraphs
+prospectus_eng_613dbac9	1	1	EAST CAPITAL (LUX) PROSPECTUS	OK	cover: EAST CAPITAL (LUX) + PROSPECTUS (date in same box)
+prospectus_eng_613dbac9	7	2	EAST CAPITAL (LUX) PROSPECTUS › NOTE TO THE READERS	OK	spaced title, notes p2-4
+prospectus_eng_613dbac9	33	5	EAST CAPITAL (LUX) PROSPECTUS › CONTENTS	OK	CONTENTS title, TOC p5-6
+prospectus_eng_613dbac9	14	2	EAST CAPITAL (LUX) PROSPECTUS › NOTE TO THE READERS › United States	REMOVED	own-line label; with Data Protection text, data-protection paragraphs would fall under it
+prospectus_eng_613dbac9	22	3	EAST CAPITAL (LUX) PROSPECTUS › NOTE TO THE READERS › Data Protection	REMOVED	own-line label; business-day definition and Directors responsibility (p4) would fall under it
+prospectus_eng_bab1780c	1	1	JULIUS BAER MULTISTOCK PROSPECTUS	OK	cover: JULIUS BAER MULTISTOCK + PROSPECTUS
+prospectus_eng_bab1780c	10	3	JULIUS BAER MULTISTOCK PROSPECTUS › TABLE OF CONTENTS	OK	small-caps title, TOC p3-4
+prospectus_eng_bab1780c	17	5	JULIUS BAER MULTISTOCK PROSPECTUS › 1. INTRODUCTION	OK	numbered chapter + paragraphs, subfund table, notices p5-7
+prospectus_eng_cc0c7019	1	1	ODDO FUNDS Prospectus	OK	cover: ODDO FUNDS + Prospectus
+prospectus_eng_cc0c7019	7	2	ODDO FUNDS Prospectus › TABLE OF CONTENTS	OK	small-caps title, TOC p2
+prospectus_eng_cc0c7019	10	3	ODDO FUNDS Prospectus › ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY	OK	underlined title, German notices p3
+prospectus_eng_cc0c7019	27	4	ODDO FUNDS Prospectus › GENERAL PRESENTATION OF THE PROSPECTUS	OK	small-caps section, three subsections p4-5
+prospectus_eng_cc0c7019	28	4	ODDO FUNDS Prospectus › GENERAL PRESENTATION OF THE PROSPECTUS › INTRODUCTION	OK	ruled subhead + paragraphs and reminders
+prospectus_eng_cc0c7019	38	4	ODDO FUNDS Prospectus › GENERAL PRESENTATION OF THE PROSPECTUS › REQUEST INFORMATION	OK	ruled subhead + two address blocks
+prospectus_eng_cc0c7019	42	5	ODDO FUNDS Prospectus › GENERAL PRESENTATION OF THE PROSPECTUS › NB	OK	ruled subhead + notice paragraphs
+prospectus_eng_cc0c7019	48	6	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS	OK	Book I banner p6-9
+prospectus_eng_cc0c7019	49	6	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS	OK	centred subhead, role labels below p6-7
+prospectus_eng_cc0c7019	50	6	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › The Company	OK	role label + address
+prospectus_eng_cc0c7019	52	6	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › The Board of Directors	OK	role label + board entries
+prospectus_eng_cc0c7019	58	6	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › Designated Management Company	OK	role label + entry
+prospectus_eng_cc0c7019	61	7	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › Custodian Bank and Paying Agent	OK	role label + entry
+prospectus_eng_cc0c7019	63	7	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › Central Administration Agent, Registrar and Transfer Agent	OK	role label + entry
+prospectus_eng_cc0c7019	65	7	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › CONTACTS › Auditors	OK	role label + entry; next is LEGAL STRUCTURE p8
+prospectus_eng_cc0c7019	68	8	ODDO FUNDS Prospectus › BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS › LEGAL STRUCTURE	OK	subhead + paragraphs p8-9
+prospectus_eng_cd9d4d87	2	1	OYSTER PROSPECTUS	OK	cover: OYSTER (box also holds legal form) + PROSPECTUS
+prospectus_eng_cd9d4d87	8	2	OYSTER PROSPECTUS › CONTENTS	OK	ruled title, TOC p2
+prospectus_eng_cd9d4d87	12	3	OYSTER PROSPECTUS › INTRODUCTION	OK	ruled title, notice paragraphs
+prospectus_eng_cd9d4d87	23	4	OYSTER PROSPECTUS › DEFINITIONS	OK	ruled title, definitions table
+prospectus_eng_cd9d4d87	28	5	OYSTER PROSPECTUS › 1. GENERAL CHARACTERISTICS OF THE OYSTER MUTUAL FUND	OK	numbered chapter, 1.1 below
+prospectus_eng_cd9d4d87	29	5	OYSTER PROSPECTUS › 1. GENERAL CHARACTERISTICS OF THE OYSTER MUTUAL FUND › 1.1. Structure	OK	numbered subsection + paragraphs
+prospectus_eng_d2e37b2e	2	1	QUEST MANAGEMENT, SICAV Sales Prospectus	OK	cover: QUEST MANAGEMENT, SICAV + Sales Prospectus (date in same box)
+prospectus_eng_d2e37b2e	30	4	QUEST MANAGEMENT, SICAV Sales Prospectus › TABLE OF CONTENTS	OK	title, TOC p4
+prospectus_eng_d2e37b2e	35	5	QUEST MANAGEMENT, SICAV Sales Prospectus › MANAGEMENT	OK	section title, three role labels p5-6
+prospectus_eng_d2e37b2e	36	5	QUEST MANAGEMENT, SICAV Sales Prospectus › MANAGEMENT › BOARD OF DIRECTORS OF THE COMPANY	OK	role label + director entries
+prospectus_eng_d2e37b2e	40	5	QUEST MANAGEMENT, SICAV Sales Prospectus › MANAGEMENT › BOARD OF DIRECTORS OF THE MANAGEMENT COMPANY	OK	role label + director entries
+prospectus_eng_d2e37b2e	47	6	QUEST MANAGEMENT, SICAV Sales Prospectus › MANAGEMENT › DAY-TO-DAY MANAGERS OF THE MANAGEMENT COMPANY	OK	role label + manager entries; next ADMINISTRATION
+prospectus_eng_d2e37b2e	50	6	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION	OK	section title, role labels p6-7
+prospectus_eng_d2e37b2e	51	6	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › REGISTERED OFFICE	OK	role label + entry
+prospectus_eng_d2e37b2e	53	6	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › MANAGEMENT COMPANY- CENTRAL ADMINISTRATION AGENT - CORPORATE AND DOMICILIARY AGENT - REGISTRAR AND TRANSFER AGENT	OK	role label + entry
+prospectus_eng_d2e37b2e	55	6	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › INVESTMENT MANAGER	OK	role label + entry
+prospectus_eng_d2e37b2e	57	6	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › CUSTODIAN BANK PAYING AGENT	OK	role label + entry
+prospectus_eng_d2e37b2e	61	7	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › MARKETING AGENT	OK	role label + entry
+prospectus_eng_d2e37b2e	63	7	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › FINANCIAL AGENT BELGIUM	OK	role label + entry
+prospectus_eng_d2e37b2e	65	7	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › AUDITOR	OK	role label + entry
+prospectus_eng_d2e37b2e	67	7	QUEST MANAGEMENT, SICAV Sales Prospectus › ADMINISTRATION › LEGAL ADVISORS	OK	role label + entry; next INTRODUCTION p8
+prospectus_eng_d2e37b2e	71	8	QUEST MANAGEMENT, SICAV Sales Prospectus › INTRODUCTION	OK	section title + paragraphs
+prospectus_eng_d2e37b2e	80	8	QUEST MANAGEMENT, SICAV Sales Prospectus › THE COMPANY	OK	section title + paragraphs p8-9
+prospectus_eng_d2e37b2e	94	10	QUEST MANAGEMENT, SICAV Sales Prospectus › CAPITAL STOCK	OK	section title + paragraphs p10-11
+prospectus_eng_d2e37b2e	112	11	QUEST MANAGEMENT, SICAV Sales Prospectus › INVESTMENT OBJECTIVE AND POLICY	OK	section title + objective, examples list, policy p11-13
+prospectus_eng_d2e37b2e	148	13	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS	OK	section title, subsections p13-18
+prospectus_eng_d2e37b2e	149	13	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › GENERAL PROVISIONS	OK	bold subhead + paragraphs
+prospectus_eng_d2e37b2e	153	13	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS	OK	bold subhead, bulleted subheads below
+prospectus_eng_d2e37b2e	154	13	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS › Limits	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	164	14	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS › Special limits relating to credit derivatives	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	181	15	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS › Special limits relating to equity swaps and index swaps	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	189	15	"QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS › Conclusion of ""Contracts for Difference"" (""CFD"")"	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	193	15	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › USE OF DERIVATIVE INSTRUMENTS › Intervention on currency markets	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	197	16	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › 2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)	OK	numbered bold subhead, bulleted subheads below
+prospectus_eng_d2e37b2e	198	16	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › 2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT) › Securities lending transactions	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	203	16	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › 2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT) › Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	219	17	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › 2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT) › Common provisions to EMT	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	229	18	QUEST MANAGEMENT, SICAV Sales Prospectus › TECHNIQUES AND INSTRUMENTS › 2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT) › Management of collateral for OTC financial derivatives transactions and EMT	OK	bulleted bold subhead + paragraphs/list
+prospectus_eng_d2e37b2e	253	19	QUEST MANAGEMENT, SICAV Sales Prospectus › INVESTMENT POSSIBILITIES	OK	section title + lettered list p19-21
+prospectus_eng_d2e37b2e	280	21	QUEST MANAGEMENT, SICAV Sales Prospectus › INVESTMENT RESTRICTIONS	OK	section title + numbered restrictions p21-23 (document ends)
+prospectus_eng_edf49303	1	1	HSBC Global Investment Funds PROSPECTUS	OK	cover: HSBC Global Investment Funds + PROSPECTUS (date separate)
+prospectus_eng_edf49303	7	2	HSBC Global Investment Funds PROSPECTUS › CONTENTS	OK	red title, TOC p2
+prospectus_eng_edf49303	10	3	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION	OK	red title, notices + arrow subheads p3-5
+prospectus_eng_edf49303	19	3	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › United States of America	OK	arrow subhead + paragraph
+prospectus_eng_edf49303	21	3	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Canada	OK	arrow subhead + paragraph
+prospectus_eng_edf49303	23	3	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Hong Kong	OK	arrow subhead + two HK paragraphs; RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): #26 (HSBC regulated as a BHCA holding company) introduces the next section Bank Holding Company Act but is printed before its heading, so it falls under Hong Kong; kept (removing would cascade to all sibling labels)
+prospectus_eng_edf49303	28	4	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Bank Holding Company Act	OK	arrow subhead + paragraphs and list
+prospectus_eng_edf49303	38	4	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Telephone Recording and Data Protection	OK	arrow subhead + data paragraphs p4-5
+prospectus_eng_edf49303	55	5	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Luxembourg Stock Exchange	OK	arrow subhead + paragraph
+prospectus_eng_edf49303	57	5	HSBC Global Investment Funds PROSPECTUS › IMPORTANT INFORMATION › Additional Information	OK	arrow subhead + general notices p5-6 (last section before Glossary)

@@ -117,8 +117,8 @@
    ],
    "level": 3,
    "parent": 27,
-   "text": "二、发行前持股 \\(5\\%\\) 以上股东的持股意向及减持意向",
-   "why": "section 二、 with its （一） subsections"
+   "text": "二、发行前持股 5% 以上股东的持股意向及减持意向",
+   "why": "section 二、 with its （一） subsections; text: page prints \"5%\" (LaTeX escape removed, round 4)"
   },
   {
    "boxes": [
@@ -126,8 +126,8 @@
    ],
    "level": 4,
    "parent": 74,
-   "text": "（一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 \\(5\\%\\) 以上股东王宝光承诺",
-   "why": "（一） subsection with its paragraphs"
+   "text": "（一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 5% 以上股东王宝光承诺",
+   "why": "（一） subsection with its paragraphs; text: page prints \"5%\" (LaTeX escape removed, round 4)"
   },
   {
    "boxes": [

@@ -110,3 +110,23 @@
 - Table-titling subheads (4da61756 #128/#130 vs bab1780c #22): paths re-read, both hold (4da61756 labels close at
   the next numbered chapter; bab1780c #22 stays text by containment). No change.
 - OPEN: none.
+
+## Round 4 (full path review, every node on its page)
+- 27 docs (13 CN, 14 EN), 223 pages viewed, 342 nodes judged: 338 OK, 4 FIXED, 0 ADDED, 4 REMOVED. check.py: no ERROR in any doc.
+  Lines in review/paths/prospectus.tsv.
+- Node text = printed text (OCR LaTeX removed):
+  - cf5aeb95 #74, #75: "\(5\%\)" -> "5%".
+  - 4da61756 #128, #130: "\(\gg\) PA ..." -> "Shares of the classes »PA« and »PT«" / "»IA« and »IT«".
+- Containment: an own-line label that is the last label before a major section takes in the unrelated notices after
+  its block -> text (NOTATIONS "containment closes subtrees"):
+  - 01db2dde #29 "Handling of data" (WARNING): KIID/subscription paragraphs #37-#38 (p5) would fall under it.
+  - 241e405e #40 "Board of Directors' Powers": share offer, Fund segregation, translations and availability notices
+    #47-#51 would fall under it; its paragraphs now sit under "The Company".
+  - 613dbac9 #22 "Data Protection" (business-day definition and Directors' responsibility on p4 would fall under it),
+    then #14 "United States" (with #22 text, the data-protection paragraphs would fall under it). All notes now sit under
+    NOTE TO THE READERS.
+- OPEN: 51f57153 #102 "GLG Sub-Funds:" is the last of three label headings (Man / Man AHL / GLG Sub-Funds:) and is
+  followed by a paragraph about the investment policy of all sub-funds. NOTATIONS keeps a numbered list's headings when
+  a closing paragraph follows; this list is not numbered. Kept by analogy.
+- OPEN: edf49303 #23 "Hong Kong": paragraph #26 introduces the next section (Bank Holding Company Act) but is printed
+  before its heading, so it falls under Hong Kong. Making #23 text would cascade to all the sibling country labels. Kept.

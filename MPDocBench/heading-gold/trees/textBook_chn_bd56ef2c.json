@@ -9,7 +9,7 @@
    ],
    "level": 1,
    "parent": "root",
-   "text": "地理 选择性必修3资源、环境与国家安全",
+   "text": "地理 选择性必修3 资源、环境与国家安全",
    "why": "title union: subject + course line + module name naming this book (series line in its own box is text)"
   },
   {
@@ -36,7 +36,7 @@
    ],
    "level": 2,
    "parent": 2,
-   "text": "第1单元自然资源与人类活动",
+   "text": "第1单元 自然资源与人类活动",
    "why": "unit label + unit title (one box)"
   },
   {

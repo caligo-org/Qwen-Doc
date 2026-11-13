@@ -122,3 +122,18 @@ Every page of every doc with nodes viewed with --tree.
 - ACCEPTED handwritten_chn_01fba5b3 #7 ROOTS, 94af97ba #63 ROOTS, a6f48a98 #9 ROOTS / #19 #44 #55 #75 SEQ,
   d1ec88bb #15 ROOTS, edc60213 #22 ROOTS + SEQ: as round 2 (re-checked on the pages).
 - OPEN: none that concerns a path.
+
+## Round 4 (full path review)
+Docs 18 (3 with no nodes: 375d58b7, 79c34515, 65cdc9d3, each re-checked on every page: one table element per
+page or exam problems only). 116 nodes, every page of every doc viewed with --tree. 111 OK, 5 FIXED, 0 ADDED,
+0 REMOVED. All paths read as breadcrumbs; no missing heading found. The fixes are node texts that copied an OCR
+error instead of what the page prints:
+- FIX 1ae487be #238: "1. 化合反应" -> "一. 化合反应" (page prints 一., like its siblings 二./三.).
+- FIX 6a1cedac #40: "三、草兰染色" -> "三、革兰染色".
+- FIX a6f48a98 #54: "2. 低币的职能：低币…" -> "2. 纸币的职能：纸币…".
+- FIX eac2d8c2 #1: "第三章 化学反应的自发性." -> "第3章 化学反应的自发性." (the page prints the Arabic 3).
+- FIX eac2d8c2 #61: "(2) 反应商}" -> "(2) 反应商" (stray brace from OCR).
+- Kept as printed by the box: d1ec88bb titles with the dash read as 一一 / -一 (the glyphs are the same strokes);
+  eac3f5a2 #2 keeps its pinyin ruby (bào yè), which sits inside the title box.
+- Earlier decisions re-checked on the pages and kept: 50d71ae2 7.3 cases 一-三 text / 四-五 headings (series rule:
+  last own-line members); a6f48a98 run-in 2. 纸币的职能 a heading; 92bf52bc / 6a1cedac 思考题 Q&A text.

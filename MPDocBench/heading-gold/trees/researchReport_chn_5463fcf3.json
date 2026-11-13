@@ -32,24 +32,6 @@
   },
   {
    "boxes": [
-    22
-   ],
-   "level": 2,
-   "parent": 3,
-   "text": "风险提示",
-   "why": "run-in label in a mixed box: node text is the label only; closes 本周行业观点, which the risk statement is not about (containment)"
-  },
-  {
-   "boxes": [
-    23
-   ],
-   "level": 2,
-   "parent": 3,
-   "text": "本期【卓越推】",
-   "why": "run-in label in a mixed box (label + 暂不推荐): node text is the label only; the pick of this issue is neither the weekly view nor a risk (containment)"
-  },
-  {
-   "boxes": [
     27
    ],
    "level": 2,
@@ -72,6 +54,14 @@
   {
    "box": 2,
    "why": "generic 证券研究报告 line: text"
+  },
+  {
+   "box": 22,
+   "why": "Round 4 (user decision 2026-11-13: substance beats containment): one-line run-in bullet with nothing below it is text, even though the line then sits under the section before it."
+  },
+  {
+   "box": 23,
+   "why": "Round 4 (user decision 2026-11-13: substance beats containment): one-line run-in bullet with nothing below it is text, even though the line then sits under the section before it."
   }
  ],
  "considered": [

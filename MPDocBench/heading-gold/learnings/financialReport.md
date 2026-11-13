@@ -80,3 +80,14 @@ Docs 15, all breadcrumb lines read (186 before, 181 after). Unseen pages of this
   This 审计报告 is the bundle's TOC section 一、审计报告, not a restated title (there is no L1 to repeat).
 - ACCEPTED financialReport_chn_4b6d76a1 #8 ROOTS: same pattern (目录, 审计报告, 8 statements, notes at root).
 - OPEN: none concerning a path.
+
+## Round 4 (full path review)
+Docs 15, pages 130 (all rendered with the tree and looked at), nodes 181: OK 178, FIXED 3, ADDED 0, REMOVED 0.
+No missing headings found; every statement title, letter section, key audit matter and 1./2. label sits on its page
+as the tree says. Earlier decisions (ROOTS for 07ebf5d6 / 4b6d76a1, restated 审计报告 = repeat, p1 running heads
+above the title = considered) confirmed on the pages.
+- FIX node text (3): the L1 text carried the layout box's line breaks, so the breadcrumb printed over several lines.
+  Joined into one line (union text rule): d1c80a8f #2 "二零二五年上半年度財務報告 Prudential plc" (one wrapped title,
+  joined without spaces), d603bfdc #4 "中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月",
+  dd929555 #1 "深圳市卫光生物制品股份有限公司 审计报告". Boxes, levels and parents unchanged.
+- OPEN: none.

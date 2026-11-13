@@ -99,8 +99,8 @@
    ],
    "level": 4,
    "parent": 49,
-   "text": "方，第n+1步时的策略：",
-   "why": "own-line specific label heading the strategy list with formulas"
+   "text": "○方，第n+1步时的策略：",
+   "why": "own-line specific label heading the strategy list with formulas; round 4: text restores the printed ○ (names the O player, not a bullet)"
   },
   {
    "boxes": [

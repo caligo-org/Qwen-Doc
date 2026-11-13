@@ -155,3 +155,42 @@ OPEN (round 3):
   Unchanged: Top of Mind issues (eng_1588f970, 5b6f3871, aaabf80f, b3735ab5) are periodicals whose masthead is L1.
   Chinese reports: every broker logo is a header image with no text box, so no change (owner names already in the
   title stay as they are, e.g. chn_5463fcf3 信达, chn_2161890a 万联).
+
+## Round 4 (full path review, 2026-11-13)
+Every node of all 37 docs checked against every page (205 pages, --tree views). 366 node lines: 356 OK, 8 FIXED,
+1 ADDED, 1 REMOVED (review/paths/researchReport.tsv). check.py: no ERROR.
+
+Fixes:
+- chn_1f9ad79f: L1 = headline #2 ∪ owner box #3 (联合资信 公用事业三部, heading part 联合资信 only) -> "机场行业研究报告 联合资信".
+  The owner is printed as text on the cover (rule "The title": owner ∪ document type; owner in a box with other fields
+  -> heading part only; same principle as the Goldman logo decision). Round 3 said no Chinese report prints the
+  owner in a text box; this one does (also the header #1 "联合研究报告" logo, left as text since #3 names the owner in full).
+- chn_25d1b14f: L1 = owner box #3 (vertical cover band 开源证券证券研究报告; heading part 开源证券) ∪ headline #16 ->
+  "开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报"; node id #16 -> #3, children re-pointed.
+  Rule: user decision 2026-11-13 (owner logo/name with a text box joins L1) + "The title" (owner in a mixed box: heading
+  part only). Round 3 said every Chinese broker logo has no text box; here the cover band names the broker in text.
+- chn_4064c117 #11: text "- 疫情影响逐步消退…" -> "疫情影响逐步消退…": the leading "- " is the printed bullet mark, not part of the
+  heading (siblings #15/#17/#19 already drop their "·"). Text-only fix.
+- chn_7033db6d #52 ADDED L4 under 二、最新观点: the body prints point "1. 网上零售增速显著高于社会零售销售增速…" on its own line
+  over paragraphs and figures 1-3 (pp4-5). Rule: every level of the body outline counts (own-line numbered point with
+  its own block). The cover prints the same points as run-in paragraphs, so they stay L3 cover-summary items as before.
+- chn_d07a67be L1 #2: owner box #10 (sidebar field "川财研究 |宏观策略部", heading part 川财研究) joins the union ->
+  "全球流动性边际收紧趋势暂缓 ——欧洲央行7月议息会议点评 川财研究". The cover prints the owner only as an image logo and
+  in this mixed field box. Rule: "The title" (owner in a box with other fields: heading part only) + user decision
+  2026-11-13; same treatment as chn_1f9ad79f (联合资信 公用事业三部).
+- chn_d0eac218 L1 #1: broker box #15 (sidebar banner "西南证券研究发展中心", heading part 西南证券) joins the union ->
+  "宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券". The logo #2 is an image; this banner is the only
+  text box naming the broker. Rule: user decision 2026-11-13 (owner text joins L1; research-division part dropped, as
+  in the Goldman logo box) + "The title" (owner in a mixed box: heading part only). #15 removed from not_headings.
+- eng_5b6f3871 #118: node text carried the OCR LaTeX escape "\(25\%\)"; replaced by the printed "25%" (text matches the page).
+- eng_af983a3b #88: text "7 Will Democrats…" -> "7. Will Democrats…": the page prints "7." like siblings 1.-6.; OCR dropped the period.
+
+Rule note: where a Chinese cover prints the broker name in a text box (owner line under the headline, a cover band, a
+sidebar department field or research-centre banner), its heading part joins L1 (user decision 2026-11-13 applied to
+Chinese reports); covers whose broker appears only as a logo image are unchanged.
+
+OPEN (round 4):
+- chn_5463fcf3 #22 风险提示 / #23 本期【卓越推】 and chn_25d1b14f #26 风险提示: one-line run-in bullets in a
+  mixed box are nodes (label part only) so that they close the section above (containment). The substance rule says a
+  bullet item with nothing below it is never a heading. Kept; which rule wins?
+- chn_e960c7b3: colon-ended key-point bullets kept as text lead-ins (carried over).

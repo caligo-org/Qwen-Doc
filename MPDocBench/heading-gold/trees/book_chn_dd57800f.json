@@ -89,8 +89,8 @@
    ],
    "level": 6,
    "parent": 27,
-   "text": "(2）预告登记★★",
-   "why": "（2） heading; breadcrumb round 2: node text without the OCR underline markup"
+   "text": "（2）预告登记★★",
+   "why": "（2） heading; breadcrumb round 2: node text without the OCR underline markup | path review round 4: text as printed (full-width opening bracket like its siblings; OCR gave a half-width one)"
   },
   {
    "boxes": [
@@ -107,8 +107,8 @@
    ],
    "level": 6,
    "parent": 27,
-   "text": "(3）动产交付★★",
-   "why": "（3） heading"
+   "text": "（3）动产交付★★",
+   "why": "（3） heading | path review round 4: text as printed (full-width opening bracket like its siblings; OCR gave a half-width one)"
   },
   {
    "boxes": [

@@ -73,8 +73,8 @@
    ],
    "level": 2,
    "parent": 1,
-   "text": "7 Will Democrats meaningfully weaken (or eliminate) the filibuster in the Senate?",
-   "why": "section: numbered question heading on its own line with its answer paragraphs"
+   "text": "7. Will Democrats meaningfully weaken (or eliminate) the filibuster in the Senate?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs Round 4: the page prints \"7.\" like its siblings; OCR dropped the period."
   }
  ],
  "repeats": [

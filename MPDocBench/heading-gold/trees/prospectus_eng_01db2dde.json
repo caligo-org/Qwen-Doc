@@ -23,15 +23,6 @@
   },
   {
    "boxes": [
-    29
-   ],
-   "level": 3,
-   "parent": 12,
-   "text": "Handling of data",
-   "why": "own-line subsection label inside WARNING with its paragraphs"
-  },
-  {
-   "boxes": [
     41
    ],
    "level": 2,
@@ -139,6 +130,11 @@
    "why": "running head: fund name restates the title owner"
   }
  ],
- "not_headings": [],
+ "not_headings": [
+  {
+   "box": 29,
+   "why": "own-line label \"Handling of data\" (p4): no later heading closes it before TABLE OF CONTENTS, so the KIID/subscription paragraphs #37-#38 (p5), which are not about data handling, would fall under it; containment fails -> text (round 4)"
+  }
+ ],
  "considered": []
 }

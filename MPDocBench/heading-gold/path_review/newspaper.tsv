@@ -1,0 +1,725 @@
+doc	node	page	path	verdict	note
+newspaper_chn_11ae9c36	1	1	人民日报	OK	masthead; masthead (periodical title)
+newspaper_chn_11ae9c36	5	1	人民日报 › 坚定信心、顽强拼搏，实现新征程良好开局	OK	story headline, body below; story: commentary headline, front page has no section banner
+newspaper_chn_11ae9c36	12	1	人民日报 › 中共中央国务院举行春节团拜会 习近平发表讲话	OK	story headline, body below; title union: main headline printed over two lines in the same big type
+newspaper_chn_11ae9c36	20	1	人民日报 › 中共中央国务院举行春节团拜会 习近平发表讲话 › 在二〇二三年春节团拜会上的讲话	OK	subhead with its block; story: speech text headline (vertical title)
+newspaper_chn_11ae9c36	61	2	人民日报 › 要闻	OK	section tag/banner; section: page tag 要闻, every Chinese page is a new section
+newspaper_chn_11ae9c36	94	2	人民日报 › 要闻 › 情牵人民 春暖中国	OK	story headline, body below; story: headline; the ——line in the same box is a deck
+newspaper_chn_11ae9c36	69	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头一：2013年 甘肃】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	72	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头一：2013年 甘肃】 › 【回访】	OK	label with its block; label with own block under each segment (repeated label rule v3)
+newspaper_chn_11ae9c36	81	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头二：2013年 北京】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	85	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头二：2013年 北京】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	92	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头三：2014年 内蒙古】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	98	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头三：2014年 内蒙古】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	106	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头四：2015年 陕西】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	110	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头四：2015年 陕西】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	117	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头五：2016年 江西】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	122	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头五：2016年 江西】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	129	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头六：2017年 河北】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	132	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头六：2017年 河北】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	139	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头七：2018年 四川】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	144	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头七：2018年 四川】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	151	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头八：2019年 北京】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	155	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头八：2019年 北京】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	163	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头九：2020年 云南】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	168	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头九：2020年 云南】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	176	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头十：2021年 贵州】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	179	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头十：2021年 贵州】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	186	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头十一：2022年 山西】	OK	subhead with its block; subhead: segment head with its own block
+newspaper_chn_11ae9c36	193	2	人民日报 › 要闻 › 情牵人民 春暖中国 › 【镜头十一：2022年 山西】 › 【回访】	OK	label with its block; label with own block under each segment
+newspaper_chn_11ae9c36	199	2	人民日报 › 要闻 › 坚定信心、顽强拼搏，实现新征程良好开局	OK	"jump/continuation of #5; continuation: jump paragraph starting ""（上接第一版）"" of front-page story #5, no printed headlin"
+newspaper_chn_43c21ee3	1	1	經濟日報	OK	masthead; masthead (periodical title)
+newspaper_chn_43c21ee3	6	1	經濟日報 › 『双十一』消费转向多点驱动	OK	story headline, body below; story: vertical headline on front page (no banner); 引题 in the same box is a deck
+newspaper_chn_43c21ee3	10	1	經濟日報 › 『双十一』消费转向多点驱动 › 市场亮点纷呈	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_43c21ee3	17	1	經濟日報 › 『双十一』消费转向多点驱动 › AI技术持续赋能	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_43c21ee3	26	1	經濟日報 › 『双十一』消费转向多点驱动 › 创造更多增量价值	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_43c21ee3	28	1	經濟日報 › 10月份我国新能源汽车销售171.5万辆	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	36	1	經濟日報 › 习近平致电祝贺康诺利就任爱尔兰总统	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	43	1	經濟日報 › 发挥重点区域增长极作用	OK	story headline, body below; story headline (column rubric above is text)
+newspaper_chn_43c21ee3	57	1	經濟日報 › 跨省跨区电力应急调度机制更完善	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_43c21ee3	71	1	經濟日報 › 河北唐山做优特色产业集群	OK	story headline, body below; story headline; 副题 in the same box is a deck
+newspaper_chn_43c21ee3	78	2	經濟日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_43c21ee3	81	2	經濟日報 › 要闻 › 丁薛祥会见挪威外交大臣艾德	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	88	2	經濟日報 › 要闻 › 学习贯彻党的二十届四中全会精神 中央宣讲团报告会在住房城乡建设系统举行	OK	story headline, body below; story headline printed over two lines in the same big type
+newspaper_chn_43c21ee3	98	2	經濟日報 › 要闻 › 乡镇工业也能锚定高水平	OK	story headline, body below; story headline (red 专栏 label above is text)
+newspaper_chn_43c21ee3	111	2	經濟日報 › 要闻 › 长期护理险守护老有所养	OK	story headline, body below; story headline; column label 金视角 in the same box is a rubric
+newspaper_chn_43c21ee3	123	2	經濟日報 › 要闻 › 2025年度中央安全生产考核巡查正式启动	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	128	2	經濟日報 › 要闻 › 工信部加快制造业中试平台体系化布局	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	133	2	經濟日報 › 要闻 › 湾区品牌为啥这么火	OK	story headline, body below; story headline
+newspaper_chn_43c21ee3	143	2	經濟日報 › 要闻 › 打好黄河“几字弯”攻坚战	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	1	1	經濟日報	OK	masthead; masthead (periodical title)
+newspaper_chn_4f3edefe	6	1	經濟日報 › 习近平会见泰国国王哇集拉隆功	OK	story headline, body below; story headline, front page (no banner)
+newspaper_chn_4f3edefe	23	1	經濟日報 › 神舟二十号航天员乘组顺利返回	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	34	1	經濟日報 › 扩大服务消费稳增长惠民生	OK	story headline, body below; story headline (rubric 经济论坛 above is text)
+newspaper_chn_4f3edefe	44	1	經濟日報 › 迎峰度冬能源供应有保障	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_4f3edefe	55	1	經濟日報 › 我国经济转型升级态势持续	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_4f3edefe	58	1	經濟日報 › 我国经济转型升级态势持续 › 经济运行总体平稳	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	72	2	經濟日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_4f3edefe	75	2	經濟日報 › 要闻 › 李强主持召开国务院常务会议	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	86	2	經濟日報 › 要闻 › 李强会见泰国国王哇集拉隆功	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	94	2	經濟日報 › 要闻 › 李强签署国务院令 公布修订后的《对外使用国徽图案的办法》	OK	story headline, body below; story headline; 引题 李强签署国务院令 above is a deck
+newspaper_chn_4f3edefe	104	2	經濟日報 › 要闻 › 丁薛祥出席2025世界中文大会开幕式并发表主旨讲话	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	112	2	經濟日報 › 要闻 › 越共中央总书记苏林会见李书磊	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	121	2	經濟日報 › 要闻 › 陈希在中央党校(国家行政学院)2025年秋季学期第二批进修班开学典礼上强调 深入学习领会习近平总书记关于思想建党、理论强党的重要论述 自觉做党的创新理论的笃信笃行者	OK	story headline, body below; story headline printed over two big lines in one box; 引题 above is a deck
+newspaper_chn_4f3edefe	128	2	經濟日報 › 要闻 › 我国经济转型升级态势持续	OK	jump/continuation of #55; continuation: jump line of the front-page story, its subheads follow
+newspaper_chn_4f3edefe	129	2	經濟日報 › 要闻 › 我国经济转型升级态势持续 › 新动能培育壮大	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_4f3edefe	137	2	經濟日報 › 要闻 › 我国经济转型升级态势持续 › 实现全年目标具备较多有利条件	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_4f3edefe	145	2	經濟日報 › 要闻 › 建设国际化消费环境当重细节	OK	story headline, body below; story headline (vertical; rubric 金视角 is text)
+newspaper_chn_4f3edefe	156	3	經濟日報 › 综合	OK	section tag/banner; section: page tag 综合 on p3
+newspaper_chn_4f3edefe	160	3	經濟日報 › 综合 › 多地推进物流行业降本增效	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_4f3edefe	165	3	經濟日報 › 综合 › 多地推进物流行业降本增效 › 高效衔接完善网络	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	173	3	經濟日報 › 综合 › 多地推进物流行业降本增效 › 资源整合打通堵点	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	179	3	經濟日報 › 综合 › 多地推进物流行业降本增效 › 服务创新降低成本	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	185	3	經濟日報 › 综合 › 『一赛跨三地』带火湾区游	OK	story headline, body below; story headline (vertical; rubric 文体市场面面观 is text)
+newspaper_chn_4f3edefe	197	3	經濟日報 › 综合 › 我国探明首个千吨级金矿	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	203	3	經濟日報 › 综合 › 老场馆 新功能 利共享	OK	story headline, body below; story headline (vertical; rubric 直击十五运会 is text)
+newspaper_chn_4f3edefe	219	3	經濟日報 › 综合 › 为奋力开创中国式现代化建设新局面提供坚强财政保障	OK	story headline, body below; story headline (series rubric above and ——访 line below are text)
+newspaper_chn_4f3edefe	223	3	經濟日報 › 综合 › 为奋力开创中国式现代化建设新局面提供坚强财政保障 › 因时因势施策不断深化对财政宏观调控的规律性认识	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	229	3	經濟日報 › 综合 › 为奋力开创中国式现代化建设新局面提供坚强财政保障 › 把准形势任务有力有效实施积极的财政政策	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	237	3	經濟日報 › 综合 › 为奋力开创中国式现代化建设新局面提供坚强财政保障 › 坚持扩大内需支持建设强大国内市场	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	243	3	經濟日報 › 综合 › 为奋力开创中国式现代化建设新局面提供坚强财政保障 › 推进财政改革管理加快构建高水平社会主义市场经济体制	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	253	4	經濟日報 › 国际	OK	section tag/banner; section: page tag 国际 on p4
+newspaper_chn_4f3edefe	256	4	經濟日報 › 国际 › 二十国集团峰会带给非洲新机遇	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	275	4	經濟日報 › 国际 › AI成科技行业重构关键推手	OK	story headline, body below; story headline (vertical; rubric 外企新语 is text)
+newspaper_chn_4f3edefe	286	4	經濟日報 › 国际 › 中国农业设备助力科威特沙漠变田园	OK	story headline, body below; story headline (vertical)
+newspaper_chn_4f3edefe	302	4	經濟日報 › 国际 › 欧洲能源在安全与自主间“徘徊”	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	317	5	經濟日報 › 时评	OK	section tag/banner; section: page tag 时评 on p5
+newspaper_chn_4f3edefe	321	5	經濟日報 › 时评 › 出实招化痛点激发民间投资活力	OK	story headline, body below; story headline (rubric 每周经济观察 is text)
+newspaper_chn_4f3edefe	334	5	經濟日報 › 时评 › 打好京津冀“大健康”这张牌	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	344	5	經濟日報 › 时评 › 联农带农闯出乡村振兴路	OK	story headline, body below; story headline (vertical)
+newspaper_chn_4f3edefe	358	5	經濟日報 › 时评 › 发展数据岂容“美颜”	OK	story headline, body below; box with its own title: cartoon with comment text below
+newspaper_chn_4f3edefe	361	5	經濟日報 › 时评 › 打通物流业降本增效『经络』	OK	story headline, body below; story headline (vertical; rubric 洞见 is text)
+newspaper_chn_4f3edefe	373	5	經濟日報 › 时评 › 守好从农田到餐桌每道关口	OK	story headline, body below; story headline
+newspaper_chn_4f3edefe	386	6	經濟日報 › 地方	OK	section tag/banner; section: page tag 地方 on p6
+newspaper_chn_4f3edefe	391	6	經濟日報 › 地方 › 天津和平区 文旅融合破圈重生	OK	story headline, body below; story headline (rubric 各地新亮点 is text)
+newspaper_chn_4f3edefe	395	6	經濟日報 › 地方 › 天津和平区 文旅融合破圈重生 › 寸土也能生金	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	403	6	經濟日報 › 地方 › 天津和平区 文旅融合破圈重生 › 金篮子装金蛋	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	410	6	經濟日報 › 地方 › 天津和平区 文旅融合破圈重生 › 文旅盘活老街区	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	419	6	經濟日報 › 地方 › 冰雪经济莫止步于冰雪	OK	story headline, body below; story headline (vertical; rubric 记者来信 is text)
+newspaper_chn_4f3edefe	428	6	經濟日報 › 地方 › 厦门邮轮母港优势加速释放	OK	story headline, body below; story headline (vertical)
+newspaper_chn_4f3edefe	441	6	經濟日報 › 地方 › 东川礼村这样盘活集体资产	OK	story headline, body below; story headline (rubric 共富路上·乡村创变 is text)
+newspaper_chn_4f3edefe	454	7	經濟日報 › 企业	OK	section tag/banner; section: page tag 企业 on p7
+newspaper_chn_4f3edefe	458	7	經濟日報 › 企业 › 车企亟待驶出“极端营销”怪圈	OK	story headline, body below; story headline (rubric 忠阳车评 is text)
+newspaper_chn_4f3edefe	471	7	經濟日報 › 企业 › 天津航空提升运行效率—— 探寻绿色航空解决方案	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_4f3edefe	479	7	經濟日報 › 企业 › 天津航空提升运行效率—— 探寻绿色航空解决方案 › 优化航路	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	488	7	經濟日報 › 企业 › 天津航空提升运行效率—— 探寻绿色航空解决方案 › 节油减排	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	495	7	經濟日報 › 企业 › 天津航空提升运行效率—— 探寻绿色航空解决方案 › 精细管控	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_4f3edefe	504	7	經濟日報 › 企业 › 青岛榕信破解『内卷』困局—— 啃下环保技术硬骨头	OK	story headline, body below; story headline (vertical); 引题 in the same box is a deck
+newspaper_chn_adf00537	1	1	農民日報	OK	masthead; masthead; English name and website in the same box are text
+newspaper_chn_adf00537	4	1	農民日報 › 习近平同刚果(金)总统齐塞克迪举行会谈	OK	story headline, body below; story headline, front page (no banner)
+newspaper_chn_adf00537	14	1	農民日報 › 深学细悟勇担当 凝心聚力强三农	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_adf00537	27	1	農民日報 › 安徽今年组织2122家规模养殖场实施“减抗”行动	OK	story headline, body below; story headline
+newspaper_chn_adf00537	34	1	農民日報 › 强农“蓝图”铺展全新画卷	OK	story headline, body below; story headline; ——纪实 subtitle in the same box is a deck, slogan banner above is a rubric
+newspaper_chn_adf00537	39	1	農民日報 › 强农“蓝图”铺展全新画卷 › 聚焦种子与品牌，紧抓“微笑曲线”两端	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_adf00537	49	1	農民日報 › 强农“蓝图”铺展全新画卷 › 打造产业链闭环，融合贯通资金渠道	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_adf00537	51	1	農民日報 › 刘国中强调 切实巩固拓展脱贫攻坚成果扎实推进乡村振兴	OK	story headline, body below; story headline (引题 刘国中强调 above is a deck)
+newspaper_chn_adf00537	59	1	農民日報 › 农业农村部办公厅关于深入学习浙江“千万工程”经验的通知	OK	story headline, body below; story headline: notice printed in full; its 一、二、三、 are run-in paragraph starts
+newspaper_chn_adf00537	67	1	農民日報 › 河南十项惠农举措助力“三夏”生产	OK	story headline, body below; story headline (slogan banner above is a rubric)
+newspaper_chn_adf00537	75	2	農民日報 › 综合新闻	OK	section tag/banner; section: page tag 综合新闻 on p2
+newspaper_chn_adf00537	78	2	農民日報 › 综合新闻 › 期盼携手开创亚欧合作新局面	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_adf00537	82	2	農民日報 › 综合新闻 › 期盼携手开创亚欧合作新局面 › 共享亚欧发展新机遇	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_adf00537	90	2	農民日報 › 综合新闻 › 期盼携手开创亚欧合作新局面 › 开拓造福各国的“幸福路”	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_adf00537	96	2	農民日報 › 综合新闻 › 期盼携手开创亚欧合作新局面 › 合作前景非常广阔	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_adf00537	103	2	農民日報 › 综合新闻 › 戏剧城内麦香飘	OK	story headline, body below; photo story headline with its own text
+newspaper_chn_adf00537	108	2	農民日報 › 综合新闻 › 农业农村部办公厅关于深入学习浙江“千万工程”经验的通知	OK	jump/continuation of #59; continuation: headline reprinted over the jump (上接第一版)
+newspaper_chn_adf00537	115	2	農民日報 › 综合新闻 › 青海饲草产业呈现良好发展态势	OK	story headline, body below; story headline; 副题 below is a deck
+newspaper_chn_adf00537	121	2	農民日報 › 综合新闻 › 黑龙江累计建成高标准农田10265万亩	OK	story headline, body below; story headline
+newspaper_chn_adf00537	128	2	農民日報 › 综合新闻 › 习近平同刚果(金)总统齐塞克迪举行会谈	OK	"jump/continuation of #4; continuation: jump paragraph starting ""（上接第一版）"" of front-page story #4, no printed headlin"
+newspaper_chn_adf00537	137	2	農民日報 › 综合新闻 › 强农“蓝图”铺展全新画卷	OK	jump/continuation of #34; continuation: headline reprinted over the jump
+newspaper_chn_adf00537	148	2	農民日報 › 综合新闻 › 强农“蓝图”铺展全新画卷 › 创新驱动升级，科技赋能协同资源整合	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_ccf4163f	1	1	農民日報	OK	masthead; masthead; English name and website in the same box are text
+newspaper_chn_ccf4163f	4	1	農民日報 › 新的文化使命	OK	story headline, body below; story headline, front page; ——副题 in the same box is a deck
+newspaper_chn_ccf4163f	12	1	農民日報 › 新的文化使命 › （一）时代的必然	OK	subhead with its block; numbered in-story part head with its own block
+newspaper_chn_ccf4163f	36	1	農民日報 › 北大荒集团：办大事抓重点夯实粮食丰产基础	OK	story headline, body below; story headline (campaign banner above is a rubric)
+newspaper_chn_ccf4163f	45	1	農民日報 › 湖北孝感市全力推进首衡食品产业新城项目建设	OK	story headline, body below; story headline
+newspaper_chn_ccf4163f	52	1	農民日報 › “浙”里乡村,何以如此“绿富美”?	OK	story headline, body below; story headline (series rubric 高质量发展调研行 is a figure)
+newspaper_chn_ccf4163f	59	1	農民日報 › “浙”里乡村,何以如此“绿富美”? › 绿：生态理念化于心	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ccf4163f	68	1	農民日報 › 安徽省蚌埠市怀远县：大马力机械昼夜连轴抢收小麦	OK	story headline, body below; story headline; place line + headline printed as one title box
+newspaper_chn_ccf4163f	83	1	農民日報 › 把话筒交给村干部 让聚光灯照向基层	OK	story headline, body below; story headline; ——侧记 subtitle in the same box is a deck
+newspaper_chn_ccf4163f	90	1	農民日報 › 把话筒交给村干部 让聚光灯照向基层 › 喜说乡村起新变，好日子越过越甜	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ccf4163f	98	2	農民日報 › 综合新闻	OK	section tag/banner; section: page tag 综合新闻 on p2
+newspaper_chn_ccf4163f	101	2	農民日報 › 综合新闻 › 担负新的文化使命 谱写新的时代华章	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_ccf4163f	105	2	農民日報 › 综合新闻 › 担负新的文化使命 谱写新的时代华章 › 讲好中华文明的多彩故事	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ccf4163f	114	2	農民日報 › 综合新闻 › 担负新的文化使命 谱写新的时代华章 › 做好传统文化的研究阐释	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ccf4163f	123	2	農民日報 › 综合新闻 › 担负新的文化使命 谱写新的时代华章 › 坚定文化自信为强国建设贡献力量	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ccf4163f	132	2	農民日報 › 综合新闻 › 第五届全国农业行业职业技能大赛茶叶加工赛项决赛在桂举办	OK	story headline, body below; story headline
+newspaper_chn_ccf4163f	137	2	農民日報 › 综合新闻 › 新的文化使命	OK	jump/continuation of #4; continuation: jump paragraph (上接第一版) of the front-page story, its numbered parts follow
+newspaper_chn_ccf4163f	159	2	農民日報 › 综合新闻 › 新的文化使命 › （二）思想的飞跃	OK	subhead with its block; numbered in-story part head of the jumped story
+newspaper_chn_ccf4163f	194	2	農民日報 › 综合新闻 › 新的文化使命 › （三）文化的自觉	OK	subhead with its block; numbered in-story part head of the jumped story
+newspaper_chn_ccf4163f	236	2	農民日報 › 综合新闻 › 新的文化使命 › （四）文明的开新	OK	subhead with its block; numbered in-story part head of the jumped story
+newspaper_chn_e542162c	1	1	經濟日報	OK	masthead; masthead (periodical title)
+newspaper_chn_e542162c	6	1	經濟日報 › 《求是》杂志发表习近平总书记重要文章 因地制宜发展新质生产力	OK	story headline, body below; story headline, front page; 引题 in the same box is a deck
+newspaper_chn_e542162c	19	1	經濟日報 › 加快数智应用降低物流成本	OK	story headline, body below; story headline (vertical; rubric 经济论坛 is text)
+newspaper_chn_e542162c	31	1	經濟日報 › 多家银行出台方案优化供给—— 金融精准服务新型工业化	OK	story headline, body below; story headline; 引题 in the same box is a deck
+newspaper_chn_e542162c	35	1	經濟日報 › 多家银行出台方案优化供给—— 金融精准服务新型工业化 › 深耕产业链金融	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	42	1	經濟日報 › 多家银行出台方案优化供给—— 金融精准服务新型工业化 › 推动服务升级	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	48	1	經濟日報 › 苏州积极布局具身智能产业	OK	story headline, body below; story headline (vertical); 副题 in the same box is a deck
+newspaper_chn_e542162c	55	1	經濟日報 › 持续完善社会保障体系	OK	story headline, body below; story headline; series rubric and byline in the same box are text
+newspaper_chn_e542162c	58	1	經濟日報 › 持续完善社会保障体系 › 与经济增长同频共振	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	64	1	經濟日報 › 持续完善社会保障体系 › 主动适应社会变革	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	69	1	經濟日報 › 持续完善社会保障体系 › 有效促进社会流动	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	75	2	經濟日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_e542162c	79	2	經濟日報 › 要闻 › 拉林铁路奏响加速发展新乐章	OK	story headline, body below; story headline; series rubric and byline in the same box are text
+newspaper_chn_e542162c	81	2	經濟日報 › 要闻 › 拉林铁路奏响加速发展新乐章 › 用心用情服务旅客	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	87	2	經濟日報 › 要闻 › 拉林铁路奏响加速发展新乐章 › 严谨细致守护安全	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	95	2	經濟日報 › 要闻 › 拉林铁路奏响加速发展新乐章 › 路通货畅带来机遇	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	105	2	經濟日報 › 要闻 › 多家银行出台方案优化供给—— 金融精准服务新型工业化	OK	jump/continuation of #31; continuation: jump line (上接第一版) of a front-page story, its subhead follows
+newspaper_chn_e542162c	107	2	經濟日報 › 要闻 › 多家银行出台方案优化供给—— 金融精准服务新型工业化 › 丰富融资渠道	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_e542162c	116	2	經濟日報 › 要闻 › 刹住科研领域「逐帽」之风	OK	story headline, body below; story headline (vertical); rubric 金视角 in the same box is text
+newspaper_chn_e542162c	125	2	經濟日報 › 要闻 › “礼义长潭”新风润心	OK	story headline, body below; story headline (red 专栏 label above is text)
+newspaper_chn_e542162c	134	2	經濟日報 › 要闻 › 蓝色粮仓走上绿色发展路	OK	story headline, body below; story headline (vertical)
+newspaper_chn_e542162c	144	2	經濟日報 › 要闻 › 文明乡风拓展振兴前景	OK	story headline, body below; story headline
+newspaper_chn_e542162c	162	3	經濟日報 › 综合	OK	section tag/banner; section: page tag 综合 on p3
+newspaper_chn_e542162c	166	3	經濟日報 › 综合 › 共建共享人工智能发展新未来	OK	story headline, body below; story headline; rubric 热点解析 in the same box is text
+newspaper_chn_e542162c	180	3	經濟日報 › 综合 › 手机套餐不应『升易降难』	OK	story headline, body below; story headline (vertical); rubric 民生谈 in the same box is text
+newspaper_chn_e542162c	188	3	經濟日報 › 综合 › 银行间市场经纪业务管理办法发布	OK	story headline, body below; story headline (line below is a deck)
+newspaper_chn_e542162c	193	3	經濟日報 › 综合 › 『云集市』打造助农新场景	OK	story headline, body below; story headline (vertical); rubric 乡村振兴进行时 in the same box is text
+newspaper_chn_e542162c	207	3	經濟日報 › 综合 › 加快新场景开放和大规模应用 培育壮大新兴产业和未来产业	OK	story headline, body below; story headline
+newspaper_chn_e542162c	210	3	經濟日報 › 综合 › 加快新场景开放和大规模应用 培育壮大新兴产业和未来产业 › 为新质生产力发展提供支撑	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	215	3	經濟日報 › 综合 › 加快新场景开放和大规模应用 培育壮大新兴产业和未来产业 › 加强新领域新赛道布局	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	222	3	經濟日報 › 综合 › 加快新场景开放和大规模应用 培育壮大新兴产业和未来产业 › 加快推进《意见》落实	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	234	4	經濟日報 › 综合 › 赛事重塑湾区时空版图	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_e542162c	241	4	經濟日報 › 综合 › 赛事重塑湾区时空版图 › 持续扩大机制体制衔接	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	250	4	經濟日報 › 综合 › 赛事重塑湾区时空版图 › 立体交通激发聚合效应	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	260	4	經濟日報 › 综合 › 赛事重塑湾区时空版图 › 超级场景赋能城市升级	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	270	4	經濟日報 › 综合 › 路相通城相融心相连	OK	story headline, body below; story headline (vertical)
+newspaper_chn_e542162c	284	4	經濟日報 › 综合 › 白云机场拥抱世界	OK	story headline, body below; story headline
+newspaper_chn_e542162c	297	5	經濟日報 › 关注	OK	section tag/banner; section: page tag 关注 on p5
+newspaper_chn_e542162c	300	5	經濟日報 › 关注 › 且看春雨润新苗	OK	story headline, body below; story headline; rubric 科创之声 in the same box is text
+newspaper_chn_e542162c	314	5	經濟日報 › 关注 › 秋播虽延后 丰收仍有盼	OK	story headline, body below; story headline; rubric 视点 and byline in the same box are text
+newspaper_chn_e542162c	316	5	經濟日報 › 关注 › 秋播虽延后 丰收仍有盼 › 把握好播种时机	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	324	5	經濟日報 › 关注 › 秋播虽延后 丰收仍有盼 › 靠科技与时间赛跑	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	333	5	經濟日報 › 关注 › 秋播虽延后 丰收仍有盼 › 晚播高产有门道	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	343	5	經濟日報 › 关注 › 消费贷贴息政策初见成效	OK	story headline, body below; story headline (vertical); 引题 in the same box is a deck
+newspaper_chn_e542162c	356	5	經濟日報 › 关注 › 300元以下买不到真羽绒服吗	OK	story headline, body below; story headline; rubric 求真 in the same box is text
+newspaper_chn_e542162c	371	6	經濟日報 › 地方	OK	section tag/banner; section: page tag 地方 on p6
+newspaper_chn_e542162c	375	6	經濟日報 › 地方 › 讲好特色文旅+融合故事	OK	story headline, body below; story headline; rubric, byline and ——副题 in the same box are text
+newspaper_chn_e542162c	378	6	經濟日報 › 地方 › 讲好特色文旅+融合故事 › 消费新热潮	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	385	6	經濟日報 › 地方 › 讲好特色文旅+融合故事 › 发展新活力	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	393	6	經濟日報 › 地方 › 讲好特色文旅+融合故事 › 文旅新业态	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	404	6	經濟日報 › 地方 › 以智提效激发口岸潜能	OK	story headline, body below; story headline (vertical); rubric 区域谈 in the same box is text
+newspaper_chn_e542162c	414	6	經濟日報 › 地方 › 宁波工业园区—— 能效服务匹配企业需求	OK	story headline, body below; story headline (vertical); 引题 in the same box is a deck
+newspaper_chn_e542162c	424	6	經濟日報 › 地方 › 江西崇仁输变电产业跃迁升级—— “机电之都”重塑核心竞争力	OK	story headline, body below; story headline; 引题 in the same box is a deck
+newspaper_chn_e542162c	439	7	經濟日報 › 港澳台	OK	section tag/banner; section: page tag 港澳台 on p7
+newspaper_chn_e542162c	442	7	經濟日報 › 港澳台 › 双城生活“深”得“港”心	OK	story headline, body below; story headline
+newspaper_chn_e542162c	448	7	經濟日報 › 港澳台 › 双城生活“深”得“港”心 › 激活双向消费	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	460	7	經濟日報 › 港澳台 › 双城生活“深”得“港”心 › 打通创新动脉	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	472	7	經濟日報 › 港澳台 › 双城生活“深”得“港”心 › 重塑跨境体验	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	485	7	經濟日報 › 港澳台 › 融入大局天地宽	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_e542162c	491	7	經濟日報 › 港澳台 › 融入大局天地宽 › 从展品展示到生态输出	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	498	7	經濟日報 › 港澳台 › 融入大局天地宽 › 从区域合作到全球联动	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	501	7	經濟日報 › 港澳台 › 融入大局天地宽 › 从政策红利到内生动力	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	511	7	經濟日報 › 港澳台 › 立法会选举体现良政善治	OK	story headline, body below; story headline (vertical; rubric 香江观察 is text)
+newspaper_chn_e542162c	522	8	經濟日報 › 视觉	OK	section tag/banner; section: page tag 视觉 on p8
+newspaper_chn_e542162c	525	8	經濟日報 › 视觉 › 机遇海口	OK	story headline, body below; photo-spread story headline with its own text
+newspaper_chn_e542162c	552	9	經濟日報 › 副刊	OK	section tag/banner; section: page tag 副刊 on p9
+newspaper_chn_e542162c	556	9	經濟日報 › 副刊 › 黄河上的筏子客	OK	story headline, body below; story headline (rubric 非遗焕新 is text)
+newspaper_chn_e542162c	560	9	經濟日報 › 副刊 › 黄河上的筏子客 › 漂流人生	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	573	9	經濟日報 › 副刊 › 黄河上的筏子客 › 筏上创业	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	587	9	經濟日報 › 副刊 › 黄河上的筏子客 › 青春选择	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	602	9	經濟日報 › 副刊 › 循化辣椒香满院	OK	story headline, body below; story headline
+newspaper_chn_e542162c	616	9	經濟日報 › 副刊 › 李沧电商直播忙	OK	story headline, body below; story headline (vertical; rubric 速写 is text)
+newspaper_chn_e542162c	629	10	經濟日報 › 消费	OK	section tag/banner; section: page tag 消费 on p10
+newspaper_chn_e542162c	633	10	經濟日報 › 消费 › 中小学秋假来了	OK	story headline, body below; story headline (rubric 文旅新意 is text)
+newspaper_chn_e542162c	640	10	經濟日報 › 消费 › 中小学秋假来了 › 促成长又促消费	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	646	10	經濟日報 › 消费 › 中小学秋假来了 › 学生家长买账吗	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	654	10	經濟日報 › 消费 › 中小学秋假来了 › 配套问题要解决	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e542162c	664	10	經濟日報 › 消费 › 学会把消费送上门	OK	story headline, body below; story headline (vertical; rubric 市场瞭望 is text)
+newspaper_chn_e542162c	675	10	經濟日報 › 消费 › 点燃青少年篮球热情	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	1	1	人民日報	OK	masthead; masthead; pinyin RENMIN RIBAO in the same box is text
+newspaper_chn_e73ccfbf	4	1	人民日報 › 习近平就尼泊尔发生客机坠毁事故 向尼泊尔总统班达里致慰问电	OK	story headline, body below; story headline, front page; 副题 line in the same box is a deck
+newspaper_chn_e73ccfbf	7	1	人民日報 › 中共中央印发《中国共产党处分违纪党员批准权限和程序规定》	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	12	1	人民日報 › 中共中央印发《中国共产党处分违纪党员批准权限和程序规定》 › 中国共产党处分违纪党员批准权限和程序规定	OK	subhead with its block; title of the regulation printed in full inside the story
+newspaper_chn_e73ccfbf	14	1	人民日報 › 中共中央印发《中国共产党处分违纪党员批准权限和程序规定》 › 中国共产党处分违纪党员批准权限和程序规定 › 第一章 总 则	OK	label with its block; chapter of the printed regulation (第一章 ∪ title in one box)
+newspaper_chn_e73ccfbf	22	1	人民日報 › 中共中央印发《中国共产党处分违纪党员批准权限和程序规定》 › 中国共产党处分违纪党员批准权限和程序规定 › 第二章 处分批准权限和程序一般规定	OK	label with its block; chapter of the printed regulation
+newspaper_chn_e73ccfbf	28	1	人民日報 › 全国政协十三届常委会第二十五次会议闭幕	OK	story headline, body below; story headline (line below is a deck)
+newspaper_chn_e73ccfbf	38	1	人民日報 › 天津消费动能持续释放	OK	story headline, body below; story headline (引题 above is a deck)
+newspaper_chn_e73ccfbf	48	1	人民日報 › 我国经济总量超120万亿元	OK	story headline, body below; story headline; 副题 in the same box is a deck
+newspaper_chn_e73ccfbf	59	1	人民日報 › 李克强考察国家电网公司并慰问基层干部职工时强调 确保电力等能源稳定供应 满足民生需求服务发展大局	OK	story headline, body below; story headline printed over two big lines; 引题 in the same box is a deck
+newspaper_chn_e73ccfbf	67	1	人民日報 › 王沪宁出席全国性宗教团体负责人迎春座谈会	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	76	2	人民日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_e73ccfbf	80	2	人民日報 › 要闻 › 充分民主协商，广纳各方英才，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴凝心聚力	OK	story headline, body below; story headline printed over two lines; ——副题 in the same box is a deck
+newspaper_chn_e73ccfbf	91	2	人民日報 › 要闻 › 关于召开中国人民政治协商会议第十四届全国委员会第一次会议的决定	OK	story headline, body below; story headline: decision printed in full
+newspaper_chn_e73ccfbf	96	2	人民日報 › 要闻 › 全国政协向不再连任的委员致信表示敬意和感谢	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	101	2	人民日報 › 要闻 › 李克强考察国家电网公司并慰问基层干部职工时强调 确保电力等能源稳定供应 满足民生需求服务发展大局	OK	"jump/continuation of #59; continuation: jump paragraph starting ""（上接第一版）"" of front-page story #59, no printed headli"
+newspaper_chn_e73ccfbf	106	2	人民日報 › 要闻 › 沈跃跃会见古巴妇联领导人	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	108	2	人民日報 › 要闻 › 夏宝龙会见俄罗斯新任驻华大使莫尔古洛夫	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	111	2	人民日報 › 要闻 › 秦刚分别同蒙古国外长、马来西亚外长通电话	OK	story headline, body below; story headline
+newspaper_chn_e73ccfbf	117	2	人民日報 › 要闻 › 世界经济论坛2023年年会举行	OK	story headline, body below; story headline; 副题 in the same box is a deck
+newspaper_chn_e73ccfbf	123	2	人民日報 › 要闻 › 中国为世界经济复苏注入信心和力量	OK	story headline, body below; story headline (vertical)
+newspaper_chn_e73ccfbf	126	2	人民日報 › 要闻 › 中国为世界经济复苏注入信心和力量 › 积极发挥“稳定器”作用	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e73ccfbf	136	2	人民日報 › 要闻 › 中国为世界经济复苏注入信心和力量 › 努力促进全球共同发展	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e73ccfbf	146	2	人民日報 › 要闻 › 中国为世界经济复苏注入信心和力量 › 推动建设开放型世界经济	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_e73ccfbf	159	2	人民日報 › 要闻 › 匈牙利发行兔年生肖邮票	OK	story headline, body below; story headline (photo story)
+newspaper_chn_eb87830d	1	1	光明日報	OK	masthead; masthead (OCR garbled, read from the page); pinyin in the same box is text
+newspaper_chn_eb87830d	4	1	光明日報 › 习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电	OK	story headline, body below; story headline, front page (no banner)
+newspaper_chn_eb87830d	11	1	光明日報 › 为乡村振兴尽情放歌	OK	story headline, body below; story headline (vertical essay under a figure-only banner)
+newspaper_chn_eb87830d	22	1	光明日報 › 盼文学力量更加彰显	OK	story headline, body below; story headline (vertical essay under a figure-only banner)
+newspaper_chn_eb87830d	36	1	光明日報 › 坚定发展信心 汇聚发展合力	OK	story headline, body below; story headline; ——综述 subtitle in the same box is a deck
+newspaper_chn_eb87830d	40	1	光明日報 › 坚定发展信心 汇聚发展合力 › 顶层谋划推进掀起宣讲热潮	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_eb87830d	54	1	光明日報 › 从近及远，由物及人	OK	story headline, body below; story headline
+newspaper_chn_eb87830d	72	2	光明日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_eb87830d	75	2	光明日報 › 要闻 › 王沪宁对老挝进行正式友好访问 并出席老挝建国50周年庆祝活动	OK	story headline, body below; story headline printed over two lines
+newspaper_chn_eb87830d	89	2	光明日報 › 要闻 › 坚定发展信心 汇聚发展合力	OK	jump/continuation of #36; continuation: jump line (上接1版) of the front-page story, its subheads follow
+newspaper_chn_eb87830d	93	2	光明日報 › 要闻 › 坚定发展信心 汇聚发展合力 › 深入基层一线 力求鲜活生动	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_eb87830d	111	2	光明日報 › 要闻 › 坚定发展信心 汇聚发展合力 › 面向青年群体 激扬青春力量	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_eb87830d	129	2	光明日報 › 要闻 › 让老兵的故事传遍神州大地	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_eb87830d	157	2	光明日報 › 要闻 › 河南三门峡： 万羽天鹅舞翩跹	OK	story headline, body below; story headline (引题 河南三门峡： is a deck)
+newspaper_chn_eb87830d	172	3	光明日報 › 评论	OK	section tag/banner; section: page tag 评论 on p3
+newspaper_chn_eb87830d	174	3	光明日報 › 评论 › 以合作凝众力 为乡村谋复兴	OK	story headline, body below; story headline
+newspaper_chn_eb87830d	191	3	光明日報 › 评论 › 推动资源环境要素高效配置	OK	story headline, body below; story headline
+newspaper_chn_eb87830d	205	3	光明日報 › 评论 › 『小菜园』中的治理智慧	OK	story headline, body below; story headline (vertical)
+newspaper_chn_eb87830d	216	3	光明日報 › 评论 › 鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程	OK	story headline, body below; story-level headline of an advertorial framed as an ad (·广告·) with its own headline and su
+newspaper_chn_eb87830d	219	3	光明日報 › 评论 › 鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程 › 专家引领与跨界融合：推动教师专业能力进阶	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	222	3	光明日報 › 评论 › 鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程 › 教研室深耕细作：夯实教学质量核心阵地	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	227	3	光明日報 › 评论 › 鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程 › 育人为本与赛演融合：提升学生综合素养	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	232	3	光明日報 › 评论 › 鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程 › 守正创新：地方高校音乐教育高质量发展的实践探索	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	238	4	光明日報 › 综合新闻	OK	section tag/banner; section: page tag 综合新闻 on p4
+newspaper_chn_eb87830d	241	4	光明日報 › 综合新闻 › 让青春在祖国西部绽放绚丽光芒	OK	story headline, body below; story headline (vertical; figure rubric 连续报道 is not text)
+newspaper_chn_eb87830d	263	4	光明日報 › 综合新闻 › 国家特殊教育数字化资源中心正式启动建设	OK	story headline, body below; story headline
+newspaper_chn_eb87830d	268	4	光明日報 › 综合新闻 › 乡村企业 便民就业	OK	story headline, body below; photo story headline with its own caption text
+newspaper_chn_eb87830d	271	4	光明日報 › 综合新闻 › 内蒙古乌海半固态锂电池储能项目成功并网发电	OK	story headline, body below; story headline
+newspaper_chn_eb87830d	277	4	光明日報 › 综合新闻 › 广西河池宜州区：村寨里的“约定”	OK	story headline, body below; story headline; 引题 广西河池宜州区： in the same box is a deck
+newspaper_chn_eb87830d	281	4	光明日報 › 综合新闻 › 广西河池宜州区：村寨里的“约定” › 村规民约焕发时代生机	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_eb87830d	286	4	光明日報 › 综合新闻 › 广西河池宜州区：村寨里的“约定” › 文明新风吹遍山乡村寨	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_eb87830d	292	4	光明日報 › 综合新闻 › 广西河池宜州区：村寨里的“约定” › 凝聚合力助推产业兴旺	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_eb87830d	297	4	光明日報 › 综合新闻 › 湖南农业大学 以农为基 以魂为核 构建课程思政育人“湘农范式”	OK	story headline, body below; story-level headline of an advertorial framed as an ad (·广告·) with its own headline and su
+newspaper_chn_eb87830d	300	4	光明日報 › 综合新闻 › 湖南农业大学 以农为基 以魂为核 构建课程思政育人“湘农范式” › 精神铸魂：锚定课程思政育人根本	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	304	4	光明日報 › 综合新闻 › 湖南农业大学 以农为基 以魂为核 构建课程思政育人“湘农范式” › 师资赋能：夯实课程思政实施支撑	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	308	4	光明日報 › 综合新闻 › 湖南农业大学 以农为基 以魂为核 构建课程思政育人“湘农范式” › 产教融合：拓宽课程思政实践路径	OK	subhead with its block; subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it p
+newspaper_chn_eb87830d	317	5	光明日報 › 红船初心专刊	OK	section tag/banner; section: special-supplement page banner (no page tag)
+newspaper_chn_eb87830d	322	5	光明日報 › 红船初心专刊 › 江苏省淮安市盱眙县天泉湖镇陡山村：一方青绿润百业	OK	story headline, body below; story headline (vertical); 引题 place line in the same box is a deck
+newspaper_chn_eb87830d	340	5	光明日報 › 红船初心专刊 › 湖北省宜昌市夷陵区小溪塔街道仓屋榜村：遍野金黄甜万家	OK	story headline, body below; story headline (vertical); 引题 place line in the same box is a deck
+newspaper_chn_eb87830d	361	5	光明日報 › 红船初心专刊 › 以文化力量激发乡村振兴蓬勃生机	OK	story headline, body below; story headline
+newspaper_chn_ec796be7	1	1	光明日報	OK	masthead; masthead; pinyin in the same box is text
+newspaper_chn_ec796be7	4	1	光明日報 › 习近平回到北京	OK	story headline, body below; story headline, front page; 引题 lines in the same box are a deck
+newspaper_chn_ec796be7	10	1	光明日報 › 为推动构建公正的世界和可持续的星球贡献力量	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_ec796be7	12	1	光明日報 › 为推动构建公正的世界和可持续的星球贡献力量 › 中国脱贫提供“杰出范例”	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ec796be7	21	1	光明日報 › 为推动构建公正的世界和可持续的星球贡献力量 › 八项行动“令人振奋”	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ec796be7	31	1	光明日報 › 跨越山海的友谊、团结、合作、开拓之旅	OK	story headline, body below; story headline (vertical); 引题 and ——副题 in the same box are decks
+newspaper_chn_ec796be7	35	1	光明日報 › 跨越山海的友谊、团结、合作、开拓之旅 › 一、引领亚太开放合作启新程	OK	subhead with its block; numbered in-story part head with its own block
+newspaper_chn_ec796be7	41	1	光明日報 › 跨越山海的友谊、团结、合作、开拓之旅 › 二、推动全球治理改革再聚焦	OK	subhead with its block; numbered in-story part head with its own block
+newspaper_chn_ec796be7	45	1	光明日報 › 聆听大国外交的铿锵足音	OK	story headline, body below; story headline
+newspaper_chn_ec796be7	59	1	光明日報 › 工布“毕秀”	OK	story headline, body below; story headline
+newspaper_chn_ec796be7	70	2	光明日報 › 要闻	OK	section tag/banner; section: page tag 要闻 on p2
+newspaper_chn_ec796be7	73	2	光明日報 › 要闻 › 赵乐际对葡萄牙进行正式友好访问	OK	story headline, body below; story headline
+newspaper_chn_ec796be7	82	2	光明日報 › 要闻 › 王沪宁会见哈萨克斯坦国务顾问卡林	OK	story headline, body below; story headline
+newspaper_chn_ec796be7	88	2	光明日報 › 要闻 › 聆听大国外交的铿锵足音	OK	"jump/continuation of #45; continuation: jump paragraph starting ""（上接1版）"" of front-page story #45, no printed headlin"
+newspaper_chn_ec796be7	109	2	光明日報 › 要闻 › 民间交流是未来中美关系健康发展的重要基础	OK	story headline, body below; story headline; ——副题 in the same box is a deck
+newspaper_chn_ec796be7	122	2	光明日報 › 要闻 › 跨越山海的友谊、团结、合作、开拓之旅	OK	jump/continuation of #31; continuation: jump line (上接1版) of a front-page story, parts 三-六 follow
+newspaper_chn_ec796be7	123	2	光明日報 › 要闻 › 跨越山海的友谊、团结、合作、开拓之旅 › 三、树立互利共赢合作新典范	OK	subhead with its block; numbered part head of the jumped story
+newspaper_chn_ec796be7	128	2	光明日報 › 要闻 › 跨越山海的友谊、团结、合作、开拓之旅 › 四、开启中巴构建命运共同体新篇章	OK	subhead with its block; numbered part head of the jumped story
+newspaper_chn_ec796be7	134	2	光明日報 › 要闻 › 跨越山海的友谊、团结、合作、开拓之旅 › 五、拓展全球伙伴关系新局面	OK	subhead with its block; numbered part head of the jumped story
+newspaper_chn_ec796be7	141	2	光明日報 › 要闻 › 跨越山海的友谊、团结、合作、开拓之旅 › 六、唱响中国光明前景最雄音	OK	subhead with its block; numbered part head of the jumped story
+newspaper_chn_ec796be7	146	2	光明日報 › 要闻 › 为推动构建公正的世界和可持续的星球贡献力量	OK	jump/continuation of #10; continuation: jump line (上接1版) of a front-page story, its subhead follows
+newspaper_chn_ec796be7	147	2	光明日報 › 要闻 › 为推动构建公正的世界和可持续的星球贡献力量 › 五大理念主张明确正确方向	OK	subhead with its block; in-story subhead of the jumped story
+newspaper_chn_ed6aed31	1	1	光明日報	OK	masthead; masthead; pinyin in the same box is text
+newspaper_chn_ed6aed31	4	1	光明日報 › 《习近平关于民政工作论述摘编》出版发行	OK	story headline, body below; story headline, front page (printed over two lines)
+newspaper_chn_ed6aed31	12	1	光明日報 › 古树有了“双保险”	OK	story headline, body below; story headline (figure rubric 我在现场 is not text)
+newspaper_chn_ed6aed31	20	1	光明日報 › 天山焕新颜 丝路著华章	OK	story headline, body below; story headline; ——综述 subtitle in the same box is a deck
+newspaper_chn_ed6aed31	24	1	光明日報 › 天山焕新颜 丝路著华章 › 西部边疆日新月异	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ed6aed31	34	1	光明日報 › 天山焕新颜 丝路著华章 › 民生福祉持续提升	OK	subhead with its block; in-story subhead with its own block
+newspaper_chn_ed6aed31	38	1	光明日報 › 目的是为老百姓过好日子	OK	story headline, body below; story headline (figure rubric 光明时评)
+newspaper_chn_ed6aed31	48	1	光明日報 › “争鸣专版让学术讨论别开生面”	OK	story headline, body below; story headline
+newspaper_chn_ed6aed31	60	1	光明日報 › 与经典对话,同现实交友	OK	story headline, body below; story headline
+newspaper_chn_ed6aed31	84	2	光明日報 › 评论	OK	section tag/banner; section: page tag 评论 on p2
+newspaper_chn_ed6aed31	87	2	光明日報 › 评论 › 乐见更多青年 扎根西部建功立业	OK	story headline, body below; story headline (printed over two lines)
+newspaper_chn_ed6aed31	105	2	光明日報 › 评论 › 为智慧生活添加更多想象空间	OK	story headline, body below; story headline
+newspaper_chn_ed6aed31	118	2	光明日報 › 评论 › 守护青少年成长，向网络烂梗说“不”	OK	story headline, body below; story headline
+newspaper_chn_ed6aed31	132	2	光明日報 › 评论 › 多措并举为制造业高质量发展蓄势赋能	OK	story headline, body below; story headline (vertical)
+newspaper_chn_ed6aed31	143	2	光明日報 › 评论 › 让“幼有所育” 惠及千家万户	OK	story headline, body below; story headline (printed over two lines)
+newspaper_eng_105ddbb0	1	1	The Washington Post	OK	masthead; masthead (periodical title)
+newspaper_eng_105ddbb0	7	1	The Washington Post › Iran's new president, a reformer, courts U.S.	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_105ddbb0	17	1	The Washington Post › NFL rookie and former teammates die in crash	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	25	1	The Washington Post › 4.1 million migrants: Where they're from, where they stay	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	29	1	The Washington Post › She took on a Miss. city's police. They arrested her.	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	39	1	The Washington Post › Biden digs in as walls close in	OK	story headline, body below; story headline (caps line below is a kicker/deck)
+newspaper_eng_105ddbb0	51	1	The Washington Post › President felt that he had a handle on the fallout, at first	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	80	2	The Washington Post › Biden responds to his critics with defiance. But they see him as being in denial.	OK	story headline, body below; story headline: A2 column, no section tag on A2 (stays under the masthead)
+newspaper_eng_105ddbb0	133	2	The Washington Post › CORRECTIONS	OK	story headline, body below; corrections column with its own text (box with its own title)
+newspaper_eng_105ddbb0	145	3	The Washington Post › POLITICS & THE NATION	OK	section tag/banner; section: printed section banner on A3
+newspaper_eng_105ddbb0	149	3	The Washington Post › POLITICS & THE NATION › Supreme Court term saw declining faith in neutrality, ethical standards	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	193	3	The Washington Post › POLITICS & THE NATION › Trump tries to back away from Project 2025 as Democrats pounce	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	225	4	The Washington Post › POLITICS & THE NATION › Biden's base has been the Senate, which has gone eerily quiet since the debate	OK	story headline, body below; story headline (ELECTION 2024 topic label above is a rubric)
+newspaper_eng_105ddbb0	277	4	The Washington Post › POLITICS & THE NATION › Trump allies prepare to tie Harris to president on vulnerable issues	OK	story headline, body below; story headline
+newspaper_eng_105ddbb0	313	5	The Washington Post › POLITICS & THE NATION › Debate left Biden team flailing, unable to remedy worsening political narrative	OK	jump/continuation of #51; continuation: jump of a front-page story with its own new headline
+newspaper_eng_105ddbb0	325	5	The Washington Post › POLITICS & THE NATION › Debate left Biden team flailing, unable to remedy worsening political narrative › One bad night	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	342	5	The Washington Post › POLITICS & THE NATION › Debate left Biden team flailing, unable to remedy worsening political narrative › Lost days	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	356	5	The Washington Post › POLITICS & THE NATION › Debate left Biden team flailing, unable to remedy worsening political narrative › Doubling down	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	417	6	The Washington Post › POLITICS & THE NATION › Civil right lawyer confronts police force in Miss. town	OK	jump/continuation of #29; continuation: jump of a front-page story with its own new headline
+newspaper_eng_105ddbb0	433	6	The Washington Post › POLITICS & THE NATION › Civil right lawyer confronts police force in Miss. town › A secret recording	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	448	6	The Washington Post › POLITICS & THE NATION › Civil right lawyer confronts police force in Miss. town › A family story	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	482	6	The Washington Post › POLITICS & THE NATION › Civil right lawyer confronts police force in Miss. town › Pulled over, then hired	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_105ddbb0	508	7	The Washington Post › POLITICS & THE NATION › Civil right lawyer confronts police force in Miss. town › Arrest logbooks and a trial	OK	subhead with its block; in-story subhead with its own block (story continues on A7)
+newspaper_eng_105ddbb0	539	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges	OK	story headline, body below; explainer story headline
+newspaper_eng_105ddbb0	549	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 1. Student loan forgiveness	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	557	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 2. Protections for transgender students	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	563	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 3. Workers' rights	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	571	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 4. Electric vehicle support and emissions limits	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	579	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 5. Corporate climate disclosures	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	585	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 6. Net neutrality	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	590	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 7. Intellectual property rights	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	596	8	The Washington Post › POLITICS & THE NATION › 8 policies that could be vulnerable to challenges › 8. Lab-developed medical tests	OK	subhead with its block; numbered explainer item head with its own block
+newspaper_eng_105ddbb0	609	9	The Washington Post › POLITICS & THE NATION › As Biden doubles down on staying in the race, Craig calls on him to withdraw	OK	jump/continuation of #39; continuation: jump of a front-page story with its own new headline
+newspaper_eng_105ddbb0	675	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024	OK	story headline, body below; explainer package headline (deck below is text)
+newspaper_eng_105ddbb0	679	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Prosecuting Trump for trying to block the 2020 election results	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	686	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Limits on social media posts	OK	subhead with its block; ruling item head with its own block (same style as siblings)
+newspaper_eng_105ddbb0	696	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Charging Jan. 6 rioters with obstruction	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	702	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Power of federal agencies	OK	subhead with its block; ruling item head with its own block (same style as siblings)
+newspaper_eng_105ddbb0	713	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Homeless encampments in public spaces	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	719	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Emergency room abortions	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	727	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › SEC tribunals	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	733	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Opioid lawsuit settlement	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	743	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › Downwind industrial pollution	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_105ddbb0	749	10	The Washington Post › POLITICS & THE NATION › The major Supreme Court rulings of 2024 › White House communicating with social media companies on misinformation	OK	subhead with its block; ruling item head with its own block
+newspaper_eng_1153fb03	1	1	The Boston Globe	OK	masthead; masthead (periodical title)
+newspaper_eng_1153fb03	4	1	The Boston Globe › Maine shooting panel sees widespread failures	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_1153fb03	20	1	The Boston Globe › From fractured past, a connection	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	45	1	The Boston Globe › Legal challenges complicate plan for Steward hospitals	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	52	1	The Boston Globe › Obamas lead the charge for Democrats	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	70	1	The Boston Globe › Harris loyalists from 2020 say it's the party that's evolved	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	82	2	The Boston Globe › The Nation	OK	section tag/banner; section: printed section banner The Nation on A2
+newspaper_eng_1153fb03	83	2	The Boston Globe › The Nation › Amtrak stumbles along with century-old system	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	111	2	The Boston Globe › The Nation › DAILY BRIEFING	OK	story headline, body below; briefs column label (story-level heading, briefs below)
+newspaper_eng_1153fb03	115	2	The Boston Globe › The Nation › DAILY BRIEFING › Greenpeace tries a novel tactic in lawsuit over Dakota Access Pipeline	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	126	2	The Boston Globe › The Nation › DAILY BRIEFING › S.D. bridge collapse cleanup begins	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	135	2	The Boston Globe › The Nation › DAILY BRIEFING › Ill. bans corporal punishment in schools	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	144	2	The Boston Globe › The Nation › DAILY BRIEFING › Former officer in Floyd killing moved to Texas prison	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	155	2	The Boston Globe › The Nation › Biden approved nuclear strategy to focus on China	OK	story headline, body below; separate story headline with deck and byline
+newspaper_eng_1153fb03	171	2	The Boston Globe › The Nation › For the record	OK	story headline, body below; corrections column with its own text
+newspaper_eng_1153fb03	177	3	The Boston Globe › The World	OK	section tag/banner; section: printed section banner The World on A3
+newspaper_eng_1153fb03	178	3	The Boston Globe › The World › War draining Ukraine's male workforce	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	206	3	The Boston Globe › The World › Israel says it recovered bodies of 6 hostages	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	233	3	The Boston Globe › The World › DAILY BRIEFING	OK	story headline, body below; briefs column label
+newspaper_eng_1153fb03	234	3	The Boston Globe › The World › DAILY BRIEFING › Accused serial killer escapes custody in Kenya	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	241	3	The Boston Globe › The World › DAILY BRIEFING › Panama deports 29 Colombians on US-paid flight	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	248	3	The Boston Globe › The World › DAILY BRIEFING › Mexico judges vote to strike with court staff	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_1153fb03	255	4	The Boston Globe › The Nation	OK	jump/continuation of #82; continuation: running section tag The Nation on A4, section resumes after The World
+newspaper_eng_1153fb03	260	4	The Boston Globe › The Nation › President's speech was one he never wanted to give	OK	story headline, body below; story headline (caps kicker above is text)
+newspaper_eng_1153fb03	288	4	The Boston Globe › The Nation › Obama, Harris share a long bond and a kindred spirit	OK	story headline, body below; story headline (caps kicker above is text)
+newspaper_eng_1153fb03	318	4	The Boston Globe › The Nation › The DNC might feature a lot of white pantsuits. It's not just fashion.	OK	story headline, body below; story headline (caps kicker above is text)
+newspaper_eng_1153fb03	352	5	The Boston Globe › The Nation › Obamas leading the charge for Democrats	OK	jump/continuation of #52; continuation: jump of a front-page story, headline reprinted
+newspaper_eng_1153fb03	383	5	The Boston Globe › The Nation › Harris loyalists from 2020 say it's the party that's evolved	OK	jump/continuation of #70; continuation: jump of a front-page story
+newspaper_eng_1153fb03	422	6	The Boston Globe › The Nation › Emhoff: Harris will lead with joy and toughness	OK	story headline, body below; story headline (POLITICAL NOTEBOOK rubric is text)
+newspaper_eng_1153fb03	442	6	The Boston Globe › The Nation › Kennedy running mate says they may endorse Trump	OK	story headline, body below; short story headline
+newspaper_eng_1153fb03	454	6	The Boston Globe › The Nation › New York's top court upholds mail-in ballot law	OK	story headline, body below; short story headline
+newspaper_eng_1153fb03	460	6	The Boston Globe › The Nation › Ex-city council wins nomination for Ariz, US seat	OK	story headline, body below; short story headline
+newspaper_eng_1153fb03	468	6	The Boston Globe › The Nation › Legal questions complicate plan for Steward hospitals	OK	jump/continuation of #45; continuation: jump of a front-page story with a new headline
+newspaper_eng_1153fb03	502	6	The Boston Globe › The Nation › Putin visits Chechnya 3 weeks into incursion	OK	story headline, body below; story headline
+newspaper_eng_1153fb03	524	7	The Boston Globe › The Region	OK	section tag/banner; section: running section tag The Region on A7 (section changes)
+newspaper_eng_1153fb03	526	7	The Boston Globe › The Region › Maine shooting panel sees widespread failures	OK	jump/continuation of #4; continuation: jump of a front-page story
+newspaper_eng_1153fb03	564	7	The Boston Globe › The Region › From a Black family’s lost story, a connection emerges	OK	jump/continuation of #20; continuation: jump of a front-page story with a new headline
+newspaper_eng_30d4d13c	1	1	THE TIMES	OK	masthead; title union: masthead split around the crest (THE
+newspaper_eng_30d4d13c	12	1	THE TIMES › Edwards pleads guilty to viewing indecent images	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_30d4d13c	32	1	THE TIMES › Farage denies 'whipping up' street riots in Southport	OK	story headline, body below; RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it) 1 (existing): the IN THE NEWS teaser box after it falls into its subtree
+newspaper_eng_30d4d13c	58	2	THE TIMES › News	OK	section tag/banner; section: running section tag News on p2 (section changes from the front page)
+newspaper_eng_30d4d13c	78	2	THE TIMES › News › Increasing pay threshold for spouses' visas is put on hold	OK	story headline, body below; story headline
+newspaper_eng_30d4d13c	96	2	THE TIMES › News › Sick days and illness leave have doubled in six years	OK	story headline, body below; story headline
+newspaper_eng_30d4d13c	111	2	THE TIMES › News › Edwards pleads guilty	OK	jump/continuation of #12; continuation: jump head after CONTINUED FROM PAGE 1 (label is text)
+newspaper_eng_30d4d13c	117	2	THE TIMES › News › Farage denies 'whipping up' riot	OK	jump/continuation of #32; continuation: jump head after CONTINUED FROM PAGE 1
+newspaper_eng_79250562	1	1	THE TIMES MAGAZINE	OK	masthead; title union: owner THE TIMES + document type MAGAZINE masthead (box OCR garbled)
+newspaper_eng_79250562	21	3	THE TIMES MAGAZINE › FAB FIVE: POSH SOUPS	OK	story headline, body below; box with its own title (product feature on the contents page); no section printed
+newspaper_eng_8a4769ba	1	1	THE TIMES	OK	masthead; title union: masthead split around the crest (THE
+newspaper_eng_8a4769ba	12	1	THE TIMES › Police have given up on punishing shoplifters	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_8a4769ba	31	1	THE TIMES › Starmer: I'll bring back trust in politics	OK	story headline, body below; RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it) 1 (existing): the IN THE NEWS teaser box after it falls into its subtree
+newspaper_eng_8a4769ba	56	2	THE TIMES › News	OK	section tag/banner; section: running section tag News on p2 (section changes from the front page)
+newspaper_eng_8a4769ba	74	2	THE TIMES › News › ‘Emergency powers’ needed by Ofcom to stop online hate	OK	story headline, body below; story headline (two lines in one box)
+newspaper_eng_8a4769ba	91	2	THE TIMES › News › Military training to be cut to fund pay rises for troops	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	100	2	THE TIMES › News › Dig for victim of 1977 IRA murder	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	105	2	THE TIMES › News › Shoplifters go unpunished	OK	jump/continuation of #12; continuation: jump head after CONTINUED FROM PAGE 1 (label is text)
+newspaper_eng_8a4769ba	122	3	THE TIMES › News › It’s a jungle out there after officials ban pesticides from their streets	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	146	3	THE TIMES › News › Parental love is the mother and father of all loves, science agrees	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	170	4	THE TIMES › News › Patients are treating their own injuries to avoid waiting in A&E	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	188	4	THE TIMES › News › NHS launches a 24-hour mental health phone line	OK	story headline, body below; story headline
+newspaper_eng_8a4769ba	199	4	THE TIMES › News › Quintagram No 2031	OK	story headline, body below; puzzle box with its own title
+newspaper_eng_8a4769ba	213	4	THE TIMES › News › Briton dies in Ukraine	OK	story headline, body below; short story headline (untitled column, no briefs label)
+newspaper_eng_8a4769ba	215	4	THE TIMES › News › Biodiversity warning	OK	story headline, body below; short story headline
+newspaper_eng_8a4769ba	217	4	THE TIMES › News › Ten stabbing arrests	OK	story headline, body below; short story headline
+newspaper_eng_8a4769ba	219	4	THE TIMES › News › Gravy wrestling champ	OK	story headline, body below; short story headline
+newspaper_eng_ad370234	6	1	USA TODAY	OK	masthead; masthead (periodical title)
+newspaper_eng_ad370234	14	1	USA TODAY › Homeless killing raises questions	OK	story headline, body below; story headline, front page (no section banner); kicker above is text
+newspaper_eng_ad370234	33	1	USA TODAY › Rallygoer's death opens raw wounds	OK	story headline, body below; story headline
+newspaper_eng_ad370234	50	1	USA TODAY › 'Black Death' killed 50 million people in Europe and still lingers in US today	OK	story headline, body below; story headline
+newspaper_eng_ad370234	65	2	USA TODAY › NEWS	OK	section tag/banner; section: running section tag NEWS on 2A (section changes from the front page)
+newspaper_eng_ad370234	66	2	USA TODAY › NEWS › Homeless killing raises questions	OK	jump/continuation of #14; continuation: one-word jump head of a front-page story
+newspaper_eng_ad370234	78	2	USA TODAY › NEWS › Homeless killing raises questions › Neighbors critical of out-of-state cops police patrolling area	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	88	2	USA TODAY › NEWS › Homeless killing raises questions › Thousands of additional cops in Milwaukee for convention	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	95	2	USA TODAY › NEWS › Homeless killing raises questions › Milwaukee homeless shelter expanded services for convention	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	106	2	USA TODAY › NEWS › 'Black Death' killed 50 million people in Europe and still lingers in US today	OK	jump/continuation of #50; continuation: one-word jump head of a front-page story
+newspaper_eng_ad370234	110	2	USA TODAY › NEWS › 'Black Death' killed 50 million people in Europe and still lingers in US today › Plague terrorized the globe, killed millions of people	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	121	2	USA TODAY › NEWS › 'Black Death' killed 50 million people in Europe and still lingers in US today › Plague never went away, still circulating out West	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	130	2	USA TODAY › NEWS › 'Black Death' killed 50 million people in Europe and still lingers in US today › Bubonic plague, thankfully, does not spread person-to-person	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	136	2	USA TODAY › NEWS › 'Black Death' killed 50 million people in Europe and still lingers in US today › Take plague seriously, but don't worry too much	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	155	3	USA TODAY › NEWS › Trump rally security to be probed	OK	story headline, body below; story headline
+newspaper_eng_ad370234	168	3	USA TODAY › NEWS › Trump rally security to be probed › Victim has 'life-altering injuries'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	175	3	USA TODAY › NEWS › Trump rally security to be probed › Iran denies plotting to kill Trump	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	183	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds	OK	jump/continuation of #33; continuation: one-word jump head of a front-page story
+newspaper_eng_ad370234	192	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds › Decades of service	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	199	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds › 'God first, his family second'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	208	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds › Gunshots, then 'Get down!'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	220	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds › Outpouring of support	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	229	3	USA TODAY › NEWS › Rallygoer's death opens raw wounds › Friends left with memories	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	237	4	USA TODAY › NEWS › Freedom Summer helped change US	OK	story headline, body below; story headline
+newspaper_eng_ad370234	252	4	USA TODAY › NEWS › Freedom Summer helped change US › Saluting the power of local activists	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	267	4	USA TODAY › NEWS › Freedom Summer helped change US › What was Freedom Summer?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	276	4	USA TODAY › NEWS › Freedom Summer helped change US › 'Still work to be done'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	289	5	USA TODAY › NEWS › Causes of bird flu outbreak targeted	OK	story headline, body below; story headline
+newspaper_eng_ad370234	302	5	USA TODAY › NEWS › Causes of bird flu outbreak targeted › The unfolding route of transmission	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	309	5	USA TODAY › NEWS › Causes of bird flu outbreak targeted › Sweltering barns, feathers flying	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	317	5	USA TODAY › NEWS › Causes of bird flu outbreak targeted › What preparedness looks like	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	340	6	USA TODAY › NEWS › At least 3 dead after severe storms	OK	story headline, body below; story headline
+newspaper_eng_ad370234	370	6	USA TODAY › NEWS › Justices halt Gutierrez execution in Texas	OK	story headline, body below; story headline
+newspaper_eng_ad370234	378	6	USA TODAY › NEWS › Justices halt Gutierrez execution in Texas › Gutierrez's conviction and DNA testing argument	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	391	6	USA TODAY › NEWS › Justices halt Gutierrez execution in Texas › Gutierrez's execution stay is 'devastating,' nephew says	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	404	6	USA TODAY › NEWS › Justices halt Gutierrez execution in Texas › Escolastica Harrison was enjoying retirement when attacked	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	419	7	USA TODAY › OPINION	OK	section tag/banner; section: printed OPINION banner on 7A
+newspaper_eng_ad370234	421	7	USA TODAY › OPINION › DOJ went too far against Trump case	OK	story headline, body below; opinion column headline
+newspaper_eng_ad370234	433	7	USA TODAY › OPINION › DOJ went too far against Trump case › Justice Thomas raised same issue	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	443	7	USA TODAY › OPINION › DOJ went too far against Trump case › 'Very little oversight or supervision'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	454	7	USA TODAY › OPINION › DOJ went too far against Trump case › Immunity case could go up to Inauguration Day	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	459	7	USA TODAY › OPINION › Let's look at Trump's judge on documents	OK	story headline, body below; opinion column headline
+newspaper_eng_ad370234	469	7	USA TODAY › OPINION › Let's look at Trump's judge on documents › Judge Aileen Cannon did her part in the Trump document case.	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	479	7	USA TODAY › OPINION › Let's look at Trump's judge on documents › Decision to throw out document case started years ago	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	486	7	USA TODAY › OPINION › Let's look at Trump's judge on documents › Let's not forget Supreme Court's role	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	497	7	USA TODAY › OPINION › Let's look at Trump's judge on documents › 'Future Supreme Court Justice Cannon'?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	533	9	USA TODAY › MONEY	OK	section tag/banner; section: MONEY section-front banner (date/section line in the box is text)
+newspaper_eng_ad370234	538	9	USA TODAY › MONEY › Immigrants’ effect on economy eyed	OK	story headline, body below; story headline
+newspaper_eng_ad370234	552	9	USA TODAY › MONEY › MONEYLINE	OK	story headline, body below; briefs column label
+newspaper_eng_ad370234	553	9	USA TODAY › MONEY › MONEYLINE › MERCEDES BENZ, STARBUCKS JOIN IN CHARGING STATIONS	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_ad370234	555	9	USA TODAY › MONEY › MONEYLINE › RANSOMWARE ATTACK COST CAR DEALERS $1BILLION	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_ad370234	557	9	USA TODAY › MONEY › MONEYLINE › DISNEY SPRINGS CARRYSCUSTOMIZABLE HEADBANDS	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_ad370234	561	9	USA TODAY › MONEY › Group: 3 cities own best conditions for renters	OK	story headline, body below; story headline
+newspaper_eng_ad370234	566	9	USA TODAY › MONEY › Group: 3 cities own best conditions for renters › What cities are best for renters?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	573	9	USA TODAY › MONEY › Group: 3 cities own best conditions for renters › Which cities are the worst for renters?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	582	10	USA TODAY › MONEY › Beware AI voice scams that could rip you off	OK	story headline, body below; story headline
+newspaper_eng_ad370234	587	10	USA TODAY › MONEY › Beware AI voice scams that could rip you off › 10 popular tactics	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	603	10	USA TODAY › MONEY › Beware AI voice scams that could rip you off › Your plan of action	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	612	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed	OK	jump/continuation of #538; continuation: one-word jump head of a section-front story
+newspaper_eng_ad370234	616	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › How many immigrants enter the US per year?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	619	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › How is the US economy affected by immigration?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	626	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › What percentage of jobs is filled by immigrants?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	629	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › Can immigration fix labor shortages?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	639	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › How does wage growth affect inflation?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	647	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › Do immigrants take jobs from Americans?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	650	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › Are immigrants depressing wages for Americans?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	658	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › Can immigration cause inflation?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	665	10	USA TODAY › MONEY › Immigrants’ effect on economy eyed › Do immigrants have a positive net impact on the economy?	OK	subhead with its block; FAQ question with its own answer block
+newspaper_eng_ad370234	671	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains	OK	story headline, body below; Q&A story headline
+newspaper_eng_ad370234	676	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › Question: Why did you want to write this book?	OK	subhead with its block; interview question on its own line with its own answer block
+newspaper_eng_ad370234	678	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › Can you say more about how the loss of those savings impacted the building of generational wealth?	OK	subhead with its block; interview question with its own answer block
+newspaper_eng_ad370234	681	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › What's the impact of that distrust?	OK	subhead with its block; interview question with its own answer block
+newspaper_eng_ad370234	684	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › You note that the bank was initially successful. How so?	OK	subhead with its block; interview question with its own answer block
+newspaper_eng_ad370234	690	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › Some people don't want to look at how systemic practices or neglect can have an impact decades later. What do you say to that?	OK	subhead with its block; interview question with its own answer block
+newspaper_eng_ad370234	693	11	USA TODAY › MONEY › Pain of Freedman's Bank collapse remains › What are some of the ways we can remedy the racial wealth gap?	OK	subhead with its block; interview question with its own answer block
+newspaper_eng_ad370234	696	11	USA TODAY › MONEY › Disney World's sites offer accessibility for wheelchair users	OK	story headline, body below; story headline
+newspaper_eng_ad370234	703	11	USA TODAY › MONEY › Disney World's sites offer accessibility for wheelchair users › Accessibility at Orlando International Airport	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	707	11	USA TODAY › MONEY › Disney World's sites offer accessibility for wheelchair users › Accessibility within Disney's theme parks in Orlando	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	718	11	USA TODAY › MONEY › Disney World's sites offer accessibility for wheelchair users › Accessibility at Walt Disney World Resort hotels	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ad370234	730	12	USA TODAY › MONEY › 50 States	OK	50 States briefs page; the HIGHLIGHT: INDIANA photo brief and all state briefs now sit here
+newspaper_eng_ad370234	787	13	USA TODAY › SPORTS	OK	section tag/banner; section: SPORTS section-front banner
+newspaper_eng_ad370234	793	13	USA TODAY › SPORTS › STAMPED WITH GREATNESS	OK	story headline, body below; story headline (on the photo)
+newspaper_eng_ad370234	808	13	USA TODAY › SPORTS › Trade rumors surround All-Star fireballers	OK	story headline, body below; story headline
+newspaper_eng_ad370234	823	13	USA TODAY › SPORTS › Gymnastics needs to be more accessible for kids of color	OK	story headline, body below; story headline
+newspaper_eng_ad370234	839	14	USA TODAY › SPORTS › STAMPED WITH GREATNESS	OK	jump/continuation of #793; continuation: one-word jump head of a section-front story
+newspaper_eng_ad370234	857	14	USA TODAY › SPORTS › Gymnastics needs to be more accessible for kids of color	OK	jump/continuation of #823; continuation: one-word jump head
+newspaper_eng_ad370234	883	14	USA TODAY › SPORTS › Trade rumors surround All-Star fireballers	OK	jump/continuation of #808; continuation: one-word jump head
+newspaper_eng_ad370234	732	12	USA TODAY › MONEY › 50 States › HIGHLIGHT:INDIANA	REMOVED	kicker label over one photo brief; the 50 state briefs after it fell into its subtree (containment), now text
+newspaper_eng_b5e01773	1	1	Boston Sunday Globe	OK	masthead; masthead (periodical title)
+newspaper_eng_b5e01773	5	1	Boston Sunday Globe › Driven to the edge	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_b5e01773	16	1	Boston Sunday Globe › Fake electors are among GOP delegates	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	26	1	Boston Sunday Globe › City served by Steward fears fate of hospital	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	49	1	Boston Sunday Globe › Anxiety taking a toll on school days	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	68	2	Boston Sunday Globe › The World	OK	section tag/banner; section: running section tag The World on A2 (section changes from the front page)
+newspaper_eng_b5e01773	73	2	Boston Sunday Globe › The World › In Gaza, criticism of Hamas is growing	OK	story headline, body below; story headline (line beside the photo is its deck)
+newspaper_eng_b5e01773	110	2	Boston Sunday Globe › The World › Vehicle explosion kills 8 Israeli soldiers, official says	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	135	2	Boston Sunday Globe › The World › THE WORLD TODAY	OK	story headline, body below; briefs column label
+newspaper_eng_b5e01773	137	2	Boston Sunday Globe › The World › THE WORLD TODAY › 2 Swedes released in prisoner swap	OK	subhead with its block; brief headline under the briefs label; country label above is a kicker
+newspaper_eng_b5e01773	139	2	Boston Sunday Globe › The World › THE WORLD TODAY › Activist held in Budapest freed	OK	subhead with its block; brief headline; country label in the same box is a kicker
+newspaper_eng_b5e01773	141	2	Boston Sunday Globe › The World › THE WORLD TODAY › Answers sought on police hitting cow	OK	subhead with its block; brief headline; country label in the same box is a kicker
+newspaper_eng_b5e01773	160	4	Boston Sunday Globe › The World › World leaders meet to discuss Ukraine peace roadmap	OK	story headline, body below; story headline (A4, running tag still The World; A3 is an ad)
+newspaper_eng_b5e01773	190	4	Boston Sunday Globe › The World › Haiti replaces police chief as gang violence claims officers' lives	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	214	4	Boston Sunday Globe › The World › Divers find parts of Finnish WWII plane	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	259	6	Boston Sunday Globe › The Nation	OK	section tag/banner; section: running section tag The Nation on A6 (section changes)
+newspaper_eng_b5e01773	262	6	Boston Sunday Globe › The Nation › Tribal members reclaiming ‘land of the flowing water’	OK	story headline, body below; story headline
+newspaper_eng_b5e01773	336	7	Boston Sunday Globe › The Nation › Iowa takes lead in fighting potential stem cell scams	OK	story headline, body below; story headline
+newspaper_eng_b6de1de8	2	1	The Guardian Weekly	OK	masthead; masthead; tagline, date and volume in the same box are text
+newspaper_eng_b6de1de8	56	4	The Guardian Weekly › Global report	OK	section tag/banner; section: printed section banner Global report (deck below is text)
+newspaper_eng_b6de1de8	59	4	The Guardian Weekly › Global report › Russian and US officials hold talks in Saudi Arabia	OK	story headline, body below; brief story headline under the section; location label above is a kicker
+newspaper_eng_b6de1de8	67	4	The Guardian Weekly › Global report › Two dead and 37 injured after Munich car attack	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	72	4	The Guardian Weekly › Global report › Approval of supreme court sought for watchdog firing	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	78	4	The Guardian Weekly › Global report › Man who rammed knife attacker hailed as hero	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	84	4	The Guardian Weekly › Global report › Pope Francis in hospital for tests after infection	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	91	5	The Guardian Weekly › Global report › At least 18 injured after plane crash lands in Toronto	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	97	5	The Guardian Weekly › Global report › Brasilia asks UN to ditch carbon levy on shipping	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	101	5	The Guardian Weekly › Global report › Language test for residence could stump some locals	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	106	5	The Guardian Weekly › Global report › UN aviation meetings remain clouded in secrecy	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	111	5	The Guardian Weekly › Global report › Conclave celebrates a divine night at the Baftas	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	117	6	The Guardian Weekly › Global report › Collapse of illegally run goldmine kills 48 people	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	123	6	The Guardian Weekly › Global report › M23 rebels take Bukavu in latest seizure of territory	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	128	6	The Guardian Weekly › Global report › First 'openly gay imam' shot to death in his car	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	133	6	The Guardian Weekly › Global report › Plan for first Russian naval base in Africa agreed	OK	story headline, body below; brief story headline
+newspaper_eng_b6de1de8	9	2	The Guardian Weekly › The rat pack	REMOVED	photo caption title; colophon box and the whole p3 contents page fell into its subtree (containment), now text
+newspaper_eng_c21bfc8c	5	1	USA TODAY	OK	masthead; masthead (periodical title)
+newspaper_eng_c21bfc8c	19	1	USA TODAY › Colleges divesting of Israel warned	OK	story headline, body below; story headline, front page (no section banner)
+newspaper_eng_c21bfc8c	30	1	USA TODAY › Hope in America	OK	story headline, body below; package banner over two front-page stories
+newspaper_eng_c21bfc8c	32	1	USA TODAY › Hope in America › We're optimistic about everything except our politics	OK	subhead with its block; package story headline
+newspaper_eng_c21bfc8c	45	1	USA TODAY › Hope in America › Maine town holds to the past, paves way for the future	OK	subhead with its block; package story headline
+newspaper_eng_c21bfc8c	54	1	USA TODAY › Thousands of school districts lacking AC	OK	story headline, body below; story headline
+newspaper_eng_c21bfc8c	69	2	USA TODAY › NEWS	OK	section tag/banner; section: running section tag NEWS on 2A (section changes from the front page)
+newspaper_eng_c21bfc8c	72	2	USA TODAY › NEWS › We're optimistic about everything except our politics	OK	jump/continuation of #32; continuation: one-word jump head of a package story (story role on the jump page)
+newspaper_eng_c21bfc8c	78	2	USA TODAY › NEWS › We're optimistic about everything except our politics › Official population: 113. Fact check? Likely overstated	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	96	2	USA TODAY › NEWS › We're optimistic about everything except our politics › Inspirational Obama for Democrats, Reagan for the GOP	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	136	3	USA TODAY › NEWS › Maine town holds to the past, paves way for the future	OK	jump/continuation of #45; continuation: one-word jump head of a package story
+newspaper_eng_c21bfc8c	154	3	USA TODAY › NEWS › Maine town holds to the past, paves way for the future › The center of town	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	172	3	USA TODAY › NEWS › Maine town holds to the past, paves way for the future › Changing with the times	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	186	3	USA TODAY › NEWS › Maine town holds to the past, paves way for the future › All politics is local	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	205	3	USA TODAY › NEWS › Maine town holds to the past, paves way for the future › Restoring and preserving hope	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	222	4	USA TODAY › NEWS › Springfield, Ohio's Haitian residents share their fears	OK	story headline, body below; story headline
+newspaper_eng_c21bfc8c	239	4	USA TODAY › NEWS › Thousands of school districts lacking AC	OK	jump/continuation of #54; continuation: jump head of a front-page story
+newspaper_eng_c21bfc8c	247	4	USA TODAY › NEWS › Thousands of school districts lacking AC › Why do schools lack adequate AC?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	256	4	USA TODAY › NEWS › Thousands of school districts lacking AC › Heat affects learning, teaching	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	260	4	USA TODAY › NEWS › Thousands of school districts lacking AC › Are there solutions?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	269	4	USA TODAY › NEWS › Colleges divesting of Israel warned	OK	jump/continuation of #19; continuation: jump head of a front-page story
+newspaper_eng_c21bfc8c	279	4	USA TODAY › NEWS › Colleges divesting of Israel warned › Antibocott laws: What are they?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	288	4	USA TODAY › NEWS › Colleges divesting of Israel warned › A free speech issue?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	293	4	USA TODAY › NEWS › Colleges divesting of Israel warned › Student activists unfazed	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	305	5	USA TODAY › NEWS › A month to fly the flag for Hispanic diversity	OK	story headline, body below; story headline (Just Curious rubric above is text)
+newspaper_eng_c21bfc8c	316	5	USA TODAY › NEWS › A month to fly the flag for Hispanic diversity › Marking independence days	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	322	5	USA TODAY › NEWS › A month to fly the flag for Hispanic diversity › What is the difference between Hispanic and Latino?	OK	subhead with its block; in-story subhead (question) with its own answer block
+newspaper_eng_c21bfc8c	328	5	USA TODAY › NEWS › A month to fly the flag for Hispanic diversity › Museum in Washington showcases America's Latinos	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	333	5	USA TODAY › NEWS › A month to fly the flag for Hispanic diversity › What should people do to mark Hispanic Heritage Month?	OK	subhead with its block; in-story subhead (question) with its own answer block
+newspaper_eng_c21bfc8c	350	6	USA TODAY › NEWS › FBI: Another Trump assassination attempt	OK	story headline, body below; story headline
+newspaper_eng_c21bfc8c	371	6	USA TODAY › NEWS › High-dose ADHD drugs pose mental health risk to patients	OK	story headline, body below; story headline
+newspaper_eng_c21bfc8c	386	6	USA TODAY › NEWS › High-dose ADHD drugs pose mental health risk to patients › Higher doses pose a greater risk	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	393	6	USA TODAY › NEWS › High-dose ADHD drugs pose mental health risk to patients › Which ADHD drugs are not linked to psychosis or mania?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	397	6	USA TODAY › NEWS › High-dose ADHD drugs pose mental health risk to patients › Amid shortages, risks of switching ADHD medications	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	400	6	USA TODAY › NEWS › Guns are still leading cause of death for kids	OK	story headline, body below; story headline
+newspaper_eng_c21bfc8c	410	6	USA TODAY › NEWS › Guns are still leading cause of death for kids › Gun deaths disproportionately affect Black youth	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	419	6	USA TODAY › NEWS › Guns are still leading cause of death for kids › Rise in gun violence incidents across US schools	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	423	6	USA TODAY › NEWS › Guns are still leading cause of death for kids › What can the US do about gun violence?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	433	7	USA TODAY › OPINION	OK	section tag/banner; section: OPINION tag on 7A (section changes)
+newspaper_eng_c21bfc8c	435	7	USA TODAY › OPINION › Speaker would risk shutdown for Trump	OK	story headline, body below; opinion column headline
+newspaper_eng_c21bfc8c	458	7	USA TODAY › OPINION › Speaker would risk shutdown for Trump › Even some Republicans are fed up with Johnson	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	465	7	USA TODAY › OPINION › Speaker would risk shutdown for Trump › Tie government shutdown to paying members of House, Senate	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	474	7	USA TODAY › OPINION › Speaker would risk shutdown for Trump › 'It's not something that is easily proven'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	482	7	USA TODAY › OPINION › Colleges need to fight antisemitism on campus – starting now	OK	story headline, body below; opinion column headline
+newspaper_eng_c21bfc8c	491	7	USA TODAY › OPINION › Colleges need to fight antisemitism on campus – starting now › Universities must ensure Jewish students' safety	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	496	7	USA TODAY › OPINION › Colleges need to fight antisemitism on campus – starting now › How colleges can combat antisemitism on campus	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_c21bfc8c	505	7	USA TODAY › OPINION › Colleges need to fight antisemitism on campus – starting now › Jewish students and faculty deserve to be seen and heard	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_daf7a3e4	1	1	The Boston Globe	OK	masthead; masthead (periodical title)
+newspaper_eng_daf7a3e4	4	1	The Boston Globe › Healey's message to migrants: No room left	OK	story headline, body below; package headline over two front-page stories (no section banner)
+newspaper_eng_daf7a3e4	5	1	The Boston Globe › Healey's message to migrants: No room left › Loss of airport sanctuary brings feelings of despair	OK	subhead with its block; package story headline with its own byline
+newspaper_eng_daf7a3e4	13	1	The Boston Globe › Healey's message to migrants: No room left › Warning about state’s capacity reflects budgetary and political pressures	OK	subhead with its block; package story headline with its own byline
+newspaper_eng_daf7a3e4	27	1	The Boston Globe › Biden aware of stakes, allies say	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	46	1	The Boston Globe › State pushes for concessions from 8 hospitals' landlords	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	61	1	The Boston Globe › With ERs overwhelmed, patients will be diverted to urgent cares	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	81	2	The Boston Globe › The Nation	OK	section tag/banner; section: printed section banner The Nation on A2
+newspaper_eng_daf7a3e4	82	2	The Boston Globe › The Nation › Abortion rights could be on Ariz., Neb. ballots	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	107	2	The Boston Globe › The Nation › DAILY BRIEFING	OK	story headline, body below; briefs column label
+newspaper_eng_daf7a3e4	111	2	The Boston Globe › The Nation › DAILY BRIEFING › Blazing hot surfaces are a danger for catastrophic burn injuries in the Southwest	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	120	2	The Boston Globe › The Nation › DAILY BRIEFING › US departs I16 Chinese migrants	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	128	2	The Boston Globe › The Nation › DAILY BRIEFING › Deadline looms in Baldwin case	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	136	2	The Boston Globe › The Nation › DAILY BRIEFING › Maryland OK's $50 million Key Bridge cleanup	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	147	2	The Boston Globe › The Nation › Justice Dept. plans to pursue Trump cases past Election Day	OK	story headline, body below; separate story headline with byline
+newspaper_eng_daf7a3e4	159	2	The Boston Globe › The Nation › For the record	OK	story headline, body below; corrections column with its own text
+newspaper_eng_daf7a3e4	176	4	The Boston Globe › The World	OK	section tag/banner; section: printed section banner The World on A4
+newspaper_eng_daf7a3e4	180	4	The Boston Globe › The World › Israel pushes ahead with West Bank land taking	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	208	4	The Boston Globe › The World › Israel kills another senior Hezbollah leader in Lebanon	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	232	4	The Boston Globe › The World › DAILY BRIEFING	OK	story headline, body below; briefs column label
+newspaper_eng_daf7a3e4	233	4	The Boston Globe › The World › DAILY BRIEFING › Sierra Leone passes law banning child marriages	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	240	4	The Boston Globe › The World › DAILY BRIEFING › China warns Taiwan on fishing boat incident	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	246	4	The Boston Globe › The World › DAILY BRIEFING › Hurricane moves on to Jamaica as death toll climbs	OK	subhead with its block; brief headline under the briefs label
+newspaper_eng_daf7a3e4	273	6	The Boston Globe › The Nation	OK	jump/continuation of #81; continuation: running section tag The Nation on A6, section resumes after The World
+newspaper_eng_daf7a3e4	276	6	The Boston Globe › The Nation › Post-debate poll shows Trump with a widening lead	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	299	6	The Boston Globe › The Nation › Obama tells allies Biden has tough road	OK	story headline, body below; separate wire story headline
+newspaper_eng_daf7a3e4	311	6	The Boston Globe › The Nation › MSNBC hosts have harsh words on president	OK	story headline, body below; separate wire story headline
+newspaper_eng_daf7a3e4	332	6	The Boston Globe › The Nation › US allies see a worrisome turn in presidential immunity ruling	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	366	8	The Boston Globe › The Nation › Business leaders urge president to 'pass the torch'	OK	story headline, body below; story headline (CAMPAIGN 2024 topic label above is text)
+newspaper_eng_daf7a3e4	388	8	The Boston Globe › The Nation › Biden well aware of stakes heading into weekend, allies say	OK	jump/continuation of #27; continuation: jump of a front-page story with a new headline
+newspaper_eng_daf7a3e4	427	8	The Boston Globe › The Nation › Trump advisers hope Biden stays in race, as they eye alternate scenarios	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	455	9	The Boston Globe › The Region	OK	section tag/banner; section: running section tag The Region on A9 (section changes)
+newspaper_eng_daf7a3e4	457	9	The Boston Globe › The Region › Healey's message to migrants: No room left	OK	jump/continuation of #4; continuation: package headline reprinted over the jump
+newspaper_eng_daf7a3e4	498	9	The Boston Globe › The Region › Healey's message to migrants: No room left › Impending loss of airport sanctuary leaves many at a loss	OK	jump/continuation of #5; continuation: jump of a package story with a new headline, inside the reprinted package
+newspaper_eng_daf7a3e4	542	10	The Boston Globe › Opinion	OK	section tag/banner; section: printed Opinion banner on A10 (url in the same box is text)
+newspaper_eng_daf7a3e4	581	10	The Boston Globe › Opinion › To restore Harvard's reputation, faculty should speak up	OK	story headline, body below; editorial headline (EDITORIAL rubric is text)
+newspaper_eng_daf7a3e4	618	11	The Boston Globe › Opinion › How much did Democrats and the press know about Biden's decline before the debate?	OK	story headline, body below; column headline (columnist name above is text)
+newspaper_eng_daf7a3e4	635	11	The Boston Globe › Opinion › High electricity rates may prevent people from installing heat pumps in their homes	OK	story headline, body below; opinion piece headline
+newspaper_eng_daf7a3e4	652	11	The Boston Globe › Opinion › INBOX	OK	story headline, body below; letters column label (INBOX)
+newspaper_eng_daf7a3e4	653	11	The Boston Globe › Opinion › INBOX › We must defend the freedoms the founders gave us	OK	subhead with its block; letter headline under the letters label
+newspaper_eng_daf7a3e4	657	11	The Boston Globe › Opinion › INBOX › While the Legislature dawdles, climate change presses on	OK	subhead with its block; letter headline under the letters label
+newspaper_eng_daf7a3e4	672	11	The Boston Globe › Opinion › INBOX › How to right a wrong done to Bill Russell	OK	subhead with its block; letter headline under the letters label
+newspaper_eng_daf7a3e4	677	12	The Boston Globe › World/Region	OK	section tag/banner; section: running section tag World/Region on A12 (section changes)
+newspaper_eng_daf7a3e4	680	12	The Boston Globe › World/Region › Nazi hunter picks far right over far left on French ballot	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	699	12	The Boston Globe › World/Region › State pushes for concessions from 8 hospitals' landlords	OK	jump/continuation of #46; continuation: jump of a front-page story with headline reprinted
+newspaper_eng_daf7a3e4	736	12	The Boston Globe › World/Region › With ERs overwhelmed, some patients will be diverted to urgent cares	OK	jump/continuation of #61; continuation: jump of a front-page story
+newspaper_eng_daf7a3e4	768	13	The Boston Globe › Metro	OK	section tag/banner; section: printed Metro banner on B1
+newspaper_eng_daf7a3e4	772	13	The Boston Globe › Metro › The royal scam	OK	story headline, body below; column headline (columnist name above is text)
+newspaper_eng_daf7a3e4	793	13	The Boston Globe › Metro › Plans for E. Boston park scratched	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	812	13	The Boston Globe › Metro › Mass. man could be top dog at Coney Island contest	OK	story headline, body below; story headline
+newspaper_eng_daf7a3e4	827	13	The Boston Globe › Metro › YOU DON'T NEED TO LOOK UP TO SEE THESE EXPLOSIONS OF COLOR	OK	story headline, body below; photo story headline with its own story text
+newspaper_eng_e4dd9616	6	1	USA TODAY	OK	masthead; masthead (periodical title)
+newspaper_eng_e4dd9616	13	1	USA TODAY › Handful of VIPs are noted no-shows	OK	story headline, body below; story headline, front page (no section banner); kicker above is text
+newspaper_eng_e4dd9616	21	1	USA TODAY › Outdated 911 system faces its own crisis in US	OK	story headline, body below; story headline
+newspaper_eng_e4dd9616	33	1	USA TODAY › Heavenly pair: ‘Penguin and Egg’ galaxies	OK	story headline, body below; photo story headline (line under the photo is its deck)
+newspaper_eng_e4dd9616	46	1	USA TODAY › Immigrants' sharp rise in South brings strife over border politics	OK	story headline, body below; story headline
+newspaper_eng_e4dd9616	58	2	USA TODAY › NEWS	OK	section tag/banner; section: running section tag NEWS on 2A (section changes from the front page)
+newspaper_eng_e4dd9616	59	2	USA TODAY › NEWS › Ruling mandates release of Uvalde records	OK	story headline, body below; story headline
+newspaper_eng_e4dd9616	70	2	USA TODAY › NEWS › Ruling mandates release of Uvalde records › Decision follows a similar 2023 ruling	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	75	2	USA TODAY › NEWS › Ruling mandates release of Uvalde records › Texas law enforcement criticized for delayed response to shooting	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	87	2	USA TODAY › NEWS › Outdated 911 system faces its own crisis in US	OK	jump/continuation of #21; continuation: jump head of a front-page story
+newspaper_eng_e4dd9616	135	3	USA TODAY › NEWS › Police officer encountered Trump shooter	OK	story headline, body below; story headline
+newspaper_eng_e4dd9616	148	3	USA TODAY › NEWS › Police officer encountered Trump shooter › Secret Service director to testify before Congress	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	155	3	USA TODAY › NEWS › Police officer encountered Trump shooter › Authorities fear violence could breed violence	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	160	3	USA TODAY › NEWS › Police officer encountered Trump shooter › Slain fireman's widow rejects Biden's call but doesn't blame him	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	166	3	USA TODAY › NEWS › Police officer encountered Trump shooter › Crooks reportedly bought ladder before shooting	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	172	3	USA TODAY › NEWS › Handful of VIPs are noted no-shows	OK	jump/continuation of #13; continuation: one-word jump head of a front-page story
+newspaper_eng_e4dd9616	177	3	USA TODAY › NEWS › Handful of VIPs are noted no-shows › Planning a write-in vote	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	181	3	USA TODAY › NEWS › Handful of VIPs are noted no-shows › Changing roles of conventions	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	191	3	USA TODAY › NEWS › Handful of VIPs are noted no-shows › Passing on the baton	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_e4dd9616	200	4	USA TODAY › NEWS › One of world's oldest gorillas dies in Calif.	OK	story headline, body below; story headline
+newspaper_eng_e4dd9616	228	4	USA TODAY › NEWS › Popular CoQ10 Pills Leave Millions Suffering	OK	story headline, body below; story-level headline of an advertorial framed as an ad (PAID ADVERTISEMENT) with its own h
+newspaper_eng_e4dd9616	237	4	USA TODAY › NEWS › Popular CoQ10 Pills Leave Millions Suffering › Why Taking CoQ10 is Not Enough	OK	subhead with its block; subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and 
+newspaper_eng_e4dd9616	243	4	USA TODAY › NEWS › Popular CoQ10 Pills Leave Millions Suffering › Science Confirms the Many Benefits of PQQ	OK	subhead with its block; subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and 
+newspaper_eng_e4dd9616	249	4	USA TODAY › NEWS › Popular CoQ10 Pills Leave Millions Suffering › Will Ultra Accel Q Multiply Your Energy?	OK	subhead with its block; subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and 
+newspaper_eng_e4dd9616	257	4	USA TODAY › NEWS › Popular CoQ10 Pills Leave Millions Suffering › How To Get Ultra Accel Q	OK	subhead with its block; subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and 
+newspaper_eng_ed12985c	6	1	USA TODAY	OK	masthead; masthead (periodical title)
+newspaper_eng_ed12985c	14	1	USA TODAY › Can Biden overcome damaging debate?	OK	story headline, body below; column headline, front page (no section banner)
+newspaper_eng_ed12985c	31	1	USA TODAY › Workplace safety rules may be next target of high court	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	43	1	USA TODAY › At 60, Civil Rights Act 'propelled a movement'	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	50	1	USA TODAY › Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	62	2	USA TODAY › NEWS	OK	section tag/banner; section: running section tag NEWS on 2A (section changes from the front page)
+newspaper_eng_ed12985c	63	2	USA TODAY › NEWS › In major decision, Supreme Court allows cities to ban homeless camps	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	71	2	USA TODAY › NEWS › In major decision, Supreme Court allows cities to ban homeless camps › Cruel and unusual punishment?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	80	2	USA TODAY › NEWS › In major decision, Supreme Court allows cities to ban homeless camps › ‘Urgent relief’ to communities	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	87	2	USA TODAY › NEWS › In major decision, Supreme Court allows cities to ban homeless camps › Criminalizing homelessness in a city without a homeless shelter	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	95	2	USA TODAY › NEWS › Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean	OK	jump/continuation of #50; continuation: one-word jump head of a front-page story
+newspaper_eng_ed12985c	106	2	USA TODAY › NEWS › Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean › Will Hurricane Beryl hit the US?	OK	subhead with its block; in-story subhead (question) with its own block
+newspaper_eng_ed12985c	113	2	USA TODAY › NEWS › Beryl an 'extremely dangerous' Cat 4 storm as it roars toward Caribbean › What is the outlook for the 2024 season?	OK	subhead with its block; in-story subhead (question) with its own block
+newspaper_eng_ed12985c	118	2	USA TODAY › NEWS › Workplace safety rules may be next target of high court	OK	jump/continuation of #31; continuation: jump head of a front-page story
+newspaper_eng_ed12985c	125	2	USA TODAY › NEWS › Workplace safety rules may be next target of high court › A falling catwalk brace injures a worker: The penalty is $5,967	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	129	2	USA TODAY › NEWS › Workplace safety rules may be next target of high court › Safety law OK'd by Richard Nixon	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	133	2	USA TODAY › NEWS › Workplace safety rules may be next target of high court › 'Nearly unfettered discretion'?	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	158	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement'	OK	jump/continuation of #43; continuation: jump head of a front-page story
+newspaper_eng_ed12985c	165	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Extended lives, improved educational success, helped people get better jobs	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	176	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › We are living proof of progress	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	186	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Still need to protect the civil liberties of all citizens	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	195	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › A conservative perspective: We've gone too far	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	203	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Our 'abiding commitment to freedom' is being undermined	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	216	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Souls lost to exploitation, racism	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	226	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Every generation makes progress	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	234	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › We still have a very long way to go.	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	244	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › Channel discontent	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	255	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › All created in the image of God	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	265	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › It is all of our responsibility	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	274	3	USA TODAY › NEWS › At 60, Civil Rights Act 'propelled a movement' › We must take an active role in protecting its legacy	OK	subhead with its block; contributor essay title with its own block
+newspaper_eng_ed12985c	286	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	296	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police › Timeline of events	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	306	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police › Family present	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	311	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police › State attorney investigation	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	316	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police › Further questions	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	322	4	USA TODAY › NEWS › Refugees in NY mourn teens shot and killed by police › Social media video	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	329	4	USA TODAY › NEWS › Can Biden overcome damaging debate?	OK	jump/continuation of #14; continuation: jump head of the front-page column (columnist name as printed)
+newspaper_eng_ed12985c	332	4	USA TODAY › NEWS › Can Biden overcome damaging debate? › The lessons of 'Access Hollywood'	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	339	4	USA TODAY › NEWS › Can Biden overcome damaging debate? › Chaos at the convention: Not a political asset	OK	subhead with its block; in-story subhead with its own block
+newspaper_eng_ed12985c	357	4	USA TODAY › NEWS › Gathering of 10,000 hippies shut down before it starts	OK	story headline, body below; story headline
+newspaper_eng_ed12985c	363	4	USA TODAY › NEWS › Gathering of 10,000 hippies shut down before it starts › Rainbow Family roots go back more than 50 years	OK	subhead with its block; in-story subhead with its own block

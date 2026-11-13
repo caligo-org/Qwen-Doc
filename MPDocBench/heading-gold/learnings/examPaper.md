@@ -130,3 +130,15 @@ Checked, no fix:
   document type + date, not an owner: L1 stays the problem title.
 - eng_d1508a80 "Question 2." is the only printed title and labels the whole solution document: kept as L1.
 OPEN: none of this category concerns a path.
+
+## Round 4 (full path review)
+Scope: all 38 examPaper docs, every page viewed with the tree drawn (180 pages), 141 nodes + 2 empty trees
+(eng_23110a64, eng_6c2631df) written to review/paths/examPaper.tsv. No tree changes: 141 OK, 0 FIXED/ADDED/REMOVED;
+check.py shows no ERROR on any doc.
+- Checked, no fix: eng_930559d3 italic "Example 1: row 5" / "Example 2: rows 8 – 12" / "Example 3: row 51" are table
+  captions (kept text, as in `considered`), so "Examples to Help Understand the Data Set" has no children; this differs
+  in form from the IOI "Example 1" own-line heading (eng_f46d7359 L3).
+- Checked, no fix: 4d42e18f "四、[物理--选修3-4]" is printed at the foot of the last page; its questions are not in the
+  document (truncated pack), so the node has no content on these pages.
+- Checked, no fix: no group line missed in 0fced805, 6b10fb9e, 254e4dc5 (no module labels printed for 13-16),
+  3e46326d (第Ⅱ卷 has only question titles 22-25).

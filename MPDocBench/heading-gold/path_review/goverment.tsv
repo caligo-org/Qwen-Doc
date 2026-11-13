@@ -1,0 +1,121 @@
+doc	node	page	path	verdict	note
+goverment_chn_48775ee4	1	1	密云水库水源保护条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_536e78f8	1	1	中华人民共和国企业所得税法实施条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_536e78f8	3	1	中华人民共和国企业所得税法实施条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_536e78f8	28	3	中华人民共和国企业所得税法实施条例 › 第二章 应纳税所得额	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_536e78f8	29	3	中华人民共和国企业所得税法实施条例 › 第二章 应纳税所得额 › 第一节 一般规定	OK	第N节 label + title under its chapter
+goverment_chn_536e78f8	36	4	中华人民共和国企业所得税法实施条例 › 第二章 应纳税所得额 › 第二节 收入	OK	第N节 label + title under its chapter
+goverment_chn_5a4ffbca	1	1	生态环境监测条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_5a4ffbca	3	1	生态环境监测条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_5a4ffbca	19	3	生态环境监测条例 › 第二章 公共监测	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_5c0ece82	1	1	中华人民共和国发票管理办法	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_5c0ece82	3	1	中华人民共和国发票管理办法 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_5c0ece82	15	2	中华人民共和国发票管理办法 › 第二章 发票的印制	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_5c0ece82	33	4	中华人民共和国发票管理办法 › 第三章 发票的领用	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_5c0ece82	42	5	中华人民共和国发票管理办法 › 第四章 发票的开具和保管	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_7d7e94e2	1	1	国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_95b11589	1	1	企业信息公示暂行条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_a3a80cf5	1	1	中华人民共和国人类遗传资源管理条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_a3a80cf5	3	1	中华人民共和国人类遗传资源管理条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a3a80cf5	24	3	中华人民共和国人类遗传资源管理条例 › 第二章 采集和保藏	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a3a80cf5	51	5	中华人民共和国人类遗传资源管理条例 › 第三章 利用和对外提供	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a3a80cf5	89	10	中华人民共和国人类遗传资源管理条例 › 第四章 服务和监督	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a3a80cf5	103	11	中华人民共和国人类遗传资源管理条例 › 第五章 法律责任	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a3a80cf5	137	16	中华人民共和国人类遗传资源管理条例 › 第六章 附 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_a5af0855	1	1	碳排放权交易管理暂行条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_abd934b8	1	1	政务数据共享条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_abd934b8	3	1	政务数据共享条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_abd934b8	14	2	政务数据共享条例 › 第二章 管理体制	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_abd934b8	30	4	政务数据共享条例 › 第三章 目录管理	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_abd934b8	49	6	政务数据共享条例 › 第四章 共享使用	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_c5e69969	1	1	无人驾驶航空器飞行管理暂行条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_c5e69969	3	1	无人驾驶航空器飞行管理暂行条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_c5e69969	19	3	无人驾驶航空器飞行管理暂行条例 › 第二章 民用无人驾驶航空器及操控员管理	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_c5e69969	59	7	无人驾驶航空器飞行管理暂行条例 › 第三章 空域和飞行活动管理	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_c7a379a2	1	1	废旧金属收购业治安管理办法	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_dec4c579	1	1	烈士褒扬条例	OK	regulation title; adoption note = text; 第N条 run-in text
+goverment_chn_dec4c579	3	1	烈士褒扬条例 › 第一章 总 则	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_dec4c579	15	2	烈士褒扬条例 › 第二章 烈士的评定	OK	第N章 label + title on own line; articles run-in text
+goverment_chn_dec4c579	39	5	烈士褒扬条例 › 第三章 烈士褒扬金和烈士遗属的抚恤优待	OK	第N章 label + title on own line; articles run-in text
+goverment_eng_04fdb344	14	1	SOUTH AFRICA/RWANDA: SAG RULES OUT PARTICIPATION IN RWANDAN PEACEKEEPING	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only (cable title)
+goverment_eng_10e7766e	8	1	CTC NEWSLETTER	OK	masthead
+goverment_eng_10e7766e	9	1	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE	OK	lead story headline
+goverment_eng_10e7766e	13	1	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE › Video, Podcasts and Interactive media	OK	bold subhead over own paragraphs
+goverment_eng_10e7766e	20	2	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE › Digital dirt, Digital attraction	OK	bold subhead
+goverment_eng_10e7766e	30	2	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE › Job boards	OK	bold subhead
+goverment_eng_10e7766e	39	3	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE › Ensuring a good fit	OK	bold subhead
+goverment_eng_10e7766e	42	3	CTC NEWSLETTER › RECRUITERS JOB HUNTING TIPS	OK	shaded tips sidebar title
+goverment_eng_10e7766e	44	3	CTC NEWSLETTER › RECRUITERS JOB HUNTING TIPS › Small Details	OK	tip label over own block
+goverment_eng_10e7766e	46	3	CTC NEWSLETTER › RECRUITERS JOB HUNTING TIPS › Corporate Culture	OK	tip label over own block
+goverment_eng_10e7766e	48	3	CTC NEWSLETTER › RECRUITERS JOB HUNTING TIPS › Kill The Cell Phone	OK	tip label over own block
+goverment_eng_10e7766e	50	3	CTC NEWSLETTER › RECRUITERS JOB HUNTING TIPS › Breaking News	OK	tip label over own block
+goverment_eng_10e7766e	54	4	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE	OK	p4 story resumes after sidebar, no printed head; continues #9
+goverment_eng_10e7766e	56	4	CTC NEWSLETTER › RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE › Video interviews	OK	bold subhead in resumed story
+goverment_eng_10e7766e	59	4	CTC NEWSLETTER › MORE ON WEB RECRUITING	OK	related-links box title
+goverment_eng_10e7766e	64	4	CTC NEWSLETTER › JOB HUNTING TIPS (Continued)	OK	sidebar head "(Continued)" after main story intervened
+goverment_eng_10e7766e	65	4	CTC NEWSLETTER › JOB HUNTING TIPS (Continued) › First Impression	OK	tip label
+goverment_eng_10e7766e	67	4	CTC NEWSLETTER › JOB HUNTING TIPS (Continued) › Keep It Short	OK	tip label
+goverment_eng_10e7766e	69	4	CTC NEWSLETTER › JOB HUNTING TIPS (Continued) › Play it Straight	OK	tip label
+goverment_eng_10e7766e	71	4	CTC NEWSLETTER › JOB HUNTING TIPS (Continued) › Say Thanks	OK	tip label
+goverment_eng_10e7766e	75	5	CTC NEWSLETTER › MORE ON WEB RECRUITING	OK	p5 link-list tail, no printed head; continues #59
+goverment_eng_10e7766e	77	5	CTC NEWSLETTER › LISTEN UP, JOB HUNTERS	OK	story headline
+goverment_eng_10e7766e	96	6	CTC NEWSLETTER › MAKE YOUR NETWORK WORK FOR YOU	OK	story headline
+goverment_eng_10e7766e	100	6	CTC NEWSLETTER › MAKE YOUR NETWORK WORK FOR YOU › Be Patient	OK	bold subhead
+goverment_eng_10e7766e	102	6	CTC NEWSLETTER › MAKE YOUR NETWORK WORK FOR YOU › Be Authentic	OK	bold subhead
+goverment_eng_10e7766e	106	6	CTC NEWSLETTER › MAKE YOUR NETWORK WORK FOR YOU › Be a Conduit	OK	bold subhead
+goverment_eng_10e7766e	108	6	CTC NEWSLETTER › MAKE YOUR NETWORK WORK FOR YOU › Be a Teacher	OK	bold subhead
+goverment_eng_186128cd	4	1	Summary Points: North American HFC Submission to the Montreal Protocol	OK	memo title; Submitted by/To/On fields above = text
+goverment_eng_186128cd	17	2	Summary Points: North American HFC Submission to the Montreal Protocol › Relationship to HCFC phaseout:	OK	own-line colon label over bullets
+goverment_eng_186128cd	21	2	Summary Points: North American HFC Submission to the Montreal Protocol › Relationship with the United Nations Framework Convention on Climate Change (UNFCCC):	OK	own-line colon label over bullets
+goverment_eng_1e210e8c	6	1	Ghana: Information on Textiles and Apparel Production	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only
+goverment_eng_1e210e8c	9	1	Ghana: Information on Textiles and Apparel Production › Statistics	OK	dashed-underlined section head
+goverment_eng_1e210e8c	19	1	Ghana: Information on Textiles and Apparel Production › Textiles	OK	dashed-underlined section head
+goverment_eng_1e210e8c	27	2	Ghana: Information on Textiles and Apparel Production › Apparel	OK	dashed-underlined section head
+goverment_eng_1e210e8c	29	2	Ghana: Information on Textiles and Apparel Production › AGOA Exports	OK	dashed-underlined section head
+goverment_eng_1e210e8c	37	3	Ghana: Information on Textiles and Apparel Production › China	OK	dashed-underlined section head
+goverment_eng_1e210e8c	41	4	Ghana: Information on Textiles and Apparel Production › Efforts to Increase Competitiveness	OK	dashed-underlined section head
+goverment_eng_1e210e8c	46	4	Ghana: Information on Textiles and Apparel Production › Overall Assessment of Future Competitiveness	OK	dashed-underlined section head
+goverment_eng_446784ca	2	1	United States Department of State Telephone Directory	OK	seal + owner/type in one box
+goverment_eng_446784ca	7	2	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts	OK	report section title; footer repeats
+goverment_eng_446784ca	8	2	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Afghanistan	OK	country label over post entries
+goverment_eng_446784ca	15	2	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Albania	OK	country label over post entries
+goverment_eng_446784ca	18	2	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Algeria	OK	country label over post entries
+goverment_eng_446784ca	25	3	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Angola	OK	country label over post entries
+goverment_eng_446784ca	28	3	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Argentina	OK	country label over post entries
+goverment_eng_446784ca	32	3	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Armenia	OK	country label over post entries
+goverment_eng_446784ca	39	4	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Australia	OK	country label over post entries
+goverment_eng_446784ca	49	4	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Austria	OK	country label over post entries
+goverment_eng_446784ca	61	5	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Azerbaijan	OK	country label over post entries
+goverment_eng_446784ca	64	5	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › BAHAMAS, THE	OK	country label over post entries
+goverment_eng_446784ca	71	6	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Bahrain	OK	country label over post entries
+goverment_eng_446784ca	75	6	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Bangladesh	OK	country label over post entries
+goverment_eng_446784ca	78	6	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Barbados	OK	country label over post entries
+goverment_eng_446784ca	85	7	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › BELARUS	OK	country label over post entries
+goverment_eng_446784ca	88	7	United States Department of State Telephone Directory › Key Officers of Foreign Service Posts › Belgium	OK	country label over post entries
+goverment_eng_553a7f3f	1	1	Export-Import Bank	OK	account page title (no document title printed)
+goverment_eng_553a7f3f	5	2	Overseas Private Investment Corporation	OK	account page title
+goverment_eng_553a7f3f	11	3	U.S. Trade and Development Agency	OK	account page title
+goverment_eng_553a7f3f	17	4	Child Survival and Health Programs Fund	OK	account page title; Highlights: stays text
+goverment_eng_5a7b6d51	6	1	AMBASSADOR'S JANUARY 17 MEETING WITH CONSTITUTION ASSEMBLY CHAIRMAN	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only
+goverment_eng_5a7b6d51	10	1	AMBASSADOR'S JANUARY 17 MEETING WITH CONSTITUTION ASSEMBLY CHAIRMAN › TIMELINE TO THE NEW CONSTITUTION	OK	dashed-underlined section head
+goverment_eng_5a7b6d51	14	2	AMBASSADOR'S JANUARY 17 MEETING WITH CONSTITUTION ASSEMBLY CHAIRMAN › THE ROLE OF THE SENATE	OK	dashed-underlined section head
+goverment_eng_5a7b6d51	19	2	AMBASSADOR'S JANUARY 17 MEETING WITH CONSTITUTION ASSEMBLY CHAIRMAN › OTHER ISSUES AHEAD	OK	dashed-underlined section head
+goverment_eng_a323eb0a	27	6	TRANSLATION REPUBLIC OF PANAMA MINISTRY OF FOREIGN RELATIONS	OK	TRANSLATION + ministry letterhead union over the reply note; US note pp1-5 untitled
+goverment_eng_aa75e353	5	1	FRIENDS OF AFGHANISTAN MEETING AT THE UN	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only; numbered paras run-in
+goverment_eng_b95bd887	2	1	Senator Paul Simon Water for the Poor Act Report to Congress	OK	act name + Report to Congress union; p3 title page = repeats
+goverment_eng_c8c79eab	5	1	MOROCCO,S MANAGED MAYORAL SELECTIONS	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only
+goverment_eng_c8c79eab	8	1	MOROCCO,S MANAGED MAYORAL SELECTIONS › Summary	OK	dashed-underlined section head
+goverment_eng_c8c79eab	10	1	MOROCCO,S MANAGED MAYORAL SELECTIONS › PAM: The Palace Party	OK	dashed-underlined section head
+goverment_eng_c8c79eab	16	2	MOROCCO,S MANAGED MAYORAL SELECTIONS › Oujda Mayoral Selection Marred by Government Intervention	OK	dashed-underlined section head
+goverment_eng_c8c79eab	24	4	MOROCCO,S MANAGED MAYORAL SELECTIONS › Normal Irregularities Are Bad Enough	OK	dashed-underlined section head
+goverment_eng_c8c79eab	28	4	MOROCCO,S MANAGED MAYORAL SELECTIONS › COMMENT	OK	dashed-underlined section head
+goverment_eng_d44e80eb	1	1	Diplomatic List	OK	cover title; publisher lines = text
+goverment_eng_d44e80eb	6	3	Diplomatic List › Preface	OK	front-matter title; Article 29/31 inside = text
+goverment_eng_d44e80eb	21	4	Diplomatic List › National Holidays	OK	front-matter title over holiday table
+goverment_eng_d4c4a9f2	5	1	MGSF01: ASEAN+3 Flu Ministerial May 7-8	OK	E.O./TAGS/SUBJECT box; text = SUBJECT only
+goverment_eng_d4c4a9f2	9	1	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › BACKGROUND TO THE MINISTERIAL	OK	dashed-underlined section head
+goverment_eng_d4c4a9f2	14	2	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › ASEAN+3 PREPARED BUT NEEDS RESEARCH, VACCINE CAPACITY	OK	dashed-underlined section head
+goverment_eng_d4c4a9f2	17	2	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › INDONESIAN NEGATIVITY TOWARDS CDC	OK	dashed-underlined section head
+goverment_eng_d4c4a9f2	19	2	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › REMARKS PRAISE DONOR COOPERATION	OK	dashed-underlined section head
+goverment_eng_d4c4a9f2	21	2	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › JOINT MINISTER'S STATEMENT	OK	dashed-underlined section head
+goverment_eng_d4c4a9f2	26	3	MGSF01: ASEAN+3 Flu Ministerial May 7-8 › COMMENT:	OK	dashed-underlined section head

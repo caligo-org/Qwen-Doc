@@ -179,3 +179,16 @@
     The other label headings (Numbers:…Video:, Simplex:…Full-Duplex:, Performance:…Security:, Type of Connection and
     its items, Local Area Networks: L5 under 1.2.4, MAN, WAN) were already headings; their `why` now names the decision.
 - The round-3 OPEN on bare markers is closed by this decision.
+
+## Round 4 (full path review, 2026-11-13)
+- All 33 book docs, all 449 pages viewed with the tree drawn; 864 node lines in review/paths/book.tsv: 856 OK, 4 FIXED, 4 ADDED, 0 REMOVED.
+- 0875d4ae ADDED #145 '4. 后牙覆𬌗、覆盖关系分类（图3-20）' L5 under （二）唇（颊）舌向的关系: own-line numbered item in its own box with its (1)-(n) block, closed by （三）; items 1.-3. are run in. Same treatment as #311 '2. 面部协调关系' and 69dd792e #126.
+- OPEN 0875d4ae #247 '4岁以前乳牙𬌗特征' / #257 '4~6岁期间乳牙𬌗特征是：' kept text: own-line labels nested inside run-in item '1. 乳牙𬌗特征'; the run-in '2. 混牙𬌗特征' that follows belongs to the outer list, so the user's run-in-sibling exception (same list) does not cover them and their subtree would absorb item 2.
+- 69dd792e ADDED #354 '1. 唾液腺导管', #365 '2. 舌神经和舌下神经', #378 '6. 舌动脉' as L4 under 一、重要的解剖结构与外科手术 (own-line numbered items with their (1)-(n) blocks; 3.-5. and 7.-9. are run in and fall under the previous own-line item). Applies the 2026-11-13 user decision (run-in sibling exception) that superseded the round-2 containment fix; round 2 had made these text. SEQ flag 2. -> 6. is expected.
+- dd57800f FIXED node text as printed: #64 '（2）预告登记★★', #90 '（3）动产交付★★' (OCR half-width opening bracket; the page prints the full-width form, like sibling #33).
+- 04edb0ff #1 L1 text as printed: 'BMPs' (OCR 'BMPS'); union unchanged.
+- 9d008b33 (round 4): OPEN: novel excerpt whose body (pp6-8) prints no chapter heading; the body falls under 'Contents', and the copyright page and dedication fall under 'By the same author'. Containment would make both front-matter titles text; kept as headings (front matter titles, NOTATIONS "Usually headings") pending a user decision.
+- 9e4de927 (round 4): OPEN: the untitled epigraph page (p6) falls under 'Table of Contents'; same question as 9d008b33 (front-matter title followed by untitled front matter). Kept.
+- a59ff1e5 (round 4, all 19 pages seen): no change. OPEN (no box, cannot be labelled): besides p5 'Locating House on Property' / 'Locating Outlying Landscape Features' and p19 'Plant Palette', p18 'Pulling it all together' is an own-line head with no box; its two paragraphs (#261 #262) fall under 'Accenting the main entrance'.
+- e343e570 #147: node text 'SCENARIO C: ALONG SIDEWALKs' -> 'SCENARIO C: ALONG SIDEWALKS' (printed all caps; OCR case slip). FIXED.
+- OPEN e343e570 p17 (SCENARIO F): the 'Design Solutions:' label is printed inside bullet box #257 (no box of its own), so the three solution bullets fall under 'Plant Characteristics to Look For:' (#254). Cannot be labelled; same class as the a59ff1e5 unboxed heads.

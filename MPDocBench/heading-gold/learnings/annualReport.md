@@ -189,3 +189,25 @@ Round-1/2 OPEN cases:
     eng_c58ec05f (alstria, header_image #1), eng_dd7d06a3 (Gogo, header_image #1), eng_fc735d9d (Fonterra,
     header_image #2; the "Dairy for life" header is the slogan, not the owner). Abacus' attached-report L2 keeps its
     title (L1 already names Abacus Group).
+
+## Round 4 (full path review, 2026-11-13)
+
+Every node of all 37 documents was checked against its page with the tree drawn (all 343 pages viewed; a7bf8c0c and
+c58ec05f have no page 2 in the set). 839 nodes: 839 OK, 0 FIXED / ADDED / REMOVED. check.py: no ERROR on any doc.
+Per-node lines: review/paths/annualReport.tsv.
+
+Checked and kept (all covered by NOTATIONS.md or earlier decisions):
+- SSE 重要提示 七、/八、 answered 否 stay L3 (user decision 2026-11-12); numbered 1、–5、 risk items and 16acace3
+  （一）–（八）, b20666fd 1、–4. hold the trailing paragraph (user decision 2026-11-13).
+- 588028f9 second 一、二、三、 ladder inside 一、 (printed, bold, own blocks); 77918496 第四节 一、经营情况讨论与分析 is
+  a sibling of 二、 with bold run-in (一)–(六) paragraphs, not a restated title.
+- Unnumbered 说明 labels with 适用 + numbered explanations stay L4 (bd2f20cd #69, ebe06969 #65, 1695038a #79,
+  170f7a9e #60, 35b8e075 #62); 差异说明 / 情况说明 with 不适用 stay text.
+- Embedded/standalone 10-K covers (Cray, Gogo, Bloom, Acura, Alaska): FORM 10-K ∪ registrant-name box; contents
+  boxes that restate owner/form keep only the heading line.
+- Section-only running headers (alstria Combined Management Report, 600 Group Strategic report / CFO Statement):
+  node on the first page, body title one level below.
+- Node texts that carry the box's OCR as printed in the layout (alstria "\*\*\*" / "*****" footnote stars, Acura
+  "LIMITx? Technology" for ™, Alaska "PARTI", "10\%" escapes) were left as the box text.
+
+OPEN: none.

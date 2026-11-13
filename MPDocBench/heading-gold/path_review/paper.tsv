@@ -1,0 +1,540 @@
+doc	node	page	path	verdict	note
+paper_chn_0945f03a	4	1	新型硅烷杂化有机硅弹性防水涂料	OK	title on p1
+paper_chn_0945f03a	17	1	新型硅烷杂化有机硅弹性防水涂料 › 0 前言	OK	own-line numbered heading, block below
+paper_chn_0945f03a	24	1	新型硅烷杂化有机硅弹性防水涂料 › 1 Geniosil W 硅烷杂化有机硅防水涂料的组成	OK	own-line numbered heading, block below
+paper_chn_0945f03a	28	1	新型硅烷杂化有机硅弹性防水涂料 › 2 固化原理	OK	own-line numbered heading, block below
+paper_chn_0945f03a	29	1	新型硅烷杂化有机硅弹性防水涂料 › 2 固化原理 › 2.1α-硅烷封端杂化聚醚的合成	OK	own-line numbered heading, block below
+paper_chn_0945f03a	47	2	新型硅烷杂化有机硅弹性防水涂料 › 2 固化原理 › 2.2α-硅烷封端杂化聚醚的固化机理	OK	own-line numbered heading, block below
+paper_chn_0945f03a	52	2	新型硅烷杂化有机硅弹性防水涂料 › 3 性能特点	OK	own-line numbered heading, block below
+paper_chn_0945f03a	71	3	新型硅烷杂化有机硅弹性防水涂料 › 4 施工应用	OK	own-line numbered heading, block below
+paper_chn_0945f03a	74	3	新型硅烷杂化有机硅弹性防水涂料 › 5 结语	OK	own-line numbered heading, block below
+paper_chn_0945f03a	76	3	新型硅烷杂化有机硅弹性防水涂料 › 参考文献：	OK	back matter heading, references follow
+paper_chn_3567e55d	6	1	太阳系行星际航天器外热流计算方法研究	OK	title on p1
+paper_chn_3567e55d	30	2	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法	OK	own-line numbered heading, block below
+paper_chn_3567e55d	38	2	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.1 航天器模型与互视遮挡判断	OK	own-line numbered heading, block below
+paper_chn_3567e55d	41	2	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.2 \(S, E_{2}, E_{3}\) 的计算	OK	own-line numbered heading, block below
+paper_chn_3567e55d	55	2	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.3 角系数计算	OK	own-line numbered heading, block below
+paper_chn_3567e55d	56	2	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.3 角系数计算 › 1.3.1 太阳辐射角系数 \(F_{1}\) 的计算	OK	own-line numbered heading, block below
+paper_chn_3567e55d	66	3	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.3 角系数计算 › 1.3.2 各行星以及行星自然卫星红外辐射角系数 \(F_{2}\) 的计算	OK	own-line numbered heading, block below
+paper_chn_3567e55d	74	3	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.3 角系数计算 › 1.3.3 各行星以及行星自然卫星反照角系数 \(F_{3}\) 的计算	OK	own-line numbered heading, block below
+paper_chn_3567e55d	85	3	太阳系行星际航天器外热流计算方法研究 › 1 外热流计算方法 › 1.3 角系数计算 › 1.3.4 遮挡问题	OK	own-line numbered heading, block below
+paper_chn_3567e55d	87	3	太阳系行星际航天器外热流计算方法研究 › 2 方案总结与计算结果分析	OK	own-line numbered heading, block below
+paper_chn_3567e55d	114	5	太阳系行星际航天器外热流计算方法研究 › 3结论	OK	own-line numbered heading, block below
+paper_chn_3567e55d	117	5	太阳系行星际航天器外热流计算方法研究 › 参考文献：	OK	back matter heading, references follow
+paper_chn_4476a4b2	25	1	白藜芦醇对小鼠脂代谢及相关蛋白表达影响	OK	title on p1
+paper_chn_4476a4b2	44	2	白藜芦醇对小鼠脂代谢及相关蛋白表达影响 › 1 材料与方法	OK	own-line section 1; 1.1-1.5 run-in (text)
+paper_chn_4476a4b2	50	2	白藜芦醇对小鼠脂代谢及相关蛋白表达影响 › 2 结果	OK	own-line section 2; 2.1/2.2 run-in (text)
+paper_chn_4476a4b2	61	3	白藜芦醇对小鼠脂代谢及相关蛋白表达影响 › 3 讨论	OK	own-line numbered heading, block below
+paper_chn_4476a4b2	65	3	白藜芦醇对小鼠脂代谢及相关蛋白表达影响 › 参考文献	OK	back matter heading, references follow
+paper_chn_4c5fe122	5	1	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油	OK	title on p1
+paper_chn_4c5fe122	11	1	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 1 实验部分	OK	own-line numbered heading, block below
+paper_chn_4c5fe122	12	1	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 1 实验部分 › 1.1 仪器与材料	OK	own-line numbered heading, block below
+paper_chn_4c5fe122	15	1	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 1 实验部分 › 1.2 气相色谱-质谱条件	OK	own-line numbered heading, block below
+paper_chn_4c5fe122	17	1	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 2 结果与讨论	OK	own-line numbered heading, block below
+paper_chn_4c5fe122	38	2	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 3 结论	OK	own-line numbered heading, block below
+paper_chn_4c5fe122	40	2	裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油 › 参考文献：	OK	back matter heading, references follow
+paper_chn_509e934a	4	1	船舶压载水处理设备的认证及鉴定书发放	OK	title on p1
+paper_chn_509e934a	9	1	船舶压载水处理设备的认证及鉴定书发放 › 1 引言	OK	own-line numbered heading, block below
+paper_chn_509e934a	12	1	船舶压载水处理设备的认证及鉴定书发放 › 2 船舶压载水处理设备的认证	OK	own-line numbered heading, block below
+paper_chn_509e934a	13	1	船舶压载水处理设备的认证及鉴定书发放 › 2 船舶压载水处理设备的认证 › 2.1 压载水处理设备的认证流程	OK	own-line numbered heading, block below
+paper_chn_509e934a	19	1	船舶压载水处理设备的认证及鉴定书发放 › 2 船舶压载水处理设备的认证 › 2.2 关于压载水处理设备的型式认证（G-8）	OK	own-line numbered heading, block below
+paper_chn_509e934a	25	2	船舶压载水处理设备的认证及鉴定书发放 › 2 船舶压载水处理设备的认证 › 2.3 关于活性物质的认证（G-9）	OK	own-line numbered heading, block below
+paper_chn_509e934a	41	3	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书	OK	own-line numbered heading, block below
+paper_chn_509e934a	42	3	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.1 鉴定证书的发行流程	OK	own-line numbered heading, block below
+paper_chn_509e934a	43	3	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.1 鉴定证书的发行流程 › 3.1.1 鉴定书	OK	own-line numbered heading, block below
+paper_chn_509e934a	52	4	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.1 鉴定证书的发行流程 › 3.1.2 应对下列相关图纸及文件进行审核	OK	numbered lead-in step 3.1.2 with item list (kept, round 2)
+paper_chn_509e934a	60	4	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.2 船上测试要领	OK	own-line numbered heading, block below
+paper_chn_509e934a	62	4	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.2 船上测试要领 › 3.2.1 下列文件应在船上得到确认：	OK	numbered lead-in step with item list
+paper_chn_509e934a	70	4	船舶压载水处理设备的认证及鉴定书发放 › 3 鉴定证书 › 3.2 船上测试要领 › 3.2.2 以下设备检验和性能测试应在船上实施	OK	numbered lead-in step with item list
+paper_chn_509e934a	76	4	船舶压载水处理设备的认证及鉴定书发放 › 4 结束语	OK	own-line numbered heading, block below
+paper_chn_509e934a	78	4	船舶压载水处理设备的认证及鉴定书发放 › 参考文献	OK	back matter heading, references follow
+paper_chn_5650c4e6	4	1	在轨服务航天器任务指派问题	OK	title on p1
+paper_chn_5650c4e6	28	2	在轨服务航天器任务指派问题 › 1 问题描述	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	36	2	在轨服务航天器任务指派问题 › 2 求解可达区域	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	38	2	在轨服务航天器任务指派问题 › 2 求解可达区域 › 2.1 求解步骤	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	70	3	在轨服务航天器任务指派问题 › 2 求解可达区域 › 2.2 求解结果	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	79	3	在轨服务航天器任务指派问题 › 3 多目标优化模型	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	80	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.1 优化变量	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	93	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.2 目标函数	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	94	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.2 目标函数 › 1）目标优先级	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	98	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.2 目标函数 › 2) 任务完成时间	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	104	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.2 目标函数 › 3）燃料消耗	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	108	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.3 约束条件	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	109	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.3 约束条件 › 1）“一对一”服务约束	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	113	3	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.3 约束条件 › 2）任务时间约束	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	121	4	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.3 约束条件 › 3）变轨时刻约束	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	130	4	在轨服务航天器任务指派问题 › 3 多目标优化模型 › 3.3 约束条件 › 4）最大脉冲大小约束	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	134	4	在轨服务航天器任务指派问题 › 4 多目标优化算法	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	136	4	在轨服务航天器任务指派问题 › 5 应用示例	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	137	4	在轨服务航天器任务指派问题 › 5 应用示例 › 5.1 算例1：任务指派多目标优化的一般结论	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	169	5	在轨服务航天器任务指派问题 › 5 应用示例 › 5.2 算例2：与分层-加权法优化的对比	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	179	5	在轨服务航天器任务指派问题 › 6 结论	OK	own-line numbered heading, block below
+paper_chn_5650c4e6	202	6	在轨服务航天器任务指派问题 › 参考文献(References)	OK	own references, jumped to p51 (上接第30页) after other article's tail
+paper_chn_74e3f89e	1	1	从生育水平估计到未来人口预测	OK	title on p1
+paper_chn_74e3f89e	8	1	从生育水平估计到未来人口预测 › 一、1990～2000年总和生育率估计	OK	own-line heading, block below
+paper_chn_74e3f89e	41	4	从生育水平估计到未来人口预测 › 二、预测方案选择	OK	own-line heading, block below
+paper_chn_74e3f89e	42	4	从生育水平估计到未来人口预测 › 二、预测方案选择 › （一）预测初始年份人口数	OK	own-line heading, block below
+paper_chn_74e3f89e	45	4	从生育水平估计到未来人口预测 › 二、预测方案选择 › （二）生育方案	OK	own-line heading, block below
+paper_chn_74e3f89e	47	4	从生育水平估计到未来人口预测 › 二、预测方案选择 › （三）预测情景方案	OK	own-line heading, block below
+paper_chn_74e3f89e	54	5	从生育水平估计到未来人口预测 › 三、预测结果	OK	own-line heading, block below
+paper_chn_74e3f89e	78	7	从生育水平估计到未来人口预测 › 参考文献：	OK	back matter heading, references follow
+paper_chn_7d70eb40	1	1	自行车交通系统发展对策研究	OK	title on p1
+paper_chn_7d70eb40	5	1	自行车交通系统发展对策研究 › 1 背景	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	8	1	自行车交通系统发展对策研究 › 2自行车交通特征分析	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	9	1	自行车交通系统发展对策研究 › 2自行车交通特征分析 › 2.1 适用性	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	11	1	自行车交通系统发展对策研究 › 2自行车交通特征分析 › 2.2 局限性	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	14	2	自行车交通系统发展对策研究 › 3 国内外发展经验	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	16	2	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.1国外经验	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	17	2	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.1国外经验 › 3.1.1 哥本哈根	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	22	2	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.1国外经验 › 3.1.2 阿姆斯特丹	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	24	2	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.1国外经验 › 3.1.3伦敦	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	33	3	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.2 国内经验	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	35	3	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.2 国内经验 › 3.2.1 重庆	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	40	4	自行车交通系统发展对策研究 › 3 国内外发展经验 › 3.2 国内经验 › 3.2.2 杭州	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	42	4	自行车交通系统发展对策研究 › 4自行车交通系统发展对策	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	50	4	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.1 城市空间布局调整	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	53	4	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.2 自行车通行空间保障	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	59	5	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.2 自行车通行空间保障 › 4.2.1 中心城区——改善为主	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	61	5	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.2 自行车通行空间保障 › 4.2.1 中心城区——改善为主 › （1）现状道路断面优化调整	OK	own-line （1） item label with block (kept, round 3)
+paper_chn_7d70eb40	68	6	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.2 自行车通行空间保障 › 4.2.1 中心城区——改善为主 › （2）设置高架自行车专用路	OK	own-line （2） item label with block
+paper_chn_7d70eb40	70	6	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.2 自行车通行空间保障 › 4.2.2 外围新区——规划、新建为主	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	72	6	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.3停车设施建设	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	77	7	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.4 交通一体化衔接	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	80	7	自行车交通系统发展对策研究 › 4自行车交通系统发展对策 › 4.5 改变人们出行习惯	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	82	7	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	83	7	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.1 发展现状	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	85	7	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.2 发展目标和策略	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	94	8	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.3厦门实践	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	95	8	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.3厦门实践 › 5.3.1 自行车道分级规划	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	100	8	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.3厦门实践 › 5.3.2 低碳道路断面设计	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	108	8	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.3厦门实践 › 5.3.3公共自行车系统建设	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	117	9	自行车交通系统发展对策研究 › 5厦门自行车交通系统规划和建设实践 › 5.3厦门实践 › 5.3.4 交通一体化衔接规划	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	120	9	自行车交通系统发展对策研究 › 6 结语	OK	own-line numbered heading, block below
+paper_chn_7d70eb40	124	10	自行车交通系统发展对策研究 › 【参考文献】	OK	own-line heading, block below
+paper_chn_7d70eb40	132	10	自行车交通系统发展对策研究 › 【作者简介】	OK	back matter 【作者简介】 with author block
+paper_chn_8fb8a35e	5	1	葡萄籽低聚原花青素提取及性质分析	OK	title on p1
+paper_chn_8fb8a35e	19	1	葡萄籽低聚原花青素提取及性质分析 › 1 材料	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	20	1	葡萄籽低聚原花青素提取及性质分析 › 1 材料 › 1.1 原料与试剂	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	28	2	葡萄籽低聚原花青素提取及性质分析 › 1 材料 › 1.2 仪器	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	30	2	葡萄籽低聚原花青素提取及性质分析 › 2 实验	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	31	2	葡萄籽低聚原花青素提取及性质分析 › 2 实验 › 2.1 低聚原花青素的提取	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	33	2	葡萄籽低聚原花青素提取及性质分析 › 2 实验 › 2.2 低聚原花青素质量浓度测定	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	36	2	葡萄籽低聚原花青素提取及性质分析 › 2 实验 › 2.3 低聚原花青素聚合度测定	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	38	2	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	39	2	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.1 提取剂 pH 的影响	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	45	2	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.2 提取时间的影响	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	51	2	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.3 提取温度的影响	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	61	3	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.4 提取物聚合度分析	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	63	3	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.5 产物提取率分析	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	68	3	葡萄籽低聚原花青素提取及性质分析 › 3 结果与讨论 › 3.6 提取物的红外光谱分析	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	73	3	葡萄籽低聚原花青素提取及性质分析 › 4 结论	OK	own-line numbered heading, block below
+paper_chn_8fb8a35e	75	3	葡萄籽低聚原花青素提取及性质分析 › 参考文献：	OK	back matter heading, references follow
+paper_chn_95da6884	3	1	不同光密度对不结球白菜的生长与品质的影响	OK	title on p1
+paper_chn_95da6884	23	2	不同光密度对不结球白菜的生长与品质的影响 › 材料与方法	OK	centered unnumbered part head 材料与方法
+paper_chn_95da6884	24	2	不同光密度对不结球白菜的生长与品质的影响 › 材料与方法 › 1材料与试验方法	OK	own-line numbered heading, block below
+paper_chn_95da6884	27	2	不同光密度对不结球白菜的生长与品质的影响 › 材料与方法 › 2 测定指标与方法	OK	own-line numbered heading, block below
+paper_chn_95da6884	29	2	不同光密度对不结球白菜的生长与品质的影响 › 材料与方法 › 3 数据处理	OK	own-line numbered heading, block below
+paper_chn_95da6884	31	2	不同光密度对不结球白菜的生长与品质的影响 › 实验结果	OK	centered unnumbered part head 实验结果
+paper_chn_95da6884	32	2	不同光密度对不结球白菜的生长与品质的影响 › 实验结果 › 1 不同光密度对不结球白菜的生物量和形态指标的影响	OK	own-line numbered heading, block below
+paper_chn_95da6884	53	4	不同光密度对不结球白菜的生长与品质的影响 › 实验结果 › 2 不同光密度对不结球白菜的根系活力的影响	OK	own-line numbered heading, block below
+paper_chn_95da6884	59	4	不同光密度对不结球白菜的生长与品质的影响 › 实验结果 › 3 不同光密度对不结球白菜光合色素含量的影响	OK	own-line numbered heading, block below
+paper_chn_95da6884	61	4	不同光密度对不结球白菜的生长与品质的影响 › 实验结果 › 4 不同光密度对不结球白菜的硝酸盐和亚硝酸盐含量的影响	OK	own-line numbered heading, block below
+paper_chn_95da6884	69	5	不同光密度对不结球白菜的生长与品质的影响 › 实验结果 › 5 不同光密度对不结球白菜的营养品质的影响	OK	own-line numbered heading, block below
+paper_chn_95da6884	81	6	不同光密度对不结球白菜的生长与品质的影响 › 讨论	OK	centered unnumbered part head 讨论
+paper_chn_95da6884	87	6	不同光密度对不结球白菜的生长与品质的影响 › 参考文献	OK	back matter heading, references follow
+paper_chn_a197458e	7	1	佛坪县板栗、核桃为主的干果基地建设	OK	title on p1
+paper_chn_a197458e	14	1	佛坪县板栗、核桃为主的干果基地建设 › 1 目的和意义	OK	own-line numbered heading, block below
+paper_chn_a197458e	16	1	佛坪县板栗、核桃为主的干果基地建设 › 2 国内现状	OK	own-line numbered heading, block below
+paper_chn_a197458e	19	1	佛坪县板栗、核桃为主的干果基地建设 › 3 可行性分析	OK	own-line section 3; 3.1-3.6 run-in items (text)
+paper_chn_a197458e	49	2	佛坪县板栗、核桃为主的干果基地建设 › 4 基地建设	OK	section 4 at foot of p2 after second article's start (other article not_headings)
+paper_chn_a8bfcf5f	4	1	2008 年盛夏黄河中游枯水气象成因分析	OK	title box with column label 【水文·泥沙】; text = title only
+paper_chn_a8bfcf5f	13	1	2008 年盛夏黄河中游枯水气象成因分析 › 1雨情	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	18	1	2008 年盛夏黄河中游枯水气象成因分析 › 2 水情	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	31	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	33	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征 › 3.1 西风带环流特点	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	34	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征 › 3.1 西风带环流特点 › 3.1.1 月平均环流形势	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	37	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征 › 3.1 西风带环流特点 › 3.1.2 旬环流形势	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	41	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征 › 3.2 副热带高压变化特点	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	47	2	2008 年盛夏黄河中游枯水气象成因分析 › 3 环流特征 › 3.3 台风活动	OK	own-line numbered heading, block below
+paper_chn_a8bfcf5f	49	2	2008 年盛夏黄河中游枯水气象成因分析 › 4 结语	OK	own-line numbered heading, block below
+paper_chn_b4b85a83	4	1	非物质文化遗产与代表性传承人制度:来自田野的调查与思考	OK	title on p1
+paper_chn_b4b85a83	23	2	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 一、我国国家级代表性传承人的现状与特征	OK	own-line heading, block below
+paper_chn_b4b85a83	25	2	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 一、我国国家级代表性传承人的现状与特征 › （一）门类与人数	OK	own-line heading, block below
+paper_chn_b4b85a83	35	3	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 一、我国国家级代表性传承人的现状与特征 › （二）年龄结构	OK	own-line heading, block below
+paper_chn_b4b85a83	43	4	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 一、我国国家级代表性传承人的现状与特征 › （三）性别特征	OK	own-line heading, block below
+paper_chn_b4b85a83	53	5	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考	OK	own-line heading, block below
+paper_chn_b4b85a83	54	5	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考 › （一）代表性传承人的遴选与社区参与	OK	own-line heading, block below
+paper_chn_b4b85a83	67	6	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考 › （二）代表性传承人制度的社会实践：经费、进退机制与绩效考核	OK	own-line heading, block below
+paper_chn_b4b85a83	80	7	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考 › （三）遗产主体与保护主体的分离	OK	own-line heading, block below
+paper_chn_b4b85a83	87	8	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 二、非物质文化遗产保护中的社区、群体与个人：来自田野的调查与思考 › （四）代表性传承人制度的队伍建设	OK	（四） last item; closing paragraphs follow under it (numbered-list exception)
+paper_chn_b4b85a83	96	9	非物质文化遗产与代表性传承人制度:来自田野的调查与思考 › 参考文献：	OK	参考文献; back-placed English title block after it is a repeat of L1
+paper_chn_be9986ff	5	1	载人深空探索中空间辐射防护技术的研究进展	OK	title on p1
+paper_chn_be9986ff	25	2	载人深空探索中空间辐射防护技术的研究进展 › 1 载人深空探索任务中空间辐射环境特点	OK	own-line numbered heading, block below
+paper_chn_be9986ff	41	3	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	44	3	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.1 被动防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	57	4	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.1 被动防护 › 2.1.1 辐射防护材料的筛选方法与应用	OK	own-line numbered heading, block below
+paper_chn_be9986ff	77	5	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.1 被动防护 › 2.1.2 载人航天器舱体辐射防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	97	6	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.1 被动防护 › 2.1.3 个性化辐射防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	105	7	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.1 被动防护 › 2.1.4 星体表面浮土	OK	last 2.1.x item; 2.1 summary paragraph follows (numbered-list exception)
+paper_chn_be9986ff	116	8	载人深空探索中空间辐射防护技术的研究进展 › 2 物理防护 › 2.2 主动防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	120	8	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护	OK	own-line numbered heading, block below
+paper_chn_be9986ff	122	8	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.1 抗氧化剂	OK	own-line numbered heading, block below
+paper_chn_be9986ff	153	11	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.2 抑制剂	OK	own-line numbered heading, block below
+paper_chn_be9986ff	156	11	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.3 细胞因子、生长因子和激素类物质	OK	own-line numbered heading, block below
+paper_chn_be9986ff	159	11	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.4 蛋白质分子类物质	OK	own-line numbered heading, block below
+paper_chn_be9986ff	166	12	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.5 细胞治疗剂	OK	own-line numbered heading, block below
+paper_chn_be9986ff	168	12	载人深空探索中空间辐射防护技术的研究进展 › 3 生物医学防护 › 3.6 植物来源的活性物质	OK	last 3.x item; 综上所述 summary follows (numbered-list exception)
+paper_chn_be9986ff	172	12	载人深空探索中空间辐射防护技术的研究进展 › 4 结论	OK	own-line numbered heading, block below
+paper_chn_be9986ff	179	13	载人深空探索中空间辐射防护技术的研究进展 › 参考文献	OK	参考文献; back-placed English summary block is a repeat of L1
+paper_chn_c1360240	4	1	供应链金融：背景、创新与概念界定	OK	title on p1
+paper_chn_c1360240	13	1	供应链金融：背景、创新与概念界定 › 一、供应链金融创新的实体经济背景	OK	own-line heading, block below
+paper_chn_c1360240	14	1	供应链金融：背景、创新与概念界定 › 一、供应链金融创新的实体经济背景 › 1. 分工的演变与制造模式的变化	OK	own-line numbered heading, block below
+paper_chn_c1360240	29	2	供应链金融：背景、创新与概念界定 › 一、供应链金融创新的实体经济背景 › 2. 供应链管理的兴起	OK	own-line numbered heading, block below
+paper_chn_c1360240	33	2	供应链金融：背景、创新与概念界定 › 一、供应链金融创新的实体经济背景 › 3. 全球贸易的增长	OK	own-line numbered heading, block below
+paper_chn_c1360240	43	3	供应链金融：背景、创新与概念界定 › 二、财务供应链管理在提高供应链竞争力方面的作用	OK	own-line heading, block below
+paper_chn_c1360240	44	3	供应链金融：背景、创新与概念界定 › 二、财务供应链管理在提高供应链竞争力方面的作用 › 1. 供应链生产模式对财务成本的影响	OK	own-line numbered heading, block below
+paper_chn_c1360240	48	3	供应链金融：背景、创新与概念界定 › 二、财务供应链管理在提高供应链竞争力方面的作用 › 2. 通过财务供应链管理降低产品成本	OK	own-line numbered heading, block below
+paper_chn_c1360240	67	5	供应链金融：背景、创新与概念界定 › 三、供应链金融概念的界定	OK	own-line heading, block below
+paper_chn_c1360240	68	5	供应链金融：背景、创新与概念界定 › 三、供应链金融概念的界定 › 1.金融机构（商业银行和金融公司）在财务供应链管理中发挥的作用	OK	own-line body-font subhead 1. (sibling level, learnings)
+paper_chn_c1360240	89	6	供应链金融：背景、创新与概念界定 › 三、供应链金融概念的界定 › 2. 供应链金融的定义及其有机构成	OK	own-line numbered heading, block below
+paper_chn_c1360240	103	7	供应链金融：背景、创新与概念界定 › 四、结束语	OK	own-line heading, block below
+paper_chn_c1360240	106	7	供应链金融：背景、创新与概念界定 › 参考文献：	OK	back matter heading, references follow
+paper_chn_ceb8680b	1	1	供需视角下煤炭安全评价指标体系与实证	OK	title on p1
+paper_chn_ceb8680b	11	1	供需视角下煤炭安全评价指标体系与实证 › 1 经济学供求理论下煤炭安全影响因素分析	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	21	2	供需视角下煤炭安全评价指标体系与实证 › 2煤炭安全评价指标体系构建	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	22	2	供需视角下煤炭安全评价指标体系与实证 › 2煤炭安全评价指标体系构建 › 2.1 评价指标设置原则	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	27	2	供需视角下煤炭安全评价指标体系与实证 › 2煤炭安全评价指标体系构建 › 2.2 评价指标优选	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	33	3	供需视角下煤炭安全评价指标体系与实证 › 2煤炭安全评价指标体系构建 › 2.3构建指标体系及确定指标权重	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	38	4	供需视角下煤炭安全评价指标体系与实证 › 3 实证评价	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	39	4	供需视角下煤炭安全评价指标体系与实证 › 3 实证评价 › 3.1 确定指标值	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	50	5	供需视角下煤炭安全评价指标体系与实证 › 3 实证评价 › 3.2 指标值标准化处理	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	54	5	供需视角下煤炭安全评价指标体系与实证 › 3 实证评价 › 3.3 加权规范化决策矩阵计算	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	70	6	供需视角下煤炭安全评价指标体系与实证 › 4结论与讨论	OK	own-line numbered heading, block below
+paper_chn_ceb8680b	79	7	供需视角下煤炭安全评价指标体系与实证 › 参考文献	OK	back matter heading, references follow
+paper_chn_da20c59b	4	1	“蒸发悖论”在黄河流域的探讨	OK	title on p1
+paper_chn_da20c59b	9	1	“蒸发悖论”在黄河流域的探讨 › 1 引言	OK	own-line numbered heading, block below
+paper_chn_da20c59b	22	2	“蒸发悖论”在黄河流域的探讨 › 2 数据与方法	OK	own-line numbered heading, block below
+paper_chn_da20c59b	23	2	“蒸发悖论”在黄河流域的探讨 › 2 数据与方法 › 2.1 研究区概况	OK	own-line numbered heading, block below
+paper_chn_da20c59b	25	2	“蒸发悖论”在黄河流域的探讨 › 2 数据与方法 › 2.2 数据处理	OK	own-line numbered heading, block below
+paper_chn_da20c59b	27	2	“蒸发悖论”在黄河流域的探讨 › 2 数据与方法 › 2.3 研究方法	OK	own-line numbered heading, block below
+paper_chn_da20c59b	66	4	“蒸发悖论”在黄河流域的探讨 › 3 “蒸发悖论”的探讨	OK	own-line numbered heading, block below
+paper_chn_da20c59b	68	4	“蒸发悖论”在黄河流域的探讨 › 3 “蒸发悖论”的探讨 › 3.1 “蒸发悖论”的规律分析	OK	3.1 head; 3.1.1-3.1.3 bold run-in (text)
+paper_chn_da20c59b	126	7	“蒸发悖论”在黄河流域的探讨 › 3 “蒸发悖论”的探讨 › 3.2 潜在蒸散量与降水的关系	OK	own-line numbered heading, block below
+paper_chn_da20c59b	140	8	“蒸发悖论”在黄河流域的探讨 › 3 “蒸发悖论”的探讨 › 3.3年及四季潜在蒸散量下降原因分析	OK	own-line numbered heading, block below
+paper_chn_da20c59b	153	9	“蒸发悖论”在黄河流域的探讨 › 4 结论	OK	own-line numbered heading, block below
+paper_chn_da20c59b	164	10	“蒸发悖论”在黄河流域的探讨 › 参考文献 (References)	OK	references; back-placed English block is a repeat of L1
+paper_chn_f9576e8f	1	1	我国煤炭生产布局探析与对策建议	OK	title on p1
+paper_chn_f9576e8f	9	1	我国煤炭生产布局探析与对策建议 › 1 我国煤炭资源特点和生产结构概况	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	16	2	我国煤炭生产布局探析与对策建议 › 2 我国主要煤炭生产企业的产量与储量关系分析	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	21	3	我国煤炭生产布局探析与对策建议 › 2 我国主要煤炭生产企业的产量与储量关系分析 › 2.1 我国主要煤炭生产企业原煤产量和可采储量状况	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	26	3	我国煤炭生产布局探析与对策建议 › 2 我国主要煤炭生产企业的产量与储量关系分析 › 2.2 我国主要煤炭生产企业的产量与储量相关关系分析	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	30	3	我国煤炭生产布局探析与对策建议 › 2 我国主要煤炭生产企业的产量与储量关系分析 › 2.3 影响我国主要煤炭企业生产能力的原因	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	36	4	我国煤炭生产布局探析与对策建议 › 3 提高我国煤炭企业竞争力的政策建议	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	39	4	我国煤炭生产布局探析与对策建议 › 3 提高我国煤炭企业竞争力的政策建议 › 3.1 积极培育大型煤炭企业集团	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	41	4	我国煤炭生产布局探析与对策建议 › 3 提高我国煤炭企业竞争力的政策建议 › 3.2 构建煤炭产业联盟	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	43	4	我国煤炭生产布局探析与对策建议 › 3 提高我国煤炭企业竞争力的政策建议 › 3.3 建设高产、高效的现代化矿井，实现煤炭高效、集约化生产	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	45	4	我国煤炭生产布局探析与对策建议 › 3 提高我国煤炭企业竞争力的政策建议 › 3.4 整合小煤矿、改造我国主要煤炭生产企业原煤产量和可采储量状况	OK	own-line numbered heading, block below
+paper_chn_f9576e8f	47	4	我国煤炭生产布局探析与对策建议 › 参考文献：	OK	back matter heading, references follow
+paper_chn_fb0e66b1	7	1	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动	OK	title on p1
+paper_chn_fb0e66b1	38	3	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 1 材料与方法	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	39	3	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 1 材料与方法 › 1.1 数据来源	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	61	4	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 1 材料与方法 › 1.2 研究方法	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	70	4	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	71	4	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论 › 2.1 数据预处理	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	72	4	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论 › 2.1 数据预处理 › 2.1.1 数据正态分布检验	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	83	5	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论 › 2.1 数据预处理 › 2.1.2 克里格插值参数选择及块金效应计算	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	86	5	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论 › 2.2 开采对土壤物理性质扰动的统计变化规律	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	101	6	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 2 结果与讨论 › 2.3 开采对土壤物理性质扰动的空间变异规律	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	121	7	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 3 结论与建议	OK	own-line numbered heading, block below
+paper_chn_fb0e66b1	127	7	鄂尔多斯煤田高强度井工煤矿开采对土壤物理性质的扰动 › 参考文献：	OK	back matter heading, references follow
+paper_chn_fdabe9a2	4	1	航天器低频电缆网的设计	OK	title on p1
+paper_chn_fdabe9a2	13	1	航天器低频电缆网的设计 › 0 引言	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	15	1	航天器低频电缆网的设计 › 1 电缆网的设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	17	1	航天器低频电缆网的设计 › 1 电缆网的设计 › 1.1 电缆网导线的选用	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	45	2	航天器低频电缆网的设计 › 1 电缆网的设计 › 1.2 电缆网简化设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	48	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	51	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计 › 2.1 推进供电星表设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	53	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计 › 2.2 火工品供电星表设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	55	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计 › 2.3 驱动机构供电星表设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	57	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计 › 2.4 蓄电池充放电星表设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	60	2	航天器低频电缆网的设计 › 2 电缆网星表插座设计 › 2.5 地面测试星表设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	62	2	航天器低频电缆网的设计 › 3 电缆网脱分插设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	72	3	航天器低频电缆网的设计 › 4 电缆网的接地设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	77	3	航天器低频电缆网的设计 › 5 电缆网的布局设计	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	79	3	航天器低频电缆网的设计 › 6 结束语	OK	own-line numbered heading, block below
+paper_chn_fdabe9a2	81	3	航天器低频电缆网的设计 › 参考文献（References）	OK	references; back-placed English block is a repeat of L1
+paper_eng_01d0081c	2	1	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices	OK	title on p1
+paper_eng_01d0081c	4	1	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › Abstract	OK	own-line abstract heading
+paper_eng_01d0081c	6	1	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › 1 Introduction	OK	own-line numbered heading, block below
+paper_eng_01d0081c	9	1	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › 2 Basic Definitions and Lemmas	OK	own-line numbered heading, block below
+paper_eng_01d0081c	28	2	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › 3 Main Results	OK	own-line numbered heading, block below
+paper_eng_01d0081c	62	4	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › 4 Conclusion	OK	own-line numbered heading, block below
+paper_eng_01d0081c	64	4	New Binomial Identities for Fibonacci, Lucas, and Generalized Fibonacci Sequences with Multiple Indices › References	OK	back matter heading, references follow
+paper_eng_20a93115	2	1	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem	OK	title on p1
+paper_eng_20a93115	4	1	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › Abstract	OK	own-line abstract heading
+paper_eng_20a93115	8	1	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › 1 Introduction	OK	own-line numbered heading, block below
+paper_eng_20a93115	40	3	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › 2 Topological networks on locally convex spaces	OK	own-line numbered heading, block below
+paper_eng_20a93115	155	9	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › 3 DeepONets on locally convex spaces and operator approximation	OK	own-line numbered heading, block below
+paper_eng_20a93115	359	18	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › 4 Examples illustrating Theorem 3.1	OK	own-line numbered heading, block below
+paper_eng_20a93115	419	20	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › 5 Conclusion	OK	own-line numbered heading, block below
+paper_eng_20a93115	422	20	Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem › References	OK	back matter heading, references follow
+paper_eng_369ef675	12	1	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016	OK	title on p1
+paper_eng_369ef675	14	1	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Abstract:	OK	abstract label box above structured abstract
+paper_eng_369ef675	20	2	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Introduction	OK	own-line heading, block below
+paper_eng_369ef675	30	3	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Literature Review and Focus of Study	OK	own-line heading, block below
+paper_eng_369ef675	45	5	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Research Method	OK	own-line heading, block below
+paper_eng_369ef675	58	6	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion	OK	own-line heading, block below
+paper_eng_369ef675	59	6	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Classification of Article Categorization	OK	own-line heading, block below
+paper_eng_369ef675	61	6	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Article Classification Based on Year of Publication	OK	own-line heading, block below
+paper_eng_369ef675	65	6	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Article Classification based on Analysis Unit	OK	own-line heading, block below
+paper_eng_369ef675	72	7	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Article Classification based on Its Research Paradigm	OK	own-line heading, block below
+paper_eng_369ef675	76	7	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Article Classification based on Research Methodology (Empirical vs. Non-Empirical)	OK	own-line heading, block below
+paper_eng_369ef675	80	7	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Article Classification based on Research Methodology (Quantitative vs. Qualitative)	OK	own-line heading, block below
+paper_eng_369ef675	87	8	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Research Methods used in the Articles	OK	own-line heading, block below
+paper_eng_369ef675	91	8	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Classification of Article based on IFRS Convergence Stages	OK	own-line heading, block below
+paper_eng_369ef675	93	8	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Classification of Article based on IFRS Convergence Stages › a. IFRS convergence implementation and issues in Indonesia	OK	own-line heading, block below
+paper_eng_369ef675	101	9	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Classification of Article based on IFRS Convergence Stages › b. IFRS convergence development in Indonesia	OK	own-line heading, block below
+paper_eng_369ef675	105	9	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Classification of Article based on IFRS Convergence Stages › c. The effect of IFRS convergence in Indonesia	OK	own-line heading, block below
+paper_eng_369ef675	107	9	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia	OK	own-line heading, block below
+paper_eng_369ef675	114	10	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › a. The Effect of IFRS Convergence in Indonesia on Value Relevance	OK	own-line heading, block below
+paper_eng_369ef675	124	11	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › b. The Effect of IFRS Convergence in Indonesia on Earnings Management	OK	own-line heading, block below
+paper_eng_369ef675	135	12	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › c. The Effect of IFRS Convergence in Indonesia on Company Financial Performance	OK	own-line heading, block below
+paper_eng_369ef675	146	13	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › d. The Effect of IFRS Convergence in Indonesia on Earnings Quality	OK	own-line heading, block below
+paper_eng_369ef675	159	15	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › e. The Effect of IFRS Convergence in Indonesia on Accounting Information Quality	OK	own-line heading, block below
+paper_eng_369ef675	168	16	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › The Effect of IFRS Convergence in Indonesia › f. The Effect of IFRS Convergence in Indonesia on Other Factors	OK	own-line heading, block below
+paper_eng_369ef675	175	17	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor	OK	bold subhead, same look as L3 siblings; numbered factor items below
+paper_eng_369ef675	176	17	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 1. Report delay and audit delay	OK	own-line numbered heading, block below
+paper_eng_369ef675	178	17	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 2. Accounting Conservatism	OK	own-line numbered heading, block below
+paper_eng_369ef675	182	17	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 3. Stock return and stock risk	OK	own-line numbered heading, block below
+paper_eng_369ef675	189	18	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 4. Information Assymmetry	OK	own-line numbered heading, block below
+paper_eng_369ef675	192	18	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 5. External Audit Fee	OK	own-line numbered heading, block below
+paper_eng_369ef675	195	18	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 6. Trading Volume Activity (TVA)	OK	own-line numbered heading, block below
+paper_eng_369ef675	201	19	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 7. Cost of capital	OK	own-line numbered heading, block below
+paper_eng_369ef675	203	19	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 8. Foreign Direct Investment (FDI)	OK	own-line numbered heading, block below
+paper_eng_369ef675	205	19	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 9. Stock volatility and market efficiency	OK	own-line numbered heading, block below
+paper_eng_369ef675	207	19	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Result and Discussion › Description of IFRS convergence effect on each factor › 10. Analyst forecast error and analyst following	OK	last numbered item; summary paragraph follows (numbered-list exception)
+paper_eng_369ef675	210	19	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Conclusion	OK	own-line heading, block below
+paper_eng_369ef675	224	21	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › Appendix	OK	own-line heading, block below
+paper_eng_369ef675	238	22	Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016 › References	OK	back matter heading, references follow
+paper_eng_3e5b1e3a	2	1	Factors Impinging Farmers' Use of Agriculture Technology	OK	title on p1
+paper_eng_3e5b1e3a	8	1	Factors Impinging Farmers' Use of Agriculture Technology › Abstract	OK	own-line abstract heading
+paper_eng_3e5b1e3a	11	1	Factors Impinging Farmers' Use of Agriculture Technology › 1. Agriculture in Malaysia	OK	own-line numbered heading, block below
+paper_eng_3e5b1e3a	14	1	Factors Impinging Farmers' Use of Agriculture Technology › 2. Farmers in Malaysia	OK	own-line numbered heading, block below
+paper_eng_3e5b1e3a	20	2	Factors Impinging Farmers' Use of Agriculture Technology › 3. Benefits of Technologies to Farmers	OK	own-line numbered heading, block below
+paper_eng_3e5b1e3a	23	2	Factors Impinging Farmers' Use of Agriculture Technology › 4. Factors Affecting Technology Usage among Farmers	OK	own-line numbered heading, block below
+paper_eng_3e5b1e3a	40	4	Factors Impinging Farmers' Use of Agriculture Technology › 5. Conclusion	OK	own-line numbered heading, block below
+paper_eng_3e5b1e3a	43	4	Factors Impinging Farmers' Use of Agriculture Technology › References	OK	back matter heading, references follow
+paper_eng_4b1e42ed	1	1	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning	OK	title on p1
+paper_eng_4b1e42ed	4	1	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › Abstract	OK	own-line abstract heading
+paper_eng_4b1e42ed	6	1	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 1 Introduction	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	12	2	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 2 Related Work	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	17	2	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 3 Background and Notation	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	28	3	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 4 Cohort and Data Pre-Processing	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	34	3	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 5 Methods	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	51	5	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 6 Results	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	82	8	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › 7 Discussion	OK	own-line numbered heading, block below
+paper_eng_4b1e42ed	97	10	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › Appendix 1	OK	own-line heading, block below
+paper_eng_4b1e42ed	100	10	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › Appendix 2	OK	own-line heading, block below
+paper_eng_4b1e42ed	114	11	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › Appendix 3	OK	own-line heading, block below
+paper_eng_4b1e42ed	128	14	Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning › References	OK	back matter heading, references follow
+paper_eng_54c94e58	3	1	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake	OK	title on p1
+paper_eng_54c94e58	7	1	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › 1. INTRODUCTION	OK	own-line numbered heading, block below
+paper_eng_54c94e58	11	1	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › 2. LITERATURE REVIEW	OK	own-line numbered heading, block below
+paper_eng_54c94e58	25	2	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › 3. RESEARCH METHOD	OK	own-line numbered heading, block below
+paper_eng_54c94e58	39	3	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › 4. RESULTS AND DISCUSSION	OK	own-line numbered heading, block below
+paper_eng_54c94e58	69	5	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › 5. CONCLUSION	OK	own-line numbered heading, block below
+paper_eng_54c94e58	73	5	Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake › REFERENCES	OK	back matter heading, references follow
+paper_eng_64b5e1f4	1	1	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code	OK	title on p1
+paper_eng_64b5e1f4	8	1	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › I. INTRODUCTION	OK	own-line heading, block below
+paper_eng_64b5e1f4	23	2	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › II. APPROACH OVERVIEW	OK	own-line heading, block below
+paper_eng_64b5e1f4	28	2	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › III. DISCOVRE	OK	own-line heading, block below
+paper_eng_64b5e1f4	33	3	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › III. DISCOVRE › A. Data Set	OK	own-line heading, block below
+paper_eng_64b5e1f4	58	4	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › III. DISCOVRE › B. Numeric filter	OK	IEEE subsection B.; 1)-4) run-in italic (text)
+paper_eng_64b5e1f4	85	6	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › III. DISCOVRE › C. Structural Similarity	OK	IEEE subsection C.; numbered run-in items (text)
+paper_eng_64b5e1f4	148	9	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › IV. EVALUATION	OK	own-line heading, block below
+paper_eng_64b5e1f4	152	10	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › IV. EVALUATION › A. Similarity Metric	OK	own-line heading, block below
+paper_eng_64b5e1f4	159	10	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › IV. EVALUATION › B. Cross-Architecture Bug Search	OK	own-line heading, block below
+paper_eng_64b5e1f4	188	12	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › IV. EVALUATION › C. Comparison to BinDiff	OK	own-line heading, block below
+paper_eng_64b5e1f4	191	12	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › V. LIMITATIONS	OK	own-line heading, block below
+paper_eng_64b5e1f4	196	12	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › VI. RELATED WORK	OK	own-line heading, block below
+paper_eng_64b5e1f4	209	13	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › VII. CONCLUSION AND FUTURE WORK	OK	own-line heading, block below
+paper_eng_64b5e1f4	214	14	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › VII. CONCLUSION AND FUTURE WORK › A. Future Work	OK	own-line heading, block below
+paper_eng_64b5e1f4	218	14	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › ACKNOWLEDGEMENTS	OK	own-line heading, block below
+paper_eng_64b5e1f4	220	14	discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code › REFERENCES	OK	back matter heading, references follow
+paper_eng_6a66645a	2	1	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker	OK	title on p1
+paper_eng_6a66645a	4	1	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › Abstract	OK	own-line abstract heading
+paper_eng_6a66645a	7	1	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 1. Introduction	OK	own-line numbered heading, block below
+paper_eng_6a66645a	13	2	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 2. Design Details	OK	own-line numbered heading, block below
+paper_eng_6a66645a	14	2	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 2. Design Details › 2.1 Building-material-housing Solar Cooker (BMHSC)	OK	own-line numbered heading, block below
+paper_eng_6a66645a	22	3	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 2. Design Details › 2.2 Commercial Hotbox Solar Cooker (CSC)	OK	own-line numbered heading, block below
+paper_eng_6a66645a	28	4	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 3. Experimental Studies	OK	own-line numbered heading, block below
+paper_eng_6a66645a	29	4	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 3. Experimental Studies › 3.1 Thermal Performance	OK	own-line numbered heading, block below
+paper_eng_6a66645a	47	6	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 3. Experimental Studies › 3.2 Cooking Performance	OK	own-line numbered heading, block below
+paper_eng_6a66645a	53	7	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 3. Experimental Studies › 3.3 Figures of Merit	OK	own-line numbered heading, block below
+paper_eng_6a66645a	64	7	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 4. Energy Savings and Payback Periods	OK	own-line numbered heading, block below
+paper_eng_6a66645a	74	8	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 5. Results and Discussion	OK	own-line numbered heading, block below
+paper_eng_6a66645a	84	9	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › 6. Conclusions	OK	own-line numbered heading, block below
+paper_eng_6a66645a	88	10	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › References	OK	back matter heading, references follow
+paper_eng_6a66645a	107	10	Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker › Authors	OK	back matter Authors heading with bio block
+paper_eng_81997c1e	2	1	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study	OK	title on p1
+paper_eng_81997c1e	7	1	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › I. INTRODUCTION	OK	own-line heading, block below
+paper_eng_81997c1e	15	2	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › I. INTRODUCTION › 1.1. Different Views of Employee Retention by Many Previous Researchers	OK	own-line numbered heading, block below
+paper_eng_81997c1e	42	3	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › I. INTRODUCTION › 1.2. Problem Statement	OK	own-line numbered heading, block below
+paper_eng_81997c1e	44	3	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › I. INTRODUCTION › 1.3. Objectives	OK	own-line numbered heading, block below
+paper_eng_81997c1e	53	3	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION	OK	own-line heading, block below
+paper_eng_81997c1e	59	4	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION › 2.1. Job Security and Employee Retention	OK	own-line numbered heading, block below
+paper_eng_81997c1e	61	4	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION › 2.2. Job Satisfaction and Employee Retention	OK	own-line numbered heading, block below
+paper_eng_81997c1e	63	4	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION › 2.3. Work Life Balance and Employee Retention	OK	own-line numbered heading, block below
+paper_eng_81997c1e	66	4	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION › 2.4. Compensation and Employee Retention	OK	own-line numbered heading, block below
+paper_eng_81997c1e	77	5	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › III. CONCEPTUAL FRAMEWORK	OK	own-line heading, block below
+paper_eng_81997c1e	83	5	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › IV. RESEARCH METHODOLOGY	OK	own-line heading, block below
+paper_eng_81997c1e	89	6	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › V. DATA ANALYSIS AND INTERPRETATION	OK	own-line heading, block below
+paper_eng_81997c1e	90	6	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › V. DATA ANALYSIS AND INTERPRETATION › 5.1. Correlation	OK	own-line numbered heading, block below
+paper_eng_81997c1e	97	6	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › V. DATA ANALYSIS AND INTERPRETATION › 5.2. Correlation and Anova Test	OK	own-line numbered heading, block below
+paper_eng_81997c1e	134	7	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › VI. FINDINGS OF THE STUDY	OK	own-line heading, block below
+paper_eng_81997c1e	149	8	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › VII. CONCLUSION	OK	own-line heading, block below
+paper_eng_81997c1e	153	8	Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study › REFERENCES	OK	RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): unheaded author bios with photos (p10) follow the reference list and fall under REFERENCES; containment would make References text - keep as is?
+paper_eng_b8670bda	2	1	Social Distancing Equilibria in Games under Conventional SI Dynamics	OK	title on p1
+paper_eng_b8670bda	7	1	Social Distancing Equilibria in Games under Conventional SI Dynamics › Abstract	OK	own-line abstract heading
+paper_eng_b8670bda	10	1	Social Distancing Equilibria in Games under Conventional SI Dynamics › 1 Introduction	OK	own-line numbered heading, block below
+paper_eng_b8670bda	18	2	Social Distancing Equilibria in Games under Conventional SI Dynamics › 2 SI Distancing Game	OK	own-line numbered heading, block below
+paper_eng_b8670bda	63	4	Social Distancing Equilibria in Games under Conventional SI Dynamics › 3 Preliminary analysis	OK	own-line numbered heading, block below
+paper_eng_b8670bda	73	5	Social Distancing Equilibria in Games under Conventional SI Dynamics › 4 Delay strategies	OK	own-line numbered heading, block below
+paper_eng_b8670bda	86	5	Social Distancing Equilibria in Games under Conventional SI Dynamics › 4 Delay strategies › 4.1 Equilibrium Solution	OK	own-line numbered heading, block below
+paper_eng_b8670bda	106	6	Social Distancing Equilibria in Games under Conventional SI Dynamics › 4 Delay strategies › 4.2 Interpretation	OK	own-line numbered heading, block below
+paper_eng_b8670bda	144	8	Social Distancing Equilibria in Games under Conventional SI Dynamics › 5 General Analysis	OK	own-line numbered heading, block below
+paper_eng_b8670bda	224	12	Social Distancing Equilibria in Games under Conventional SI Dynamics › 6 Proof of Uniqueness	OK	own-line numbered heading, block below
+paper_eng_b8670bda	301	15	Social Distancing Equilibria in Games under Conventional SI Dynamics › 7 Discussion	OK	own-line numbered heading, block below
+paper_eng_b8670bda	309	16	Social Distancing Equilibria in Games under Conventional SI Dynamics › Declarations	OK	back matter Declarations; bold run-in Funding/COI (text)
+paper_eng_b8670bda	313	16	Social Distancing Equilibria in Games under Conventional SI Dynamics › Appendix A Minima of Special Functions	OK	own-line heading, block below
+paper_eng_b8670bda	338	17	Social Distancing Equilibria in Games under Conventional SI Dynamics › Appendix B Differentiability of restricted disutility	OK	own-line heading, block below
+paper_eng_b8670bda	357	17	Social Distancing Equilibria in Games under Conventional SI Dynamics › Appendix C ESS Proof	OK	own-line heading, block below
+paper_eng_b8670bda	412	19	Social Distancing Equilibria in Games under Conventional SI Dynamics › References	OK	back matter heading, references follow
+paper_eng_bba70704	4	1	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011)	OK	paper title; journal logo box #3 is not_heading
+paper_eng_bba70704	8	1	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › ABSTRACT	OK	own-line abstract heading
+paper_eng_bba70704	13	1	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › I. INTRODUCTION	OK	own-line heading, block below
+paper_eng_bba70704	22	2	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › II. LITERATURE STUDIES	OK	own-line heading, block below
+paper_eng_bba70704	23	2	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › II. LITERATURE STUDIES › II.1 GLOBAL CRISIS	OK	own-line heading, block below
+paper_eng_bba70704	25	2	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › II. LITERATURE STUDIES › II.2 FINANCIAL MANAGEMENT	OK	own-line heading, block below
+paper_eng_bba70704	27	2	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › II. LITERATURE STUDIES › II.3 FINANCIAL STATEMENT ANALYSIS	OK	own-line heading, block below
+paper_eng_bba70704	30	2	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › II. LITERATURE STUDIES › II.4 FINANCIAL PERFORMANCE MEASURE	OK	own-line heading, block below
+paper_eng_bba70704	55	4	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › III. METHODOLOGY	OK	own-line heading, block below
+paper_eng_bba70704	57	4	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › III. METHODOLOGY › III.1 RESEARCH MODEL	OK	own-line heading, block below
+paper_eng_bba70704	61	4	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › III. METHODOLOGY › III.2 HYPOTHESIS	OK	own-line heading, block below
+paper_eng_bba70704	68	4	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › III. METHODOLOGY › III.3 RESEARCH OBJECT	OK	own-line heading, block below
+paper_eng_bba70704	80	5	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › III. METHODOLOGY › III.4 VARIABLE OPERATION	OK	own-line heading, block below
+paper_eng_bba70704	89	6	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › IV. DATA ANALYSIS	OK	own-line heading, block below
+paper_eng_bba70704	92	6	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › IV. DATA ANALYSIS › IV.1 RESULT AND DISCUSSION	OK	own-line heading, block below
+paper_eng_bba70704	101	7	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › IV. DATA ANALYSIS › IV.2 PROFITABILITY	OK	own-line heading, block below
+paper_eng_bba70704	104	7	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › IV. DATA ANALYSIS › IV.3 LIQUIDITY	OK	own-line heading, block below
+paper_eng_bba70704	107	7	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › IV. DATA ANALYSIS › IV.4 PRICE TO EARNING RATIO	OK	own-line heading, block below
+paper_eng_bba70704	112	8	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › V. CONCLUSION	OK	own-line heading, block below
+paper_eng_bba70704	116	8	Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011) › VI. REFERENCE	OK	own-line heading, block below
+paper_eng_c1aa81bd	2	1	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE	OK	title on p1
+paper_eng_c1aa81bd	9	1	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE › CONTENTS	OK	own-line heading, block below
+paper_eng_c1aa81bd	11	1	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE › 1. INTRODUCTION	OK	AMS section 1; 1.1-1.6 bold run-in leads (text)
+paper_eng_c1aa81bd	134	9	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE › 2. IDENTIFICATION OF THE LIMIT FREE ENERGY WITH LINEAR MATTIS INTERACTION	OK	own-line numbered heading, block below
+paper_eng_c1aa81bd	199	13	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE › 3. PROOFS OF MAIN RESULTS	OK	own-line numbered heading, block below
+paper_eng_c1aa81bd	232	15	VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE › REFERENCES	OK	back matter heading, references follow
+paper_eng_ce403572	3	1	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018	OK	title on p1
+paper_eng_ce403572	6	1	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › ABSTRACT	OK	own-line abstract heading
+paper_eng_ce403572	9	1	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 1. INTRODUCTION	OK	own-line numbered heading, block below
+paper_eng_ce403572	17	2	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW	OK	own-line numbered heading, block below
+paper_eng_ce403572	22	2	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW › 2.1 Profitability and Capital Structure	OK	own-line numbered heading, block below
+paper_eng_ce403572	26	2	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW › 2.2 Liquidity and Capital Structure	OK	own-line numbered heading, block below
+paper_eng_ce403572	28	2	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW › 2.3 Tangibility and Capital Structure	OK	own-line numbered heading, block below
+paper_eng_ce403572	35	3	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW › 2.4 Firm Size and Capital Structure	OK	own-line numbered heading, block below
+paper_eng_ce403572	38	3	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 2. LITERATURE REVIEW › 2.5 Asset Turnover and Capital Structure	OK	own-line numbered heading, block below
+paper_eng_ce403572	40	3	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 3. METHODS	OK	own-line numbered heading, block below
+paper_eng_ce403572	52	4	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 4. RESULTS	OK	own-line numbered heading, block below
+paper_eng_ce403572	73	5	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › 5. CONCLUSIONS	OK	own-line numbered heading, block below
+paper_eng_ce403572	75	5	The Effects of Profitability, Liquidity, Tangibility, Firm Size, and Asset Turnover on Capital Structure in Chemical Industry Listed on Indonesia Stock Exchange From 2014 to 2018 › REFERENCES	OK	back matter heading, references follow
+paper_eng_d054de2a	2	1	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India	OK	title on p1
+paper_eng_d054de2a	6	1	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › I. INTRODUCTION	OK	own-line heading, block below
+paper_eng_d054de2a	10	1	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › II. CIVIL AVIATION	OK	own-line heading, block below
+paper_eng_d054de2a	22	2	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › II. CIVIL AVIATION › Airports	OK	bold underlined subhead in II (term definition)
+paper_eng_d054de2a	24	2	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › II. CIVIL AVIATION › Air transport service	OK	bold underlined subhead in II
+paper_eng_d054de2a	26	2	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › Gross Domestic Product	OK	GDP L2: content beats look (user decision); the round-3 learnings line is superseded
+paper_eng_d054de2a	29	2	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › III. IMPORTANCE OF THE STUDY	OK	own-line heading, block below
+paper_eng_d054de2a	31	2	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › IV. REVIEW OF LITERATURE	OK	own-line heading, block below
+paper_eng_d054de2a	40	3	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › V. HYPOTHESIS OF THE STUDY	OK	own-line heading, block below
+paper_eng_d054de2a	44	3	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › VI. METHODOLOGY	OK	own-line heading, block below
+paper_eng_d054de2a	46	3	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › VI. METHODOLOGY › PERIOD OF THE STUDY	OK	italic caps own-line subhead with block
+paper_eng_d054de2a	48	3	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › VII. DATA ANALYSIS	OK	own-line heading, block below
+paper_eng_d054de2a	63	4	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › VII. DATA ANALYSIS › REGION-WISE FDI INFLOWS IN INDIA	OK	italic caps own-line subhead with block
+paper_eng_d054de2a	75	4	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › VIII. CORRELATION ANALYSIS	OK	own-line heading, block below
+paper_eng_d054de2a	88	5	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › IX. REGRESSION ANALYSIS	OK	own-line heading, block below
+paper_eng_d054de2a	105	6	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › X. CONCLUSION	OK	own-line heading, block below
+paper_eng_d054de2a	107	6	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › ACKNOWLEDGEMENT	OK	own-line heading, block below
+paper_eng_d054de2a	109	6	The Influence of FDI with GDP its Impact of FDI in Civil Aviation Sector in India › REFERENCES	OK	back matter heading, references follow
+paper_eng_d76efc79	2	1	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction	OK	title on p1
+paper_eng_d76efc79	9	1	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Abstract	OK	own-line abstract heading
+paper_eng_d76efc79	12	1	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Introduction	OK	own-line heading, block below
+paper_eng_d76efc79	33	2	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Related Works	OK	own-line heading, block below
+paper_eng_d76efc79	34	2	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Related Works › Learning-based PDE Solvers	OK	own-line heading, block below
+paper_eng_d76efc79	36	2	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Related Works › Deep Learning for FSI	OK	own-line heading, block below
+paper_eng_d76efc79	38	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Related Works › Heterogeneous Graph Neural Networks	OK	own-line heading, block below
+paper_eng_d76efc79	40	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Preliminaries	OK	own-line heading, block below
+paper_eng_d76efc79	42	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Preliminaries › Governing Equations of FSI	OK	own-line heading, block below
+paper_eng_d76efc79	56	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Preliminaries › Graph Attention as a Neural Operator	OK	own-line heading, block below
+paper_eng_d76efc79	70	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Preliminaries › Heterogeneous Graphs as a Physical Inductive Bias	OK	own-line heading, block below
+paper_eng_d76efc79	78	3	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Method	OK	own-line heading, block below
+paper_eng_d76efc79	83	4	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Method › Heterogeneous Graph Processor	OK	own-line heading, block below
+paper_eng_d76efc79	108	4	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Method › PCGM: Physics-Conditioned Gating Mechanism	OK	own-line heading, block below
+paper_eng_d76efc79	120	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Method › IGBL: Inter-domain Gradient-Balancing Loss	OK	own-line heading, block below
+paper_eng_d76efc79	131	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments	OK	own-line heading, block below
+paper_eng_d76efc79	132	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Dataset	OK	own-line heading, block below
+paper_eng_d76efc79	137	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Baselines	OK	own-line heading, block below
+paper_eng_d76efc79	139	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Evaluation metrics	OK	own-line heading, block below
+paper_eng_d76efc79	143	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Implementation Details	OK	own-line heading, block below
+paper_eng_d76efc79	145	5	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Main Results	OK	AAAI subsection; bold run-in para leads below (text)
+paper_eng_d76efc79	150	6	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Few-Shot Generalization Analysis	OK	own-line heading, block below
+paper_eng_d76efc79	156	6	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Qualitative Error Visualization	OK	own-line heading, block below
+paper_eng_d76efc79	158	6	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Experiments › Ablation study	OK	AAAI subsection; bold run-in para leads below (text)
+paper_eng_d76efc79	177	7	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Conclusion	OK	own-line heading, block below
+paper_eng_d76efc79	179	8	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › Acknowledgments	OK	own-line heading, block below
+paper_eng_d76efc79	181	8	HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction › References	OK	back matter heading, references follow
+paper_eng_f30006b1	4	1	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures	OK	title on p1
+paper_eng_f30006b1	6	1	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Lessons Learned	OK	titled summary box Lessons Learned with block (L2)
+paper_eng_f30006b1	24	2	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Introduction	OK	own-line heading, block below
+paper_eng_f30006b1	29	2	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Where Can Users Find Census Bureau E-Commerce Data?	OK	own-line heading, block below
+paper_eng_f30006b1	48	3	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › What E-Commerce Data Does the Census Report?	OK	own-line heading, block below
+paper_eng_f30006b1	104	6	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Moving Towards a More Transparent E-Commerce Number	OK	own-line heading, block below
+paper_eng_f30006b1	144	8	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Convergence: The Omni-Channel Exemption	OK	own-line heading, block below
+paper_eng_f30006b1	179	10	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › So Where Does That Leave Us?	OK	last section; author contact box and disclaimer footnote follow (text)
+paper_eng_f30006b1	191	11	Deconstructing the Census Bureau's Retail Trade E-Commerce Figures › Appendix: In Focus: Unpacking Amazon's Sales	OK	own-line heading, block below
+paper_eng_fd23041b	14	2	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil	OK	title on the paper's own p2; redalyc cover p1 is considered text
+paper_eng_fd23041b	21	2	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Abstract	OK	own-line abstract heading
+paper_eng_fd23041b	27	3	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Introduction	OK	own-line heading, block below
+paper_eng_fd23041b	34	3	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Material and Methods	OK	own-line heading, block below
+paper_eng_fd23041b	35	3	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Material and Methods › Study Design	OK	unnumbered body-size subhead with block
+paper_eng_fd23041b	37	3	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Material and Methods › Data Collection	OK	own-line heading, block below
+paper_eng_fd23041b	44	4	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Material and Methods › Statistical Analysis	OK	own-line heading, block below
+paper_eng_fd23041b	46	4	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Material and Methods › Ethical Aspects	OK	own-line heading, block below
+paper_eng_fd23041b	48	4	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Results	OK	own-line heading, block below
+paper_eng_fd23041b	66	6	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Discussion	OK	own-line heading, block below
+paper_eng_fd23041b	87	8	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Conclusion	OK	own-line heading, block below
+paper_eng_fd23041b	89	8	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › Acknowledgements	OK	own-line heading, block below
+paper_eng_fd23041b	91	8	Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil › References	OK	back matter heading, references follow
+paper_eng_ff3a3862	2	1	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously	OK	title on p1
+paper_eng_ff3a3862	7	1	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 1 Introduction	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	30	4	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 2 Method	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	31	4	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 2 Method › 2.1 The Video Streaming Thinking (VST) Paradigm	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	42	5	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 2 Method › 2.2 Training Method for VST	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	68	7	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 2 Method › 2.3 Data Synthesis Pipeline for VST	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	77	8	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	78	8	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.1 Implementation Details	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	80	8	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.2 Benchmarks	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	87	9	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.3 Online Video Benchmark Results	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	95	10	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.4 Offline Video Benchmark Results	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	101	11	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.5 Ablation Study	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	114	12	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 3 Experiment › 3.6 Analysis	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	124	13	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 4 Related Work	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	130	14	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › 5 Conclusion	OK	own-line numbered heading, block below
+paper_eng_ff3a3862	135	15	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › References	OK	back matter heading, references follow
+paper_eng_ff3a3862	203	19	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix	OK	Appendix label groups A-C (kept, round 3)
+paper_eng_ff3a3862	204	19	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix › A Details of VST Inference	OK	own-line heading, block below
+paper_eng_ff3a3862	205	19	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix › A Details of VST Inference › A.1 Inference Prompt	OK	own-line heading, block below
+paper_eng_ff3a3862	209	19	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix › A Details of VST Inference › A.2 Streaming Inference Pipeline	OK	own-line heading, block below
+paper_eng_ff3a3862	215	20	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix › B Details of VST-SFT / RL Training	OK	own-line heading, block below
+paper_eng_ff3a3862	218	20	Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously › Appendix › C Details of VST Data Generation	OK	own-line heading, block below

@@ -94,3 +94,12 @@ L1); eng_a323eb0a TRANSLATION (union with the letterhead); "Inside this issue:" 
 newspaper notes: index box title = text).
 
 OPEN: none.
+
+## Round 4 (full path review)
+
+26 docs, every page rendered with the tree and looked at (12 chn, 14 eng); 120 nodes, all OK, no fix.
+Chinese regulations: no missed 第N章/第N节 label on any page; 第N条 run-ins and (一) items stay text.
+Cables: SUBJECT-box L1 + dashed/underlined section heads read as consistent breadcrumbs; run-in "(U) Summary." and
+numbered paragraphs stay text. eng_d4c4a9f2 "JOINT MINISTER'S STATEMENT" also holds ¶9-11 (POC paragraph) because the
+cable prints no closing head before COMMENT: kept (the cable's own outline). eng_1fb9cb74 has no node (two untitled
+notes). No OPEN question.

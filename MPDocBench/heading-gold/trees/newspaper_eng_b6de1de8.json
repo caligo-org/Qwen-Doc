@@ -13,15 +13,6 @@
   },
   {
    "boxes": [
-    9
-   ],
-   "level": 3,
-   "parent": 2,
-   "text": "The rat pack",
-   "why": "photo story headline with its own text; Eyewitness Italy is a rubric"
-  },
-  {
-   "boxes": [
     56
    ],
    "level": 2,
@@ -277,6 +268,10 @@
   {
    "box": 132,
    "why": "numbered location label above a brief headline (kicker keyed to the map)"
+  },
+  {
+   "box": 9,
+   "why": "round 4 path review: was L3 photo story under L1. Its block is a two-line caption, and the colophon box (p2) and the whole contents page (p3, no contents title, entries are text) would fall into its subtree in reading order. Containment closes subtrees (NOTATIONS), so it is text; the caption sits under the masthead"
   }
  ],
  "considered": [

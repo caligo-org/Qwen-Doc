@@ -5,12 +5,13 @@
   {
    "boxes": [
     1,
-    3
+    3,
+    15
    ],
    "level": 1,
    "parent": "root",
-   "text": "宁德时代（300750）2019年年报点评 连续三年动力电池全球第一",
-   "why": "title union (round 3): the owner is printed only in the mixed cover header box (date / report type / company / rating); per NOTATIONS \"Every path is a breadcrumb\" the node uses that box and its text is only the heading part (company + report type, as the running head prints it) ∪ the headline"
+   "text": "宁德时代（300750）2019年年报点评 连续三年动力电池全球第一 西南证券",
+   "why": "title union (round 3): the owner is printed only in the mixed cover header box (date / report type / company / rating); per NOTATIONS \"Every path is a breadcrumb\" the node uses that box and its text is only the heading part (company + report type, as the running head prints it) ∪ the headline Round 4: the broker (owner) is printed in text only in the sidebar banner #15 '西南证券研究发展中心' (logo #2 is an image); heading part 西南证券 joins the union, the research-centre part is dropped (user decision 2026-11-13, as with the Goldman research-division label; NOTATIONS 'The title': owner in a box with other fields)."
   },
   {
    "boxes": [
@@ -128,10 +129,6 @@
   }
  ],
  "not_headings": [
-  {
-   "box": 15,
-   "why": "research centre banner over the analyst list: text"
-  },
   {
    "box": 18,
    "why": "sidebar chart label: text"

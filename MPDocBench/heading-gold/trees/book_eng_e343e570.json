@@ -332,8 +332,8 @@
    ],
    "level": 4,
    "parent": 76,
-   "text": "SCENARIO C: ALONG SIDEWALKs",
-   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (Turf buffer, Raised edging)\" is printed in the same box: node text is only the heading part"
+   "text": "SCENARIO C: ALONG SIDEWALKS",
+   "why": "scenario: one of the design scenarios the section introduces, one level below it (content beats look); breadcrumb round 3: the deck \"Two design options (Turf buffer, Raised edging)\" is printed in the same box: node text is only the heading part; round 4: text as printed (all caps SIDEWALKS, OCR 'SIDEWALKs')"
   },
   {
    "boxes": [

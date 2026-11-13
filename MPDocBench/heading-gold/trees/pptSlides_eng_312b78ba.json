@@ -49,15 +49,6 @@
   },
   {
    "boxes": [
-    42
-   ],
-   "level": 3,
-   "parent": 41,
-   "text": "RESEARCH & DEVELOPMENT",
-   "why": "bold label heading the slide's text and tables"
-  },
-  {
-   "boxes": [
     55
    ],
    "level": 3,
@@ -323,8 +314,8 @@
    ],
    "level": 4,
    "parent": 161,
-   "text": "LUXURYPRODUCTS",
-   "why": "division label heading its brand list"
+   "text": "LUXURY PRODUCTS",
+   "why": "division label heading its brand list; round 4: text as printed (OCR dropped the space)"
   },
   {
    "boxes": [
@@ -350,6 +341,13 @@
    ],
    "of": 67,
    "why": "(cont.) slide title, nothing in between"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 41,
+   "why": "round 4: bold label \"RESEARCH & DEVELOPMENT\" restates the slide title \"R&D, a Key to Success\" (not narrower); the p4 text and tables sit directly under the slide title, STRATEGIC DIRECTION on p5 stays its L3 child"
   }
  ],
  "not_headings": [
