@@ -173,9 +173,9 @@ A title repeated later (half-title, title page, title restated above clause 1, r
   and index boxes, colophons, columnist names are text. A briefs column label (Daily Briefing, INBOX) is a story-level
   heading, the briefs one level below. A story whose section is printed nowhere on its pages skips to L3 under the
   masthead only before the first L2 section (a front page); after an L2 section (contents, an earlier section) it
-  takes the section slot, L2, because an L3 after an L2 would sit under that section in Markdown levels. A running
-  section tag printed later than its story's opener (after the headline in reading order) stays text: making it a
-  section would put it after the story it heads.
+  takes the section slot, L2, because an L3 after an L2 would sit under that section in Markdown levels. A section or
+  column tag printed on the story's opener page heads it (一滴墨香 › poem title), wherever the layout reads it; a tag
+  that first appears on a later page of the story (a running head on its continuation pages) stays text.
 - handwritten: when the notes have no title, the top groupings are the top level (several L1 nodes).
 
 ## User decisions (all apply)
