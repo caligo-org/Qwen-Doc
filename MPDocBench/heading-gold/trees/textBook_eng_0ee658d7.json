@@ -1,0 +1,55 @@
+{
+ "doc": "textBook_eng_0ee658d7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "TRIGONOMETRY",
+   "why": "title: book title on the cover spine band (OCR casing fixed)"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "On the cover:",
+   "why": "round 5: restored, a break now closes it before the title page (#5); own-line front-matter label over its own paragraph about the cover image (#4): L2 by the v3 label rule"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 11,
+   "why": "license lead-in sentence introducing a bullet list (\"You are free:\"): lead-in, text"
+  },
+  {
+   "box": 14,
+   "why": "license lead-in sentence introducing a bullet list (\"You are free:\"): lead-in, text"
+  },
+  {
+   "box": 18,
+   "why": "license lead-in sentence introducing a bullet list (\"You are free:\"): lead-in, text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 5,
+   "closes": 3,
+   "why": "the cover note ends with its page; the title page (repeat of L1, author, date) and the license page are not about the cover"
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "doc": "manualGuide_chn_57d8d5ed",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Emtronix EM9161 嵌入式主板数据手册",
+   "why": "title: product model + document type (数据手册) in one cover band Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (Emtronix) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "EM9161主要特点：",
+   "why": "round 5: restored, a break now closes it before the manual-scope / contact paragraphs (#21). Own-line label 'EM9161主要特点：' with its own ● feature list (#9-#20), one level below the L1 it sits in (front matter has no other heading)."
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "1、主要技术指标",
+   "why": "chapter: numbered outline heading 1、 (TOC)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "CPU单元",
+   "why": "section: own-line group label with its own bullet block, under chapter 1"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "通讯接口配置",
+   "why": "section: same look as CPU单元"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "显示键盘单元",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "数字IO控制单元",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "精简ISA扩展总线",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "电源及模块机械参数",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "基本软件环境",
+   "why": "section: same look"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "2、外形尺寸",
+   "why": "chapter: numbered outline heading 2、 (in TOC), boxed as figure"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "3、模块信号管脚功能描述",
+   "why": "chapter: numbered outline heading 3、"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 110,
+   "text": "3.1 EM9161 的 CN1 信号定义",
+   "why": "section: numbered 3.1 (TOC), boxed as table caption, describes the pin table and notes below"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "关于CN1中相关信号的进一步说明：",
+   "why": "label heading: own-line label with its own bullet block of notes, inside 3.1"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 110,
+   "text": "3.2 EM9161的CN2信号定义",
+   "why": "section: numbered 3.2 (TOC)"
+  },
+  {
+   "boxes": [
+    163
+   ],
+   "level": 4,
+   "parent": 151,
+   "text": "关于CN2中相关信号的进一步说明：",
+   "why": "label heading: same label as in 3.1, own bullet block of notes"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document (model + 数据手册 + version) on every page"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 134,
+   "why": "table lead-in sentence"
+  },
+  {
+   "box": 144,
+   "why": "table lead-in sentence"
+  },
+  {
+   "box": 153,
+   "why": "table lead-in sentence"
+  },
+  {
+   "box": 155,
+   "why": "table lead-in sentence"
+  },
+  {
+   "box": 116,
+   "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 8,
+   "why": "the feature list ends; the manual-scope, website and contact paragraphs (#21-#29) are about the manual, not the features"
+  }
+ ]
+}

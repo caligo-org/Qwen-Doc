@@ -1,0 +1,647 @@
+{
+ "doc": "book_chn_38c7e1dc",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "第一部分 公司法",
+   "why": "top level: part title (excerpt has no cover; the part is the document root)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "专题一 公司设立",
+   "why": "专题 (topic) heading"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "考点1：发起人责任",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 5,
+   "parent": 10,
+   "text": "一、违约责任",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 6,
+   "parent": 13,
+   "text": "（一）公司成立",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 7,
+   "parent": 14,
+   "text": "1.发起人以自己名义",
+   "why": "own-line numbered heading with its own paragraph; breadcrumb round 2: node text without the OCR underline markup"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 7,
+   "parent": 14,
+   "text": "2.发起人以设立中公司名义",
+   "why": "own-line numbered heading with its own paragraph; breadcrumb round 2: node text without the OCR underline markup"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 6,
+   "parent": 13,
+   "text": "（二）公司未成立",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 5,
+   "parent": 10,
+   "text": "二、侵权责任",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "小案例训练",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "考点2：公司章程",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 5,
+   "parent": 50,
+   "text": "一、公司章程的效力",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 5,
+   "parent": 50,
+   "text": "二、公司章程的订立",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 5,
+   "parent": 50,
+   "text": "三、公司章程的变更",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 6,
+   "parent": 59,
+   "text": "1. 公司章程的变更程序",
+   "why": "own-line numbered sub-head with its (1)-(4) list"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "小案例训练",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "专题二 公司权利能力",
+   "why": "专题 (topic) heading"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 3,
+   "parent": 83,
+   "text": "考点1：法人的责任能力",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 4,
+   "parent": 84,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 4,
+   "parent": 84,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 5,
+   "parent": 88,
+   "text": "一、法人责任与股东责任",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 5,
+   "parent": 88,
+   "text": "二、法人人格否认",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 6,
+   "parent": 92,
+   "text": "（二）法人人格否认的认定",
+   "why": "own-line （二） sub-head with its own block (sibling （一） is run-in)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 6,
+   "parent": 92,
+   "text": "（三）法人人格否认诉讼地位",
+   "why": "own-line （三） sub-head with its own block"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 4,
+   "parent": 84,
+   "text": "小案例分析",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 3,
+   "parent": 83,
+   "text": "考点2：公司担保",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 4,
+   "parent": 142,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 4,
+   "parent": 142,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 5,
+   "parent": 146,
+   "text": "一、公司担保规则",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 6,
+   "parent": 147,
+   "text": "（一）对外担保",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 6,
+   "parent": 147,
+   "text": "（二）对内担保",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 5,
+   "parent": 146,
+   "text": "二、越权担保规则",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 6,
+   "parent": 152,
+   "text": "1. 基本规则",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "level": 6,
+   "parent": 152,
+   "text": "2. 善意的认定",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 142,
+   "text": "小案例训练",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    182
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "专题三 股东出资",
+   "why": "专题 (topic) heading"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "考点1：股东出资规则",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    184
+   ],
+   "level": 4,
+   "parent": 183,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "level": 4,
+   "parent": 183,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "level": 5,
+   "parent": 187,
+   "text": "一、股东出资方式",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 5,
+   "parent": 187,
+   "text": "二、股东出资具体规则",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "level": 4,
+   "parent": 183,
+   "text": "小案例训练",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    216
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "考点2：瑕疵出资、抽逃出资",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    220
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "一、出资违约",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    222
+   ],
+   "level": 6,
+   "parent": 221,
+   "text": "1. 表现形式：",
+   "why": "own-line numbered label with its own block"
+  },
+  {
+   "boxes": [
+    233
+   ],
+   "level": 6,
+   "parent": 221,
+   "text": "2.责任：",
+   "why": "own-line numbered label with its (1)-(3) list"
+  },
+  {
+   "boxes": [
+    243
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "二、出资不实",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    247
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "三、增资时出资瑕疵",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    254
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "四、瑕疵股权转让",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    256
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "五、抽逃出资",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    259
+   ],
+   "level": 5,
+   "parent": 220,
+   "text": "六、瑕疵出资、抽逃出资股东权利的限制与资格的解除",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    267
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "小案例训练",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    284
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "专题四 股东权利",
+   "why": "专题 (topic) heading"
+  },
+  {
+   "boxes": [
+    285
+   ],
+   "level": 3,
+   "parent": 284,
+   "text": "考点1：股东资格",
+   "why": "考点 heading"
+  },
+  {
+   "boxes": [
+    286
+   ],
+   "level": 4,
+   "parent": 285,
+   "text": "命题点拨",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    289
+   ],
+   "level": 4,
+   "parent": 285,
+   "text": "关键词记忆",
+   "why": "block label with its own block (命题点拨/关键词记忆/小案例训练; v3 label rule)"
+  },
+  {
+   "boxes": [
+    290
+   ],
+   "level": 5,
+   "parent": 289,
+   "text": "一、股东资格认定依据",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    297
+   ],
+   "level": 5,
+   "parent": 289,
+   "text": "二、名义股东与实际出资人",
+   "why": "一、 level heading"
+  },
+  {
+   "boxes": [
+    298
+   ],
+   "level": 6,
+   "parent": 297,
+   "text": "1. 概念",
+   "why": "（一） / numbered own-line heading"
+  },
+  {
+   "boxes": [
+    301
+   ],
+   "level": 6,
+   "parent": 297,
+   "text": "2.代持股协议",
+   "why": "（一） / numbered own-line heading"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 11,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 12,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 98,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 107,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 110,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 117,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 165,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 199,
+   "why": "bracket callout label (【...】), text"
+  },
+  {
+   "box": 237,
+   "why": "bracket callout label (【...】), text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 117,
+   "closes": 112,
+   "why": "the 【指导案例】 callout (guiding case on related-company personality confusion) follows the litigation-status list; it is about 二、法人人格否认 as a whole, not about （三）法人人格否认诉讼地位"
+  }
+ ]
+}

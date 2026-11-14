@@ -1,0 +1,73 @@
+{
+ "doc": "researchReport_chn_1f9ad79f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "机场行业研究报告 联合资信",
+   "why": "title union: report headline #2 + owner box #3 (联合资信 公用事业三部; only the owner name is the heading part, the department is not). Round 4: owner is printed as text under the headline, so it joins the L1 union (NOTATIONS 'The title': owner in a box with other fields; same principle as the Goldman Sachs logo decision 2026-11-13). Was: 机场行业研究报告."
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "摘要",
+   "why": "front matter: abstract title with its block"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "一、行业概况",
+   "why": "section: chapter 一、"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "二、行业环境",
+   "why": "section: chapter 二、"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 26,
+   "text": "（一）宏观环境",
+   "why": "section: （一） under 二、"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 26,
+   "text": "（二）行业政策",
+   "why": "section: （二） under 二、"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running series banner 联合研究报告 (brand), not the title"
+  },
+  {
+   "box": 4,
+   "why": "author names"
+  }
+ ]
+}

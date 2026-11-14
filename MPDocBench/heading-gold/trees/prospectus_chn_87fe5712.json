@@ -1,0 +1,67 @@
+{
+ "doc": "prospectus_chn_87fe5712",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "福建南方路面机械股份有限公司 首次公开发行股票招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "发行概况",
+   "why": "front matter title with its overview table (continues onto next page)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    15,
+    16
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    19,
+    20
+   ],
+   "of": 1,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "issuer English name on the cover: cover text"
+  }
+ ],
+ "considered": []
+}

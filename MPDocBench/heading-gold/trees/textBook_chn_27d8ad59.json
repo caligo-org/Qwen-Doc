@@ -1,0 +1,163 @@
+{
+ "doc": "textBook_chn_27d8ad59",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "美术 一年级下册",
+   "why": "title union: subject + grade/volume line (box also carries the series line) | third check: the series/edition line printed in the same box is cover text (mixed box -> heading part)"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "写给亲爱的同学们",
+   "why": "front matter: letter title"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title (pinyin ruby dropped)"
+  },
+  {
+   "boxes": [
+    24,
+    23
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第1课 雪",
+   "why": "lesson band on the lesson first page: badge + lesson title = the lesson heading"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "学习建议",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "生活中的设计",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    65,
+    64
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第2课 图画与文字（一）",
+   "why": "lesson band on the lesson first page: badge + lesson title"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "走进博物馆",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "儿童美术馆",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "学习建议",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "生活中的设计",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "访问艺术家",
+   "why": "box label with its own block (pictures, list): heading one level below the lesson (v3 label rule)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    46,
+    47
+   ],
+   "of": 24,
+   "why": "repeat: lesson band on a later page of lesson 1"
+  },
+  {
+   "boxes": [
+    83,
+    84
+   ],
+   "of": 65,
+   "why": "repeat: lesson band on a later page of lesson 2"
+  },
+  {
+   "boxes": [
+    96,
+    97
+   ],
+   "of": 65,
+   "why": "repeat: lesson band on a later page of lesson 2"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "credits line over the editor list on the colophon page: text"
+  },
+  {
+   "box": 35,
+   "why": "tip box 小窍门: callout label (category note: Tip/小窍门 boxes are text)"
+  },
+  {
+   "box": 71,
+   "why": "callout 老师的话 with a one-line note: no significant block (substance), text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "pinyin MEI SHU on the cover: transliteration of the title, text"
+  }
+ ]
+}

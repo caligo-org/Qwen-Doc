@@ -1,0 +1,50 @@
+{
+ "doc": "pptSlides_eng_1e8e2f71",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Bank Accounting",
+   "why": "deck title"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Table of Contents",
+   "why": "contents title"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Bank Master Data",
+   "why": "section divider: contents slide marks Bank Master Data with an arrow, node = current entry"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Bank Master Data - Objectives",
+   "why": "slide title under the Bank Master Data section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 9,
+   "why": "lead-in sentence introducing a list"
+  }
+ ]
+}

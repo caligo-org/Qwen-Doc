@@ -1,0 +1,124 @@
+doc	item	page	verdict	note
+magazine_eng_86eb2981	break before #145 closes #142	3	OK	page viewed: page: features list ends; the tablet-editions subscriber promo follows (not a feature)
+magazine_eng_86eb2981	break before #155 closes #148	5	OK	page viewed: page: in-every-issue contents page ends; a full-page ad follows
+magazine_eng_86eb2981	break before #210 closes #166	7	OK	page viewed: page: Fine WoodWorking UNLIMITED page ends; a full-page ad follows
+magazine_eng_a217be3f	break before #22 closes #10	3	OK	page viewed: page: editor's welcome ends (sign-off); book promo with QR and social-media box follow
+magazine_eng_a217be3f	break before #52 closes #31	6	OK	page viewed: page: contents sidebar ends (Our packaging); a full-page ad follows before Contributors
+magazine_eng_b7b4047d	break before #59 closes #44	3	OK	page viewed: page: editor's letter ends (sign-off); reader-contact and social-media box follows
+magazine_eng_b7b4047d	break before #82 closes #78	4	OK	page viewed: page: Outdoor living group ends; FREE 190 BULBS teaser follows (contents-page teaser, not about Outdoor living)
+magazine_eng_b7b4047d	break before #106 closes #63	5	OK	page viewed: page: contents groups end; SUBSCRIBE TODAY teaser follows (not contents)
+magazine_eng_d9bbdc7a	break before #35 closes #31	3	OK	page viewed: page: editor's note ends (signature); ON-SALE DATE CHANGES notice box follows, not about the note
+magazine_eng_d9bbdc7a	break before #46 closes #37	3	OK	page viewed: page: Inside contents ends; SUBSCRIBE NOW teaser follows, not about Inside
+magazine_eng_fe444622	break before #43 closes #41	6	OK	page viewed: page: contents page ends; the part-opener spread (photo, restated title, intro line) follows, not about contents
+manualGuide_chn_57d8d5ed	break before #21 closes #8	3	OK	page viewed: page: the feature list ends; the manual-scope, website and contact paragraphs (#21-#29) are about the manual, not the features
+manualGuide_chn_5b94cfef	break before #20 closes #9	2	OK	page viewed: page: the warning box and its power-plug note end; the separate standards box (national standard numbers, product standard) is regulatory info about the product, not safety precautions
+manualGuide_chn_5b94cfef	break before #172 closes #167	7	OK	page viewed: page: the six wizard step panels end; '这样就完成了安装向导。' closes the whole step list (belongs to 安装向导)
+manualGuide_chn_894ac6ec	break before #84 closes #71	6	OK	page viewed: page: the numbered precautions 1-11 end; the set-apart closing paragraph (operators must read this manual) is about the whole manual, not about 注意事项
+manualGuide_chn_9818e751	break before #7 closes #5	1	OK	page viewed: page: the 声明 box ends; the document number printed below it is cover furniture of the whole manual, not part of the statement
+manualGuide_chn_9818e751	break before #162 closes #159	13	OK	page viewed: page: run-in sibling 防潜回： (#162) starts; its block is not about 通行级别选项 (NOTATIONS run-in exception: a break before the run-in sibling closes the previous label)
+manualGuide_chn_bf4b003e	break before #11 closes #9	2	OK	page viewed: page: the warning-label figure ends; the regional-spec note and the copyright / reproduction notice at the page foot are about the whole manual, not where the warnings are
+manualGuide_eng_3135929d	break before #20 closes #13	2	OK	page viewed: page: the affordability column (text, 6000 badge, bottles, yield note) ends; the three refill step panels belong to the 'Refilling is so easy' box, not to 'Exceedingly Affordable' (that box's heading #11 comes first in reading order, so the steps fall back to the L1)
+manualGuide_eng_3135929d	break before #33 closes #26	3	OK	page viewed: page: the space-saving text and pictures end; the refill-angle paragraph #33 is about the refill experience (#34 follows it in reading order), not about saving space
+manualGuide_eng_6202ad06	break before #169 closes #155	6	OK	page viewed: page: the care and maintenance text ends; the CONTACT US box (label is text) at the foot of the page is contact information for the whole sheet, not care
+manualGuide_eng_62437ad7	break before #204 closes #200	6	OK	page viewed: page: the Receive PGN table ends; 'This data applies only to NMEA 2000-compatible products.' is about all three PGN label tables (belongs to NMEA 2000 PGN Information)
+manualGuide_eng_62437ad7	break before #211 closes #208	6	OK	page viewed: page: the NMEA 0183 Receive table ends; the paragraph on purchasing full NMEA format information is about the whole NMEA 0183 section, not the Receive label
+manualGuide_eng_62437ad7	break before #220 closes #212	6	OK	page viewed: page: the substance declaration ends; the copyright and trademark notices are about the whole document
+manualGuide_eng_8cb5bbc3	break before #16 closes #11	1	OK	page viewed: page: the short-form specification text ends; the APPROVAL: sign-off field at the foot of the panel is a form field of the whole sheet
+manualGuide_eng_8cb5bbc3	break before #49 closes #41	2	OK	page viewed: page: the page-1 accessories list ends; the front/top/side dimension drawing at the top of page 2 is about the oven, not accessories (no heading printed above it)
+manualGuide_eng_8d2c3220	break before #24 closes #8	2	OK	page viewed: page: the declaration box (header #8) ends with Bouwjaar/Machinenr; the separate customer-note box follows. Note: in gold reading order header #8 has no order and sorts after #24-#27
+manualGuide_eng_a3556095	break before #23 closes #5	2	OK	page viewed: page: the English Declaration of Conformity panel ends (signature); the LED-status notes and tables below it (EN/FR/DE) are about the switch, not the declaration (resolves the round-4 OPEN)
+manualGuide_eng_a3556095	break before #47 closes #29	2	OK	page viewed: page: the French declaration panel ends; the ES/IT LED-status notes and tables below it are about the switch, not the declaration (resolves the round-4 OPEN)
+manualGuide_eng_a3556095	break before #82 closes #80	2	OK	page viewed: page: the registration text ends; the TRENDnet address block at the foot of the back panel is the company imprint, not registration
+paper_chn_0945f03a	break before #79 closes #4	3	OK	page viewed: page: the paper ends with its references; from the jump line "（上接第49页）" on, the page carries the tail of another article (not_headings 81, 89), not about this paper
+paper_chn_4476a4b2	break before #80 closes #65	3	OK	page viewed: page: the reference list ends; the article's received date and editor credit follow, which are not references (they belong to the paper)
+paper_chn_5650c4e6	break before #186 closes #179	6	OK	page viewed: page 51: the other article's tail and its references sit between 结论 (下转第51页) and this paper's 上接第30页 + 参考文献 #202; the break keeps the foreign block out of 结论, L1 stays open
+paper_chn_74e3f89e	break before #84 closes #78	7	OK	page viewed: page: the reference list ends; the editor credit "（责任编辑：朱犁）" follows, not a reference (belongs to the paper)
+paper_chn_a197458e	break before #52 closes #49	2	OK	page viewed: page: section 4's items end; the author note and received/editor line follow, not about 基地建设 (belong to the paper)
+paper_chn_a8bfcf5f	break before #83 closes #49	3	OK	page viewed: page: the resumed conclusion (上接第26页) ends; the editor credit follows, not about 结语 (belongs to the paper)
+paper_chn_b4b85a83	break before #91 closes #53	8	OK	page viewed: page: closing summary of the whole paper ("从上文的数据分析和田野调查看..." and the outlook after it) follows the last item （四）; it is about the paper, not about （四） or 二、
+paper_chn_b4b85a83	break before #108 closes #96	9	OK	page viewed: page: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)
+paper_chn_be9986ff	break before #115 closes #105	8	OK	page viewed: page: after 2.1.4's block, "总的来说...被动防护方式..." sums up all of 2.1 被动防护, not 2.1.4 星体表面浮土
+paper_chn_be9986ff	break before #171 closes #168	12	OK	page viewed: page: after 3.6's block, "综上所述，以上辐射防护剂..." sums up all of 3 生物医学防护, not 3.6 植物来源的活性物质
+paper_chn_be9986ff	break before #287 closes #179	17	OK	page viewed: page: the reference list ends; the "Summary for ..." page with the English title/abstract (repeat of L1) follows, not references (belongs to the paper)
+paper_chn_c1360240	break before #117 closes #106	7	OK	page viewed: page: the reference list ends; the editor credit "（责任编辑：孟 耀）" follows, not a reference (belongs to the paper)
+paper_chn_da20c59b	break before #139 closes #126	8	OK	page viewed: page: after 3.2's block, "对黄河流域年、四季平均气温、潜在蒸散量变化趋势的分析表明..." sums up all of 3 (the 3.1 trend findings) and leads into 3.3; it is not about 3.2 潜在蒸散量与降水的关系
+paper_chn_da20c59b	break before #219 closes #164	12	OK	page viewed: page: the reference list ends; the English title/abstract block (repeat of L1) follows, not references (belongs to the paper)
+paper_chn_f9576e8f	break before #57 closes #47	5	OK	page viewed: page: the reference list ends; the received date "收稿日期" follows, not a reference (belongs to the paper)
+paper_chn_fb0e66b1	break before #173 closes #7	9	OK	page viewed: page: the paper ends with its references; the journal subscription notice (ad, not_heading 173) and its contact lines follow, not about this paper
+paper_chn_fdabe9a2	break before #88 closes #81	3	OK	page viewed: page: the reference list ends; the English title/abstract block (repeat of L1) and the editor credit follow, not references (belong to the paper)
+paper_eng_369ef675	break before #209 closes #207	19	OK	page viewed: page: closing paragraph "Overall, the systematic literature review shows..." about the whole list of factors 1-10 follows the last item; it belongs to the list's parent
+paper_eng_4b1e42ed	break before #96 closes #82	9	OK	page viewed: page: the run-in "Acknowledgements" paragraph (considered text) follows the Discussion; it is not about the Discussion (belongs to the paper)
+paper_eng_81997c1e	break before #68 closes #66	4	OK	page viewed: page: closing paragraph "Based on the above discussions following hypothesis are..." with H1-H4 is about the whole list 2.1-2.4, not 2.4 Compensation; belongs to the list's parent
+paper_eng_81997c1e	break before #241 closes #153	10	OK	page viewed: page: the reference list ends; author photos and biographies follow, not references (belong to the paper)
+paper_eng_d054de2a	break before #72 closes #63	4	OK	page viewed: page: after the region-wise block (Table 2, Figure 2), Table 3 "FDI equity Inflows in Aviation Sector" follows; it is not about region-wise inflows (belongs to VII. DATA ANALYSIS)
+paper_eng_f30006b1	break before #23 closes #6	2	OK	page viewed: page: the Lessons Learned box ends; the run-in "Abstract:" paragraph (considered text) follows, not about Lessons Learned (belongs to the paper)
+paper_eng_f30006b1	break before #185 closes #179	10	OK	page viewed: page: the last section's text ends; the author biographies follow, not about "So Where Does That Leave Us?" (belong to the paper)
+pptSlides_chn_23e6f440	break before #97 closes #95	7	OK	page viewed: page: the 滨海湿地 box (#96) ends; the free paragraph about 蚂蚁森林 as 绿色基建 (lead-in to the 沙棘 box) is not about 滨海湿地, it belongs to the slide title #75
+pptSlides_chn_23e6f440	break before #129 closes #107	8	OK	page viewed: page: the 绿色低碳倡导场景 icon-grid panel ends; the stats column (users, green energy, 636 partners) is about the whole section #104
+pptSlides_chn_746216ac	break before #26 closes #25	3	OK	page viewed: page: PEST quadrant 技术 ends; the diagram centre slogan is about the whole PEST headline #17, not 技术 | note: on the page the 社会/技术 labels print below their text, so in reading order #20 and #24 precede their labels (outside this break)
+pptSlides_chn_b30fedce	break before #13 closes #9	2	OK	page viewed: page: the 趋势调研 box ends; the four category pictures beside it belong to the 前言 slide #7
+pptSlides_chn_ca2c7356	break before #42 closes #38	5	OK	page viewed: page: the 取虚部则为正弦信号 label's equation ends; the next slide repeats the slide title and shows other content (波形, figure), which belongs to #34
+pptSlides_chn_d81f00a8	break before #19 closes #13	4	OK	page viewed: page: the 井字棋规则说明 list ends; the agent diagram (棋盘状态/落子/输赢) is about the game as a whole (#9), not the rules
+pptSlides_chn_d81f00a8	break before #29 closes #23	6	OK	page viewed: page: the 人是怎么下棋的 rules end; the prompt 如何让机器实现上述方案 with its figure and 人 vs 机器 is about the slide #22, not how humans play
+pptSlides_chn_d81f00a8	break before #39 closes #33	7	OK	page viewed: page: the 井字棋规则说明 list ends; the callout and the symbolic model (Cell, TTT, 初态, 落子, 胜负判定) are the slide's main content (#32)
+pptSlides_chn_d81f00a8	break before #79 closes #72	9	OK	page viewed: page: the 方案6 list ends; the agent diagram (符号推理/规则) is about all the schemes of slide #61
+pptSlides_chn_d81f00a8	break before #82 closes #21	11	OK	page viewed: page: section 02 (agenda divider #21) ends: the last page reprints the agenda for 03 with nothing after it (text by substance); it is not about 02 or 方案5实战, it belongs to L1
+pptSlides_eng_24541ef2	break before #64 closes #59	12	OK	page viewed: page: the Key points list ends; the next slide repeats the title Guard hypothesis and shows figures, which belong to #58
+pptSlides_eng_312b78ba	break before #10 closes #7	2	OK	page viewed: page: the Company Background bullets end; the embedded data panels (QUICK STATS, rankings, charts, net debt, ratings) are figures of the slide #6
+pptSlides_eng_312b78ba	break before #123 closes #121	9	OK	page viewed: page: the Organization box ends; the SWOT centre labels (Strengths/Weaknesses/Opportunities/Threats) are about the whole SWOT #114
+pptSlides_eng_312b78ba	break before #175 closes #173	12	OK	page viewed: page: the ACTIVE COSMETICS list ends; THE BODY SHOP picture and label (text by substance) are another division, under #161
+pptSlides_eng_82a06813	break before #71 closes #56	7	OK	page viewed: page: the Storyboard Template slide ends; the last page's divider-like title (text by substance, nothing after it) is not about the storyboard canvas, it belongs to L1
+pptSlides_eng_a04b6aef	break before #16 closes #13	3	OK	page viewed: page: the Motor output bullets end; the anatomy figure (CNS/PNS) and the next slide's sensory-integration-motor diagram are about the functions slide #6 as a whole
+prospectus_chn_4aa05674	break before #67 closes #57	13	OK	page viewed: page: the note on rounding of figures in the whole prospectus (注：本招股说明书数值...) ends the 释义 chapter; it is not about 二、专业术语, so it belongs to 第一节 释义
+prospectus_chn_5da38fd1	break before #45 closes #36	5	OK	page viewed: page: the chairman's signature (董事长签字) signs the whole 致投资者的声明 letter, not 四、/2、未来发展规划; it belongs to 致投资者的声明
+prospectus_chn_cf5aeb95	break before #129 closes #116	12	OK	page viewed: page: rule 4、 (one-line item, text by substance) is about the whole 股价稳定措施的具体实施方案, not about 3、公司非独立董事、高级管理人员增持公司股份; it belongs to （三）
+prospectus_eng_01db2dde	break before #37 closes #29	5	OK	page viewed: page: the KIID/subscription paragraphs #37-#38 are not about data handling; they belong to WARNING
+prospectus_eng_01db2dde	break before #43 closes #41	6	OK	page viewed: page: paragraph on the sub-fund information sections (#43, p6-7) follows the contents list and is not a TOC entry; it belongs to the prospectus (L1)
+prospectus_eng_241e405e	break before #47 closes #40	4	OK	page viewed: page: the share offer, Fund segregation, price suspension, translation and availability notices #47-#51 are not about the board's powers; they belong to IMPORTANT INFORMATION
+prospectus_eng_51f57153	break before #104 closes #102	7	OK	page viewed: page: closing paragraph about the investment policy of all sub-funds after the label list Man / Man AHL / GLG Sub-Funds:; it belongs to The Fund (resolves the round 4 OPEN)
+prospectus_eng_613dbac9	break before #29 closes #22	4	OK	page viewed: page: the business-day definition #29 and the Directors' responsibility statement #30 are not about data protection; they belong to NOTE TO THE READERS
+prospectus_eng_bab1780c	break before #27 closes #22	6	OK	page viewed: page: the introduction text resumes after the overview table (#27-#49); it belongs to 1. INTRODUCTION
+prospectus_eng_d2e37b2e	break before #139 closes #133	12	OK	page viewed: page: the paragraphs after the category list (#139-#147: growth thesis, selection, diversification, limits, investor profile) are about the whole sub-fund, not Resource Efficiency; they belong to QUEST MANAGEMENT - QUEST CLEANTECH FUND
+prospectus_eng_edf49303	break before #26 closes #23	3	OK	page viewed: page: paragraph on Luxembourg regulation and HSBC as BHCA holding company introduces the Bank Holding Company Act section and is not about Hong Kong; it belongs to IMPORTANT INFORMATION (resolves the round 4 OPEN)
+researchReport_chn_1fb28f59	break before #15 closes #8	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; back to L1
+researchReport_chn_1fb28f59	break before #49 closes #42	3	OK	page viewed: page: the figure list ends and the unheaded body (pp3-6, only bold run-ins) starts; it is not about 图表目录
+researchReport_chn_2161890a	break before #20 closes #7	1	OK	page viewed: page: host/contact box (主持人, 电话, 传真) after the overview boxes is not about 概览
+researchReport_chn_2161890a	break before #57 closes #48	4	OK	page viewed: page: office address block (colophon) after the disclaimer text is not about 免责声明
+researchReport_chn_25d1b14f	break before #26 closes #24	1	OK	page viewed: page: the risk bullet ● 风险提示 (text: one-line run-in) is not about 受益标的组合； it belongs to the cover summary level
+researchReport_chn_4064c117	break before #21 closes #10	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (rating, target price, base data, chart, related reports, authors); not about 点评
+researchReport_chn_5463fcf3	break before #11 closes #7	1	OK	page viewed: page: broker address block (colophon) after the 产品提示 items is not about them
+researchReport_chn_5463fcf3	break before #22 closes #14	2	OK	page viewed: page: risk line and 本期【卓越推】暂不推荐 (one-line run-ins, text) are not about the weekly industry view
+researchReport_chn_5f00096d	break before #17 closes #15	1	OK	page viewed: page: the 风险提示 bullet closes the last summary item; it is about the whole summary, not 拥有一线蓝筹
+researchReport_chn_5f00096d	break before #21 closes #6	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; not about 报告摘要
+researchReport_chn_7033db6d	break before #15 closes #5	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (industry tag, rating, analysts, chart, related research); not about 核心观点
+researchReport_chn_a2f46550	break before #13 closes #11	1	OK	page viewed: page: own-line 风险提示 run-in, the company financial table and the sidebar follow the 财务预测与投资建议 block and are not about it
+researchReport_chn_a2f46550	break before #90 closes #80	5	OK	page viewed: page: office address box (colophon) after the disclaimer text is not about 免责声明
+researchReport_chn_ae3bbb85	break before #26 closes #23	1	OK	page viewed: page: run-in 投资建议, the risk line and the stock table follow the news bullets and are not about 本周行业主要动态 (they belong to 投资要点)
+researchReport_chn_b857707d	break before #54 closes #44	4	OK	page viewed: page: office address blocks (上海/北京/深圳, colophon) after the disclaimer text are not about 特别声明
+researchReport_chn_d07a67be	break before #9 closes #6	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (date, report type, analyst, office box); not about 点评
+researchReport_chn_d0eac218	break before #16 closes #4	1	FIXED	page viewed: the sidebar starts at its office title #15 (西南证券研究发展中心), above analyst #16; the break moved from #16 to #15 so the sidebar title no longer sits under 投资要点
+researchReport_chn_e960c7b3	break before #23 closes #5	1	OK	page viewed: page: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (main data, chart, related reports, authors); not about 报告要点
+researchReport_chn_e960c7b3	break before #48 closes #46	2	OK	page viewed: page: office address box (colophon) after the disclaimer text is not about 免责条款
+researchReport_eng_1588f970	break before #27 closes #15	1	OK	page viewed: page: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE
+researchReport_eng_5b6f3871	break before #27 closes #17	1	OK	page viewed: page: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE
+researchReport_eng_aaabf80f	break before #25 closes #16	1	OK	page viewed: page: closing pull-quote mark of the cover quotes and the editor names/emails (colophon) are not about WHAT'S INSIDE
+researchReport_eng_b36642e7	break before #40 closes #38	3	OK	page viewed: page: the redaction note after the contents list is about the whole report, not about Table of Contents
+textBook_chn_028c0453	break before #45 closes #36	7	OK	page viewed: page: contents end on p6; the chapter-opening picture printed above the chapter-1 title on p7 is not part of the contents
+textBook_chn_12b0d2b4	break before #103 closes #92	10	OK	page viewed: page: 练习 box ends at the dashed rule; the section's main text resumes with 例3, which belongs to 4.1
+textBook_chn_1f0d94bf	break before #43 closes #40	8	OK	page viewed: page: 探究与分享 box ends at its dotted rule; the 目's main text resumes
+textBook_chn_1f0d94bf	break before #54 closes #50	9	OK	page viewed: page: 名词点击 term box ends at its dotted rule; the 目's main text resumes
+textBook_chn_1f0d94bf	break before #64 closes #61	10	OK	page viewed: page: 探究与分享 box ends at its dotted rule; the 目's main text resumes
+textBook_chn_1f0d94bf	break before #99 closes #93	12	OK	page viewed: page: 探究与分享 box ends at its dotted rule; the 目's main text resumes
+textBook_chn_1f0d94bf	break before #112 closes #105	13	OK	page viewed: page: 探究与分享 box ends at its dotted rule; the 目's main text resumes
+textBook_chn_83116662	break before #32 closes #28	7	OK	page viewed: page: contents end on p6; the full-page picture on p7 is the left half of the chapter-1 opening spread, not part of the contents
+textBook_chn_87e64920	break before #38 closes #36	8	OK	page viewed: page: 相关史事 box ends at its dotted rule; the 问题思考 prompt and the site map belong to the section 我国境内的早期人类
+textBook_chn_b3181880	break before #36 closes #32	4	OK	page viewed: page: 内容提要 ends after its three paragraphs; the CIP block and colophon on the same page are not about the book summary
+textBook_chn_bd56ef2c	break before #79 closes #75	8	OK	page viewed: page: panel row ends at the dotted rule; the 探究 box (kind label #79 + title #80) is not about 核心术语
+textBook_chn_bd56ef2c	break before #89 closes #80	9	OK	page viewed: page: 探究 box ends at the page; the topic's main text (definition of 自然资源) resumes under 主题1
+textBook_chn_d4a9cac4	break before #15 closes #12	3	OK	page viewed: page: 内容提要 ends after its two paragraphs; the CIP block and colophon on the same page are not about the book summary
+textBook_chn_fdc97197	break before #63 closes #51	8	OK	page viewed: page: contents end on p7; the chapter-opening picture printed above the chapter-1 title on p8 is not part of the contents
+textBook_chn_fdc97197	break before #89 closes #85	10	OK	page viewed: page: 分析 task ends with its table; the separate 思考 prompt about the new 京张 line belongs to the case, not to the analysis task
+textBook_eng_0ee658d7	break before #5 closes #3	3	OK	page viewed: page: the cover note ends with its page; the title page (repeat of L1, author, date) and the license page are not about the cover
+textBook_eng_7ee5bbca	break before #15 closes #10	3	OK	page viewed: page: the license notice ('Except where otherwise noted, this book is licensed...') closing the page is not part of the acknowledgements
+textBook_eng_9587c15d	break before #25 closes #23	7	OK	page viewed: page: place/date and author signature close the whole Preface, not its last subsection Acknowledgements
+textBook_eng_a5d8350e	break before #24 closes #16	3	OK	page viewed: page: the note 'Cover figure: Hölder's Inequality...' at the foot of the About the Author page describes the cover, not the author

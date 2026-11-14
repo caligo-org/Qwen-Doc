@@ -1,0 +1,80 @@
+{
+ "doc": "researchReport_chn_1fb28f59",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "东吴证券 通威股份（600438） 2022年&2023Q1业绩点评：硅料量利双超，电池技术持续迭代",
+   "why": "title union: covered company banner + report headline in one title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (东吴证券) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "投资要点",
+   "why": "round 5: restored, a break now closes it before the cover sidebar; cover summary title with its bullet block (L2, category convention)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "图表目录",
+   "why": "round 5: restored, a break now closes it before the unheaded body (p3); front-matter figure-list title with its list block (L2)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 26,
+   "why": "sidebar chart label (股价走势): text per category note"
+  },
+  {
+   "box": 28,
+   "why": "sidebar market-data table label: text"
+  },
+  {
+   "box": 30,
+   "why": "sidebar base-data table label: text"
+  },
+  {
+   "box": 32,
+   "why": "related-research list label: text per category note"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running report-type header"
+  },
+  {
+   "box": 5,
+   "why": "rating line"
+  },
+  {
+   "box": 7,
+   "why": "keyword tag line"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 8,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it; back to L1"
+  },
+  {
+   "before": 49,
+   "closes": 42,
+   "why": "round 5: the figure list ends and the unheaded body (pp3-6, only bold run-ins) starts; it is not about 图表目录"
+  }
+ ]
+}

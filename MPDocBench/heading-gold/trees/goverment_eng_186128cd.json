@@ -1,0 +1,57 @@
+{
+ "doc": "goverment_eng_186128cd",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Summary Points: North American HFC Submission to the Montreal Protocol",
+   "why": "title: names the document (summary points of the North American HFC submission)"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Relationship to HCFC phaseout:",
+   "why": "own-line label ending in a colon with its own bullet block below; names the topic of the block"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Relationship with the United Nations Framework Convention on Climate Change (UNFCCC):",
+   "why": "own-line label ending in a colon with its own bullet block below; names the topic of the block"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "memo field Submitted by: text"
+  },
+  {
+   "box": 2,
+   "why": "memo field To: text"
+  },
+  {
+   "box": 3,
+   "why": "memo field On: text"
+  },
+  {
+   "box": 5,
+   "why": "lead-in sentence introducing the bullet list: text"
+  },
+  {
+   "box": 9,
+   "why": "figure caption: text"
+  }
+ ]
+}

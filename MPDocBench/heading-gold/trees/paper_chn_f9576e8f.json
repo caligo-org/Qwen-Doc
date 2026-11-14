@@ -1,0 +1,124 @@
+{
+ "doc": "paper_chn_f9576e8f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "我国煤炭生产布局探析与对策建议",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1 我国煤炭资源特点和生产结构概况",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2 我国主要煤炭生产企业的产量与储量关系分析",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "2.1 我国主要煤炭生产企业原煤产量和可采储量状况",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "2.2 我国主要煤炭生产企业的产量与储量相关关系分析",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "2.3 影响我国主要煤炭企业生产能力的原因",
+   "why": "subsection 2.3 (numbering)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3 提高我国煤炭企业竞争力的政策建议",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "3.1 积极培育大型煤炭企业集团",
+   "why": "subsection 3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "3.2 构建煤炭产业联盟",
+   "why": "subsection 3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "3.3 建设高产、高效的现代化矿井，实现煤炭高效、集约化生产",
+   "why": "subsection 3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "3.4 整合小煤矿、改造我国主要煤炭生产企业原煤产量和可采储量状况",
+   "why": "subsection 3.4 (numbering)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 57,
+   "closes": 47,
+   "why": "round 5: the reference list ends; the received date \"收稿日期\" follows, not a reference (belongs to the paper)"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "doc": "researchReport_chn_ae3bbb85",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    18,
+    19,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "德邦证券 万华化学两个项目同时开工，沙特阿美强势入股荣盛石化 化工行业周报（20230324-20230331）",
+   "why": "title union: headline + report-type line 化工行业周报（dates） printed in the title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (德邦证券) joins the union after the title box. starts: the cover sidebar (#3-#17: sector, rating, analysts, chart, related reports) is printed beside the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 18,
+   "text": "投资要点：",
+   "why": "section: cover summary title"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 20,
+   "text": "本周行业主要动态：",
+   "why": "label heading: own-line label with its news items below (siblings run in, stay text)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 18,
+   "text": "内容目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 18,
+   "text": "图表目录",
+   "why": "front matter: figure list title"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 18,
+   "text": "1.化工板块市场行情回顾",
+   "why": "section: chapter 1."
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "1.1.化工板块整体表现",
+   "why": "section: 1.1."
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "1.2.化工板块个股表现",
+   "why": "section: 1.2."
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "industry banner 化工 on the cover: text (industry already named in the report-type line of the title)"
+  },
+  {
+   "box": 5,
+   "why": "analyst label: text"
+  },
+  {
+   "box": 7,
+   "why": "research assistant label: text"
+  },
+  {
+   "box": 10,
+   "why": "sidebar chart label: text"
+  },
+  {
+   "box": 12,
+   "why": "related-research label: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 21,
+   "why": "run-in label 本周板块行情："
+  },
+  {
+   "box": 26,
+   "why": "run-in label 投资建议："
+  }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 23,
+   "why": "round 5: run-in 投资建议, the risk line and the stock table follow the news bullets and are not about 本周行业主要动态 (they belong to 投资要点)"
+  }
+ ]
+}

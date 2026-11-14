@@ -1,0 +1,76 @@
+{
+ "doc": "annualReport_chn_00114ac3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "金科地产集团股份有限公司 2019年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第一节 重要提示、目录和释义",
+   "why": "section: 第X节 top section of the body outline"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself (above the title)"
+  },
+  {
+   "box": 3,
+   "why": "cover slogan"
+  }
+ ]
+}

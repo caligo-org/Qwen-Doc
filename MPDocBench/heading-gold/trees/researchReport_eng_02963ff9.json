@@ -1,0 +1,248 @@
+{
+ "doc": "researchReport_eng_02963ff9",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs Singapore Equities Reform: Shareholder returns and enhanced disclosures to drive the next phase",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Singapore Equities Reform: Shareholder returns and enhanced disclosures to drive the next phase)."
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "What happened and what has worked so far?",
+   "why": "section: page-top body section heading"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "What's next?",
+   "why": "section: body section heading"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Disclosure Appendix",
+   "why": "back matter: Disclosure Appendix"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Reg AC",
+   "why": "back matter subsection with its block"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "GS Factor Profile",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "M&A Rank",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Quantum",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Company-specific regulatory disclosures",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Distribution of ratings/investment banking relationships",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Price target and rating history chart(s)",
+   "why": "back matter subsection"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "Regulatory disclosures",
+   "why": "back matter subsection: Regulatory disclosures, containing the jurisdiction parts below"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "Disclosures required by United States laws and regulations",
+   "why": "sub-part of Regulatory disclosures"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "Additional disclosures required under the laws and regulations of jurisdictions other than the United States",
+   "why": "sub-part of Regulatory disclosures"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "Ratings, coverage universe and related definitions",
+   "why": "sub-part of Regulatory disclosures"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "Global product; distributing entities",
+   "why": "sub-part of Regulatory disclosures"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "General disclosures",
+   "why": "back matter subsection"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    21
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the covered market of the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "bold run-in question starting a paragraph"
+  },
+  {
+   "box": 30,
+   "why": "bold run-in question"
+  },
+  {
+   "box": 31,
+   "why": "bold run-in question"
+  }
+ ]
+}

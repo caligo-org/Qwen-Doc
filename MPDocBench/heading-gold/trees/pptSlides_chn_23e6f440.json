@@ -1,0 +1,346 @@
+{
+ "doc": "pptSlides_chn_23e6f440",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "蚂蚁集团 2022年社会公益报告",
+   "why": "title union: owner + document type in one box"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "目录",
+   "why": "contents title: front matter at top-section level"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2022年进展一览",
+   "why": "overview spread title: top-level section before the first chapter"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "绿色低碳",
+   "why": "overview row label: describes its row of item blocks"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "生态保护修复",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "低碳生活倡导",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "⼥性发展",
+   "why": "overview row label: describes its row of item blocks"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 4,
+   "parent": 14,
+   "text": "一份基础保障",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 4,
+   "parent": 14,
+   "text": "一套创就业计划",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 4,
+   "parent": 14,
+   "text": "一句十年承诺",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "乡村振兴",
+   "why": "overview row label: describes its row of item blocks"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 4,
+   "parent": 23,
+   "text": "消费助农",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 4,
+   "parent": 23,
+   "text": "金融科技助农",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "人人公益",
+   "why": "overview row label: describes its row of item blocks"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 30,
+   "text": "平台带动人人参与",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "有爱无碍",
+   "why": "overview row label: describes its row of item blocks"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 4,
+   "parent": 35,
+   "text": "助老公益行动",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 35,
+   "text": "助残公益项目",
+   "why": "item label with its own text block"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "绿色低碳",
+   "why": "chapter title (contents entry 01)"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "协同多元社会力量，助力生态保护与修复",
+   "why": "subsection title (contents entry under 绿色低碳)"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "联合国《生物多样性公约》第十五次缔约方大会，向全球展示中国企业的ESG绿色理念",
+   "why": "round 5: restored, a break now closes it: pill box title over the COP15 story (#92-#94), L4 under the slide title #75 like #98; #95 (restored) closes it"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "探索滨海湿地生态修复",
+   "why": "round 5: restored, a break now closes it: pill box title over the 滨海湿地 story (#96); the break before #97 closes it"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "沙棘模式——探索靠山吃山的“新吃法”，让沙棘成为助农增收的“金果果”",
+   "why": "box title: describes the story block below"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "倡导人人可参与的绿色低碳生活",
+   "why": "subsection title (contents entry under 绿色低碳)"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 4,
+   "parent": 104,
+   "text": "“蚂蚁森林”绿色低碳倡导场景",
+   "why": "panel title: says what the scenario panel is about"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "TOC entries"
+  },
+  {
+   "box": 2,
+   "why": "slogan on contents page"
+  },
+  {
+   "box": 24,
+   "why": "brand/program name next to a logo, not a block heading"
+  },
+  {
+   "box": 50,
+   "why": "infographic label"
+  },
+  {
+   "box": 51,
+   "why": "infographic label"
+  },
+  {
+   "box": 62,
+   "why": "infographic label"
+  },
+  {
+   "box": 63,
+   "why": "infographic label"
+  },
+  {
+   "box": 109,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 113,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 117,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 121,
+   "why": "icon-grid label, tiny list below (substance)"
+  },
+  {
+   "box": 125,
+   "why": "icon-grid label like its siblings (partner list)"
+  },
+  {
+   "box": 129,
+   "why": "run-in start of a stat statement"
+  },
+  {
+   "box": 83,
+   "why": "breadcrumb round 3: lead-in sentence ending in a colon over the stats column (same style as #129 on p8, which is text); with #91/#95 text it would also contain the COP15 and 滨海湿地 stories -> text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 97,
+   "closes": 95,
+   "why": "the 滨海湿地 box (#96) ends; the free paragraph about 蚂蚁森林 as 绿色基建 (lead-in to the 沙棘 box) is not about 滨海湿地, it belongs to the slide title #75"
+  },
+  {
+   "before": 129,
+   "closes": 107,
+   "why": "the 绿色低碳倡导场景 icon-grid panel ends; the stats column (users, green energy, 636 partners) is about the whole section #104"
+  }
+ ]
+}

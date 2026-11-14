@@ -1,0 +1,534 @@
+{
+ "doc": "paper_eng_369ef675",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    12
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Has IFRS improved Accounting Quality in Indonesia? A Systematic Literature Review of 2010-2016",
+   "why": "title: paper title; starts: the left sidebar (#3-#10: badges, affiliation, DOI, citation, history) and the article-type line (#11) are printed beside the title but come before it in reading order."
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Abstract:",
+   "why": "front matter: Abstract label on its own line above the structured abstract"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Introduction",
+   "why": "section: top section (centered serif)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Literature Review and Focus of Study",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Research Method",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Result and Discussion",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Classification of Article Categorization",
+   "why": "subsection: bold subsection heading under Result and Discussion"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification Based on Year of Publication",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Analysis Unit",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Its Research Paradigm",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Research Methodology (Empirical vs. Non-Empirical)",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Article Classification based on Research Methodology (Quantitative vs. Qualitative)",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Research Methods used in the Articles",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Classification of Article based on IFRS Convergence Stages",
+   "why": "subsection: same look as siblings"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "a. IFRS convergence implementation and issues in Indonesia",
+   "why": "lettered item heading a. with its block below"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "b. IFRS convergence development in Indonesia",
+   "why": "lettered item heading b."
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "c. The effect of IFRS convergence in Indonesia",
+   "why": "lettered item heading c."
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "The Effect of IFRS Convergence in Indonesia",
+   "why": "subsection: bold subsection (same look as L3 siblings)"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "a. The Effect of IFRS Convergence in Indonesia on Value Relevance",
+   "why": "lettered item heading a. with its block below"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "b. The Effect of IFRS Convergence in Indonesia on Earnings Management",
+   "why": "lettered item heading b."
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "c. The Effect of IFRS Convergence in Indonesia on Company Financial Performance",
+   "why": "lettered item heading c."
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "d. The Effect of IFRS Convergence in Indonesia on Earnings Quality",
+   "why": "lettered item heading d."
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "e. The Effect of IFRS Convergence in Indonesia on Accounting Information Quality",
+   "why": "lettered item heading e."
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "f. The Effect of IFRS Convergence in Indonesia on Other Factors",
+   "why": "lettered item heading f."
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Description of IFRS convergence effect on each factor",
+   "why": "subsection: bold subsection"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "1. Report delay and audit delay",
+   "why": "numbered factor heading with its block below"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "2. Accounting Conservatism",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    182
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "3. Stock return and stock risk",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    189
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "4. Information Assymmetry",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    192
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "5. External Audit Fee",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "6. Trading Volume Activity (TVA)",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "7. Cost of capital",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    203
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "8. Foreign Direct Investment (FDI)",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "9. Stock volatility and market efficiency",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    207
+   ],
+   "level": 4,
+   "parent": 175,
+   "text": "10. Analyst forecast error and analyst following",
+   "why": "numbered factor heading"
+  },
+  {
+   "boxes": [
+    210
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Conclusion",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "Appendix",
+   "why": "back matter: Appendix at top-section level"
+  },
+  {
+   "boxes": [
+    238
+   ],
+   "level": 2,
+   "parent": 12,
+   "text": "References",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    19
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    157
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    214
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    223
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    233
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    244
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    280
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  },
+  {
+   "boxes": [
+    298
+   ],
+   "of": 12,
+   "why": "repeat: running head (authors / title) naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 209,
+   "closes": 207,
+   "why": "round 5: closing paragraph \"Overall, the systematic literature review shows...\" about the whole list of factors 1-10 follows the last item; it belongs to the list's parent"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+doc	node	page	change	note
+magazine_chn_90f6827e	134	9	new L2 node 名人明星 (was considered text); starts #116	running section tag printed on p9 after the p8 story opener; listed before the story; path 知音 海外版 › 名人明星
+magazine_chn_90f6827e	117	8	L2 -> L3 under #134; starts #116 moved to #134	知音 海外版 › 名人明星 › 陈道明:我的“诈糊人生”
+magazine_chn_90f6827e	121,139,155	8-9	L3 -> L4	in-story subheads shifted with the story
+magazine_chn_90f6827e	159	10	considered -> repeat of #134	running tag 名人明星 on p10, section still open
+magazine_chn_d7b9b688	48	4	L2 -> L3 under masthead	section 中国力量 printed only on the contents page (rule 5); 知音 › 定坝“神针”53载搏风击浪：浩浩南水，汤汤北上
+magazine_chn_d7b9b688	52,72,98	4-7	L3 -> L4	in-story subheads shifted with the story
+magazine_chn_d7b9b688	132	9	new L2 node 本刊视点 (was considered text); starts #121	running section tag printed on p9 after the p8 feature opener; listed before the feature
+magazine_chn_d7b9b688	122	8	L2 -> L3 under #132; starts #121 moved to #132	知音 › 本刊视点 › 长久的婚姻，都是势均力敌
+magazine_chn_d7b9b688	136	9	L3 -> L4	case story shifted with the feature; starts #133 kept
+magazine_chn_d7b9b688	138	9	L4 -> L5	in-story subhead shifted with its story
+magazine_chn_b3948362	58	5	new L2 node 中华人民共和国成立75周年系列征文 (was considered text); starts #46	running series tag printed on p5 after the p4 feature opener; listed before the feature
+magazine_chn_b3948362	47	4	L2 -> L3 under #58; starts #46 moved to #58	知音 › 中华人民共和国成立75周年系列征文 › 中国速度
+magazine_chn_b3948362	60	5	L3 -> L4	story shifted with the feature; starts #59 kept
+magazine_chn_b3948362	64	5	L4 -> L5	in-story subhead shifted with its story
+magazine_chn_3b0b9920	122	8	L2 -> L3 under masthead	section 特别主题创意 printed only on the contents page (rule 5); 知音 海外版 › 张朝阳商界登顶再搏浪，人生下半场更热血
+magazine_chn_3b0b9920	128,138	8	L3 -> L4	in-story subheads shifted with the story
+magazine_chn_3b0b9920	break #120	7	new break before #120 closes #107	百科&生活 briefs end; page footer notice follows; the story after it is not in the briefs section
+magazine_chn_5b74dff1	49	4	L2 -> L3 under masthead	section 中国力量 printed only on the contents page (rule 5); 知音 › 坝底江心修理大国重器:星垂山河阔,月涌大江流
+magazine_chn_5b74dff1	51,76,103	4-6	L3 -> L4	in-story subheads shifted with the story
+magazine_chn_c1e72d14	53	4	L2 -> L3 under masthead	section printed only on the contents page (rule 5); 知音 › “铁脚板”站长护林29载: 一夕山中月，万里故园心
+magazine_chn_c1e72d14	55,75,104	4-6	L3 -> L4	in-story subheads shifted with the story
+magazine_chn_c1e72d14	135	8	L2 -> L3 under masthead	section printed only on the contents page (rule 5); 知音 › 『冲天辫』老妈路过人间： 姐的威风永不灭
+magazine_chn_c1e72d14	138	8	L3 -> L4	in-story subhead shifted with the story

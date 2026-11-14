@@ -1,0 +1,37 @@
+{
+ "doc": "goverment_eng_a323eb0a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    27,
+    28
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "TRANSLATION REPUBLIC OF PANAMA MINISTRY OF FOREIGN RELATIONS",
+   "why": "round 3: title of the translated reply note = owner ∪ document type (NOTATIONS \"The title\"): the ministry letterhead #28 (owner; text keeps only the heading part, not the address line \"Panama City 4, Panama\") ∪ the TRANSLATION label #27 (what the document is); L1 for pp6-7. The US note pp1-5 prints no title (No. 543 = note number, DIPLOMATIC NOTE = stamp), so it has no node"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "note number (No. 543): document number, text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "DIPLOMATIC NOTE stamp: text"
+  },
+  {
+   "box": 24,
+   "why": "translating-office header: text"
+  },
+  {
+   "box": 29,
+   "why": "note number D/T 136: text"
+  }
+ ]
+}

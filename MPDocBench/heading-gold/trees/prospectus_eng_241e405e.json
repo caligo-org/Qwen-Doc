@@ -1,0 +1,290 @@
+{
+ "doc": "prospectus_eng_241e405e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "PROSPECTUS FRANKLIN TEMPLETON INVESTMENT FUNDS",
+   "why": "title union: document type PROSPECTUS + fund company (owner), boxes apart on the cover"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "FRANKLIN TEMPLETON INVESTMENT FUNDS -IMPORTANT INFORMATION",
+   "why": "front matter section IMPORTANT INFORMATION (owner-prefixed), level of top sections"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "The Company",
+   "why": "own-line subsection with its paragraphs"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "Board of Directors' Powers",
+   "why": "round 5: restored, a break now closes it before #47 (p4); own-line label with its block #41-#46 on the board's powers"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "DEFINITIONS",
+   "why": "front matter section DEFINITIONS with its entries"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "ADMINISTRATION INFORMATION",
+   "why": "front matter section ADMINISTRATION INFORMATION (directory)"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "CHAIRMAN:",
+   "why": "directory label with its own block of names/addresses (own-line label with block)"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "DIRECTORS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "CONDUCTING OFFICERS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "INVESTMENT MANAGERS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "PRINCIPAL DISTRIBUTOR:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "DISTRIBUTION CONTROLLER:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "DISTRIBUTORS, REPRESENTATIVES AND CONSULTANTS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "CUSTODIAN:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "REGISTRAR AND TRANSFER, CORPORATE, DOMICILIARY AND ADMINISTRATIVE AGENT:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "AUDITORS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "LEGAL ADVISERS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "LISTING AGENT:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "PRINCIPAL PAYING AGENT:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "LOCAL PAYING AGENTS:",
+   "why": "directory label with its own block (continues next page)"
+  },
+  {
+   "boxes": [
+    200
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "LOCAL FINANCIAL SERVICES AGENTS:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    204
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "REGISTERED OFFICE:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    206
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "Contact Details:",
+   "why": "directory label with its own block"
+  },
+  {
+   "boxes": [
+    210
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "FUND INFORMATION, OBJECTIVES AND INVESTMENT POLICIES",
+   "why": "body section FUND INFORMATION, OBJECTIVES AND INVESTMENT POLICIES"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 3,
+   "parent": 210,
+   "text": "FRANKLIN ASIAN FLEX CAP FUND",
+   "why": "fund name heading with its fact block (Asset Class... are run-in labels)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "title page restating the company name with legal form and registered office: repeat of the title"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 2,
+   "why": "running foot naming the fund company: repeat of the title"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "of": 2,
+   "why": "running foot naming the fund company: repeat of the title"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 2,
+   "why": "running foot naming the fund company: repeat of the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 11,
+   "why": "OFFER: first word of the offer sentence continued in the next box (run-in), not a heading"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "cover date April 2012: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 47,
+   "closes": 40,
+   "why": "round 5: the share offer, Fund segregation, price suspension, translation and availability notices #47-#51 are not about the board's powers; they belong to IMPORTANT INFORMATION"
+  }
+ ]
+}

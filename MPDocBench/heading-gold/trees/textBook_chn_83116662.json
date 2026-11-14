@@ -1,0 +1,124 @@
+{
+ "doc": "textBook_chn_83116662",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "科学 九年级下册",
+   "why": "title union: subject + grade/volume line naming this book"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "前言",
+   "why": "front matter: preface title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    33,
+    34
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第1章 演化的自然",
+   "why": "chapter label + chapter title union"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 33,
+   "text": "第1节 人类对宇宙的认识",
+   "why": "section 第1节 + title"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "古代人的宇宙观",
+   "why": "coloured subsection heading: describes the block below"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "从地心说到日心说",
+   "why": "coloured subsection heading, same look as #41"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8,
+    9
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 28,
+   "why": "repeat: English twin of the contents title on the continuing contents page"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "of": 33,
+   "why": "repeat: running head naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 44,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  },
+  {
+   "box": 56,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  },
+  {
+   "box": 63,
+   "why": "discussion box 思考与讨论 holding one or two short prompts: callout, no significant block (substance), text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 28,
+   "why": "contents end on p6; the full-page picture on p7 is the left half of the chapter-1 opening spread, not part of the contents"
+  }
+ ]
+}

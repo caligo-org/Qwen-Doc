@@ -1,0 +1,295 @@
+{
+ "doc": "nationalStandard_chn_040d3ee5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "商品煤质量 民用型煤 Commercial coal quality—Civil briquette",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    46,
+    47
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.1 商品煤 commercial coal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    52,
+    53
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.2 动力用煤 steam coal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    57,
+    58
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.3 民用煤 civil coal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    60,
+    61
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.4 民用散煤 civil bulk coal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    63,
+    64
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.5 民用型煤 civil briquette",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    66,
+    67
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.6 冷压强度 cold compressive strength",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    70,
+    71
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.7 落下强度 shatter strength",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    73,
+    74
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "3.8 限下率 undersize fraction",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "4 原料要求",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "5 产品分类",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "6 要求和试验方法",
+   "why": "clause 6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "7 检验规则",
+   "why": "clause 7: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 3,
+   "parent": 93,
+   "text": "7.1 组批",
+   "why": "clause 7.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 93,
+   "text": "7.2 采样与制备",
+   "why": "clause 7.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "7.2.1 蜂窝煤",
+   "why": "clause 7.2.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "7.2.2 其他型煤",
+   "why": "clause 7.2.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 93,
+   "text": "7.3 出厂检验",
+   "why": "clause 7.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 93,
+   "text": "7.4 型式检验",
+   "why": "clause 7.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 93,
+   "text": "7.5 判定规则",
+   "why": "clause 7.5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "8 包装、标识、运输及贮存",
+   "why": "clause 8: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "8.1 包装",
+   "why": "clause 8.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "8.2 标识",
+   "why": "clause 8.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "8.3 运输、卸装及贮存",
+   "why": "clause 8.3: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    20
+   ],
+   "of": 5,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  },
+  {
+   "box": 54,
+   "why": "permitted synonym line inside the term entry body (no block of its own)"
+  },
+  {
+   "box": 106,
+   "why": "untitled numbered clause: number + sentence, no title (text)"
+  },
+  {
+   "box": 114,
+   "why": "untitled numbered clause: number + sentence, no title (text)"
+  }
+ ],
+ "considered": []
+}

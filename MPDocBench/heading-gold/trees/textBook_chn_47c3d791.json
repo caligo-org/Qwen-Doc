@@ -1,0 +1,99 @@
+{
+ "doc": "textBook_chn_47c3d791",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "美术 选择性必修 绘画",
+   "why": "title union: subject + course line + module name naming this book"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "编者的话",
+   "why": "front matter: editors foreword title"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    26,
+    27
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第1课 绘画语言",
+   "why": "lesson label + lesson title union"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 26,
+   "text": "问题导入",
+   "why": "third check: own-line label with its own block (#29), restored like 相关史事/练习 in round 5; a break before #30 closes it"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 3,
+   "parent": 26,
+   "text": "一、绘画的造型要素",
+   "why": "numbered section 一、 of the lesson"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 52,
+   "text": "（一）点、线、面",
+   "why": "numbered subsection （一）"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 26,
+   "why": "repeat: running head naming the open lesson"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 30,
+   "closes": 28,
+   "why": "the lesson text resumes after the 问题导入 prompt (third check)"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "doc": "textBook_eng_81dcb97d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "MULTIVARIABLE CALCULUS",
+   "why": "title: book title on the cover"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

@@ -1,0 +1,134 @@
+{
+ "doc": "textBook_chn_0505fdad",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "体育与健康 教师用书 四年级 全一册",
+   "why": "title union: subject + book type (教师用书) + grade/volume line naming this book"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "前言",
+   "why": "front matter: preface title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    36,
+    37
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第一章 健康基础知识",
+   "why": "chapter label + chapter title union"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "第一节 肌肉力量与肌肉耐力",
+   "why": "section 第一节: describes the block below"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 41,
+   "text": "教学目标",
+   "why": "teacher-book part label with its own block (repeats per 节): one level below the 节"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 41,
+   "text": "知识要点",
+   "why": "teacher-book part label with its own block (repeats per 节): one level below the 节"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 41,
+   "text": "教学内容",
+   "why": "teacher-book part label with its own block (repeats per 节): one level below the 节"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 41,
+   "text": "教学策略",
+   "why": "teacher-book part label with its own block (repeats per 节): one level below the 节"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 41,
+   "text": "教学评价",
+   "why": "teacher-book part label with its own block (repeats per 节): one level below the 节 (boxed, same role)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    33
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 36,
+   "why": "repeat: running head of the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "series line on the cover: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 29,
+   "why": "running tag 目录 above the contents title: page tag, text"
+  }
+ ]
+}

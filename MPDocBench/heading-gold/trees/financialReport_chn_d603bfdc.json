@@ -1,0 +1,127 @@
+{
+ "doc": "financialReport_chn_d603bfdc",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月",
+   "why": "title union: owner (Chinese registered name) + document type (中期財務報告 + period in the same box)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目錄",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "綜合損益表",
+   "why": "section: statement caption over its table"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "綜合損益及其他全面收入表",
+   "why": "section: statement caption"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "綜合財務狀況表",
+   "why": "section: statement caption"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "簡明綜合權益變動報表",
+   "why": "section: statement caption"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "簡明綜合現金流量表",
+   "why": "section: statement caption"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "附註：",
+   "why": "section: own-line label 附註： with its own block (sentence + table) under the cash flow statement"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    26
+   ],
+   "of": 22,
+   "why": "repeat: (續) on the next page, statement still open"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 36,
+   "why": "repeat: (續) on the next page, statement still open"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "brand/logo text on cover"
+  },
+  {
+   "box": 3,
+   "why": "owner English name on cover: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "incorporation line, text"
+  },
+  {
+   "box": 6,
+   "why": "stock code, text"
+  },
+  {
+   "box": 7,
+   "why": "year line on cover, text"
+  },
+  {
+   "box": 13,
+   "why": "period line under statement caption, text"
+  },
+  {
+   "box": 15,
+   "why": "statement footer note, text"
+  }
+ ]
+}

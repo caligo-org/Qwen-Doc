@@ -1,0 +1,35 @@
+{
+ "doc": "handwritten_chn_eac3f5a2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "bào yè 26 西门豹治邺",
+   "why": "title: lesson number + text title (pinyin annotations included in the box); starts: the summary note (#1) is printed beside the title but comes before it in reading order."
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "callout [中心思想] summary: text"
+  },
+  {
+   "box": 29,
+   "why": "labels 近义词/反义词 with short lists: callout, text"
+  },
+  {
+   "box": 4,
+   "why": "margin structure note"
+  },
+  {
+   "box": 15,
+   "why": "platform watermark"
+  }
+ ]
+}

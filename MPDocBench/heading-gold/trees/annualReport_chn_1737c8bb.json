@@ -1,0 +1,225 @@
+{
+ "doc": "annualReport_chn_1737c8bb",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "金鸿控股集团股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 4,
+   "parent": 58,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item, outline heading (不适用 + statement below)"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 58,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 43,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 47,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 14,
+   "why": "one-word answer line"
+  },
+  {
+   "box": 45,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 51,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 68,
+   "why": "yes/no question with one-word answer (substance)"
+  }
+ ]
+}

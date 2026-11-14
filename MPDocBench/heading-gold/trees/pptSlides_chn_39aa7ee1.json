@@ -1,0 +1,90 @@
+{
+ "doc": "pptSlides_chn_39aa7ee1",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "2.7 光电式传感元件",
+   "why": "deck title (lecture number + title, no course line printed)"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "定义",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "光电检测系统",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "两个光电式检测例子",
+   "why": "smaller unruled slide title: examples of the detection system on the previous slide"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "光源",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "1）热辐射光源",
+   "why": "numbered slide title 1): a kind of 光源, content puts it under 光源"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "2）气体放电光源",
+   "why": "numbered slide title 2): a kind of 光源"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "3）发光二极管",
+   "why": "numbered slide title 3): a kind of 光源"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "figure label naming the example drawing next to it"
+  },
+  {
+   "box": 13,
+   "why": "figure label naming the example drawing next to it"
+  }
+ ],
+ "considered": []
+}

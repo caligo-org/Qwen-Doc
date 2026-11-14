@@ -1,0 +1,98 @@
+{
+ "doc": "goverment_eng_d4c4a9f2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "MGSF01: ASEAN+3 Flu Ministerial May 7-8",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "BACKGROUND TO THE MINISTERIAL",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "ASEAN+3 PREPARED BUT NEEDS RESEARCH, VACCINE CAPACITY",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "INDONESIAN NEGATIVITY TOWARDS CDC",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "REMARKS PRAISE DONOR COOPERATION",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "JOINT MINISTER'S STATEMENT",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "COMMENT:",
+   "why": "section: underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 7,
+   "why": "classification marking (SENSITIVE BUT UNCLASSIFIED) underlined like a head: describes no section, text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 6,
+   "why": "cable page id line: text"
+  },
+  {
+   "box": 16,
+   "why": "cable page id line: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 25,
+   "closes": 21,
+   "why": "round 5: paragraph 11 (POC and list of scanned documents) follows the joint statement paragraphs; it is about the cable, not the statement"
+  },
+  {
+   "before": 31,
+   "closes": 26,
+   "why": "round 5: the sender's signature closes the cable; it signs the whole cable, not this section"
+  }
+ ]
+}

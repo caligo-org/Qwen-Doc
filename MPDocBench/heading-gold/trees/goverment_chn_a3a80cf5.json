@@ -1,0 +1,81 @@
+{
+ "doc": "goverment_chn_a3a80cf5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "中华人民共和国人类遗传资源管理条例",
+   "why": "title: regulation title names the whole document"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 采集和保藏",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 利用和对外提供",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第四章 服务和监督",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第五章 法律责任",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第六章 附 则",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "promulgation/revision note under the title: text"
+  },
+  {
+   "box": 4,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
+}

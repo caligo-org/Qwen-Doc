@@ -1,0 +1,171 @@
+{
+ "doc": "textBook_eng_99585330",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "General Microbiology",
+   "why": "title: book title on the cover"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1. Introduction to Microbiology",
+   "why": "chapter heading"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "Characteristics of Microbes",
+   "why": "bold section heading"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "Microbe Size",
+   "why": "bold section heading"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "The Discovery of Microbes",
+   "why": "bold section heading"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 4,
+   "parent": 27,
+   "text": "Robert Hooke (1635-1703)",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides); one of the two people the section names"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 4,
+   "parent": 27,
+   "text": "Antony van Leeuwenhoek (1632-1723)",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "Microbial Groups",
+   "why": "bold section heading"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Bacteria",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides); a domain the section lists"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Archaea",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Eukarya",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Viruses",
+   "why": "lighter regular-weight subheading under the preceding bold section (look decides)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "Taxonomic Ranks",
+   "why": "bold section heading"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    2
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 12,
+   "why": "repeat: running foot naming the open chapter"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

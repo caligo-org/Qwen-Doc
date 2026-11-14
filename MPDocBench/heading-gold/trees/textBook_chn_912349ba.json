@@ -1,0 +1,112 @@
+{
+ "doc": "textBook_chn_912349ba",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    7,
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "语文 八年级 上册",
+   "why": "title union: subject + grade/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "第一单元 活动·探究",
+   "why": "unit label + unit title (one box)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "活动任务单",
+   "why": "task-sheet banner 活动任务单 with its own block: heading one level below the unit"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务一",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务二",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 4,
+   "parent": 37,
+   "text": "任务三",
+   "why": "round 5: restored by user decision (an own-line marker that opens a real unit is a heading): badge over its own task block, a unit listed in the contents; L4 under 活动任务单; the run-in task name stays in the paragraph; no break needed (the next task or the excerpt end closes it)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11,
+    12
+   ],
+   "of": 7,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 22,
+   "why": "repeat: running foot naming the open contents section"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 22,
+   "why": "repeat: running foot naming the open contents section"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 22,
+   "why": "repeat: running foot naming the open contents section"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "of": 22,
+   "why": "repeat: running foot naming the open contents section"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

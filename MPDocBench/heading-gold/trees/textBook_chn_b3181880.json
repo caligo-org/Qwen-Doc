@@ -1,0 +1,72 @@
+{
+ "doc": "textBook_chn_b3181880",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "信号与系统辅导与题解",
+   "why": "title: the book name printed on the cover (two lines, one box)"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "内容提要",
+   "why": "front matter: summary title 内容提要 over its own block"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "前言",
+   "why": "front matter: preface title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    28
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the book"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "series banner on the back cover over the series book list: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "companion-to line naming the original textbook: subtitle, text"
+  },
+  {
+   "box": 36,
+   "why": "CIP block title: colophon, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 36,
+   "closes": 32,
+   "why": "内容提要 ends after its three paragraphs; the CIP block and colophon on the same page are not about the book summary"
+  }
+ ]
+}

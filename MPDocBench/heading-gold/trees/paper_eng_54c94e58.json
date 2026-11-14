@@ -1,0 +1,72 @@
+{
+ "doc": "paper_eng_54c94e58",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Financial Report for Micro, Small, and Medium Enterprise According to Financial Accounting Standards: Case Study Rafita Cake",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "1. INTRODUCTION",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "2. LITERATURE REVIEW",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "3. RESEARCH METHOD",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "4. RESULTS AND DISCUSSION",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "5. CONCLUSION",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

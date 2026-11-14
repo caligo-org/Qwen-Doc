@@ -1,0 +1,443 @@
+{
+ "doc": "newspaper_chn_eb87830d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "why": "masthead (OCR garbled, read from the page); pinyin in the same box is text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "习近平就老挝人民民主共和国成立50周年向老挝人民革命党中央委员会总书记、国家主席通伦致贺电",
+   "why": "story headline, front page (no banner)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "为乡村振兴尽情放歌",
+   "why": "story headline (vertical essay under a figure-only banner)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "盼文学力量更加彰显",
+   "why": "story headline (vertical essay under a figure-only banner)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "坚定发展信心 汇聚发展合力",
+   "why": "story headline; ——综述 subtitle in the same box is a deck | starts: the kicker #35 above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "顶层谋划推进掀起宣讲热潮",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "从近及远，由物及人",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "why": "section: page tag 要闻 on p2"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 72,
+   "text": "王沪宁对老挝进行正式友好访问 并出席老挝建国50周年庆祝活动",
+   "why": "story headline printed over two lines"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 72,
+   "text": "坚定发展信心 汇聚发展合力",
+   "why": "continuation: jump line (上接1版) of the front-page story, its subheads follow | breadcrumb round 3: jump prints no headline (printed: \"（上接1版）\"), so the continuation takes the original's title #36",
+   "continues": 36
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "深入基层一线 力求鲜活生动",
+   "why": "in-story subhead of the jumped story"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "面向青年群体 激扬青春力量",
+   "why": "in-story subhead of the jumped story"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 3,
+   "parent": 72,
+   "text": "让老兵的故事传遍神州大地",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（一）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（二）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 129,
+   "text": "（三）",
+   "why": "final path check: bare part marker on its own line opening a real unit of several paragraphs of story #129 with no printed title; NOTATIONS: such a marker is a heading on its own (was text under the older bare-marker rule)"
+  },
+  {
+   "boxes": [
+    157,
+    158
+   ],
+   "level": 3,
+   "parent": 72,
+   "text": "河南三门峡： 万羽天鹅舞翩跹",
+   "why": "story headline (引题 河南三门峡： is a deck) | breadcrumb round 3: place 引题 ending in \"：\" names the subject of the main title, so the node takes place ∪ main title (same as the one-box 安徽省…县：大马力… headline)"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "评论",
+   "why": "section: page tag 评论 on p3"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "level": 3,
+   "parent": 172,
+   "text": "以合作凝众力 为乡村谋复兴",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 3,
+   "parent": 172,
+   "text": "推动资源环境要素高效配置",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 3,
+   "parent": 172,
+   "text": "『小菜园』中的治理智慧",
+   "why": "story headline (vertical)"
+  },
+  {
+   "boxes": [
+    216,
+    217
+   ],
+   "level": 3,
+   "parent": 172,
+   "text": "鞍山师范学院音乐学院 以美育人筑根基艺教创新启新程",
+   "why": "story-level headline of an advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text); institution banner ∪ headline = owner ∪ title"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "专家引领与跨界融合：推动教师专业能力进阶",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    222
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "教研室深耕细作：夯实教学质量核心阵地",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    227
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "育人为本与赛演融合：提升学生综合素养",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    232
+   ],
+   "level": 4,
+   "parent": 216,
+   "text": "守正创新：地方高校音乐教育高质量发展的实践探索",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    238
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "综合新闻",
+   "why": "section: page tag 综合新闻 on p4"
+  },
+  {
+   "boxes": [
+    241
+   ],
+   "level": 3,
+   "parent": 238,
+   "text": "让青春在祖国西部绽放绚丽光芒",
+   "why": "story headline (vertical; figure rubric 连续报道 is not text)"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 3,
+   "parent": 238,
+   "text": "国家特殊教育数字化资源中心正式启动建设",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    271
+   ],
+   "level": 3,
+   "parent": 238,
+   "text": "内蒙古乌海半固态锂电池储能项目成功并网发电",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    277
+   ],
+   "level": 3,
+   "parent": 238,
+   "text": "广西河池宜州区：村寨里的“约定”",
+   "why": "story headline; 引题 广西河池宜州区： in the same box is a deck | breadcrumb round 3: place 引题 ending in \"：\" names the subject of the main title, so the node takes place ∪ main title (same as the one-box 安徽省…县：大马力… headline) (in the same box)"
+  },
+  {
+   "boxes": [
+    281
+   ],
+   "level": 4,
+   "parent": 277,
+   "text": "村规民约焕发时代生机",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    286
+   ],
+   "level": 4,
+   "parent": 277,
+   "text": "文明新风吹遍山乡村寨",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    292
+   ],
+   "level": 4,
+   "parent": 277,
+   "text": "凝聚合力助推产业兴旺",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    297,
+    298
+   ],
+   "level": 3,
+   "parent": 238,
+   "text": "湖南农业大学 以农为基 以魂为核 构建课程思政育人“湘农范式”",
+   "why": "story-level headline of an advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text); institution banner ∪ headline = owner ∪ title"
+  },
+  {
+   "boxes": [
+    300
+   ],
+   "level": 4,
+   "parent": 297,
+   "text": "精神铸魂：锚定课程思政育人根本",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    304
+   ],
+   "level": 4,
+   "parent": 297,
+   "text": "师资赋能：夯实课程思政实施支撑",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    308
+   ],
+   "level": 4,
+   "parent": 297,
+   "text": "产教融合：拓宽课程思政实践路径",
+   "why": "subhead of the advertorial framed as an ad (·广告·) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    317
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "红船初心专刊",
+   "why": "section: special-supplement page banner (no page tag)"
+  },
+  {
+   "boxes": [
+    322
+   ],
+   "level": 3,
+   "parent": 317,
+   "text": "江苏省淮安市盱眙县天泉湖镇陡山村：一方青绿润百业",
+   "why": "story headline (vertical); 引题 place line in the same box is a deck | breadcrumb round 3: place 引题 ending in \"：\" names the subject of the main title, so the node takes place ∪ main title (same as the one-box 安徽省…县：大马力… headline) (in the same box)"
+  },
+  {
+   "boxes": [
+    340
+   ],
+   "level": 3,
+   "parent": 317,
+   "text": "湖北省宜昌市夷陵区小溪塔街道仓屋榜村：遍野金黄甜万家",
+   "why": "story headline (vertical); 引题 place line in the same box is a deck | breadcrumb round 3: place 引题 ending in \"：\" names the subject of the main title, so the node takes place ∪ main title (same as the one-box 安徽省…县：大马力… headline) (in the same box)"
+  },
+  {
+   "boxes": [
+    361
+   ],
+   "level": 3,
+   "parent": 317,
+   "text": "以文化力量激发乡村振兴蓬勃生机",
+   "why": "story headline"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    74,
+    170,
+    240,
+    318
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 35,
+   "why": "red 专栏 rubric above a headline"
+  },
+  {
+   "box": 268,
+   "why": "round 6 (starts): photo item; its only block is the photo's caption #269 (+ credit #270 滕治中摄) with the photo #267, no story text of its own (was L3 node: photo story headline with its own caption text)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 320,
+   "why": "slogan banner of the supplement page"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 52,
+   "closes": 36,
+   "why": "round 5: the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows"
+  },
+  {
+   "before": 155,
+   "closes": 129,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (Hainan duty-free) follows"
+  },
+  {
+   "before": 261,
+   "closes": 241,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (wetland in early winter) follows"
+  },
+  {
+   "before": 267,
+   "closes": 263,
+   "why": "round 5: the story ends; the photo of the next photo story (乡村企业 便民就业, printed before its title) follows | round 6: #268 is now text (photo + caption), so the whole photo item sits under the section"
+  },
+  {
+   "before": 10,
+   "closes": 4,
+   "why": "round 6: the series banner #10 (“十五五”我所思·我所盼) heads the two series pieces #11 and #22, not the story #4; it belongs to L1"
+  }
+ ]
+}

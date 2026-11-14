@@ -1,0 +1,315 @@
+{
+ "doc": "paper_chn_7d70eb40",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "自行车交通系统发展对策研究",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1 背景",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2自行车交通特征分析",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "2.1 适用性",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "2.2 局限性",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3 国内外发展经验",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "3.1国外经验",
+   "why": "subsection 3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.1 哥本哈根",
+   "why": "subsection 3.1.1 (numbering)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.2 阿姆斯特丹",
+   "why": "subsection 3.1.2 (numbering)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "3.1.3伦敦",
+   "why": "subsection 3.1.3 (numbering)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "3.2 国内经验",
+   "why": "subsection 3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 4,
+   "parent": 33,
+   "text": "3.2.1 重庆",
+   "why": "subsection 3.2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 33,
+   "text": "3.2.2 杭州",
+   "why": "subsection 3.2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "4自行车交通系统发展对策",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "4.1 城市空间布局调整",
+   "why": "subsection 4.1 (numbering)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "4.2 自行车通行空间保障",
+   "why": "subsection 4.2 (numbering)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 4,
+   "parent": 53,
+   "text": "4.2.1 中心城区——改善为主",
+   "why": "subsection 4.2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 5,
+   "parent": 59,
+   "text": "（1）现状道路断面优化调整",
+   "why": "own-line item label （1） with its own paragraph + figures below"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 5,
+   "parent": 59,
+   "text": "（2）设置高架自行车专用路",
+   "why": "own-line item label （2） with its own paragraph; same look as （1）"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 53,
+   "text": "4.2.2 外围新区——规划、新建为主",
+   "why": "subsection 4.2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "4.3停车设施建设",
+   "why": "subsection 4.3 (numbering)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "4.4 交通一体化衔接",
+   "why": "subsection 4.4 (numbering)"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "4.5 改变人们出行习惯",
+   "why": "subsection 4.5 (numbering)"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "5厦门自行车交通系统规划和建设实践",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "5.1 发展现状",
+   "why": "subsection 5.1 (numbering)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "5.2 发展目标和策略",
+   "why": "subsection 5.2 (numbering)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 3,
+   "parent": 82,
+   "text": "5.3厦门实践",
+   "why": "subsection 5.3 (numbering)"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.1 自行车道分级规划",
+   "why": "subsection 5.3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.2 低碳道路断面设计",
+   "why": "subsection 5.3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.3公共自行车系统建设",
+   "why": "subsection 5.3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "5.3.4 交通一体化衔接规划",
+   "why": "subsection 5.3.4 (numbering)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "6 结语",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "【参考文献】",
+   "why": "back matter: references at top-section level"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "【作者简介】",
+   "why": "back matter: author note title with its own block, same look as 【参考文献】"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

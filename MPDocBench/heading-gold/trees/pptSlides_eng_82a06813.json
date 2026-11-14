@@ -1,0 +1,88 @@
+{
+ "doc": "pptSlides_eng_82a06813",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW",
+   "why": "deck title (three-line title in one box)"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Space-Timeline Template",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Problem-Solution Template",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "DRAMATIC STORY CANVAS: Storyboard Template",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    14
+   ],
+   "of": 3,
+   "why": "same slide title on the next build slide, nothing in between"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 3,
+   "why": "same slide title on the next build slide, nothing in between"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "canvas tagline repeated on every canvas slide"
+  },
+  {
+   "box": 6,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 7,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 8,
+   "why": "canvas diagram label"
+  },
+  {
+   "box": 71,
+   "why": "divider-like title slide at the end of the excerpt with nothing after it (substance)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 71,
+   "closes": 56,
+   "why": "the Storyboard Template slide ends; the last page's divider-like title (text by substance, nothing after it) is not about the storyboard canvas, it belongs to L1"
+  }
+ ]
+}

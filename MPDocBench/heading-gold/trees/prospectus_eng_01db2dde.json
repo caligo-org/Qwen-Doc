@@ -1,0 +1,156 @@
+{
+ "doc": "prospectus_eng_01db2dde",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "RICHELIEU BOND Prospectus",
+   "why": "title union: fund (owner) RICHELIEU BOND + document type Prospectus. Box #2 also prints the date 'September 2015' (one box); per NOTATIONS the text is only the heading part (round 3: date dropped from the text)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "WARNING",
+   "why": "front matter section WARNING: titled block of several pages of notices, level of top sections"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "Handling of data",
+   "why": "round 5: restored, a break now closes it before the KIID/subscription paragraphs #37 (p5); own-line label with its block on personal data #30-#36"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ORGANISATION",
+   "why": "front matter section ORGANISATION with its directory table"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "PART I - GENERAL INFORMATION",
+   "why": "body part title PART I (top body unit)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "1. THE SICAV",
+   "why": "numbered chapter 1. under PART I"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 1,
+   "why": "running head: fund name restates the title owner"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 37,
+   "closes": 29,
+   "why": "round 5: the KIID/subscription paragraphs #37-#38 are not about data handling; they belong to WARNING"
+  },
+  {
+   "before": 43,
+   "closes": 41,
+   "why": "round 5: paragraph on the sub-fund information sections (#43, p6-7) follows the contents list and is not a TOC entry; it belongs to the prospectus (L1)"
+  }
+ ]
+}

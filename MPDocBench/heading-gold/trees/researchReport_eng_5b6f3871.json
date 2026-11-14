@@ -1,0 +1,328 @@
+{
+ "doc": "researchReport_eng_5b6f3871",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    5,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs TOP of MIND TRUMP TARIFFS: MOSTLY TALK, OR BIG ACTION?",
+   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Goldman Sachs) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "WHAT'S INSIDE",
+   "why": "box title: contents box of the issue"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Macro news and views",
+   "why": "article page banner"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "US",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Europe",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 48,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 48,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Japan",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Emerging Markets (EM)",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 70,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 4,
+   "parent": 70,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Trump tariffs: mostly talk, or big action?",
+   "why": "article page banner, L2 (round 3): editor lead article of the issue; it prints the theme words again, but it opens one article after Macro news and views (a repeat of L1 would leave its pages inside Macro news and views), so it is a node narrower than the issue title union"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with Jeff Gerrish",
+   "why": "article page banner: interview"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: You played a key role in trade policy during President Trump's first term. What are his goals regarding tariffs/trade policy and to what extent have these goals shifted from his first term?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: While Trump's goals vis-à-vis tariffs seem clear, the plan to achieve them seems less so given the recent back-and-forth on tariff announcements and implementation. Does Trump have an overarching plan/strategy with regard to his trade agenda?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: So, are the tariffs on Canada and Mexico just a negotiating tactic then, and, if so, what is Trump aiming to achieve through these negotiations that would prevent those tariffs from going into effect?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: What about the proposed 25% tariff on US auto imports? Is that also just a negotiating tactic?",
+   "why": "interview question with its own separate answer block (user decision: heading) Round 4: LaTeX escape in the OCR text replaced by the printed \"25%\"."
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: What about the steel and aluminum tariffs?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: The million-dollar question is whether the President will implement more sweeping tariffs in the form of a reciprocal or universal tariff. What's your view?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: The market seemed relieved that Trump's reciprocal tariffs announcement did not include more direct action. Was the delay more likely another negotiating tactic, or rather an acknowledgement that the Administration will need more time to figure out the correct implementation given the complexity?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: So, it sounds like you think Trump will do something very big on tariffs, but the market doesn't really seem to believe that. Why do you think that is?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: With that in mind, where do you think tariffs and trade policy more generally is headed with regard to China?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Given all we've discussed, are the bulk of tariff actions now most likely behind us, or still ahead?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 104,
+   "text": "Allison Nathan: Trump presumably understands that businesses don't like uncertainty, but he seems to be stoking and even embracing it. What do you make of that?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    32
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 18,
+   "why": "INTERVIEWS WITH: label over a list of names: text (names list)"
+  },
+  {
+   "box": 35,
+   "why": "deck under the page banner: text"
+  },
+  {
+   "box": 44,
+   "why": "chart title in the region box: text"
+  },
+  {
+   "box": 55,
+   "why": "chart title: text"
+  },
+  {
+   "box": 67,
+   "why": "chart title: text"
+  },
+  {
+   "box": 77,
+   "why": "chart title: text"
+  },
+  {
+   "box": 97,
+   "why": "editor byline: text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 17,
+   "why": "round 5: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE"
+  }
+ ]
+}

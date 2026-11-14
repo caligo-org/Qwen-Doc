@@ -1,0 +1,87 @@
+{
+ "doc": "manualGuide_chn_78622ad7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "magicolor® 5440 DL 用户指南",
+   "why": "title: product model + document type (用户指南) in one cover box"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "商标",
+   "why": "front matter: trademarks section title"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "版权通告",
+   "why": "front matter: copyright notice title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "通告",
+   "why": "front matter: notice title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "软件许可协议",
+   "why": "front matter: software licence agreement title"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "目录",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    29
+   ],
+   "of": 27,
+   "why": "repeat: running footer naming the contents section"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 27,
+   "why": "repeat: running footer naming the contents section"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "cover document number: text"
+  },
+  {
+   "box": 3,
+   "why": "cover document number: text"
+  }
+ ]
+}

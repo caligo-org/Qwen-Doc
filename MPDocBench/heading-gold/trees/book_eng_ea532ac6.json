@@ -1,0 +1,35 @@
+{
+ "doc": "book_eng_ea532ac6",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "The Devil's Keepsake",
+   "why": "title: cover title (OCR garbled the script font; text as printed); series line and author are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 2,
+   "why": "repeat: title page restates the book title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "series line on the cover"
+  },
+  {
+   "box": 3,
+   "why": "author name on the cover"
+  }
+ ]
+}

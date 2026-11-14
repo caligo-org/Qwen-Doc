@@ -1,0 +1,45 @@
+{
+ "doc": "handwritten_chn_94af97ba",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "一、选择题：（每题3分，共36分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "二、填空题. （每题4分，共32分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "三、解答题（共52分）",
+   "why": "question group: top grouping of an exam paper with no printed title (several L1)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 73,
+   "why": "exam question 21 (计算题 with its parts): individual question, text"
+  },
+  {
+   "box": 86,
+   "why": "sub-question (2) of question 23: text"
+  }
+ ],
+ "considered": []
+}

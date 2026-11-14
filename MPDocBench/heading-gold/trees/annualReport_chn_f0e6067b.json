@@ -1,0 +1,228 @@
+{
+ "doc": "annualReport_chn_f0e6067b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "深圳市天威视讯股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节 重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "1、有线电视用户持续流失的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "2、基础网络承载能力不足的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "3、技术储备不足的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节 公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 4,
+   "why": "cover document number"
+  },
+  {
+   "box": 19,
+   "why": "lead-in sentence ending in a colon introducing the risk list"
+  },
+  {
+   "box": 63,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 65,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 67,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 70,
+   "why": "yes/no question with one-word answer (substance)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 26,
+   "why": "round 5: the 利润分配预案 paragraph after the last risk item is not about 3、技术储备不足的风险; it belongs to 第一节"
+  }
+ ]
+}

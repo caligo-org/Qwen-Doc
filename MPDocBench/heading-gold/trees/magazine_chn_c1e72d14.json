@@ -1,0 +1,102 @@
+{
+ "doc": "magazine_chn_c1e72d14",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "知音",
+   "why": "title: periodical masthead 知音"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title 目录 (logo and issue line in the same box are text)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "“铁脚板”站长护林29载: 一夕山中月，万里故园心",
+   "why": "consistency: story headline, L3 directly under the masthead: its section is printed only on the contents page, not on the story pages (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the contents section closes at the break before #22 starts: #50 (the opening photos #50/#51 and standfirst #52 printed above the headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "荒山野岭中护我家园",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "万亩林海的平凡坚守",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "不平凡的绿水青山",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "『冲天辫』老妈路过人间： 姐的威风永不灭",
+   "why": "consistency: story headline, L3 directly under the masthead: its section is printed only on the contents page, not on the story page (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); printed 『冲天辫』, gold OCR 冲天辩 starts: #132 (the opening photos #132/#133 printed above the vertical headline) | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 135,
+   "text": "不扫兴妈妈是个小公主",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 31,
+   "why": "house-ad box (new-media accounts with QR codes) beside the contents"
+  },
+  {
+   "box": 48,
+   "why": "colophon notice 本刊声明: colophon text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 22,
+   "closes": 18,
+   "why": "contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)"
+  },
+  {
+   "before": 129,
+   "closes": 53,
+   "why": "story ends (editor credit); QR pointer box \"扫我，看更多劲爆故事\" follows, not about this story"
+  }
+ ]
+}

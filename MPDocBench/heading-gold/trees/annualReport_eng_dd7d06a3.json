@@ -1,0 +1,66 @@
+{
+ "doc": "annualReport_eng_dd7d06a3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "gogo 2024 Annual Report",
+   "why": "title union: year + document type printed as one cover title; owner only as logo (text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (gogo) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    7,
+    13
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "FORM 10-K Gogo Inc.",
+   "why": "embedded filing title union: FORM 10-K + registrant name (field caption dropped)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Documents Incorporated By Reference",
+   "why": "front matter section of the 10-K"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "INDEX",
+   "why": "contents title of the 10-K"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "issuing body (SEC name and address) above the form title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "intro tagline next to a photo"
+  },
+  {
+   "box": 8,
+   "why": "form field label (Mark One)"
+  },
+  {
+   "box": 39,
+   "why": "running owner name in the header"
+  }
+ ]
+}

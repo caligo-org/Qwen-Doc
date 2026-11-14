@@ -1,0 +1,442 @@
+{
+ "doc": "annualReport_chn_588028f9",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "厦门吉宏科技股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title); printed as the definitions table caption"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item, outline heading (不适用 + statement below)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第三节公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "一、报告期内公司从事的主要业务",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 88,
+   "text": "一、To B端业务：精准营销广告",
+   "why": "business-line subhead inside 一、 (bold, smaller, own block below)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 88,
+   "text": "二、ToC端业务：精准营销跨境电商",
+   "why": "business-line subhead"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 4,
+   "parent": 88,
+   "text": "三、线下：包装业务",
+   "why": "business-line subhead"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "二、主要资产重大变化情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 4,
+   "parent": 106,
+   "text": "1、主要资产重大变化情况",
+   "why": "1、 directly under 二、"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 4,
+   "parent": 106,
+   "text": "2、主要境外资产情况",
+   "why": "1、 level (不适用 below)"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "三、核心竞争力分析",
+   "why": "一、 level (figure below)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第四节经营情况讨论与分析",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "一、概述",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 4,
+   "parent": 117,
+   "text": "一、ToB端业务：精准营销广告",
+   "why": "business-line subhead inside 概述"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 4,
+   "parent": 117,
+   "text": "二、ToC端业务：精准营销跨境电商",
+   "why": "business-line subhead inside 概述"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "二、主营业务分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "1、概述",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "2、收入与成本",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 5,
+   "parent": 126,
+   "text": "（1）营业收入构成",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 5,
+   "parent": 126,
+   "text": "（2）占公司营业收入或营业利润 10% 以上的行业、产品或地区情况",
+   "why": "（1） level Round 4: text as printed (OCR markup removed)."
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 5,
+   "parent": 126,
+   "text": "（3）公司实物销售收入是否大于劳务收入",
+   "why": "（1） level (question answered 是 + table below)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 46,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 48,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 51,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 54,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 71,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 81,
+   "why": "statement label with 不适用 + one sentence (substance)"
+  },
+  {
+   "box": 138,
+   "why": "statement label with only 不适用 below (substance)"
+  }
+ ]
+}

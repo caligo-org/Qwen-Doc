@@ -1,0 +1,226 @@
+{
+ "doc": "manualGuide_eng_a3556095",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "TRENDNET Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3)",
+   "why": "title union: owner logo box #1 (TRENDNET) + manual type + product/model. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Quick Installation Guide 24-Port Gigabit Switch TEG-S24g / TEG-S24Dg(V3))."
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Declaration of Conformity",
+   "why": "section: declaration title (English)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Manufacturer's Name and Address",
+   "why": "subsection: label with its own address block"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Product Information:",
+   "why": "label heading: own-line label with its product block"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Declaration:",
+   "why": "label heading: own-line label with its declaration text"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Déclaration de conformité",
+   "why": "section: declaration title (French), a separate sibling per language, not a continuation"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "Nom et adresse du fabricant",
+   "why": "subsection: label with its own address block"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "Détails du produit",
+   "why": "label heading: own-line label with its product block"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "Déclaration:",
+   "why": "label heading: own-line label with its declaration text"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Limited Warranty",
+   "why": "section: warranty title (English)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Garantie Limitée",
+   "why": "section: warranty title (French), sibling per language"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Eingeschrankte Garantie",
+   "why": "section: warranty title (German)"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Garantia limitada",
+   "why": "section: warranty title (Spanish)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Ограниченная гарантия",
+   "why": "section: warranty title (Russian)"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Garantia Limitada",
+   "why": "section: warranty title (Portuguese)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Piiratud garantii",
+   "why": "section: warranty title (Estonian)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Garanzia limitata",
+   "why": "section: warranty title (Italian)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Certifications",
+   "why": "section: certifications title"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Technical Support",
+   "why": "section: technical support title"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Product Warranty Registration",
+   "why": "section: registration title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 74,
+   "why": "callout: Note label"
+  },
+  {
+   "box": 76,
+   "why": "callout: Advertencia (warning) label"
+  }
+ ],
+ "considered": [
+  {
+   "box": 23,
+   "why": "callout: Note lead-in before the LED table"
+  },
+  {
+   "box": 21,
+   "why": "form field Signature: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 5,
+   "why": "the English Declaration of Conformity panel ends (signature); the LED-status notes and tables below it (EN/FR/DE) are about the switch, not the declaration (resolves the round-4 OPEN)"
+  },
+  {
+   "before": 47,
+   "closes": 29,
+   "why": "the French declaration panel ends; the ES/IT LED-status notes and tables below it are about the switch, not the declaration (resolves the round-4 OPEN)"
+  },
+  {
+   "before": 82,
+   "closes": 80,
+   "why": "the registration text ends; the TRENDnet address block at the foot of the back panel is the company imprint, not registration"
+  }
+ ]
+}

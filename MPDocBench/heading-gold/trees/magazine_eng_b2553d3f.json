@@ -1,0 +1,41 @@
+{
+ "doc": "magazine_eng_b2553d3f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "MOTION",
+   "why": "title: periodical masthead MOTION (tagline A Dance Collective is text)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Shannon Beauclair",
+   "why": "page title: photographer's intro page headed by her name, her statement below starts: #8 (the photographer portrait printed above the name)"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "CAPTURE THE MOMENT",
+   "why": "page title: group-photo page with its thank-you text"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 11,
+   "why": "series name line under the name, a deck to the statement: text"
+  }
+ ]
+}

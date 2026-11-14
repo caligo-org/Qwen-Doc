@@ -1,0 +1,206 @@
+{
+ "doc": "nationalStandard_chn_e4f3909e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "食品机械安全要求 Food machinery safety requirements",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "目次",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "引言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    65,
+    66
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.1 食品机械 food machinery",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    70,
+    71
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.2 产品 product",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    73,
+    74
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.3 工作空气 working air",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    76,
+    77
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.4 产品区域 area of product",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    80,
+    81
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.5 结构材料 materials of construction",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    84,
+    85
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.6 产品接触表面 product contact surface",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    87,
+    88
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.7 非产品接触表面 noncontact surface of product",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    91,
+    92
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.8 主要工艺设备 main process equipment",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    94,
+    95
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.9 辅助设备 auxiliary equipment",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    98,
+    99
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.10 易于清洗和检查 easy to clean and check",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    101,
+    102
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.11 检验性清洗 verifying rinse",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    104,
+    105
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "3.12 在线清洗 clean-in-place; CIP",
+   "why": "term entry: number + term (one heading)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    37
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

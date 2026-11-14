@@ -1,0 +1,238 @@
+{
+ "doc": "manualGuide_chn_51cbdc09",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "序言",
+   "why": "chapter: excerpt with no printed document title, chapters are the top level (several L1)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "本手册编排介绍",
+   "why": "section: chapter section, TOC entry under 序言"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "技术支持",
+   "why": "section: chapter section, TOC entry under 序言"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "目录",
+   "why": "contents title: front matter at the level of the top sections"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "简介",
+   "why": "chapter: top-level TOC entry 简介"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 27,
+   "text": "概述",
+   "why": "section: TOC entry under 简介"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 27,
+   "text": "特征",
+   "why": "section: TOC entry under 简介, contains the configuration list and the interface items"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "主板SB-810的主要配置",
+   "why": "subsection: own-line label with its own bullet list, indented under 特征 in the TOC"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "CPU",
+   "why": "subsection: interface item with its own paragraph (TOC indent under 特征)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "CRT接口",
+   "why": "subsection: same look and TOC indent as CPU"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "LCD接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "串口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "并口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "IDE接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "DOC接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "FDC接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "USB接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "网络接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "声卡接口",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "物理特征",
+   "why": "subsection: same"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "产品特征",
+   "why": "chapter: top-level TOC entry 产品特征"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 2,
+   "parent": 71,
+   "text": "功能原理示意图",
+   "why": "section: diagram section in the TOC, describes the figure below"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 71,
+   "text": "接口示意图",
+   "why": "section: TOC entry 接口示意图"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 2,
+   "parent": 71,
+   "text": "主板机械示意图",
+   "why": "section: TOC entry (机械尺寸图), describes the drawing below"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head: company name (text, no document title printed)"
+  },
+  {
+   "box": 3,
+   "why": "running head: document class tag"
+  },
+  {
+   "box": 73,
+   "why": "figure title: caption of the diagram, text"
+  }
+ ]
+}

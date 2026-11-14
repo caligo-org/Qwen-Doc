@@ -1,0 +1,54 @@
+{
+ "doc": "goverment_chn_dec4c579",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "烈士褒扬条例",
+   "why": "title: regulation title names the whole document"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 烈士的评定",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 烈士褒扬金和烈士遗属的抚恤优待",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "promulgation/revision note under the title: text"
+  },
+  {
+   "box": 4,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
+}

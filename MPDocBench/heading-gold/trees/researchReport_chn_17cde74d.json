@@ -1,0 +1,87 @@
+{
+ "doc": "researchReport_chn_17cde74d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    8,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "国海证券 优势卡位砥砺前行，六年耕耘终现曙光——鼎龙股份（300054）深度研究",
+   "why": "title union: headline + covered company/report type in one title block Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (国海证券) joins the union after the title box. starts: the analyst box (#6-#7) is printed beside the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "投资要点：",
+   "why": "section: cover summary title over its bullets (containment)"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "合规声明",
+   "why": "back matter: compliance statement title with its block"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "内容目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "图表目录",
+   "why": "front matter: figure list title"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "1、打印耗材业务成长稳健",
+   "why": "section: numbered chapter 1、"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "1.1、上半年下滑有因，全产业链布局是超越行业之本",
+   "why": "section: numbered 1.1、 under 1、"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "1.2、彩打耗材市场规模稳中有升",
+   "why": "section: numbered 1.2、 under 1、"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "related-reports list label: category note says related reports are text"
+  }
+ ],
+ "considered": []
+}

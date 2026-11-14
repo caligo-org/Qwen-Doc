@@ -1,0 +1,171 @@
+{
+ "doc": "textBook_chn_fdc97197",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "通用技术 选择性必修3 工程设计基础",
+   "why": "title union: subject + course line + module name naming this book"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "前言",
+   "why": "front matter: preface title"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第一章 工程设计概述",
+   "why": "chapter label + chapter title (one box) starts: #63 (the full-width chapter photo above the chapter title comes before it in reading order; the break before #63 closing 目录 is superseded)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "第一节 了解工程",
+   "why": "section 第一节 + title"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "学习目标",
+   "why": "section-opening label 学习目标 with its own bullet list: at the level of the section parts (一、)"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "一、工程的含义与种类",
+   "why": "numbered part 一、"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 5,
+   "parent": 71,
+   "text": "中国人自己设计的第一条铁路——京张铁路",
+   "why": "case box title: says what the box is about, one level below 一、 (kind label 案例 is text)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 6,
+   "parent": 75,
+   "text": "分析",
+   "why": "round 5: restored, a break now closes it before #89; activity label 分析 over its own task with a table (#86-88) about the 京张铁路 case: heading one level below the case title (box rule)"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 5,
+   "parent": 71,
+   "text": "立即行动",
+   "why": "activity label with its own task block (instruction + table to fill): own-line label, one level below the section"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "二、工程的特性",
+   "why": "numbered part 二、"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11,
+    12
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "of": 64,
+   "why": "repeat: running head naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 74,
+   "why": "kind label 案例 printed before the case title: label, text"
+  },
+  {
+   "box": 83,
+   "why": "prompt label 讨论 over one question: callout, text"
+  },
+  {
+   "box": 89,
+   "why": "prompt label 思考 over one question: callout, text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 81,
+   "why": "chapter number tab beside the running head: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 89,
+   "closes": 85,
+   "why": "分析 task ends with its table; the separate 思考 prompt about the new 京张 line belongs to the case, not to the analysis task"
+  },
+  {
+   "before": 63,
+   "closes": 51,
+   "why": "contents end on p7; the chapter-opening picture printed above the chapter-1 title on p8 is not part of the contents"
+  }
+ ]
+}

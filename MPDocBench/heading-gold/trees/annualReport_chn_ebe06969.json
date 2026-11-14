@@ -1,0 +1,398 @@
+{
+ "doc": "annualReport_chn_ebe06969",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "浙江大丰实业股份有限公司2019年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "重要提示",
+   "why": "front matter: 重要提示 at the level of the top sections"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "六、前瞻性陈述的风险声明",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况",
+   "why": "重要提示 item with its own answer below (user decision)"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "八、是否存在违反规定决策程序对外提供担保的情况？",
+   "why": "重要提示 item with its own answer below (user decision)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "九、 重大风险提示",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "十、其他",
+   "why": "重要提示 item with its own block below (适用/不适用)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "第一节 释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "第二节 公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "三、基本情况简介",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "四、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "五、公司股票简况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "六、其他相关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "七、近三年主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 57,
+   "text": "(一)主要会计数据",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 57,
+   "text": "（二） 主要财务指标",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 57,
+   "text": "报告期末公司前三年主要会计数据和财务指标的说明",
+   "why": "label line with its own explanation block about all of 七's data: sibling of (一)/(二)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "八、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 69,
+   "text": "（一）同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况",
+   "why": "numbered (一) item, outline heading (适用/不适用 below)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 4,
+   "parent": 69,
+   "text": "（二）同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况",
+   "why": "numbered (二) item"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 4,
+   "parent": 69,
+   "text": "（三） 境内外会计准则差异的说明：",
+   "why": "numbered (三) item"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "九、2019年分季度主要财务数据",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "十、非经常性损益项目和金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "十一、 采用公允价值计量的项目",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "十二、 其他",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 2,
+   "parent": 8,
+   "text": "第三节 公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 3,
+   "parent": 97,
+   "text": "一、报告期内公司所从事的主要业务、经营模式及行业情况说明",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 4,
+   "parent": 98,
+   "text": "（一）主要业务",
+   "why": "（一） level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 8,
+   "why": "repeat: running head naming the document (type only)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 35,
+   "why": "round 3: was L3 \"一、释义\" under \"第一节 释义\"; the section's only item restates the section title, so the step is not narrower (breadcrumb): a restated title is a repeat of the section, its lead-in and table belong to the section"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 2,
+   "why": "cover field"
+  },
+  {
+   "box": 5,
+   "why": "cover field"
+  },
+  {
+   "box": 12,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 13,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 14,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 15,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 37,
+   "why": "lead-in sentence"
+  },
+  {
+   "box": 82,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  }
+ ]
+}

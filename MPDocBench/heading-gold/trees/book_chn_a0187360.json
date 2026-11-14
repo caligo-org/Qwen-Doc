@@ -1,0 +1,295 @@
+{
+ "doc": "book_chn_a0187360",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "黄文涛行政法主观题私塾班 内部十道模拟训练题",
+   "why": "title: the training set title (owner named in it); edition and editor lines are text"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目录",
+   "why": "user decision 2026-11-13: case labels are headings again, so case 1 closes the contents block: contents title over its TOC list = L2 front matter (restores the round-2 node)"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "案例一：",
+   "why": "user decision 2026-11-13: bare case label opens a real unit (the case facts, questions, answers, key points) with no printed title: heading on its own (NOTATIONS 'Every path is a breadcrumb'); restores the round-2 node"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "参考答案与重点法条",
+   "why": "user decision 2026-11-13: answers label with its block (restated questions and answers) one level below its case, so the breadcrumb names the case; closed by the case's key-points label or the next case; markdown bold markup removed from the text"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "一、在第一次行政赔偿诉讼中，唐城县法院裁定不予立案的理由是否成立？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "二、在第一次行政赔偿诉讼中，一审法院判决驳回慕容跃的诉讼请求是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "三、在第一次行政赔偿诉讼中，二审发回重审后一审法院作出的判决是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "四、在第二次行政赔偿诉讼中，慕容跃起诉后法院是否能依据单独提起的行政赔偿诉讼程序进行审理？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "五、在第二次行政赔偿诉讼中，法院判决赔偿数额是否正确？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "六、在第二次行政赔偿诉讼中，法院是否应支持慕容跃要求恢复房屋原貌的诉讼请求？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "七、在第三次行政赔偿诉讼中，慕容跃没有申请精神损害赔偿，法院应如何处理？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 38,
+   "text": "八、在第三次行政赔偿诉讼中，慕容跃是否有权获得精神损害抚慰金？如果答案是肯定的，精神损害抚慰金如何计算？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "本题涉及的重点考点",
+   "why": "user decision 2026-11-13: key-points label with its own list, one level below its case; closed by the next case label; markdown bold markup removed from the text"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "案例二：",
+   "why": "user decision 2026-11-13: bare case label opens a real unit (the case facts, questions, answers, key points) with no printed title: heading on its own (NOTATIONS 'Every path is a breadcrumb'); restores the round-2 node"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "参考答案与重点法条",
+   "why": "user decision 2026-11-13: answers label with its block (restated questions and answers) one level below its case, so the breadcrumb names the case; closed by the case's key-points label or the next case; markdown bold markup removed from the text"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "一、路政执法大队对宇文法超限运输货物的行为不予处罚是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "二、路政执法人员认为宇文法2个月前的违法行为已经超过追诉期限并决定不予处罚，是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "三、唐城县公安民警将宇文法强制约束至酒醒的行为属于什么性质的法律行为？宇文法酒后打人是否应当被治安处罚？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "四、汉州市公安局采用听证方式进行复议是否合法？为什么",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "五、宇文法对复议决定不服起诉，被告应是哪个机关？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "六、法院的判决是否正确？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    182
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "本题涉及的重点考点",
+   "why": "user decision 2026-11-13: key-points label with its own list, one level below its case; closed by the next case label; markdown bold markup removed from the text"
+  },
+  {
+   "boxes": [
+    196
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "案例三",
+   "why": "user decision 2026-11-13: bare case label opens a real unit (the case facts, questions, answers, key points) with no printed title: heading on its own (NOTATIONS 'Every path is a breadcrumb'); restores the round-2 node"
+  },
+  {
+   "boxes": [
+    213
+   ],
+   "level": 3,
+   "parent": 196,
+   "text": "参考答案与重点法条",
+   "why": "user decision 2026-11-13: answers label with its block (restated questions and answers) one level below its case, so the breadcrumb names the case; closed by the case's key-points label or the next case; markdown bold markup removed from the text"
+  },
+  {
+   "boxes": [
+    214
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "一、中原省政府规章中对摩托车禁行的设定是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "二、《汉州市城市交通管理规定》中有关委托的规定是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    235
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "三、交警暂扣欧阳龙的驾驶证和行驶证的行为属于什么性质的法律行为？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    241
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "四、根据《行政处罚法》的规定，本案中交警的处罚程序存在哪些违法之处？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    257
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "五、根据《行政处罚法》的规定，交警队公开该案处罚决定的行为是否合法？为什么？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "六、宋城区公安局复议程序中存在哪些违法之处？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  },
+  {
+   "boxes": [
+    280
+   ],
+   "level": 4,
+   "parent": 213,
+   "text": "七、欧阳龙起诉的被告是否正确？管辖法院应是哪个法院？",
+   "why": "user decision 2026-11-13: question restated in the answer section with its own answer block (FAQ-style heading, v3); closed by the next question, the key-points label or the next case now that the case labels are headings"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 9,
+   "closes": 7,
+   "why": "the 目录 list ends; the author biography and the 重要说明 note that follow are not about the contents"
+  }
+ ]
+}

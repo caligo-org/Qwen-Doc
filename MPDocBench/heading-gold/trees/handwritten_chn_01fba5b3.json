@@ -1,0 +1,129 @@
+{
+ "doc": "handwritten_chn_01fba5b3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "海南五天四晚行程",
+   "why": "sheet title: itinerary sheet, its own document (no shared owner title)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "海南旅游攻略",
+   "why": "sheet title: guide sheets, names the following sheets"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "预约指南",
+   "why": "section: circled topic over its list (containment)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "住宿指南",
+   "why": "section: circled topic over its list"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "注意事项",
+   "why": "section: circled topic over the numbered tips 1-25"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "美食安利",
+   "why": "section: circled topic over the food list"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "抵达海南",
+   "why": "section: circled topic over arrival info"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "日常出行",
+   "why": "section: circled topic over transport list"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    26
+   ],
+   "of": 7,
+   "why": "repeat: guide title restated at the top of the next sheet, guide still open"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 27,
+   "why": "repeat: 注意事项 restated, its numbered list continues with nothing in between"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 27,
+   "why": "repeat: 注意事项 restated, list continues 22-25"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 7,
+   "why": "repeat: guide title at sheet top"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 66,
+   "why": "run-in label: 机场 among run-in siblings 首站/火车站, only wrapped"
+  }
+ ]
+}

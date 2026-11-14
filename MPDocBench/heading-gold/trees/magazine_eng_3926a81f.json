@@ -1,0 +1,123 @@
+{
+ "doc": "magazine_eng_3926a81f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FourFourTwo",
+   "why": "title: periodical masthead FourFourTwo (AWARDS 2025 banner in the box is text)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "WELCOME",
+   "why": "front matter: editor's letter WELCOME, its letter below (no section printed)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    24
+   ],
+   "of": 1,
+   "why": "repeat: masthead restated at the head of the colophon column"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 5,
+   "why": "advertisement (pp. 2-3)"
+  },
+  {
+   "box": 14,
+   "why": "house ad (newsletter sign-up page)"
+  },
+  {
+   "box": 76,
+   "why": "social-media box (FOLLOW US HERE): contact box"
+  },
+  {
+   "box": 26,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 29,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 31,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 33,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 35,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 37,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 39,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 41,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 43,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 45,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 47,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 49,
+   "why": "colophon label (staff/contact list below): colophon text"
+  },
+  {
+   "box": 51,
+   "why": "colophon label (staff/contact list below): colophon text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 78,
+   "why": "social-media handle under an icon (not a running head)"
+  },
+  {
+   "box": 79,
+   "why": "social-media handle under an icon (not a running head)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 74,
+   "closes": 64,
+   "why": "editor's welcome (letter, signature, photo) ends; newsletter QR sign-up and FOLLOW US social box follow"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "doc": "newspaper_eng_79250562",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES MAGAZINE",
+   "why": "title union: owner THE TIMES + document type MAGAZINE masthead (box OCR garbled)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "FAB FIVE: POSH SOUPS",
+   "why": "box with its own title (product feature on the contents page); no section printed"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    34
+   ],
+   "of": 1,
+   "why": "running foot repeats the magazine title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 11,
+   "why": "full-page ad slogan"
+  },
+  {
+   "box": 13,
+   "why": "ad product name"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 4,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 5,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 6,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 8,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 9,
+   "why": "cover lines (teasers), text"
+  },
+  {
+   "box": 20,
+   "why": "contents entries without a contents title"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 21,
+   "why": "round 5: the product feature ends; the magazine colophon (EDITOR ... DEPUTY EDITOR ...) follows, then a full-page ad"
+  }
+ ]
+}

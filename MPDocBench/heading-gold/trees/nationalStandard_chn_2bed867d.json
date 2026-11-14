@@ -1,0 +1,33 @@
+{
+ "doc": "nationalStandard_chn_2bed867d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "家用和类似用途单相插头插座型式、基本参数和尺寸 Single phase plugs and socket-outlets for household and similar purposes—Types, basic parameters and dimensions",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "目 次",
+   "why": "front/back matter title at the level of the top clauses"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

@@ -1,0 +1,124 @@
+doc	item	page	verdict	note
+annualReport_chn_16acace3	break before #227 closes #225	18	OK	closing paragraph 报告期，得益于上述各项工作 sums up （一）–（八）; belongs to 一、概述
+annualReport_chn_77918496	break before #11 closes #9	2	OK	三、/四、 one-sentence items follow the absent-director table; not about 二、未出席董事情况
+annualReport_chn_b20666fd	break before #131 closes #129	12	OK	closing sentence 核心竞争力未发生重大变化 is about all competences, not 4. 质量管理优势
+annualReport_chn_baa53c78	break before #36 closes #33	4	OK	利润分配预案 paragraph after the last risk item; belongs to 第一节
+annualReport_chn_f0e6067b	break before #32 closes #26	4	OK	利润分配预案 paragraph at top of p4 after risk 3's measures; belongs to 第一节
+annualReport_eng_0c770734	break before #56 closes #54	5	OK	trademark notice below the INDEX list is about the whole 10-K
+annualReport_eng_5a2b9698	break before #21 closes #19	2	OK	full-page cover image of the attached Annual Financial Report follows the DRP line; not about DRP
+annualReport_eng_5a2b9698	break before #37 closes #35	3	OK	read-in-conjunction note below the CONTENTS list is about the report
+annualReport_eng_778bc822	break before #20 closes #18	2	OK	600 GROUP / TYKMA / CMS logos under the Vision block show the group (Who We Are), not Vision
+annualReport_eng_778bc822	break before #25 closes #10	3	OK	p3 company-information list (secretary, registrar, auditor...) and board photo; not about Who We Are
+annualReport_eng_778bc822	break before #50 closes #41	5	FIXED	p4 is a restated title page (repeat of L1) and p5 an untitled contents list; neither is about We Stand For / Quality; break moved from #50 to #48 so the title page is outside the section
+annualReport_eng_9b6e4f33	break before #40 closes #38	3	OK	definition of we/Bloom below the contents list is about the whole 10-K
+annualReport_eng_a7bf8c0c	break before #135 closes #133	8	OK	definition of Air Group/we below the TOC is about the whole 10-K; CAUTIONARY NOTE heading follows
+annualReport_eng_ea53b553	break before #147 closes #144	9	OK	closing paragraph about both non-clinical studies (300 and 301), not only 301
+book_chn_0875d4ae	break before #267 closes #257	15	OK	run-in item 2. 混牙𬌗特征 follows the 4~6岁 label's list and paragraph; outer-list sibling, not about 4~6岁
+book_chn_38c7e1dc	break before #117 closes #112	6	OK	【指导案例】 guiding case follows the 诉讼地位 list 1.-3.; it is about 法人人格否认 overall
+book_chn_69dd792e	break before #371 closes #365	25	OK	run-in 3. 腭大神经血管束 follows (2)舌下神经 on p25; 3.-5. are siblings of 2., not part of it
+book_chn_69dd792e	break before #385 closes #378	26	OK	run-in 7. 唇动脉与Abbe瓣 follows 6. 舌动脉's (1)/(2); 7.-9. are siblings
+book_chn_a0187360	break before #9 closes #7	1	OK	author biography box below the 目录 list (then 重要说明 note p2); not contents
+book_chn_dd57800f	break before #101 closes #99	7	OK	[萌主点拨] box holds only the 征收 VS 征用 table; the inheritance diagram, [图释] and (1)/(2) cases follow it
+book_chn_f0c264a5	break before #6 closes #3	1	OK	dashed 提要 frame ends; the chapter's untitled intro text follows outside the frame
+book_eng_04edb0ff	break before #114 closes #109	9	OK	shaded Practical Recommendations bullet box ends; main column on buying vs producing hay resumes
+book_eng_0f8b3268	break before #119 closes #107	11	OK	'If a team or player violates any of the rules' + women's rules paragraph at top of p11 close the rules section, not the should-not list
+book_eng_21695dfc	break before #18 closes #16	3	OK	framed 1956 sidebar ends; pull quote and section 2 main text resume
+book_eng_3ef07034	break before #106 closes #103	7	OK	framed Nutrition Facts band + For more recipes line at page bottom; about the recipe, not Recipe Notes
+book_eng_3ef07034	break before #134 closes #131	8	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #156 closes #152	9	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #187 closes #185	10	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #211 closes #204	11	OK	Nutrition Facts band at page bottom after Directions; about the recipe
+book_eng_3ef07034	break before #240 closes #237	12	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #265 closes #263	14	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #304 closes #301	15	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #329 closes #326	16	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #360 closes #357	17	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #391 closes #389	18	OK	Nutrition Facts band at page bottom after Recipe Notes; about the recipe
+book_eng_3ef07034	break before #426 closes #416	19	OK	Nutrition Facts band at page bottom after Directions; about the recipe
+book_eng_4ba599d0	break before #15 closes #10	5	OK	title page (JIM BUTCHER, SIDE JOBS repeat, ROC imprint) follows the Also-by lists
+book_eng_600ba37c	break before #7 closes #3	1	OK	grey Before Reading box ends; illustration and story text follow
+book_eng_600ba37c	break before #34 closes #30	3	OK	grey Before Reading box ends; illustration and story text follow
+book_eng_600ba37c	break before #114 closes #110	8	OK	grey Before Reading box ends; illustration and story text follow
+book_eng_600ba37c	break before #172 closes #168	12	OK	grey Before Reading box ends; story text follows
+book_eng_77552588	break before #125 closes #120	6	OK	KEY POINTS side box ends; p6 main column (healthy-organizations bullets, staff paragraph) resumes
+book_eng_77552588	break before #165 closes #161	8	OK	KEY POINT side box ends; p8 consent text resumes
+book_eng_77552588	break before #203 closes #197	10	OK	KEY POINTS box (read before the main column) ends; in-service training list and planning text resume
+book_eng_9d008b33	break before #10 closes #6	3	OK	untitled copyright page follows the By the same author list
+book_eng_9d008b33	break before #22 closes #20	6	OK	untitled novel text starts after the Contents list
+book_eng_9e4de927	break before #15 closes #12	6	OK	untitled epigraph page follows the Table of Contents
+book_eng_a59ff1e5	break before #77 closes #69	5	OK	unboxed head 'Locating House on Property' sits inside #77; its content must not stay under Identifying Property Lines
+book_eng_a59ff1e5	break before #122 closes #111	9	OK	lead-in 'Before proceeding to Step 2, review the following list' belongs to Step 1, not Transferring Measurements
+book_eng_a59ff1e5	break before #166 closes #150	10	OK	lead-in 'Review the checklist below before proceeding to Step 3' belongs to Step 2, not Views
+book_eng_a59ff1e5	break before #261 closes #249	18	OK	unboxed head 'Pulling it all together'; its paragraphs are not about Accenting the main entrance
+book_eng_a59ff1e5	break before #277 closes #264	19	OK	unboxed head 'Plant Palette' (folded into #276); its paragraph is not about the selection criteria list
+book_eng_b5a23ac1	break before #134 closes #110	12	OK	closing paragraph 'I hope you see that these guidelines are for YOUR benefit' after item (14)
+book_eng_c5211a9e	break before #24 closes #22	3	OK	closing paragraph 'Keeping in line with these principles' after principle 4. Variation
+book_eng_dc66edfa	break before #104 closes #95	11	OK	run-in 'Ring Topology' paragraph follows the own-line Bus Topology: block
+book_eng_e343e570	break before #258 closes #252	17	OK	'Design Solutions:' printed inside bullet #257; the three solution bullets after it are not about GOAL
+book_eng_f2e8d789	break before #68 closes #63	8	OK	objectives box ends; drop-cap opening narrative of Chapter 1 starts
+book_eng_f2e8d789	break before #192 closes #180	17	OK	closing paragraph 'These definitions describe our intentions ... 3 Pillars' after the Habit definitions
+examPaper_eng_0b2fd078	break before #36 closes #28	2	OK	run-in part b (star-quake, angular momentum) follows the 2nd method of part a
+examPaper_eng_2122d135	break before #34 closes #27	3	OK	Fig. 11 graph after the marks list is the example cited in the Solution text, not marking scheme
+examPaper_eng_6c2631df	break before #22 closes #20	2	OK	run-in 'Case 2.' continues the solution after the case-1 numerical solution
+examPaper_eng_6c2631df	break before #36 closes #1	3	OK	run-in 'Problem 2.' statement follows problem 1's numerical results; next Solution: heading follows
+financialReport_chn_07ebf5d6	break before #107 closes #87	8	OK	firm name, seal, signing CPAs, date sign the whole audit report
+financialReport_chn_486c6f77	break before #82 closes #65	6	OK	seal, firm, signing CPAs sign the whole audit report
+financialReport_chn_4b6d76a1	break before #98 closes #83	7	OK	firm, signing CPAs, date sign the whole audit report
+financialReport_chn_58dd29fc	break before #14 closes #8	3	OK	restated 审计报告 (repeat), report number and addressee follow the contents list
+financialReport_chn_58dd29fc	break before #89 closes #74	8	OK	（以下无正文） and the p9 signature page sign the whole audit report
+financialReport_chn_87bc5908	break before #16 closes #9	3	OK	restated 审计报告 (repeat), report number and addressee follow the contents list
+financialReport_chn_87bc5908	break before #127 closes #103	10	OK	p10 签字盖章页 (firm, seals, CPAs, date) signs the whole audit report
+financialReport_chn_ad31878f	break before #11 closes #5	3	OK	restated 审计报告 (repeat), report number and addressee follow the contents list
+financialReport_chn_d1c80a8f	break before #9 closes #5	3	OK	untitled contents list on p3 follows the 我們的宗旨 slogan and mission statement
+financialReport_chn_d65056e3	break before #17 closes #10	3	OK	restated 审计报告 (repeat), report number and addressee follow the contents list
+financialReport_chn_d65056e3	break before #90 closes #72	7	OK	seal, firm, signing CPAs, date sign the whole audit report
+financialReport_chn_dd929555	break before #112 closes #93	7	OK	firm, seal, signing CPAs sign the whole audit report
+goverment_eng_10e7766e	break before #93 closes #77	6	OK	Dale Carnegie quote box at top of p6 is filler, not about the LISTEN UP story
+goverment_eng_1e210e8c	break before #52 closes #46	5	OK	sender name BRIDGEWATER signs the whole cable
+goverment_eng_553a7f3f	break before #32 closes #23	5	OK	general FY 2009 request paragraphs on p5 follow the highlight bullets; about the account
+goverment_eng_c8c79eab	break before #21 closes #16	3	OK	paragraph 19 table of mayors in all cities follows paragraph 18; not about Oujda
+goverment_eng_c8c79eab	break before #32 closes #28	5	OK	classified-website pointer and signature Jackson close the cable
+goverment_eng_d44e80eb	break before #15 closes #10	3	OK	family-members sentence, NOTE and availability lines are Preface text after the quoted Article 31
+goverment_eng_d4c4a9f2	break before #25 closes #21	3	OK	paragraph 11 POC and scanned-documents list is about the cable, not the joint statement
+goverment_eng_d4c4a9f2	break before #31 closes #26	3	OK	signature JOHN closes the cable
+handwritten_chn_048c9a89	break before #4 closes #2	1	OK	red teaching-goals box (right column) is about the lesson, not 一：由来
+handwritten_chn_1ae487be	break before #188 closes #148	4	OK	items 20-22 (left col after 第9天, right col) use conversion diagrams 图1/图2, not principles/uses
+handwritten_chn_71864fb7	break before #79 closes #65	5	OK	p5 photo is a fragment of another proof (sigma_2r of cos), not 组合反演公式
+handwritten_chn_9ad83bc1	break before #15 closes #10	2	OK	closing paragraph 少年可期 is about the whole essay; 爱好无奈放弃 ends with its own 成长的代价 paragraph
+handwritten_chn_a6f48a98	break before #24 closes #21	2	OK	run-in (2)货币含义 and the money section follow the 4 exchange stages
+handwritten_chn_a6f48a98	break before #67 closes #44	5	OK	外汇/汇率 lines on p5 are not about 纸币
+handwritten_chn_a6f48a98	break before #127 closes #75	9	OK	income/consumption lines on the last sheet are not about 价格
+handwritten_chn_eac2d8c2	break before #49 closes #44	3	OK	ΔG=ΔH-TΔS equations at top of p3 resume 3.4 after the 判据 block
+handwritten_chn_edc60213	break before #21 closes #11	2	OK	top line of the next photo (违背了互异性) belongs to another notebook page
+handwritten_chn_edc60213	break before #34 closes #30	3	OK	subset-count and empty-set facts at top of p3 are not about 等价转化思想
+magazine_chn_3b0b9920	break before #46 closes #45	4	OK	restated BOSOM/FRIEND masthead, colophon and contents column on p4 follow the poem page
+magazine_chn_3b0b9920	break before #58 closes #56	5	OK	QR house ads and 本刊稿件授权声明 colophon follow the contents list
+magazine_chn_5997ac40	break before #40 closes #39	4	OK	restated masthead, colophon and contents column on p4 follow the poem page
+magazine_chn_5997ac40	break before #52 closes #50	5	OK	QR house ads and 本刊稿件授权声明 colophon follow the contents list
+magazine_chn_5b74dff1	break before #21 closes #17	3	OK	写作课 promo, subscription QR codes, 新媒体矩阵 follow the contents list
+magazine_chn_5b74dff1	break before #126 closes #49	7	OK	QR pointer 扫我，看更多劲爆故事 after the editor credit
+magazine_chn_6d102faf	break before #23 closes #8	4	OK	QR pointer to the magazine account follows the film write-up
+magazine_chn_90f6827e	break before #37 closes #36	4	OK	restated masthead, colophon and contents column on p4 follow the poem page
+magazine_chn_90f6827e	break before #49 closes #47	5	OK	QR house ads and 本刊稿件授权声明 colophon follow the contents list
+magazine_chn_b3948362	break before #20 closes #16	3	OK	写作课 promo, subscription QR codes, 新媒体矩阵 follow the contents list
+magazine_chn_c1e72d14	break before #22 closes #18	3	OK	写作课 promo, subscription QR codes, 新媒体矩阵 follow the contents list
+magazine_chn_c1e72d14	break before #129 closes #53	7	OK	QR pointer 扫我，看更多劲爆故事 after the editor credit
+magazine_chn_d7b9b688	break before #20 closes #16	3	OK	写作课 promo, subscription QR codes, 新媒体矩阵 follow the contents list
+magazine_chn_d7b9b688	break before #118 closes #48	7	OK	QR pointer 扫我，看更多劲爆故事 after the editor credit
+magazine_chn_f13451d6	break before #71 closes #57	5	OK	restated 故事会 masthead (repeat) and colophon column follow the contents list
+magazine_eng_22066f34	break before #114 closes #103	6	OK	retailer ad pages (HI-ENERGY, HOWES MODELS) follow the editor's welcome
+magazine_eng_2b291ce7	break before #16 closes #14	3	OK	cover photo credit and copyright line below the contents
+magazine_eng_2b291ce7	break before #46 closes #24	4	OK	cover thumbnail, WRITE TO US box, price list and Chinese colophon follow the editorial (the masthead credits above the editorial stay inside it, reading order)
+magazine_eng_2b291ce7	break before #107 closes #105	7	OK	photo item A Flourishing Industry has only its caption; College Graduates text resumes after it (goes to SOCIETY)
+magazine_eng_2b291ce7	break before #154 closes #142	9	OK	p9 top text continues the carbon-market item, not the NUMBERS data box
+magazine_eng_2b291ce7	break before #175 closes #169	9	OK	FDI chart continued from NUMBERS follows Rural Banks
+magazine_eng_2b291ce7	break before #246 closes #240	13	OK	POINTS quote band (other people's quotes) follows the CAS member item
+magazine_eng_3926a81f	break before #74 closes #64	5	OK	newsletter QR sign-up and FOLLOW US box follow the editor's welcome
+magazine_eng_5047188e	break before #10 closes #8	6	OK	cover credit box (MEGHAN, Duchess of Sussex; photo/styling/dress credits) follows the editor's note
+magazine_eng_571b7df5	break before #49 closes #36	3	OK	restated TRAIL MAGAZINE guide title and staff credits follow the tester bios
+magazine_eng_571b7df5	break before #77 closes #73	4	OK	IN PARTNERSHIP WITH berghaus sponsor line follows point 5 FEATURES; about the guide
+magazine_eng_5dea3d09	break before #48 closes #25	4	OK	full-page CrystalCable ad follows the editorial page
+magazine_eng_5dea3d09	break before #65 closes #51	5	OK	main contents list follows the PRODUCTS ON THE COVER list
+magazine_eng_757ea556	break before #11 closes #7	3	OK	restated FUSION masthead, colophon and editor's letter on p3 follow the contents page
+magazine_eng_7d53ba06	break before #25 closes #23	3	OK	ON DECK FOR JANUARY/FEBRUARY teaser follows the ON THE COVER box
+magazine_eng_7d53ba06	break before #27 closes #16	4	OK	restated Baseball America masthead and colophon on p4 follow the Leading Off contents page

@@ -1,0 +1,78 @@
+{
+ "doc": "goverment_eng_d44e80eb",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Diplomatic List",
+   "why": "title: cover title of the publication; no owner printed as part of the title (publisher line is a series line)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Preface",
+   "why": "front matter title (Preface): top body section"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Article 29",
+   "why": "round 5: restored, a break now closes the article labels before the Preface's own paragraphs (#15-19); own-line label over the quoted convention provision #9, one level below Preface"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Article 31",
+   "why": "round 5: restored, a break now closes it before #15 (family members paragraph of the Preface); own-line label over the quoted provision #11-14"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "National Holidays",
+   "why": "front section title (National Holidays) over its table"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "edition/date line on cover: text"
+  },
+  {
+   "box": 3,
+   "why": "publication number + office: series line, text"
+  },
+  {
+   "box": 4,
+   "why": "revision date: text"
+  },
+  {
+   "box": 16,
+   "why": "NOTE: callout paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "round 5: the Preface's own text (family members, NOTE, availability) follows the quoted Article 31; not about the article"
+  }
+ ]
+}

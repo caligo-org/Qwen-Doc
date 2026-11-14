@@ -1,0 +1,77 @@
+{
+ "doc": "textBook_eng_a5d8350e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Measure, Integration & Real Analysis",
+   "why": "title: book title on the cover"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "About the Author",
+   "why": "front matter: About the Author"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 1,
+   "why": "repeat: running foot naming the book"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "author name on the cover: byline, text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 16,
+   "why": "the note 'Cover figure: Hölder's Inequality...' at the foot of the About the Author page describes the cover, not the author"
+  }
+ ]
+}

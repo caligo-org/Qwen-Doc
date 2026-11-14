@@ -1,0 +1,33 @@
+{
+ "doc": "annualReport_eng_70d0bf2b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "The NEW IRELAND Fund Annual Report October 31, 2022",
+   "why": "title union: owner (fund name) + document type (Annual Report October 31, 2022)"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Letter to Shareholders",
+   "why": "top section: letter title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "letter salutation"
+  }
+ ]
+}

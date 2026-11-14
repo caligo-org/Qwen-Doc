@@ -1,0 +1,77 @@
+{
+ "doc": "nationalStandard_chn_2cbf14a0",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "锻压机械 安全技术规范 Metalforming machinery—Safety technical specification",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "目次",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "引言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    55
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

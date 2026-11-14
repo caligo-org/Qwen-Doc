@@ -1,0 +1,27 @@
+{
+ "doc": "examPaper_chn_0fced805",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "2013年江苏省高考地理试卷",
+   "why": "title: exam title"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、单项选择题：本大题共12小题，每小题0分，共计36分．在每小题给出的四个选项中，只有一项是符合题目要求的.",
+   "why": "question group, no parts printed"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

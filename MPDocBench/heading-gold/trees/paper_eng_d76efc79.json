@@ -1,0 +1,273 @@
+{
+ "doc": "paper_eng_d76efc79",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Introduction",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Related Works",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 3,
+   "parent": 33,
+   "text": "Learning-based PDE Solvers",
+   "why": "subsection: bold left subsection head"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 33,
+   "text": "Deep Learning for FSI",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 33,
+   "text": "Heterogeneous Graph Neural Networks",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Preliminaries",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "Governing Equations of FSI",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "Graph Attention as a Neural Operator",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "Heterogeneous Graphs as a Physical Inductive Bias",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Method",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "Heterogeneous Graph Processor",
+   "why": "subsection under Method (reading order; gold parented it to Preliminaries)"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "PCGM: Physics-Conditioned Gating Mechanism",
+   "why": "subsection under Method"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "IGBL: Inter-domain Gradient-Balancing Loss",
+   "why": "subsection under Method"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Experiments",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Dataset",
+   "why": "subsection: same look"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Baselines",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Evaluation metrics",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Implementation Details",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Main Results",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Few-Shot Generalization Analysis",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Qualitative Error Visualization",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "level": 3,
+   "parent": 131,
+   "text": "Ablation study",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Conclusion",
+   "why": "section: centered top section"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Acknowledgments",
+   "why": "back matter: acknowledgments at top-section level"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "References",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 149,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 166,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 167,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 175,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 134,
+   "why": "bold run-in dataset name starting a paragraph: text"
+  }
+ ]
+}

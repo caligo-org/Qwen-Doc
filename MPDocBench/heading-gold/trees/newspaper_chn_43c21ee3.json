@@ -1,0 +1,226 @@
+{
+ "doc": "newspaper_chn_43c21ee3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "經濟日報",
+   "why": "masthead (periodical title)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "『双十一』消费转向多点驱动",
+   "why": "story: vertical headline on front page (no banner); 引题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "市场亮点纷呈",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "AI技术持续赋能",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 4,
+   "parent": 6,
+   "text": "创造更多增量价值",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "10月份我国新能源汽车销售171.5万辆",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "习近平致电祝贺康诺利就任爱尔兰总统",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "发挥重点区域增长极作用",
+   "why": "story headline (column rubric above is text) | starts: the column rubric 经济论坛 #41 and byline #42 of this commentary come before the headline in reading order"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "跨省跨区电力应急调度机制更完善",
+   "why": "story headline (引题 above is a deck) | starts: the kicker #56 above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "河北唐山做优特色产业集群",
+   "why": "story headline; 副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "why": "section: page tag 要闻 on p2"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "丁薛祥会见挪威外交大臣艾德",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "学习贯彻党的二十届四中全会精神 中央宣讲团报告会在住房城乡建设系统举行",
+   "why": "story headline printed over two lines in the same big type | starts: the kicker #87 above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "乡镇工业也能锚定高水平",
+   "why": "story headline (red 专栏 label above is text) | starts: the column kicker #96 and byline #97 come before the headline in reading order"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "长期护理险守护老有所养",
+   "why": "story headline; column label 金视角 in the same box is a rubric"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "2025年度中央安全生产考核巡查正式启动",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "工信部加快制造业中试平台体系化布局",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "湾区品牌为啥这么火",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "打好黄河“几字弯”攻坚战",
+   "why": "story headline"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    80
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 41,
+   "why": "column rubric 经济论坛 (rubric above a headline)"
+  },
+  {
+   "box": 53,
+   "why": "导读 index box (teasers with page pointers)"
+  },
+  {
+   "box": 56,
+   "why": "引题 ending in —— above the headline: deck"
+  },
+  {
+   "box": 87,
+   "why": "red 专栏 rubric above a headline"
+  },
+  {
+   "box": 96,
+   "why": "red 专栏 rubric above a headline"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "masthead English name ECONOMIC DAILY"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 51,
+   "closes": 43,
+   "why": "round 5: the commentary ends; a stand-alone news photo with its caption (aviation, Chongqing) follows"
+  },
+  {
+   "before": 108,
+   "closes": 98,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (photovoltaic, Xinjiang) follows"
+  }
+ ]
+}

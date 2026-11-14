@@ -1,0 +1,123 @@
+{
+ "doc": "researchReport_chn_e960c7b3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "国元证券 输入性通缩的有限发酵：3月物价数据印象",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (国元证券) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "报告要点：",
+   "why": "section: cover summary title"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "投资评级说明：",
+   "why": "back matter: rating explanation"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "分析师声明",
+   "why": "back matter: analyst statement"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "证券投资咨询业务的说明",
+   "why": "back matter: licence statement"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "一般性声明",
+   "why": "back matter: general statement"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "免责条款",
+   "why": "back matter: disclaimer clause"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 23,
+   "why": "sidebar data-table label: text"
+  },
+  {
+   "box": 25,
+   "why": "sidebar chart label: text"
+  },
+  {
+   "box": 28,
+   "why": "related-reports label: text per category note"
+  },
+  {
+   "box": 31,
+   "why": "analyst box label: text per category note"
+  },
+  {
+   "box": 48,
+   "why": "office address box title: text per category note"
+  }
+ ],
+ "considered": [
+  {
+   "box": 6,
+   "why": "key-point bullet ending in a colon, lead-in to its 1)2) list; same style as whole-paragraph bullets (#16): text"
+  },
+  {
+   "box": 9,
+   "why": "key-point lead-in bullet: text"
+  },
+  {
+   "box": 13,
+   "why": "key-point lead-in bullet: text"
+  },
+  {
+   "box": 18,
+   "why": "key-point lead-in bullet: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 5,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (main data, chart, related reports, authors); not about 报告要点"
+  },
+  {
+   "before": 48,
+   "closes": 46,
+   "why": "round 5: office address box (colophon) after the disclaimer text is not about 免责条款"
+  }
+ ]
+}

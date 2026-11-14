@@ -1,0 +1,219 @@
+{
+ "doc": "financialReport_chn_d65056e3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "新疆立新能源股份有限公司2024年财务报表审计报告书",
+   "why": "title: owner + document type in one cover box"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "目 录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、审计意见",
+   "why": "section: 一、 part of the letter; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "（一）应收账款坏账准备计提",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 32,
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 4,
+   "parent": 32,
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "（二）收入确认",
+   "why": "section: key audit matter; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block; round 3: one level up (restated 审计报告 above it became a repeat of L1)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "四、其他信息",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 sibling; round 3: parent was the restated 审计报告 (now a repeat of L1), so one level up"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "合并资产负债表",
+   "why": "section: statement title; TOC group 二、审计报告附送 not printed in body"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "合并利润表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "合并现金流量表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "合并股东权益变动表",
+   "why": "section: statement title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    125
+   ],
+   "of": 104,
+   "why": "repeat: (续) on the next page, statement still open"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "repeat: 审计报告 restated above the auditor letter is a restatement of the L1 (owner ∪ 审计报告), not a child of it (NOTATIONS \"Every path is a breadcrumb\", round 3; was an L2 section). The letter sections become children of L1."
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "audit firm on cover, text"
+  },
+  {
+   "box": 18,
+   "why": "report number, text"
+  },
+  {
+   "box": 19,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 124,
+   "why": "（承上页） marker, text"
+  },
+  {
+   "box": 75,
+   "why": "（1） list item in paragraph flow, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 17,
+   "closes": 10,
+   "why": "Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents"
+  },
+  {
+   "before": 90,
+   "closes": 72,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
+ ]
+}

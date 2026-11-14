@@ -1,0 +1,33 @@
+doc	kind	box	closes	page	note
+goverment_chn_48775ee4	NONE			1-9	all 9 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_536e78f8	NONE			1-6	all 6 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_5a4ffbca	NONE			1-5	all 5 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_5c0ece82	NONE			1-7	all 7 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_7d7e94e2	NONE			1-3	all 3 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_95b11589	NONE			1-5	all 5 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_a3a80cf5	NONE			1-16	all 16 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_a5af0855	NONE			1-8	all 8 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_abd934b8	NONE			1-6	all 6 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_c5e69969	NONE			1-8	all 8 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_c7a379a2	NONE			1-4	all 4 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_chn_dec4c579	NONE			1-6	all 6 pages viewed with --tree; regulation: title, 第N章/第N节 and articles only, every article is about its chapter, last article ends the document; no untitled foreign content, no containment entries
+goverment_eng_04fdb344	NONE			1-2	both pages viewed with --tree; only the SUBJECT L1, nothing to close; signature CLAPP is inside paragraph box #27
+goverment_eng_10e7766e	BREAK	93	77	6	Dale Carnegie quote box opens p6 after the LISTEN UP story ends; filler quote, not about the story
+goverment_eng_10e7766e	NONE	24		2	RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); (all 6 pages viewed with --tree) p2 Churchill quote box #24-26 sits mid-story in Digital dirt (story resumes at #27); a break would also move the story tail #27-29 out of its section, NOTATIONS has no rule for a box that interrupts a story
+goverment_eng_186128cd	NONE			1-2	both pages viewed with --tree; key elements list and #16 benefits paragraph sit under L1 before the first L2; L2 blocks run to the end
+goverment_eng_1e210e8c	BREAK	52	46	5	signature BRIDGEWATER signs the whole cable, not the last section
+goverment_eng_1fb9cb74	NONE			1-2	both pages viewed with --tree; no nodes (two untitled notes), nothing to close
+goverment_eng_446784ca	NONE			1-7	all 7 pages viewed with --tree; each country block holds only its post entries and tables; cover note under L1
+goverment_eng_553a7f3f	RESTORED	23		4	Highlights: L2 under Child Survival and Health Programs Fund (was text for containment)
+goverment_eng_553a7f3f	BREAK	32	23	5	account paragraphs #32-35 follow the highlight bullets; about the account, not the highlights
+goverment_eng_5a7b6d51	NONE			1-3	all 3 pages viewed with --tree; signature BOYCE is inside paragraph box #21, no own box
+goverment_eng_a323eb0a	NONE			1-7	all 7 pages viewed with --tree; one L1 on p6, closing formula/date/stamp belong to that note
+goverment_eng_aa75e353	NONE			1-4	all 4 pages viewed with --tree; only the SUBJECT L1, nothing to close; signature RICE inside #56
+goverment_eng_b95bd887	NONE			1-4	all 4 pages viewed with --tree; only L1 (cover) with repeats on the title page; colophon on p2 under L1, closing L1 would orphan the p3 repeat
+goverment_eng_c8c79eab	BREAK	21	16	3	paragraph 9 table of mayors in all major cities follows the Oujda section; about the selections overall
+goverment_eng_c8c79eab	BREAK	32	28	5	classified-website pointer + signature Jackson after the comment belong to the whole cable
+goverment_eng_d44e80eb	RESTORED	8		3	Article 29 L3 under Preface (was text for containment)
+goverment_eng_d44e80eb	RESTORED	10		3	Article 31 L3 under Preface (was text for containment)
+goverment_eng_d44e80eb	BREAK	15	10	3	Preface own text (family members, NOTE, availability) follows the quoted Article 31
+goverment_eng_d4c4a9f2	BREAK	25	21	3	paragraph 11 POC + scanned documents list follows the joint statement; about the cable, not the statement
+goverment_eng_d4c4a9f2	BREAK	31	26	3	signature JOHN signs the whole cable, not the comment

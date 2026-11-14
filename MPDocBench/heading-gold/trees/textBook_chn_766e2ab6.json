@@ -1,0 +1,62 @@
+{
+ "doc": "textBook_chn_766e2ab6",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "科学 三年级 下册",
+   "why": "title union: subject + grade/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第一单元 土壤和岩石",
+   "why": "unit label + unit title (one box)"
+  },
+  {
+   "boxes": [
+    18,
+    19
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "1 土壤里有什么",
+   "why": "lesson number badge + lesson title union"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 4,
+   "parent": 18,
+   "text": "探究土壤的成分",
+   "why": "activity title: describes the activity block below; one level below the lesson"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 23,
+   "why": "activity-kind label 科学实践 printed above the activity title: label, text (the title below is the heading)"
+  }
+ ],
+ "considered": []
+}

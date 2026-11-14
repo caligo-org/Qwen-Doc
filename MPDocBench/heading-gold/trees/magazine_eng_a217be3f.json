@@ -1,0 +1,192 @@
+{
+ "doc": "magazine_eng_a217be3f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "GARDENS ILLUSTRATED",
+   "why": "title: periodical masthead GARDENS ILLUSTRATED"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Welcome",
+   "why": "front matter: editor's letter Welcome, its letter below"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Contents",
+   "why": "contents title (DECEMBER 2025 in the box is text)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "COVER IMAGE",
+   "why": "info box with own title in the contents sidebar (cover image credit)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "ON THE COVER",
+   "why": "info box with own title in the contents sidebar (cover topics)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "EVENTS AND OFFERS",
+   "why": "info box with own title in the contents sidebar (events and offers list)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "Our packaging",
+   "why": "info box with own title in the contents sidebar (packaging note)"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Contributors",
+   "why": "front matter: Contributors page"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Matt Collins",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block) starts: #63 (the contributor portrait and its credit #64 printed above the name)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Fiona Pickles",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block) starts: #67 (the contributor portrait printed above the name)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "Andrea Jones",
+   "why": "contributor name heading her/his own bio paragraph (own-line label with its own block) starts: #70 (the contributor portrait and its credit #71 printed above the name)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "CONTRIBUTING EDITORS",
+   "why": "box with own title (CONTRIBUTING EDITORS) on the contributors page, one level below Contributors"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Charlotte Harris",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Fergus Garrett",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "James Basson",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Anna Pavord",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Dan Pearson",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "Sarah Price",
+   "why": "contributing editor name heading her/his own bio paragraph"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 37,
+   "why": "house-ad teaser (subscription) in the contents sidebar"
+  },
+  {
+   "box": 53,
+   "why": "advertisement (garden design college)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 22,
+   "closes": 10,
+   "why": "editor's welcome ends (sign-off); book promo with QR and social-media box follow"
+  },
+  {
+   "before": 52,
+   "closes": 31,
+   "why": "contents sidebar ends (Our packaging); a full-page ad follows before Contributors"
+  }
+ ]
+}

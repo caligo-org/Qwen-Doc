@@ -1,0 +1,197 @@
+{
+ "doc": "manualGuide_eng_e665d244",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    9
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Einbauanleitung / Installation Instructions Kit CSF48 Endress+Hauser",
+   "why": "title union: document type + product + owner logo footer box #9 (Endress+Hauser; the slogan in the same box is not part of the heading). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Einbauanleitung / Installation Instructions Kit CSF48)."
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "1 Identifizierung",
+   "why": "chapter: numbered 1 (German part)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "1.1 Lieferumfang",
+   "why": "section: 1.1"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "1.2 Werkzeugliste",
+   "why": "section: 1.2"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "2 Montage",
+   "why": "chapter: numbered 2"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "3 Identification",
+   "why": "chapter: numbered 3 (English part restarts the content; chapters in reading order)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 88,
+   "text": "3.1 Scope of delivery",
+   "why": "section: 3.1"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 3,
+   "parent": 88,
+   "text": "3.2 Tool list",
+   "why": "section: 3.2"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    12
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the product/document"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 30,
+   "why": "repeat: running section tag Montage while the chapter is open"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "of": 30,
+   "why": "repeat: running section tag Montage while the chapter is open"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "of": 30,
+   "why": "repeat: running section tag Montage while the chapter is open"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 31,
+   "why": "callout: signal word GEFAHR of a safety message"
+  },
+  {
+   "box": 32,
+   "why": "callout: hazard name inside the safety message"
+  },
+  {
+   "box": 36,
+   "why": "callout: signal word WARNUNG"
+  },
+  {
+   "box": 37,
+   "why": "callout: hazard name inside the safety message"
+  },
+  {
+   "box": 40,
+   "why": "callout: signal word VORSICHT"
+  },
+  {
+   "box": 41,
+   "why": "callout: hazard name inside the safety message"
+  },
+  {
+   "box": 45,
+   "why": "callout: signal word HINWEIS"
+  },
+  {
+   "box": 47,
+   "why": "callout: hazard name inside the notice"
+  }
+ ],
+ "considered": [
+  {
+   "box": 11,
+   "why": "running section tag printed above the chapter heading on its first page (precedes it): text"
+  },
+  {
+   "box": 29,
+   "why": "running section tag before the chapter heading in reading order: text"
+  },
+  {
+   "box": 87,
+   "why": "running section tag before the chapter heading in reading order: text"
+  },
+  {
+   "box": 15,
+   "why": "list lead-in: text"
+  }
+ ]
+}

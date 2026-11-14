@@ -1,0 +1,282 @@
+{
+ "doc": "pptSlides_chn_746216ac",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "甲子光年 2022中国科技产业投资机构调研报告",
+   "why": "title: report title (publisher printed only as 出品机构 credit line) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (甲子光年) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    9,
+    10
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录 CONTENTS",
+   "why": "contents title union: 目录 + its English CONTENTS"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Part 01 科技产业投资现状",
+   "why": "section divider: contents slide highlights Part 01, the part all following slides belong to"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.1 市场环境PEST",
+   "why": "numbered slide title 1.1 under Part 01"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 4,
+   "parent": 15,
+   "text": "科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂”",
+   "why": "slide headline: key message heading the slide body"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 5,
+   "parent": 17,
+   "text": "政策",
+   "why": "PEST quadrant label naming its box"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 5,
+   "parent": 17,
+   "text": "社会",
+   "why": "PEST quadrant label naming its box (printed under the box) starts: #20 (PEST label 社会 printed under its box: its text #20 came before it and sat under 政策)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 5,
+   "parent": 17,
+   "text": "经济",
+   "why": "PEST quadrant label naming its box"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 5,
+   "parent": 17,
+   "text": "技术",
+   "why": "PEST quadrant label naming its box (printed under the box) starts: #24 (PEST label 技术 printed under its box: its text #24 came before it and sat under 经济)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.2 投资格局分析",
+   "why": "numbered slide title 1.2"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 4,
+   "parent": 30,
+   "text": "科技产业已是投资机构“必选项”，科技产业融资项目月均达160个",
+   "why": "slide headline: key message heading the slide body"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 4,
+   "parent": 30,
+   "text": "科技投资数字产业化、产业数字化两手抓，智能制造依旧深受喜爱",
+   "why": "slide headline of the second 1.2 slide"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.3科技产业生态体系：传统产业投资布局方式",
+   "why": "numbered slide title 1.3 (traditional)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 54,
+   "text": "基于初级数字经济体系的传统科技产业布局已然无法满足新时代经济新动能需求",
+   "why": "slide headline"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.3科技产业生态体系：新型生态体系投资布局方式",
+   "why": "numbered slide title 1.3 (new type): sibling of the other 1.3 slide, different title"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "科技产业投资布局体系的升级至关重要，投资机构应尝试构建Web3.0体系下的新生态",
+   "why": "slide headline"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.4科技投资机构经营情况",
+   "why": "numbered slide title 1.4"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 73,
+   "text": "“差异”显现，国企央企与政府单位类机构与民营机构收入更容易达百亿",
+   "why": "slide headline"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.5 科技投资机构基金类型情况",
+   "why": "numbered slide title 1.5"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 4,
+   "parent": 85,
+   "text": "个人和外企类偏好天使基金和VC基金，政府和民营类涉猎PE基金居多",
+   "why": "slide headline"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "1.6科技投资机构基金募集周期和管理费率",
+   "why": "numbered slide title 1.6"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 4,
+   "parent": 97,
+   "text": "超七成机构偏好9个月内完成融资，管理费率多集中在2%-3%",
+   "why": "slide headline"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    42
+   ],
+   "of": 30,
+   "why": "same slide title on the next slide, nothing in between"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 26,
+   "why": "diagram centre label (callout), no block of its own"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover deck/subtitle"
+  },
+  {
+   "box": 4,
+   "why": "cover credit line (publisher)"
+  },
+  {
+   "box": 35,
+   "why": "figure caption"
+  },
+  {
+   "box": 37,
+   "why": "figure caption"
+  },
+  {
+   "box": 47,
+   "why": "figure caption"
+  },
+  {
+   "box": 49,
+   "why": "figure caption"
+  },
+  {
+   "box": 59,
+   "why": "figure caption"
+  },
+  {
+   "box": 68,
+   "why": "figure caption"
+  },
+  {
+   "box": 78,
+   "why": "figure caption"
+  },
+  {
+   "box": 80,
+   "why": "figure caption"
+  },
+  {
+   "box": 92,
+   "why": "figure caption"
+  },
+  {
+   "box": 102,
+   "why": "figure caption"
+  },
+  {
+   "box": 104,
+   "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 25,
+   "why": "PEST quadrant 技术 ends; the diagram centre slogan is about the whole PEST headline #17, not 技术"
+  }
+ ]
+}

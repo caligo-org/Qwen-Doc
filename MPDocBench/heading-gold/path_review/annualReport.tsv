@@ -1,0 +1,840 @@
+doc	node	page	path	verdict	note
+annualReport_chn_00114ac3	4	1	金科地产集团股份有限公司 2019年年度报告	OK	cover: company name + 2019年年度报告 in one box
+annualReport_chn_00114ac3	8	2	金科地产集团股份有限公司 2019年年度报告 › 第一节 重要提示、目录和释义	OK	section title on p2, 重要提示 statements below
+annualReport_chn_00114ac3	20	3	金科地产集团股份有限公司 2019年年度报告 › 第一节 重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_00114ac3	25	4	金科地产集团股份有限公司 2019年年度报告 › 第一节 重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_07e73462	5	1	唐山港集团股份有限公司2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_07e73462	10	2	唐山港集团股份有限公司2019年年度报告 › 重要提示	OK	重要提示 title p2, items 一、–十、 below
+annualReport_chn_07e73462	15	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 bold line + distribution paragraphs
+annualReport_chn_07e73462	19	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 line + 适用 + risk statement
+annualReport_chn_07e73462	22	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 question + 否 (user decision keeps)
+annualReport_chn_07e73462	24	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 question + 否 (user decision keeps)
+annualReport_chn_07e73462	26	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 九、 重大风险提示	OK	九、 line + risk paragraph
+annualReport_chn_07e73462	28	2	唐山港集团股份有限公司2019年年度报告 › 重要提示 › 十、其他	OK	十、 其他 + 不适用 (numbered template item)
+annualReport_chn_07e73462	32	3	唐山港集团股份有限公司2019年年度报告 › 目录	OK	目录 page p3, TOC
+annualReport_chn_1695038a	6	1	宁波东方电缆股份有限公司2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_1695038a	12	2	宁波东方电缆股份有限公司2019年年度报告 › 重要提示	OK	重要提示 title p2
+annualReport_chn_1695038a	17	2	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 + distribution paragraphs
+annualReport_chn_1695038a	22	2	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 + 适用 + statement
+annualReport_chn_1695038a	25	2	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 + 否 (user decision keeps)
+annualReport_chn_1695038a	31	3	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 + 否 p3 (user decision keeps)
+annualReport_chn_1695038a	33	3	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 九、 重大风险提示	OK	九、 + risk paragraph
+annualReport_chn_1695038a	35	3	宁波东方电缆股份有限公司2019年年度报告 › 重要提示 › 十、其他	OK	十、 其他 + 不适用
+annualReport_chn_1695038a	41	4	宁波东方电缆股份有限公司2019年年度报告 › 目录	OK	目录 page p4
+annualReport_chn_1695038a	47	5	宁波东方电缆股份有限公司2019年年度报告 › 第一节 释义	OK	第一节 释义 p5; 一、释义 repeat; glossary table
+annualReport_chn_1695038a	51	5	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标	OK	第二节 title p5
+annualReport_chn_1695038a	52	5	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	一、 + company info table
+annualReport_chn_1695038a	54	5	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_1695038a	60	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	三、 + basic info table p6
+annualReport_chn_1695038a	62	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	四、 + disclosure table
+annualReport_chn_1695038a	64	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	五、 + share table
+annualReport_chn_1695038a	66	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	六、 + adviser table
+annualReport_chn_1695038a	68	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 + (一)/(二)/说明 below
+annualReport_chn_1695038a	69	6	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + accounting data table (to p7)
+annualReport_chn_1695038a	77	7	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (二) 主要财务指标	OK	(二) + indicators table
+annualReport_chn_1695038a	79	7	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › 报告期末公司前三年主要会计数据和财务指标的说明	OK	unnumbered label + 4 numbered explanations (learnings rule)
+annualReport_chn_1695038a	89	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 + (一)–(三) p8
+annualReport_chn_1695038a	90	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (一)同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_1695038a	92	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_1695038a	94	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (三)境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_1695038a	96	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	九、 + quarterly table; 差异说明 label text (不适用)
+annualReport_chn_1695038a	101	8	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	十、 + table to p9
+annualReport_chn_1695038a	114	10	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十一、采用公允价值计量的项目	OK	十一、 + 不适用 p10
+annualReport_chn_1695038a	116	10	宁波东方电缆股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十二、 其他	OK	十二、其他 + 不适用
+annualReport_chn_1695038a	118	10	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要	OK	第三节 title p10
+annualReport_chn_1695038a	119	10	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明	OK	一、 + (一)–(三)
+annualReport_chn_1695038a	120	10	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （一）主要业务情况说明	OK	(一) + business paragraph
+annualReport_chn_1695038a	122	10	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （二）公司主要业务经营模式	OK	(二) + model paragraph
+annualReport_chn_1695038a	124	10	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （三）行业情况说明	OK	(三) + industry paragraphs (to p11)
+annualReport_chn_1695038a	135	11	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 二、报告期内公司主要资产发生重大变化情况的说明	OK	二、 + 不适用 p11
+annualReport_chn_1695038a	137	11	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 三、报告期内核心竞争力分析	OK	三、 + 不适用 + lead paragraph + (一)
+annualReport_chn_1695038a	140	11	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 三、报告期内核心竞争力分析 › （一）研发和技术优势	OK	(一) + paragraphs + 1.
+annualReport_chn_1695038a	143	11	宁波东方电缆股份有限公司2019年年度报告 › 第三节 公司业务概要 › 三、报告期内核心竞争力分析 › （一）研发和技术优势 › 1. 国内最高端的海底电缆和海洋脐带缆生产基地	OK	1. bold line + paragraphs (doc ends p11)
+annualReport_chn_16acace3	6	1	云南能源投资股份有限公司2019年年度报告	OK	cover title block name + 2019年年度报告; logo lockup text
+annualReport_chn_16acace3	11	2	云南能源投资股份有限公司2019年年度报告 › 第一节重要提示、目录和释义	OK	第一节 title p2 + 重要提示 paragraphs
+annualReport_chn_16acace3	21	3	云南能源投资股份有限公司2019年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page p3
+annualReport_chn_16acace3	26	4	云南能源投资股份有限公司2019年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page p4, glossary to p5
+annualReport_chn_16acace3	35	6	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标	OK	第二节 title p6
+annualReport_chn_16acace3	36	6	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	一、 + company table
+annualReport_chn_16acace3	38	6	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_16acace3	40	6	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	三、 + disclosure table
+annualReport_chn_16acace3	45	7	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	四、 + registration table p7
+annualReport_chn_16acace3	47	7	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	五、 + auditor/adviser captions + tables
+annualReport_chn_16acace3	55	7	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	六、 + retro question + data table (to p8)
+annualReport_chn_16acace3	65	8	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	七、 + 1、/2、
+annualReport_chn_16acace3	66	8	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 + sentence
+annualReport_chn_16acace3	69	8	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 + sentence
+annualReport_chn_16acace3	72	8	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	八、 + quarterly table
+annualReport_chn_16acace3	80	9	云南能源投资股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	九、 + table + notes p9
+annualReport_chn_16acace3	90	10	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要	OK	第三节 title p10
+annualReport_chn_16acace3	91	10	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	一、 + paragraphs + (一)–(五)
+annualReport_chn_16acace3	96	10	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (一)主要产品及用途	OK	(一) + 1.–3. products
+annualReport_chn_16acace3	100	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (一)主要产品及用途 › 1. 盐业	OK	1. 盐业 + paragraphs p11
+annualReport_chn_16acace3	104	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (一)主要产品及用途 › 2. 天然气	OK	2. 天然气 + paragraph
+annualReport_chn_16acace3	106	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (一)主要产品及用途 › 3. 风电	OK	3. 风电 + paragraph
+annualReport_chn_16acace3	108	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式	OK	(二) + A、/B、/C、 business lines
+annualReport_chn_16acace3	109	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业	OK	A、盐业 + 1、–3、
+annualReport_chn_16acace3	110	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业 › 1、采购模式	OK	1、采购模式 + paragraph
+annualReport_chn_16acace3	112	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业 › 2、生产模式	OK	2、生产模式 + paragraphs
+annualReport_chn_16acace3	115	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业 › 3、销售模式	OK	3、销售模式 + （1）（2）
+annualReport_chn_16acace3	116	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业 › 3、销售模式 › （1）食盐销售模式	OK	（1） + sentence
+annualReport_chn_16acace3	118	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › A、盐业 › 3、销售模式 › （2）其它产品销售模式	OK	（2） + paragraph
+annualReport_chn_16acace3	120	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务	OK	B、天然气业务 + 1、/2、
+annualReport_chn_16acace3	121	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务 › 1、天然气销售	OK	1、天然气销售 + （1）–（3）
+annualReport_chn_16acace3	122	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务 › 1、天然气销售 › （1）采购模式	OK	（1）采购模式 + paragraph
+annualReport_chn_16acace3	124	11	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务 › 1、天然气销售 › （2）储存及配送模式	OK	（2）储存及配送模式 + paragraphs (to p12)
+annualReport_chn_16acace3	132	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务 › 1、天然气销售 › （3）销售模式	OK	（3）销售模式 + paragraph p12
+annualReport_chn_16acace3	134	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › B、天然气业务 › 2、入户安装服务	OK	2、入户安装服务 + paragraphs
+annualReport_chn_16acace3	137	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › C、风电业务	OK	C、风电业务 + 1、/2、
+annualReport_chn_16acace3	138	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › C、风电业务 › 1、生产模式	OK	1、生产模式 + paragraph
+annualReport_chn_16acace3	140	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › (二)主要经营模式 › C、风电业务 › 2、销售模式	OK	2、销售模式 + paragraph
+annualReport_chn_16acace3	142	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （三）主要业绩驱动因素	OK	（三） + paragraph
+annualReport_chn_16acace3	144	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （四）公司所属行业的发展状况	OK	（四） + pointer paragraph
+annualReport_chn_16acace3	146	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （五）公司所属行业周期性特点与所处的行业地位	OK	（五） + 1、/2、
+annualReport_chn_16acace3	147	12	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （五）公司所属行业周期性特点与所处的行业地位 › 1、公司所属行业周期性特点	OK	1、 + paragraphs (to p13)
+annualReport_chn_16acace3	155	13	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （五）公司所属行业周期性特点与所处的行业地位 › 2、公司所处的行业地位	OK	2、 + paragraphs p13
+annualReport_chn_16acace3	159	13	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	二、 + 1、/2、
+annualReport_chn_16acace3	160	13	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + table (to p14)
+annualReport_chn_16acace3	166	14	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + 不适用 p14
+annualReport_chn_16acace3	168	14	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析	OK	三、 + 1、–8、
+annualReport_chn_16acace3	169	14	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 1、“盐+清洁能源”双主业并行发展优势	OK	1、 + paragraphs
+annualReport_chn_16acace3	173	14	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 2、资源优势	OK	2、 + paragraphs (to p15)
+annualReport_chn_16acace3	181	15	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 3、技术优势	OK	3、 + paragraphs p15
+annualReport_chn_16acace3	185	15	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 4、品牌与产品优势	OK	4、 + paragraph
+annualReport_chn_16acace3	187	15	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 5、市场潜力优势	OK	5、 + paragraphs (to p16)
+annualReport_chn_16acace3	195	16	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 6、政府支持优势	OK	6、 + paragraph p16
+annualReport_chn_16acace3	197	16	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 7、风电场建设管理优势	OK	7、 + paragraph
+annualReport_chn_16acace3	199	16	云南能源投资股份有限公司2019年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 8、风电场运营管理优势	OK	8、 + paragraph
+annualReport_chn_16acace3	204	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析	OK	第四节 title p17
+annualReport_chn_16acace3	205	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述	OK	一、概述 + paragraph + （一）–（八）
+annualReport_chn_16acace3	207	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （一）优化产业结构，推动管理提升	OK	（一） + paragraph
+annualReport_chn_16acace3	209	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （二）加强品牌建设，以市场为导向打造核心产品	OK	（二） + paragraph
+annualReport_chn_16acace3	211	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （三）深化营销改革，提升终端管控能力	OK	（三） + paragraph
+annualReport_chn_16acace3	213	17	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （四）加强风电管理，夯实发展后劲	OK	（四） + paragraph (to p18)
+annualReport_chn_16acace3	219	18	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （五）发挥省级平台优势，加快产供储销体系建设	OK	（五） + paragraph p18
+annualReport_chn_16acace3	221	18	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （六）推进信息化系统建设，提升供应链管理水平	OK	（六） + paragraph
+annualReport_chn_16acace3	223	18	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （七）持续深化安健环管理，安全形势总体平稳	OK	（七） + paragraph
+annualReport_chn_16acace3	225	18	云南能源投资股份有限公司2019年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › （八）优化调整组织架构，激发员工活力	OK	（八） + paragraph; closing paragraph #227 under it (user decision 2026-11-13)
+annualReport_chn_170f7a9e	4	1	茂业商业股份有限公司2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_170f7a9e	7	2	茂业商业股份有限公司2019年年度报告 › 重要提示	OK	重要提示 title p2
+annualReport_chn_170f7a9e	12	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 四、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	四、 + distribution paragraphs
+annualReport_chn_170f7a9e	15	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 五、前瞻性陈述的风险声明	OK	五、 + 适用 + statement
+annualReport_chn_170f7a9e	18	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 六、是否存在被控股股东及其关联方非经营性占用资金情况	OK	六、 + 否 (user decision keeps)
+annualReport_chn_170f7a9e	20	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 七、是否存在违反规定决策程序对外提供担保的情况？	OK	七、 + 否 (user decision keeps)
+annualReport_chn_170f7a9e	22	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 八、重大风险提示	OK	八、 + risk paragraph
+annualReport_chn_170f7a9e	24	2	茂业商业股份有限公司2019年年度报告 › 重要提示 › 九、其他	OK	九、其他 + 不适用
+annualReport_chn_170f7a9e	28	3	茂业商业股份有限公司2019年年度报告 › 目录	OK	目录 page p3
+annualReport_chn_170f7a9e	32	4	茂业商业股份有限公司2019年年度报告 › 第一节 释义	OK	第一节 释义 p4; 一、释义 repeat; glossary
+annualReport_chn_170f7a9e	38	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标	OK	第二节 title p5
+annualReport_chn_170f7a9e	39	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	一、 + table
+annualReport_chn_170f7a9e	41	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_170f7a9e	43	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	三、 + table
+annualReport_chn_170f7a9e	45	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	四、 + table
+annualReport_chn_170f7a9e	47	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	五、 + share table
+annualReport_chn_170f7a9e	49	5	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	六、 + adviser table (to p6)
+annualReport_chn_170f7a9e	54	6	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 + (一)/(二)/说明
+annualReport_chn_170f7a9e	55	6	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一) 主要会计数据	OK	(一) + data table
+annualReport_chn_170f7a9e	58	6	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (二) 主要财务指标	OK	(二) + indicators table
+annualReport_chn_170f7a9e	60	6	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › 报告期末公司前三年主要会计数据和财务指标的说明	OK	unnumbered label + 适用 + explanation paragraph
+annualReport_chn_170f7a9e	65	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 + (一)–(三) p7
+annualReport_chn_170f7a9e	66	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (一) 同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_170f7a9e	68	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_170f7a9e	70	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (三)境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_170f7a9e	72	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	九、 + quarterly table; 差异说明 label text
+annualReport_chn_170f7a9e	77	7	茂业商业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	十、 + 适用 + table (doc ends p7)
+annualReport_chn_1737c8bb	3	1	金鸿控股集团股份有限公司 2019 年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_1737c8bb	8	2	金鸿控股集团股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 paragraphs
+annualReport_chn_1737c8bb	19	3	金鸿控股集团股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC
+annualReport_chn_1737c8bb	24	4	金鸿控股集团股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_1737c8bb	29	5	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	第二节 title p5
+annualReport_chn_1737c8bb	30	5	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	一、 + company info table
+annualReport_chn_1737c8bb	32	5	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_1737c8bb	34	5	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	三、 + disclosure table
+annualReport_chn_1737c8bb	36	5	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	四、 + registration table
+annualReport_chn_1737c8bb	42	6	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	五、 + auditor/adviser captions + tables
+annualReport_chn_1737c8bb	50	6	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	六、 + retro question + data table (continues p7)
+annualReport_chn_1737c8bb	58	7	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	七、 + 1、/2、 below
+annualReport_chn_1737c8bb	59	7	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 + sentence
+annualReport_chn_1737c8bb	62	7	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 + sentence
+annualReport_chn_1737c8bb	65	7	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	八、 + quarterly table
+annualReport_chn_1737c8bb	70	7	金鸿控股集团股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	九、 + 适用 + table
+annualReport_chn_1c29d148	4	1	内蒙古西水创业股份有限公司 2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_1c29d148	7	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示	OK	重要提示 title p2
+annualReport_chn_1c29d148	12	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 + no-distribution paragraphs
+annualReport_chn_1c29d148	15	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 + 适用 + statement
+annualReport_chn_1c29d148	18	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 + 否 (user decision keeps)
+annualReport_chn_1c29d148	20	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况 ？	OK	八、 + 否 (user decision keeps)
+annualReport_chn_1c29d148	22	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 九、重大风险提示	OK	九、 + risk paragraph
+annualReport_chn_1c29d148	24	2	内蒙古西水创业股份有限公司 2019年年度报告 › 重要提示 › 十、其他	OK	十、其他 + 不适用
+annualReport_chn_1c29d148	28	3	内蒙古西水创业股份有限公司 2019年年度报告 › 目录	OK	目录 page p3
+annualReport_chn_1c29d148	32	4	内蒙古西水创业股份有限公司 2019年年度报告 › 第一节 释义	OK	第一节 释义 p4; 一、释义 repeat; glossary
+annualReport_chn_1c29d148	36	4	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标	OK	第二节 title p4
+annualReport_chn_1c29d148	37	4	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	一、 + table
+annualReport_chn_1c29d148	39	4	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_1c29d148	43	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	三、 + table p5
+annualReport_chn_1c29d148	45	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	四、 + table
+annualReport_chn_1c29d148	47	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	五、 + share table
+annualReport_chn_1c29d148	49	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	六、 + auditor table
+annualReport_chn_1c29d148	51	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 + (一)/(二)
+annualReport_chn_1c29d148	52	5	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + data table (to p6)
+annualReport_chn_1c29d148	58	6	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (二) 主要财务指标	OK	(二) + indicators table; 说明 label + 不适用 text
+annualReport_chn_1c29d148	62	6	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 + (一)–(三)
+annualReport_chn_1c29d148	63	6	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （一）同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_1c29d148	65	6	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （二）同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_1c29d148	67	6	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （三） 境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_1c29d148	71	7	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	九、 + quarterly table p7; 差异说明 label text
+annualReport_chn_1c29d148	76	7	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	十、 + table (to p9)
+annualReport_chn_1c29d148	86	9	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十一、采用公允价值计量的项目	OK	十一、 + 适用 + table p9
+annualReport_chn_1c29d148	90	9	内蒙古西水创业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十二、 其他	OK	十二、其他 + 适用 + lead-in + insurance table + notes (to p10)
+annualReport_chn_1c29d148	99	10	内蒙古西水创业股份有限公司 2019年年度报告 › 第三节 公司业务概要	OK	第三节 title p10
+annualReport_chn_1c29d148	100	10	内蒙古西水创业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明	OK	一、 + business paragraphs
+annualReport_chn_1c29d148	106	10	内蒙古西水创业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 二、报告期内公司主要资产发生重大变化情况的说明	OK	二、 + 适用 + asset table (to p11)
+annualReport_chn_1c29d148	113	11	内蒙古西水创业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 三、报告期内核心竞争力分析	OK	三、 + 适用 + competitiveness paragraphs (to p12)
+annualReport_chn_1c29d148	124	12	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析	OK	第四节 title p12
+annualReport_chn_1c29d148	125	12	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 一、经营情况讨论与分析	OK	一、 + discussion paragraphs (to p13)
+annualReport_chn_1c29d148	140	13	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况	OK	二、 + summary paragraph + (一)
+annualReport_chn_1c29d148	142	13	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析	OK	(一) + change table + 1、–4、
+annualReport_chn_1c29d148	147	13	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1、收入和成本分析	OK	1、 + 适用 + paragraph + (1)/(2)
+annualReport_chn_1c29d148	150	13	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1、收入和成本分析 › (1). 主营业务分行业、分产品、分地区情况	OK	(1). + revenue tables + lead-ins (to p15)
+annualReport_chn_1c29d148	171	15	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1、收入和成本分析 › (2). 成本分析表	OK	(2). 成本分析表 + 赔款支出/手续费支出 labels p15
+annualReport_chn_1c29d148	172	15	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1、收入和成本分析 › (2). 成本分析表 › 赔款支出	OK	bold label + table + discussion (learnings rule)
+annualReport_chn_1c29d148	178	15	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1、收入和成本分析 › (2). 成本分析表 › 保险业务手续费支出	OK	bold label + table + discussion (learnings rule)
+annualReport_chn_1c29d148	182	15	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2、 费用	OK	2、费用 + table + notes (to p16)
+annualReport_chn_1c29d148	190	16	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 3、 研发投入	OK	3、研发投入 + caption + table; 情况说明 text
+annualReport_chn_1c29d148	199	17	内蒙古西水创业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 4、现金流	OK	4、现金流 + table p17 (doc ends)
+annualReport_chn_3344b949	4	1	维科技术股份有限公司2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_3344b949	7	2	维科技术股份有限公司2019年年度报告 › 重要提示	OK	重要提示 title p2, items 一、–十、
+annualReport_chn_3344b949	12	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 line + no-distribution paragraph
+annualReport_chn_3344b949	14	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 line + 适用 + statement
+annualReport_chn_3344b949	17	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 question + 否 (user decision keeps)
+annualReport_chn_3344b949	19	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 question + 否 (user decision keeps)
+annualReport_chn_3344b949	21	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 九、 重大风险提示	OK	九、 line + risk paragraph
+annualReport_chn_3344b949	23	2	维科技术股份有限公司2019年年度报告 › 重要提示 › 十、其他	OK	十、 其他 + 不适用 (numbered template item)
+annualReport_chn_3344b949	27	3	维科技术股份有限公司2019年年度报告 › 目录	OK	目录 page p3, TOC
+annualReport_chn_35b8e075	4	1	喜临门家具股份有限公司 2019年年度报告	OK	cover: name + 2019年年度报告 one box
+annualReport_chn_35b8e075	7	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示	OK	重要提示 title p2
+annualReport_chn_35b8e075	12	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 + distribution paragraph
+annualReport_chn_35b8e075	14	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 + 适用 + statement
+annualReport_chn_35b8e075	17	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 + 否 (user decision keeps)
+annualReport_chn_35b8e075	19	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 + 否 (user decision keeps)
+annualReport_chn_35b8e075	21	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 九、重大风险提示	OK	九、 + pointer paragraph
+annualReport_chn_35b8e075	23	2	喜临门家具股份有限公司 2019年年度报告 › 重要提示 › 十、其他	OK	十、其他 + 不适用
+annualReport_chn_35b8e075	27	3	喜临门家具股份有限公司 2019年年度报告 › 目录	OK	目录 page p3
+annualReport_chn_35b8e075	31	4	喜临门家具股份有限公司 2019年年度报告 › 第一节 释义	OK	第一节 释义 p4; 一、释义 repeat; glossary to p5
+annualReport_chn_35b8e075	38	5	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标	OK	第二节 title p5
+annualReport_chn_35b8e075	39	5	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	一、 + table
+annualReport_chn_35b8e075	41	5	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	二、 + contacts table
+annualReport_chn_35b8e075	43	5	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	三、 + table
+annualReport_chn_35b8e075	45	5	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	四、 + table
+annualReport_chn_35b8e075	49	6	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	五、 + share table p6
+annualReport_chn_35b8e075	51	6	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	六、 + adviser table
+annualReport_chn_35b8e075	53	6	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 + (一)/(二)/说明
+annualReport_chn_35b8e075	54	6	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + data table (to p7)
+annualReport_chn_35b8e075	60	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › （二） 主要财务指标	OK	(二) + indicators table
+annualReport_chn_35b8e075	62	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › 报告期末公司前三年主要会计数据和财务指标的说明	OK	unnumbered label + 适用 + explanation paragraph
+annualReport_chn_35b8e075	65	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 + (一)–(三)
+annualReport_chn_35b8e075	66	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (一)同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_35b8e075	68	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_35b8e075	70	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (三)境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_35b8e075	72	7	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	九、 + quarterly table (to p8); 差异说明 label text
+annualReport_chn_35b8e075	80	8	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	十、 + 适用 + table + notes (to p9)
+annualReport_chn_35b8e075	89	9	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十一、采用公允价值计量的项目	OK	十一、 + 适用 + table
+annualReport_chn_35b8e075	93	9	喜临门家具股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十二、其他	OK	十二、其他 + 不适用
+annualReport_chn_35b8e075	95	9	喜临门家具股份有限公司 2019年年度报告 › 第三节 公司业务概要	OK	第三节 title p9
+annualReport_chn_35b8e075	96	9	喜临门家具股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明	OK	一、 + (一)
+annualReport_chn_35b8e075	97	9	喜临门家具股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （一）主要业务	OK	(一) + paragraphs + lead-in + 1、
+annualReport_chn_35b8e075	101	9	喜临门家具股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （一）主要业务 › 1、“净眠”系列	OK	1、"净眠"系列 + paragraph (doc ends p9)
+annualReport_chn_588028f9	3	1	厦门吉宏科技股份有限公司 2019 年年度报告	OK	cover: company name over 2019 年年度报告 in one box
+annualReport_chn_588028f9	8	2	厦门吉宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_588028f9	18	3	厦门吉宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_588028f9	23	4	厦门吉宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_588028f9	32	6	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p6
+annualReport_chn_588028f9	33	6	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered table subhead + company table
+annualReport_chn_588028f9	35	6	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_588028f9	37	6	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_588028f9	39	6	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_588028f9	45	7	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor tables
+annualReport_chn_588028f9	53	7	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_588028f9	61	8	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_588028f9	62	8	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	numbered item + 不适用 statement
+annualReport_chn_588028f9	65	8	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	numbered item + 不适用 statement
+annualReport_chn_588028f9	68	8	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_588028f9	73	8	厦门吉宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring table
+annualReport_chn_588028f9	87	10	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要	OK	section title p10
+annualReport_chn_588028f9	88	10	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	numbered subhead, business lines below
+annualReport_chn_588028f9	90	10	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › 一、To B端业务：精准营销广告	OK	bold second 一、 ladder, business paragraphs
+annualReport_chn_588028f9	94	10	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › 二、ToC端业务：精准营销跨境电商	OK	bold 二、 ToC business paragraphs
+annualReport_chn_588028f9	99	10	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › 三、线下：包装业务	OK	bold 三、 packaging paragraphs
+annualReport_chn_588028f9	106	11	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	numbered subhead, 1、/2、 below
+annualReport_chn_588028f9	107	11	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	numbered item + asset table
+annualReport_chn_588028f9	109	11	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	numbered item + 不适用
+annualReport_chn_588028f9	111	11	厦门吉宏科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析	OK	numbered subhead + figure
+annualReport_chn_588028f9	116	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析	OK	section title p12
+annualReport_chn_588028f9	117	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述	OK	numbered subhead + overview paragraph
+annualReport_chn_588028f9	119	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 一、ToB端业务：精准营销广告	OK	bold second ladder 一、 ToB paragraph
+annualReport_chn_588028f9	121	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 二、ToC端业务：精准营销跨境电商	OK	bold 二、 ToC paragraph
+annualReport_chn_588028f9	123	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析	OK	numbered subhead, 1、2、 below
+annualReport_chn_588028f9	124	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 1、概述	OK	1、概述 + cross-reference
+annualReport_chn_588028f9	126	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本	OK	2、收入与成本, (1)-(3) below
+annualReport_chn_588028f9	127	12	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （1）营业收入构成	OK	(1) + revenue table
+annualReport_chn_588028f9	134	13	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （2）占公司营业收入或营业利润 10\% 以上的行业、产品或地区情况	OK	(2) + industry table (box text prints 10\% escape)
+annualReport_chn_588028f9	140	13	厦门吉宏科技股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （3）公司实物销售收入是否大于劳务收入	OK	(3) + 是/否 + volume table
+annualReport_chn_679b76a4	3	1	上海顺灏新材料科技股份有限公司 2019 年年度报告	OK	cover: company name over 2019 年年度报告 in one box
+annualReport_chn_679b76a4	8	2	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_679b76a4	17	3	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_679b76a4	22	4	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_679b76a4	31	6	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p6
+annualReport_chn_679b76a4	32	6	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_679b76a4	34	6	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_679b76a4	36	6	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_679b76a4	41	7	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_679b76a4	43	7	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor tables
+annualReport_chn_679b76a4	51	7	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_679b76a4	59	8	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_679b76a4	60	8	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	numbered item + 不适用 statement
+annualReport_chn_679b76a4	63	8	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	numbered item + 不适用 statement
+annualReport_chn_679b76a4	66	8	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_679b76a4	71	8	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring table
+annualReport_chn_679b76a4	85	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要	OK	section title p10
+annualReport_chn_679b76a4	86	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	numbered subhead, （一）-（三） below
+annualReport_chn_679b76a4	87	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）公司主要业务	OK	（一） + business paragraph
+annualReport_chn_679b76a4	89	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式	OK	（二） business-model items 1、-5、
+annualReport_chn_679b76a4	90	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式 › 1、特种防伪环保纸的销售	OK	1、 + paragraph
+annualReport_chn_679b76a4	92	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式 › 2、印刷品的研发、生产与销售	OK	2、 + paragraph
+annualReport_chn_679b76a4	94	10	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式 › 3、工业大麻的种植、加工及应用场景研发	OK	3、 + paragraph
+annualReport_chn_679b76a4	100	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式 › 4、新型烟草和非烟草不燃制品的研发及销售。	OK	4、 + paragraph
+annualReport_chn_679b76a4	102	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）公司业务经营模式 › 5、有机生物农业土壤改造业务。	OK	5、 + paragraph
+annualReport_chn_679b76a4	104	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （三）行业发展及周期性特点	OK	（三） industry items 1、-3、
+annualReport_chn_679b76a4	105	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （三）行业发展及周期性特点 › 1、包装印刷行业市场前景广阔，绿色环保或成主要趋势	OK	1、 + paragraph
+annualReport_chn_679b76a4	107	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （三）行业发展及周期性特点 › 2、新型烟草制品行业增长态势明显	OK	2、 + paragraph
+annualReport_chn_679b76a4	109	11	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （三）行业发展及周期性特点 › 3、工业大麻全球市场逐步开放，应用场景广泛	OK	3、 + paragraphs to p12
+annualReport_chn_679b76a4	116	12	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	numbered subhead, 1、/2、 below
+annualReport_chn_679b76a4	117	12	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + asset table
+annualReport_chn_679b76a4	123	13	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + overseas asset table
+annualReport_chn_679b76a4	126	13	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析	OK	三、 + intro paragraph, 1. below
+annualReport_chn_679b76a4	128	13	上海顺灏新材料科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 1. 自主创新，核心技术专利领先优势	OK	1. + paragraph
+annualReport_chn_77918496	4	1	牡丹江恒丰纸业股份有限公司 2019年年度报告	OK	cover: red company name + 2019 年年度报告 in one box
+annualReport_chn_77918496	7	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示	OK	重要提示 page title, items 一、-十、
+annualReport_chn_77918496	13	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 heading line + distribution paragraph
+annualReport_chn_77918496	16	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 heading + 适用 + statement
+annualReport_chn_77918496	19	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_77918496	21	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_77918496	23	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 九、 重大风险提示	OK	九、 heading + risk paragraph
+annualReport_chn_77918496	25	2	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 重要提示 › 十、其他	OK	十、其他 + 不适用 (numbered item)
+annualReport_chn_77918496	29	3	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 目录	OK	目录 page, TOC list (SSE: 第一节 is 释义 only)
+annualReport_chn_77918496	33	4	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第一节 释义	OK	第一节 释义 title, lead-in + glossary table (一、释义 is a repeat)
+annualReport_chn_77918496	37	4	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标	OK	section title p4
+annualReport_chn_77918496	38	4	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_77918496	40	4	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_77918496	42	4	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	numbered subhead + address table
+annualReport_chn_77918496	46	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_77918496	48	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	numbered subhead + stock table
+annualReport_chn_77918496	50	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	numbered subhead + auditor table
+annualReport_chn_77918496	52	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 with (一)/(二) below
+annualReport_chn_77918496	53	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + key data table
+annualReport_chn_77918496	56	5	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › （二） 主要财务指标	OK	(二) + indicator table; 说明 label + 不适用 text
+annualReport_chn_77918496	63	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 with (一)-(三)
+annualReport_chn_77918496	64	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (一)同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_77918496	66	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_77918496	68	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (三)境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_77918496	70	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	numbered subhead + quarterly table
+annualReport_chn_77918496	75	6	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	numbered subhead + non-recurring table
+annualReport_chn_77918496	82	7	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十一、采用公允价值计量的项目	OK	十一、 + 不适用
+annualReport_chn_77918496	84	7	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 十二、 其他	OK	十二、其他 + 不适用
+annualReport_chn_77918496	86	7	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要	OK	section title p7
+annualReport_chn_77918496	87	7	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明	OK	一、 with 1、-3、
+annualReport_chn_77918496	88	7	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › 1、公司主要业务	OK	1、 + paragraph
+annualReport_chn_77918496	93	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › 2、公司经营模式	OK	2、 + paragraph
+annualReport_chn_77918496	95	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › 3、行业情况说明	OK	3、 + paragraph
+annualReport_chn_77918496	97	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 二、报告期内公司主要资产发生重大变化情况的说明	OK	二、 + 不适用
+annualReport_chn_77918496	99	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第三节 公司业务概要 › 三、报告期内核心竞争力分析	OK	三、 + one-sentence answer
+annualReport_chn_77918496	102	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析	OK	section title p8
+annualReport_chn_77918496	103	8	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 一、经营情况讨论与分析	OK	一、 overview with bold run-in (一)-(六) paragraphs; sibling of 二、, not a restated title
+annualReport_chn_77918496	113	9	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况	OK	二、 + intro paragraph, (一) below
+annualReport_chn_77918496	115	9	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析	OK	（一）主营业务分析, 1.-3. below
+annualReport_chn_77918496	116	9	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 1. 利润表及现金流量表相关科目变动分析表	OK	1. + change table
+annualReport_chn_77918496	119	9	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2. 收入和成本分析	OK	2. + paragraph, (1)-(4) below
+annualReport_chn_77918496	124	10	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2. 收入和成本分析 › (1). 主营业务分行业、分产品、分地区情况	OK	(1). + segment table
+annualReport_chn_77918496	132	11	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2. 收入和成本分析 › (2). 产销量情况分析表	OK	(2). + volume table
+annualReport_chn_77918496	137	11	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2. 收入和成本分析 › (3). 成本分析表	OK	(3). + cost table
+annualReport_chn_77918496	144	12	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 2. 收入和成本分析 › (4). 主要销售客户及主要供应商情况	OK	(4). + customer/supplier paragraphs
+annualReport_chn_77918496	149	12	牡丹江恒丰纸业股份有限公司 2019年年度报告 › 第四节 经营情况讨论与分析 › 二、报告期内主要经营情况 › （一） 主营业务分析 › 3. 费用	OK	3. 费用 + paragraph
+annualReport_chn_787462d7	3	1	江苏双星彩塑新材料股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_787462d7	8	2	江苏双星彩塑新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_787462d7	18	3	江苏双星彩塑新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_787462d7	23	4	江苏双星彩塑新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_7de80556	2	1	西藏易明西雅医药科技股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_7de80556	8	2	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_7de80556	18	3	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_7de80556	23	4	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_7de80556	28	5	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p5
+annualReport_chn_7de80556	29	5	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_7de80556	31	5	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_7de80556	33	5	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_7de80556	35	5	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_7de80556	41	6	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor lines
+annualReport_chn_7de80556	48	6	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_7de80556	55	7	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_7de80556	56	7	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 statement
+annualReport_chn_7de80556	59	7	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 statement
+annualReport_chn_7de80556	62	7	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_7de80556	67	7	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring tables
+annualReport_chn_7de80556	81	9	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第三节公司业务概要	OK	section title p9
+annualReport_chn_7de80556	82	9	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	一、 + business paragraphs, table, product list (list items text)
+annualReport_chn_7de80556	102	10	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	二、 with 1、/2、
+annualReport_chn_7de80556	103	10	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + asset table
+annualReport_chn_7de80556	105	10	西藏易明西雅医药科技股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + 不适用
+annualReport_chn_7f487dea	2	1	山西蓝焰控股股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box (report no. text)
+annualReport_chn_7f487dea	8	2	山西蓝焰控股股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_7f487dea	19	3	山西蓝焰控股股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_7f487dea	24	4	山西蓝焰控股股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_7f487dea	29	5	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p5
+annualReport_chn_7f487dea	30	5	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_7f487dea	32	5	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_7f487dea	34	5	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_7f487dea	36	5	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_7f487dea	42	6	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/adviser tables
+annualReport_chn_7f487dea	50	6	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table + notes
+annualReport_chn_7f487dea	61	7	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_7f487dea	62	7	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 statement
+annualReport_chn_7f487dea	65	7	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 statement
+annualReport_chn_7f487dea	68	7	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table + note
+annualReport_chn_7f487dea	74	7	山西蓝焰控股股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring table + note
+annualReport_chn_7f487dea	89	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要	OK	section title p9
+annualReport_chn_7f487dea	90	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	一、 with (一)/(二)
+annualReport_chn_7f487dea	91	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务、主要产品及其用途、经营模式、主要的业绩驱动因素	OK	(一) with 1.-3.
+annualReport_chn_7f487dea	92	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务、主要产品及其用途、经营模式、主要的业绩驱动因素 › 1.公司所从事的主要业务、主要产品及其用途	OK	1. + paragraphs
+annualReport_chn_7f487dea	95	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务、主要产品及其用途、经营模式、主要的业绩驱动因素 › 2.公司经营模式	OK	2. + paragraphs
+annualReport_chn_7f487dea	98	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务、主要产品及其用途、经营模式、主要的业绩驱动因素 › 3.主要的业绩驱动因素	OK	3. + paragraph
+annualReport_chn_7f487dea	100	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位	OK	(二) with 1./2.
+annualReport_chn_7f487dea	101	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位 › 1.煤层气行业的发展阶段和周期性特点	OK	1. + paragraph
+annualReport_chn_7f487dea	103	9	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位 › 2.公司所处的行业地位	OK	2. + paragraph
+annualReport_chn_7f487dea	109	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	二、 with 1、/2、
+annualReport_chn_7f487dea	110	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + asset table
+annualReport_chn_7f487dea	112	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + 不适用
+annualReport_chn_7f487dea	114	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析	OK	三、 with 1.-5.
+annualReport_chn_7f487dea	115	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 1.产业链优势	OK	1. + paragraph
+annualReport_chn_7f487dea	117	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 2.规模优势	OK	2. + paragraph
+annualReport_chn_7f487dea	119	10	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 3.技术优势	OK	3. + paragraph
+annualReport_chn_7f487dea	125	11	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 4.地域优势	OK	4. + paragraph
+annualReport_chn_7f487dea	127	11	山西蓝焰控股股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 5.政策优势	OK	5. + paragraph to p12
+annualReport_chn_b20666fd	4	1	扬州晨化新材料股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box (report no. text)
+annualReport_chn_b20666fd	9	2	扬州晨化新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_b20666fd	18	3	扬州晨化新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_b20666fd	23	4	扬州晨化新材料股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_b20666fd	32	6	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p6
+annualReport_chn_b20666fd	33	6	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_b20666fd	35	6	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_b20666fd	37	6	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_b20666fd	39	6	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、其他有关资料	OK	numbered subhead, auditor/sponsor tables
+annualReport_chn_b20666fd	50	7	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_b20666fd	54	7	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_b20666fd	62	8	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_b20666fd	63	8	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 statement
+annualReport_chn_b20666fd	66	8	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 statement
+annualReport_chn_b20666fd	69	8	扬州晨化新材料股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、非经常性损益项目及金额	OK	numbered subhead + non-recurring tables
+annualReport_chn_b20666fd	83	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要	OK	section title p10
+annualReport_chn_b20666fd	84	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务	OK	一、 with (一)/(二)
+annualReport_chn_b20666fd	85	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务	OK	(一) business paragraph + lead-in, 1、-3、 below
+annualReport_chn_b20666fd	88	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务 › 1、采购模式	OK	1、 + paragraphs
+annualReport_chn_b20666fd	92	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务 › 2、生产模式	OK	2、 + paragraph
+annualReport_chn_b20666fd	94	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （一）报告期内公司所从事的主要业务 › 3、销售模式	OK	3、 + paragraphs
+annualReport_chn_b20666fd	99	10	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 一、报告期内公司从事的主要业务 › （二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位	OK	(二) + industry paragraphs to p11
+annualReport_chn_b20666fd	107	11	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况	OK	二、 with 1、/2、
+annualReport_chn_b20666fd	108	11	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + asset table
+annualReport_chn_b20666fd	110	11	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + 不适用
+annualReport_chn_b20666fd	112	11	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析	OK	三、 + intro, 1、-4. below
+annualReport_chn_b20666fd	117	12	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 1、客户资源优势	OK	1、 + paragraph
+annualReport_chn_b20666fd	119	12	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 2、技术领先优势	OK	2、 + paragraph, patent table
+annualReport_chn_b20666fd	126	12	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 3. 配套同步开发优势	OK	3. + paragraphs
+annualReport_chn_b20666fd	129	12	扬州晨化新材料股份有限公司 2019 年年度报告 › 第三节公司业务概要 › 三、核心竞争力分析 › 4. 质量管理优势	OK	4. + paragraph; closing sentence under it (user decision 2026-11-13)
+annualReport_chn_b20666fd	135	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析	OK	section title p13
+annualReport_chn_b20666fd	136	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述	OK	一、 + paragraphs, 1、-4、 below
+annualReport_chn_b20666fd	139	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 1、技术研发方面	OK	1、 + paragraphs
+annualReport_chn_b20666fd	142	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 2、市场营销方面	OK	2、 + paragraph, (1)-(3) run-in paragraphs
+annualReport_chn_b20666fd	147	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 3、综合管理方面	OK	3、 + paragraphs
+annualReport_chn_b20666fd	151	13	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 一、概述 › 4、安全环保方面	OK	4、 + paragraph to p14
+annualReport_chn_b20666fd	157	14	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析	OK	二、 with 1、-4、
+annualReport_chn_b20666fd	158	14	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 1、概述	OK	1、 + cross-reference
+annualReport_chn_b20666fd	160	14	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本	OK	2、 with (1)-(8)
+annualReport_chn_b20666fd	161	14	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （1）营业收入构成	OK	(1) + caption + revenue table
+annualReport_chn_b20666fd	165	14	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （2）占公司营业收入或营业利润 \(10\%\) 以上的行业、产品或地区情况	OK	(2) + segment table (box text prints \(10\%\) escape)
+annualReport_chn_b20666fd	175	15	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （3）公司实物销售收入是否大于劳务收入	OK	(3) + 是 + volume table
+annualReport_chn_b20666fd	181	15	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （4）公司已签订的重大销售合同截至本报告期的履行情况	OK	(4) + 不适用
+annualReport_chn_b20666fd	183	15	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （5）营业成本构成	OK	(5) + cost tables
+annualReport_chn_b20666fd	194	16	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （6）报告期内合并范围是否发生变动	OK	(6) + 是 + subsidiary table
+annualReport_chn_b20666fd	199	16	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （7）公司报告期内业务、产品或服务发生重大变化或调整有关情况	OK	(7) + 不适用
+annualReport_chn_b20666fd	201	16	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （8）主要销售客户和主要供应商情况	OK	(8) + customer/supplier tables
+annualReport_chn_b20666fd	218	17	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 3、费用	OK	3、 + expense table
+annualReport_chn_b20666fd	221	17	扬州晨化新材料股份有限公司 2019 年年度报告 › 第四节经营情况讨论与分析 › 二、主营业务分析 › 4、研发投入	OK	4、 + R&D projects table
+annualReport_chn_baa53c78	1	1	温州宏丰电工合金股份有限公司 2019年年度报告	OK	cover: company name ∪ 2019 年年度报告 (address/logo between are text)
+annualReport_chn_baa53c78	10	2	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, statements + risk items
+annualReport_chn_baa53c78	14	2	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 1、原材料价格波动引致的存货跌价风险	OK	1、 risk + 应对措施 block
+annualReport_chn_baa53c78	17	2	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 2、市场与行业风险	OK	2、 risk + 应对措施 block
+annualReport_chn_baa53c78	24	3	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 3、客户集中的风险	OK	3、 risk + 应对措施 block
+annualReport_chn_baa53c78	27	3	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 4、技术泄密和核心技术人员流失的风险	OK	4、 risk + 应对措施 block
+annualReport_chn_baa53c78	33	4	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 5、疫情冲击风险	OK	5、 risk + 应对措施; 利润分配 paragraph under it (user decision 2026-11-13)
+annualReport_chn_baa53c78	40	5	温州宏丰电工合金股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page (目　录), TOC list
+annualReport_chn_bad1d0cc	3	1	北京合纵科技股份有限公司2019年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_bad1d0cc	8	2	北京合纵科技股份有限公司2019年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_bad1d0cc	18	3	北京合纵科技股份有限公司2019年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_bad1d0cc	23	4	北京合纵科技股份有限公司2019年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_bad1d0cc	28	5	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标	OK	section title p5
+annualReport_chn_bad1d0cc	29	5	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_bad1d0cc	31	5	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_bad1d0cc	33	5	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_bad1d0cc	35	5	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 四、其他有关资料	OK	numbered subhead, auditor/sponsor lines
+annualReport_chn_bad1d0cc	45	6	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 五、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_bad1d0cc	49	6	北京合纵科技股份有限公司2019年年度报告 › 第二节公司简介和主要财务指标 › 六、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_bd2f20cd	6	1	南京威尔药业股份有限公司 2019年年度报告	OK	cover: red company name + 2019 年年度报告 in one box
+annualReport_chn_bd2f20cd	12	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示	OK	重要提示 page title, items 一、-十、
+annualReport_chn_bd2f20cd	17	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 heading line + distribution paragraph
+annualReport_chn_bd2f20cd	19	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 heading + 适用 + statement
+annualReport_chn_bd2f20cd	22	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_bd2f20cd	24	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_bd2f20cd	26	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 九、重大风险提示	OK	九、 heading + risk paragraph
+annualReport_chn_bd2f20cd	28	2	南京威尔药业股份有限公司 2019年年度报告 › 重要提示 › 十、其他	OK	十、其他 + 不适用
+annualReport_chn_bd2f20cd	33	3	南京威尔药业股份有限公司 2019年年度报告 › 目录	OK	目录 page, TOC list
+annualReport_chn_bd2f20cd	38	4	南京威尔药业股份有限公司 2019年年度报告 › 第一节 释义	OK	第一节 释义 title, glossary (一、释义 is a repeat)
+annualReport_chn_bd2f20cd	42	4	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标	OK	section title p4
+annualReport_chn_bd2f20cd	43	4	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_bd2f20cd	45	4	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_bd2f20cd	51	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	numbered subhead + address table
+annualReport_chn_bd2f20cd	53	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_bd2f20cd	55	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	numbered subhead + stock table
+annualReport_chn_bd2f20cd	57	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	numbered subhead + auditor/sponsor table
+annualReport_chn_bd2f20cd	59	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 with (一)/(二) + 说明
+annualReport_chn_bd2f20cd	60	5	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + key data table
+annualReport_chn_bd2f20cd	67	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › （二） 主要财务指标	OK	(二) + indicator table
+annualReport_chn_bd2f20cd	69	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › 报告期末公司前三年主要会计数据和财务指标的说明	OK	unnumbered 说明 label + 适用 + numbered explanations
+annualReport_chn_bd2f20cd	73	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 with (一)-(三)
+annualReport_chn_bd2f20cd	74	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (一) 同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_bd2f20cd	76	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_bd2f20cd	78	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › (三) 境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_bd2f20cd	80	6	南京威尔药业股份有限公司 2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	numbered subhead + quarterly table
+annualReport_chn_c8425a15	3	1	北京顺鑫农业股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_c8425a15	8	2	北京顺鑫农业股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_c8425a15	17	3	北京顺鑫农业股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_c8425a15	22	4	北京顺鑫农业股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_c8425a15	27	5	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标	OK	section title p5
+annualReport_chn_c8425a15	28	5	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_c8425a15	30	5	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_c8425a15	32	5	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_c8425a15	37	6	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_c8425a15	39	6	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor lines
+annualReport_chn_c8425a15	46	6	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_c8425a15	53	7	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_c8425a15	54	7	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 statement
+annualReport_chn_c8425a15	57	7	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 statement
+annualReport_chn_c8425a15	60	7	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_c8425a15	65	7	北京顺鑫农业股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring table (to p8)
+annualReport_chn_c8425a15	79	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要	OK	section title p9
+annualReport_chn_c8425a15	80	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 一、报告期内公司从事的主要业务	OK	一、 with (一)/(二)
+annualReport_chn_c8425a15	81	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 一、报告期内公司从事的主要业务 › （一）公司主要业务	OK	(一) + business paragraph
+annualReport_chn_c8425a15	83	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 一、报告期内公司从事的主要业务 › （二）行业发展情况及公司所处行业地位	OK	(二) with 1./2.
+annualReport_chn_c8425a15	84	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 一、报告期内公司从事的主要业务 › （二）行业发展情况及公司所处行业地位 › 1. 白酒行业	OK	1. + paragraphs
+annualReport_chn_c8425a15	87	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 一、报告期内公司从事的主要业务 › （二）行业发展情况及公司所处行业地位 › 2.猪肉行业	OK	2. + paragraphs
+annualReport_chn_c8425a15	90	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 二、主要资产重大变化情况	OK	二、 with 1、/2、
+annualReport_chn_c8425a15	91	9	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 二、主要资产重大变化情况 › 1、主要资产重大变化情况	OK	1、 + asset table
+annualReport_chn_c8425a15	97	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 二、主要资产重大变化情况 › 2、主要境外资产情况	OK	2、 + 不适用
+annualReport_chn_c8425a15	99	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析	OK	三、 + one sentence, (一)/(二) below
+annualReport_chn_c8425a15	101	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （一）白酒酿造与销售	OK	(一) with 1.-3.
+annualReport_chn_c8425a15	102	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （一）白酒酿造与销售 › 1. 品牌与文化优势	OK	1. + paragraph
+annualReport_chn_c8425a15	104	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （一）白酒酿造与销售 › 2.市场及渠道优势	OK	2. + paragraph
+annualReport_chn_c8425a15	106	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （一）白酒酿造与销售 › 3.技术及人才优势	OK	3. + paragraph
+annualReport_chn_c8425a15	108	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （二）种猪繁育、生猪养殖、屠宰及肉制品加工	OK	(二) with 1.-3.
+annualReport_chn_c8425a15	109	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （二）种猪繁育、生猪养殖、屠宰及肉制品加工 › 1. 品牌优势	OK	1. + paragraph
+annualReport_chn_c8425a15	111	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （二）种猪繁育、生猪养殖、屠宰及肉制品加工 › 2.全产业链优势	OK	2. + paragraph
+annualReport_chn_c8425a15	113	10	北京顺鑫农业股份有限公司 2019 年年度报告 › 第三节 公司业务概要 › 三、核心竞争力分析 › （二）种猪繁育、生猪养殖、屠宰及肉制品加工 › 3. 技术优势	OK	3. + paragraph (p11)
+annualReport_chn_c8425a15	121	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析	OK	section title p12
+annualReport_chn_c8425a15	122	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述	OK	一、 with (一)-(三)
+annualReport_chn_c8425a15	123	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （一）整体经营情况	OK	(一) + paragraph
+annualReport_chn_c8425a15	125	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （二）重要事项说明	OK	(二) + 无 (numbered item)
+annualReport_chn_c8425a15	127	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （三）产业经营情况	OK	(三) with 1、-3、
+annualReport_chn_c8425a15	128	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （三）产业经营情况 › 1、白酒产业	OK	1、 + paragraphs
+annualReport_chn_c8425a15	132	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （三）产业经营情况 › 2、猪肉产业	OK	2、 + paragraphs
+annualReport_chn_c8425a15	136	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 一、概述 › （三）产业经营情况 › 3、房地产业	OK	3、 + paragraph
+annualReport_chn_c8425a15	138	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析	OK	二、 with 1、/2、
+annualReport_chn_c8425a15	139	12	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 1、概述	OK	1、 + cross-reference
+annualReport_chn_c8425a15	144	13	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本	OK	2、 with (1)-(5)
+annualReport_chn_c8425a15	145	13	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （1）营业收入构成	OK	(1) + revenue table
+annualReport_chn_c8425a15	148	13	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （2）占公司营业收入或营业利润 \(10\%\) 以上的行业、产品或地区情况	OK	(2) + segment table (box text prints \(10\%\) escape)
+annualReport_chn_c8425a15	157	14	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （3）公司实物销售收入是否大于劳务收入	OK	(3) + 是 + volume table + note
+annualReport_chn_c8425a15	163	14	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （4）公司已签订的重大销售合同截至本报告期的履行情况	OK	(4) + 不适用
+annualReport_chn_c8425a15	165	14	北京顺鑫农业股份有限公司 2019 年年度报告 › 第四节 经营情况讨论与分析 › 二、主营业务分析 › 2、收入与成本 › （5）营业成本构成	OK	(5) + cost tables
+annualReport_chn_cee67928	2	1	天润曲轴股份有限公司 2019年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_cee67928	7	2	天润曲轴股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_cee67928	17	3	天润曲轴股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_cee67928	22	4	天润曲轴股份有限公司 2019年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_dbf02372	3	1	江苏华宏科技股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box
+annualReport_chn_dbf02372	8	2	江苏华宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义	OK	section title p2, 重要提示 statements below
+annualReport_chn_dbf02372	17	3	江苏华宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_dbf02372	22	4	江苏华宏科技股份有限公司 2019 年年度报告 › 第一节重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_dbf02372	27	5	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标	OK	section title p5
+annualReport_chn_dbf02372	28	5	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_dbf02372	30	5	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_dbf02372	32	5	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_dbf02372	37	6	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_dbf02372	39	6	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor lines
+annualReport_chn_dbf02372	46	6	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_chn_dbf02372	53	7	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异	OK	numbered subhead, 1、/2、 below
+annualReport_chn_dbf02372	54	7	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	1、 + 不适用 statement
+annualReport_chn_dbf02372	57	7	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 七、境内外会计准则下会计数据差异 › 2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况	OK	2、 + 不适用 statement
+annualReport_chn_dbf02372	60	7	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 八、分季度主要财务指标	OK	numbered subhead + quarterly table
+annualReport_chn_dbf02372	65	7	江苏华宏科技股份有限公司 2019 年年度报告 › 第二节公司简介和主要财务指标 › 九、非经常性损益项目及金额	OK	numbered subhead + non-recurring table
+annualReport_chn_ebe06969	8	1	浙江大丰实业股份有限公司2019年年度报告	OK	cover: red company name + 2019 年年度报告 in one box (code lines text)
+annualReport_chn_ebe06969	11	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示	OK	重要提示 page title, items 一、-十、
+annualReport_chn_ebe06969	16	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 五、经董事会审议的报告期利润分配预案或公积金转增股本预案	OK	五、 heading line + distribution paragraph
+annualReport_chn_ebe06969	18	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 六、前瞻性陈述的风险声明	OK	六、 heading + 适用 + statement
+annualReport_chn_ebe06969	21	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 七、是否存在被控股股东及其关联方非经营性占用资金情况	OK	七、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_ebe06969	23	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 八、是否存在违反规定决策程序对外提供担保的情况？	OK	八、 question answered 否 (user decision 2026-11-12)
+annualReport_chn_ebe06969	25	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 九、 重大风险提示	OK	九、 heading + risk paragraph
+annualReport_chn_ebe06969	27	2	浙江大丰实业股份有限公司2019年年度报告 › 重要提示 › 十、其他	OK	十、其他 + 不适用
+annualReport_chn_ebe06969	31	3	浙江大丰实业股份有限公司2019年年度报告 › 目录	OK	目录 page, TOC list
+annualReport_chn_ebe06969	35	4	浙江大丰实业股份有限公司2019年年度报告 › 第一节 释义	OK	第一节 释义 title, glossary (一、释义 is a repeat)
+annualReport_chn_ebe06969	42	5	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标	OK	section title p5
+annualReport_chn_ebe06969	43	5	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_ebe06969	45	5	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_ebe06969	47	5	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 三、基本情况简介	OK	numbered subhead + address table
+annualReport_chn_ebe06969	51	6	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 四、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_ebe06969	53	6	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 五、公司股票简况	OK	numbered subhead + stock table
+annualReport_chn_ebe06969	55	6	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 六、其他相关资料	OK	numbered subhead + auditor/sponsor table
+annualReport_chn_ebe06969	57	6	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标	OK	七、 with (一)/(二) + 说明
+annualReport_chn_ebe06969	58	6	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › (一)主要会计数据	OK	(一) + key data table
+annualReport_chn_ebe06969	63	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › （二） 主要财务指标	OK	(二) + indicator table
+annualReport_chn_ebe06969	65	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 七、近三年主要会计数据和财务指标 › 报告期末公司前三年主要会计数据和财务指标的说明	OK	unnumbered 说明 label + 适用 + explanations
+annualReport_chn_ebe06969	69	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异	OK	八、 with (一)-(三)
+annualReport_chn_ebe06969	70	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （一）同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(一) + 不适用
+annualReport_chn_ebe06969	72	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （二）同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况	OK	(二) + 不适用
+annualReport_chn_ebe06969	74	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 八、境内外会计准则下会计数据差异 › （三） 境内外会计准则差异的说明：	OK	(三) + 不适用
+annualReport_chn_ebe06969	76	7	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 九、2019年分季度主要财务数据	OK	numbered subhead + quarterly table; 差异说明 + 不适用 text
+annualReport_chn_ebe06969	84	8	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十、非经常性损益项目和金额	OK	numbered subhead + non-recurring table
+annualReport_chn_ebe06969	91	9	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十一、 采用公允价值计量的项目	OK	十一、 + fair-value table
+annualReport_chn_ebe06969	95	9	浙江大丰实业股份有限公司2019年年度报告 › 第二节 公司简介和主要财务指标 › 十二、 其他	OK	十二、其他 + 不适用
+annualReport_chn_ebe06969	97	9	浙江大丰实业股份有限公司2019年年度报告 › 第三节 公司业务概要	OK	section title p9
+annualReport_chn_ebe06969	98	9	浙江大丰实业股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明	OK	一、 with (一) below
+annualReport_chn_ebe06969	99	9	浙江大丰实业股份有限公司2019年年度报告 › 第三节 公司业务概要 › 一、报告期内公司所从事的主要业务、经营模式及行业情况说明 › （一）主要业务	OK	(一) last line of the excerpt (block beyond the page set)
+annualReport_chn_f0e6067b	3	1	深圳市天威视讯股份有限公司 2019 年年度报告	OK	cover: company name + 2019 年年度报告 in one box (report no. text)
+annualReport_chn_f0e6067b	9	2	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义	OK	section title p2, statements + risk items
+annualReport_chn_f0e6067b	20	3	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 1、有线电视用户持续流失的风险	OK	1、 risk + 应对 paragraph
+annualReport_chn_f0e6067b	23	3	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 2、基础网络承载能力不足的风险	OK	2、 risk + 应对 paragraph
+annualReport_chn_f0e6067b	26	3	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 3、技术储备不足的风险	OK	3、 risk + 应对; 利润分配 paragraph under it (user decision 2026-11-13)
+annualReport_chn_f0e6067b	36	5	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 目录	OK	目录 page, TOC list
+annualReport_chn_f0e6067b	41	6	深圳市天威视讯股份有限公司 2019 年年度报告 › 第一节 重要提示、目录和释义 › 释义	OK	释义 page, glossary table
+annualReport_chn_f0e6067b	50	8	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标	OK	section title p8
+annualReport_chn_f0e6067b	51	8	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 一、公司信息	OK	numbered subhead + company table
+annualReport_chn_f0e6067b	53	8	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 二、联系人和联系方式	OK	numbered subhead + contact table
+annualReport_chn_f0e6067b	55	8	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 三、信息披露及备置地点	OK	numbered subhead + disclosure table
+annualReport_chn_f0e6067b	60	9	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 四、注册变更情况	OK	numbered subhead + registration table
+annualReport_chn_f0e6067b	62	9	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 五、其他有关资料	OK	numbered subhead, auditor/sponsor lines
+annualReport_chn_f0e6067b	69	9	深圳市天威视讯股份有限公司 2019 年年度报告 › 第二节 公司简介和主要财务指标 › 六、主要会计数据和财务指标	OK	numbered subhead + key data table
+annualReport_eng_03d56f29	2	1	STMicroelectronics N.V. Annual Report 2024	OK	cover: owner + Annual Report 2024 in one box (ST logo is an image)
+annualReport_eng_03d56f29	4	3	STMicroelectronics N.V. Annual Report 2024 › Contents	OK	Contents title + TOC list p3-5
+annualReport_eng_0c770734	3	1	2018 ANNUAL REPORT	OK	cover 2018 ANNUAL REPORT (Cray logo is an image; slogans text); unsigned letter p2-3 under it
+annualReport_eng_0c770734	22	4	2018 ANNUAL REPORT › FORM 10-K CRAY INC.	OK	embedded 10-K cover: FORM 10-K ∪ registrant name box (text = heading parts)
+annualReport_eng_0c770734	52	4	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › DOCUMENTS INCORPORATED BY REFERENCE	OK	front-matter title + incorporation paragraph
+annualReport_eng_0c770734	54	5	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › INDEX	OK	index box restates owner/form/year; text = INDEX line
+annualReport_eng_0c770734	58	6	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › Forward-Looking Statements	OK	front-matter title + paragraph
+annualReport_eng_0c770734	61	7	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I	OK	PART I label above Item 1
+annualReport_eng_0c770734	62	7	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business	OK	Item 1. Business, bold heads below
+annualReport_eng_0c770734	63	7	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › General	OK	bold head + paragraphs
+annualReport_eng_0c770734	71	7	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Overview	OK	bold head + paragraphs
+annualReport_eng_0c770734	77	8	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support	OK	bold head + intro, bold-italic subheads below
+annualReport_eng_0c770734	79	8	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support › Cray Supercomputing Systems	OK	bold-italic subhead + paragraphs (italic run-ins text)
+annualReport_eng_0c770734	96	9	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support › Software	OK	bold-italic subhead + paragraph
+annualReport_eng_0c770734	98	9	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support › Cray Analytics and AI Products	OK	bold-italic subhead + paragraphs
+annualReport_eng_0c770734	102	10	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support › Cray Storage and Data Management Products	OK	bold-italic subhead + paragraphs
+annualReport_eng_0c770734	106	10	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Products, Services and Customer Support › Customer Support	OK	bold-italic subhead + paragraph
+annualReport_eng_0c770734	108	10	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Sales and Marketing	OK	bold head + paragraphs
+annualReport_eng_0c770734	113	11	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Manufacturing and Supply Chain	OK	bold head + paragraphs
+annualReport_eng_0c770734	116	11	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Our Markets	OK	bold head + intro + bullet list
+annualReport_eng_0c770734	130	12	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Competition	OK	bold head + paragraphs
+annualReport_eng_0c770734	136	13	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Intellectual Property	OK	bold head + paragraphs
+annualReport_eng_0c770734	140	13	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Employees	OK	bold head + paragraph
+annualReport_eng_0c770734	142	13	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Corporation Information	OK	bold head + paragraph
+annualReport_eng_0c770734	144	13	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1. Business › Available Information	OK	bold head + paragraph
+annualReport_eng_0c770734	147	14	2018 ANNUAL REPORT › FORM 10-K CRAY INC. › PART I › Item 1A. Risk Factors	OK	Item 1A + bold run-in risk paragraphs to p16
+annualReport_eng_5a2b9698	1	1	Appendix 4E Abacus Group	OK	p1: Appendix 4E ∪ Abacus Group (ABN, period, report subtitle text)
+annualReport_eng_5a2b9698	8	1	Appendix 4E Abacus Group › Results for announcement to the market	OK	bold title + results tables and notes
+annualReport_eng_5a2b9698	19	1	Appendix 4E Abacus Group › Distribution Reinvestment Plan (DRP)	OK	bold title + DRP paragraph
+annualReport_eng_5a2b9698	22	2	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024	OK	attached report cover title + date; restated on p3 (repeat)
+annualReport_eng_5a2b9698	27	3	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › Directory	OK	title + directory boxes
+annualReport_eng_5a2b9698	35	3	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › CONTENTS	OK	title + contents list
+annualReport_eng_5a2b9698	40	4	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT	OK	section title, repeated on every page (repeats)
+annualReport_eng_5a2b9698	43	4	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › PRINCIPAL ACTIVITIES AND STRUCTURE	OK	caps head + paragraphs, two subheads below
+annualReport_eng_5a2b9698	46	4	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › PRINCIPAL ACTIVITIES AND STRUCTURE › Listed Structure / Entities	OK	subhead + paragraphs
+annualReport_eng_5a2b9698	51	4	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › PRINCIPAL ACTIVITIES AND STRUCTURE › Abacus Group Consolidation	OK	subhead + paragraph
+annualReport_eng_5a2b9698	57	5	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW	OK	caps head, caps subheads below
+annualReport_eng_5a2b9698	58	5	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › GROUP OVERVIEW	OK	subhead + paragraphs and bullets
+annualReport_eng_5a2b9698	76	6	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › GROUP RESULTS SUMMARY	OK	subhead + table, (continued) p5-6
+annualReport_eng_5a2b9698	107	8	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › GROUP RESULTS SUMMARY › Capital management and allocation	OK	subhead + paragraphs, bullets, metrics table
+annualReport_eng_5a2b9698	123	9	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY	OK	subhead + intro, metrics, segment subheads; (continued) p8
+annualReport_eng_5a2b9698	134	9	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY › Office	OK	segment subhead + paragraphs, chart
+annualReport_eng_5a2b9698	148	10	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY › Retail	OK	segment subhead + paragraph
+annualReport_eng_5a2b9698	150	10	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY › Storage	OK	subhead + paragraphs
+annualReport_eng_5a2b9698	153	10	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY › Commercial Valuations	OK	subhead + paragraphs
+annualReport_eng_5a2b9698	157	10	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › KEY SEGMENT RESULTS SUMMARY › ESG	OK	subhead + paragraphs, bullets
+annualReport_eng_5a2b9698	169	11	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › FUTURE PROSPECTS	OK	subhead + paragraphs
+annualReport_eng_5a2b9698	172	11	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › RISK MANAGEMENT	OK	subhead + paragraphs, framework figure; (continued) p10-12
+annualReport_eng_5a2b9698	181	12	Appendix 4E Abacus Group › ANNUAL FINANCIAL REPORT 30 June 2024 › DIRECTORS' REPORT › OPERATING AND FINANCIAL REVIEW › RISK MANAGEMENT › Key Risks and Mitigations	OK	subhead + risk tables p10-12, (continued) repeats
+annualReport_eng_70d0bf2b	1	1	The NEW IRELAND Fund Annual Report October 31, 2022	OK	cover: fund name ∪ Annual Report October 31, 2022
+annualReport_eng_70d0bf2b	3	2	The NEW IRELAND Fund Annual Report October 31, 2022 › Letter to Shareholders	OK	letter title p2, letter + signatures to p3
+annualReport_eng_778bc822	6	1	The 600 Group PLC Annual Report & Accounts 2022	OK	cover: owner + Annual Report & Accounts 2022 in one box; front-matter labels text (round 3 containment)
+annualReport_eng_778bc822	52	6	The 600 Group PLC Annual Report & Accounts 2022 › Chairman's statement	OK	section header + letter, signature closes it
+annualReport_eng_778bc822	60	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report	OK	section-only running header p7-11, body subheads below
+annualReport_eng_778bc822	61	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Our business	OK	bold head + paragraphs
+annualReport_eng_778bc822	64	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Revenues (Continuing activities)	OK	bold head + lead-in + table
+annualReport_eng_778bc822	67	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Macroeconomic and industry trends	OK	bold head, one subhead below
+annualReport_eng_778bc822	68	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Macroeconomic and industry trends › Industrial laser systems	OK	bold subhead + paragraphs
+annualReport_eng_778bc822	73	7	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Our main markets	OK	bold head + paragraphs
+annualReport_eng_778bc822	79	8	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Activity in the year	OK	bold head after (continued) line, one subhead below
+annualReport_eng_778bc822	80	8	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Activity in the year › Industrial laser systems	OK	bold subhead + paragraphs, results table
+annualReport_eng_778bc822	87	8	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Discontinued Activity - Machine tools division	OK	bold head + paragraph
+annualReport_eng_778bc822	89	8	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Group Results	OK	bold head + paragraph
+annualReport_eng_778bc822	91	8	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Adjusting items	OK	bold head + paragraphs
+annualReport_eng_778bc822	101	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Taxation	OK	bold head + paragraphs
+annualReport_eng_778bc822	104	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Net profit and earnings per share	OK	bold head + paragraphs
+annualReport_eng_778bc822	107	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Financial position and utilisation of resources	OK	bold head, Cash flow subhead below
+annualReport_eng_778bc822	108	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Financial position and utilisation of resources › Cash flow	OK	bold subhead + paragraphs
+annualReport_eng_778bc822	113	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Net borrowings	OK	bold head + paragraphs
+annualReport_eng_778bc822	119	9	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Retirement benefits	OK	bold head + paragraph
+annualReport_eng_778bc822	124	10	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Key performance indicators (KPIs)	OK	bold head + paragraphs, KPI table
+annualReport_eng_778bc822	132	10	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › S172 of the Companies Act	OK	bold head + paragraphs, consideration table
+annualReport_eng_778bc822	143	11	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Principal risks	OK	bold head + run-in risk paragraphs
+annualReport_eng_778bc822	149	11	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Market risks	OK	bold head + paragraphs
+annualReport_eng_778bc822	152	11	The 600 Group PLC Annual Report & Accounts 2022 › Strategic report › Other risks and uncertainties	OK	bold head + paragraphs; Chairman signature as attribution
+annualReport_eng_778bc822	159	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement	OK	section-only header p12, body title below (600 Group rule)
+annualReport_eng_778bc822	160	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement › Chief Financial Officer Statement	OK	body title + intro, bold subheads below
+annualReport_eng_778bc822	162	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement › Chief Financial Officer Statement › Current year review	OK	bold head + paragraphs
+annualReport_eng_778bc822	166	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement › Chief Financial Officer Statement › Statement of financial position	OK	bold head + paragraphs
+annualReport_eng_778bc822	170	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement › Chief Financial Officer Statement › Next year outlook	OK	bold head + paragraph
+annualReport_eng_778bc822	172	12	The 600 Group PLC Annual Report & Accounts 2022 › CFO Statement › Chief Financial Officer Statement › Conclusion	OK	bold head + paragraph; CFO signature as attribution
+annualReport_eng_778bc822	176	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance	OK	section header + intro paragraphs
+annualReport_eng_778bc822	180	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance › The Board	OK	bold head + paragraphs
+annualReport_eng_778bc822	190	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance › Relations with shareholders	OK	bold head + paragraph
+annualReport_eng_778bc822	192	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance › Social responsibility	OK	bold head + paragraph
+annualReport_eng_778bc822	194	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance › Risk management	OK	bold head + paragraphs
+annualReport_eng_778bc822	198	13	The 600 Group PLC Annual Report & Accounts 2022 › Corporate governance › The QCA Code	OK	bold head + lead-in (code list beyond the excerpt)
+annualReport_eng_824dec82	2	1	Annual Report 2024	OK	cover: Annual Report 2024 (Lam logo is an image)
+annualReport_eng_824dec82	3	2	Annual Report 2024 › Engineering the world's most advanced chips	OK	intro headline + paragraphs, slogan text
+annualReport_eng_824dec82	9	4	Annual Report 2024 › LETTER TO OUR STOCKHOLDERS	OK	letter title + letter p4-6, signatures
+annualReport_eng_824dec82	36	7	Annual Report 2024 › Solid financial results with continued focus on investments in research and development.	OK	results page headline + intro, one subhead
+annualReport_eng_824dec82	38	7	Annual Report 2024 › Solid financial results with continued focus on investments in research and development. › Performance Overview - Fiscal Year 2024	OK	subhead + KPI tiles and charts
+annualReport_eng_824dec82	46	8	Annual Report 2024 › INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM	OK	back-page box: heading + auditor (text = heading line)
+annualReport_eng_824dec82	47	8	Annual Report 2024 › TRANSFER AGENT AND REGISTRAR	OK	back-page box: heading + agent contacts (text = heading line)
+annualReport_eng_824dec82	53	8	Annual Report 2024 › STOCK LISTING	OK	heading + paragraph
+annualReport_eng_824dec82	55	8	Annual Report 2024 › INVESTOR RELATIONS	OK	heading + paragraph + contact
+annualReport_eng_824dec82	58	8	Annual Report 2024 › ANNUAL MEETING	OK	heading + paragraph
+annualReport_eng_824dec82	60	8	Annual Report 2024 › CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS	OK	heading + long paragraph
+annualReport_eng_824dec82	63	8	Annual Report 2024 › TRADEMARK INFORMATION	OK	heading + paragraph
+annualReport_eng_9b6e4f33	2	1	FORM 10-K BLOOM ENERGY CORPORATION	OK	10-K cover: FORM 10-K ∪ registrant name box (caption dropped); SEC name text
+annualReport_eng_9b6e4f33	35	2	FORM 10-K BLOOM ENERGY CORPORATION › DOCUMENTS INCORPORATED BY REFERENCE	OK	front-matter title + incorporation paragraph
+annualReport_eng_9b6e4f33	38	3	FORM 10-K BLOOM ENERGY CORPORATION › Table of Contents	OK	contents box restates owner/form; text = Table of Contents line
+annualReport_eng_9b6e4f33	42	4	FORM 10-K BLOOM ENERGY CORPORATION › SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS	OK	front-matter title + paragraphs
+annualReport_eng_9b6e4f33	50	5	FORM 10-K BLOOM ENERGY CORPORATION › Part I	OK	Part I label above Item 1
+annualReport_eng_9b6e4f33	51	5	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS	OK	Item 1 heading, bold heads below
+annualReport_eng_9b6e4f33	52	5	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Overview	OK	bold head, two italic subheads
+annualReport_eng_9b6e4f33	53	5	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Overview › Description of Bloom Energy	OK	italic subhead + paragraph
+annualReport_eng_9b6e4f33	55	5	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Overview › Key Macro Trends	OK	italic subhead + lead-in, bold trend list, run-in paragraphs
+annualReport_eng_9b6e4f33	69	6	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Our Markets	OK	bold head + paragraphs p6-7
+annualReport_eng_9b6e4f33	79	7	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services	OK	bold head, three product subheads
+annualReport_eng_9b6e4f33	80	7	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › Solid Oxide Platform	OK	italic subhead + paragraph + bullets
+annualReport_eng_9b6e4f33	86	7	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › The Bloom Energy Server System	OK	italic subhead + paragraphs, Value Proposition / Competition below
+annualReport_eng_9b6e4f33	97	8	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › The Bloom Energy Server System › Value Proposition	OK	bold-italic subhead + run-in bullets
+annualReport_eng_9b6e4f33	105	9	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › The Bloom Energy Server System › Competition	OK	bold-italic subhead + competitor bullets
+annualReport_eng_9b6e4f33	122	10	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › Bloom Electrolyzer	OK	italic subhead + paragraph, two subheads below
+annualReport_eng_9b6e4f33	126	11	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › Bloom Electrolyzer › Value Proposition	OK	bold-italic subhead + run-in bullets
+annualReport_eng_9b6e4f33	129	11	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Products & Services › Bloom Electrolyzer › Electrolyzer Competition	OK	bold-italic subhead + paragraph
+annualReport_eng_9b6e4f33	131	11	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Research and Development	OK	bold head + paragraphs
+annualReport_eng_9b6e4f33	134	11	FORM 10-K BLOOM ENERGY CORPORATION › Part I › ITEM 1-BUSINESS › Intellectual Property	OK	bold head + paragraphs
+annualReport_eng_a7bf8c0c	1	1	Alaska Air Group 2024 Annual Report	OK	cover: Alaska Air Group ∪ 2024 Annual Report in one box (no page 2 in the set)
+annualReport_eng_a7bf8c0c	3	3	Alaska Air Group 2024 Annual Report › To Our Shareholders	OK	letter title + letter, signatures
+annualReport_eng_a7bf8c0c	28	5	Alaska Air Group 2024 Annual Report › Board of Directors	OK	title + board name list (names text)
+annualReport_eng_a7bf8c0c	55	5	Alaska Air Group 2024 Annual Report › Executive Leadership	OK	title + executive name list (names text)
+annualReport_eng_a7bf8c0c	80	6	Alaska Air Group 2024 Annual Report › Corporate Information	OK	title + information boxes
+annualReport_eng_a7bf8c0c	81	6	Alaska Air Group 2024 Annual Report › Corporate Information › Annual Meeting	OK	box title + paragraph
+annualReport_eng_a7bf8c0c	83	6	Alaska Air Group 2024 Annual Report › Corporate Information › Investor Relations	OK	box title + paragraph
+annualReport_eng_a7bf8c0c	86	6	Alaska Air Group 2024 Annual Report › Corporate Information › SEC Filings	OK	box title + paragraph
+annualReport_eng_a7bf8c0c	88	6	Alaska Air Group 2024 Annual Report › Corporate Information › Transfer Agent	OK	box title + delivery addresses
+annualReport_eng_a7bf8c0c	94	6	Alaska Air Group 2024 Annual Report › Corporate Information › Independent Auditors	OK	box title + address
+annualReport_eng_a7bf8c0c	96	6	Alaska Air Group 2024 Annual Report › Corporate Information › Corporate Headquarters	OK	box title + address
+annualReport_eng_a7bf8c0c	98	6	Alaska Air Group 2024 Annual Report › Corporate Information › Stock Market Information	OK	box title + paragraph + price table
+annualReport_eng_a7bf8c0c	104	7	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC.	OK	embedded 10-K cover: FORM 10-K ∪ registrant name; restated above contents (repeat)
+annualReport_eng_a7bf8c0c	130	7	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › DOCUMENTS INCORPORATED BY REFERENCE	OK	front-matter title + paragraph
+annualReport_eng_a7bf8c0c	133	8	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › TABLE OF CONTENTS	OK	contents title + item list
+annualReport_eng_a7bf8c0c	136	8	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS	OK	front-matter title + paragraphs p8-9
+annualReport_eng_a7bf8c0c	141	10	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI	OK	PART I label (box text OCR "PARTI")
+annualReport_eng_a7bf8c0c	142	10	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS	OK	Item 1 band + paragraphs, caps heads below
+annualReport_eng_a7bf8c0c	150	10	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › AIR GROUP	OK	caps head + paragraphs, tables
+annualReport_eng_a7bf8c0c	157	11	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › ALASKA AIRLINES	OK	caps head + paragraph, tables
+annualReport_eng_a7bf8c0c	164	11	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › HAWAIIAN AIRLINES	OK	caps head + paragraph, table
+annualReport_eng_a7bf8c0c	171	12	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › REGIONAL	OK	caps head + paragraph, table
+annualReport_eng_a7bf8c0c	175	12	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › CARGO AND OTHER REVENUE	OK	caps head + paragraphs
+annualReport_eng_a7bf8c0c	179	12	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › LOYALTY PROGRAMS	OK	caps head + paragraphs, airline subheads
+annualReport_eng_a7bf8c0c	184	13	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › LOYALTY PROGRAMS › Alaska Airlines	OK	italic subhead + paragraphs
+annualReport_eng_a7bf8c0c	189	13	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › LOYALTY PROGRAMS › Hawaiian Airlines	OK	italic subhead + paragraphs
+annualReport_eng_a7bf8c0c	194	13	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › AGREEMENTS WITH OTHER AIRLINES	OK	caps head + paragraphs, bullets, partner tables p13-15
+annualReport_eng_a7bf8c0c	216	16	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › GENERAL	OK	caps head + paragraph
+annualReport_eng_a7bf8c0c	218	16	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › SAFETY	OK	caps head + paragraphs
+annualReport_eng_a7bf8c0c	222	16	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › FUEL	OK	caps head + paragraphs, fuel tables p16-17
+annualReport_eng_a7bf8c0c	234	17	Alaska Air Group 2024 Annual Report › FORM 10-K ALASKA AIR GROUP, INC. › PARTI › ITEM 1. BUSINESS › COMPETITION	OK	caps head + paragraphs (factor list beyond excerpt)
+annualReport_eng_b3c337f8	1	1	MSCI 2024 Annual Report	OK	cover: MSCI wordmark box ∪ 2024 Annual Report (user decision 2026-11-13)
+annualReport_eng_b3c337f8	4	2	MSCI 2024 Annual Report › About MSCI Inc.	OK	title + profile paragraph
+annualReport_eng_b3c337f8	9	3	MSCI 2024 Annual Report › Financial Highlights	OK	title + 5-year table
+annualReport_eng_b3c337f8	14	4	MSCI 2024 Annual Report › Selected Quarterly Financial Data (unaudited)	OK	title + quarterly table
+annualReport_eng_c58ec05f	2	1	2024 ANNUAL REPORT	OK	cover 2024 ANNUAL REPORT (alstria logo is an image; no page 2 in the set); footer restates it (repeat)
+annualReport_eng_c58ec05f	4	3	2024 ANNUAL REPORT › KEY FIGURES	OK	key figures page title
+annualReport_eng_c58ec05f	5	3	2024 ANNUAL REPORT › KEY FIGURES › FIVE-YEAR OVERVIEW	OK	subhead + five-year tables
+annualReport_eng_c58ec05f	16	4	2024 ANNUAL REPORT › CONTENT	OK	contents title + list
+annualReport_eng_c58ec05f	18	5	2024 ANNUAL REPORT › Combined Management Report	OK	section-only running header from the detail index on (alstria rule)
+annualReport_eng_c58ec05f	19	5	2024 ANNUAL REPORT › Combined Management Report › DETAIL INDEX COMBINED MANAGEMENT REPORT	OK	detail index title + list
+annualReport_eng_c58ec05f	24	6	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT	OK	body title A. under its section header (600 Group rule)
+annualReport_eng_c58ec05f	25	6	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY	OK	roman part I., numbered 1.-4. below
+annualReport_eng_c58ec05f	26	6	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 1. STRATEGY	OK	1. + paragraphs and bullets
+annualReport_eng_c58ec05f	42	7	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 2. CORPORATE MANAGEMENT	OK	2. + paragraphs
+annualReport_eng_c58ec05f	52	8	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 3. ECONOMY AND OFFICE MARKETS	OK	3. with 3.1/3.2
+annualReport_eng_c58ec05f	53	8	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 3. ECONOMY AND OFFICE MARKETS › 3.1. Economic development \*\*\*\*	OK	3.1 + paragraph (box text keeps footnote stars)
+annualReport_eng_c58ec05f	63	9	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 3. ECONOMY AND OFFICE MARKETS › 3.2. Office markets*****	OK	3.2 with 3.2.1/3.2.2 (box text keeps footnote stars)
+annualReport_eng_c58ec05f	64	9	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 3. ECONOMY AND OFFICE MARKETS › 3.2. Office markets***** › 3.2.1. Vacancy rate, office lettings and rents	OK	3.2.1 + paragraphs
+annualReport_eng_c58ec05f	67	9	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 3. ECONOMY AND OFFICE MARKETS › 3.2. Office markets***** › 3.2.2. Transactions	OK	3.2.2 + paragraph
+annualReport_eng_c58ec05f	72	10	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS	OK	4. with 4.1-4.5
+annualReport_eng_c58ec05f	73	10	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS › 4.1. Key metrics of the portfolio and investment locations	OK	4.1 + paragraph, tables
+annualReport_eng_c58ec05f	82	11	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS › 4.2. Tenants and leases	OK	4.2 + paragraphs, tables
+annualReport_eng_c58ec05f	89	11	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS › 4.3. Capital expenditure into the existing portfolio	OK	4.3 + paragraph, project table
+annualReport_eng_c58ec05f	95	12	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS › 4.4. Transactions	OK	4.4 + sentence
+annualReport_eng_c58ec05f	97	12	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › I. ECONOMICS AND STRATEGY › 4. PORTFOLIO ANALYSIS › 4.5. Portfolio valuation	OK	4.5 + paragraph
+annualReport_eng_c58ec05f	102	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS	OK	roman part II., 1. below
+annualReport_eng_c58ec05f	103	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION	OK	1. + table, 1.1-1.7 below
+annualReport_eng_c58ec05f	105	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.1. Net operating result	OK	1.1 + paragraphs
+annualReport_eng_c58ec05f	108	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.2. Revenues	OK	1.2 + paragraph
+annualReport_eng_c58ec05f	110	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.3. Real estate operating expenses	OK	1.3 + paragraph
+annualReport_eng_c58ec05f	112	13	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.4. Administrative and personnel expenses	OK	1.4 + paragraph to p14
+annualReport_eng_c58ec05f	118	14	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.5. Other operating result	OK	1.5 + paragraph
+annualReport_eng_c58ec05f	120	14	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.6. Net result from fair value adjustments to investment property	OK	1.6 + paragraph
+annualReport_eng_c58ec05f	122	14	2024 ANNUAL REPORT › Combined Management Report › A. COMBINED MANAGEMENT REPORT › II. FINANCIAL ANALYSIS › 1. EARNINGS POSITION › 1.7. Net result from the disposal of investment property	OK	1.7 + paragraph
+annualReport_eng_dd7d06a3	2	1	2024 Annual Report	OK	cover: 2024 ∪ Annual Report (gogo logo is an image)
+annualReport_eng_dd7d06a3	7	3	2024 Annual Report › FORM 10-K Gogo Inc.	OK	embedded 10-K cover: FORM 10-K ∪ registrant name box (caption dropped)
+annualReport_eng_dd7d06a3	37	4	2024 Annual Report › FORM 10-K Gogo Inc. › Documents Incorporated By Reference	OK	front-matter title + incorporation paragraph
+annualReport_eng_dd7d06a3	40	5	2024 Annual Report › FORM 10-K Gogo Inc. › INDEX	OK	10-K index title + item list (Gogo Inc. header is text)
+annualReport_eng_ea53b553	4	1	FORM 10-K ACURA PHARMACEUTICALS, INC.	OK	10-K cover: FORM 10-K ∪ registrant name box (caption dropped); restated above contents (repeat)
+annualReport_eng_ea53b553	38	2	FORM 10-K ACURA PHARMACEUTICALS, INC. › Table of Contents	OK	contents title + item list
+annualReport_eng_ea53b553	42	3	FORM 10-K ACURA PHARMACEUTICALS, INC. › Forward-Looking Statements	OK	front-matter title + paragraphs and bullets
+annualReport_eng_ea53b553	74	4	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I	OK	PART I label above Item 1
+annualReport_eng_ea53b553	75	4	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS	OK	Item 1 heading, bold heads below
+annualReport_eng_ea53b553	76	4	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › Overview	OK	bold head + paragraphs p4-5
+annualReport_eng_ea53b553	85	5	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › Our Strategy	OK	bold head + lead-in + italic run-in bullets
+annualReport_eng_ea53b553	93	6	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › Misuse or Abuse of Prescription Opioid Products and Development of Risk Mitigation Formulations	OK	bold head + paragraphs, bullets
+annualReport_eng_ea53b553	110	7	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › Overdose Risk Mitigation - Products and Development	OK	bold head + paragraphs
+annualReport_eng_ea53b553	114	7	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx? Technology	OK	bold head + paragraph (box OCR prints ? for the ™ sign)
+annualReport_eng_ea53b553	118	8	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development	OK	bold head + lead-in, table, LTX-03 subhead
+annualReport_eng_ea53b553	124	8	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development	OK	bold-italic subhead, italic study subheads below
+annualReport_eng_ea53b553	125	8	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › Study 301	OK	italic subhead + paragraphs
+annualReport_eng_ea53b553	129	8	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › Manufacturing	OK	italic subhead + paragraph
+annualReport_eng_ea53b553	133	9	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › IND Update	OK	italic subhead + paragraphs, study list
+annualReport_eng_ea53b553	141	9	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › Non-clinical Study APT-RDR-300	OK	italic subhead + paragraphs
+annualReport_eng_ea53b553	144	9	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › Non-clinical Study APT-RDR-301	OK	italic subhead + paragraphs
+annualReport_eng_ea53b553	150	10	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › Clinical Study AP-LTX-311	OK	italic subhead + paragraphs
+annualReport_eng_ea53b553	153	10	FORM 10-K ACURA PHARMACEUTICALS, INC. › PART I › ITEM 1. BUSINESS › LIMITx Technology Products in Development › LTX-03 Development › AD Pharma Amended Agreement covering LTX-03	OK	italic subhead + paragraphs
+annualReport_eng_fc735d9d	1	1	Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna	OK	cover title + its Māori translation in one box (logo image, slogan text)
+annualReport_eng_fc735d9d	5	2	Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna › About this report	OK	title + about-report paragraphs in the panel
+annualReport_eng_fc735d9d	16	3	Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna › Contents	OK	Contents title + TOC lists

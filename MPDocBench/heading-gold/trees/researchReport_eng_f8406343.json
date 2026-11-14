@@ -1,0 +1,119 @@
+{
+ "doc": "researchReport_eng_f8406343",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs Strategy Espresso: Q&A on Womenomics: Where is Europe now?",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Strategy Espresso: Q&A on Womenomics: Where is Europe now?)."
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Q1: The share of women on boards has improved; but isn't this all non-executive directors?",
+   "why": "section: numbered question heading with its answer section"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Q2: But are things improving?",
+   "why": "section: numbered question heading with its answer section"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Q3: Are certain sectors/countries doing better?",
+   "why": "section: numbered question heading with its answer section"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Q4: What matters for the gender pay gap?",
+   "why": "section: numbered question heading with its answer section"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Q5: Have women been hit harder by Covid?",
+   "why": "section: numbered question heading with its answer section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    20
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 7,
+   "why": "bold run-in question starting a cover bullet (answer continues in the same paragraph): text"
+  }
+ ],
+ "considered": []
+}

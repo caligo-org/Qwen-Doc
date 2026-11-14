@@ -1,0 +1,27 @@
+{
+ "doc": "goverment_eng_aa75e353",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FRIENDS OF AFGHANISTAN MEETING AT THE UN",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "numbered paragraph \"2. (U) Participants:\" introducing a name list: lead-in, text"
+  },
+  {
+   "box": 10,
+   "why": "country label in the participants list: list of names, text"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "doc": "newspaper_chn_ed6aed31",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "why": "masthead; pinyin in the same box is text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "《习近平关于民政工作论述摘编》出版发行",
+   "why": "story headline, front page (printed over two lines)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "古树有了“双保险”",
+   "why": "story headline (figure rubric 我在现场 is not text)"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "天山焕新颜 丝路著华章",
+   "why": "story headline; ——综述 subtitle in the same box is a deck"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 4,
+   "parent": 20,
+   "text": "西部边疆日新月异",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 4,
+   "parent": 20,
+   "text": "民生福祉持续提升",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "目的是为老百姓过好日子",
+   "why": "story headline (figure rubric 光明时评)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "“争鸣专版让学术讨论别开生面”",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "与经典对话,同现实交友",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "评论",
+   "why": "section: page tag 评论 on p2"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "乐见更多青年 扎根西部建功立业",
+   "why": "story headline (printed over two lines)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "为智慧生活添加更多想象空间",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "守护青少年成长，向网络烂梗说“不”",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "多措并举为制造业高质量发展蓄势赋能",
+   "why": "story headline (vertical)"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "让“幼有所育” 惠及千家万户",
+   "why": "story headline (printed over two lines)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    86
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 4,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (大美中国 丰收画卷) follows"
+  }
+ ]
+}

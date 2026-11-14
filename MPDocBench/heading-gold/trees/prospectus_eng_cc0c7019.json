@@ -1,0 +1,164 @@
+{
+ "doc": "prospectus_eng_cc0c7019",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "ODDO FUNDS Prospectus",
+   "why": "title union: company (owner) + document type Prospectus"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY",
+   "why": "front matter section (country information)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "GENERAL PRESENTATION OF THE PROSPECTUS",
+   "why": "front matter section GENERAL PRESENTATION with its subsections"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "INTRODUCTION",
+   "why": "subsection with its paragraphs"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "REQUEST INFORMATION",
+   "why": "subsection with its address blocks"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "NB",
+   "why": "subsection NB with its paragraphs"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "BOOK I OF THE PROSPECTUS - GENERAL PROVISIONS",
+   "why": "Book I part title (top body unit)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 48,
+   "text": "CONTACTS",
+   "why": "Book I section CONTACTS (directory)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "The Company",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "The Board of Directors",
+   "why": "directory label with its block of names"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Designated Management Company",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Custodian Bank and Paying Agent",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Central Administration Agent, Registrar and Transfer Agent",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "Auditors",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 48,
+   "text": "LEGAL STRUCTURE",
+   "why": "Book I section LEGAL STRUCTURE: a section of Book I, not a directory entry (content)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 34,
+   "why": "lead-in sentence introducing a bullet list (Investors are reminded that:): text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "legal form line on the cover: text"
+  }
+ ]
+}

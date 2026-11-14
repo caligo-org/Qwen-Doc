@@ -1,0 +1,294 @@
+{
+ "doc": "newspaper_eng_e4dd9616",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "USA TODAY",
+   "why": "masthead (periodical title) | starts: the skybox teasers #1-#5 above the masthead come before it in reading order and belong to the paper"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Handful of VIPs are noted no-shows",
+   "why": "story headline, front page (no section banner); kicker above is text | starts: the kicker REPUBLICAN NATIONAL CONVENTION #12 comes before the headline in reading order"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Outdated 911 system faces its own crisis in US",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Heavenly pair: ‘Penguin and Egg’ galaxies",
+   "why": "photo story headline (line under the photo is its deck)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Immigrants' sharp rise in South brings strife over border politics",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "NEWS",
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Ruling mandates release of Uvalde records",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 59,
+   "text": "Decision follows a similar 2023 ruling",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 59,
+   "text": "Texas law enforcement criticized for delayed response to shooting",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Outdated 911 system faces its own crisis in US",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Outdated 911\" (no headline), so the continuation takes the original's title #21",
+   "continues": 21
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Police officer encountered Trump shooter",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Secret Service director to testify before Congress",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Authorities fear violence could breed violence",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Slain fireman's widow rejects Biden's call but doesn't blame him",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Crooks reportedly bought ladder before shooting",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Handful of VIPs are noted no-shows",
+   "why": "continuation: one-word jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"No-shows\" (no headline), so the continuation takes the original's title #13",
+   "continues": 13
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 4,
+   "parent": 172,
+   "text": "Planning a write-in vote",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 4,
+   "parent": 172,
+   "text": "Changing roles of conventions",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 4,
+   "parent": 172,
+   "text": "Passing on the baton",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    200
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "One of world's oldest gorillas dies in Calif.",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Popular CoQ10 Pills Leave Millions Suffering",
+   "why": "story-level headline of an advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text) | starts: the label PAID ADVERTISEMENT #227 above the advertorial's headline comes before it in reading order (replaces the round-5 break before #227)"
+  },
+  {
+   "boxes": [
+    237
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Why Taking CoQ10 is Not Enough",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    243
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Science Confirms the Many Benefits of PQQ",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    249
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Will Ultra Accel Q Multiply Your Energy?",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  },
+  {
+   "boxes": [
+    257
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "How To Get Ultra Accel Q",
+   "why": "subhead of the advertorial framed as an ad (PAID ADVERTISEMENT) with its own headline and subheads: it passes containment as an article, and as text its content fell under the preceding story (breadcrumb round 3, resolves OPEN 7: was text)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    120
+   ],
+   "of": 6,
+   "why": "masthead name restated as the colophon box title"
+  },
+  {
+   "boxes": [
+    132,
+    199
+   ],
+   "of": 58,
+   "why": "running section tag NEWS on the following pages"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 34,
+   "why": "deck of the photo story (second line under the photo). OPEN: borderline"
+  },
+  {
+   "box": 122,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 124,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 126,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 128,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 130,
+   "why": "colophon field label (contact box)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 30,
+   "closes": 21,
+   "why": "round 5: the story ends (See OUTDATED 911, Page 2A); the barcode / home-delivery box follows"
+  },
+  {
+   "before": 119,
+   "closes": 87,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  },
+  {
+   "before": 227,
+   "closes": 200,
+   "why": "round 5: the story ends; the PAID ADVERTISEMENT label of the advertorial below it follows"
+  }
+ ]
+}

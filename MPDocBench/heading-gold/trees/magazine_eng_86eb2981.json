@@ -1,0 +1,254 @@
+{
+ "doc": "magazine_eng_86eb2981",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Fine WoodWorking Tools & Shops",
+   "why": "title union: owner masthead Fine WoodWorking + issue title Tools & Shops (ANNUAL ISSUE line in the box is text)"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "features",
+   "why": "contents group heading 'features' (the contents spread prints no Contents title) starts: #139 (the feature thumbnails #139-#141 with their page numbers printed above the features title)"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "in every issue",
+   "why": "contents group heading 'in every issue'"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Fine WoodWorking UNLIMITED",
+   "why": "section: department banner Fine WoodWorking UNLIMITED"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 3,
+   "parent": 166,
+   "text": "Online extras",
+   "why": "box with own title (Online extras), its items below"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "Evolution of a tool chest",
+   "why": "item headline with its blurb starts: #170 (the VIDEO icon and kicker #171 printed above the title)"
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "Tough grain? Try a bevel-up plane",
+   "why": "item headline with its blurb starts: #175 (the VIDEO icon and kicker #176 printed above the title)"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "Align the spine",
+   "why": "item headline with its blurb starts: #179 (the VIDEO icon and kicker #180 printed above the title)"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "Bright ideas",
+   "why": "item headline with its blurb starts: #184 (the VIDEO icon and kicker #185 printed above the title)"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "Fresh fence",
+   "why": "item headline with its blurb starts: #188 (the item photo with its arrow, then the VIDEO icon and kicker #189/#190 printed above the title)"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "The not-so-big workbench",
+   "why": "item headline with its blurb and bullet list starts: #193 (the VIDEO WORKSHOP icon and kicker #194 printed above the title)"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "level": 3,
+   "parent": 166,
+   "text": "Additional perks of Unlimited",
+   "why": "box with own title (Additional perks of Unlimited), its items below"
+  },
+  {
+   "boxes": [
+    203
+   ],
+   "level": 4,
+   "parent": 201,
+   "text": "FREE PLANS",
+   "why": "item headline with its blurb starts: #202 (the plans image printed left of the title)"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 4,
+   "parent": 201,
+   "text": "ONLINE ARCHIVES",
+   "why": "item headline with its blurb"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    136,
+    137
+   ],
+   "of": 1,
+   "why": "repeat: title union (Fine WoodWorking + Tools & Shops) restated over the contents spread"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (FINE WOODWORKING)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "cover-line label"
+  },
+  {
+   "box": 8,
+   "why": "cover-line label"
+  },
+  {
+   "box": 10,
+   "why": "cover-line label"
+  },
+  {
+   "box": 171,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 176,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 180,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 185,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 190,
+   "why": "kicker label VIDEO above an item headline"
+  },
+  {
+   "box": 194,
+   "why": "kicker label VIDEO WORKSHOP above an item headline"
+  },
+  {
+   "box": 12,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 21,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 33,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 45,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 58,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 70,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 84,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 96,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 108,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 119,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 156,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  },
+  {
+   "box": 210,
+   "why": "advertisement (pp. 2, 5, 7): product/brand headline"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 145,
+   "closes": 142,
+   "why": "features list ends; the tablet-editions subscriber promo follows (not a feature)"
+  },
+  {
+   "before": 155,
+   "closes": 148,
+   "why": "in-every-issue contents page ends; a full-page ad follows"
+  },
+  {
+   "before": 210,
+   "closes": 166,
+   "why": "Fine WoodWorking UNLIMITED page ends; a full-page ad follows"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+doc	kind	box	closes	page	note
+financialReport_chn_02be59d4	NONE				cover, 一、审计报告 block, 二、财务报表 and statement 1 on p2: each block about its heading, next heading closes it; running head/page number need no break; all 2 pages rendered with show.py --tree and viewed: no break or restore needed
+financialReport_chn_07ebf5d6	BREAK	107	87	8	the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_16e75a27	NONE				12 pages: 一、/二、 blocks and six statement titles; statement sign-off lines (法定代表人…) belong to the statement above; next statement title closes each; all 12 pages rendered with show.py --tree and viewed: no break or restore needed
+financialReport_chn_486c6f77	BREAK	82	65	6	the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_4b6d76a1	BREAK	98	83	7	the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_58dd29fc	BREAK	14	8	3	Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents
+financialReport_chn_58dd29fc	BREAK	89	74	8	（以下无正文） and the signature page that follow end the letter: they sign the whole audit report, not this section
+financialReport_chn_87bc5908	BREAK	16	9	3	Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents
+financialReport_chn_87bc5908	BREAK	127	103	10	the signature page (本页无正文…签字盖章页, firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_8c038830	NONE				6 pages: 一、/二、 blocks and three statements; sign-off lines belong to their statement; cover running heads text; all 6 pages rendered with show.py --tree and viewed: no break or restore needed
+financialReport_chn_956ee055	NONE				3 pages: 一、/二、 blocks, 合并资产负债表 table continues on p3; no untitled foreign content; all 3 pages rendered with show.py --tree and viewed: no break or restore needed
+financialReport_chn_ad31878f	BREAK	11	5	3	Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents
+financialReport_chn_d1c80a8f	RESTORED	5		2	L2 我們的宗旨: round 5: restored, a break now closes it before the untitled TOC (#9); own-line label with its own block (slogan #6/#7 + mission statement #8), which is about it
+financialReport_chn_d1c80a8f	BREAK	9	5	3	the untitled table of contents follows the purpose label's block (slogan + mission statement); it is not about 我們的宗旨
+financialReport_chn_d603bfdc	NONE				9 pages: 目錄 closed by first statement caption; each statement caption closes the previous; footer note 第9至26頁… is a footer; 附註： block under 簡明綜合現金流量表 runs to page end; all 9 pages rendered with show.py --tree and viewed: no break or restore needed
+financialReport_chn_d65056e3	BREAK	17	10	3	Contents ends; the auditor's letter follows (restated title = repeat of L1, report number, addressee line), not part of the contents
+financialReport_chn_d65056e3	BREAK	90	72	7	the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_dd929555	BREAK	112	93	7	the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section
+financialReport_chn_eef30e08	NONE				10 pages: 一、/二、 blocks and six statements; sign-off line after each statement belongs to it; all 10 pages rendered with show.py --tree and viewed: no break or restore needed

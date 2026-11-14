@@ -1,0 +1,103 @@
+{
+ "doc": "magazine_eng_d9bbdc7a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Total TVguide",
+   "why": "title: masthead printed in two boxes, union Total + TVguide (date band in the box is text)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Your Total TV WEEK",
+   "why": "front matter: page banner over the editor's note and contents"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "From the Editor",
+   "why": "front matter: editor's note with its letter below"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "Inside",
+   "why": "contents title Inside, under the front-matter banner"
+  },
+  {
+   "boxes": [
+    50,
+    64
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "KOREA OPPORTUNITIES",
+   "why": "story headline split across the spread (union KOREA OPP + ORTUNITIES); section not printed (ENTERTAINMENT is a kicker) and the front banner is closed starts: #49 (the feature photo credit printed vertically at the page edge, first box of p4)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    47
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 11,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 15,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 17,
+   "why": "advertisement (p2)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 35,
+   "closes": 31,
+   "why": "editor's note ends (signature); ON-SALE DATE CHANGES notice box follows, not about the note"
+  },
+  {
+   "before": 46,
+   "closes": 37,
+   "why": "Inside contents ends; SUBSCRIBE NOW teaser follows, not about Inside"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+doc	kind	box	closes	page	note
+handwritten_chn_01fba5b3	NONE				all pages viewed with show.py --tree; itinerary sheet + guide sheets; every L2 label block runs to the next label or sheet title; nothing untitled after a block
+handwritten_chn_048c9a89	BREAK	4	2	1	red teaching-goals box (第一课时教学目标) is about the lesson, not about 一：由来
+handwritten_chn_1ae487be	BREAK	188	148	4	items 20-22 (equations from conversion diagrams 图1/图2) are not about 考法二 根据原理、用途书写; no 考法 title printed
+handwritten_chn_375d58b7	NONE				all pages viewed with show.py --tree; each page is one table element; no nodes
+handwritten_chn_50d71ae2	NONE				all pages viewed with show.py --tree; checked 7.3 cases 一-三 under 7.3, ★ exercises under 三. 推理 (they apply 推理/位移), 拉普拉斯逆变换 under 1. 线性性质; all about their heading
+handwritten_chn_65cdc9d3	NONE				all pages viewed with show.py --tree; exam problems with solutions only; no nodes
+handwritten_chn_6a1cedac	NONE				all pages viewed with show.py --tree; each 思考题 block runs to the next 一/二/三 part; run-in lead-ins and Q&A belong to their open heading
+handwritten_chn_79c34515	NONE				all pages viewed with show.py --tree; each page is one table element; no nodes
+handwritten_chn_92741860	NONE				all pages viewed with show.py --tree; essay title is the only node; all text is the essay
+handwritten_chn_92bf52bc	NONE				all pages viewed with show.py --tree; 离心机的类型 (p2 top) is about 4. 离心技术; every L2 part's content is about it
+handwritten_chn_94af97ba	NONE				all pages viewed with show.py --tree; question groups 一/二/三 hold only their questions
+handwritten_chn_9ad83bc1	BREAK	15	10	2	closing paragraph about the whole essay, not about the part 爱好无奈放弃
+handwritten_chn_a6f48a98	RESTORED	21		2	(1) 物品交换的4个阶段 L2 under 三. 货币的产生的过程: own-line title with its own block (#22-#23); was text only because the run-in siblings (2)-(4) would fall under it
+handwritten_chn_a6f48a98	BREAK	24	21	2	closes the restored (1) before the run-in sibling (2); NOTATIONS run-in-sibling exception now uses a break (updated during round 5)
+handwritten_chn_a6f48a98	BREAK	67	44	5	外汇/汇率 lines are not about 纸币 or its issuing law; no heading printed (content goes to root)
+handwritten_chn_a6f48a98	BREAK	127	75	9	income/consumption lines on the last sheet are not about 价格; no heading printed (content goes to root)
+handwritten_chn_d1ec88bb	NONE				all pages viewed with show.py --tree; three worksheets, each title holds only its own problems
+handwritten_chn_eac2d8c2	BREAK	49	44	3	ΔG=ΔH-TΔS and T转 resume 3.4's main text after the Gibbs 判据 label block
+handwritten_chn_eac3f5a2	NONE				all pages viewed with show.py --tree; lesson title is the only node; all annotations are about the lesson
+handwritten_chn_edc60213	BREAK	21	11	2	top of photo 2 (…违背了互异性，因此不能构成集合) continues an element-property example from another notebook page; topic 4's example ended on p1
+handwritten_chn_edc60213	BREAK	34	30	3	subset/empty-set facts at the top of notebook page 3 are not about 3. 等价转化思想 (photo order only)
+handwritten_chn_71864fb7	BREAK	79	65	5	p5 fragment of another proof (sigma_2i cos identity), an application of the Waring formula, not about III; belongs to the title (main session, page viewed)

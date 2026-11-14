@@ -1,0 +1,299 @@
+{
+ "doc": "manualGuide_eng_714e4656",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    4,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet AEG Electrolux",
+   "why": "title union: models + product type + manual type + owner logo footer box #7 (AEG Electrolux). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: LAVAMAT TURBO 12710 VIT LAVAMAT TURBO 14710 VIT Washer-Dryer Instruction Booklet)."
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Safety instructions",
+   "why": "section: large bold head (TOC top entry)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 47,
+   "text": "General safety",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 47,
+   "text": "Installation",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 47,
+   "text": "Child safety",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 47,
+   "text": "During use",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Disposal",
+   "why": "section: large bold head"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "Packaging materials",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "Machine",
+   "why": "subsection: medium bold head"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Tips for environmental protection",
+   "why": "section: large bold head"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Main features of your washer-dryer",
+   "why": "section: large bold head"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Description of the appliance",
+   "why": "section: large bold head"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "Front view",
+   "why": "subsection: medium bold head over the front-view figure"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "Control panel",
+   "why": "subsection: medium bold head (TOC: under Description of the appliance)"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "Programme selector dial",
+   "why": "control item: TOC indents it under Control panel; describes one control of the panel (content beats look)"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "ON/OFF button",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "Mains-on light",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "START/PAUSE button",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "level": 5,
+   "parent": 154,
+   "text": "a) Start",
+   "why": "function item: lettered a) with its own paragraph"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "level": 5,
+   "parent": 154,
+   "text": "b) Pause",
+   "why": "function item: lettered b)"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "DELAY START button",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "DRYING TIME button",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "Programme Option buttons",
+   "why": "control item: same"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "SPIN SPEED",
+   "why": "control item: same (TOC indent under Control panel)"
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "RINSE HOLD",
+   "why": "control item: same"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    38
+   ],
+   "of": 34,
+   "why": "repeat: small Contents label on the contents continuation page"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 34,
+   "why": "repeat: small Contents label on the contents continuation page"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 47,
+   "why": "repeat: running section tag Safety instructions"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "of": 116,
+   "why": "repeat: running section tag Description of the appliance"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 27,
+   "why": "callout: Important box label on the welcome page"
+  }
+ ],
+ "considered": [
+  {
+   "box": 9,
+   "why": "salutation: text"
+  }
+ ]
+}

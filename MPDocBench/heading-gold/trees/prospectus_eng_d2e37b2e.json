@@ -1,0 +1,528 @@
+{
+ "doc": "prospectus_eng_d2e37b2e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "QUEST MANAGEMENT, SICAV Sales Prospectus",
+   "why": "title union: company (owner) + document type 'Sales Prospectus'. Box #6 also prints the date 'March 2015' (one box); per NOTATIONS the text is only the heading part (round 3: date dropped from the text)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "MANAGEMENT",
+   "why": "top section MANAGEMENT (directory)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "BOARD OF DIRECTORS OF THE COMPANY",
+   "why": "directory label with its block of names"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "BOARD OF DIRECTORS OF THE MANAGEMENT COMPANY",
+   "why": "directory label with its block of names"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "DAY-TO-DAY MANAGERS OF THE MANAGEMENT COMPANY",
+   "why": "directory label with its block of names"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "ADMINISTRATION",
+   "why": "top section ADMINISTRATION (directory)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "REGISTERED OFFICE",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "MANAGEMENT COMPANY- CENTRAL ADMINISTRATION AGENT - CORPORATE AND DOMICILIARY AGENT - REGISTRAR AND TRANSFER AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "INVESTMENT MANAGER",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "CUSTODIAN BANK PAYING AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "MARKETING AGENT",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "FINANCIAL AGENT BELGIUM",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "AUDITOR",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "LEGAL ADVISORS",
+   "why": "directory label with its address block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INTRODUCTION",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "THE COMPANY",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CAPITAL STOCK",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTMENT OBJECTIVE AND POLICY",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 112,
+   "text": "QUEST MANAGEMENT – QUEST CLEANTECH FUND (denominated in EUR)",
+   "why": "round 5: restored (round 1 made it text by containment); own-line sub-fund label after the lead-in #114 whose block #116-#147 (objective, policy, category list, investor profile) is all about this sub-fund, up to TECHNIQUES AND INSTRUMENTS; the break before #139 closes only the last category label under it; final check: text restored to the print (it prints \"(denominated in EUR):\"; only the trailing colon dropped, as elsewhere in this tree)"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Renewable Energy",
+   "why": "round 5: restored, a break now closes it (the next label closes it); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Energy Efficiency",
+   "why": "round 5: restored, a break now closes it (the next label closes it); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 4,
+   "parent": 115,
+   "text": "Resource Efficiency",
+   "why": "round 5: restored, a break now closes it before #139 (p12); own-line category label with its own bullet list (label + list, like 'Advantages:'); the lead-in #118 stays text"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TECHNIQUES AND INSTRUMENTS",
+   "why": "top section TECHNIQUES AND INSTRUMENTS"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "GENERAL PROVISIONS",
+   "why": "bold caps subsection with its paragraphs"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "USE OF DERIVATIVE INSTRUMENTS",
+   "why": "bold caps subsection with bulleted subheads"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 153,
+   "text": "Limits",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 4,
+   "parent": 153,
+   "text": "Special limits relating to credit derivatives",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 4,
+   "parent": 153,
+   "text": "Special limits relating to equity swaps and index swaps",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    189
+   ],
+   "level": 4,
+   "parent": 153,
+   "text": "Conclusion of \"Contracts for Difference\" (\"CFD\")",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "level": 4,
+   "parent": 153,
+   "text": "Intervention on currency markets",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    197
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "2. EFFICIENT PORTFOLIO MANAGEMENT TECHNIQUES (EMT)",
+   "why": "numbered bold caps subsection 2. (same face as GENERAL PROVISIONS)"
+  },
+  {
+   "boxes": [
+    198
+   ],
+   "level": 4,
+   "parent": 197,
+   "text": "Securities lending transactions",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    203
+   ],
+   "level": 4,
+   "parent": 197,
+   "text": "Sale with right of repurchase transactions / Reverse repurchase and Repurchase agreement transactions",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 4,
+   "parent": 197,
+   "text": "Common provisions to EMT",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    229
+   ],
+   "level": 4,
+   "parent": 197,
+   "text": "Management of collateral for OTC financial derivatives transactions and EMT",
+   "why": "bulleted bold subhead with its paragraphs (marker dropped)"
+  },
+  {
+   "boxes": [
+    253
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTMENT POSSIBILITIES",
+   "why": "top section (TOC entry)"
+  },
+  {
+   "boxes": [
+    280
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTMENT RESTRICTIONS",
+   "why": "top section (TOC entry)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    196
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    259
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    272
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    284
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  },
+  {
+   "boxes": [
+    296
+   ],
+   "of": 2,
+   "why": "running head: company name restates the title owner"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "legal form line on the cover (Société d'Investissement à Capital): text"
+  },
+  {
+   "box": 4,
+   "why": "legal form line on the cover (Variable à Compartiments Multiples): text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head printed above the title on the cover: text, title not yet open"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 139,
+   "closes": 133,
+   "why": "round 5: the paragraphs after the category list (#139-#147: growth thesis, selection, diversification, limits, investor profile) are about the whole sub-fund, not Resource Efficiency; they belong to QUEST MANAGEMENT - QUEST CLEANTECH FUND"
+  }
+ ]
+}

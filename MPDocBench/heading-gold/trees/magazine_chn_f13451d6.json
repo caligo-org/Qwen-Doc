@@ -1,0 +1,160 @@
+{
+ "doc": "magazine_chn_f13451d6",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "故事会",
+   "why": "title: periodical masthead 故事会"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "开卷故事",
+   "why": "section: column tag 开卷故事 starts a section"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 45,
+   "text": "冬日礼物",
+   "why": "story headline: describes the story below"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "CONTENTS",
+   "why": "contents title CONTENTS; the issue number 812 printed in the same box is not part of the heading (a bare number; magazine rule: contents box with issue line -> node text = contents word only)"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "笑话",
+   "why": "section: section tag ·笑话· starts the jokes section; node text = 笑话 (the decorative dots are not part of the name; contents lists 笑话 13 则) starts: #86 (the column logo printed left of the label)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "一壶热水",
+   "why": "story: joke title with its joke below"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "休想甩锅",
+   "why": "story: joke title with its joke below"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "鲜血换来的",
+   "why": "story: joke title with its joke below"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "捆绑法",
+   "why": "story: joke title with its joke below"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "老大干啥去了",
+   "why": "story: joke title with its joke below"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 87,
+   "text": "让你赢钱",
+   "why": "story: joke title with its joke below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    71
+   ],
+   "of": 4,
+   "why": "repeat: masthead restated at the head of the colophon column"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "of": 4,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "subscription ad page: brand logo inside the ad"
+  },
+  {
+   "box": 26,
+   "why": "house notice (contest call) on the inside cover: ad text"
+  },
+  {
+   "box": 37,
+   "why": "book ad headline"
+  },
+  {
+   "box": 74,
+   "why": "colophon label (staff names below): colophon text"
+  },
+  {
+   "box": 76,
+   "why": "colophon label (phone list below): colophon text"
+  },
+  {
+   "box": 78,
+   "why": "colophon label (channel list below): colophon text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 105,
+   "why": "facing-page running tag of the same jokes section (·笑口常开 轻松一刻·): text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 71,
+   "closes": 57,
+   "why": "contents list ends; the restated masthead and colophon column follow (not contents)"
+  }
+ ]
+}

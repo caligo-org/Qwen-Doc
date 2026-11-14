@@ -1,0 +1,80 @@
+{
+ "doc": "paper_chn_4c5fe122",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "裂解气相色谱-质谱法分离鉴定聚氨酯防水涂料中的煤焦油",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "1 实验部分",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "1.1 仪器与材料",
+   "why": "subsection 1.1 (numbering)"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "1.2 气相色谱-质谱条件",
+   "why": "subsection 1.2 (numbering)"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "2 结果与讨论",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "3 结论",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    27
+   ],
+   "of": 5,
+   "why": "repeat: running head (authors: title) naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

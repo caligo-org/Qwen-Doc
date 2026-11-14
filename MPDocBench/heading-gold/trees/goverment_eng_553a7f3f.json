@@ -1,0 +1,70 @@
+{
+ "doc": "goverment_eng_553a7f3f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Export-Import Bank",
+   "why": "account page title: budget excerpt has no document title, each account is a top-level section"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Overseas Private Investment Corporation",
+   "why": "account page title: budget excerpt has no document title, each account is a top-level section"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "U.S. Trade and Development Agency",
+   "why": "account page title: budget excerpt has no document title, each account is a top-level section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Child Survival and Health Programs Fund",
+   "why": "account page title: budget excerpt has no document title, each account is a top-level section"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 17,
+   "text": "Highlights:",
+   "why": "round 5: restored, a break now closes it before the account paragraphs #32-35; own-line label over its own bullet list (#24-31), one level below the account title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 19,
+   "why": "table footnote: text"
+  },
+  {
+   "box": 20,
+   "why": "table footnote: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 32,
+   "closes": 23,
+   "why": "round 5: the account's general paragraphs (#32-35) follow the highlight bullets; they are about the account, not the highlights"
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "doc": "newspaper_chn_e73ccfbf",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "人民日報",
+   "why": "masthead; pinyin RENMIN RIBAO in the same box is text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "习近平就尼泊尔发生客机坠毁事故 向尼泊尔总统班达里致慰问电",
+   "why": "story headline, front page; 副题 line in the same box is a deck"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "中共中央印发《中国共产党处分违纪党员批准权限和程序规定》",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 4,
+   "parent": 7,
+   "text": "中国共产党处分违纪党员批准权限和程序规定",
+   "why": "title of the regulation printed in full inside the story"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 5,
+   "parent": 12,
+   "text": "第一章 总 则",
+   "why": "chapter of the printed regulation (第一章 ∪ title in one box)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 5,
+   "parent": 12,
+   "text": "第二章 处分批准权限和程序一般规定",
+   "why": "chapter of the printed regulation"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "全国政协十三届常委会第二十五次会议闭幕",
+   "why": "story headline (line below is a deck)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "天津消费动能持续释放",
+   "why": "story headline (引题 above is a deck) | starts: the kicker #37 above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "我国经济总量超120万亿元",
+   "why": "story headline; 副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "李克强考察国家电网公司并慰问基层干部职工时强调 确保电力等能源稳定供应 满足民生需求服务发展大局",
+   "why": "story headline printed over two big lines; 引题 in the same box is a deck | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports (引题 in the same box)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "王沪宁出席全国性宗教团体负责人迎春座谈会",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "why": "section: page tag 要闻 on p2"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "充分民主协商，广纳各方英才，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴凝心聚力",
+   "why": "story headline printed over two lines; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "关于召开中国人民政治协商会议第十四届全国委员会第一次会议的决定",
+   "why": "story headline: decision printed in full"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "全国政协向不再连任的委员致信表示敬意和感谢",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "李克强考察国家电网公司并慰问基层干部职工时强调 确保电力等能源稳定供应 满足民生需求服务发展大局",
+   "continues": 59,
+   "why": "continuation: jump paragraph starting \"（上接第一版）\" of front-page story #59, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "沈跃跃会见古巴妇联领导人",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "夏宝龙会见俄罗斯新任驻华大使莫尔古洛夫",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "秦刚分别同蒙古国外长、马来西亚外长通电话",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "世界经济论坛2023年年会举行",
+   "why": "story headline; 副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "中国为世界经济复苏注入信心和力量",
+   "why": "story headline (vertical)"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "积极发挥“稳定器”作用",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "努力促进全球共同发展",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 4,
+   "parent": 123,
+   "text": "推动建设开放型世界经济",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "匈牙利发行兔年生肖邮票",
+   "why": "story headline (photo story) | starts: the story's photo #158 (the stamp being shown) comes before the headline in reading order (replaces the round-5 break before #158)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    79
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 37,
+   "why": "引题 above the main headline: deck"
+  },
+  {
+   "box": 46,
+   "why": "导读 index box with page pointers"
+  }
+ ],
+ "considered": [
+  {
+   "box": 29,
+   "why": "deck lines below a headline"
+  },
+  {
+   "box": 60,
+   "why": "deck lines below a headline"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 46,
+   "closes": 38,
+   "why": "round 5: the story ends; the 导读 index box (teasers with page pointers) follows"
+  },
+  {
+   "before": 74,
+   "closes": 67,
+   "why": "round 5: the story ends; a stand-alone news photo with its caption (railway) follows"
+  },
+  {
+   "before": 158,
+   "closes": 123,
+   "why": "round 5: the story ends; the photo of the next photo story (匈牙利发行兔年生肖邮票, printed before its title) follows"
+  }
+ ]
+}

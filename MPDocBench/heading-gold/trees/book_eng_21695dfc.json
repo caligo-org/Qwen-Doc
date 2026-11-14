@@ -1,0 +1,223 @@
+{
+ "doc": "book_eng_21695dfc",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Artificial Intelligence and Robotics",
+   "why": "title: report/book title; author line is text"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1. INTRODUCTION",
+   "why": "section: numbered top-level section"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2. THE BIRTH AND BOOM OF AI",
+   "why": "section: numbered top-level section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "1956 - when the term AI was first coined.",
+   "why": "sidebar box title describing the box's text (1956 box), one level below its section"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "Weak and Strong AI",
+   "why": "sidebar box title (Weak and Strong AI), one level below its section"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3. QUESTIONING THE IMPACT OF AI",
+   "why": "section: numbered top-level section"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "The 18 topics covered by the AI100",
+   "why": "box title over the list of 18 topics, one level below its section"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "4. A CLOSER LOOK AT THE EVOLUTION OF AI",
+   "why": "section: numbered top-level section"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "4.1 SEASONS OF AI",
+   "why": "subsection: 4.1"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "4.2 INFLUENCE OF FUNDING",
+   "why": "subsection: 4.2"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 64,
+   "text": "4.3 PUBLICATION VERSUS PATENTING",
+   "why": "subsection: 4.3"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "5. FINANCIAL IMPACT OF AI",
+   "why": "section: numbered top-level section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (with page number)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 18,
+   "closes": 16,
+   "why": "the framed '1956' sidebar ends; the pull quote and the main text of section 2 resume"
+  }
+ ]
+}

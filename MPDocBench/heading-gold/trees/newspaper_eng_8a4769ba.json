@@ -1,0 +1,261 @@
+{
+ "doc": "newspaper_eng_8a4769ba",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES",
+   "why": "title union: masthead split around the crest (THE | TIMES)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Police have given up on punishing shoplifters",
+   "why": "story headline, front page (no section banner)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Starmer: I'll bring back trust in politics",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "News",
+   "why": "section: running section tag News on p2 (section changes from the front page)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "‘Emergency powers’ needed by Ofcom to stop online hate",
+   "why": "story headline (two lines in one box)"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Military training to be cut to fund pay rises for troops",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Dig for victim of 1977 IRA murder",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Shoplifters go unpunished",
+   "why": "continuation: jump head after CONTINUED FROM PAGE 1 (label is text)",
+   "continues": 12
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "It’s a jungle out there after officials ban pesticides from their streets",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Parental love is the mother and father of all loves, science agrees",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Patients are treating their own injuries to avoid waiting in A&E",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "NHS launches a 24-hour mental health phone line",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Quintagram No 2031",
+   "why": "puzzle box with its own title"
+  },
+  {
+   "boxes": [
+    213
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Briton dies in Ukraine",
+   "why": "short story headline (untitled column, no briefs label)"
+  },
+  {
+   "boxes": [
+    215
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Biodiversity warning",
+   "why": "short story headline"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Ten stabbing arrests",
+   "why": "short story headline"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 3,
+   "parent": 56,
+   "text": "Gravy wrestling champ",
+   "why": "short story headline"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    121,
+    167
+   ],
+   "of": 56,
+   "why": "running section tag News on following pages of the open section"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 32,
+   "why": "byline"
+  },
+  {
+   "box": 75,
+   "why": "byline"
+  },
+  {
+   "box": 41,
+   "why": "IN THE NEWS teaser box: every item points to an inside page"
+  },
+  {
+   "box": 42,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 44,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 46,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 48,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 50,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 52,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 58,
+   "why": "TODAY'S EDITION index box"
+  },
+  {
+   "box": 60,
+   "why": "COMMENT pointer box (quote + page pointer)"
+  },
+  {
+   "box": 66,
+   "why": "podcast promo box"
+  },
+  {
+   "box": 69,
+   "why": "subscription offer (ad)"
+  },
+  {
+   "box": 70,
+   "why": "weather box"
+  },
+  {
+   "box": 221,
+   "why": "radio station ad"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "slogan above the masthead"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 28,
+   "closes": 12,
+   "why": "round 5: the story ends (Continued on page 2); the Eriksson photo teaser (News, page 7, Obituary, page 37) follows"
+  },
+  {
+   "before": 41,
+   "closes": 31,
+   "why": "round 5: the story ends (Continued on page 6); the IN THE NEWS teaser box follows"
+  },
+  {
+   "before": 168,
+   "closes": 146,
+   "why": "round 5: the p3 story ends; a stand-alone news photo with its caption (Sweet celebration, Greenwich) opens p4"
+  },
+  {
+   "before": 221,
+   "closes": 219,
+   "why": "round 5: the last brief ends; the Times Radio ad follows"
+  }
+ ]
+}

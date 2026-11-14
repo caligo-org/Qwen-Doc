@@ -1,0 +1,155 @@
+{
+ "doc": "paper_chn_c1360240",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "供应链金融：背景、创新与概念界定",
+   "why": "title: paper title (footnote marker ① left out)"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "一、供应链金融创新的实体经济背景",
+   "why": "section: 一、 top section"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "1. 分工的演变与制造模式的变化",
+   "why": "subsection 1. (numbering)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "2. 供应链管理的兴起",
+   "why": "subsection 2. (numbering)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "3. 全球贸易的增长",
+   "why": "subsection 3. (numbering)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "二、财务供应链管理在提高供应链竞争力方面的作用",
+   "why": "section: 二、 top section"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "1. 供应链生产模式对财务成本的影响",
+   "why": "subsection 1. (numbering)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "2. 通过财务供应链管理降低产品成本",
+   "why": "subsection 2. (numbering)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "三、供应链金融概念的界定",
+   "why": "section: 三、 top section"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "1.金融机构（商业银行和金融公司）在财务供应链管理中发挥的作用",
+   "why": "subsection 1. on its own line with its block below (same role as the other 1./2. subheads; gold missed it)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "2. 供应链金融的定义及其有机构成",
+   "why": "subsection 2. on its own line with its block below (same role; gold missed it)"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "四、结束语",
+   "why": "section: 四、 top section"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    23
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 4,
+   "why": "repeat: running head = paper title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 117,
+   "closes": 106,
+   "why": "round 5: the reference list ends; the editor credit \"（责任编辑：孟 耀）\" follows, not a reference (belongs to the paper)"
+  }
+ ]
+}

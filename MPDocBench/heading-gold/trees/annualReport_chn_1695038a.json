@@ -1,0 +1,466 @@
+{
+ "doc": "annualReport_chn_1695038a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "宁波东方电缆股份有限公司2019年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "重要提示",
+   "why": "front matter: 重要提示 at the level of the top sections"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "五、经董事会审议的报告期利润分配预案或公积金转增股本预案",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "六、前瞻性陈述的风险声明",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "七、是否存在被控股股东及其关联方非经营性占用资金情况",
+   "why": "重要提示 item with its own answer below (user decision)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "八、是否存在违反规定决策程序对外提供担保的情况？",
+   "why": "重要提示 item with its own answer below (user decision)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "九、 重大风险提示",
+   "why": "重要提示 item with its own block below"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 12,
+   "text": "十、其他",
+   "why": "重要提示 item with its own block below (适用/不适用)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第一节 释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第二节 公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "一、公司信息",
+   "why": "一、 numbered subsection (table caption style)"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "三、基本情况简介",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "四、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "五、公司股票简况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "六、其他相关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "七、近三年主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "(一)主要会计数据",
+   "why": "（一） numbered sub-subsection"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "(二) 主要财务指标",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "报告期末公司前三年主要会计数据和财务指标的说明",
+   "why": "label line with its own block (explanations 1.-4.) about all of 七's data: sibling of (一)/(二) (content)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "八、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "(一)同时按照国际会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况",
+   "why": "numbered (一) item on its own line, outline heading (适用/不适用 below)"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "(二)同时按照境外会计准则与按中国会计准则披露的财务报告中净利润和归属于上市公司股东的净资产差异情况",
+   "why": "numbered (二) item, outline heading"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "(三)境内外会计准则差异的说明：",
+   "why": "numbered (三) item, outline heading"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "九、2019年分季度主要财务数据",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "十、非经常性损益项目和金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "十一、采用公允价值计量的项目",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 3,
+   "parent": 51,
+   "text": "十二、 其他",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第三节 公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "一、报告期内公司所从事的主要业务、经营模式及行业情况说明",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 4,
+   "parent": 119,
+   "text": "（一）主要业务情况说明",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 4,
+   "parent": 119,
+   "text": "（二）公司主要业务经营模式",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 4,
+   "parent": 119,
+   "text": "（三）行业情况说明",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "二、报告期内公司主要资产发生重大变化情况的说明",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 118,
+   "text": "三、报告期内核心竞争力分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "（一）研发和技术优势",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 5,
+   "parent": 140,
+   "text": "1. 国内最高端的海底电缆和海洋脐带缆生产基地",
+   "why": "1. level, own line with block below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 47,
+   "why": "round 3: was L3 \"一、释义\" under \"第一节 释义\"; the section's only item restates the section title, so the step is not narrower (breadcrumb): a restated title is a repeat of the section, its lead-in and table belong to the section"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 4,
+   "why": "cover field"
+  },
+  {
+   "box": 5,
+   "why": "cover field"
+  },
+  {
+   "box": 13,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 14,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 15,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 16,
+   "why": "one-sentence statement item (substance)"
+  },
+  {
+   "box": 49,
+   "why": "lead-in sentence to the table"
+  },
+  {
+   "box": 99,
+   "why": "unnumbered label with only 适用/不适用 below (substance)"
+  }
+ ]
+}

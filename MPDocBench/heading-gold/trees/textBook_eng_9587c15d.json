@@ -1,0 +1,110 @@
+{
+ "doc": "textBook_eng_9587c15d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Electrolysers, Fuel Cells and Batteries: Analytical modelling",
+   "why": "title: book title on the cover"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Preface",
+   "why": "front matter: Preface"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "Prerequisites",
+   "why": "preface subsection heading: describes the block below"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "Reader guidelines",
+   "why": "preface subsection heading: describes the block below"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "Content",
+   "why": "preface subsection heading: describes the block below"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "Acknowledgements",
+   "why": "preface subsection heading: describes the block below"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Nomenclature",
+   "why": "front matter: Nomenclature"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 27,
+   "why": "repeat: running head of the open contents"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "of": 27,
+   "why": "repeat: running head of the open contents"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 25,
+   "closes": 23,
+   "why": "place/date and author signature close the whole Preface, not its last subsection Acknowledgements"
+  }
+ ]
+}

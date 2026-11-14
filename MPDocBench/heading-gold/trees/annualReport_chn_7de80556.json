@@ -1,0 +1,299 @@
+{
+ "doc": "annualReport_chn_7de80556",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "西藏易明西雅医药科技股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item, outline heading (不适用 + statement below)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第三节公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "一、报告期内公司从事的主要业务",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "二、主要资产重大变化情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 4,
+   "parent": 102,
+   "text": "1、主要资产重大变化情况",
+   "why": "1、 directly under 二、"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 4,
+   "parent": 102,
+   "text": "2、主要境外资产情况",
+   "why": "1、 level (不适用 below)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 42,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 75,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 44,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 46,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 49,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 65,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 86,
+   "why": "one-line list item (product list), nothing below"
+  },
+  {
+   "box": 98,
+   "why": "list item paragraph"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "doc": "goverment_eng_c8c79eab",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "MOROCCO,S MANAGED MAYORAL SELECTIONS",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "Summary",
+   "why": "section: dashed/underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "PAM: The Palace Party",
+   "why": "section: dashed/underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "Oujda Mayoral Selection Marred by Government Intervention",
+   "why": "section: dashed/underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "Normal Irregularities Are Bad Enough",
+   "why": "section: dashed/underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "COMMENT",
+   "why": "section: dashed/underlined own-line head over its numbered paragraphs; round 3: L2 under the SUBJECT-line L1 (breadcrumb rule: cable owner/subject printed only inside the header box)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "classification + cable number: text"
+  },
+  {
+   "box": 21,
+   "why": "numbered paragraph \"9. (U) Mayors and Their Coalitions\" run into its table: table title, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 16,
+   "why": "round 5: paragraph 9 table of mayors and coalitions in all major cities follows the Oujda section; it is about the mayoral selections overall, not Oujda"
+  },
+  {
+   "before": 32,
+   "closes": 28,
+   "why": "round 5: classified-website pointer and the signature follow the comment; they belong to the whole cable"
+  }
+ ]
+}

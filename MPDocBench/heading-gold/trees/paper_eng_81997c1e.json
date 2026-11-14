@@ -1,0 +1,188 @@
+{
+ "doc": "paper_eng_81997c1e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Factors Affecting Employee's Retention in Automobile Service Workshops of Assam: An Empirical Study",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "I. INTRODUCTION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "1.1. Different Views of Employee Retention by Many Previous Researchers",
+   "why": "subsection 1.1 (numbering)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "1.2. Problem Statement",
+   "why": "subsection 1.2 (numbering)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "1.3. Objectives",
+   "why": "subsection 1.3 (numbering)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "II. LITERATURE REVIEW OF FACTORS AFFECTING EMPLOYEE RETENTION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "2.1. Job Security and Employee Retention",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "2.2. Job Satisfaction and Employee Retention",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "2.3. Work Life Balance and Employee Retention",
+   "why": "subsection 2.3 (numbering)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "2.4. Compensation and Employee Retention",
+   "why": "subsection 2.4 (numbering)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "III. CONCEPTUAL FRAMEWORK",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "IV. RESEARCH METHODOLOGY",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "V. DATA ANALYSIS AND INTERPRETATION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "5.1. Correlation",
+   "why": "subsection 5.1 (numbering)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "5.2. Correlation and Anova Test",
+   "why": "subsection 5.2 (numbering)"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "VI. FINDINGS OF THE STUDY",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "VII. CONCLUSION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 5,
+   "why": "run-in \"Abstract—\" starting the abstract paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 68,
+   "closes": 66,
+   "why": "round 5: closing paragraph \"Based on the above discussions following hypothesis are...\" with H1-H4 is about the whole list 2.1-2.4, not 2.4 Compensation; belongs to the list's parent"
+  },
+  {
+   "before": 241,
+   "closes": 153,
+   "why": "round 5: the reference list ends; author photos and biographies follow, not references (belong to the paper)"
+  }
+ ]
+}

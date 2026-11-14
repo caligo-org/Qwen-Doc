@@ -1,0 +1,144 @@
+doc	node	page	path	verdict	note
+examPaper_chn_0d1c391f	1	1	2011年江西高考理科数学真题	OK	centred bold exam title on cover
+examPaper_chn_0d1c391f	4	1	2011年江西高考理科数学真题 › 考试注意：	OK	own-line label above numbered instructions 1-3
+examPaper_chn_0d1c391f	8	1	2011年江西高考理科数学真题 › 参考公式：	OK	own-line label above formula block
+examPaper_chn_0d1c391f	15	2	2011年江西高考理科数学真题 › 第I卷	OK	centred 第I卷 part line
+examPaper_chn_0d1c391f	16	2	2011年江西高考理科数学真题 › 第I卷 › 一、选择题：本大题共10小题，每小题5分，共50分.在每小题给出的四个选项中，只有一项是符合题目要求的.	OK	bold group line, questions (1)-(10) follow
+examPaper_chn_0d1c391f	70	4	2011年江西高考理科数学真题 › 第II卷	OK	centred 第II卷 part line
+examPaper_chn_0d1c391f	71	4	2011年江西高考理科数学真题 › 第II卷 › 二.填空题：本大题共4小题，每小题5分，共20分.	OK	bold group line, questions 11-14
+examPaper_chn_0d1c391f	77	4	2011年江西高考理科数学真题 › 第II卷 › 三.选做题：请考生在下列两题中任选一题作答.若两题都做，则按做的第一题评阅计分. 本题共5分.	OK	bold group line, elective 15(1)/(2)
+examPaper_chn_0d1c391f	80	4	2011年江西高考理科数学真题 › 第II卷 › 四.本大题共6小题，共75分.解答应写出文字说明、证明过程或演算步骤.	OK	bold group line, questions 16-21 follow
+examPaper_chn_0fced805	1	1	2013年江苏省高考地理试卷	OK	bold exam title on p1
+examPaper_chn_0fced805	2	1	2013年江苏省高考地理试卷 › 一、单项选择题：本大题共12小题，每小题0分，共计36分．在每小题给出的四个选项中，只有一项是符合题目要求的.	OK	bold group line; questions 1-12 on p1-5
+examPaper_chn_12e76eb4	1	1	2021年高考全国乙卷物理试卷	OK	bold exam title p1
+examPaper_chn_12e76eb4	2	1	2021年高考全国乙卷物理试卷 › 二、选择题：本题共8小题，每小题6分，共48分。在每小题给出的四个选项中，第$1\sim 5$题只有一项符合题目要求，第$6\sim 8$题有多项符合题目要求。全部选对的得6分，选对但不全的得3分，有选错的得0分。	OK	bold group line, questions 1-8
+examPaper_chn_12e76eb4	61	4	2021年高考全国乙卷物理试卷 › 三、非选择题：第 $9\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\sim 16$ 题为选考题，考生根据要求作答。	OK	bold group line 三、非选择题 p4
+examPaper_chn_12e76eb4	62	4	2021年高考全国乙卷物理试卷 › 三、非选择题：第 $9\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\sim 16$ 题为选考题，考生根据要求作答。 › （一）必考题：	OK	（一）必考题 sub-group, questions 9-12
+examPaper_chn_12e76eb4	94	7	2021年高考全国乙卷物理试卷 › 三、非选择题：第 $9\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\sim 16$ 题为选考题，考生根据要求作答。 › （二）选考题：	OK	（二）选考题 sub-group p7
+examPaper_chn_12e76eb4	95	7	2021年高考全国乙卷物理试卷 › 三、非选择题：第 $9\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\sim 16$ 题为选考题，考生根据要求作答。 › （二）选考题： › [物理—选修3-3]	OK	elective module label, question 13-14
+examPaper_chn_12e76eb4	106	8	2021年高考全国乙卷物理试卷 › 三、非选择题：第 $9\sim 12$ 题为必考题，每个试题考生都必须作答。第 $13\sim 16$ 题为选考题，考生根据要求作答。 › （二）选考题： › 【物理——选修3-4】	OK	elective module label p8, questions 15-16
+examPaper_chn_254e4dc5	1	1	2023年普通高等学校招生全国统一考试（全国乙卷）理科综合（物理部分）	OK	bold exam title p1
+examPaper_chn_254e4dc5	2	1	2023年普通高等学校招生全国统一考试（全国乙卷）理科综合（物理部分） › 二、选择题：本题共8小题，每小题6分，共48分。在每小题给出的四个选项中，第14~18题只有一项符合题目要求，第19~21题有多项符合题目要求、全部选对的得6分，选对但不全的得3分，有选错的得0分。	OK	bold group line, questions 1-8
+examPaper_chn_254e4dc5	55	3	2023年普通高等学校招生全国统一考试（全国乙卷）理科综合（物理部分） › 三、非选择题：共174分。第22~32题为必考题，每个试题考生都必须作答。第33~38题为选考题，考生根据要求作答。	OK	bold group line 三、非选择题 p3
+examPaper_chn_254e4dc5	56	3	2023年普通高等学校招生全国统一考试（全国乙卷）理科综合（物理部分） › 三、非选择题：共174分。第22~32题为必考题，每个试题考生都必须作答。第33~38题为选考题，考生根据要求作答。 › （一）必考题：共129分。	OK	（一）必考题 sub-group, questions 9-12
+examPaper_chn_254e4dc5	92	5	2023年普通高等学校招生全国统一考试（全国乙卷）理科综合（物理部分） › 三、非选择题：共174分。第22~32题为必考题，每个试题考生都必须作答。第33~38题为选考题，考生根据要求作答。 › （二）选考题：共45分。请考生从给出的2道物理题、2道化学题、2道生物题中每科任选一题作答，并用2B铅笔在答题卡上把所选题目题号后的方框涂黑。注意所做题目的题号必须与所涂题目的题号一致，并且在解答过程中写清每问的小题号，在答题卡指定位置答题。如果多做则每学科按所做的第一题计分。	OK	bold （二）选考题 sub-group p5, questions 13-16 (no module labels printed)
+examPaper_chn_3e46326d	1	1	2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分	OK	two-line bold title box p1
+examPaper_chn_3e46326d	2	1	2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分 › 第I卷	OK	centred 第I卷 part
+examPaper_chn_3e46326d	3	1	2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分 › 第I卷 › 二、选择题（本题共4小题。在每小题给出的四个选项中，有的只有一个选项正确，有的有多个选项正确，全部选对的得6分，选对但不全的得3分，有选错的得0分。）	OK	group line 二、选择题, questions 14-21
+examPaper_chn_3e46326d	59	3	2010年普通高等学校招生全国统一考试（四川卷）理科综合能力测试物理部分 › 第Ⅱ卷	OK	centred 第Ⅱ卷 part p3; questions 22-25 with no group line
+examPaper_chn_439ef81c	1	1	2016年4月浙江省普通高校招生选考科目考试 地理试题	OK	exam name + 地理试题 two-line title union
+examPaper_chn_439ef81c	5	1	2016年4月浙江省普通高校招生选考科目考试 地理试题 › 考生注意：	OK	own-line label above instructions 1-2
+examPaper_chn_439ef81c	8	1	2016年4月浙江省普通高校招生选考科目考试 地理试题 › 选择题部分	OK	part line 选择题部分
+examPaper_chn_439ef81c	9	1	2016年4月浙江省普通高校招生选考科目考试 地理试题 › 选择题部分 › 一、选择题(本大题共25小题，每小题2分，共50分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分)	OK	group line, questions 1-25
+examPaper_chn_439ef81c	191	8	2016年4月浙江省普通高校招生选考科目考试 地理试题 › 非选择题部分	OK	part line 非选择题部分 p8
+examPaper_chn_439ef81c	192	8	2016年4月浙江省普通高校招生选考科目考试 地理试题 › 非选择题部分 › 二、非选择题(本大题共4小题，共50分)	OK	group line, questions 26-27
+examPaper_chn_4d42e18f	1	1	2018年全国统一高考物理试卷（新课标I）	OK	bold exam title p1
+examPaper_chn_4d42e18f	2	1	2018年全国统一高考物理试卷（新课标I） › 一、选择题 本题共8小题，每小题6分，共48分.在每小题给出的四个选项中，第 \(1\sim 5\) 题只有一项符合题目要求，第 \(6\sim 8\) 题有多项符合题目要求.全部选对的得6分，选对但不全的得3分，有选错的得0分.	OK	bold group line, questions 1-8
+examPaper_chn_4d42e18f	52	4	2018年全国统一高考物理试卷（新课标I） › 二、非选择题：共174分。第 \(9\sim 12\) 题为必考题，每个试题考生都必须作答。第 \(13\sim 16\) 题为选考题.考生根据要求作答。（一）必考题：共129分.	OK	bold group line p4 (box also prints （一）必考题), questions 9-12
+examPaper_chn_4d42e18f	83	6	2018年全国统一高考物理试卷（新课标I） › 三、选考题：共45分.请考生从2道物理题、2道化学题、2道生物题中每科任 选一题作答.如果多做，则每科按所做的第一题计分.[物理--选修3-3]（15分）	OK	group line split p6/p7 ending [物理--选修3-3], questions 13-14
+examPaper_chn_4d42e18f	95	7	2018年全国统一高考物理试卷（新课标I） › 四、[物理--选修3-4]（15分）	OK	bold group/module line at p7 foot; its questions are past the last page
+examPaper_chn_6b10fb9e	1	1	2023年天津高考地理试题	OK	bold exam title p1; only questions follow, no group line printed
+examPaper_chn_707b861f	1	1	2012年全国统一高考地理试卷（大纲卷）	OK	bold exam title p1
+examPaper_chn_707b861f	2	1	2012年全国统一高考地理试卷（大纲卷） › 一、第1卷共5小题，每小题0分，共140分。在每题给出的四个选项中，只有一项是符合题目要求的。	OK	bold group line, questions 1-11
+examPaper_chn_707b861f	74	4	2012年全国统一高考地理试卷（大纲卷） › 二、第Ⅱ卷（非选择题）注意事项：（1. 答题前，考生在答题卡上务必用直径0.5毫米黑色墨水签字笔将自己的姓名、准考证号填写清楚，并贴好条形码，请认真核准条形码上的准考证号、姓名和科目。（2. 第Ⅱ卷共4页，请用直径0.5毫米黑色墨水签字笔在答题卡上各题的答题区域内作答，在试题卷上作答无效。	OK	bold group line with notes in the same box p4, questions 12-13
+examPaper_chn_7603db95	1	1	2021年6月浙江省普通高校招生选考科目考试地理试题	OK	exam title p1
+examPaper_chn_7603db95	3	1	2021年6月浙江省普通高校招生选考科目考试地理试题 › 一．选择题I（本大题共20小题，每小题2分，共40分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）	OK	bold group line 选择题I, questions 1-20
+examPaper_chn_7603db95	138	6	2021年6月浙江省普通高校招生选考科目考试地理试题 › 二．选择题Ⅱ（本大题共5小题，每小题3分，共15分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）	OK	bold group line 选择题II p6, questions 21-25
+examPaper_chn_7603db95	177	8	2021年6月浙江省普通高校招生选考科目考试地理试题 › 三．非选择题（本大题共4小题，共45分）	OK	group line 三、非选择题 p8, questions 26-27
+examPaper_chn_85419d1b	2	1	day 1	OK	page header "…, day 1" printed only on day-1 page; problems 1-3
+examPaper_chn_85419d1b	13	2	day 2	OK	page header "…, day 2" printed only on day-2 page; problems 4-6
+examPaper_chn_9627d6c2	1	1	2010年山东高考数学理科	OK	bold exam title p1
+examPaper_chn_9627d6c2	2	1	2010年山东高考数学理科 › 第Ⅰ卷（共60分）	OK	centred part 第Ⅰ卷 (共60分)
+examPaper_chn_9627d6c2	3	1	2010年山东高考数学理科 › 第Ⅰ卷（共60分） › 一、选择题：本大题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。	OK	bold group line, questions (1)-(12)
+examPaper_chn_9627d6c2	65	2	2010年山东高考数学理科 › 第Ⅱ卷（共90分）	OK	centred part 第Ⅱ卷 (共90分) p2
+examPaper_chn_9627d6c2	66	2	2010年山东高考数学理科 › 第Ⅱ卷（共90分） › 二、填空题：本大题共4小题，每小题4分，共16分。	OK	group line 二、填空题, questions 13-16
+examPaper_chn_9627d6c2	73	3	2010年山东高考数学理科 › 第Ⅱ卷（共90分） › 三、解答题：本大题共6小题，共74分。	OK	group line 三、解答题 p3, questions 17-22
+examPaper_chn_99ec4b2c	3	1	Day: 1	OK	header box "Day: 1" only on day-1 page; problems 1-3
+examPaper_chn_99ec4b2c	18	2	Day: 2	OK	header box "Day: 2" only on day-2 page; problems 4-6
+examPaper_chn_ab4971e2	1	1	2018年全国统一高考数学试卷（理科）（新课标I）	OK	bold exam title p1
+examPaper_chn_ab4971e2	2	1	2018年全国统一高考数学试卷（理科）（新课标I） › 一、选择题：本题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。	OK	bold group line, questions 1-12
+examPaper_chn_ab4971e2	73	3	2018年全国统一高考数学试卷（理科）（新课标I） › 二、填空题：本题共4小题，每小题5分，共20分。	OK	bold group line 二、填空题 p3, questions 13-16
+examPaper_chn_ab4971e2	78	3	2018年全国统一高考数学试卷（理科）（新课标I） › 三、解答题：共70分。解答应写出文字说明、证明过程或演算步骤。第 \(17\sim 21\) 题为必考题，每个试题考生都必须作答。第22、23题为选考题，考生根据要求作答。（一）必考题：共60分。	OK	bold group line p3 (box also prints （一）必考题), questions 17-21
+examPaper_chn_ab4971e2	100	6	2018年全国统一高考数学试卷（理科）（新课标I） › 三、解答题：共70分。解答应写出文字说明、证明过程或演算步骤。第 \(17\sim 21\) 题为必考题，每个试题考生都必须作答。第22、23题为选考题，考生根据要求作答。（一）必考题：共60分。 › （二）选考题：共10分。请考生在第22、23题中任选一题作答。如果多做，则按所做的第一题计分。[选修4-4：坐标系与参数方程]（10分）	OK	bold （二）选考题 p6, box also prints the [选修4-4] label; question 22
+examPaper_chn_ab4971e2	104	6	2018年全国统一高考数学试卷（理科）（新课标I） › 三、解答题：共70分。解答应写出文字说明、证明过程或演算步骤。第 \(17\sim 21\) 题为必考题，每个试题考生都必须作答。第22、23题为选考题，考生根据要求作答。（一）必考题：共60分。 › （二）选考题：共10分。请考生在第22、23题中任选一题作答。如果多做，则按所做的第一题计分。[选修4-4：坐标系与参数方程]（10分） › [选修4-5：不等式选讲]（10分）	OK	bold [选修4-5] module label p6, question 23
+examPaper_chn_b2d34828	2	1	day 1	OK	page header "…, day 1"; problems 1-3
+examPaper_chn_b2d34828	15	2	day 2	OK	page header "…, day 2"; problems 4-6
+examPaper_chn_d80f262e	2	1	Day: 1	OK	header box "Language … Day: 1" (day part only); problems 1-3
+examPaper_chn_d80f262e	15	2	Day: 2	OK	header box "Language … Day: 2" (day part only); problems 4-6
+examPaper_chn_f672afcf	2	1	day 1	OK	page header "…, day 1"; problems 1-3
+examPaper_chn_f672afcf	11	2	day 2	OK	page header "…, day 2"; problems 4-6
+examPaper_chn_ff633fd0	2	1	2023年6月浙江省普通高校招生选考科目考试 物理	OK	exam name + 物理 two-line title union
+examPaper_chn_ff633fd0	4	1	2023年6月浙江省普通高校招生选考科目考试 物理 › 考生注意：	OK	own-line label above instructions 1-4
+examPaper_chn_ff633fd0	9	1	2023年6月浙江省普通高校招生选考科目考试 物理 › 选择题部分	OK	centred part 选择题部分
+examPaper_chn_ff633fd0	10	1	2023年6月浙江省普通高校招生选考科目考试 物理 › 选择题部分 › 一、选择题I（本题共13小题，每小题3分，共39分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）	OK	bold group line 选择题I, questions 1-13
+examPaper_chn_ff633fd0	87	5	2023年6月浙江省普通高校招生选考科目考试 物理 › 选择题部分 › 二、选择题Ⅱ（本题共2小题，每小题3分，共6分。每小题列出的四个备选项中至少有一个是符合题目要求的。全部选对的得3分，选对但不全的得2分，有选错的得0分）	OK	bold group line 选择题II p5, questions 14-15
+examPaper_chn_ff633fd0	98	5	2023年6月浙江省普通高校招生选考科目考试 物理 › 非选择题部分	OK	centred part 非选择题部分 p5
+examPaper_chn_ff633fd0	99	5	2023年6月浙江省普通高校招生选考科目考试 物理 › 非选择题部分 › 三、非选择题（本题共5小题，共55分）	OK	bold group line 三、非选择题, questions 16-23
+examPaper_eng_08960d5c	1	1	Problem 1 – Solution	OK	p1 page header "Problem 1 – Solution"; body "Solution" restates it (repeat)
+examPaper_eng_08960d5c	17	3	Problem 1 – Solution › Grading guidelines	OK	bold "Grading guidelines" p3 above marks table
+examPaper_eng_0b2fd078	1	1	Marking breakdown:	OK	italic "Marking breakdown:" at p1 top with marks of a problem not on these pages
+examPaper_eng_0b2fd078	12	1	Solution of question 3.	OK	bold "Solution of question 3." with parts a/b p1-3
+examPaper_eng_0b2fd078	45	3	Solution of question 3. › Marking breakdown	OK	italic own-line "Marking breakdown" p3 with marks block
+examPaper_eng_11dba3b2	2	1	International Olympiad in Informatics 2017 Nowruz	OK	letterhead olympiad line + large task name Nowruz (union)
+examPaper_eng_11dba3b2	10	1	International Olympiad in Informatics 2017 Nowruz › Implementation details	OK	section title with its paragraphs p1
+examPaper_eng_11dba3b2	13	1	International Olympiad in Informatics 2017 Nowruz › Input format	OK	section title with format list p1
+examPaper_eng_11dba3b2	20	2	International Olympiad in Informatics 2017 Nowruz › Output format	OK	section title with format list p2
+examPaper_eng_11dba3b2	25	2	International Olympiad in Informatics 2017 Nowruz › Constraints	OK	section title with constraint p2
+examPaper_eng_11dba3b2	27	2	International Olympiad in Informatics 2017 Nowruz › Scoring	OK	section title with scoring rules p2
+examPaper_eng_11dba3b2	33	2	International Olympiad in Informatics 2017 Nowruz › Example	OK	section title with example p2-3
+examPaper_eng_2122d135	1	1	Solution	OK	bold italic "Solution" at p1 top, solution text + marking scheme
+examPaper_eng_2122d135	22	2	Solution › Theoretical part:	OK	italic own-line label with its marks list p2
+examPaper_eng_2122d135	27	2	Solution › Experimental part:	OK	italic own-line label with its marks list p2-3 (Fig. 11 follows)
+examPaper_eng_2122d135	36	3	Acknowledgement	OK	centred bold back-matter title p3
+examPaper_eng_2122d135	38	3	Literature	OK	bold back-matter title with references p3
+examPaper_eng_23110a64	-	-	(empty tree)	OK	empty tree: problems A1-B6 are bold run-in labels (A1., Answer., Solution 1., Lemma.), no own-line heading on p1-14
+examPaper_eng_2a2d3def	1	1	浙江大学2018-2019学年春夏学期 《Artificial Intelligence》课程期末考试试卷	OK	university/term line + 《course》期末考试试卷 line (union) on cover
+examPaper_eng_2a2d3def	10	1	浙江大学2018-2019学年春夏学期 《Artificial Intelligence》课程期末考试试卷 › 1. Fill in the blanks (20 points, 1 points/each blank)	OK	bold group line "1. Fill in the blanks", questions 1)-10)
+examPaper_eng_2a2d3def	26	4	浙江大学2018-2019学年春夏学期 《Artificial Intelligence》课程期末考试试卷 › 2. Single Choice (50 points, only one of the options is correct. 2 points/one question)	OK	bold group line "2. Single Choice" p4, questions 1)-16) to p8
+examPaper_eng_2a4c8db3	1	1	浙江大学 2016-2017 学年 春夏 学期 《Artificial Intelligence》课程期末考试试卷	OK	university/term line + 《course》期末考试试卷 line (union) on cover
+examPaper_eng_2a4c8db3	10	1	浙江大学 2016-2017 学年 春夏 学期 《Artificial Intelligence》课程期末考试试卷 › 1. Fill in the blanks (30 points)	OK	bold group line "1. Fill in the blanks", questions 1)-10)
+examPaper_eng_2a4c8db3	27	3	浙江大学 2016-2017 学年 春夏 学期 《Artificial Intelligence》课程期末考试试卷 › 2. Multiple Choice (36 points, only one of the options is correct.)	OK	bold group line "2. Multiple Choice" p3, questions 1)-6)
+examPaper_eng_498d26ee	2	1	day 1	OK	page header "English (eng), day 1"; problems 1-3
+examPaper_eng_498d26ee	15	2	day 2	OK	page header "English (eng), day 2"; problems 4-6
+examPaper_eng_4f919f1c	5	1	3. To Commemorate the Centenary of Rutherford's Atomic Nucleus: the Scattering of an Ion by a Neutral Atom	OK	bold problem title (2 lines) p1; sub-tasks 3.1-3.5 run-in; IPhO headers text
+examPaper_eng_58d7c49f	1	1	IPhO2002 I. Ground-Penetrating Radar	OK	header "IPhO2002" + centred problem title (union)
+examPaper_eng_58d7c49f	11	1	IPhO2002 I. Ground-Penetrating Radar › Questions:	OK	bold own-line "Questions:" with tasks 1-4 p1-2
+examPaper_eng_658ab010	1	1	\(40^{\mathrm{th}}\) International Mathematical Olympiad Bucharest	OK	bold centred olympiad title box p1 (restated on p2: repeat)
+examPaper_eng_658ab010	2	1	\(40^{\mathrm{th}}\) International Mathematical Olympiad Bucharest › Day I	OK	"Day I" under the title, problems 1-3
+examPaper_eng_658ab010	15	2	\(40^{\mathrm{th}}\) International Mathematical Olympiad Bucharest › Day II	OK	"Day II" under the restated title p2, problems 4-6
+examPaper_eng_66b20269	2	1	IOI 2021 Dungeons Game	OK	header tag "IOI 2021 …" + large task name Dungeons Game (union)
+examPaper_eng_66b20269	11	1	IOI 2021 Dungeons Game › Implementation details	OK	section title with procedures p1-2
+examPaper_eng_66b20269	27	2	IOI 2021 Dungeons Game › Example	OK	section title with worked example p2-3
+examPaper_eng_66b20269	41	3	IOI 2021 Dungeons Game › Constraints	OK	section title with constraint list p3
+examPaper_eng_66b20269	49	3	IOI 2021 Dungeons Game › Subtasks	OK	section title with subtask list p3
+examPaper_eng_66b20269	56	3	IOI 2021 Dungeons Game › Sample grader	OK	section title with grader format p3-4
+examPaper_eng_6c2631df	-	-	(empty tree)	OK	empty tree: starts mid-solution ("Solution:" label), Problem 2 run-in p3; labels stay text by containment
+examPaper_eng_75d067cd	1	1	32nd International Mathematical Olympiad	OK	bold centred olympiad title p1
+examPaper_eng_75d067cd	2	1	32nd International Mathematical Olympiad › First Day July 17, 1991 Time Limit: \(4\frac{1}{2}\) hours	OK	bold day line with date/time limit, problems 1-3
+examPaper_eng_75d067cd	9	1	32nd International Mathematical Olympiad › Second Day July 18, 1991 Time Limit: \(4\frac{1}{2}\) hours	OK	bold day line with date/time limit, problems 1-3 to p2
+examPaper_eng_930559d3	1	1	2024 MCM Problem C: Momentum in Tennis	OK	bold centred "2024 MCM / Problem C: …" box p1
+examPaper_eng_930559d3	23	2	2024 MCM Problem C: Momentum in Tennis › Files provided:	OK	bold own-line label with file list p2
+examPaper_eng_930559d3	27	2	2024 MCM Problem C: Momentum in Tennis › Glossary	OK	bold "Glossary" with Grand Slam entry p2
+examPaper_eng_930559d3	30	3	2024 MCM Problem C: Momentum in Tennis › Glossary of key terms/concepts:	OK	bold label with term list p3
+examPaper_eng_930559d3	51	4	2024 MCM Problem C: Momentum in Tennis › References:	OK	bold "References:" with references p4
+examPaper_eng_930559d3	57	5	2024 MCM Problem C: Momentum in Tennis › Examples to Help Understand the Data Set	OK	bold section title p5; Example 1-3 lines are table captions (text)
+examPaper_eng_930559d3	69	7	2024 MCM Problem C: Momentum in Tennis › Use of Large Language Models and Generative AI Tools in COMAP Contests	OK	bold centred policy title p7
+examPaper_eng_930559d3	78	8	2024 MCM Problem C: Momentum in Tennis › Use of Large Language Models and Generative AI Tools in COMAP Contests › Guidance for teams	OK	bold policy section with numbered list p8
+examPaper_eng_930559d3	85	8	2024 MCM Problem C: Momentum in Tennis › Use of Large Language Models and Generative AI Tools in COMAP Contests › Citation and Referencing Directions	OK	bold policy section p8
+examPaper_eng_930559d3	89	8	2024 MCM Problem C: Momentum in Tennis › Use of Large Language Models and Generative AI Tools in COMAP Contests › Citation and Referencing Directions › Report on Use of AI	OK	centred bold sample-section title with entries p8
+examPaper_eng_d1508a80	1	1	Question 2.	OK	bold "Question 2." at p1 top, only title of the solution sheet
+examPaper_eng_dbf0e536	2	1	Day: 1	OK	header box "Language … Day: 1" (day part only); problems 1-3
+examPaper_eng_dbf0e536	15	2	Day: 2	OK	header box "Language … Day: 2" (day part only); problems 4-6
+examPaper_eng_dd12c9cc	1	1	Solution (The Experimental Question):	OK	bold "Solution (The Experimental Question):" p1 top
+examPaper_eng_dd12c9cc	2	1	Solution (The Experimental Question): › Task 1	OK	bold "Task 1" with parts 1a-1e p1-3
+examPaper_eng_dd12c9cc	32	4	Solution (The Experimental Question): › Task 2.	OK	bold "Task 2." with parts 2a-2e p4-6
+examPaper_eng_dd12c9cc	55	7	Solution (The Experimental Question): › Task 3.	OK	bold "Task 3." with parts 3a-3d p7-9
+examPaper_eng_f46d7359	2	1	IOI 2021 Distributing Candies	OK	header tag "IOI 2021 …" + large task name Distributing Candies (union)
+examPaper_eng_f46d7359	9	1	IOI 2021 Distributing Candies › Implementation Details	OK	section title with procedure p1
+examPaper_eng_f46d7359	15	1	IOI 2021 Distributing Candies › Examples	OK	section title above Example 1 p1
+examPaper_eng_f46d7359	16	1	IOI 2021 Distributing Candies › Examples › Example 1	OK	"Example 1" with call and walk-through p1-2
+examPaper_eng_f46d7359	25	2	IOI 2021 Distributing Candies › Constraints	OK	section title with constraint list p2
+examPaper_eng_f46d7359	31	2	IOI 2021 Distributing Candies › Subtasks	OK	section title with subtask list p2
+examPaper_eng_f46d7359	37	2	IOI 2021 Distributing Candies › Sample Grader	OK	section title with grader format p2
+examPaper_eng_fc1f7054	2	1	day 1	OK	page header "English (eng), day 1"; problems 1-3
+examPaper_eng_fc1f7054	12	2	day 2	OK	page header "English (eng), day 2"; problems 4-6

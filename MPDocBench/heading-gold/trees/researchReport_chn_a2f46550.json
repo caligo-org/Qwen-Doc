@@ -1,0 +1,163 @@
+{
+ "doc": "researchReport_chn_a2f46550",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    5,
+    17
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "东方证券 长海股份 300196.SZ 产能加速扩张，全产业链均衡布局 ——2020年年报&一季报预告点评",
+   "why": "title union: covered company/stock line atop the headline + headline + ——report-type line Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #17 (东方证券) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "核心观点",
+   "why": "section: cover summary title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "财务预测与投资建议",
+   "why": "section: cover forecast/recommendation title with its bullet"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "投资建议",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "风险提示",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "附表：财务报表预测与比率分析",
+   "why": "back matter: appendix title over the statement tables"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "分析师申明",
+   "why": "back matter: analyst statement"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "投资评级和相关定义",
+   "why": "back matter: rating definitions"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "公司投资评级的量化标准",
+   "why": "back matter sub-block: company rating standard with its list"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 62,
+   "text": "行业投资评级的量化标准：",
+   "why": "back matter sub-block: industry rating standard with its list"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "免责声明",
+   "why": "back matter: disclaimer"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    30
+   ],
+   "of": 3,
+   "why": "repeat: running head restating the title (company + report type + headline)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 3,
+   "why": "repeat: running head restating the title"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "of": 3,
+   "why": "repeat: running head restating the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "table title bar (公司主要财务信息): text"
+  },
+  {
+   "box": 26,
+   "why": "related-reports label: text per category note"
+  },
+  {
+   "box": 90,
+   "why": "office address box title: text per category note"
+  }
+ ],
+ "considered": [
+  {
+   "box": 46,
+   "why": "statement table caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 13,
+   "closes": 11,
+   "why": "round 5: own-line 风险提示 run-in, the company financial table and the sidebar follow the 财务预测与投资建议 block and are not about it"
+  },
+  {
+   "before": 90,
+   "closes": 80,
+   "why": "round 5: office address box (colophon) after the disclaimer text is not about 免责声明"
+  }
+ ]
+}

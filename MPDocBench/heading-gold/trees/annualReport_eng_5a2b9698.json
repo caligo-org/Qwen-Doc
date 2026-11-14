@@ -1,0 +1,397 @@
+{
+ "doc": "annualReport_eng_5a2b9698",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Appendix 4E Abacus Group",
+   "why": "title union: document type (Appendix 4E) + owner (Abacus Group) on the first page"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Results for announcement to the market",
+   "why": "top section of the Appendix 4E"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Distribution Reinvestment Plan (DRP)",
+   "why": "top section of the Appendix 4E"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ANNUAL FINANCIAL REPORT 30 June 2024",
+   "why": "attached report's cover title (owner only as logo); its title page restates it"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "Directory",
+   "why": "front matter section of the attached report"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "CONTENTS",
+   "why": "contents title of the attached report"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "DIRECTORS' REPORT",
+   "why": "section: running section title printed at the top of the Directors' Report pages (first occurrence)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 40,
+   "text": "PRINCIPAL ACTIVITIES AND STRUCTURE",
+   "why": "large caps section head inside the Directors' Report"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 5,
+   "parent": 43,
+   "text": "Listed Structure / Entities",
+   "why": "small underlined subhead"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 5,
+   "parent": 43,
+   "text": "Abacus Group Consolidation",
+   "why": "small underlined subhead"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 40,
+   "text": "OPERATING AND FINANCIAL REVIEW",
+   "why": "large caps section head"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "GROUP OVERVIEW",
+   "why": "smaller caps head inside the operating and financial review"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "GROUP RESULTS SUMMARY",
+   "why": "smaller caps head"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 6,
+   "parent": 76,
+   "text": "Capital management and allocation",
+   "why": "small underlined subhead"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "KEY SEGMENT RESULTS SUMMARY",
+   "why": "smaller caps head"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 6,
+   "parent": 123,
+   "text": "Office",
+   "why": "segment subhead (same look as Retail/Storage)"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 6,
+   "parent": 123,
+   "text": "Retail",
+   "why": "segment subhead"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 6,
+   "parent": 123,
+   "text": "Storage",
+   "why": "segment subhead"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 6,
+   "parent": 123,
+   "text": "Commercial Valuations",
+   "why": "subhead"
+  },
+  {
+   "boxes": [
+    157
+   ],
+   "level": 6,
+   "parent": 123,
+   "text": "ESG",
+   "why": "subhead"
+  },
+  {
+   "boxes": [
+    169
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "FUTURE PROSPECTS",
+   "why": "smaller caps head"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "RISK MANAGEMENT",
+   "why": "smaller caps head"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 6,
+   "parent": 172,
+   "text": "Key Risks and Mitigations",
+   "why": "subhead with its own table"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    25
+   ],
+   "of": 22,
+   "why": "repeat: title page restating the attached report's cover title"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 40,
+   "why": "repeat: running section title, section still open"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "of": 76,
+   "why": "repeat: \"(continued)\" with nothing in between"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "of": 76,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "of": 123,
+   "why": "repeat: \"(continued)\" (its subsection Office is a child, section still open)"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    185
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 181,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    192
+   ],
+   "of": 40,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    194
+   ],
+   "of": 172,
+   "why": "repeat: \"(continued)\""
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "of": 181,
+   "why": "repeat: \"(continued)\""
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "subtitle naming the attached report on the first page (cover line, not the title union)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "ABN field"
+  },
+  {
+   "box": 7,
+   "why": "period line"
+  },
+  {
+   "box": 26,
+   "why": "date line under the title page"
+  },
+  {
+   "box": 41,
+   "why": "date line under the running section title"
+  },
+  {
+   "box": 126,
+   "why": "table caption"
+  },
+  {
+   "box": 131,
+   "why": "figure caption"
+  },
+  {
+   "box": 140,
+   "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 19,
+   "why": "round 5: the cover image of the attached Annual Financial Report is not about the DRP; it belongs to L1 (the attached report title follows)"
+  },
+  {
+   "before": 37,
+   "closes": 35,
+   "why": "round 5: the read-in-conjunction note below CONTENTS is about the Annual Financial Report, not the contents list"
+  }
+ ]
+}

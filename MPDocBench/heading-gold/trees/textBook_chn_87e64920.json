@@ -1,0 +1,134 @@
+{
+ "doc": "textBook_chn_87e64920",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    7,
+    4,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "中国历史 七年级 上册",
+   "why": "title union: subject + grade/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    24,
+    25
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "第一单元 史前时期：中国境内早期人类与文明的起源",
+   "why": "unit label + unit title union"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "第1课 中国境内早期人类的代表——北京人",
+   "why": "lesson label + lesson title (one box)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 4,
+   "parent": 27,
+   "text": "我国境内的早期人类",
+   "why": "目 subheading of the lesson: describes the block below"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 5,
+   "parent": 29,
+   "text": "相关史事",
+   "why": "round 5: restored, a break now closes it before #38; material box 相关史事 with its own paragraph of material (#37): heading one level below 我国境内的早期人类 by the box rule"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 27,
+   "text": "北京人",
+   "why": "目 subheading, same look as #29 (sibling: a topic of the lesson)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 27,
+   "text": "山顶洞人",
+   "why": "目 subheading, same look as #29"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11,
+    12
+   ],
+   "of": 7,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 7,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 7,
+   "why": "repeat: running foot naming the book"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "of": 27,
+   "why": "repeat: running foot naming the open lesson"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "of": 27,
+   "why": "repeat: running foot naming the open lesson"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 39,
+   "why": "prompt box 问题思考 with one short question: callout, text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 38,
+   "closes": 36,
+   "why": "相关史事 box ends at its dotted rule; the 问题思考 prompt and the site map belong to the section 我国境内的早期人类"
+  }
+ ]
+}

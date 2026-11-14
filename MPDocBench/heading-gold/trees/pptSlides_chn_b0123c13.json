@@ -1,0 +1,54 @@
+{
+ "doc": "pptSlides_chn_b0123c13",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "2.11 红外传感器",
+   "why": "deck title (lecture number + title, no course line printed)"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "定义",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1、红外辐射",
+   "why": "numbered slide title; the untitled next slide continues its bullets"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "大气窗口",
+   "why": "slide title, same look as the others (unnumbered, kept sibling) | breadcrumb round 3: same look as \"1、红外辐射\" but unnumbered, and its content (atmospheric attenuation/absorption of infrared, transmission windows) is a property of infrared radiation -> subtopic L3 under 1、红外辐射 (numbering settles what the look leaves open); resolves round-1 OPEN"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 18,
+   "why": "brace-diagram label"
+  },
+  {
+   "box": 20,
+   "why": "brace-diagram label repeating the slide title"
+  }
+ ]
+}

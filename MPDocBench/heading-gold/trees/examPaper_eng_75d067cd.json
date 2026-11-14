@@ -1,0 +1,36 @@
+{
+ "doc": "examPaper_eng_75d067cd",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "32nd International Mathematical Olympiad",
+   "why": "title: competition paper"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "First Day",
+   "why": "part: First Day (with date/time limit in the same box); final path check: text = heading part only, the date and time limit in the same box are other fields (text)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Second Day",
+   "why": "part: Second Day; final path check: text = heading part only, the date and time limit in the same box are other fields (text)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

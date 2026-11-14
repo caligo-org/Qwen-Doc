@@ -1,0 +1,386 @@
+{
+ "doc": "nationalStandard_chn_7b396eb8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "冷轧带肋钢筋 Cold rolled ribbed steel bars",
+   "why": "title: Chinese title + English title printed in one box"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    45,
+    46
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "3.1 冷轧带肋钢筋 cold rolled ribbed steel bars",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    48,
+    49
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "3.2 公称直径 nominal diameter",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    51,
+    52
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "3.3 相对肋面积 specific projected rib area",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    54,
+    55
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "3.4 横肋间隙 rib spacing",
+   "why": "term entry: number + term (one heading) | final path check: space as printed"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "4 牌号",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "5 尺寸、外形、重量及允许偏差",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.1 公称直径范围",
+   "why": "clause 5.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.2 外形",
+   "why": "clause 5.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 4,
+   "parent": 66,
+   "text": "5.2.1 外形要求",
+   "why": "clause 5.2.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 4,
+   "parent": 66,
+   "text": "5.2.2 横肋要求",
+   "why": "clause 5.2.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.3 尺寸、重量及允许偏差",
+   "why": "clause 5.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.4 交货型式、长度及允许偏差",
+   "why": "clause 5.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.5 弯曲度",
+   "why": "clause 5.5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "5.6 重量",
+   "why": "clause 5.6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "6 原料及性能",
+   "why": "clause 6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 129,
+   "text": "6.1 原料",
+   "why": "clause 6.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 129,
+   "text": "6.2 交货状态",
+   "why": "clause 6.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 3,
+   "parent": 129,
+   "text": "6.3 力学性能和工艺性能",
+   "why": "clause 6.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 3,
+   "parent": 129,
+   "text": "6.4 表面质量",
+   "why": "clause 6.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "7 试验方法",
+   "why": "clause 7: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.1 检验项目",
+   "why": "clause 7.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.2 力学性能",
+   "why": "clause 7.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.3 应力松弛试验",
+   "why": "clause 7.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.4 尺寸测量",
+   "why": "clause 7.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.5 重量偏差的测量",
+   "why": "clause 7.5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "7.6 数值修约",
+   "why": "clause 7.6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "8 检验规则",
+   "why": "clause 8: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 3,
+   "parent": 177,
+   "text": "8.1 检查和验收",
+   "why": "clause 8.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "level": 3,
+   "parent": 177,
+   "text": "8.2 组批规则",
+   "why": "clause 8.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    182
+   ],
+   "level": 3,
+   "parent": 177,
+   "text": "8.3 取样数量",
+   "why": "clause 8.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    184
+   ],
+   "level": 3,
+   "parent": 177,
+   "text": "8.4 复验与判定",
+   "why": "clause 8.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "9 包装、标志和质量证明书",
+   "why": "clause 9: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "附录A (规范性) 冷轧带肋钢筋用热轧盘条",
+   "why": "annex title: describes the annex below (containment)"
+  },
+  {
+   "boxes": [
+    200
+   ],
+   "level": 3,
+   "parent": 199,
+   "text": "A.1 牌号及化学成分",
+   "why": "clause A.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 3,
+   "parent": 199,
+   "text": "A.2 力学性能和工艺性能",
+   "why": "clause A.2: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    30
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

@@ -1,0 +1,36 @@
+{
+ "doc": "examPaper_eng_58d7c49f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "IPhO2002 I. Ground-Penetrating Radar",
+   "why": "round 3: title union owner ∪ document: the competition (IPhO2002) is printed only in the page header, the problem title is the document; was the problem title alone"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Questions:",
+   "why": "own-line label with its own block of numbered tasks below (v3 generic label rule)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "running page header IPhO2002 on p2: repeat of the L1"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

@@ -1,0 +1,119 @@
+{
+ "doc": "researchReport_eng_4872e373",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs GS SUSTAIN: ESG of the Future Accelerating the Energy Transition: Metrics and tools to measure progress",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: GS SUSTAIN: ESG of the Future Accelerating the Energy Transition: Metrics and tools to measure progress)."
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "PM Summary",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Recommendations",
+   "why": "section: body section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    19
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series/title kicker"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series/title kicker"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series/title kicker"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series/title kicker"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series/title kicker"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 21,
+   "why": "panel title inside the Exhibit 1 infographic (captioned exhibit): figure content, text"
+  },
+  {
+   "box": 23,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 26,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 29,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 31,
+   "why": "exhibit panel title: text"
+  },
+  {
+   "box": 33,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 36,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 39,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 42,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 45,
+   "why": "exhibit panel label: text"
+  },
+  {
+   "box": 48,
+   "why": "exhibit panel label: text"
+  }
+ ],
+ "considered": []
+}

@@ -1,0 +1,310 @@
+{
+ "doc": "newspaper_chn_11ae9c36",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "人民日报",
+   "why": "masthead (periodical title)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "坚定信心、顽强拼搏，实现新征程良好开局",
+   "why": "story: commentary headline, front page has no section banner"
+  },
+  {
+   "boxes": [
+    12,
+    13
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "中共中央国务院举行春节团拜会 习近平发表讲话",
+   "why": "title union: main headline printed over two lines in the same big type"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 4,
+   "parent": 12,
+   "text": "在二〇二三年春节团拜会上的讲话",
+   "why": "story: speech text headline (vertical title) | breadcrumb round 2: L3 sibling -> L4 under #12: the boxed speech sits inside the 团拜会 story whose headline announces it (习近平发表讲话); the story body (#47-#60) follows the box in reading order, so as a sibling it fell under the speech node outside its story"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "why": "section: page tag 要闻, every Chinese page is a new section"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "情牵人民 春暖中国",
+   "why": "story: headline; the ——line in the same box is a deck | starts: the story's intro paragraphs #65-#68 sit left of and before the headline in reading order"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头一：2013年 甘肃】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 5,
+   "parent": 69,
+   "text": "【回访】",
+   "why": "label with own block under each segment (repeated label rule v3)"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头二：2013年 北京】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 5,
+   "parent": 81,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头三：2014年 内蒙古】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头四：2015年 陕西】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 5,
+   "parent": 106,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头五：2016年 江西】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 5,
+   "parent": 117,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头六：2017年 河北】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 5,
+   "parent": 129,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头七：2018年 四川】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 5,
+   "parent": 139,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头八：2019年 北京】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 5,
+   "parent": 151,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    163
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头九：2020年 云南】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 5,
+   "parent": 163,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头十：2021年 贵州】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 5,
+   "parent": 176,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 4,
+   "parent": 94,
+   "text": "【镜头十一：2022年 山西】",
+   "why": "subhead: segment head with its own block"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "level": 5,
+   "parent": 186,
+   "text": "【回访】",
+   "why": "label with own block under each segment"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "坚定信心、顽强拼搏，实现新征程良好开局",
+   "continues": 5,
+   "why": "continuation: jump paragraph starting \"（上接第一版）\" of front-page story #5, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    64
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "masthead pinyin RENMIN RIBAO, cover line other than the title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 14,
+   "why": "decks under the main headline"
+  },
+  {
+   "box": 15,
+   "why": "decks under the main headline"
+  },
+  {
+   "box": 6,
+   "why": "column rubric 本报评论员"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 47,
+   "closes": 20,
+   "why": "round 5: the boxed speech (and its highlight box #42-#46) ends; the body of the 团拜会 story #12 resumes"
+  },
+  {
+   "before": 198,
+   "closes": 186,
+   "why": "round 5: the last 镜头/回访 segment ends; a closing paragraph about the whole series of the story #94 follows"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "doc": "examPaper_eng_2a4c8db3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "浙江大学 2016-2017 学年 春夏 学期 《Artificial Intelligence》课程期末考试试卷",
+   "why": "title union: owner/term line (浙江大学 … 学期) + document type (《Artificial Intelligence》课程期末考试试卷)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1. Fill in the blanks (30 points)",
+   "why": "question group"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2. Multiple Choice (36 points, only one of the options is correct.)",
+   "why": "question group"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "exam honesty slogan: cover text"
+  },
+  {
+   "box": 3,
+   "why": "course number / school line: cover text"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "doc": "nationalStandard_chn_689650a7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "电动汽车供电设备 能效限定值及能效等级 Minimum allowable values of energy efficiency and energy efficiency grades for electric vehicle power supply equipment",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "目 次",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

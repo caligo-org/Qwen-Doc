@@ -1,0 +1,160 @@
+{
+ "doc": "nationalStandard_chn_f3f3a014",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "土方机械 噪声限值 Earth-moving machinery—Noise limits",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前 言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "引 言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    50,
+    51
+   ],
+   "level": 3,
+   "parent": 48,
+   "text": "3.1 轮胎式叉装机 forklift wheel loader",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    55,
+    56
+   ],
+   "level": 3,
+   "parent": 48,
+   "text": "3.2 水平定向钻机 horizontal directional drilling machine",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "4 噪声限值",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "4.1 机外发射噪声限值",
+   "why": "clause 4.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 63,
+   "text": "4.2 司机位置噪声限值",
+   "why": "clause 4.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "5 试验方法",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 74,
+   "text": "5.1 声功率级的测定",
+   "why": "clause 5.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 74,
+   "text": "5.2 司机位置处发射声压级的测定",
+   "why": "clause 5.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "参 考 文 献",
+   "why": "front/back matter title at the level of the top clauses"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    31
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

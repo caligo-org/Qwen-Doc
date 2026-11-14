@@ -1,0 +1,32 @@
+{
+ "doc": "examPaper_chn_99ec4b2c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Day: 1",
+   "why": "round 3: page header printed only on day 1's page (\"Day: 1\"): a section-only running header is that section's heading (NOTATIONS); no title printed (owner only in the logo), so the days are the top level; text = heading part only (language is another field); was a running head (empty tree)"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Day: 2",
+   "why": "round 3: page header printed only on day 2's page (\"Day: 2\"): a section-only running header is that section's heading (NOTATIONS); no title printed (owner only in the logo), so the days are the top level; text = heading part only (language is another field); was a running head (empty tree)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 5,
+   "why": "1. problem: individual question, text"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "doc": "textBook_chn_12b0d2b4",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "数学 选择性必修 第二册",
+   "why": "title union: subject + course/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "本册导引",
+   "why": "front matter: volume guide title"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第四章 数列",
+   "why": "chapter label + title (one box)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "4.1 数列的概念",
+   "why": "numbered section 4.1: describes the block below"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 34,
+   "text": "练习",
+   "why": "round 5: restored, a break now closes it before 例3 (#103); exercise box 练习 with its own exercise list (#93-102): heading one level below 4.1 by the box rule"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "of": 31,
+   "why": "repeat: running foot naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 47,
+   "why": "callout box 思考 with a one-line prompt: no significant block (substance), text"
+  },
+  {
+   "box": 51,
+   "why": "callout box 归纳 with a one-line question; the definition text after it is main text: label, text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 103,
+   "closes": 92,
+   "why": "练习 box ends at the dashed rule; the section's main text resumes with 例3, which belongs to 4.1"
+  }
+ ]
+}

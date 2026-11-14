@@ -1,0 +1,189 @@
+{
+ "doc": "researchReport_chn_dd0407a2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    19,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "上海證券 洽洽食品 (002557) 业绩增长略超预期，坚果品类扩充",
+   "why": "title union: company/stock banner atop the title block + headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #6 (上海證券) joins the union after the title box. starts: the rating box (#1) is printed beside the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "公司动态事项",
+   "why": "section: cover section with its paragraph"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "事项点评",
+   "why": "section: cover review section over the subheads"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "瓜子延续快增长，Q2坚果逐步恢复",
+   "why": "section: own-line subhead with its paragraph"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "受益销售费用率下降，净利率提升",
+   "why": "section: own-line subhead"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "产品矩阵扩充，全渠道发力",
+   "why": "section: own-line subhead"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "投资建议",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "风险提示",
+   "why": "section: risk section"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "数据预测与估值：",
+   "why": "back-matter section, L2 (round 3 containment): own-line styled title (blue, ruled) over the forecast table (p2) and the four financial statements (p3); as text it left those tables inside 风险提示, which they are not about"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "分析师声明",
+   "why": "back matter: analyst statement"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "公司业务资格说明",
+   "why": "back matter: licence statement"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "投资评级体系与评级定义",
+   "why": "back matter: rating system"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "股票投资评级：",
+   "why": "back matter sub-block: stock rating with its text + table"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "行业投资评级：",
+   "why": "back matter sub-block: industry rating"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "投资评级说明：",
+   "why": "back matter sub-block: rating explanation"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "免责声明",
+   "why": "back matter: disclaimer"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "rating line 增持——维持: text per category note"
+  },
+  {
+   "box": 8,
+   "why": "sidebar data-table label: text"
+  },
+  {
+   "box": 10,
+   "why": "sidebar shareholder table label: text"
+  },
+  {
+   "box": 12,
+   "why": "sidebar revenue table label: text"
+  },
+  {
+   "box": 14,
+   "why": "sidebar chart label: text"
+  },
+  {
+   "box": 16,
+   "why": "related-reports label: text per category note"
+  },
+  {
+   "box": 54,
+   "why": "analyst name under the analyst statement: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "report-type header line in the title banner"
+  }
+ ]
+}

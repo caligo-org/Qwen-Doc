@@ -1,0 +1,282 @@
+{
+ "doc": "nationalStandard_chn_733bf6f5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "婴幼儿及儿童纺织产品安全技术规范 Safety technical code for infants and children textile products",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    39,
+    40
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.1 纺织产品 textile products",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    43,
+    44
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.2 婴幼儿纺织产品 textile products for infants",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    48,
+    49
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.3 儿童纺织产品 textile products for children",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    54,
+    55
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.4 直接接触皮肤的纺织产品 textile products with direct contact to skin",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    58,
+    59
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.5 非直接接触皮肤的纺织产品 textile products without direct contact to skin",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    62,
+    63
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.6 附件 attached components",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    65,
+    66
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "3.7 绳带 cords and drawstrings",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "4 要求",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "4.1 总则",
+   "why": "clause 4.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "4.2 织物的要求",
+   "why": "clause 4.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "4.3 填充物的要求",
+   "why": "clause 4.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "4.4 附件的要求",
+   "why": "clause 4.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "4.5 其他要求",
+   "why": "clause 4.5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "5 试验方法",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "6 检验规则",
+   "why": "clause 6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "附录A（规范性附录）附件抗拉强力试验方法",
+   "why": "annex title: describes the annex below (containment)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 119,
+   "text": "A.1 原理",
+   "why": "clause A.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 3,
+   "parent": 119,
+   "text": "A.2 设备",
+   "why": "clause A.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 3,
+   "parent": 119,
+   "text": "A.3 样品",
+   "why": "clause A.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 119,
+   "text": "A.4 步骤",
+   "why": "clause A.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 4,
+   "parent": 130,
+   "text": "A.4.1 抗拉强力试验",
+   "why": "clause A.4.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 130,
+   "text": "A.4.2 洗涤试验",
+   "why": "clause A.4.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 119,
+   "text": "A.5 试验报告",
+   "why": "clause A.5: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    21
+   ],
+   "of": 5,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

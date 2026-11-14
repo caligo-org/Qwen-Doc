@@ -1,0 +1,335 @@
+{
+ "doc": "prospectus_eng_51f57153",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Man Umbrella SICAV Prospectus",
+   "why": "title union: fund (owner) + document type Prospectus"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Important notices",
+   "why": "front matter section with its notices"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Table of contents",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Administration",
+   "why": "front matter directory section Administration"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Board of Directors",
+   "why": "directory group heading with its sub-labels"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "Chairman",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "Board members",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Management Company",
+   "why": "directory group heading with its block and sub-labels"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Chairman",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Board members",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Conducting Officers",
+   "why": "directory label with its own entry block"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Registered Office of the Fund",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Central Administrative Agent",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Investment Managers",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Registrar and Transfer Agent",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Custodian Bank",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Auditors",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 38,
+   "text": "Legal Advisers in Luxembourg",
+   "why": "directory label with its own address block"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "The Fund",
+   "why": "body section The Fund"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "Man Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds (label one level below its section)"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "Man AHL Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "GLG Sub-Funds:",
+   "why": "own-line label with its own bullet list of sub-funds"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Management",
+   "why": "body section Management"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 3,
+   "parent": 105,
+   "text": "Board of Directors and senior management",
+   "why": "subsection with its paragraph"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 105,
+   "text": "Management Company",
+   "why": "subsection with its paragraphs"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 3,
+   "parent": 105,
+   "text": "Investment Managers",
+   "why": "subsection Investment Managers introducing the three managers"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 4,
+   "parent": 127,
+   "text": "Man Investments (CH) AG",
+   "why": "individual investment manager described under Investment Managers (content beats look)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 4,
+   "parent": 127,
+   "text": "Man Investments Ltd.",
+   "why": "individual investment manager described under Investment Managers (content beats look)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 4,
+   "parent": 127,
+   "text": "GLG Partners LP",
+   "why": "individual investment manager described under Investment Managers (content beats look)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "of": 1,
+   "why": "running foot naming the fund: repeat of the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 104,
+   "closes": 102,
+   "why": "round 5: closing paragraph about the investment policy of all sub-funds after the label list Man / Man AHL / GLG Sub-Funds:; it belongs to The Fund (resolves the round 4 OPEN)"
+  }
+ ]
+}

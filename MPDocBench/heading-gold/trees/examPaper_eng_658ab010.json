@@ -1,0 +1,53 @@
+{
+ "doc": "examPaper_eng_658ab010",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "\\(40^{\\mathrm{th}}\\) International Mathematical Olympiad",
+   "why": "title: competition paper title; final path check: text = heading part only, the venue line \"Bucharest\" in the same box is a cover field (text)"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Day I",
+   "why": "part: Day I printed in the body under the title, contains problems 1-3"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Day II",
+   "why": "part: Day II"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    14
+   ],
+   "of": 1,
+   "why": "title restated at the top of the day-2 page; title section still open"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "date line: text"
+  },
+  {
+   "box": 16,
+   "why": "date line: text"
+  }
+ ]
+}

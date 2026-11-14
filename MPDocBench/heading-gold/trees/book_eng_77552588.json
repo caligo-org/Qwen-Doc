@@ -1,0 +1,564 @@
+{
+ "doc": "book_eng_77552588",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Organization and management of the district hospital surgical service",
+   "why": "title: chapter title of a book excerpt (book title appears only in even running heads); unit number figure is decoration"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.1 THE DISTRICT HOSPITAL",
+   "why": "section 1.1"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box with its own bullet block, one level below its section | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "You, your staff, systems and site",
+   "why": "mixed-case bold subhead with its own text (same style as 'Community partners')"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "Community partners",
+   "why": "mixed-case bold subhead in 1.1 (no uppercase level in this section: no skip)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.2 LEADERSHIP, TEAM SKILLS AND MANAGEMENT",
+   "why": "section 1.2"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about leadership, belongs to 1.2 (printed beside the 1.2 heading) | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "ROLE OF THE LEADER WITHIN A HEALTH CARE TEAM",
+   "why": "uppercase subhead of 1.2"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "LEADERSHIP STYLES",
+   "why": "uppercase subhead of 1.2"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Democratic",
+   "why": "item label with its own paragraph under LEADERSHIP STYLES"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Autocratic",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Laissez-faire",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Anarchic",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Consensus",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Situational",
+   "why": "item label with its own paragraph"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "COMMUNICATION",
+   "why": "uppercase subhead of 1.2"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 79,
+   "text": "Listening",
+   "why": "mixed-case bold subhead one level below the uppercase subhead it follows"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about listening | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "WORKING WITH OTHERS",
+   "why": "uppercase subhead of 1.2"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Meetings",
+   "why": "mixed-case bold subhead under WORKING WITH OTHERS"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Feedback",
+   "why": "mixed-case bold subhead under WORKING WITH OTHERS"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about working with others | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.3 ETHICS",
+   "why": "section 1.3"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 3,
+   "parent": 149,
+   "text": "PATIENT CONSENT",
+   "why": "uppercase subhead"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 3,
+   "parent": 149,
+   "text": "KEY POINT",
+   "why": "box title: KEY POINT box about consent | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 3,
+   "parent": 149,
+   "text": "DISCLOSURE",
+   "why": "uppercase subhead"
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 3,
+   "parent": 149,
+   "text": "CARING FOR CARE GIVERS",
+   "why": "uppercase subhead"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "level": 3,
+   "parent": 149,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about caring for care givers | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    182
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.4 EDUCATION",
+   "why": "section 1.4"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about education, beside the 1.4 heading | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    184
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "PLANNING",
+   "why": "uppercase subhead"
+  },
+  {
+   "boxes": [
+    197
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box about planning education | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "ROUNDS",
+   "why": "uppercase subhead"
+  },
+  {
+   "boxes": [
+    229
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Morning report",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    234
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Bedside teaching rounds",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    238
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Formal educational rounds",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    240
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Morbidity and mortality meetings",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "level": 4,
+   "parent": 228,
+   "text": "Team training in critical care practice",
+   "why": "mixed-case bold subhead under ROUNDS"
+  },
+  {
+   "boxes": [
+    247
+   ],
+   "level": 3,
+   "parent": 182,
+   "text": "Hospital library",
+   "why": "breadcrumb round 3: mixed-case bold head printed after the ROUNDS items, but a library is not a round (ROUNDS lists morning report, bedside, formal, M&M, team training); content beats look: a subsection of 1.4 EDUCATION"
+  },
+  {
+   "boxes": [
+    251
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.5 RECORD KEEPING",
+   "why": "section 1.5"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box of 1.5 | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  },
+  {
+   "boxes": [
+    269
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Admission note/preoperative note",
+   "why": "mixed-case bold subhead in 1.5 (no uppercase level here: no skip)"
+  },
+  {
+   "boxes": [
+    271
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Operating room records",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    279
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Delivery book",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    281
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "The operative note",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    283
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Postoperative note",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    294
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Discharge note",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    299
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Standard operating procedures",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    301
+   ],
+   "level": 3,
+   "parent": 251,
+   "text": "Interhospital communication",
+   "why": "mixed-case bold subhead in 1.5"
+  },
+  {
+   "boxes": [
+    307
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1.6 EVALUATION",
+   "why": "section 1.6"
+  },
+  {
+   "boxes": [
+    317
+   ],
+   "level": 3,
+   "parent": 307,
+   "text": "KEY POINTS",
+   "why": "box title: KEY POINTS box of 1.6 | user decision 2026-11-13: every KEY POINTS box is L3, one level below the numbered section it closes, placed where the correct reading order puts it (the layout reads some boxes out of place)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    246
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  },
+  {
+   "boxes": [
+    290
+   ],
+   "of": 1,
+   "why": "repeat: odd-page running head naming the chapter"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 24,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 62,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 124,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 164,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 195,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 232,
+   "why": "even-page running head with the book title, printed nowhere else"
+  },
+  {
+   "box": 267,
+   "why": "even-page running head with the book title, printed nowhere else"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 125,
+   "closes": 120,
+   "why": "the second KEY POINTS box of p5 ends; the main column of WORKING WITH OTHERS (healthy-organizations list and paragraph) resumes on p6"
+  },
+  {
+   "before": 165,
+   "closes": 161,
+   "why": "the KEY POINT box ends; the main patient-consent text resumes on p8"
+  },
+  {
+   "before": 203,
+   "closes": 197,
+   "why": "the KEY POINTS box of p10 ends; the main column of PLANNING (in-service training list, educational planning text) resumes"
+  }
+ ]
+}

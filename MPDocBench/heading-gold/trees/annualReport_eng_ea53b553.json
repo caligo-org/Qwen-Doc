@@ -1,0 +1,231 @@
+{
+ "doc": "annualReport_eng_ea53b553",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    9
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FORM 10-K ACURA PHARMACEUTICALS, INC.",
+   "why": "title union: document type (FORM 10-K) + registrant name (field caption dropped)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Table of Contents",
+   "why": "contents title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Forward-Looking Statements",
+   "why": "front matter section: forward-looking statements"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "PART I",
+   "why": "PART level"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 74,
+   "text": "ITEM 1. BUSINESS",
+   "why": "Item level"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "Overview",
+   "why": "bold section head under Item"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "Our Strategy",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "Misuse or Abuse of Prescription Opioid Products and Development of Risk Mitigation Formulations",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "Overdose Risk Mitigation - Products and Development",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "LIMITx™ Technology",
+   "why": "bold section head Round 4: text as printed (OCR markup removed). | final path check: the page prints \"LIMITx™ Technology\"; node text dropped the x"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 4,
+   "parent": 75,
+   "text": "LIMITx Technology Products in Development",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 5,
+   "parent": 118,
+   "text": "LTX-03 Development",
+   "why": "bold-italic subhead naming the product program discussed below"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "Study 301",
+   "why": "italic subhead inside the program (user decision: content beats look)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "Manufacturing",
+   "why": "italic subhead inside the program"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "IND Update",
+   "why": "italic subhead inside the program"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "Non-clinical Study APT-RDR-300",
+   "why": "italic subhead inside the program"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "Non-clinical Study APT-RDR-301",
+   "why": "italic subhead inside the program"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "Clinical Study AP-LTX-311",
+   "why": "italic subhead inside the program"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 6,
+   "parent": 124,
+   "text": "AD Pharma Amended Agreement covering LTX-03",
+   "why": "italic subhead inside the program"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    35,
+    36
+   ],
+   "of": 4,
+   "why": "repeat: owner + form restated above the table of contents"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "issuing body (SEC name) above the form title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "navigation link in the header"
+  },
+  {
+   "box": 37,
+   "why": "period line under the restated title"
+  },
+  {
+   "box": 5,
+   "why": "form check-box line"
+  },
+  {
+   "box": 33,
+   "why": "form field line"
+  },
+  {
+   "box": 119,
+   "why": "lead-in sentence ending in a colon"
+  },
+  {
+   "box": 120,
+   "why": "table column caption"
+  },
+  {
+   "box": 122,
+   "why": "table column caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 147,
+   "closes": 144,
+   "why": "round 5: closing paragraph about both non-clinical studies (300 and 301), not only APT-RDR-301; belongs to LTX-03 Development"
+  }
+ ]
+}

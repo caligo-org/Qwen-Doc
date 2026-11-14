@@ -1,0 +1,114 @@
+{
+ "doc": "pptSlides_chn_0616b8b7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程",
+   "why": "title union: course book + chapter (owner) + lecture title (what deck)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title: front matter at top-section level"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "马尔可夫决策过程简介",
+   "why": "slide title before the first divider: introduction slide at top-section level"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "01 马尔可夫过程 (Markov Process)",
+   "why": "section divider: agenda slide with 01 highlighted, node = current entry starts: #16 (divider slide: reprinted 目录 label #16 comes before the highlighted entry #17 in reading order; it sat under #8 (previous slide))"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "随机过程",
+   "why": "slide title under divider 01"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "马尔可夫性质",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "状态转移矩阵",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "马尔可夫过程",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 35,
+   "text": "定义",
+   "why": "own-line label with its own boxed definition block (labelled block)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "示例：通勤问题",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 16,
+   "why": "contents title reprinted on agenda divider; the divider heading is the highlighted entry"
+  }
+ ],
+ "considered": [
+  {
+   "box": 7,
+   "why": "TOC entries"
+  },
+  {
+   "box": 4,
+   "why": "lecturer name on cover"
+  }
+ ]
+}

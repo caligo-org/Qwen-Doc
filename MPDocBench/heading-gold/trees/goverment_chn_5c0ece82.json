@@ -1,0 +1,63 @@
+{
+ "doc": "goverment_chn_5c0ece82",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "中华人民共和国发票管理办法",
+   "why": "title: regulation title names the whole document"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则",
+   "why": "chapter: 第一章 label + title"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 发票的印制",
+   "why": "chapter: 第二章 label + title"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 发票的领用",
+   "why": "chapter: 第三章 label + title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第四章 发票的开具和保管",
+   "why": "chapter: 第四章 label + title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "approval/revision note under the title: text"
+  },
+  {
+   "box": 4,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
+}

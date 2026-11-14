@@ -1,0 +1,544 @@
+{
+ "doc": "newspaper_eng_c21bfc8c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "USA TODAY",
+   "why": "masthead (periodical title) | starts: the skybox teasers #1-#4 above the masthead come before it in reading order and belong to the paper"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Colleges divesting of Israel warned",
+   "why": "story headline, front page (no section banner) | starts: the story's photo #17 with caption #18 (campus protest), set above the headline, comes before it in reading order"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Hope in America",
+   "why": "package banner over two front-page stories"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 4,
+   "parent": 30,
+   "text": "We're optimistic about everything except our politics",
+   "why": "package story headline"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 30,
+   "text": "Maine town holds to the past, paves way for the future",
+   "why": "package story headline"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "Thousands of school districts lacking AC",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "NEWS",
+   "why": "section: running section tag NEWS on 2A (section changes from the front page)"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "We're optimistic about everything except our politics",
+   "why": "continuation: one-word jump head of a package story (story role on the jump page) | breadcrumb round 3: the jump prints only the jump word \"Hope\" (no headline), so the continuation takes the original's title #32 | starts: the story's photo #70 with caption #71 (Hope, Alaska), set above the headline, comes before it in reading order",
+   "continues": 32
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 4,
+   "parent": 72,
+   "text": "Official population: 113. Fact check? Likely overstated",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 4,
+   "parent": 72,
+   "text": "Inspirational Obama for Democrats, Reagan for the GOP",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "Maine town holds to the past, paves way for the future",
+   "why": "continuation: one-word jump head of a package story | breadcrumb round 3: the jump prints only the jump word \"Maine\" (no headline), so the continuation takes the original's title #45",
+   "continues": 45
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "The center of town",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "Changing with the times",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "All politics is local",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "Restoring and preserving hope",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    222
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "Springfield, Ohio's Haitian residents share their fears",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    239
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "Thousands of school districts lacking AC",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Schools' AC\" (no headline), so the continuation takes the original's title #54",
+   "continues": 54
+  },
+  {
+   "boxes": [
+    247
+   ],
+   "level": 4,
+   "parent": 239,
+   "text": "Why do schools lack adequate AC?",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    256
+   ],
+   "level": 4,
+   "parent": 239,
+   "text": "Heat affects learning, teaching",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    260
+   ],
+   "level": 4,
+   "parent": 239,
+   "text": "Are there solutions?",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    269
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "Colleges divesting of Israel warned",
+   "why": "continuation: jump head of a front-page story | breadcrumb round 3: the jump prints only the jump word \"Colleges\" (no headline), so the continuation takes the original's title #19 | starts: the story's photo #267 with caption #268 (Emerson College encampment), set above the headline, comes before it in reading order (replaces the round-5 break before #267)",
+   "continues": 19
+  },
+  {
+   "boxes": [
+    279
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "Antiboycott laws: What are they?",
+   "why": "in-story subhead with its own block | final path check: text corrected to the print (box OCR garbled)"
+  },
+  {
+   "boxes": [
+    288
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "A free speech issue?",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    293
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "Student activists unfazed",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    305
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "A month to fly the flag for Hispanic diversity",
+   "why": "story headline (Just Curious rubric above is text) | starts: the series label Just Curious #302 with its QR box #303/#304 comes before the headline in reading order"
+  },
+  {
+   "boxes": [
+    316
+   ],
+   "level": 4,
+   "parent": 305,
+   "text": "Marking independence days",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    322
+   ],
+   "level": 4,
+   "parent": 305,
+   "text": "What is the difference between Hispanic and Latino?",
+   "why": "in-story subhead (question) with its own answer block"
+  },
+  {
+   "boxes": [
+    328
+   ],
+   "level": 4,
+   "parent": 305,
+   "text": "Museum in Washington showcases America's Latinos",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    333
+   ],
+   "level": 4,
+   "parent": 305,
+   "text": "What should people do to mark Hispanic Heritage Month?",
+   "why": "in-story subhead (question) with its own answer block"
+  },
+  {
+   "boxes": [
+    350
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "FBI: Another Trump assassination attempt",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    371
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "High-dose ADHD drugs pose mental health risk to patients",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    386
+   ],
+   "level": 4,
+   "parent": 371,
+   "text": "Higher doses pose a greater risk",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    393
+   ],
+   "level": 4,
+   "parent": 371,
+   "text": "Which ADHD drugs are not linked to psychosis or mania?",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    397
+   ],
+   "level": 4,
+   "parent": 371,
+   "text": "Amid shortages, risks of switching ADHD medications",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    400
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "Guns are still leading cause of death for kids",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    410
+   ],
+   "level": 4,
+   "parent": 400,
+   "text": "Gun deaths disproportionately affect Black youth",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    419
+   ],
+   "level": 4,
+   "parent": 400,
+   "text": "Rise in gun violence incidents across US schools",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    423
+   ],
+   "level": 4,
+   "parent": 400,
+   "text": "What can the US do about gun violence?",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    433
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "OPINION",
+   "why": "section: OPINION tag on 7A (section changes)"
+  },
+  {
+   "boxes": [
+    435
+   ],
+   "level": 3,
+   "parent": 433,
+   "text": "Speaker would risk shutdown for Trump",
+   "why": "opinion column headline"
+  },
+  {
+   "boxes": [
+    458
+   ],
+   "level": 4,
+   "parent": 435,
+   "text": "Even some Republicans are fed up with Johnson",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    465
+   ],
+   "level": 4,
+   "parent": 435,
+   "text": "Tie government shutdown to paying members of House, Senate",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    474
+   ],
+   "level": 4,
+   "parent": 435,
+   "text": "'It's not something that is easily proven'",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    482
+   ],
+   "level": 3,
+   "parent": 433,
+   "text": "Colleges need to fight antisemitism on campus – starting now",
+   "why": "opinion column headline"
+  },
+  {
+   "boxes": [
+    491
+   ],
+   "level": 4,
+   "parent": 482,
+   "text": "Universities must ensure Jewish students' safety",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    496
+   ],
+   "level": 4,
+   "parent": 482,
+   "text": "How colleges can combat antisemitism on campus",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    505
+   ],
+   "level": 4,
+   "parent": 482,
+   "text": "Jewish students and faculty deserve to be seen and heard",
+   "why": "in-story subhead with its own block"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    116
+   ],
+   "of": 5,
+   "why": "masthead name restated as the colophon box title"
+  },
+  {
+   "boxes": [
+    511
+   ],
+   "of": 5,
+   "why": "masthead name restated over the editorial board list"
+  },
+  {
+   "boxes": [
+    132,
+    221,
+    299,
+    349,
+    430
+   ],
+   "of": 69,
+   "why": "running section tag NEWS on the following pages of the open section"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "front-page teaser (Read the interview, 1D)"
+  },
+  {
+   "box": 118,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 122,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 126,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 128,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 130,
+   "why": "colophon field label (contact box)"
+  },
+  {
+   "box": 302,
+   "why": "recurring explainer rubric with its tagline (Just Curious)"
+  },
+  {
+   "box": 375,
+   "why": "pull-quote attribution"
+  },
+  {
+   "box": 517,
+   "why": "full-page advertisement"
+  },
+  {
+   "box": 528,
+   "why": "full-page advertisement"
+  }
+ ],
+ "considered": [
+  {
+   "box": 516,
+   "why": "running tag NEWS over a full-page ad after the OPINION page: no content, no section node"
+  },
+  {
+   "box": 309,
+   "why": "byline affiliation USA TODAY under the headline, not a title repeat"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 19,
+   "why": "round 5: the story ends (See COLLEGES, Page 4A); the barcode / home-delivery box follows"
+  },
+  {
+   "before": 42,
+   "closes": 32,
+   "why": "round 5: the package story's front-page part ends (See HOPE, Page 2A); the package photo caption and the About this series box follow"
+  },
+  {
+   "before": 116,
+   "closes": 72,
+   "why": "round 5: the jumped story ends; the colophon / contact box (masthead restated, customer service, subscriptions) follows"
+  },
+  {
+   "before": 342,
+   "closes": 305,
+   "why": "round 5: the explainer ends; the Empire Today display ad follows"
+  },
+  {
+   "before": 517,
+   "closes": 433,
+   "why": "round 5: the Opinion page ends; a full-page display ad (Luxury Escapes) under the running tag NEWS follows"
+  },
+  {
+   "before": 267,
+   "closes": 239,
+   "why": "round 5: the jumped story ends; the photo of the next jump (Colleges, printed above its jump head) follows"
+  }
+ ]
+}

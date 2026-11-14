@@ -1,0 +1,231 @@
+doc	node	page	path	verdict	note
+magazine_chn_3b0b9920	1	1	知音 海外版	OK	cover masthead 知音 + edition logo 海外版
+magazine_chn_3b0b9920	45	3	知音 海外版 › 一滴墨香	OK	vertical section tag 一滴墨香 on poem page
+magazine_chn_3b0b9920	41	3	知音 海外版 › 一滴墨香 › 惊异	OK	poem title, poem below
+magazine_chn_3b0b9920	56	5	知音 海外版 › 目录 CONTENTS	OK	contents title 目录 CONTENTS
+magazine_chn_3b0b9920	74	6	知音 海外版 › 大千世界	OK	running section tag 海外版|大千世界 p4
+magazine_chn_3b0b9920	76	6	知音 海外版 › 大千世界 › 给牛涂上班马条纹，研究能不能骗过蚊虫！日本科学家获搞笑诺贝尔奖	OK	headline, story below
+magazine_chn_3b0b9920	89	6	知音 海外版 › 大千世界 › 这种圆鼓鼓的小鸟，是世界最萌小鸟之一，它们有着独特的社会行为	OK	headline, story below
+magazine_chn_3b0b9920	107	7	知音 海外版 › 百科&生活	OK	briefs section banner, 【】 run-in items
+magazine_chn_3b0b9920	122	8	知音 海外版 › 张朝阳商界登顶再搏浪，人生下半场更热血	OK	feature headline, section not printed
+magazine_chn_3b0b9920	128	8	知音 海外版 › 张朝阳商界登顶再搏浪，人生下半场更热血 › 吃生蚝“报仇”	OK	in-story subhead with block
+magazine_chn_3b0b9920	138	8	知音 海外版 › 张朝阳商界登顶再搏浪，人生下半场更热血 › 我是中国互联网第一代创业者	OK	in-story subhead with block
+magazine_chn_5997ac40	2	1	知音 海外版	OK	cover masthead 知音 海外版 in one box
+magazine_chn_5997ac40	39	3	知音 海外版 › 一滴墨香	OK	vertical section tag 一滴墨香 on poem page
+magazine_chn_5997ac40	31	3	知音 海外版 › 一滴墨香 › 荆棘上的雨滴	OK	poem title, poem below
+magazine_chn_5997ac40	50	5	知音 海外版 › 目录 CONTENTS	OK	contents title 目录 CONTENTS
+magazine_chn_5b74dff1	1	1	知音	OK	cover masthead 知音
+magazine_chn_5b74dff1	17	2	知音 › 目录	OK	contents box 知音 目录 + issue line; node text 目录 only
+magazine_chn_5b74dff1	49	4	知音 › 坝底江心修理大国重器:星垂山河阔,月涌大江流	OK	feature headline, section 中国力量 not printed
+magazine_chn_5b74dff1	51	4	知音 › 坝底江心修理大国重器:星垂山河阔,月涌大江流 › 工作上全情投入，技术大拿初炼成	OK	in-story subhead with block
+magazine_chn_5b74dff1	76	5	知音 › 坝底江心修理大国重器:星垂山河阔,月涌大江流 › 你在江心保通航，我在岸上守护家	OK	in-story subhead with block
+magazine_chn_5b74dff1	103	6	知音 › 坝底江心修理大国重器:星垂山河阔,月涌大江流 › 大国重器护理员，誓将韶华献三峡	OK	in-story subhead with block
+magazine_chn_6d102faf	2	1	儿童文学	OK	cover masthead 儿童文学 (pinyin in same box)
+magazine_chn_6d102faf	8	2	儿童文学 › 中国机长	OK	film feature headline; column only a logo figure (L3 skip)
+magazine_chn_90f6827e	2	1	知音 海外版	OK	cover masthead 知音 + edition logo 海外版
+magazine_chn_90f6827e	36	3	知音 海外版 › 一滴墨香	OK	vertical section tag 一滴墨香 on poem page
+magazine_chn_90f6827e	31	3	知音 海外版 › 一滴墨香 › 界限	OK	poem title, poem below
+magazine_chn_90f6827e	47	5	知音 海外版 › 目录 CONTENTS	OK	contents title 目录 CONTENTS
+magazine_chn_90f6827e	65	6	知音 海外版 › 大千世界	OK	running section tag 海外版|大千世界
+magazine_chn_90f6827e	67	6	知音 海外版 › 大千世界 › 美74岁妇人遭诈骗，竟持枪打劫银行弥补损失？	OK	news headline, story below
+magazine_chn_90f6827e	77	6	知音 海外版 › 大千世界 › 游客聚集团扰民众，富士山热门“打卡地”被遮	OK	news headline, story below
+magazine_chn_90f6827e	80	6	知音 海外版 › 大千世界 › 奥运在即,巴黎监测塞纳河大肠杆菌含量仍超标	OK	news headline, story below
+magazine_chn_90f6827e	92	7	知音 海外版 › 百科&生活	OK	briefs section banner, 【】 run-in items
+magazine_chn_90f6827e	117	8	知音 海外版 › 陈道明:我的“诈糊人生”	OK	feature headline over photo; 名人明星 tag only from p9 (after opener)
+magazine_chn_90f6827e	121	8	知音 海外版 › 陈道明:我的“诈糊人生” › 爱上麻将	OK	in-story subhead with block
+magazine_chn_90f6827e	139	9	知音 海外版 › 陈道明:我的“诈糊人生” › 麻将为媒	OK	in-story subhead with block
+magazine_chn_90f6827e	155	9	知音 海外版 › 陈道明:我的“诈糊人生” › 沉淀人生	OK	in-story subhead with block
+magazine_chn_90f6827e	181	11	知音 海外版 › 本刊特稿	OK	running section tag 海外版|本刊特稿, repeated p12
+magazine_chn_90f6827e	182	11	知音 海外版 › 本刊特稿 › 伊拉克老王： 跟着味蕾探索舌尖上的中国	OK	vertical headline 伊拉克老王： + 跟着味蕾探索舌尖上的中国
+magazine_chn_90f6827e	187	11	知音 海外版 › 本刊特稿 › 伊拉克老王： 跟着味蕾探索舌尖上的中国 › 童年时颠沛流离	OK	in-story subhead with block
+magazine_chn_90f6827e	208	12	知音 海外版 › 本刊特稿 › 伊拉克老王： 跟着味蕾探索舌尖上的中国 › 用诚信开创事业	OK	in-story subhead with block
+magazine_chn_b3948362	2	1	知音	OK	cover masthead 知音
+magazine_chn_b3948362	16	2	知音 › 目录	OK	contents box 知音 目录 + issue line; node text 目录 only
+magazine_chn_b3948362	47	4	知音 › 中国速度	OK	feature opener 中国速度 (contents lists it as the feature of 中国力量, p4)
+magazine_chn_b3948362	60	5	知音 › 中国速度 › 高铁“神驭手”追风掣电： 匠心驭龙毫厘必争	OK	case story headline under the feature; series tag p5 considered
+magazine_chn_b3948362	64	5	知音 › 中国速度 › 高铁“神驭手”追风掣电： 匠心驭龙毫厘必争 › 见证“中国速度”，爱情不早不迟刚好	OK	in-story subhead with block
+magazine_chn_c1e72d14	2	1	知音	OK	cover masthead 知音
+magazine_chn_c1e72d14	18	2	知音 › 目录	OK	contents box 知音 目录 + issue line; node text 目录 only
+magazine_chn_c1e72d14	53	4	知音 › “铁脚板”站长护林29载: 一夕山中月，万里故园心	OK	feature headline, section 中国力量 not printed
+magazine_chn_c1e72d14	55	4	知音 › “铁脚板”站长护林29载: 一夕山中月，万里故园心 › 荒山野岭中护我家园	OK	in-story subhead with block
+magazine_chn_c1e72d14	75	5	知音 › “铁脚板”站长护林29载: 一夕山中月，万里故园心 › 万亩林海的平凡坚守	OK	in-story subhead with block
+magazine_chn_c1e72d14	104	6	知音 › “铁脚板”站长护林29载: 一夕山中月，万里故园心 › 不平凡的绿水青山	OK	in-story subhead with block
+magazine_chn_c1e72d14	135	8	知音 › 『冲天辫』老妈路过人间： 姐的威风永不灭	OK	vertical headline 『冲天辫』老妈… (OCR 辩 corrected), section 生命之歌 not printed
+magazine_chn_c1e72d14	138	8	知音 › 『冲天辫』老妈路过人间： 姐的威风永不灭 › 不扫兴妈妈是个小公主	OK	in-story subhead with block
+magazine_chn_d7b9b688	2	1	知音	OK	cover masthead 知音
+magazine_chn_d7b9b688	16	2	知音 › 目录	OK	contents box 知音 目录 + issue line; node text 目录 only
+magazine_chn_d7b9b688	48	4	知音 › 定坝“神针”53载搏风击浪：浩浩南水，汤汤北上	OK	feature headline, section 中国力量 not printed
+magazine_chn_d7b9b688	52	4	知音 › 定坝“神针”53载搏风击浪：浩浩南水，汤汤北上 › 奋斗青春：搏风击浪汉江畔	OK	in-story subhead with block
+magazine_chn_d7b9b688	72	5	知音 › 定坝“神针”53载搏风击浪：浩浩南水，汤汤北上 › 定坝“神针”：临近退休再担重任	OK	in-story subhead with block
+magazine_chn_d7b9b688	98	7	知音 › 定坝“神针”53载搏风击浪：浩浩南水，汤汤北上 › 余热生辉：割舍不掉的“水利”情	OK	in-story subhead with block
+magazine_chn_d7b9b688	122	8	知音 › 长久的婚姻，都是势均力敌	OK	feature opener headline (figure box); contents lists it as THE 本刊视点 feature
+magazine_chn_d7b9b688	136	9	知音 › 长久的婚姻，都是势均力敌 › 作精遇到“程序猿”，一场大病复活爱	OK	case story headline in the feature; 本刊视点 tag p9 considered
+magazine_chn_d7b9b688	138	9	知音 › 长久的婚姻，都是势均力敌 › 作精遇到“程序猿”，一场大病复活爱 › 苦恼婚姻：作精遇到“程序猿”	OK	in-story subhead with block
+magazine_chn_f13451d6	4	1	故事会	OK	cover masthead 故事会
+magazine_chn_f13451d6	45	4	故事会 › 开卷故事	OK	section tag 开卷故事 on editor-letter page
+magazine_chn_f13451d6	46	4	故事会 › 开卷故事 › 冬日礼物	OK	editor's story headline with text below
+magazine_chn_f13451d6	57	5	故事会 › CONTENTS	OK	contents box 812 CONTENTS; node text CONTENTS
+magazine_chn_f13451d6	87	6	故事会 › 笑话	FIXED	section tag ·笑话·; text was 笑话· (stray dot)
+magazine_chn_f13451d6	88	6	故事会 › 笑话 › 一壶热水	OK	joke title with joke below
+magazine_chn_f13451d6	96	6	故事会 › 笑话 › 休想甩锅	OK	joke title with joke below
+magazine_chn_f13451d6	99	6	故事会 › 笑话 › 鲜血换来的	OK	joke title with joke below
+magazine_chn_f13451d6	107	7	故事会 › 笑话 › 捆绑法	OK	joke title p7; facing tag ·笑口常开 轻松一刻· considered
+magazine_chn_f13451d6	112	7	故事会 › 笑话 › 老大干啥去了	OK	joke title with joke below
+magazine_chn_f13451d6	119	7	故事会 › 笑话 › 让你赢钱	OK	joke title with joke below
+magazine_eng_01c752f9	1	1	TOWN&COUNTRY	OK	cover masthead TOWN&COUNTRY (box also holds issue date); pp2-4 ad only
+magazine_eng_22066f34	3	1	model Boats	OK	cover masthead model Boats (box also holds issue line)
+magazine_eng_22066f34	91	4	model Boats › contents	OK	contents title on colophon/contents page
+magazine_eng_22066f34	103	5	model Boats › WELCOME TO THE NOVEMBER 2025 ISSUE OF MODEL BOATS	OK	editor's letter headline, letter below
+magazine_eng_22066f34	269	8	model Boats › Signals	OK	section tag Signals, repeated p9
+magazine_eng_22066f34	270	8	model Boats › Signals › Compass 360	OK	news column title Compass 360 (briefs label), items below
+magazine_eng_22066f34	272	8	model Boats › Signals › Compass 360 › Redcar MBC Boating Lake: fixed, filled and fabulous!	OK	news item headline with text
+magazine_eng_22066f34	287	8	model Boats › Signals › Compass 360 › Scale Model World 2025	OK	news item headline; OUT AND ABOUT banner above = rubric
+magazine_eng_22066f34	296	9	model Boats › Signals › Compass 360 › Blackpool Model Show 2025	OK	news item headline with text
+magazine_eng_22066f34	324	9	model Boats › Signals › Compass 360 › Coastal Motor Boats – Thornycroft and the origins of Fast Attack Craft	OK	book news headline; BUY THE BOOK banner = rubric
+magazine_eng_22066f34	329	9	model Boats › Signals › Compass 360 › Waveny winner!	OK	prize-draw item headline; banner = rubric
+magazine_eng_22066f34	338	10	model Boats › Brown-Water Navy Revival	OK	feature headline; SEAL of approval tag = pun (text)
+magazine_eng_22066f34	344	10	model Boats › Brown-Water Navy Revival › The LSSC	OK	in-story subhead The LSSC
+magazine_eng_22066f34	347	10	model Boats › Brown-Water Navy Revival › We are, indeed, most fortunate!	OK	in-story subhead with block
+magazine_eng_2933460b	2	1	WESTERN ART COLLECTOR	OK	cover masthead WESTERN ART COLLECTOR (box also holds issue badge/date); pp2-4 ads only
+magazine_eng_2b291ce7	2	1	BEIJING REVIEW	FIXED	cover masthead; text was BEIJINGREVIEW (logo without word gap)
+magazine_eng_2b291ce7	14	3	BEIJING REVIEW › CONTENTS	OK	contents title
+magazine_eng_2b291ce7	24	4	BEIJING REVIEW › EDITOR'S DESK	OK	front section banner EDITOR'S DESK
+magazine_eng_2b291ce7	39	4	BEIJING REVIEW › EDITOR'S DESK › The Urban Imperative	OK	editorial headline, text below
+magazine_eng_2b291ce7	55	5	BEIJING REVIEW › THIS WEEK	OK	section tag THIS WEEK, repeated on left pages
+magazine_eng_2b291ce7	57	5	BEIJING REVIEW › THIS WEEK › URGENT MISSION ACCOMPLISHED	OK	opening photo story headline
+magazine_eng_2b291ce7	62	6	BEIJING REVIEW › THIS WEEK › SOCIETY	FIXED	compound tag THIS WEEK SOCIETY; text was THIS WEEK SOCIETY (prefix restates parent)
+magazine_eng_2b291ce7	64	6	BEIJING REVIEW › THIS WEEK › SOCIETY › Aircraft Maintenance	OK	brief headline with text
+magazine_eng_2b291ce7	66	6	BEIJING REVIEW › THIS WEEK › SOCIETY › Domestic Violence	OK	brief headline with text
+magazine_eng_2b291ce7	73	6	BEIJING REVIEW › THIS WEEK › SOCIETY › Curbing Tax Evasion	OK	brief headline with text
+magazine_eng_2b291ce7	79	6	BEIJING REVIEW › THIS WEEK › SOCIETY › Science Forum	OK	brief headline with text
+magazine_eng_2b291ce7	84	6	BEIJING REVIEW › THIS WEEK › SOCIETY › Ice Building	OK	brief headline with text
+magazine_eng_2b291ce7	95	7	BEIJING REVIEW › THIS WEEK › SOCIETY › Giant Panda Population	OK	brief headline with text
+magazine_eng_2b291ce7	102	7	BEIJING REVIEW › THIS WEEK › SOCIETY › College Graduates	OK	brief headline with text
+magazine_eng_2b291ce7	105	7	BEIJING REVIEW › THIS WEEK › SOCIETY › A Flourishing Industry	OK	photo brief headline with caption text
+magazine_eng_2b291ce7	113	7	BEIJING REVIEW › THIS WEEK › SOCIETY › World Hello Day	OK	photo brief headline with caption text
+magazine_eng_2b291ce7	118	8	BEIJING REVIEW › THIS WEEK › ECONOMY	FIXED	compound tag THIS WEEK ECONOMY; text was THIS WEEK ECONOMY
+magazine_eng_2b291ce7	119	8	BEIJING REVIEW › THIS WEEK › ECONOMY › Green Electricity Certificates	OK	brief headline with text
+magazine_eng_2b291ce7	127	8	BEIJING REVIEW › THIS WEEK › ECONOMY › Civil Aviation	OK	brief headline with text
+magazine_eng_2b291ce7	134	8	BEIJING REVIEW › THIS WEEK › ECONOMY › Emerging Industries	OK	brief headline with text
+magazine_eng_2b291ce7	140	8	BEIJING REVIEW › THIS WEEK › ECONOMY › Carbon Market Expansion	OK	brief headline with text
+magazine_eng_2b291ce7	142	8	BEIJING REVIEW › THIS WEEK › ECONOMY › NUMBERS	OK	data box NUMBERS with FDI charts
+magazine_eng_2b291ce7	161	9	BEIJING REVIEW › THIS WEEK › ECONOMY › Installed Power Capacity	OK	brief headline with text
+magazine_eng_2b291ce7	169	9	BEIJING REVIEW › THIS WEEK › ECONOMY › Rural Banks	OK	brief headline with text
+magazine_eng_2b291ce7	180	10	BEIJING REVIEW › THIS WEEK › WORLD	FIXED	compound tag THIS WEEK WORLD; text was THIS WEEK WORLD (photo pages, country captions text)
+magazine_eng_2b291ce7	206	12	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS	FIXED	compound tag THIS WEEK PEOPLE & POINTS; text was THIS WEEK PEOPLE & POINTS
+magazine_eng_2b291ce7	207	12	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS › DESIGNER BEHIND POPULAR MASCOTS	OK	profile brief headline with text
+magazine_eng_2b291ce7	213	12	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS › From Playgrounds to Python	OK	commentary headline with text
+magazine_eng_2b291ce7	220	12	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS › Sports Mean Business	OK	commentary headline with text
+magazine_eng_2b291ce7	234	13	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS › Work Without Barriers	OK	commentary headline with text
+magazine_eng_2b291ce7	240	13	BEIJING REVIEW › THIS WEEK › PEOPLE & POINTS › YOUNGEST CAS MEMBER	OK	profile brief headline with text
+magazine_eng_2b291ce7	254	14	BEIJING REVIEW › COVER STORY	OK	section label COVER STORY
+magazine_eng_2b291ce7	255	14	BEIJING REVIEW › COVER STORY › A NEW URBAN LIFE	OK	cover story headline; deck below
+magazine_eng_3926a81f	1	1	FourFourTwo	OK	cover masthead FourFourTwo (AWARDS 2025 cover theme in same box = text)
+magazine_eng_3926a81f	64	5	FourFourTwo › WELCOME	OK	editor's letter WELCOME next to colophon; pp2-4 ads
+magazine_eng_5047188e	1	1	Harper's BAZAAR	OK	cover masthead Harper's BAZAAR (issue line THE ART ISSUE in box = text)
+magazine_eng_5047188e	8	6	Harper's BAZAAR › THE ART ISSUE	OK	opening page THE ART ISSUE with intro essay; MEGHAN cover credit = text; pp2-5 ads
+magazine_eng_571b7df5	1	1	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE	OK	cover owner line FROM THE MAKERS OF TRAIL MAGAZINE + WINTER GEAR GUIDE (special issue)
+magazine_eng_571b7df5	18	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › 52 TRAIL-TESTED PRODUCTS	OK	intro headline 52 TRAIL-TESTED PRODUCTS with editor's intro
+magazine_eng_571b7df5	25	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › Contents	OK	contents title (vertical) with entries
+magazine_eng_571b7df5	29	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › TRAIL AWARDS	OK	front-matter box TRAIL AWARDS with award badges
+magazine_eng_571b7df5	36	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › YOUR TESTERS	OK	front-matter box YOUR TESTERS with bios
+magazine_eng_571b7df5	38	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › YOUR TESTERS › BEN WEEKS	OK	tester name with own bio
+magazine_eng_571b7df5	41	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › YOUR TESTERS › MATT JONES	OK	tester name with own bio
+magazine_eng_571b7df5	44	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › YOUR TESTERS › ELLIE CLEWLOW	OK	tester name with own bio
+magazine_eng_571b7df5	47	3	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › YOUR TESTERS › JAMES FORREST	OK	tester name with own bio
+magazine_eng_571b7df5	53	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide	OK	buying-guide headline INSULATED JACKETS buying guide, section not printed
+magazine_eng_571b7df5	56	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide › 1 TYPE OF INSULATION	OK	number badge 1 + TYPE OF INSULATION with block
+magazine_eng_571b7df5	60	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide › 2 FILL POWER	OK	number badge 2 + FILL POWER with block
+magazine_eng_571b7df5	64	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide › 3 BODY MAPPING	OK	number badge 3 + BODY MAPPING with block
+magazine_eng_571b7df5	69	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide › 4 SHELL FABRIC	OK	number badge 4 + SHELL FABRIC with block
+magazine_eng_571b7df5	73	4	FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE › INSULATED JACKETS buying guide › 5 FEATURES	OK	number badge 5 + FEATURES with block
+magazine_eng_5dea3d09	1	1	hi-fi+	OK	cover masthead hi-fi+ (issue badge/date in box = text)
+magazine_eng_5dea3d09	25	3	hi-fi+ › editorial	OK	editorial page title with editor's letter; colophon column text
+magazine_eng_5dea3d09	50	5	hi-fi+ › contents	OK	contents title
+magazine_eng_5dea3d09	51	5	hi-fi+ › contents › PRODUCTS ON THE COVER	OK	contents sidebar box PRODUCTS ON THE COVER with numbered list
+magazine_eng_757ea556	2	1	FUSION	OK	cover masthead FUSION (OCR FUSIOH corrected)
+magazine_eng_757ea556	7	2	FUSION › CONTENTS	OK	contents title with list; RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): p3 editor's letter has no printed heading (only the restated masthead, a repeat), so it falls under CONTENTS until REVIEW p4
+magazine_eng_757ea556	33	4	FUSION › REVIEW	OK	section label REVIEW on review opener
+magazine_eng_757ea556	35	4	FUSION › REVIEW › CASEBOOK 1899 THE LEIPZIG-MURDERS	OK	review headline CASEBOOK 1899 THE LEIPZIG-MURDERS, review through p7
+magazine_eng_757ea556	80	8	FUSION › In Good Faith	OK	column headline In Good Faith, untagged after REVIEW
+magazine_eng_7d53ba06	1	1	Baseball America	OK	cover masthead Baseball America
+magazine_eng_7d53ba06	16	3	Baseball America › Leading Off	OK	contents page box NOVEMBER/DECEMBER Leading Off; node text Leading Off (front section opens here)
+magazine_eng_7d53ba06	23	3	Baseball America › Leading Off › ON THE COVER	OK	contents sidebar box ON THE COVER with cover credit
+magazine_eng_7d53ba06	50	4	Baseball America › Leading Off › Numbers Game	OK	column title Numbers Game with its deck
+magazine_eng_7d53ba06	52	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE	OK	story headline MAKING THE GRADE in the column
+magazine_eng_7d53ba06	61	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 1. DRAKE BALDWIN	OK	ranked entry with write-up
+magazine_eng_7d53ba06	66	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 2. CADE HORTON	OK	ranked entry with write-up
+magazine_eng_7d53ba06	71	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 3. CHASE BURNS	OK	ranked entry with write-up
+magazine_eng_7d53ba06	76	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 4. JACOB MISIOROWSKI	OK	ranked entry with write-up
+magazine_eng_7d53ba06	81	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 5. MATT SHAW	OK	ranked entry with write-up
+magazine_eng_7d53ba06	86	4	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 6.ROKI SASAKI	OK	ranked entry with write-up
+magazine_eng_7d53ba06	95	5	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 7. DYLAN CREWS	OK	ranked entry with write-up
+magazine_eng_7d53ba06	100	5	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 8. CHASE DOLLANDER	OK	ranked entry with write-up
+magazine_eng_7d53ba06	106	5	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 9. DALTON RUSHING	OK	ranked entry with write-up
+magazine_eng_7d53ba06	111	5	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › 10. JAKOB MARSEE	OK	ranked entry with write-up
+magazine_eng_7d53ba06	116	5	Baseball America › Leading Off › Numbers Game › MAKING THE GRADE › THE REST OF OUR PICKS	OK	sidebar THE REST OF OUR PICKS with list
+magazine_eng_7d53ba06	140	6	Baseball America › Leading Off › From Phenom To The Farm	OK	feature headline From Phenom To The Farm under Leading Off tag (repeat)
+magazine_eng_7d53ba06	142	6	Baseball America › Leading Off › From Phenom To The Farm › FROM D-III TO MLB	OK	story headline FROM D-III TO MLB with deck and text
+magazine_eng_7d53ba06	171	6	Baseball America › Leading Off › Trap Toon	OK	cartoon column title Trap Toon with cartoon
+magazine_eng_86eb2981	1	1	Fine WoodWorking Tools & Shops	OK	cover logo Fine WoodWorking + Tools & Shops (special issue title)
+magazine_eng_86eb2981	142	3	Fine WoodWorking Tools & Shops › features	OK	contents group heading features (spread without contents title)
+magazine_eng_86eb2981	148	4	Fine WoodWorking Tools & Shops › in every issue	OK	contents group heading in every issue
+magazine_eng_86eb2981	166	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED	OK	page banner Fine WoodWorking UNLIMITED with intro
+magazine_eng_86eb2981	168	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras	OK	box title Online extras with VIDEO items
+magazine_eng_86eb2981	172	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › Evolution of a tool chest	OK	video item title with blurb; VIDEO kicker text
+magazine_eng_86eb2981	177	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › Tough grain? Try a bevel-up plane	OK	video item title with blurb; VIDEO kicker text
+magazine_eng_86eb2981	181	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › Align the spine	OK	video item title with blurb; VIDEO kicker text
+magazine_eng_86eb2981	186	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › Bright ideas	OK	video item title with blurb; VIDEO kicker text
+magazine_eng_86eb2981	191	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › Fresh fence	OK	video item title with blurb; VIDEO kicker text
+magazine_eng_86eb2981	195	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Online extras › The not-so-big workbench	OK	video workshop item title with blurb; VIDEO WORKSHOP kicker text
+magazine_eng_86eb2981	201	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Additional perks of Unlimited	OK	box title Additional perks of Unlimited
+magazine_eng_86eb2981	203	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Additional perks of Unlimited › FREE PLANS	OK	perk title FREE PLANS with blurb
+magazine_eng_86eb2981	205	6	Fine WoodWorking Tools & Shops › Fine WoodWorking UNLIMITED › Additional perks of Unlimited › ONLINE ARCHIVES	OK	perk title ONLINE ARCHIVES with blurb
+magazine_eng_a217be3f	2	1	GARDENS ILLUSTRATED	OK	cover masthead GARDENS ILLUSTRATED
+magazine_eng_a217be3f	10	3	GARDENS ILLUSTRATED › Welcome	OK	editor's letter title Welcome
+magazine_eng_a217be3f	31	4	GARDENS ILLUSTRATED › Contents	OK	contents title (box also holds DECEMBER 2025; node text Contents); group labels inside TOC blocks
+magazine_eng_a217be3f	39	5	GARDENS ILLUSTRATED › Contents › COVER IMAGE	OK	contents sidebar box COVER IMAGE with credit
+magazine_eng_a217be3f	41	5	GARDENS ILLUSTRATED › Contents › ON THE COVER	OK	contents sidebar box ON THE COVER with page refs
+magazine_eng_a217be3f	45	5	GARDENS ILLUSTRATED › Contents › EVENTS AND OFFERS	OK	contents sidebar box EVENTS AND OFFERS with list
+magazine_eng_a217be3f	50	5	GARDENS ILLUSTRATED › Contents › Our packaging	OK	contents sidebar box Our packaging with note
+magazine_eng_a217be3f	62	6	GARDENS ILLUSTRATED › Contributors	OK	front-matter page title Contributors
+magazine_eng_a217be3f	65	6	GARDENS ILLUSTRATED › Contributors › Matt Collins	OK	contributor name with own bio
+magazine_eng_a217be3f	68	6	GARDENS ILLUSTRATED › Contributors › Fiona Pickles	OK	contributor name with own bio
+magazine_eng_a217be3f	72	6	GARDENS ILLUSTRATED › Contributors › Andrea Jones	OK	contributor name with own bio
+magazine_eng_a217be3f	74	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS	OK	block title CONTRIBUTING EDITORS
+magazine_eng_a217be3f	84	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › Charlotte Harris	OK	contributing editor name with own bio
+magazine_eng_a217be3f	86	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › Fergus Garrett	OK	contributing editor name with own bio
+magazine_eng_a217be3f	88	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › James Basson	OK	contributing editor name with own bio
+magazine_eng_a217be3f	90	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › Anna Pavord	OK	contributing editor name with own bio
+magazine_eng_a217be3f	92	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › Dan Pearson	OK	contributing editor name with own bio
+magazine_eng_a217be3f	94	6	GARDENS ILLUSTRATED › Contributors › CONTRIBUTING EDITORS › Sarah Price	OK	contributing editor name with own bio
+magazine_eng_b2553d3f	1	1	MOTION	OK	cover masthead MOTION
+magazine_eng_b2553d3f	9	2	MOTION › Shannon Beauclair	OK	photographer's intro page title Shannon Beauclair with intro text
+magazine_eng_b2553d3f	18	4	MOTION › CAPTURE THE MOMENT	OK	page title CAPTURE THE MOMENT; dancer portraits pp5-8 with name captions (text)
+magazine_eng_b7b4047d	3	1	MODERN Gardens	OK	cover masthead MODERN Gardens (box also holds price, badges, strapline; node text masthead only)
+magazine_eng_b7b4047d	44	3	MODERN Gardens › We love outdoor living!	OK	editor's letter title We love outdoor living!
+magazine_eng_b7b4047d	63	4	MODERN Gardens › Inside this MONTH…	OK	contents title Inside this MONTH...
+magazine_eng_b7b4047d	65	4	MODERN Gardens › Inside this MONTH… › Garden makeovers	OK	contents group heading in own box with entries
+magazine_eng_b7b4047d	72	4	MODERN Gardens › Inside this MONTH… › Simple projects	OK	contents group heading in own box with entries
+magazine_eng_b7b4047d	78	4	MODERN Gardens › Inside this MONTH… › Outdoor living	OK	contents group heading in own box with entries
+magazine_eng_b7b4047d	89	5	MODERN Gardens › Inside this MONTH… › Easy ideas	OK	contents group heading in own box with entries
+magazine_eng_b7b4047d	97	5	MODERN Gardens › Inside this MONTH… › Best buys	OK	contents group heading in own box with entries
+magazine_eng_b7b4047d	101	5	MODERN Gardens › Inside this MONTH… › Over to you...	OK	contents group heading in own box with entries
+magazine_eng_d9bbdc7a	1	1	Total TVguide	OK	cover masthead Total + TVguide (two boxes, one union)
+magazine_eng_d9bbdc7a	29	3	Total TVguide › Your Total TV WEEK	OK	front-matter banner Your Total TV WEEK
+magazine_eng_d9bbdc7a	31	3	Total TVguide › Your Total TV WEEK › From the Editor	OK	editor's note box From the Editor
+magazine_eng_d9bbdc7a	37	3	Total TVguide › Your Total TV WEEK › Inside	OK	contents box Inside with entries
+magazine_eng_d9bbdc7a	50	4	Total TVguide › KOREA OPPORTUNITIES	OK	feature headline KOREA OPP|ORTUNITIES across spread; ENTERTAINMENT strip = kicker
+magazine_eng_fe444622	1	1	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE	OK	cover cover-line BUILD ROCK HARD ABS IN JUST 4 WEEKS + Men's Fitness GUIDE logo (bookazine title)
+magazine_eng_fe444622	41	5	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › CONTENTS	OK	contents title; group labels inside TOC block
+magazine_eng_fe444622	46	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE	OK	compound running tag INTRODUCTION WORKOUT STRUCTURE (part name never printed alone)
+magazine_eng_fe444622	47	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN	OK	spread headline SESSION BREAKDOWN with deck
+magazine_eng_fe444622	50	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › WORKOUT 1 ABS AND LEGS	OK	WORKOUT 1 + ABS AND LEGS with block
+magazine_eng_fe444622	53	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › WORKOUT 2 ABS, CHEST AND BACK	OK	WORKOUT 2 + ABS, CHEST AND BACK with block
+magazine_eng_fe444622	57	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › WORKOUT 3 ABS, ARMS AND SHOULDERS	OK	WORKOUT 3 + ABS, ARMS AND SHOULDERS with block
+magazine_eng_fe444622	61	8	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › HOW TO DO THE WORKOUTS	OK	subhead HOW TO DO THE WORKOUTS with block
+magazine_eng_fe444622	68	9	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › SUPERSET STRUCTURE	OK	box title SUPERSET STRUCTURE with block
+magazine_eng_fe444622	73	9	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION WORKOUT STRUCTURE › SESSION BREAKDOWN › TEMPO EXPLAINED	OK	subhead TEMPO EXPLAINED in the box
+magazine_eng_fe444622	78	10	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION ANATOMY	OK	compound running tag INTRODUCTION ANATOMY
+magazine_eng_fe444622	79	10	BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE › INTRODUCTION ANATOMY › KNOW YOUR MUSCLES	OK	headline KNOW YOUR MUSCLES with muscle chart
+magazine_eng_7d53ba06	49	4	Baseball America › Leading Off	ADDED	round 5: the p4 Leading Off tag was a repeat of #16; a break before the colophon now closes #16, so the tag is a continuation node (continues #16)

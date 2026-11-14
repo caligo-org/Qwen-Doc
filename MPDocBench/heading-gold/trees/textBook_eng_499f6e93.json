@@ -1,0 +1,35 @@
+{
+ "doc": "textBook_eng_499f6e93",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Think Java How to Think Like a Computer Scientist",
+   "why": "title: book title + its subtitle printed in one box"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

@@ -1,0 +1,284 @@
+{
+ "doc": "book_chn_dd57800f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "专题六 所有权★★★",
+   "why": "top level: 专题 title (excerpt with no cover; the topic is the document root)"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节 物权变动★★★",
+   "why": "第一节 section"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "序言：物权变动的两大基础公式",
+   "why": "序言 section with its own formula block; sibling of the 一、 sections, not their parent (it does not describe them)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "一、物权变动的法定分类★★★",
+   "why": "一、 section"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（一）基于民事法律行为的物权变动",
+   "why": "（一） subsection"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 5,
+   "parent": 11,
+   "text": "1. 基本原理。",
+   "why": "numbered own-line heading"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 5,
+   "parent": 11,
+   "text": "2. 物权变动的公示方法★★",
+   "why": "numbered own-line heading"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 6,
+   "parent": 27,
+   "text": "（1）更正登记和异议登记★★",
+   "why": "（1） heading over its table and case questions"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 7,
+   "parent": 33,
+   "text": "[萌主点拨]",
+   "why": "萌主点拨 box label heading its own summary table (label with own block)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 6,
+   "parent": 27,
+   "text": "（2）预告登记★★",
+   "why": "（2） heading; breadcrumb round 2: node text without the OCR underline markup | path review round 4: text as printed (full-width opening bracket like its siblings; OCR gave a half-width one)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 7,
+   "parent": 64,
+   "text": "[萌主点拨]",
+   "why": "萌主点拨 box label heading its own comparison table"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 6,
+   "parent": 27,
+   "text": "（3）动产交付★★",
+   "why": "（3） heading | path review round 4: text as printed (full-width opening bracket like its siblings; OCR gave a half-width one)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（二）非基于民事法律行为的物权变动",
+   "why": "（二） subsection"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 5,
+   "parent": 97,
+   "text": "[萌主点拨]",
+   "why": "萌主点拨 box label heading its own comparison table"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（三）善意取得",
+   "why": "（三） subsection"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 5,
+   "parent": 118,
+   "text": "1. 善意取得的基本原理★★★",
+   "why": "numbered own-line heading"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 5,
+   "parent": 118,
+   "text": "2. 善意取得的适用范围和法律效力★★★",
+   "why": "numbered own-line heading"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 6,
+   "parent": 150,
+   "text": "萌主点拨",
+   "why": "萌主点拨 label heading its own diagram and table"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（四）动产遗失物的拾得",
+   "why": "（四） subsection"
+  },
+  {
+   "boxes": [
+    207
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（五）先占",
+   "why": "（五） subsection"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "（六）添附",
+   "why": "（六） subsection"
+  },
+  {
+   "boxes": [
+    216
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "二、物权变动的学理分类★★★",
+   "why": "二、 section"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节 业主的建筑物区分所有权★★",
+   "why": "第二节 section"
+  },
+  {
+   "boxes": [
+    222
+   ],
+   "level": 3,
+   "parent": 221,
+   "text": "一、建筑物区分所有权的构成★★",
+   "why": "一、 section"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "level": 3,
+   "parent": 221,
+   "text": "二、建筑物区分所有权之共有权★★",
+   "why": "二、 section"
+  },
+  {
+   "boxes": [
+    232
+   ],
+   "level": 3,
+   "parent": 221,
+   "text": "三、建筑物区分所有权之成员权",
+   "why": "三、 section"
+  },
+  {
+   "boxes": [
+    237
+   ],
+   "level": 3,
+   "parent": 221,
+   "text": "四、业主的权利和义务☆☆",
+   "why": "四、 section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 20,
+   "why": "run-in [萌主点拨] label starting a line with its topic (callout)"
+  },
+  {
+   "box": 23,
+   "why": "run-in [萌主点拨] label (callout)"
+  },
+  {
+   "box": 154,
+   "why": "run-in [萌主点拨] label (callout)"
+  },
+  {
+   "box": 104,
+   "why": "numbered list line inside the [图释] explanation (list item with a paragraph; kept text like v2)"
+  },
+  {
+   "box": 106,
+   "why": "numbered list line inside the [图释] explanation"
+  },
+  {
+   "box": 111,
+   "why": "numbered list line inside the [图释] explanation"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 101,
+   "closes": 99,
+   "why": "the [萌主点拨] box holds only the 征收 VS 征用 table; the inheritance diagram, its [图释] explanation and the practice question that follow are about （二）非基于民事法律行为的物权变动 (inheritance row), not about that box"
+  }
+ ]
+}

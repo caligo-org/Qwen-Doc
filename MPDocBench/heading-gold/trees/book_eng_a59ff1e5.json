@@ -1,0 +1,423 @@
+{
+ "doc": "book_eng_a59ff1e5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Home Landscape Design",
+   "why": "title: publication title; university extension logo text is text"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Professional Help",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Sources of Inspiration",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Value of Landscaping",
+   "why": "section listing four kinds of value"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "Aesthetic",
+   "why": "item heading naming one of the values the section lists (content beats look)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "Economic",
+   "why": "item heading naming one of the values the section lists"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "Function",
+   "why": "item heading naming one of the values the section lists"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "Environment",
+   "why": "item heading naming one of the values the section lists"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Steps in Developing a Landscape Plan",
+   "why": "section listing the seven steps"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 1. Develop base plan or plot plan",
+   "why": "step heading: one of the steps the section lists, one level below it (content beats look)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Purpose",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Identifying Your Property Lines",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Getting Started",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Gathering Equipment",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Taking Measurements",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 5,
+   "parent": 48,
+   "text": "Identifying Property Lines",
+   "why": "underlined subhead under 'Taking Measurements' with its own text"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 5,
+   "parent": 48,
+   "text": "Measuring Curved Areas",
+   "why": "underlined subhead under 'Taking Measurements'"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 5,
+   "parent": 48,
+   "text": "Measuring Angled Features",
+   "why": "underlined subhead under 'Taking Measurements'"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Transferring Measurements to Final Base Plan",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Step 1 Checklist",
+   "why": "checklist title with its numbered list (label with own block)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 2. Conduct a site analysis",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Purpose",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Observing Over Time",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Getting Started",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Recording the Landscape",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Understanding Environmental Features or Patterns",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Sun and Shade",
+   "why": "underlined subhead: environmental feature with its own paragraph"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Wind",
+   "why": "underlined subhead"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Noise",
+   "why": "underlined subhead"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Soils and Land Form",
+   "why": "underlined subhead"
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Surface Drainage",
+   "why": "underlined subhead"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 5,
+   "parent": 150,
+   "text": "Views",
+   "why": "underlined subhead"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "Step 2 Checklist",
+   "why": "checklist title with its numbered list"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 3. List the family's wants and needs",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    194
+   ],
+   "level": 4,
+   "parent": 193,
+   "text": "Assessing your family's needs",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 4. Locate the use areas",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 5. Develop outdoor use areas",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    213
+   ],
+   "level": 4,
+   "parent": 209,
+   "text": "Considerations for designing or creating outdoor living spaces",
+   "why": "italic subhead of the step"
+  },
+  {
+   "boxes": [
+    241
+   ],
+   "level": 5,
+   "parent": 213,
+   "text": "Vehicular access and parking",
+   "why": "underlined subhead: use area with its own text"
+  },
+  {
+   "boxes": [
+    243
+   ],
+   "level": 5,
+   "parent": 213,
+   "text": "Walkways",
+   "why": "underlined subhead: use area with its own text"
+  },
+  {
+   "boxes": [
+    249
+   ],
+   "level": 5,
+   "parent": 213,
+   "text": "Accenting the main entrance",
+   "why": "underlined subhead: use area with its own text"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "Step 6. Select and place plant symbols on plan",
+   "why": "step heading"
+  },
+  {
+   "boxes": [
+    264
+   ],
+   "level": 4,
+   "parent": 263,
+   "text": "Section One: Selecting plants",
+   "why": "italic subhead of the step"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 77,
+   "closes": 69,
+   "why": "printed head 'Locating House on Property' has no box of its own (OCR folded it); its content must not sit under 'Identifying Property Lines' (the next unboxed head 'Locating Outlying Landscape Features' #80 follows under the same parent)"
+  },
+  {
+   "before": 122,
+   "closes": 111,
+   "why": "lead-in about the Step 1 Checklist ('Before proceeding to Step 2, carefully review the following'), not about transferring measurements"
+  },
+  {
+   "before": 166,
+   "closes": 150,
+   "why": "lead-in about the Step 2 Checklist ('Review the checklist below before proceeding to Step 3'), not about Views / environmental features"
+  },
+  {
+   "before": 261,
+   "closes": 249,
+   "why": "printed head 'Pulling it all together' has no box of its own; its two paragraphs must not sit under 'Accenting the main entrance'"
+  },
+  {
+   "before": 277,
+   "closes": 264,
+   "why": "printed head 'Plant Palette' has no box of its own (OCR folded it into #276); its paragraph must not sit under 'Section One: Selecting plants'"
+  }
+ ]
+}

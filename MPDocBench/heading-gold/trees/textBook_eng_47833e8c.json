@@ -1,0 +1,33 @@
+{
+ "doc": "textBook_eng_47833e8c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "INTRODUCTION TO COMPUTER PROGRAMMING WITH PYTHON",
+   "why": "title: book title on the cover (four lines, one box)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "repeat: half-title restates the book title"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

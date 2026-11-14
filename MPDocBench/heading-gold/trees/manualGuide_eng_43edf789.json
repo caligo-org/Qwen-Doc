@@ -1,0 +1,91 @@
+{
+ "doc": "manualGuide_eng_43edf789",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "GARMIN New Product Announcement",
+   "why": "title union: owner (GARMIN logo box, the only print of whose document it is; the product quatix is printed only inside the photo) + document type (New Product Announcement). Breadcrumb review r3: round-2 OPEN resolved, owner added; memo label, confidentiality line and To/From block stay text."
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Features",
+   "why": "section: rule-topped section head over the feature list"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Product Configuration",
+   "why": "section: rule-topped section head"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "quatix™",
+   "why": "item heading: product name with its own configuration block"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Featured New Accessories",
+   "why": "section: rule-topped section head"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "GNT™ 10 NMEA Transceiver",
+   "why": "item heading: accessory name with its own block"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Additional quatix Accessories",
+   "why": "section: section head over the accessories table"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Shipping and Case Pack Information",
+   "why": "section: section head over the shipping table"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "memo-type label + confidentiality line: text"
+  },
+  {
+   "box": 3,
+   "why": "To/From/Date memo block: text"
+  }
+ ]
+}

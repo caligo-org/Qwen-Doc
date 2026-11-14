@@ -1,0 +1,47 @@
+doc	kind	box	closes	page	note
+magazine_chn_3b0b9920	BREAK	46	45	4	poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column
+magazine_chn_3b0b9920	BREAK	58	56	5	contents list ends; house-ad QR box and colophon-column notices follow (not contents)
+magazine_chn_5997ac40	BREAK	40	39	4	poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column
+magazine_chn_5997ac40	BREAK	52	50	5	contents list ends; house-ad QR box and colophon-column notices follow (not contents)
+magazine_chn_5b74dff1	BREAK	21	17	3	contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)
+magazine_chn_5b74dff1	BREAK	126	49	7	"story ends (editor credit); QR pointer box ""扫我，看更多劲爆故事"" follows, not about this story"
+magazine_chn_6d102faf	BREAK	23	8	4	film write-up ends; pointer box (scan QR to follow the magazine account) follows, not about the film
+magazine_chn_90f6827e	BREAK	37	36	4	poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column
+magazine_chn_90f6827e	BREAK	49	47	5	contents list ends; house-ad QR box and colophon-column notices follow (not contents)
+magazine_chn_b3948362	BREAK	20	16	3	contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)
+magazine_chn_c1e72d14	BREAK	22	18	3	contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)
+magazine_chn_c1e72d14	BREAK	129	53	7	"story ends (editor credit); QR pointer box ""扫我，看更多劲爆故事"" follows, not about this story"
+magazine_chn_d7b9b688	BREAK	20	16	3	contents list ends; course promo, subscription QR codes, new-media house ad and 本刊声明 follow (not contents)
+magazine_chn_d7b9b688	BREAK	118	48	7	"story ends (editor credit); QR pointer box ""扫我，看更多劲爆故事"" follows, not about this story"
+magazine_chn_f13451d6	BREAK	71	57	5	contents list ends; the restated masthead and colophon column follow (not contents)
+magazine_eng_01c752f9	NONE				all 4 pages viewed with the tree: cover (L1 only) and a CHANEL ad under the masthead; no section opens, nothing to close
+magazine_eng_22066f34	BREAK	114	103	6	editor's welcome ends; two pages of retailer ads follow, not about the welcome
+magazine_eng_2933460b	NONE				all 4 pages viewed with the tree: cover (L1 only) and gallery/auction ads under the masthead; no section opens, nothing to close
+magazine_eng_2b291ce7	BREAK	16	14	3	contents list ends; cover-photo credit and copyright line follow (colophon text, not contents)
+magazine_eng_2b291ce7	BREAK	46	24	4	editorial ends; cover thumbnail, WRITE TO US contact box, price list and Chinese colophon follow (not the editor's desk)
+magazine_eng_2b291ce7	BREAK	107	105	7	photo item A Flourishing Industry is its caption only; the College Graduates text resumes after it and is not about the photo (closes only the photo item; the resumed text sits in THIS WEEK SOCIETY)
+magazine_eng_2b291ce7	BREAK	154	142	9	NUMBERS data box ends on p8; the Carbon Market Expansion text resumes on p9 and is not about NUMBERS (it sits in THIS WEEK ECONOMY)
+magazine_eng_2b291ce7	BREAK	175	169	9	Rural Banks item ends; the NUMBERS FDI chart continued from p8 follows, not about Rural Banks (it sits in THIS WEEK ECONOMY)
+magazine_eng_2b291ce7	BREAK	246	240	13	YOUNGEST CAS MEMBER item ends; the POINTS quote band (quotes by other people) follows, not about this item
+magazine_eng_2b291ce7	NONE	223	220	12	RESOLVED (user 2026-11-13: a block inside a section whose content continues after it gets no break); POINTS quote band (#223-#226, quotes by other people) sits in reading order inside Sports Mean Business, whose text resumes on p13 (#231-#233); a break before #223 would push the resumed story text out of its item. Breaks cannot reopen a section; how to mark an interleaved untitled block?
+magazine_eng_3926a81f	BREAK	74	64	5	editor's welcome (letter, signature, photo) ends; newsletter QR sign-up and FOLLOW US social box follow
+magazine_eng_5047188e	BREAK	10	8	6	editor's note ends; the cover credit box (cover subject, photo/styling/dress credits) follows, not about the note
+magazine_eng_571b7df5	BREAK	49	36	3	tester bios end; the restated guide title and staff credits (colophon) follow
+magazine_eng_571b7df5	BREAK	77	73	4	last numbered point (5 FEATURES) ends; the IN PARTNERSHIP WITH sponsor line about the whole buying guide follows (belongs to the guide)
+magazine_eng_5dea3d09	BREAK	48	25	4	editorial page ends; a full-page ad follows before the contents page
+magazine_eng_5dea3d09	BREAK	65	51	5	PRODUCTS ON THE COVER list ends; the main contents list follows, not about the cover products (it belongs to contents)
+magazine_eng_757ea556	BREAK	11	7	3	contents page ends; the restated masthead, colophon column and editor's letter on p3 follow, not about contents
+magazine_eng_7d53ba06	BREAK	25	23	3	ON THE COVER box ends; the ON DECK FOR JANUARY/FEBRUARY next-issue teaser follows, not about the cover
+magazine_eng_7d53ba06	BREAK	27	16	4	contents page (Leading Off opener) ends; the restated masthead and colophon on p4 follow, not about Leading Off; the p4 Leading Off tag #49 becomes a continuation node (continues #16) and the p6 tag #139 a repeat of #49
+magazine_eng_86eb2981	BREAK	145	142	3	features list ends; the tablet-editions subscriber promo follows (not a feature)
+magazine_eng_86eb2981	BREAK	155	148	5	in-every-issue contents page ends; a full-page ad follows
+magazine_eng_86eb2981	BREAK	210	166	7	Fine WoodWorking UNLIMITED page ends; a full-page ad follows
+magazine_eng_a217be3f	BREAK	22	10	3	editor's welcome ends (sign-off); book promo with QR and social-media box follow
+magazine_eng_a217be3f	BREAK	52	31	6	contents sidebar ends (Our packaging); a full-page ad follows before Contributors
+magazine_eng_b2553d3f	NONE				all 8 pages viewed with the tree: photographer intro (L2) with her portrait, CAPTURE THE MOMENT (L2) with sponsor thanks and dancer portraits with name captions; all content is about the open page title; no containment text entries
+magazine_eng_b7b4047d	BREAK	59	44	3	editor's letter ends (sign-off); reader-contact and social-media box follows
+magazine_eng_b7b4047d	BREAK	82	78	4	Outdoor living group ends; FREE 190 BULBS teaser follows (contents-page teaser, not about Outdoor living)
+magazine_eng_b7b4047d	BREAK	106	63	5	contents groups end; SUBSCRIBE TODAY teaser follows (not contents)
+magazine_eng_d9bbdc7a	BREAK	35	31	3	editor's note ends (signature); ON-SALE DATE CHANGES notice box follows, not about the note
+magazine_eng_d9bbdc7a	BREAK	46	37	3	Inside contents ends; SUBSCRIBE NOW teaser follows, not about Inside
+magazine_eng_fe444622	BREAK	43	41	6	contents page ends; the part-opener spread (photo, restated title, intro line) follows, not about contents

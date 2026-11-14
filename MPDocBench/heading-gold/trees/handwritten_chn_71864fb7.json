@@ -1,0 +1,73 @@
+{
+ "doc": "handwritten_chn_71864fb7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Waring 公式及其应用",
+   "why": "title: note topic over the whole essay"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "I. Newton 公式",
+   "why": "section: Roman-numbered part I"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Ⅱ. Waring 公式",
+   "why": "section: Roman-numbered part II"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "III. 组合反演公式",
+   "why": "section: Roman-numbered part III"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 12,
+   "why": "theorem label before its formula (like \"Definition 2.1\"): run-in label, text"
+  },
+  {
+   "box": 36,
+   "why": "theorem label before its formula: text"
+  },
+  {
+   "box": 24,
+   "why": "platform watermark footer"
+  },
+  {
+   "box": 67,
+   "why": "item label (i) before a formula"
+  },
+  {
+   "box": 73,
+   "why": "item label (ii)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 79,
+   "closes": 65,
+   "why": "round 5 (main session, page viewed): p5 is a fragment of another proof (an identity about sigma_2i of cos(j pi/n)), an application of the Waring formula, not part of III. 组合反演公式; it belongs to the title Waring 公式及其应用"
+  }
+ ]
+}

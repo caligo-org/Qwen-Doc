@@ -1,0 +1,285 @@
+{
+ "doc": "newspaper_eng_b5e01773",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Boston Sunday Globe",
+   "why": "masthead (periodical title)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Driven to the edge",
+   "why": "story headline, front page (no section banner) | starts: the story's lead photo #4, set above the headline, comes before it in reading order"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Fake electors are among GOP delegates",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "City served by Steward fears fate of hospital",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Anxiety taking a toll on school days",
+   "why": "story headline | starts: the story's pull quote #47 with attribution #48 (Hunter's mother), set above the headline, comes before it in reading order"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "The World",
+   "why": "section: running section tag The World on A2 (section changes from the front page)"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "In Gaza, criticism of Hamas is growing",
+   "why": "story headline (line beside the photo is its deck) | starts: the story's pull quote #71 with attribution #72 (resident of Gaza), set above the headline, comes before it in reading order"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "Vehicle explosion kills 8 Israeli soldiers, official says",
+   "why": "story headline | final r6 check: boxed wire story (8 Israeli soldiers killed in a Rafah vehicle explosion) set inside the Gaza story; it is a separate news story, not about criticism of Hamas, so \"In Gaza, criticism of Hamas is growing › Vehicle explosion…\" is no breadcrumb: a story of The World (L3). The Gaza story's fourth column (#124-#134) stays with #73 through places"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "THE WORLD TODAY",
+   "why": "briefs column label"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "2 Swedes released in prisoner swap",
+   "why": "brief headline under the briefs label; country label above is a kicker"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Activist held in Budapest freed",
+   "why": "brief headline; country label in the same box is a kicker"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "level": 4,
+   "parent": 135,
+   "text": "Answers sought on police hitting cow",
+   "why": "brief headline; country label in the same box is a kicker"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "World leaders meet to discuss Ukraine peace roadmap",
+   "why": "story headline (A4, running tag still The World; A3 is an ad)"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "Haiti replaces police chief as gang violence claims officers' lives",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    214
+   ],
+   "level": 3,
+   "parent": 68,
+   "text": "Divers find parts of Finnish WWII plane",
+   "why": "story headline | starts: the story's photo #211-#213 (the Kaleva plane), set above the headline, comes before it in reading order"
+  },
+  {
+   "boxes": [
+    259
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "The Nation",
+   "why": "section: running section tag The Nation on A6 (section changes)"
+  },
+  {
+   "boxes": [
+    262
+   ],
+   "level": 3,
+   "parent": 259,
+   "text": "Tribal members reclaiming ‘land of the flowing water’",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    336
+   ],
+   "level": 3,
+   "parent": 259,
+   "text": "Iowa takes lead in fighting potential stem cell scams",
+   "why": "story headline"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    157
+   ],
+   "of": 68,
+   "why": "running section tag The World on A4 (only an ad page in between)"
+  },
+  {
+   "boxes": [
+    334
+   ],
+   "of": 259,
+   "why": "running section tag The Nation on A7"
+  },
+  {
+   "boxes": [
+    69,
+    146,
+    158,
+    248,
+    260,
+    333
+   ],
+   "of": 1,
+   "why": "running head repeats the masthead"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 28,
+   "why": "byline"
+  },
+  {
+   "box": 37,
+   "why": "weather box"
+  },
+  {
+   "box": 41,
+   "why": "front-page photo teaser (points to Sports C1)"
+  },
+  {
+   "box": 77,
+   "why": "deck under the headline"
+  },
+  {
+   "box": 143,
+   "why": "INDEX box"
+  },
+  {
+   "box": 148,
+   "why": "advertisement line"
+  },
+  {
+   "box": 304,
+   "why": "advertisement line"
+  },
+  {
+   "box": 313,
+   "why": "advertisement line"
+  },
+  {
+   "box": 317,
+   "why": "advertisement line"
+  },
+  {
+   "box": 365,
+   "why": "advertisement line"
+  },
+  {
+   "box": 376,
+   "why": "advertisement line"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 35,
+   "closes": 26,
+   "why": "round 5: the story ends (HOSPITAL, Page A15); the skybox photo, teaser column, weather box and barcode follow, then the pull quote of the next story"
+  },
+  {
+   "before": 62,
+   "closes": 49,
+   "why": "round 5: the story and its photo end; the Eastern Bank display ad follows"
+  },
+  {
+   "before": 143,
+   "closes": 135,
+   "why": "round 5: the briefs column ends; the INDEX box follows"
+  },
+  {
+   "before": 208,
+   "closes": 190,
+   "why": "round 5: the story ends; a stand-alone photo brief (RETURN TO FORMALITY) and the photo of the next story follow"
+  },
+  {
+   "before": 250,
+   "closes": 214,
+   "why": "round 5: the story ends on p4; a full-page display ad (Mass General Brigham) fills p5"
+  },
+  {
+   "before": 301,
+   "closes": 262,
+   "why": "round 5: the story ends; display ads (Sunrise of Newton, N.E.T.R.) follow"
+  },
+  {
+   "before": 361,
+   "closes": 336,
+   "why": "round 5: the story ends; display ads (Beal Bank, aday) follow"
+  },
+  {
+   "before": 124,
+   "closes": 110,
+   "why": "the boxed wire story #110 ends; the text after it is not about it (it continues the Gaza story in the reader's order, which is not corrected, so it sits in The World)"
+  }
+ ]
+}

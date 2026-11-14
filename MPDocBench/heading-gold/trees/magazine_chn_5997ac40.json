@@ -1,0 +1,97 @@
+{
+ "doc": "magazine_chn_5997ac40",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "知音 海外版",
+   "why": "title: periodical masthead 知音 海外版"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "一滴墨香",
+   "why": "section: running section tag 一滴墨香 (vertical), poem page starts: #30 (the vertical running head on the poem page, first box of p3); the column tag #39 comes after its own poem #31-#38 in reading order"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 39,
+   "text": "荆棘上的雨滴",
+   "why": "story: poem title, poem below (containment)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录 CONTENTS",
+   "why": "contents title (front matter at section level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    40
+   ],
+   "of": 2,
+   "why": "repeat: masthead (BOSOM FRIEND) restated over the colophon/contents page"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 2,
+   "why": "repeat: vertical running header naming the magazine (知音海外版)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 14,
+   "why": "ad page (header 广告): subscription ad headline"
+  },
+  {
+   "box": 20,
+   "why": "ad page: label inside the subscription ad"
+  },
+  {
+   "box": 52,
+   "why": "house-ad logo above QR codes in the colophon column"
+  },
+  {
+   "box": 57,
+   "why": "colophon-column notice box (copyright statement): colophon text"
+  },
+  {
+   "box": 61,
+   "why": "colophon-column recruiting notice: ad/colophon text"
+  },
+  {
+   "box": 66,
+   "why": "colophon-column bank-account box: contact box"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 39,
+   "why": "poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column"
+  },
+  {
+   "before": 52,
+   "closes": 50,
+   "why": "contents list ends; house-ad QR box and colophon-column notices follow (not contents)"
+  }
+ ]
+}

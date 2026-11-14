@@ -1,0 +1,112 @@
+{
+ "doc": "prospectus_eng_edf49303",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "HSBC Global Investment Funds PROSPECTUS",
+   "why": "title union: fund company (owner) + document type PROSPECTUS (small box apart from the name)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "IMPORTANT INFORMATION",
+   "why": "front matter section IMPORTANT INFORMATION"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "United States of America",
+   "why": "arrow-marked own-line subhead with its paragraph"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Canada",
+   "why": "arrow-marked own-line subhead with its paragraph"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Hong Kong",
+   "why": "arrow-marked own-line subhead with its paragraphs"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Bank Holding Company Act",
+   "why": "arrow-marked own-line subhead with its paragraphs"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Telephone Recording and Data Protection",
+   "why": "arrow-marked own-line subhead with its paragraphs"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Luxembourg Stock Exchange",
+   "why": "arrow-marked own-line subhead with its paragraph"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Additional Information",
+   "why": "arrow-marked own-line subhead with its paragraphs"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "legal form line on the cover: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 23,
+   "why": "round 5: paragraph on Luxembourg regulation and HSBC as BHCA holding company introduces the Bank Holding Company Act section and is not about Hong Kong; it belongs to IMPORTANT INFORMATION (resolves the round 4 OPEN)"
+  }
+ ]
+}

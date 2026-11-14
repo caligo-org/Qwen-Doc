@@ -1,0 +1,64 @@
+{
+ "doc": "prospectus_eng_cd9d4d87",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "OYSTER PROSPECTUS",
+   "why": "title union: fund name OYSTER (owner) + document type PROSPECTUS. Box #2 also prints the legal form 'An Open-ended Mutual Investment Fund (SICAV) Luxembourg' (one box; legal-form lines are cover text); per NOTATIONS the text is only the heading part (round 3)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INTRODUCTION",
+   "why": "front matter section INTRODUCTION"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "DEFINITIONS",
+   "why": "front matter section DEFINITIONS"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "1. GENERAL CHARACTERISTICS OF THE OYSTER MUTUAL FUND",
+   "why": "numbered chapter 1. (same face and TOC level as DEFINITIONS)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "1.1. Structure",
+   "why": "numbered section 1.1"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

@@ -1,0 +1,152 @@
+{
+ "doc": "pptSlides_chn_b30fedce",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "千瓜 2025年第三季度新兴品类简报",
+   "why": "title: report title (publisher printed only as logo and slogan) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (千瓜) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "前言",
+   "why": "front matter title (preface)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "趋势调研：",
+   "why": "own-line box label heading the preface text box"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "报告目录",
+   "why": "contents title"
+  },
+  {
+   "boxes": [
+    23,
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Part 01. 养生咖啡",
+   "why": "divider union: Part 01. + part title starts: #22 (Part 01 divider: its coffee photo #22 (left of the title) comes before the title in reading order and sat under 报告目录)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 23,
+   "text": "爆文率增长70%+，「养生咖啡」上演“真续命”",
+   "why": "slide title under Part 01"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 23,
+   "text": "「超级植物」闯入咖啡赛道，人参、黄皮争相“入咖”",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 23,
+   "text": "品牌案例 | 养生咖啡",
+   "why": "slide title (brand case slide)"
+  },
+  {
+   "boxes": [
+    81,
+    82
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Part 02. 宠物户外装备",
+   "why": "divider union: Part 02. + part title starts: #80 (Part 02 divider: its photo #80 comes before the title in reading order and sat under the previous slide 品牌案例)"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "商业声量飙升近6倍，“户外风”刮向宠物界",
+   "why": "slide title under Part 02"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "覆盖「衣食住行」全领域，毛孩子也要“轻”装上阵",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 29,
+   "why": "panel/chart title, same style as the figure captions beside it"
+  },
+  {
+   "box": 40,
+   "why": "panel/chart title (stat panel), same style as figure captions"
+  },
+  {
+   "box": 50,
+   "why": "panel/chart title, same style as figure captions"
+  },
+  {
+   "box": 99,
+   "why": "panel/chart title (stat panel), same style as figure captions"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover subtitle (category list)"
+  },
+  {
+   "box": 4,
+   "why": "publisher slogan"
+  },
+  {
+   "box": 20,
+   "why": "TOC entries"
+  },
+  {
+   "box": 38,
+   "why": "figure caption"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 13,
+   "closes": 9,
+   "why": "the 趋势调研 box ends; the four category pictures beside it belong to the 前言 slide #7"
+  }
+ ]
+}

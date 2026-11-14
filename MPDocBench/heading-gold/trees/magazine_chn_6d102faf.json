@@ -1,0 +1,43 @@
+{
+ "doc": "magazine_chn_6d102faf",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "儿童文学",
+   "why": "title: periodical masthead 儿童文学 (pinyin line in the box is a transliteration)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "看电影吧",
+   "why": "column tag printed as a logo on the story opener page (text from the logo, as for owner logos; the editor's note names the column 「看电影吧」): heads its story (NOTATIONS: a column tag on the opener page heads its piece)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "中国机长",
+   "why": "story headline: film feature; its column 看电影吧 is only a logo figure (role not printed, level skip under masthead) | now under its column 看电影吧 (#7)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 8,
+   "why": "film write-up ends; pointer box (scan QR to follow the magazine account) follows, not about the film"
+  }
+ ]
+}

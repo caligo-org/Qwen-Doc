@@ -1,0 +1,444 @@
+{
+ "doc": "magazine_eng_2b291ce7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "BEIJING REVIEW",
+   "why": "title: periodical masthead BEIJING REVIEW (logo set without a word gap; the running heads and colophon print BEIJING REVIEW)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "why": "contents title (front matter at section level) starts: #13 (the photo printed above the CONTENTS title on the contents page)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "EDITOR'S DESK",
+   "why": "section: banner EDITOR'S DESK"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "The Urban Imperative",
+   "why": "story headline: editorial below"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "THIS WEEK",
+   "why": "section: running section tag THIS WEEK starts the news section"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "SOCIETY",
+   "why": "subsection: compound running tag THIS WEEK + SOCIETY (sub-tag printed in red); node text = SOCIETY only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "Domestic Violence",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "Curbing Tax Evasion",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "Science Forum",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "Ice Building",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "Giant Panda Population",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "College Graduates",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "ECONOMY",
+   "why": "subsection: compound running tag THIS WEEK + ECONOMY (sub-tag printed in red); node text = ECONOMY only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Green Electricity Certificates",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Civil Aviation",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Emerging Industries",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Carbon Market Expansion",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "NUMBERS",
+   "why": "box with own title (NUMBERS data box) one level below the subsection"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Installed Power Capacity",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    169
+   ],
+   "level": 4,
+   "parent": 118,
+   "text": "Rural Banks",
+   "why": "brief headline: describes the item below"
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "WORLD",
+   "why": "subsection: compound running tag THIS WEEK + WORLD (sub-tag printed in red); node text = WORLD only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
+  },
+  {
+   "boxes": [
+    206
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "PEOPLE & POINTS",
+   "why": "subsection: compound running tag THIS WEEK + PEOPLE & POINTS (sub-tag printed in red); node text = PEOPLE & POINTS only: the THIS WEEK part restates the parent section node #55 (same treatment as the edition prefix 海外版 restating the L1)"
+  },
+  {
+   "boxes": [
+    207
+   ],
+   "level": 4,
+   "parent": 206,
+   "text": "DESIGNER BEHIND POPULAR MASCOTS",
+   "why": "item headline: profile below"
+  },
+  {
+   "boxes": [
+    213
+   ],
+   "level": 4,
+   "parent": 206,
+   "text": "From Playgrounds to Python",
+   "why": "item headline: opinion excerpt below"
+  },
+  {
+   "boxes": [
+    220
+   ],
+   "level": 4,
+   "parent": 206,
+   "text": "Sports Mean Business",
+   "why": "item headline: opinion excerpt below starts: #219 (the source magazine cover printed above the headline)"
+  },
+  {
+   "boxes": [
+    234
+   ],
+   "level": 4,
+   "parent": 206,
+   "text": "Work Without Barriers",
+   "why": "item headline with its block"
+  },
+  {
+   "boxes": [
+    240
+   ],
+   "level": 4,
+   "parent": 206,
+   "text": "YOUNGEST CAS MEMBER",
+   "why": "item headline with its block"
+  },
+  {
+   "boxes": [
+    254
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "COVER STORY",
+   "why": "section: banner COVER STORY starts: #253 (the cover-story opening photo above the COVER STORY label)"
+  },
+  {
+   "boxes": [
+    255
+   ],
+   "level": 3,
+   "parent": 254,
+   "text": "A NEW URBAN LIFE",
+   "why": "story headline: cover story below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    25
+   ],
+   "of": 2,
+   "why": "repeat: masthead restated at the head of the colophon column"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    230
+   ],
+   "of": 55,
+   "why": "repeat: bare running tag THIS WEEK on the facing page"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    204
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    251
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    258
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 5,
+   "why": "cover line"
+  },
+  {
+   "box": 7,
+   "why": "advertisement (p2)"
+  },
+  {
+   "box": 47,
+   "why": "contact box title (WRITE TO US) in the colophon area"
+  },
+  {
+   "box": 57,
+   "why": "photo item: headline over the photo #56 whose only block is the caption #58 (no story text of its own); text (round 6)"
+  },
+  {
+   "box": 64,
+   "why": "photo item: headline over the photo #63 whose only block is the caption #65; text (round 6)"
+  },
+  {
+   "box": 105,
+   "why": "photo item: headline over the photo #104 whose only block is the caption #106; set inside College Graduates, whose text continues at #107; text (round 6)"
+  },
+  {
+   "box": 113,
+   "why": "photo item: headline beside the photo #112 whose only block is the caption #114; text (round 6)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 14,
+   "why": "contents list ends; cover-photo credit and copyright line follow (colophon text, not contents)"
+  },
+  {
+   "before": 46,
+   "closes": 24,
+   "why": "editorial ends; cover thumbnail, WRITE TO US contact box, price list and Chinese colophon follow (not the editor's desk)"
+  },
+  {
+   "before": 246,
+   "closes": 240,
+   "why": "YOUNGEST CAS MEMBER item ends; the POINTS quote band (quotes by other people) follows, not about this item"
+  },
+  {
+   "before": 112,
+   "closes": 102,
+   "why": "College Graduates text ends at #111; the World Hello Day photo item (#112-#114, headline and caption are text) is not about it"
+  },
+  {
+   "before": 154,
+   "closes": 142,
+   "why": "NUMBERS data box ends on p8; the Carbon Market Expansion text resumes on p9 and is not about NUMBERS (it sits in THIS WEEK ECONOMY)"
+  },
+  {
+   "before": 175,
+   "closes": 169,
+   "why": "Rural Banks item ends; the NUMBERS FDI chart continued from p8 follows, not about Rural Banks (it sits in THIS WEEK ECONOMY)"
+  }
+ ]
+}

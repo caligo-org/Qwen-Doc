@@ -1,0 +1,46 @@
+{
+ "doc": "examPaper_eng_2a2d3def",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "浙江大学2018-2019学年春夏学期 《Artificial Intelligence》课程期末考试试卷",
+   "why": "title union: owner/term line (浙江大学 … 学期) + document type (《Artificial Intelligence》课程期末考试试卷)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1. Fill in the blanks (20 points, 1 points/each blank)",
+   "why": "question group"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2. Single Choice (50 points, only one of the options is correct. 2 points/one question)",
+   "why": "question group"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "exam honesty slogan: cover text"
+  },
+  {
+   "box": 3,
+   "why": "course number / school line: cover text"
+  }
+ ]
+}

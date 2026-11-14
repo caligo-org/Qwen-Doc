@@ -1,0 +1,63 @@
+{
+ "doc": "goverment_chn_abd934b8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "政务数据共享条例",
+   "why": "title: regulation title names the whole document"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第一章 总 则",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第二章 管理体制",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第三章 目录管理",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第四章 共享使用",
+   "why": "chapter: 第N章 label + title, describes its articles"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "adoption/promulgation note under the title: text"
+  },
+  {
+   "box": 4,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
+}

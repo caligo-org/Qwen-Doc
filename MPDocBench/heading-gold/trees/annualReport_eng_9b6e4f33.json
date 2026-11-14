@@ -1,0 +1,227 @@
+{
+ "doc": "annualReport_eng_9b6e4f33",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    9
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FORM 10-K BLOOM ENERGY CORPORATION",
+   "why": "title union: document type (FORM 10-K) + registrant name (owner); the registrant box's small caption line is a field label"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+   "why": "front matter section"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "contents title. Round 2: text = the printed heading line Table of Contents only; the lines above it in the same box restate owner + form + year (a restated title = repeat), so the breadcrumb no longer restates the L1"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS",
+   "why": "front matter section: forward-looking note"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Part I",
+   "why": "PART level"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "ITEM 1-BUSINESS",
+   "why": "Item level"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "Overview",
+   "why": "bold section head under Item"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "Description of Bloom Energy",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "Key Macro Trends",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "Our Markets",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "Products & Services",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 5,
+   "parent": 79,
+   "text": "Solid Oxide Platform",
+   "why": "bold-italic subhead (platform)"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 5,
+   "parent": 79,
+   "text": "The Bloom Energy Server System",
+   "why": "bold-italic subhead (product)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 6,
+   "parent": 86,
+   "text": "Value Proposition",
+   "why": "bold-italic subhead: value proposition of the Energy Server (content beats look, user decision)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 6,
+   "parent": 86,
+   "text": "Competition",
+   "why": "bold-italic subhead: competition of the Energy Server (content)"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 5,
+   "parent": 79,
+   "text": "Bloom Electrolyzer",
+   "why": "bold-italic subhead (second product, sibling of the Energy Server)"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 6,
+   "parent": 122,
+   "text": "Value Proposition",
+   "why": "bold-italic subhead: value proposition of the Electrolyzer (repeated label with its own block)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 6,
+   "parent": 122,
+   "text": "Electrolyzer Competition",
+   "why": "bold-italic subhead: electrolyzer competition"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "Research and Development",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "Intellectual Property",
+   "why": "bold section head"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "issuing body (SEC name and address) above the form title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "form check-box line"
+  },
+  {
+   "box": 49,
+   "why": "navigation links in the header"
+  },
+  {
+   "box": 56,
+   "why": "lead-in sentence introducing the trend list"
+  },
+  {
+   "box": 57,
+   "why": "bold list item summarizing a trend (its paragraph follows separately as a run-in)"
+  },
+  {
+   "box": 62,
+   "why": "bold-italic run-in lead-in starting a paragraph"
+  },
+  {
+   "box": 82,
+   "why": "bold-italic run-in bullet lead-in"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 38,
+   "why": "round 5: definition of \"we/Bloom/the Company\" below the contents is about the whole report, not the Table of Contents; belongs to L1"
+  }
+ ]
+}

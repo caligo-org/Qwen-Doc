@@ -1,0 +1,592 @@
+{
+ "doc": "annualReport_chn_c8425a15",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "北京顺鑫农业股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节 重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录/释义: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "目录/释义: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节 公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 53,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item under 七, outline heading (不适用 + statement below); round 2: was missing, sibling docs carry it"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 53,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "2、 numbered item under 七, outline heading (不适用 + statement below); round 2: was missing, sibling docs carry it"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第三节 公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "一、报告期内公司从事的主要业务",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 4,
+   "parent": 80,
+   "text": "（一）公司主要业务",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 4,
+   "parent": 80,
+   "text": "（二）行业发展情况及公司所处行业地位",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 5,
+   "parent": 83,
+   "text": "1. 白酒行业",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 5,
+   "parent": 83,
+   "text": "2.猪肉行业",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "二、主要资产重大变化情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 4,
+   "parent": 90,
+   "text": "1、主要资产重大变化情况",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 4,
+   "parent": 90,
+   "text": "2、主要境外资产情况",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "三、核心竞争力分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 4,
+   "parent": 99,
+   "text": "（一）白酒酿造与销售",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 5,
+   "parent": 101,
+   "text": "1. 品牌与文化优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 5,
+   "parent": 101,
+   "text": "2.市场及渠道优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 5,
+   "parent": 101,
+   "text": "3.技术及人才优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 99,
+   "text": "（二）种猪繁育、生猪养殖、屠宰及肉制品加工",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "1. 品牌优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "2.全产业链优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "3. 技术优势",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第四节 经营情况讨论与分析",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 121,
+   "text": "一、概述",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "（一）整体经营情况",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "（二）重要事项说明",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "（三）产业经营情况",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 5,
+   "parent": 127,
+   "text": "1、白酒产业",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 5,
+   "parent": 127,
+   "text": "2、猪肉产业",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 5,
+   "parent": 127,
+   "text": "3、房地产业",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 121,
+   "text": "二、主营业务分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 138,
+   "text": "1、概述",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 4,
+   "parent": 138,
+   "text": "2、收入与成本",
+   "why": "（一）/1、 level"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 5,
+   "parent": 144,
+   "text": "（1）营业收入构成",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 5,
+   "parent": 144,
+   "text": "（2）占公司营业收入或营业利润 10% 以上的行业、产品或地区情况",
+   "why": "1./（1） level Round 4: text as printed (OCR markup removed)."
+  },
+  {
+   "boxes": [
+    157
+   ],
+   "level": 5,
+   "parent": 144,
+   "text": "（3）公司实物销售收入是否大于劳务收入",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    163
+   ],
+   "level": 5,
+   "parent": 144,
+   "text": "（4）公司已签订的重大销售合同截至本报告期的履行情况",
+   "why": "1./（1） level"
+  },
+  {
+   "boxes": [
+    165
+   ],
+   "level": 5,
+   "parent": 144,
+   "text": "（5）营业成本构成",
+   "why": "1./（1） level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 40,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 42,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 44,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 47,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 63,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 69,
+   "why": "statement label with 不适用 + one sentence (substance)"
+  },
+  {
+   "box": 152,
+   "why": "statement label with only 不适用 below"
+  },
+  {
+   "box": 160,
+   "why": "label with 适用 + one sentence (substance)"
+  },
+  {
+   "box": 166,
+   "why": "table caption"
+  }
+ ]
+}

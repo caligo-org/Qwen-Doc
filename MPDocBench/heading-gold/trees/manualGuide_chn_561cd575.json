@@ -1,0 +1,108 @@
+{
+ "doc": "manualGuide_chn_561cd575",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "ElinkThings AiLink 4G 血糖仪应用说明",
+   "why": "title: product + document type (应用说明) in one line on the cover Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (elinkThings) joins the union after the title box.; final check: logo prints \"ElinkThings\" (capital E), text corrected"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "修改记录",
+   "why": "front matter: revision history title at the level of the top sections"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "1 概述",
+   "why": "chapter: numbered outline heading 1 (TOC)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "2 说明",
+   "why": "chapter: numbered outline heading 2"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "3 硬件接口",
+   "why": "chapter: numbered outline heading 3"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "3.1 硬件连接参考框图",
+   "why": "section: 3.1 numbered heading over the block diagram"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "3.2串口UART",
+   "why": "section: 3.2 numbered heading"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 42,
+   "text": "3.3MCU_ON/OFF",
+   "why": "section: 3.3 numbered heading"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "cover version/date line: text"
+  },
+  {
+   "box": 5,
+   "why": "cover copyright line: text"
+  },
+  {
+   "box": 25,
+   "why": "numbered paragraph 1.1 printed as body text, not a heading line"
+  },
+  {
+   "box": 47,
+   "why": "callout: 注 note"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "doc": "examPaper_eng_f46d7359",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "IOI 2021 Distributing Candies",
+   "why": "round 3: title union owner ∪ document: IOI 2021 is printed only in the p1 header box (task tag candies, \"IOI 2021 Day 1 Tasks\", language; OCR text missing in gold; text = heading part only), the task name is the document; was the task name alone"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Implementation Details",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Examples",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "Example 1",
+   "why": "sub-section: Example 1 inside Examples"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Constraints",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Subtasks",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Sample Grader",
+   "why": "section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 17,
+   "why": "lead-in Consider the following call: text"
+  }
+ ]
+}

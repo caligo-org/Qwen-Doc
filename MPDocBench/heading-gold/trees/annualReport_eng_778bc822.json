@@ -1,0 +1,495 @@
+{
+ "doc": "annualReport_eng_778bc822",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "The 600 Group PLC Annual Report & Accounts 2022",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Who We Are",
+   "why": "round 5: restored, a break now closes it before the p3 company-information list (was text only by containment); own-line title with its own paragraph"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Position Statement",
+   "why": "round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Mission",
+   "why": "round 5: restored, a break now closes Who We Are (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Vision",
+   "why": "round 5: restored, a break now closes it before the logos (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "We Stand For",
+   "why": "round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line title over the Service/Innovation/Quality labels"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Service",
+   "why": "round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Innovation",
+   "why": "round 5: restored, a break now closes We Stand For (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "Quality",
+   "why": "round 5: restored, a break now closes it before the p5 contents list (was text only by containment); own-line label with its own paragraph"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Chairman's statement",
+   "why": "section: title printed only as the running head of this section's pages (user decision)"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Strategic report",
+   "why": "section: title printed only as the running head of this section's pages; first page Round 2: listed before its page's subheads (the running head prints at the top of p7; the gold order leaves header boxes unordered)."
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Our business",
+   "why": "bold subhead in the strategic report Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Revenues (Continuing activities)",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Macroeconomic and industry trends",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 67,
+   "text": "Industrial laser systems",
+   "why": "underlined sub-subhead naming the segment discussed"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Our main markets",
+   "why": "bold subhead Round 2: parent Strategic report (#60), the running head of p7; the Chairman's statement ended on p6 with its signature."
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Activity in the year",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 4,
+   "parent": 79,
+   "text": "Industrial laser systems",
+   "why": "underlined sub-subhead"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Discontinued Activity - Machine tools division",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Group Results",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Adjusting items",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Taxation",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Net profit and earnings per share",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Financial position and utilisation of resources",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "Cash flow",
+   "why": "underlined sub-subhead"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Net borrowings",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Retirement benefits",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Key performance indicators (KPIs)",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "S172 of the Companies Act",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Principal risks",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Market risks",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "Other risks and uncertainties",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "CFO Statement",
+   "why": "section: running header printed only on this section's pages (user decision: section heading) Round 2: listed before its page's body title (printed at the top of p12)."
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Chief Financial Officer Statement",
+   "why": "body title below the section-only running header (user decision) Round 2: parent CFO Statement (#159), the section-only running header of its page (600 Group rule), not Strategic report."
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Current year review",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Statement of financial position",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Next year outlook",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Conclusion",
+   "why": "bold subhead"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "Corporate governance",
+   "why": "section: title printed only as the running head Round 2: listed before its page's subheads (printed at the top of p13)."
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "level": 3,
+   "parent": 176,
+   "text": "The Board",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "level": 3,
+   "parent": 176,
+   "text": "Relations with shareholders",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  },
+  {
+   "boxes": [
+    192
+   ],
+   "level": 3,
+   "parent": 176,
+   "text": "Social responsibility",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  },
+  {
+   "boxes": [
+    194
+   ],
+   "level": 3,
+   "parent": 176,
+   "text": "Risk management",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  },
+  {
+   "boxes": [
+    198
+   ],
+   "level": 3,
+   "parent": 176,
+   "text": "The QCA Code",
+   "why": "bold subhead Round 2: parent Corporate governance (#176), the running head of p13; the CFO statement ended on p12 with its signature."
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    48
+   ],
+   "of": 6,
+   "why": "repeat: title restated on a half-title page"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "of": 60,
+   "why": "repeat: running section title, section still open"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 60,
+   "why": "repeat: running section title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "logo text in the header"
+  },
+  {
+   "box": 8,
+   "why": "company number footer"
+  },
+  {
+   "box": 12,
+   "why": "callout label (VISIT US ONLINE)"
+  },
+  {
+   "box": 25,
+   "why": "directory field label"
+  },
+  {
+   "box": 27,
+   "why": "directory field label"
+  },
+  {
+   "box": 40,
+   "why": "figure caption"
+  },
+  {
+   "box": 78,
+   "why": "\"(continued)\" line without a title"
+  },
+  {
+   "box": 142,
+   "why": "\"(Continued)\" line without a title"
+  },
+  {
+   "box": 145,
+   "why": "bold run-in lead-in starting a paragraph"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 18,
+   "why": "round 5: the group and brand logos are not about Vision; they show who the group is (Who We Are)"
+  },
+  {
+   "before": 25,
+   "closes": 10,
+   "why": "round 5: the company-information list (secretary, registered office, registrar, auditor, bankers, broker) and the board photo are not about Who We Are; they belong to L1"
+  },
+  {
+   "before": 48,
+   "closes": 41,
+   "why": "final check: the restated title page on p4 (The 600 Group PLC Annual Report and Accounts 2022, repeat of L1) and the untitled contents list on p5 are not about We Stand For / Quality; break moved from #50 to #48. round 5: the untitled contents list on p5 is not about We Stand For / Quality; it belongs to L1"
+  }
+ ]
+}

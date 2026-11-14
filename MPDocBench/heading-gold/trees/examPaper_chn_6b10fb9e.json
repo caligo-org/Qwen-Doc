@@ -1,0 +1,31 @@
+{
+ "doc": "examPaper_chn_6b10fb9e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "2023年天津高考地理试题",
+   "why": "title: exam title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 106,
+   "why": "question stem 16. 读图文资料，回答下列问题。: individual question, text (user decision)"
+  },
+  {
+   "box": 118,
+   "why": "question stem: text (user decision)"
+  },
+  {
+   "box": 126,
+   "why": "question stem: text (user decision)"
+  }
+ ]
+}

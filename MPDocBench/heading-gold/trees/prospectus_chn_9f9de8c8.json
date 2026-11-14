@@ -1,0 +1,126 @@
+{
+ "doc": "prospectus_chn_9f9de8c8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "常州时创能源股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第一节 释义",
+   "why": "body chapter 第一节 释义"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "一、一般释义",
+   "why": "section 一、 with its term table"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11,
+    12
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    17,
+    18
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    22,
+    23
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    27,
+    28
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    31,
+    32
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    35,
+    36
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    39,
+    40
+   ],
+   "of": 2,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
+  }
+ ],
+ "considered": []
+}

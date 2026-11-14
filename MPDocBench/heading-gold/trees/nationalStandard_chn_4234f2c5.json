@@ -1,0 +1,123 @@
+{
+ "doc": "nationalStandard_chn_4234f2c5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "鞋类通用安全要求 General safety requirements for footwear",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    63,
+    64
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "3.1 可触及 accessible",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "4 技术要求",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "4.1 钉尖和断针要求",
+   "why": "clause 4.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 69,
+   "text": "4.2 化学物质限量要求",
+   "why": "clause 4.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "5 试验方法",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "5.1 钉尖和断针",
+   "why": "clause 5.1: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    39
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

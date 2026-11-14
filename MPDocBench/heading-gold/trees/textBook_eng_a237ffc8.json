@@ -1,0 +1,208 @@
+{
+ "doc": "textBook_eng_a237ffc8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "THE JOY OF CRYPTOGRAPHY",
+   "why": "title: book title on the title page"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Preface",
+   "why": "front matter: Preface"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "What Is This Book About?",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Who Is This Book For?",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "What Background Is Needed To Understand This Book?",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Why Is Cryptography A Difficult Subject?",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Known Shortcomings",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Code-Based Games Philosophy",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Other Boring Stuff",
+   "why": "preface section heading: describes the block below"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Copyright",
+   "why": "subheading under Other Boring Stuff"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "About the cover",
+   "why": "subheading under Other Boring Stuff"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Acknowledgements",
+   "why": "subheading under Other Boring Stuff"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Changelog",
+   "why": "subheading under Other Boring Stuff"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 4,
+   "parent": 60,
+   "text": "Road Map",
+   "why": "Road Map: printed in the same size as Copyright/Acknowledgements/Changelog (smaller than the L3 preface heads), last item of Other Boring Stuff; breadcrumb round 2 moved it from L3 to L4 under Other Boring Stuff (same look = same level)"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "0 Review of Concepts & Notation",
+   "why": "chapter number + chapter title"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "0.1 Logs & Exponents",
+   "why": "numbered section 0.1"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 3,
+   "parent": 116,
+   "text": "0.2 Modular Arithmetic",
+   "why": "numbered section 0.2"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    143
+   ],
+   "of": 116,
+   "why": "repeat: running head naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 132,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 135,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 144,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 148,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 154,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 156,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  },
+  {
+   "box": 161,
+   "why": "margin label beside a definition/example block (run-in label, not an own-line heading): text"
+  }
+ ],
+ "considered": []
+}

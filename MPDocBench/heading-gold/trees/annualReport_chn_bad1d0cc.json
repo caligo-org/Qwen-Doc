@@ -1,0 +1,169 @@
+{
+ "doc": "annualReport_chn_bad1d0cc",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "北京合纵科技股份有限公司2019年年度报告",
+   "why": "title union: owner + document type in one cover block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "一、公司信息",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "四、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "五、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "六、分季度主要财务指标",
+   "why": "一、 level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 36,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 41,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 43,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 46,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 52,
+   "why": "yes/no question (answer on the next page)"
+  }
+ ]
+}

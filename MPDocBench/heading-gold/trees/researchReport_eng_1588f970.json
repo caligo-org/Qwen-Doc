@@ -1,0 +1,346 @@
+{
+ "doc": "researchReport_eng_1588f970",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    5,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs TOP of MIND ALL ABOUT BANK(PANIC)S",
+   "why": "title union (round 3): masthead ∪ issue theme box = whose publication + which issue (as in the special issue eng_b3735ab5); the theme is the issue's title, not a section, so the theme L2 node is gone and the articles become L2 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Goldman Sachs) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "WHAT'S INSIDE",
+   "why": "box title: contents box of the issue"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Macro news and views",
+   "why": "article page banner"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "US",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Europe",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 45,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Japan",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Emerging Markets (EM)",
+   "why": "box title: region box"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "Latest GS proprietary datapoints/major changes in views",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "Datapoints/trends we're focused on",
+   "why": "label heading: own-line list label with its bullet block (repeats per region box; v3 keeps repeated labels)"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "All about bank(panic)s",
+   "why": "article page banner, L2 (round 3): editor lead article of the issue; it prints the theme words again, but it opens one article after Macro news and views (a repeat of L1 would leave its pages inside Macro news and views), so it is a node narrower than the issue title union"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with Daniel K. Tarullo",
+   "why": "article page banner: interview"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: As former Chairman of the Federal Reserve Board's Committee on Supervision and Regulation in the wake of the Global Financial Crisis, you've seen banking crises play out firsthand. Was there anything unusual or different about the recent crisis?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: What was responsible for the recent crisis?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: It's been argued that the 2018 rollback of Dodd-Frank—bill S.2155—that exempted smaller banks from strict federal oversight set the stage for the recent crisis. You opposed that rollback—what's your view?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: So, how would you rate policymakers' response to the crisis? Was guaranteeing the uninsured deposits of SVB and Signature Bank the right action?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: How concerned are you that we are at the beginning rather than the end of this crisis?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: Could increasing deposit insurance by raising insured caps, or even guaranteeing all deposits, be a more lasting solution to the recent crisis?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: What—if any—adjustments to rules and regulations would strengthen the health of the system?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: What—if any—more lasting impacts might the recent events have on the banking industry?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: As a former member of the Federal Reserve Board, did you agree with the March Fed rate hike?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 99,
+   "text": "Allison Nathan: How should the Fed weigh inflation risks versus financial stability risks going forward?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Interview with Thomas Hoenig",
+   "why": "article page banner: interview"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 137,
+   "text": "Allison Nathan: Who/what is responsible for the recent stresses in the US banking sector?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 137,
+   "text": "Allison Nathan: That said, you've called the recent bank failures inevitable given the Dodd-Frank regulatory framework. But hasn't that framework made the banking industry safer?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 3,
+   "parent": 137,
+   "text": "Allison Nathan: But didn't Dodd-Frank substantially increase the amount of capital banks—especially global systemically important banks (G-SIBs)—were required to hold, leaving the banking industry well-capitalized, and effectively safer, today than it was before the GFC?",
+   "why": "interview question with its own separate answer block (user decision: heading)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    32
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 16,
+   "why": "INTERVIEWS WITH: label over a names list"
+  },
+  {
+   "box": 35,
+   "why": "deck under the banner"
+  },
+  {
+   "box": 92,
+   "why": "editor byline"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 15,
+   "why": "round 5: editor names/emails under the cover are the issue colophon, not about WHAT'S INSIDE"
+  }
+ ]
+}

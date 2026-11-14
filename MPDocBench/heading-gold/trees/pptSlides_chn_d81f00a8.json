@@ -1,0 +1,244 @@
+{
+ "doc": "pptSlides_chn_d81f00a8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲",
+   "why": "title union: course book + chapter (owner) + lecture title"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "contents title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "01 井字棋：介绍",
+   "why": "section divider: agenda slide with 01 highlighted, node = current entry"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "井字棋规则说明：",
+   "why": "own-line specific label heading the numbered rule list | breadcrumb round 3: now L3 under divider #9 (slide title #10 is a repeat of it)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "02 井字棋：符号流派的规则系统方案",
+   "why": "section divider: agenda slide with 02 highlighted starts: #20 (divider slide: reprinted 目录 label #20 comes before the highlighted entry #21 in reading order; it sat under the previous slide 井字棋 (#9's section))"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "井字棋：一个简单的规则方案（方案2）",
+   "why": "slide title under 02"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 4,
+   "parent": 22,
+   "text": "人是怎么下棋的",
+   "why": "bold boxed block title heading the picture and rule list; breadcrumb round 2: node text drops the printed □ bullet glyph (OCR \"口\")"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "井字棋：游戏规则的符号逻辑表征/建模",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 32,
+   "text": "井字棋规则说明:",
+   "why": "own-line specific label heading the numbered rule list"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "井字棋：方案2的符号逻辑表征/建模",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "○方，第n+1步时的策略：",
+   "why": "own-line specific label heading the strategy list with formulas; round 4: text restores the printed ○ (names the O player, not a bullet)"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "井字棋：更多的方案",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "方案3",
+   "why": "scheme label heading its own rule list"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "方案4",
+   "why": "scheme label heading its own rule list"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "方案5（课后作业）",
+   "why": "scheme label heading its own rule list"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "方案6",
+   "why": "scheme label heading its own rule list"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "井字棋：方案5实战",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 9,
+   "why": "breadcrumb round 3: slide title \"井字棋\" of the only slide of section 01 restates the divider entry \"01 井字棋：介绍\" and is not narrower -> repeat of the divider node; its 规则说明 block becomes a child of #9"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 8,
+   "why": "contents title reprinted on agenda divider"
+  },
+  {
+   "box": 20,
+   "why": "contents title reprinted on agenda divider"
+  },
+  {
+   "box": 29,
+   "why": "question prompt over a figure, no answer block of its own (callout)"
+  },
+  {
+   "box": 82,
+   "why": "contents title on the last agenda divider; nothing follows in the excerpt (substance)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 83,
+   "why": "last agenda divider (03 current) with nothing below it in the excerpt (substance)"
+  },
+  {
+   "box": 7,
+   "why": "TOC entries"
+  },
+  {
+   "box": 12,
+   "why": "figure caption (方案1)"
+  },
+  {
+   "box": 25,
+   "why": "lead-in sentence introducing a list"
+  },
+  {
+   "box": 50,
+   "why": "lead-in sentence introducing a list"
+  },
+  {
+   "box": 39,
+   "why": "callout"
+  },
+  {
+   "box": 31,
+   "why": "picture label"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 19,
+   "closes": 13,
+   "why": "the 井字棋规则说明 list ends; the agent diagram (棋盘状态/落子/输赢) is about the game as a whole (#9), not the rules"
+  },
+  {
+   "before": 29,
+   "closes": 23,
+   "why": "the 人是怎么下棋的 rules end; the prompt 如何让机器实现上述方案 with its figure and 人 vs 机器 is about the slide #22, not how humans play"
+  },
+  {
+   "before": 39,
+   "closes": 33,
+   "why": "the 井字棋规则说明 list ends; the callout and the symbolic model (Cell, TTT, 初态, 落子, 胜负判定) are the slide's main content (#32)"
+  },
+  {
+   "before": 79,
+   "closes": 72,
+   "why": "the 方案6 list ends; the agent diagram (符号推理/规则) is about all the schemes of slide #61"
+  },
+  {
+   "before": 82,
+   "closes": 21,
+   "why": "section 02 (agenda divider #21) ends: the last page reprints the agenda for 03 with nothing after it (text by substance); it is not about 02 or 方案5实战, it belongs to L1"
+  }
+ ]
+}

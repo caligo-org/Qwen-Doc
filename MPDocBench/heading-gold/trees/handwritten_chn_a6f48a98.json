@@ -1,0 +1,183 @@
+{
+ "doc": "handwritten_chn_a6f48a98",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "一.商品",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "二.商品的基本属性.$\\Rightarrow$ 使用价值和价值",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "三. 货币的产生的过程",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1) (printed 三 per sequence; box text kept) | text as printed: the page prints 三. (OCR read 二.); breadcrumb review"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 19,
+   "text": "(1) 物品交换的4个阶段",
+   "why": "round 5: restored, a break now closes it before the run-in sibling (2) 货币含义; own-line numbered title with its own block (the four exchange stages #22-#23), one level below 二. 货币的产生的过程"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "四. 纸币.",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 44,
+   "text": "1. 含义：",
+   "why": "numbered title 1. 含义： own line over (1)/(2)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 45,
+   "text": "(1)国家(或某些地区)发行的",
+   "why": "own-line (1) title over its ①②③ list"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 45,
+   "text": "(2)强制使用的",
+   "why": "own-line (2) title over its line"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 44,
+   "text": "4. 纸币的发行规律.",
+   "why": "numbered title 4 over formulas + table"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "二. 价格 \\( \\rightarrow \\) 前因后果.",
+   "why": "top topic: Chinese-numbered topic of untitled study notes (several L1); numbering restarts (二. 价格) with a new topic: new L1, not a child of 四; round 2: the curve sheet and the last sheet sit directly under it (curve titles are chart titles: text)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 107,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 109,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 113,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 117,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 119,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 121,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 123,
+   "why": "round 2: curve title 1.-7. is a chart title over its own drawn graph (NOTATIONS: chart titles/figure labels are text); as headings 7. 平衡价格 also failed containment (the income/consumption lines on the last sheet fell into its subtree): whole series text"
+  },
+  {
+   "box": 54,
+   "why": "final path check: 2. 纸币的职能：… is a one-line numbered statement with nothing below it until 4. (substance beats containment): text; a break before it closes 1. 含义"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "run-in 1. 含义：… statement"
+  },
+  {
+   "box": 24,
+   "why": "run-in (2) 货币含义：…"
+  },
+  {
+   "box": 25,
+   "why": "run-in (3) 本质"
+  },
+  {
+   "box": 26,
+   "why": "run-in (4) 货币职能"
+  },
+  {
+   "box": 98,
+   "why": "label 公式. before formulas"
+  },
+  {
+   "box": 1,
+   "why": "notebook No./Date header"
+  },
+  {
+   "box": 17,
+   "why": "platform watermark footer"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 21,
+   "why": "round 5: (2) 货币含义 is a run-in sibling; it and the rest of the money section are not about the four exchange stages"
+  },
+  {
+   "before": 67,
+   "closes": 44,
+   "why": "round 5: 外汇/汇率 lines (exchange rate and its effects) are not about 纸币 or its issuing law; the notes print no heading for them"
+  },
+  {
+   "before": 127,
+   "closes": 75,
+   "why": "round 5: income/consumption lines on the last sheet are not about 价格; the notes print no heading for them"
+  },
+  {
+   "before": 54,
+   "closes": 45,
+   "why": "final path check: 2. 纸币的职能 (text) is not about 1. 含义 or its (2) 强制使用的; it belongs to 四. 纸币"
+  }
+ ]
+}

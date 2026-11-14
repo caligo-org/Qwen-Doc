@@ -1,0 +1,195 @@
+{
+ "doc": "financialReport_chn_07ebf5d6",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "目 录",
+   "why": "front matter: contents title at top-section level; excerpt prints no title (L1 role not printed)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "审计报告",
+   "why": "section: auditor's report, top section of the excerpt (TOC 一、审计报告)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "一、审计意见",
+   "why": "section: 一、 numbered part of the audit report"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（一）收入确认",
+   "why": "section: key audit matter, （一） below 一、"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 5,
+   "parent": 23,
+   "text": "1. 事项描述",
+   "why": "section: numbered own-line label with own block"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 5,
+   "parent": 23,
+   "text": "2.审计应对",
+   "why": "section: numbered own-line label with own block"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（二）长期资产减值",
+   "why": "section: key audit matter"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 5,
+   "parent": 42,
+   "text": "1. 事项描述",
+   "why": "section: repeated label with own block"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 5,
+   "parent": 42,
+   "text": "2.审计应对",
+   "why": "section: repeated label with own block"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（三）商誉减值",
+   "why": "section: key audit matter"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 5,
+   "parent": 60,
+   "text": "1. 事项描述",
+   "why": "section: repeated label with own block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 5,
+   "parent": 60,
+   "text": "2.审计应对",
+   "why": "section: repeated label with own block"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "四、其他信息",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "合并资产负债表",
+   "why": "section: statement title over its table; TOC group 二、财务报表 not printed in body, so beside 审计报告"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 9,
+   "why": "report number under the title, text"
+  },
+  {
+   "box": 10,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 94,
+   "why": "（一） list item inside paragraph flow, no own block"
+  },
+  {
+   "box": 6,
+   "why": "auditor letterhead logo, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 107,
+   "closes": 87,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
+ ]
+}

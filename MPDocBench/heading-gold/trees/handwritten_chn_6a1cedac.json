@@ -1,0 +1,168 @@
+{
+ "doc": "handwritten_chn_6a1cedac",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "实验项目 显微镜油镜的使用及保护,细菌形态结构观察,革兰染色",
+   "why": "title: 实验项目 field + the lab report subject, names the document"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、油镜使用维护",
+   "why": "section: numbered part 一 over its paragraph"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、形态观察",
+   "why": "section: numbered part 二"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "1. 内容",
+   "why": "section: own-line numbered title 1. 内容 over (1)/(2)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "(1) 细菌的基本形态现象",
+   "why": "subsection: own-line (1) title over its list"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 4,
+   "parent": 8,
+   "text": "(2)细菌的特殊结构观察",
+   "why": "subsection: own-line (2) title over its line"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "2. 结果",
+   "why": "section: own-line 2. 结果 over the drawings"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "3. 思考题",
+   "why": "section: own-line 3. 思考题 over the questions + answers"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、革兰染色",
+   "why": "section: numbered part 三 | round 4: page prints 革兰 (OCR box reads 草兰)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "4. 思考题",
+   "why": "section: own-line 4. 思考题 over questions + answers (same look as 3. 思考题)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: the form 实验项目 field restating the lab subject at the top of sheet 2 (running head of the document)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "contents list 实验内容：一、… (list of parts): text"
+  },
+  {
+   "box": 3,
+   "why": "contents list item"
+  },
+  {
+   "box": 4,
+   "why": "contents list item"
+  },
+  {
+   "box": 30,
+   "why": "study question with a one-line answer: text (answers not much more than the question)"
+  },
+  {
+   "box": 32,
+   "why": "study question"
+  },
+  {
+   "box": 35,
+   "why": "study question with inline answer"
+  },
+  {
+   "box": 36,
+   "why": "study question"
+  },
+  {
+   "box": 48,
+   "why": "study question"
+  },
+  {
+   "box": 51,
+   "why": "study question"
+  },
+  {
+   "box": 53,
+   "why": "study question"
+  },
+  {
+   "box": 41,
+   "why": "run-in lead-in 1. 原理： starting a prose paragraph: text"
+  },
+  {
+   "box": 43,
+   "why": "run-in lead-in 2. 操作："
+  },
+  {
+   "box": 46,
+   "why": "run-in one-line 3. 结果："
+  },
+  {
+   "box": 44,
+   "why": "empty form field 实验项目 on sheet 4: text"
+  },
+  {
+   "box": 34,
+   "why": "form footer date field"
+  }
+ ]
+}

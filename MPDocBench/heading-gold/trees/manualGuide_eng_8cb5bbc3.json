@@ -1,0 +1,157 @@
+{
+ "doc": "manualGuide_eng_8cb5bbc3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Electrolux air-o-convect Touchline Electric Convection Oven 6GN 1/1",
+   "why": "title union: owner logo header box #2 (Electrolux) + product name of the spec sheet (no document type printed). User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: air-o-convect Touchline Electric Convection Oven 6GN 1/1)."
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Short Form Specification",
+   "why": "section: grey band head"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Main Features",
+   "why": "section: bold head with its feature list"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Construction",
+   "why": "section: bold head"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Optional Accessories",
+   "why": "section: bold head over the accessories list"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Electric",
+   "why": "section: grey band spec head (same role as the page-1 sections)"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Water:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Installation:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Capacity:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Key Information:",
+   "why": "section: grey band spec head"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Optional Accessories",
+   "why": "continuation: Optional Accessories resumes on p3 after the p2 spec sections",
+   "continues": 41
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    44
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 2,
+   "why": "repeat: product name printed again in the page header / side band"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "page-1 header band with the product name, before the title in reading order: text"
+  },
+  {
+   "box": 16,
+   "why": "form field APPROVAL: text"
+  },
+  {
+   "box": 12,
+   "why": "form field Item No.: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 16,
+   "closes": 11,
+   "why": "the short-form specification text ends; the APPROVAL: sign-off field at the foot of the panel is a form field of the whole sheet"
+  },
+  {
+   "before": 49,
+   "closes": 41,
+   "why": "the page-1 accessories list ends; the front/top/side dimension drawing at the top of page 2 is about the oven, not accessories (no heading printed above it)"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "doc": "magazine_chn_3b0b9920",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "知音 海外版",
+   "why": "title: periodical masthead 知音 ∪ its edition logo 海外版 (box #3, printed as part of the masthead; same masthead as magazine_chn_5997ac40 where one box holds both); edition = what document"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一滴墨香",
+   "why": "section: running section tag 一滴墨香 (vertical), poem page starts: #40 (the vertical running head on the poem page, first box of p3); the column tag #45 comes after its own poem #41-#44 in reading order"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 45,
+   "text": "惊异",
+   "why": "story: poem title, poem below (containment)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "目录 CONTENTS",
+   "why": "contents title (front matter at section level)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "大千世界",
+   "why": "section: running section tag 大千世界 starts a section; node text = section name 大千世界 only: the edition prefix 海外版 | printed in the tag repeats the L1 masthead (知音 海外版) and the contents lists the section as 大千世界"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 3,
+   "parent": 74,
+   "text": "给牛涂上班马条纹，研究能不能骗过蚊虫！日本科学家获搞笑诺贝尔奖",
+   "why": "story headline: describes the story below starts: #75 (the story photo printed above the headline)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 74,
+   "text": "这种圆鼓鼓的小鸟，是世界最萌小鸟之一，它们有着独特的社会行为",
+   "why": "story headline: describes the story below"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "百科&生活",
+   "why": "section: banner of the briefs section 百科&生活 (TOC lists it as its own section); 【...】 items are run-in labels"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "张朝阳商界登顶再搏浪，人生下半场更热血",
+   "why": "consistency: story headline, L3 directly under the masthead: its section 特别主题创意 is printed only on the contents page, not on the story page (NOTATIONS levels rule 5, like magazine_chn_6d102faf #8); the 百科&生活 briefs section closes at the break before #120 | reverted to the section slot (L2): an L3 story after an earlier L2 section cannot be written as Markdown levels"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 122,
+   "text": "吃生蚝“报仇”",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 122,
+   "text": "我是中国互联网第一代创业者",
+   "why": "in-story subhead with its block (consistency: shifted with its story to L4)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    46
+   ],
+   "of": 1,
+   "why": "repeat: masthead (BOSOM FRIEND) restated over the colophon/contents page"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "of": 1,
+   "why": "repeat: vertical running header naming the magazine (知音海外版)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 18,
+   "why": "ad page (header 广告): subscription ad headline"
+  },
+  {
+   "box": 24,
+   "why": "ad page: label inside the subscription ad"
+  },
+  {
+   "box": 31,
+   "why": "ad page: promotion slogan"
+  },
+  {
+   "box": 58,
+   "why": "house-ad logo above QR codes in the colophon column"
+  },
+  {
+   "box": 63,
+   "why": "colophon-column notice box (copyright statement): colophon text"
+  },
+  {
+   "box": 67,
+   "why": "colophon-column recruiting notice: ad/colophon text"
+  },
+  {
+   "box": 72,
+   "why": "colophon-column bank-account box: contact box"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 46,
+   "closes": 45,
+   "why": "poem page ends; the restated masthead, colophon and contents list column that follow are not about the 一滴墨香 column"
+  },
+  {
+   "before": 58,
+   "closes": 56,
+   "why": "contents list ends; house-ad QR box and colophon-column notices follow (not contents)"
+  }
+ ]
+}

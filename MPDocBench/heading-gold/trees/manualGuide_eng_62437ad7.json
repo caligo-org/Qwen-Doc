@@ -1,0 +1,378 @@
+{
+ "doc": "manualGuide_eng_62437ad7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "GARMIN® ECHOMAP™ UHD INSTALLATION INSTRUCTIONS",
+   "why": "title union: owner logo box #1 (GARMIN) + product + document type. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: ECHOMAP™ UHD INSTALLATION INSTRUCTIONS)."
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Important Safety Information",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ECHOMAP UHD 6x Connector View",
+   "why": "subsection: bold black head over the connector figure and table; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ECHOMAP UHD 7x/9x Connector View",
+   "why": "subsection: bold black head; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Software Update",
+   "why": "subsection: bold black head with its own paragraph; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Tools Needed",
+   "why": "subsection: bold black head with its tool list; breadcrumb review r2: not about safety: the warnings block ends at the NOTICE band and this topic is a top-level part of the instructions (containment; content beats look), so L2 beside the blue heads"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Mounting Considerations",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Bail Mounting a Device with a Swivel Base",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Fixed-Bail Mounting the Device",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Flush Mounting the Device",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Connection Considerations",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Cables to the ECHOMAP UHD 6x Cradle",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Cables to the ECHOMAP UHD 7x/9x Cradle",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Power and Data Cable",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 4,
+   "parent": 124,
+   "text": "Connecting to Power",
+   "why": "sub-subsection: bold italic head under the power cable section"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting the Device to a Transducer",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Connecting to a Garmin Device to Share User Data",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    157
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "Installing the Ferrite Bead on the Transducer Cable",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 3,
+   "parent": 108,
+   "text": "NMEA 2000 Considerations",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    171
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Installing the Device in the Cradle",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 3,
+   "parent": 171,
+   "text": "Removing the Device from the Cradle",
+   "why": "subsection: bold black head"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Specifications",
+   "why": "section: blue head"
+  },
+  {
+   "boxes": [
+    184
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "All Models",
+   "why": "subsection: table head"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "6x Models",
+   "why": "subsection: table head"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "7x Models",
+   "why": "subsection: table head"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "9x Models",
+   "why": "subsection: table head"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "NMEA 2000 PGN Information",
+   "why": "subsection: bold head over the PGN tables"
+  },
+  {
+   "boxes": [
+    196
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Transmit and Receive",
+   "why": "label heading: table label with its own table (v3: repeated labels with their own block are headings)"
+  },
+  {
+   "boxes": [
+    198
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Transmit",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    200
+   ],
+   "level": 4,
+   "parent": 195,
+   "text": "Receive",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 3,
+   "parent": 183,
+   "text": "NMEA 0183 Information",
+   "why": "subsection: bold head over the sentence tables"
+  },
+  {
+   "boxes": [
+    206
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "Transmit",
+   "why": "label heading: table label with its own table"
+  },
+  {
+   "boxes": [
+    208
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "Receive",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    212
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "物質宣言",
+   "why": "subsection: declaration table head; breadcrumb review r2: Chinese substance declaration is regulatory back matter, not a specification topic: L2 beside the sections (front/back matter at top-section level)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "callout: WARNING band"
+  },
+  {
+   "box": 11,
+   "why": "callout: CAUTION band"
+  },
+  {
+   "box": 15,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 22,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 27,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 56,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 69,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 80,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 134,
+   "why": "callout: WARNING band"
+  },
+  {
+   "box": 162,
+   "why": "callout: NOTICE band"
+  },
+  {
+   "box": 177,
+   "why": "callout: NOTICE band"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 204,
+   "closes": 200,
+   "why": "the Receive PGN table ends; 'This data applies only to NMEA 2000-compatible products.' is about all three PGN label tables (belongs to NMEA 2000 PGN Information)"
+  },
+  {
+   "before": 211,
+   "closes": 208,
+   "why": "the NMEA 0183 Receive table ends; the paragraph on purchasing full NMEA format information is about the whole NMEA 0183 section, not the Receive label"
+  },
+  {
+   "before": 220,
+   "closes": 212,
+   "why": "the substance declaration ends; the copyright and trademark notices are about the whole document"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "doc": "textBook_chn_6c84840b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "地理 必修 第一册",
+   "why": "title union: subject + course/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第一章 宇宙中的地球",
+   "why": "chapter label + title (one box)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "第一节 地球的宇宙环境",
+   "why": "section 第一节 + title (one box)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "地球在宇宙中的位置",
+   "why": "coloured subsection heading: describes the block below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 36,
+   "why": "repeat: running foot naming the open chapter"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

@@ -1,0 +1,135 @@
+{
+ "doc": "annualReport_chn_baa53c78",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "温州宏丰电工合金股份有限公司 2019年年度报告",
+   "why": "title union: owner + document type (address and logo printed between them stay text)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "1、原材料价格波动引致的存货跌价风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "2、市场与行业风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "3、客户集中的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "4、技术泄密和核心技术人员流失的风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "5、疫情冲击风险",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "cover address line"
+  },
+  {
+   "box": 5,
+   "why": "cover field"
+  },
+  {
+   "box": 6,
+   "why": "cover field"
+  },
+  {
+   "box": 7,
+   "why": "cover date line"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 36,
+   "closes": 33,
+   "why": "round 5: the 利润分配预案 paragraph after the last risk item is not about 5、疫情冲击风险; it belongs to 第一节"
+  }
+ ]
+}

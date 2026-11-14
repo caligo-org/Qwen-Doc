@@ -1,0 +1,32 @@
+doc	kind	box	closes	page	note
+pptSlides_chn_0616b8b7	NONE				all 9 pages viewed as images with show.py --tree: 定义 L4 block runs to the next slide title; cover lines and slide content stay under their slides
+pptSlides_chn_23e6f440	BREAK	97	95	7	the 滨海湿地 box (#96) ends; the free paragraph about 蚂蚁森林 as 绿色基建 (lead-in to the 沙棘 box) is not about 滨海湿地, it belongs to the slide title #75
+pptSlides_chn_23e6f440	BREAK	129	107	8	the 绿色低碳倡导场景 icon-grid panel ends; the stats column (users, green energy, 636 partners) is about the whole section #104
+pptSlides_chn_23e6f440	RESTORED	91		7	L4 联合国《生物多样性公约》第十五次缔约方大会，向全球展示中国企业的ESG绿色理念: round 5: restored, a break now closes it: pill box title over the COP15 story (#92-#94), L4 under the slide title #75 like #98; #95 (restored) closes it
+pptSlides_chn_23e6f440	RESTORED	95		7	L4 探索滨海湿地生态修复: round 5: restored, a break now closes it: pill box title over the 滨海湿地 story (#96); the break before #97 closes it
+pptSlides_chn_39aa7ee1	NONE				all 8 pages viewed as images with show.py --tree: each slide's content is about its title; example figure labels are text under 两个光电式检测例子
+pptSlides_chn_60917576	NONE				all 5 pages viewed as images with show.py --tree: ➢ labels each end with their own equation; 回顾 repeat slide continues 回顾
+pptSlides_chn_746216ac	BREAK	26	25	3	PEST quadrant 技术 ends; the diagram centre slogan is about the whole PEST headline #17, not 技术
+pptSlides_chn_7c522d1e	NONE				all 9 pages viewed as images with show.py --tree: untitled slide p8 continues DFT的引出; DFS: block runs to the end
+pptSlides_chn_b0123c13	NONE				all 5 pages viewed as images with show.py --tree: untitled p4 continues 1、红外辐射; 大气窗口 labels are its diagram
+pptSlides_chn_b30fedce	BREAK	13	9	2	the 趋势调研 box ends; the four category pictures beside it belong to the 前言 slide #7
+pptSlides_chn_ca2c7356	BREAK	42	38	5	the 取虚部则为正弦信号 label's equation ends; the next slide repeats the slide title and shows other content (波形, figure), which belongs to #34
+pptSlides_chn_d81f00a8	BREAK	19	13	4	the 井字棋规则说明 list ends; the agent diagram (棋盘状态/落子/输赢) is about the game as a whole (#9), not the rules
+pptSlides_chn_d81f00a8	BREAK	29	23	6	the 人是怎么下棋的 rules end; the prompt 如何让机器实现上述方案 with its figure and 人 vs 机器 is about the slide #22, not how humans play
+pptSlides_chn_d81f00a8	BREAK	39	33	7	the 井字棋规则说明 list ends; the callout and the symbolic model (Cell, TTT, 初态, 落子, 胜负判定) are the slide's main content (#32)
+pptSlides_chn_d81f00a8	BREAK	79	72	9	the 方案6 list ends; the agent diagram (符号推理/规则) is about all the schemes of slide #61
+pptSlides_chn_d81f00a8	BREAK	82	21	11	section 02 (agenda divider #21) ends: the last page reprints the agenda for 03 with nothing after it (text by substance); it is not about 02 or 方案5实战, it belongs to L1
+pptSlides_chn_eba02de5	NONE				all 6 pages viewed as images with show.py --tree: 赛道说明 children end at page end; KPI panels and charts are about each slide headline
+pptSlides_eng_1e8e2f71	NONE				all 3 pages viewed as images with show.py --tree: objectives list belongs to its slide title
+pptSlides_eng_24541ef2	BREAK	64	59	12	the Key points list ends; the next slide repeats the title Guard hypothesis and shows figures, which belong to #58
+pptSlides_eng_26f4ebca	NONE				all 12 pages viewed as images with show.py --tree: Definition/Which means?/Example blocks and the p12 column boxes each end at the next label or slide
+pptSlides_eng_312b78ba	BREAK	10	7	2	the Company Background bullets end; the embedded data panels (QUICK STATS, rankings, charts, net debt, ratings) are figures of the slide #6
+pptSlides_eng_312b78ba	BREAK	123	121	9	the Organization box ends; the SWOT centre labels (Strengths/Weaknesses/Opportunities/Threats) are about the whole SWOT #114
+pptSlides_eng_312b78ba	BREAK	175	173	12	the ACTIVE COSMETICS list ends; THE BODY SHOP picture and label (text by substance) are another division, under #161
+pptSlides_eng_52c9fd59	NONE				all 4 pages viewed as images with show.py --tree: p2 under the repeated deck title; history slide p4 continues
+pptSlides_eng_5bb58cde	NONE				all 8 pages viewed as images with show.py --tree: every slide's content is about its title; no labelled blocks
+pptSlides_eng_6d3fdf72	NONE				all 4 pages viewed as images with show.py --tree: slide content and pictures are about each slide title
+pptSlides_eng_82a06813	BREAK	71	56	7	the Storyboard Template slide ends; the last page's divider-like title (text by substance, nothing after it) is not about the storyboard canvas, it belongs to L1
+pptSlides_eng_a04b6aef	BREAK	16	13	3	the Motor output bullets end; the anatomy figure (CNS/PNS) and the next slide's sensory-integration-motor diagram are about the functions slide #6 as a whole
+pptSlides_eng_bd47b74b	NONE				all 4 pages viewed as images with show.py --tree: Skills word cloud is part of WHO AM I; quote under its slide
+pptSlides_eng_f280f799	NONE				all 9 pages viewed as images with show.py --tree: ALSO FROM 2015 stat panels extend the chart slide before them (round 3); no labelled blocks

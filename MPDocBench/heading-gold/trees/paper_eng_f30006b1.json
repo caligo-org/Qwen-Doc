@@ -1,0 +1,111 @@
+{
+ "doc": "paper_eng_f30006b1",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Deconstructing the Census Bureau's Retail Trade E-Commerce Figures",
+   "why": "title: paper title (subtitle + authors line below is text; Industry Insights series masthead is text)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Lessons Learned",
+   "why": "front matter: titled summary box (Lessons Learned) at top-section level"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Introduction",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Where Can Users Find Census Bureau E-Commerce Data?",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "What E-Commerce Data Does the Census Report?",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Moving Towards a More Transparent E-Commerce Number",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Convergence: The Omni-Channel Exemption",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "So Where Does That Leave Us?",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Appendix: In Focus: Unpacking Amazon's Sales",
+   "why": "back matter: appendix at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 5,
+   "why": "subtitle (deck) + authors under the title: text"
+  },
+  {
+   "box": 23,
+   "why": "run-in \"Abstract:\" starting the abstract paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 23,
+   "closes": 6,
+   "why": "round 5: the Lessons Learned box ends; the run-in \"Abstract:\" paragraph (considered text) follows, not about Lessons Learned (belongs to the paper)"
+  },
+  {
+   "before": 185,
+   "closes": 179,
+   "why": "round 5: the last section's text ends; the author biographies follow, not about \"So Where Does That Leave Us?\" (belong to the paper)"
+  }
+ ]
+}

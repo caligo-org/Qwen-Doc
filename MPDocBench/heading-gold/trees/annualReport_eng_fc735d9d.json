@@ -1,0 +1,50 @@
+{
+ "doc": "annualReport_eng_fc735d9d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Fonterra Annual Report 2024 Pūrongo-ā-tau Te Māṭāpuna",
+   "why": "title: document type + its translation printed with it (one box); owner only as logo (text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Fonterra) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "About this report",
+   "why": "top section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "contents title at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "logo slogan"
+  },
+  {
+   "box": 15,
+   "why": "photo credit footer"
+  },
+  {
+   "box": 19,
+   "why": "photo credit footer"
+  }
+ ]
+}

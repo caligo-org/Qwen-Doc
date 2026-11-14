@@ -1,0 +1,27 @@
+{
+ "doc": "goverment_eng_04fdb344",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    14
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "SOUTH AFRICA/RWANDA: SAG RULES OUT PARTICIPATION IN RWANDAN PEACEKEEPING",
+   "why": "round 3 (NOTATIONS \"Every path is a breadcrumb\"): the cable prints no title line; its subject is printed only in the E.O./TAGS/SUBJECT header box, so L1 uses that box and its text is only the SUBJECT part"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 10,
+   "why": "classification + cable number line: header field, text"
+  },
+  {
+   "box": 5,
+   "why": "RELEASED IN PART stamp: declassification marking, text"
+  }
+ ]
+}

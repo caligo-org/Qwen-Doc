@@ -1,0 +1,145 @@
+{
+ "doc": "pptSlides_chn_60917576",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "信号分析与处理 第二章 连续信号的分析",
+   "why": "title union: course name (owner) + chapter title (which lecture)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "回顾",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "非周期信号的频谱分析",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "常用非周期信号的傅立叶变换",
+   "why": "arrow-marked block title heading the list of transforms"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "矩形脉冲信号（门函数）",
+   "why": "own-line label with its own equation block"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "单位冲激信号",
+   "why": "own-line label with its own equation block"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 4,
+   "parent": 39,
+   "text": "单位阶跃信号",
+   "why": "own-line label with its own equation block"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "常用周期信号的傅立叶变换",
+   "why": "arrow-marked block title heading the list of transforms"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "复指数信号",
+   "why": "own-line label with its own equation block"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "正弦信号",
+   "why": "own-line label with its own equation block"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "一般周期信号",
+   "why": "own-line label with its own equation block"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    25
+   ],
+   "of": 9,
+   "why": "same slide title on the next slide, nothing in between"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "of": 37,
+   "why": "same slide title on the next slide, nothing in between"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "cover: institution"
+  },
+  {
+   "box": 5,
+   "why": "cover: lecturer"
+  },
+  {
+   "box": 13,
+   "why": "diagram label over an arrow"
+  },
+  {
+   "box": 18,
+   "why": "diagram label over an arrow"
+  },
+  {
+   "box": 29,
+   "why": "diagram label over an arrow"
+  }
+ ]
+}

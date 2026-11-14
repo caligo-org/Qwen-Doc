@@ -1,0 +1,74 @@
+{
+ "doc": "book_eng_4ba599d0",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "SIDE JOBS",
+   "why": "title: book title on the cover; author, subtitle and blurbs are text"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "ALSO BY JIM BUTCHER",
+   "why": "front matter: 'Also by' page title with its list below"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "THE DRESDEN FILES",
+   "why": "label with its own block: series name heading its list of titles"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "THE CODEX ALERA",
+   "why": "label with its own block: series name heading its list of titles"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    16
+   ],
+   "of": 5,
+   "why": "repeat: title page restates the book title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "cover author name (creator, not part of the title)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 10,
+   "why": "title page (author, restated title, imprint) follows the 'Also by' series lists; closes the Also-by page"
+  }
+ ]
+}

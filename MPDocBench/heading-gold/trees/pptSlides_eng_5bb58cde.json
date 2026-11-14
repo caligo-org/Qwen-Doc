@@ -1,0 +1,99 @@
+{
+ "doc": "pptSlides_eng_5bb58cde",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "OpenStack Architecture",
+   "why": "deck title"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Provision a VM Request Flow",
+   "why": "section divider: section name under the reprinted deck title"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "VM Provisioning",
+   "why": "slide title under the divider"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Initial State",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Step 1: Request Provisioning - From UI",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "The OpenStack Dashboard (Horizon)",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Horizon",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 10,
+   "text": "Step 1: Request VM Provisioning via UI/CLI",
+   "why": "slide title; breadcrumb round 2: Step 1 resumed after the two Horizon slides came in between -> continuation of #37 (continues)",
+   "continues": 37
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9
+   ],
+   "of": 2,
+   "why": "deck title reprinted on the divider slide"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 5,
+   "why": "presenter block"
+  },
+  {
+   "box": 7,
+   "why": "release line"
+  }
+ ]
+}

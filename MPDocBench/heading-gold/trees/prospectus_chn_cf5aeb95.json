@@ -1,0 +1,322 @@
+{
+ "doc": "prospectus_chn_cf5aeb95",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "宿迁联盛科技股份有限公司 首次公开发行股票招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "重大事项提示",
+   "why": "front matter section 重大事项提示 with numbered sections"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "一、本次发行前股东所持股份的流通限制及股东对所持股份自愿锁定的承诺",
+   "why": "section 一、 with its （一） subsections"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（一）实际控制人项瞻波、王小红夫妇及控股股东联拓控股承诺",
+   "why": "（一） bold own-line subsection with its numbered commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（二）实际控制人项瞻波、王小红的亲属王宝光、项有智、王秀云、王桂芬、王莲钗、张作晓、王奕仁、王馨禾、王红专、王侃、吴丽芬、项光华、项怀獬、项小霞、孙作席及联宏合伙承诺",
+   "why": "（二） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（三）持股 5%以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺",
+   "why": "（三） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（四）最近一年新增股东国发新兴二期、高投毅达、招商招银、永达资产、中银资本、方源创盈、国发盈辰、国发盈嘉承诺",
+   "why": "（四） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（五）间接持有公司股份的董事、高级管理人员林俊义、缪克汤、项有和、李利、谢龙锐承诺",
+   "why": "（五） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（六）间接持有公司股份的监事梁小龙、陈瑾琨承诺",
+   "why": "（六） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 4,
+   "parent": 29,
+   "text": "（七）其他股东联恒合伙、联拓合伙、联发合伙、王永昌承诺",
+   "why": "（七） bold own-line subsection with its commitments (tagged text_block)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "二、发行前持股 5% 以上股东的持股意向及减持意向",
+   "why": "section 二、 with its （一） subsections; text: page prints \"5%\" (LaTeX escape removed, round 4)"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "（一）实际控制人项瞻波、王小红夫妇、控股股东联拓控股、持股 5% 以上股东王宝光承诺",
+   "why": "（一） subsection with its paragraphs; text: page prints \"5%\" (LaTeX escape removed, round 4)"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 4,
+   "parent": 74,
+   "text": "（二）持股 5% 以上股东及其关联方方源智合、方源创盈、沿海投资、邦盛聚源、新工邦盛承诺",
+   "why": "（二） subsection with its paragraphs"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 27,
+   "text": "三、发行人及其控股股东及实际控制人、发行人董事及高级管理人员关于稳定公司股价的预案及承诺",
+   "why": "section 三、 with its （一） subsections"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 4,
+   "parent": 85,
+   "text": "（一）启动股价稳定措施的具体条件",
+   "why": "（一） subsection with its paragraph"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 4,
+   "parent": 85,
+   "text": "（二）稳定股价的具体措施和程序",
+   "why": "（二） subsection with its paragraph and list"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 4,
+   "parent": 85,
+   "text": "（三）股价稳定措施的具体实施方案",
+   "why": "（三） subsection with its 1、 sub-subsections"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 5,
+   "parent": 98,
+   "text": "1、公司实施股票回购",
+   "why": "1、 bold own-line label with its paragraphs"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 5,
+   "parent": 98,
+   "text": "2、控股股东、实际控制人增持公司股份",
+   "why": "2、 bold own-line label with its paragraphs"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 5,
+   "parent": 98,
+   "text": "3、公司非独立董事、高级管理人员增持公司股份",
+   "why": "3、 bold own-line label with its paragraphs"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 4,
+   "parent": 85,
+   "text": "（四）发行人、控股股东、实际控制人、董事及高级管理人员关于稳定股价的承诺",
+   "why": "（四） subsection with its paragraphs"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    15,
+    16
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    25,
+    26
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    36,
+    37
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    45,
+    46
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    57,
+    58
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    66,
+    67
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    79,
+    80
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    92,
+    93
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    108,
+    109
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    119,
+    120
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
+  },
+  {
+   "box": 129,
+   "why": "4、 bold rule sentence with no block of its own before （四） (substance): text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 129,
+   "closes": 116,
+   "why": "round 5: rule 4、 (one-line item, text by substance) is about the whole 股价稳定措施的具体实施方案, not about 3、公司非独立董事、高级管理人员增持公司股份; it belongs to （三）"
+  }
+ ]
+}

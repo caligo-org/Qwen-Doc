@@ -1,0 +1,373 @@
+{
+ "doc": "book_eng_ab95f5db",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Introduction to Data Analysis Handbook",
+   "why": "title: handbook title; issuing center printed as an imprint at the bottom of the cover is text"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "AED's Migrant and Seasonal Head Start Technical Assistance Center (TAC-12)",
+   "why": "front matter: inside-cover box titled with the organization, its mission statement below"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "MISSION STATEMENT",
+   "why": "label with its own block: mission statement paragraph"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "AED's Center for Early Care and Education",
+   "why": "front matter: inside-cover box titled with the organization"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "MISSION STATEMENT",
+   "why": "label with its own block: mission statement paragraph"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Acknowledgments",
+   "why": "front matter: acknowledgments"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "I. Introduction",
+   "why": "part I"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 18,
+   "text": "Introduction to the Handbook",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 4,
+   "parent": 19,
+   "text": "Learning Objectives",
+   "why": "purple subhead with its own block"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 19,
+   "text": "Guiding Principles for Approaching Data Analysis",
+   "why": "purple subhead with its own block"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 18,
+   "text": "What This Handbook Does NOT Do",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 18,
+   "text": "Why Do We Need Data Analysis?",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 4,
+   "parent": 48,
+   "text": "From the Head Start Bureau website (October 4, 2005):",
+   "why": "source-excerpt label with the quoted block below, one level below its section"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 48,
+   "text": "From Information Memorandum ACYF-IM-HS-05-08 (10/04/05):",
+   "why": "second source-excerpt label, same style as #55"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 5,
+   "parent": 57,
+   "text": "Changes to the PRISM Process",
+   "why": "title of the quoted memorandum section, inside the excerpt"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "II. Ways of Thinking About Data",
+   "why": "part II"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "Data is...",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 4,
+   "parent": 68,
+   "text": "Why the Soliloquy? Types of Data",
+   "why": "purple subhead"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "Qualitative data",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 90,
+   "text": "Sample Qualitative Data: Transcript from Parent Interview",
+   "why": "purple subhead heading the transcript sample"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "(Family One - husband)",
+   "why": "speaker label with its own answer block (transcript), one level below the sample heading"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "(Family One - wife)",
+   "why": "speaker label with its own answer block"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "(Family One - husband)",
+   "why": "speaker label with its own answer block"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "(Family One-wife)",
+   "why": "speaker label with its own answer block"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 5,
+   "parent": 92,
+   "text": "(Family One-husband)",
+   "why": "speaker label with its own answer block"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "Quantitative data",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 106,
+   "text": "Sample Quantitative Data from PIR",
+   "why": "purple subhead heading the sample data"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 4,
+   "parent": 106,
+   "text": "Contrasting Types of Data in Head Start",
+   "why": "purple subhead heading the comparison table"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "Data Strategies",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Visualizing the Data",
+   "why": "box title: strategy box (Strategy: name) with its Involves/Reason lines"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Exploratory Analyses",
+   "why": "box title: strategy box"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Trend Analysis",
+   "why": "box title: strategy box"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Strategy: Estimation",
+   "why": "box title: strategy box"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Visualizing Data",
+   "why": "purple subhead"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Exploratory Analysis",
+   "why": "purple subhead"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Trend Analysis",
+   "why": "purple subhead"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 116,
+   "text": "Estimation",
+   "why": "purple subhead"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "III. Conceptualizing Data Analysis as a Process",
+   "why": "part III"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "The \"Problem\" with Data Analysis",
+   "why": "section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "issuing center imprint on the cover"
+  },
+  {
+   "box": 109,
+   "why": "table title inside the sample (caption)"
+  },
+  {
+   "box": 143,
+   "why": "chart title (caption)"
+  }
+ ]
+}

@@ -1,0 +1,662 @@
+{
+ "doc": "annualReport_chn_b20666fd",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "扬州晨化新材料股份有限公司 2019 年年度报告",
+   "why": "title union: owner + document type in one cover block; starts: the document number 2020-021 (#3) is printed below the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节 (gold left it unrelated; re-rooted under the title)"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 9,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title); printed as the definitions table caption"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节 (gold had it at L1; the cover title is L1)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "一、公司信息",
+   "why": "一、 level (table caption style)"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "四、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "五、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "六、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item, outline heading (不适用 + statement below)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 62,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 32,
+   "text": "八、非经常性损益项目及金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第三节公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 3,
+   "parent": 83,
+   "text": "一、报告期内公司从事的主要业务",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 4,
+   "parent": 84,
+   "text": "（一）报告期内公司所从事的主要业务",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 5,
+   "parent": 85,
+   "text": "1、采购模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 5,
+   "parent": 85,
+   "text": "2、生产模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 5,
+   "parent": 85,
+   "text": "3、销售模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 4,
+   "parent": 84,
+   "text": "（二）报告期内公司所属行业的发展阶段、周期性特点以及公司所处的行业地位",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 83,
+   "text": "二、主要资产重大变化情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "1、主要资产重大变化情况",
+   "why": "1、 numbered item under 二、 (printed as its table caption; numbering makes it outline)"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 4,
+   "parent": 107,
+   "text": "2、主要境外资产情况",
+   "why": "1、 level (不适用 below)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 3,
+   "parent": 83,
+   "text": "三、核心竞争力分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 4,
+   "parent": 112,
+   "text": "1、客户资源优势",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 4,
+   "parent": 112,
+   "text": "2、技术领先优势",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 4,
+   "parent": 112,
+   "text": "3. 配套同步开发优势",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 4,
+   "parent": 112,
+   "text": "4. 质量管理优势",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "第四节经营情况讨论与分析",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 3,
+   "parent": 135,
+   "text": "一、概述",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "1、技术研发方面",
+   "why": "1、 directly under 一、"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "2、市场营销方面",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "3、综合管理方面",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 4,
+   "parent": 136,
+   "text": "4、安全环保方面",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    157
+   ],
+   "level": 3,
+   "parent": 135,
+   "text": "二、主营业务分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "level": 4,
+   "parent": 157,
+   "text": "1、概述",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 4,
+   "parent": 157,
+   "text": "2、收入与成本",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（1）营业收入构成",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    165
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（2）占公司营业收入或营业利润 10% 以上的行业、产品或地区情况",
+   "why": "（1） level Round 4: text as printed (OCR markup removed)."
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（3）公司实物销售收入是否大于劳务收入",
+   "why": "（1） level (question answered 是 + table)"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（4）公司已签订的重大销售合同截至本报告期的履行情况",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（5）营业成本构成",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    194
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（6）报告期内合并范围是否发生变动",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（7）公司报告期内业务、产品或服务发生重大变化或调整有关情况",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    201
+   ],
+   "level": 5,
+   "parent": 160,
+   "text": "（8）主要销售客户和主要供应商情况",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    218
+   ],
+   "level": 4,
+   "parent": 157,
+   "text": "3、费用",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "level": 4,
+   "parent": 157,
+   "text": "4、研发投入",
+   "why": "1、 level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    171
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    189
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    208
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    227
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 3,
+   "why": "cover document number"
+  },
+  {
+   "box": 40,
+   "why": "caption of the single table below (caption, not a section)"
+  },
+  {
+   "box": 45,
+   "why": "caption of the table below (适用 + table)"
+  },
+  {
+   "box": 48,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 51,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 60,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 77,
+   "why": "template statement line captioning the table below"
+  },
+  {
+   "box": 87,
+   "why": "lead-in sentence ending in a colon"
+  },
+  {
+   "box": 122,
+   "why": "table caption"
+  },
+  {
+   "box": 144,
+   "why": "run-in （1） lead-in inside a paragraph"
+  },
+  {
+   "box": 162,
+   "why": "table caption"
+  },
+  {
+   "box": 173,
+   "why": "statement label with only 不适用 below"
+  },
+  {
+   "box": 178,
+   "why": "label with 适用 + one sentence (substance)"
+  },
+  {
+   "box": 184,
+   "why": "table caption"
+  },
+  {
+   "box": 196,
+   "why": "lead-in sentence to a table"
+  },
+  {
+   "box": 202,
+   "why": "table caption"
+  },
+  {
+   "box": 204,
+   "why": "table caption"
+  },
+  {
+   "box": 212,
+   "why": "table caption"
+  },
+  {
+   "box": 214,
+   "why": "table caption"
+  },
+  {
+   "box": 223,
+   "why": "lead-in sentence to a table"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 131,
+   "closes": 129,
+   "why": "round 5: closing sentence about all core competences (核心竞争力未发生重大变化); belongs to 三、核心竞争力分析"
+  }
+ ]
+}

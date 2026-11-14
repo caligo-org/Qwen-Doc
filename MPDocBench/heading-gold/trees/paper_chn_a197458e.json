@@ -1,0 +1,91 @@
+{
+ "doc": "paper_chn_a197458e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "佛坪县板栗、核桃为主的干果基地建设",
+   "why": "title: paper title (the document's paper, begins on p1)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "1 目的和意义",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "2 国内现状",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "3 可行性分析",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 2,
+   "parent": 7,
+   "text": "4 基地建设",
+   "why": "section: numbered top section of this paper, resumed below another article's opening on p2"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    12
+   ],
+   "of": 7,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 31,
+   "why": "foreign article: title of another article sharing p2 (this paper continues below it)"
+  },
+  {
+   "box": 35,
+   "why": "foreign article: English title of the other article"
+  },
+  {
+   "box": 41,
+   "why": "foreign article: section of the other article"
+  },
+  {
+   "box": 42,
+   "why": "foreign article: subsection of the other article"
+  }
+ ],
+ "considered": [
+  {
+   "box": 20,
+   "why": "run-in numbered item 3.1 starting a paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 52,
+   "closes": 49,
+   "why": "round 5: section 4's items end; the author note and received/editor line follow, not about 基地建设 (belong to the paper)"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "doc": "manualGuide_eng_c53257de",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "GENERAC Manual del usuario Generadores enfriados por aire de 60 Hz trifásicos",
+   "why": "title union: owner logo header box #1 (GENERAC) + manual type + product. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Manual del usuario Generadores enfriados por aire de 60 Hz trifásicos)."
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Índice de contenidos",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    25
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the document"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "callout: ADVERTENCIA warning band"
+  },
+  {
+   "box": 18,
+   "why": "callout: ADVERTENCIA warning band"
+  },
+  {
+   "box": 21,
+   "why": "callout: ADVERTENCIA warning band"
+  }
+ ],
+ "considered": [
+  {
+   "box": 11,
+   "why": "bold lead-in sentence introducing the data form: text"
+  },
+  {
+   "box": 10,
+   "why": "cover slogan band: text"
+  }
+ ]
+}

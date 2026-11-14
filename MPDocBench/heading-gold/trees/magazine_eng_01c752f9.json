@@ -1,0 +1,27 @@
+{
+ "doc": "magazine_eng_01c752f9",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "TOWN&COUNTRY",
+   "why": "title: periodical masthead TOWN&COUNTRY (gold OCR garbled by the cover photo; issue date in the box is text)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover line"
+  },
+  {
+   "box": 9,
+   "why": "advertisement (CHANEL High Jewelry, pp. 2-4)"
+  }
+ ],
+ "considered": []
+}

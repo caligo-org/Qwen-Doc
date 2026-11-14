@@ -1,0 +1,165 @@
+{
+ "doc": "nationalStandard_chn_96c25428",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5,
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "工业自动化产品安全要求 第10部分：记录仪表的安全要求 Safety requirements for industrial automation products—Part 10: Safety requirements for record instrument",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "目次",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "3.1 设备和设备的类别",
+   "why": "clause 3.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    81,
+    82
+   ],
+   "level": 4,
+   "parent": 80,
+   "text": "3.1.1 固定式设备 fixed equipment",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    85,
+    86
+   ],
+   "level": 4,
+   "parent": 80,
+   "text": "3.1.2 永久性连接式设备 permanently connected equipment",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 77,
+   "text": "3.2 零部件和附件",
+   "why": "clause 3.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    90,
+    91
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "3.2.1 端子 terminal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    95,
+    96
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "3.2.2 功能接地端子 functional earth terminal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    99,
+    100
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "3.2.3 保护导体端子 protective conductor terminal",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    102,
+    103
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "3.2.4 外壳 enclosure",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    106,
+    107
+   ],
+   "level": 4,
+   "parent": 89,
+   "text": "3.2.5 挡板 barrier",
+   "why": "term entry: number + term (one heading)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    50
+   ],
+   "of": 5,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

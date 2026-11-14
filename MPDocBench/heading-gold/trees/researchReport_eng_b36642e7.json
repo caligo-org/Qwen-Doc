@@ -1,0 +1,46 @@
+{
+ "doc": "researchReport_eng_b36642e7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs ADAPTATION Physical risk, Financial risk, Opportunity",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: ADAPTATION Physical risk, Financial risk, Opportunity)."
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 18,
+   "why": "author list title (AUTHORS): text per category note"
+  }
+ ],
+ "considered": [
+  {
+   "box": 37,
+   "why": "running series tag GS SUSTAIN (series, not the report title)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 40,
+   "closes": 38,
+   "why": "round 5: the redaction note after the contents list is about the whole report, not about Table of Contents"
+  }
+ ]
+}

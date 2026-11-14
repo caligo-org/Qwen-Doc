@@ -1,0 +1,105 @@
+{
+ "doc": "prospectus_chn_dac1e5e9",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "柏诚系统科技股份有限公司 首次公开发行股票并在主板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "发行人声明",
+   "why": "front matter title with its declaration block"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "本次发行概况",
+   "why": "front matter title with its overview table"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13,
+    14
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    19,
+    20
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    24,
+    25
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    29,
+    30
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    33,
+    34
+   ],
+   "of": 3,
+   "why": "running head: issuer + 招股说明书 restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "issuer English name on the cover: cover text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head (logo + issuer) printed above the title on the cover: text, the title is not yet open"
+  },
+  {
+   "box": 2,
+   "why": "running head 招股说明书 above the title on the cover: text"
+  },
+  {
+   "box": 7,
+   "why": "logo text BOTH on the cover: brand text"
+  }
+ ]
+}

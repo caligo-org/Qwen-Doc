@@ -1,0 +1,32 @@
+{
+ "doc": "annualReport_eng_03d56f29",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "STMicroelectronics N.V. Annual Report 2024",
+   "why": "title union: owner + document type (+ year) in one cover block"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Contents",
+   "why": "front matter: contents title at the level of the top sections"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "notice paragraph about the PDF version (no title)"
+  }
+ ]
+}

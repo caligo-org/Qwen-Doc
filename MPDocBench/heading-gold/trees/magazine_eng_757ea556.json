@@ -1,0 +1,118 @@
+{
+ "doc": "magazine_eng_757ea556",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FUSION",
+   "why": "title: periodical masthead FUSION (gold OCR FUSIOH)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "why": "contents title (front matter at section level)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "REVIEW",
+   "why": "section: section label REVIEW"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 33,
+   "text": "CASEBOOK 1899 THE LEIPZIG-MURDERS",
+   "why": "story headline: review below"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "In Good Faith",
+   "why": "story headline in the section slot: opinion column In Good Faith, its section is not printed and REVIEW is closed starts: #79 (the columnist portrait printed above the column title)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "of": 2,
+   "why": "repeat: masthead restated over the colophon / editor's letter page (the letter has no heading of its own)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 2,
+   "why": "repeat: running footer naming the magazine"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 11,
+   "closes": 7,
+   "why": "contents page ends; the restated masthead, colophon column and editor's letter on p3 follow, not about contents"
+  }
+ ]
+}

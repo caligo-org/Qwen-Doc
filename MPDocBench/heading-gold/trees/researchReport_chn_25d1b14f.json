@@ -1,0 +1,160 @@
+{
+ "doc": "researchReport_chn_25d1b14f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    16,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "开源证券 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报",
+   "why": "title union: owner box #3 (vertical cover band 开源证券证券研究报告; only the owner name 开源证券 is the heading part) + headline box #16 with ——非银金融行业周报. Round 4: the owner is printed in a text box on the cover, so it joins L1 (user decision 2026-11-13 on owner logos with a text box; NOTATIONS 'The title', owner in a box with other fields). Was: 3 季报符合预期，继续看好保险股投资机会 — —非银金融行业周报 Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #4 (开源证券) joins the union after the title box. Sidebar box #3 removed from the union (user decision 2026-11-13: sidebar metadata field, not the title; the owner joins from the logo). starts: the cover sidebar (#6-#15: sector, date, rating, chart, related reports) is printed beside the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "周观点：非银3季报符合预期，继续看好保险股投资机会",
+   "why": "cover summary: own-line bullet heading with its paragraph (no summary title printed)"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期",
+   "why": "cover summary: own-line bullet heading, same look as #18"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期",
+   "why": "cover summary: own-line bullet heading, same look as #18"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "受益标的组合：",
+   "why": "cover summary: own-line label naming the list below it"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "1、一周观点：非银3季报符合预期，继续看好保险股投资机会",
+   "why": "section: chapter 1、"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "保险：监管规范开门红对大型险企影响较小，3季报保费增速回落符合预期",
+   "why": "section: own-line subheading under 1、"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "券商：全面推行注册制进度或超预期，3季报符合我们预期",
+   "why": "section: own-line subheading under 1、"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 37,
+   "text": "受益标的组合：",
+   "why": "label heading: own-line label with its list block"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "2、市场回顾：A股整体下跌，非银板块跑输指数",
+   "why": "section: chapter 2、"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "3、数据追踪：融券余额破千亿，占两融比重持续攀升",
+   "why": "section: chapter 3、"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 2,
+   "parent": 16,
+   "text": "4、行业及公司要闻：证监会将不断完善有利于鼓励长期投资的制度安排",
+   "why": "section: chapter 4、"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "level": 3,
+   "parent": 98,
+   "text": "行业要闻：",
+   "why": "label heading: own-line label 行业要闻 with its news block"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "sidebar metadata field, not the title; the owner joins from the logo"
+  },
+  {
+   "box": 6,
+   "why": "industry banner on the cover (category tag): text"
+  },
+  {
+   "box": 12,
+   "why": "related-reports list label: text per category note"
+  },
+  {
+   "box": 26,
+   "why": "Round 4 (user decision 2026-11-13: substance beats containment): one-line run-in bullet with nothing below it is text, even though the line then sits under the section before it."
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 26,
+   "closes": 24,
+   "why": "round 5: the risk bullet ● 风险提示 (text: one-line run-in) is not about 受益标的组合； it belongs to the cover summary level"
+  }
+ ]
+}

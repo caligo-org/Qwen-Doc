@@ -1,0 +1,265 @@
+{
+ "doc": "researchReport_eng_b3735ab5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs TOP of MIND 2023: 3 THEMES IN CHARTS",
+   "why": "title: masthead + special-issue title printed in one box Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (Goldman Sachs) joins the union after the title box.; final check: cover prints \"TOP of MIND\" and \"2023: 3 THEMES IN CHARTS\"; text corrected to the print; starts: the issue line (#3, Special Issue | date | Global Macro Research) is printed beside the title but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Revisiting 2023 themes, crossword-style",
+   "why": "page banner: crossword page, outside the themes"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "Across:",
+   "why": "label heading: own-line label with its clue list (v3: labels with a block are headings)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 17,
+   "text": "Down:",
+   "why": "label heading: own-line label with its clue list"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "In the words of our 2023 interviewees",
+   "why": "page banner: interviewee quotes page"
+  },
+  {
+   "boxes": [
+    114,
+    115,
+    118,
+    119,
+    121,
+    122,
+    125
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "1 Markets worried first about growth but then sticky inflation, which meant that higher interest rates could be here for the duration. This higher-for-longer rate environment came with consequences galore Bringing bank panics, corporate credit concerns, and commercial real estate risks to the fore.",
+   "why": "divider union (round 3): theme badge \"1\" ∪ every line of the theme panel; the panel prints one sentence as its title and the subtree (pgs 5-17) covers growth, rates/JGBs/USTs, bank panics, credit; round 1-2 took only the first line, which did not describe the subtree. \"Pgs. 5-17\" and the pictures stay text"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Ample soft landing evidence (so far)",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Bonds are back…",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "...and JGBs are still in focus",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "JGB yields: higher, but still low",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    225
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "UST yields: higher, but near average",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    231
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Higher-for-longer: banking tremors…",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    244
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "...have since subsided",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    275
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "...but new bank regulation is on the way",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  },
+  {
+   "boxes": [
+    287
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Higher-for-longer: credit still holding up",
+   "why": "page banner: section of theme 1 (pgs 5-17 per the divider)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    223
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    229
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    236
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    273
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  },
+  {
+   "boxes": [
+    285
+   ],
+   "of": 4,
+   "why": "repeat: running head naming the publication (masthead)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 238,
+   "why": "chart title of the timeline exhibit (same role as the table title #232 on the facing page): text"
+  },
+  {
+   "box": 276,
+   "why": "table title bar of an exhibit: text"
+  },
+  {
+   "box": 279,
+   "why": "chart title bar of an exhibit: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "issue/date line"
+  },
+  {
+   "box": 232,
+   "why": "table title"
+  }
+ ]
+}

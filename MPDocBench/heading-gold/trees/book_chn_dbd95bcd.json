@@ -1,0 +1,1017 @@
+{
+ "doc": "book_chn_dbd95bcd",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "知识产权法",
+   "why": "title: subject book title (law textbook part)"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第一章 知识产权保护概述",
+   "why": "chapter: 第x章 label + title in one box"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "本章主要内容提示",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "第一节 知识产权的民事保护",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "一、侵犯知识产权的民事责任",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "二、知识产权保护的诉讼时效",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "三、知识产权民事诉讼特殊程序",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 5,
+   "parent": 27,
+   "text": "（一）特殊级别管辖",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 5,
+   "parent": 27,
+   "text": "（二）减轻权利人的举证责任",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 5,
+   "parent": 27,
+   "text": "（三）知识产权被许可人的诉讼地位",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 5,
+   "parent": 27,
+   "text": "（四）请求确认不侵犯专利权之诉",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 5,
+   "parent": 27,
+   "text": "（五）技术调查官制度",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "第二节 知识产权的国际保护",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "一、国民待遇原则",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "二、最惠国待遇原则",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "三、独立保护原则",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "四、自动保护原则",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 4,
+   "parent": 56,
+   "text": "五、优先权原则",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 3,
+   "text": "【本章主要法律规定】",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第二章 著作权",
+   "why": "chapter: 第x章 label + title in one box"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "本章主要内容提示",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第一节 著作权的客体",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 4,
+   "parent": 82,
+   "text": "一、作品的概念",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 82,
+   "text": "二、作品的种类",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 4,
+   "parent": 82,
+   "text": "三、著作权法不予保护的对象",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第二节 著作权的主体",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "一、一般意义上的著作权主体",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 5,
+   "parent": 110,
+   "text": "（一）作者",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 5,
+   "parent": 110,
+   "text": "（二）继受人",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 5,
+   "parent": 110,
+   "text": "（三）外国人和无国籍人",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "二、演绎作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 5,
+   "parent": 127,
+   "text": "（一）演绎作品的概念",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 5,
+   "parent": 127,
+   "text": "（二）演绎作品著作权的归属及行使",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "三、合作作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 5,
+   "parent": 132,
+   "text": "（一）合作作品的概念",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 5,
+   "parent": 132,
+   "text": "（二）合作作品著作权的归属及行使",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "四、汇编作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 5,
+   "parent": 142,
+   "text": "（一）汇编作品的概念",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 5,
+   "parent": 142,
+   "text": "（二）汇编作品著作权的归属及行使",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "五、视听作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "六、职务作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 5,
+   "parent": 154,
+   "text": "（一）职务作品的概念",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 5,
+   "parent": 154,
+   "text": "（二）职务作品的种类及著作权归属",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "七、委托作品的著作权人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "八、原件所有权转移的作品的著作权归属",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 109,
+   "text": "九、作者身份不明的作品的著作权归属",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    177
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第三节 著作权的内容",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 4,
+   "parent": 177,
+   "text": "一、著作人身权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    180
+   ],
+   "level": 5,
+   "parent": 178,
+   "text": "(一)发表权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 5,
+   "parent": 178,
+   "text": "(二)署名权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "level": 5,
+   "parent": 178,
+   "text": "(三)修改权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "level": 5,
+   "parent": 178,
+   "text": "（四）保护作品完整权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 4,
+   "parent": 177,
+   "text": "二、著作财产权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    197
+   ],
+   "level": 5,
+   "parent": 195,
+   "text": "（一）使用权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    216
+   ],
+   "level": 5,
+   "parent": 195,
+   "text": "（二）许可使用权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 5,
+   "parent": 195,
+   "text": "（三）转让权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "level": 5,
+   "parent": 195,
+   "text": "（四）获得报酬权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    223
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第四节 著作权的限制",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "level": 4,
+   "parent": 223,
+   "text": "一、合理使用",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    225
+   ],
+   "level": 5,
+   "parent": 224,
+   "text": "（一）合理使用的概念",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    237
+   ],
+   "level": 5,
+   "parent": 224,
+   "text": "（二）合理使用的情形",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    252
+   ],
+   "level": 4,
+   "parent": 223,
+   "text": "二、法定许可使用",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    265
+   ],
+   "level": 4,
+   "parent": 223,
+   "text": "三、著作权的保护期限",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    266
+   ],
+   "level": 5,
+   "parent": 265,
+   "text": "（一）著作人身权的保护期限",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    269
+   ],
+   "level": 5,
+   "parent": 265,
+   "text": "（二）自然人作品的发表权和财产权的保护期限",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    271
+   ],
+   "level": 5,
+   "parent": 265,
+   "text": "（三）法人或非法人组织的作品的发表权和财产权的保护期限",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    273
+   ],
+   "level": 5,
+   "parent": 265,
+   "text": "（四）作者身份不明作品使用权的保护期限",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    275
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第五节 邻接权",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    276
+   ],
+   "level": 4,
+   "parent": 275,
+   "text": "一、邻接权的概念",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    279
+   ],
+   "level": 4,
+   "parent": 275,
+   "text": "二、出版者权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    280
+   ],
+   "level": 5,
+   "parent": 279,
+   "text": "（一）出版者的权利内容",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    288
+   ],
+   "level": 5,
+   "parent": 279,
+   "text": "（二）出版者的主要义务",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    294
+   ],
+   "level": 4,
+   "parent": 275,
+   "text": "三、表演者权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    295
+   ],
+   "level": 5,
+   "parent": 294,
+   "text": "（一）表演者权的主体和客体",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    298
+   ],
+   "level": 5,
+   "parent": 294,
+   "text": "（二）表演者的权利内容",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    307
+   ],
+   "level": 5,
+   "parent": 294,
+   "text": "（三）表演者的主要义务",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    309
+   ],
+   "level": 4,
+   "parent": 275,
+   "text": "四、录制者权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    310
+   ],
+   "level": 5,
+   "parent": 309,
+   "text": "（一）录制者权的主体和客体",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    312
+   ],
+   "level": 5,
+   "parent": 309,
+   "text": "（二）录制者的权利和义务",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    319
+   ],
+   "level": 4,
+   "parent": 275,
+   "text": "五、播放者权",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    320
+   ],
+   "level": 5,
+   "parent": 319,
+   "text": "（一）播放者权的主体和客体",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    323
+   ],
+   "level": 5,
+   "parent": 319,
+   "text": "（二）播放者的权利和义务",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    326
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第六节 著作权侵权行为",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    327
+   ],
+   "level": 4,
+   "parent": 326,
+   "text": "一、著作权侵权行为的概念",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    329
+   ],
+   "level": 4,
+   "parent": 326,
+   "text": "二、承担民事责任的著作权侵权行为",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    343
+   ],
+   "level": 4,
+   "parent": 326,
+   "text": "三、承担综合法律责任的著作权侵权行为",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    357
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "第七节 计算机软件著作权",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    358
+   ],
+   "level": 4,
+   "parent": 357,
+   "text": "一、软件著作权的客体和主体",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    359
+   ],
+   "level": 5,
+   "parent": 358,
+   "text": "（一）软件著作权的客体",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    362
+   ],
+   "level": 5,
+   "parent": 358,
+   "text": "（二）软件著作权人及其权利归属",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    366
+   ],
+   "level": 4,
+   "parent": 357,
+   "text": "二、软件著作权的内容",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    367
+   ],
+   "level": 5,
+   "parent": 366,
+   "text": "（一）软件著作人身权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    375
+   ],
+   "level": 5,
+   "parent": 366,
+   "text": "（二）软件著作财产权",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    379
+   ],
+   "level": 4,
+   "parent": 357,
+   "text": "三、软件著作权的期限和限制",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    380
+   ],
+   "level": 5,
+   "parent": 379,
+   "text": "（一）软件著作权的期限",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    382
+   ],
+   "level": 5,
+   "parent": 379,
+   "text": "（二）软件著作权的限制",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    388
+   ],
+   "level": 4,
+   "parent": 357,
+   "text": "四、软件登记",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    392
+   ],
+   "level": 4,
+   "parent": 357,
+   "text": "五、侵犯软件著作权行为及法律责任",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    393
+   ],
+   "level": 5,
+   "parent": 392,
+   "text": "（一）承担民事责任的侵权行为",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    401
+   ],
+   "level": 5,
+   "parent": 392,
+   "text": "（二）承担综合法律责任的侵权行为",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    408
+   ],
+   "level": 5,
+   "parent": 392,
+   "text": "（三）软件复制品有关主体的法律责任",
+   "why": "（一） level subsection"
+  },
+  {
+   "boxes": [
+    411
+   ],
+   "level": 3,
+   "parent": 76,
+   "text": "【本章主要法律规定】",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    421
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第三章专利权",
+   "why": "chapter: 第x章 label + title in one box"
+  },
+  {
+   "boxes": [
+    422
+   ],
+   "level": 3,
+   "parent": 421,
+   "text": "本章主要内容提示",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    428
+   ],
+   "level": 3,
+   "parent": 421,
+   "text": "第一节 专利权的主体",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    430
+   ],
+   "level": 4,
+   "parent": 428,
+   "text": "一、发明人或设计人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    440
+   ],
+   "level": 4,
+   "parent": 428,
+   "text": "二、发明人或设计人的单位",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    447
+   ],
+   "level": 4,
+   "parent": 428,
+   "text": "三、受让人",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    456
+   ],
+   "level": 4,
+   "parent": 428,
+   "text": "四、外国人、外国企业或外国其他组织",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    459
+   ],
+   "level": 3,
+   "parent": 421,
+   "text": "第二节 专利权的客体",
+   "why": "chapter-level section (本章主要内容提示 / 第x节 / 【本章主要法律规定】)"
+  },
+  {
+   "boxes": [
+    461
+   ],
+   "level": 4,
+   "parent": 459,
+   "text": "一、发明",
+   "why": "一、 level section"
+  },
+  {
+   "boxes": [
+    465
+   ],
+   "level": 4,
+   "parent": 459,
+   "text": "二、实用新型",
+   "why": "一、 level section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

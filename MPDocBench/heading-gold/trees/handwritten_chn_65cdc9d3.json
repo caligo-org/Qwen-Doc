@@ -1,0 +1,50 @@
+{
+ "doc": "handwritten_chn_65cdc9d3",
+ "schema": 3,
+ "nodes": [],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
+  },
+  {
+   "box": 14,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
+  },
+  {
+   "box": 19,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
+  },
+  {
+   "box": 21,
+   "why": "sub-question (Ⅰ) of a problem: text"
+  },
+  {
+   "box": 22,
+   "why": "sub-question (Ⅱ): text"
+  },
+  {
+   "box": 28,
+   "why": "exam question: printed problem statement with a handwritten solution, no title (exam questions are text)"
+  },
+  {
+   "box": 30,
+   "why": "sub-question (Ⅰ): text"
+  },
+  {
+   "box": 31,
+   "why": "sub-question (Ⅱ): text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "running brand header 泰笛牛考研数学: text"
+  },
+  {
+   "box": 3,
+   "why": "date header: text"
+  }
+ ]
+}

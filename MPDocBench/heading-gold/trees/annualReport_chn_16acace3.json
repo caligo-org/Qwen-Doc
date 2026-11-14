@@ -1,0 +1,771 @@
+{
+ "doc": "annualReport_chn_16acace3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "云南能源投资股份有限公司2019年年度报告",
+   "why": "title union: owner + document type in one cover title block"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第一节重要提示、目录和释义",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "目录",
+   "why": "目录: part of 第一节 重要提示、目录和释义 (named in its title)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 3,
+   "parent": 11,
+   "text": "释义",
+   "why": "释义: part of 第一节 (named in its title); printed as the caption of the definitions table"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第二节公司简介和主要财务指标",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "一、公司信息",
+   "why": "一、 numbered subsection (table caption style)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "二、联系人和联系方式",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "三、信息披露及备置地点",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "四、注册变更情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "五、其他有关资料",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "六、主要会计数据和财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "七、境内外会计准则下会计数据差异",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "1、同时按照国际会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 numbered item on its own line (outline), 不适用 + statement below"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "2、同时按照境外会计准则与按照中国会计准则披露的财务报告中净利润和净资产差异情况",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "八、分季度主要财务指标",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "九、非经常性损益项目及金额",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第三节公司业务概要",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 90,
+   "text": "一、报告期内公司从事的主要业务",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "(一)主要产品及用途",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 5,
+   "parent": 96,
+   "text": "1. 盐业",
+   "why": "1. level, own line with block"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 5,
+   "parent": 96,
+   "text": "2. 天然气",
+   "why": "1. level"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 5,
+   "parent": 96,
+   "text": "3. 风电",
+   "why": "1. level"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "(二)主要经营模式",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "A、盐业",
+   "why": "A、 business line within (二), own line with block"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 6,
+   "parent": 109,
+   "text": "1、采购模式",
+   "why": "1、 under A、"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 6,
+   "parent": 109,
+   "text": "2、生产模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 6,
+   "parent": 109,
+   "text": "3、销售模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 7,
+   "parent": 115,
+   "text": "（1）食盐销售模式",
+   "why": "（1） under 3、"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 7,
+   "parent": 115,
+   "text": "（2）其它产品销售模式",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "B、天然气业务",
+   "why": "A、 level"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 6,
+   "parent": 120,
+   "text": "1、天然气销售",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 7,
+   "parent": 121,
+   "text": "（1）采购模式",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 7,
+   "parent": 121,
+   "text": "（2）储存及配送模式",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 7,
+   "parent": 121,
+   "text": "（3）销售模式",
+   "why": "（1） level"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 6,
+   "parent": 120,
+   "text": "2、入户安装服务",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 5,
+   "parent": 108,
+   "text": "C、风电业务",
+   "why": "A、 level"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 6,
+   "parent": 137,
+   "text": "1、生产模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 6,
+   "parent": 137,
+   "text": "2、销售模式",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "（三）主要业绩驱动因素",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "（四）公司所属行业的发展状况",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 4,
+   "parent": 91,
+   "text": "（五）公司所属行业周期性特点与所处的行业地位",
+   "why": "（一） level"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 5,
+   "parent": 146,
+   "text": "1、公司所属行业周期性特点",
+   "why": "1、 under (五)"
+  },
+  {
+   "boxes": [
+    155
+   ],
+   "level": 5,
+   "parent": 146,
+   "text": "2、公司所处的行业地位",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 3,
+   "parent": 90,
+   "text": "二、主要资产重大变化情况",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 4,
+   "parent": 159,
+   "text": "1、主要资产重大变化情况",
+   "why": "1、 directly under 二、 (no (一) level printed)"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 4,
+   "parent": 159,
+   "text": "2、主要境外资产情况",
+   "why": "1、 numbered item (不适用 below)"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 3,
+   "parent": 90,
+   "text": "三、核心竞争力分析",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    169
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "1、“盐+清洁能源”双主业并行发展优势",
+   "why": "1、 directly under 三、"
+  },
+  {
+   "boxes": [
+    173
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "2、资源优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "3、技术优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    185
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "4、品牌与产品优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "5、市场潜力优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "6、政府支持优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    197
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "7、风电场建设管理优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 4,
+   "parent": 168,
+   "text": "8、风电场运营管理优势",
+   "why": "1、 level"
+  },
+  {
+   "boxes": [
+    204
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "第四节经营情况讨论与分析",
+   "why": "section: 第X节"
+  },
+  {
+   "boxes": [
+    205
+   ],
+   "level": 3,
+   "parent": 204,
+   "text": "一、概述",
+   "why": "一、 level"
+  },
+  {
+   "boxes": [
+    207
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（一）优化产业结构，推动管理提升",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（二）加强品牌建设，以市场为导向打造核心产品",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    211
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（三）深化营销改革，提升终端管控能力",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    213
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（四）加强风电管理，夯实发展后劲",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（五）发挥省级平台优势，加快产供储销体系建设",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    221
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（六）推进信息化系统建设，提升供应链管理水平",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    223
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（七）持续深化安健环管理，安全形势总体平稳",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  },
+  {
+   "boxes": [
+    225
+   ],
+   "level": 4,
+   "parent": 205,
+   "text": "（八）优化调整组织架构，激发员工活力",
+   "why": "numbered list item heading with its own block; restored (user decision 2026-11-13): a closing paragraph after a list stays under the last item rather than dropping the list headings"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    203
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "of": 6,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "cover logo lockup (company name beside the logo): text; the title block #6 is the L1"
+  },
+  {
+   "box": 5,
+   "why": "cover logo lockup English name: text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 48,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 52,
+   "why": "caption of the table below (caption, not a section heading)"
+  },
+  {
+   "box": 1,
+   "why": "running head on the cover page itself"
+  },
+  {
+   "box": 3,
+   "why": "logo text"
+  },
+  {
+   "box": 50,
+   "why": "unnumbered label with only 不适用 below (substance)"
+  },
+  {
+   "box": 56,
+   "why": "yes/no question with one-word answer (substance)"
+  },
+  {
+   "box": 58,
+   "why": "label with one-line answer (substance)"
+  },
+  {
+   "box": 75,
+   "why": "yes/no question with one-word answer"
+  },
+  {
+   "box": 84,
+   "why": "statement label with 不适用 + one sentence (substance)"
+  },
+  {
+   "box": 227,
+   "why": "closing paragraph of 概述, not a heading"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 227,
+   "closes": 225,
+   "why": "round 5: closing paragraph about all of （一）–（八） (得益于上述各项工作); belongs to 一、概述"
+  }
+ ]
+}

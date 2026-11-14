@@ -1,0 +1,212 @@
+doc	node	page	path	verdict	note
+textBook_chn_028c0453	3	p1	物理 必修 第三册	OK	cover: 物理 + 必修 + 第三册 union; title page p2 repeat
+textBook_chn_028c0453	36	p5	物理 必修 第三册 › 目录	OK	目录 title over chapter list p5-6
+textBook_chn_028c0453	46	p7	物理 必修 第三册 › 第1章 电荷的相互作用	OK	chapter 1 opener, intro text + questions follow
+textBook_chn_0505fdad	2	p1	体育与健康 教师用书 四年级 全一册	OK	cover: 体育与健康 + 教师用书 + 四年级 全一册 union
+textBook_chn_0505fdad	24	p3	体育与健康 教师用书 四年级 全一册 › 前言	OK	前言 over preface paragraphs p3
+textBook_chn_0505fdad	30	p5	体育与健康 教师用书 四年级 全一册 › 目录	OK	目录 over chapter list p5-6
+textBook_chn_0505fdad	36	p7	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识	OK	第一章 badge + 健康基础知识, chapter intro p7
+textBook_chn_0505fdad	41	p8	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力	OK	第一节 title p8 over the 节 parts
+textBook_chn_0505fdad	43	p8	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力 › 教学目标	OK	教学目标 badge over one-paragraph block
+textBook_chn_0505fdad	45	p8	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力 › 知识要点	OK	知识要点 badge over keyword line
+textBook_chn_0505fdad	47	p8	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力 › 教学内容	OK	教学内容 badge over content paragraphs p8-9
+textBook_chn_0505fdad	57	p9	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力 › 教学策略	OK	教学策略 badge over strategy paragraphs
+textBook_chn_0505fdad	62	p9	体育与健康 教师用书 四年级 全一册 › 第一章 健康基础知识 › 第一节 肌肉力量与肌肉耐力 › 教学评价	OK	教学评价 band over numbered list, end of excerpt
+textBook_chn_06561845	3	p1	数学 九年级下册	OK	cover: 数学 + 九年级下册 union (pinyin text); title page p2 repeat; p3 CIP, p5 blank
+textBook_chn_06561845	23	p4	数学 九年级下册 › 致同学	OK	致同学 letter title p4 over the letter
+textBook_chn_12b0d2b4	3	p1	数学 选择性必修 第二册	OK	cover: 数学 + 选择性必修 + 第二册 union; p2 title page repeat; p3 colophon
+textBook_chn_12b0d2b4	22	p4	数学 选择性必修 第二册 › 本册导引	OK	本册导引 over intro paragraphs p4
+textBook_chn_12b0d2b4	27	p5	数学 选择性必修 第二册 › 目录	OK	目录 over contents list p5
+textBook_chn_12b0d2b4	31	p6	数学 选择性必修 第二册 › 第四章 数列	OK	第四章 数列 chapter opener p6
+textBook_chn_12b0d2b4	34	p7	数学 选择性必修 第二册 › 第四章 数列 › 4.1 数列的概念	OK	4.1 数列的概念 p7-10; 思考/归纳 prompts and 练习 mid-section are text (round 3)
+textBook_chn_1f0d94bf	3	p1	思想政治 必修3 政治与法治	OK	cover: 思想政治 + 必修3 + 政治与法治 union; p2 title page repeat; p3 colophon
+textBook_chn_1f0d94bf	21	p4	思想政治 必修3 政治与法治 › 目录	OK	目录 over contents list p4-5
+textBook_chn_1f0d94bf	24	p6	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导	OK	第一单元 banner + unit intro p6
+textBook_chn_1f0d94bf	26	p7	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择	OK	lesson badge 1 + 第一课 + title p7
+textBook_chn_1f0d94bf	28	p7	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中华人民共和国成立前各种政治力量	OK	框 bar heading p7, its 目 follow
+textBook_chn_1f0d94bf	30	p7	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中华人民共和国成立前各种政治力量 › 探究与分享	OK	探究与分享 box before first 目, block ends at #38
+textBook_chn_1f0d94bf	38	p8	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中华人民共和国成立前各种政治力量 › 近代中国的基本国情和主要矛盾	OK	目 heading p8; mid-section box 探究与分享/名词点击 text (round 3)
+textBook_chn_1f0d94bf	59	p10	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中华人民共和国成立前各种政治力量 › 各种政治力量解决中国问题的方案	OK	目 heading p10; box + text + 三种建国方案 figure follow
+textBook_chn_1f0d94bf	91	p12	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中华人民共和国成立前各种政治力量 › 没有共产党就没有新中国	OK	目 heading p12; box text, main text resumes
+textBook_chn_1f0d94bf	113	p13	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中国共产党领导人民站起来、富起来、强起来	OK	second 框 bar heading p13
+textBook_chn_1f0d94bf	115	p13	思想政治 必修3 政治与法治 › 第一单元 中国共产党的领导 › 1 第一课 历史和人民的选择 › 中国共产党领导人民站起来、富起来、强起来 › 探究与分享	OK	探究与分享 box at the end of the excerpt
+textBook_chn_27d8ad59	3	p1	美术 义务教育教科书 一年级下册	OK	cover: 美术 + 义务教育教科书 一年级下册 union (pinyin MEI SHU text)
+textBook_chn_27d8ad59	15	p2	美术 义务教育教科书 一年级下册 › 写给亲爱的同学们	OK	preface letter title p2 over letter + signature
+textBook_chn_27d8ad59	20	p3	美术 义务教育教科书 一年级下册 › 目录	OK	目录 over lesson list p3 (pinyin ruby dropped)
+textBook_chn_27d8ad59	24	p4	美术 义务教育教科书 一年级下册 › 第1课 雪	OK	top band 第1课 badge + 雪 p4; same band p5 repeat
+textBook_chn_27d8ad59	54	p5	美术 义务教育教科书 一年级下册 › 第1课 雪 › 学习建议	OK	学习建议 label over its bullet list p5
+textBook_chn_27d8ad59	58	p5	美术 义务教育教科书 一年级下册 › 第1课 雪 › 生活中的设计	OK	生活中的设计 box with pictures p5, ends at next lesson
+textBook_chn_27d8ad59	65	p6	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一）	OK	top band 第2课 + 图画与文字（一） p6; band p7-8 repeat
+textBook_chn_27d8ad59	66	p6	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一） › 走进博物馆	OK	走进博物馆 frame spanning p6-7 (round 3 kept)
+textBook_chn_27d8ad59	98	p8	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一） › 儿童美术馆	OK	儿童美术馆 box with student works p8
+textBook_chn_27d8ad59	102	p8	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一） › 学习建议	OK	学习建议 label over its bullets p8
+textBook_chn_27d8ad59	109	p8	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一） › 生活中的设计	OK	生活中的设计 box p8
+textBook_chn_27d8ad59	115	p8	美术 义务教育教科书 一年级下册 › 第2课 图画与文字（一） › 访问艺术家	OK	访问艺术家 box p8, end of excerpt
+textBook_chn_47c3d791	3	p1	美术 选择性必修 绘画	OK	cover: 美术 + 选择性必修 + 绘画 union; p2 title page repeat; p3 colophon tables
+textBook_chn_47c3d791	19	p4	美术 选择性必修 绘画 › 编者的话	OK	编者的话 over preface paragraphs p4
+textBook_chn_47c3d791	23	p5	美术 选择性必修 绘画 › 目录	OK	目录 over lesson list p5
+textBook_chn_47c3d791	26	p6	美术 选择性必修 绘画 › 第1课 绘画语言	OK	第1课 badge + 绘画语言 p6; 问题导入 text (round 3); lesson intro p6-7
+textBook_chn_47c3d791	52	p8	美术 选择性必修 绘画 › 第1课 绘画语言 › 一、绘画的造型要素	OK	一、绘画的造型要素 p8
+textBook_chn_47c3d791	54	p8	美术 选择性必修 绘画 › 第1课 绘画语言 › 一、绘画的造型要素 › （一）点、线、面	OK	（一）点、线、面 p8 over its text and pictures
+textBook_chn_6bc808b4	3	p1	数学 选择性必修 第三册	OK	cover: 数学 + 选择性必修 + 第三册 union; p2 title page repeat; p3 colophon
+textBook_chn_6bc808b4	23	p4	数学 选择性必修 第三册 › 本册导引	OK	本册导引 over intro paragraphs p4
+textBook_chn_6bc808b4	29	p5	数学 选择性必修 第三册 › 目录	OK	目录 over contents list p5
+textBook_chn_6bc808b4	34	p6	数学 选择性必修 第三册 › 第六章 计数原理	OK	第六章 计数原理 chapter opener p6
+textBook_chn_6bc808b4	38	p7	数学 选择性必修 第三册 › 第六章 计数原理 › 6.1 分类加法计数原理与分步乘法计数原理	OK	6.1 section p7; 思考/探究 one-question prompts are text
+textBook_chn_6c84840b	4	p1	地理 必修 第一册	OK	cover: 地理 + 必修 + 第一册 union; p2 title page repeat; p3 colophon
+textBook_chn_6c84840b	23	p4	地理 必修 第一册 › 目录	OK	目录 over chapter list p4-5
+textBook_chn_6c84840b	36	p6	地理 必修 第一册 › 第一章 宇宙中的地球	OK	第一章 宇宙中的地球 chapter opener with questions p6
+textBook_chn_6c84840b	44	p7	地理 必修 第一册 › 第一章 宇宙中的地球 › 第一节 地球的宇宙环境	FIXED	第一节 + 地球的宇宙环境 on two lines p7; text was joined without the space
+textBook_chn_6c84840b	48	p7	地理 必修 第一册 › 第一章 宇宙中的地球 › 第一节 地球的宇宙环境 › 地球在宇宙中的位置	OK	地球在宇宙中的位置 subsection p7, end of excerpt
+textBook_chn_766e2ab6	2	p1	科学 三年级 下册	OK	cover: 科学 + 三年级 + 下册 union; p2 colophon
+textBook_chn_766e2ab6	14	p3	科学 三年级 下册 › 目录	OK	目录 over unit list p3
+textBook_chn_766e2ab6	16	p4	科学 三年级 下册 › 第一单元 土壤和岩石	OK	第一单元 土壤和岩石 unit opener band p4
+textBook_chn_766e2ab6	18	p5	科学 三年级 下册 › 第一单元 土壤和岩石 › 1 土壤里有什么	OK	lesson badge 1 + 土壤里有什么 p5
+textBook_chn_766e2ab6	24	p5	科学 三年级 下册 › 第一单元 土壤和岩石 › 1 土壤里有什么 › 探究土壤的成分	OK	activity title under kind label 科学实践 (text) p5-6, end of excerpt
+textBook_chn_83116662	3	p1	科学 九年级下册	OK	cover: 科学 + 九年级下册 union; p2 title page repeat; p3 colophon
+textBook_chn_83116662	21	p4	科学 九年级下册 › 前言	OK	前言 over preface + signature p4
+textBook_chn_83116662	28	p5	科学 九年级下册 › 目录	OK	目录 over chapter list p5; CONTENTS p6 repeat; p7 picture only
+textBook_chn_83116662	33	p8	科学 九年级下册 › 第1章 演化的自然	OK	第1章 badge + 演化的自然 chapter opener p8
+textBook_chn_83116662	39	p9	科学 九年级下册 › 第1章 演化的自然 › 第1节 人类对宇宙的认识	OK	第1节 人类对宇宙的认识 p9
+textBook_chn_83116662	41	p9	科学 九年级下册 › 第1章 演化的自然 › 第1节 人类对宇宙的认识 › 古代人的宇宙观	OK	古代人的宇宙观 subsection p9; 思考与讨论 prompts text
+textBook_chn_83116662	47	p9	科学 九年级下册 › 第1章 演化的自然 › 第1节 人类对宇宙的认识 › 从地心说到日心说	OK	从地心说到日心说 subsection p9-10, end of excerpt
+textBook_chn_87e64920	7	p1	中国历史 七年级 上册	OK	cover: 中国历史 + 七年级 + 上册 union; p2 title page repeat; p3 colophon
+textBook_chn_87e64920	21	p4	中国历史 七年级 上册 › 目录	OK	目录 over unit/lesson list p4-5
+textBook_chn_87e64920	24	p6	中国历史 七年级 上册 › 第一单元 史前时期：中国境内早期人类与文明的起源	OK	第一单元 + unit title, unit opener p6
+textBook_chn_87e64920	27	p7	中国历史 七年级 上册 › 第一单元 史前时期：中国境内早期人类与文明的起源 › 第1课 中国境内早期人类的代表——北京人	OK	第1课 + lesson title p7
+textBook_chn_87e64920	29	p7	中国历史 七年级 上册 › 第一单元 史前时期：中国境内早期人类与文明的起源 › 第1课 中国境内早期人类的代表——北京人 › 我国境内的早期人类	OK	我国境内的早期人类 目 p7-8; 相关史事/问题思考 boxes text (round 3)
+textBook_chn_87e64920	43	p8	中国历史 七年级 上册 › 第一单元 史前时期：中国境内早期人类与文明的起源 › 第1课 中国境内早期人类的代表——北京人 › 北京人	OK	北京人 目 p8-10
+textBook_chn_87e64920	69	p10	中国历史 七年级 上册 › 第一单元 史前时期：中国境内早期人类与文明的起源 › 第1课 中国境内早期人类的代表——北京人 › 山顶洞人	OK	山顶洞人 目 p10, end of excerpt
+textBook_chn_8b86cd5f	3	p1	道德与法治 九年级 上册	OK	cover: 道德与法治 + 九年级 + 上册 union; p2 title page repeat; p3 colophon
+textBook_chn_8b86cd5f	22	p4	道德与法治 九年级 上册 › 目录	OK	目录 over unit/lesson list p4-5
+textBook_chn_8b86cd5f	29	p6	道德与法治 九年级 上册 › 第一单元 富强与创新	OK	第一单元 富强与创新 unit opener p6
+textBook_chn_8b86cd5f	35	p7	道德与法治 九年级 上册 › 第一单元 富强与创新 › 第一课 踏上强国之路	OK	第一课 踏上强国之路 p7
+textBook_chn_8b86cd5f	38	p7	道德与法治 九年级 上册 › 第一单元 富强与创新 › 第一课 踏上强国之路 › 坚持改革开放	OK	坚持改革开放 框 bar heading p7
+textBook_chn_8b86cd5f	40	p7	道德与法治 九年级 上册 › 第一单元 富强与创新 › 第一课 踏上强国之路 › 坚持改革开放 › 运用你的经验	OK	运用你的经验 box with picture task before first 目, block ends at #46
+textBook_chn_8b86cd5f	46	p8	道德与法治 九年级 上册 › 第一单元 富强与创新 › 第一课 踏上强国之路 › 坚持改革开放 › 改革开放促发展	OK	改革开放促发展 目 heading p8
+textBook_chn_8b86cd5f	52	p8	道德与法治 九年级 上册 › 第一单元 富强与创新 › 第一课 踏上强国之路 › 坚持改革开放 › 改革开放促发展 › 阅读感悟	OK	阅读感悟 box with own material p8, end of excerpt
+textBook_chn_912349ba	7	p1	语文 八年级 上册	OK	cover: 语文 + 八年级 + 上册 union; p2 title page repeat; p3 colophon
+textBook_chn_912349ba	22	p4	语文 八年级 上册 › 目录	OK	目录 over contents p4-7 (running foot 目录 repeats)
+textBook_chn_912349ba	36	p8	语文 八年级 上册 › 第一单元 活动·探究	OK	第一单元 活动·探究 unit heading p8
+textBook_chn_912349ba	37	p8	语文 八年级 上册 › 第一单元 活动·探究 › 活动任务单	OK	活动任务单 band over unit intro + task list p8; 任务一/二/三 bare markers text (round 3)
+textBook_chn_b3181880	3	p1	信号与系统辅导与题解	OK	cover title 信号与系统辅导与题解 (companion line, authors, series text); p2 back cover; p3 title page repeat
+textBook_chn_b3181880	32	p4	信号与系统辅导与题解 › 内容提要	OK	内容提要 on copyright page over its paragraphs p4; CIP block text
+textBook_chn_b3181880	46	p5	信号与系统辅导与题解 › 前言	OK	前言 over preface p5-6 + signature
+textBook_chn_bd56ef2c	2	p1	地理 选择性必修3 资源、环境与国家安全	FIXED	cover: 地理 + 选择性必修3 / 资源、环境与国家安全 (two printed lines in one box); text joined with a space
+textBook_chn_bd56ef2c	30	p4	地理 选择性必修3 资源、环境与国家安全 › 致同学们	OK	致同学们 letter + column guide p4
+textBook_chn_bd56ef2c	57	p5	地理 选择性必修3 资源、环境与国家安全 › 目录	OK	目录 over unit list p5-6
+textBook_chn_bd56ef2c	60	p7	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动	FIXED	第1单元 / 自然资源与人类活动 unit opener p7; text joined with a space
+textBook_chn_bd56ef2c	65	p8	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动 › 主题1 自然资源的类型和特征	OK	主题1 自然资源的类型和特征 p8; opener panels and 探究 box text (round 3)
+textBook_chn_bd56ef2c	91	p9	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动 › 主题1 自然资源的类型和特征 › 自然资源的类型	OK	自然资源的类型 p9; 思考 prompt text
+textBook_chn_bd56ef2c	95	p9	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动 › 主题1 自然资源的类型和特征 › 自然资源的类型 › 可再生资源	OK	可再生资源 own-line head p9
+textBook_chn_bd56ef2c	100	p9	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动 › 主题1 自然资源的类型和特征 › 自然资源的类型 › 不可再生资源	OK	不可再生资源 own-line head p9
+textBook_chn_bd56ef2c	105	p10	地理 选择性必修3 资源、环境与国家安全 › 第1单元 自然资源与人类活动 › 主题1 自然资源的类型和特征 › 自然资源的类型 › 不可再生资源 › 稀土资源	OK	阅读 box title 稀土资源 p10 with own text and charts, end of excerpt
+textBook_chn_d4a9cac4	3	p1	高等数学习题全解指南 上册 同济·第六版	OK	cover: 高等数学习题全解指南 + 上册 同济·第六版 union; p2 title page repeat
+textBook_chn_d4a9cac4	12	p3	高等数学习题全解指南 上册 同济·第六版 › 内容提要	OK	内容提要 on copyright page p3 over its paragraphs; CIP block text
+textBook_chn_d4a9cac4	47	p4	高等数学习题全解指南 上册 同济·第六版 › 前言	OK	前言 over preface + signature p4; p5 blank
+textBook_chn_d4a9cac4	54	p6	高等数学习题全解指南 上册 同济·第六版 › 目录	OK	目录 p6 over contents list (part line 一、… is a TOC entry)
+textBook_chn_d605335f	3	p1	数学 三年级 上册	OK	cover: 数学 + 三年级 + 上册 union; p2 title page repeat; p3 colophon
+textBook_chn_d605335f	20	p4	数学 三年级 上册 › 编者的话	OK	编者的话 letter title p4 over letter + signature
+textBook_chn_df6c9bad	3	p1	数学 八年级下册	OK	cover: 数学 + 八年级下册 union (pinyin, series text); p2 title page repeat; p3 editor credits only
+textBook_chn_fdc97197	4	p1	通用技术 选择性必修3 工程设计基础	FIXED	cover: 通用技术 + 选择性必修3 + 工程设计基础 union; text carried the dash ornaments (——, —) of the cover line, removed
+textBook_chn_fdc97197	41	p4	通用技术 选择性必修3 工程设计基础 › 前言	OK	前言 over preface p4-5
+textBook_chn_fdc97197	51	p6	通用技术 选择性必修3 工程设计基础 › 目录	OK	目录 over chapter list p6-7
+textBook_chn_fdc97197	64	p8	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述	OK	第一章 (一 in a disc) + 工程设计概述 chapter opener p8
+textBook_chn_fdc97197	67	p9	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程	OK	第一节 了解工程 p9
+textBook_chn_fdc97197	68	p9	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程 › 学习目标	OK	学习目标 label over two bullets, block ends at 一、 (round 3)
+textBook_chn_fdc97197	71	p9	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程 › 一、工程的含义与种类	OK	一、工程的含义与种类 p9-11
+textBook_chn_fdc97197	75	p9	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程 › 一、工程的含义与种类 › 中国人自己设计的第一条铁路——京张铁路	OK	case box title under kind label 案例 (text); 讨论/分析/思考 follow under it (round 3)
+textBook_chn_fdc97197	91	p10	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程 › 一、工程的含义与种类 › 立即行动	OK	立即行动 label over task + table 1-2, ends at 二、
+textBook_chn_fdc97197	97	p11	通用技术 选择性必修3 工程设计基础 › 第一章 工程设计概述 › 第一节 了解工程 › 二、工程的特性	OK	二、工程的特性 p11, end of excerpt
+textBook_eng_0ee658d7	1	p1	TRIGONOMETRY	OK	cover title TRIGONOMETRY (OCR casing fixed); On the cover / license lead-ins text (round 3); p3 title page repeat
+textBook_eng_215881e5	1	p1	Nature of Geographic Information	OK	cover title p1; p2 title page repeat; p3 license
+textBook_eng_215881e5	9	p5	Nature of Geographic Information › Contents	OK	Contents over chapter list p5-6
+textBook_eng_215881e5	12	p7	Nature of Geographic Information › About this Book	OK	About this Book over its paragraphs p7
+textBook_eng_215881e5	18	p8	Nature of Geographic Information › Acknowledgements	OK	Acknowledgements p8-9; restated subtitle and byline inside it are text
+textBook_eng_47833e8c	1	p1	INTRODUCTION TO COMPUTER PROGRAMMING WITH PYTHON	OK	cover title p1; p2 and p4 title pages repeat; p3 blank-page note
+textBook_eng_499f6e93	1	p1	Think Java How to Think Like a Computer Scientist	OK	cover title + subtitle printed as one title p1; p3 title page repeat; p4 copyright
+textBook_eng_499f6e93	13	p5	Think Java How to Think Like a Computer Scientist › Contents	OK	Contents heading p5, excerpt ends below it
+textBook_eng_5074afd3	1	p1	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students	OK	cover title + subtitle in one box p1; p3 title page repeat; p4-6 copyright and blank pages
+textBook_eng_5074afd3	14	p7	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Contents	OK	Contents over list p7-8 (running head CONTENTS repeat)
+textBook_eng_5074afd3	19	p9	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface	OK	Preface p9-11 (running head PREFACE repeat)
+textBook_eng_5074afd3	22	p9	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › How to use this book	OK	How to use this book subsection p9
+textBook_eng_5074afd3	25	p9	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › MATLAB	OK	MATLAB subsection p9
+textBook_eng_5074afd3	30	p10	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Formatting	OK	Formatting subsection p10; code-listing caption text
+textBook_eng_5074afd3	41	p10	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Feedback	OK	Feedback subsection p10
+textBook_eng_5074afd3	44	p11	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Revision history	OK	Revision history subsection p11
+textBook_eng_5074afd3	45	p11	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Revision history › 2017 FIRST EDITION	OK	year 2017 + FIRST EDITION label over its bullet list
+textBook_eng_5074afd3	48	p11	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Revision history › 2019 SECOND EDITION	OK	year 2019 + SECOND EDITION label over its bullets
+textBook_eng_5074afd3	53	p11	Introduction to GNU Octave A brief tutorial for linear algebra and calculus students › Preface › Revision history › 2020 THIRD EDITION	OK	year 2020 + THIRD EDITION label over its bullets, end of excerpt
+textBook_eng_6104753f	4	p1	Discrete Math with SageMath	OK	cover title Discrete Math with SageMath (Learn Math tagline text); p2-3 title pages repeat; p4 copyright
+textBook_eng_6104753f	14	p5	Discrete Math with SageMath › Preface	OK	Preface over paragraphs + signature p5
+textBook_eng_6104753f	24	p6	Discrete Math with SageMath › Acknowledgements	OK	Acknowledgements over reviewer lists p6
+textBook_eng_6104753f	37	p7	Discrete Math with SageMath › From the Student Authors	OK	From the Student Authors over paragraphs p7
+textBook_eng_6104753f	48	p8	Discrete Math with SageMath › Authors and Contributors	OK	Authors and Contributors over author blocks p8
+textBook_eng_6f1daec7	1	p1	FUNDAMENTALS OF MATRIX ALGEBRA	OK	cover title FUNDAMENTALS of MATRIX ALGEBRA (graphic "of" restored); p3 title page repeat; p4 copyright
+textBook_eng_6f1daec7	12	p5	FUNDAMENTALS OF MATRIX ALGEBRA › THANKS	OK	THANKS over paragraphs p5; p6 blank
+textBook_eng_6f1daec7	19	p7	FUNDAMENTALS OF MATRIX ALGEBRA › PREFACE	OK	PREFACE over letter + signature p7 (italic subtitle text); p8 blank
+textBook_eng_6f1daec7	31	p9	FUNDAMENTALS OF MATRIX ALGEBRA › Contents	OK	Contents over list p9
+textBook_eng_7438dcd2	1	p1	A Computational Introduction to Number Theory and Algebra	OK	title A Computational Introduction to Number Theory and Algebra p1; p3 hyperlink note, p4 copyright: no headings
+textBook_eng_7ee5bbca	1	p1	Phylogenetic Comparative Methods	OK	title page p1 (author, date text)
+textBook_eng_7ee5bbca	5	p2	Phylogenetic Comparative Methods › Copyright	OK	Copyright over its lines p2
+textBook_eng_7ee5bbca	10	p3	Phylogenetic Comparative Methods › Acknowledgements	OK	Acknowledgements over paragraphs p3
+textBook_eng_7ee5bbca	17	p4	Phylogenetic Comparative Methods › Table of contents	OK	Table of contents over list p4
+textBook_eng_7ee5bbca	20	p5	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program	OK	Chapter 1 heading p5
+textBook_eng_7ee5bbca	21	p5	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Section 1.1: Introduction	OK	Section 1.1 p5-6
+textBook_eng_7ee5bbca	31	p6	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Section 1.2: The roots of comparative methods	OK	Section 1.2 p6-8
+textBook_eng_7ee5bbca	42	p8	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Section 1.3: A brief introduction to phylogenetic trees	OK	Section 1.3 p8-10
+textBook_eng_7ee5bbca	54	p10	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Section 1.4: What we can (and can't) learn about evolutionary history from living species	OK	Section 1.4 p10-12
+textBook_eng_7ee5bbca	66	p12	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Section 1.5: Overview of the book	OK	Section 1.5 p12-13
+textBook_eng_7ee5bbca	73	p13	Phylogenetic Comparative Methods › Chapter 1: A Macroevolutionary Research Program › Footnotes	OK	chapter-end Footnotes p13, same level as sections
+textBook_eng_7ee5bbca	77	p14	Phylogenetic Comparative Methods › Chapter 2: Fitting Statistical Models to Data	OK	Chapter 2 heading p14
+textBook_eng_7ee5bbca	78	p14	Phylogenetic Comparative Methods › Chapter 2: Fitting Statistical Models to Data › Section 2.1: Introduction	OK	Section 2.1 p14, end of excerpt
+textBook_eng_81dcb97d	1	p1	MULTIVARIABLE CALCULUS	OK	cover title MULTIVARIABLE CALCULUS (OCR word break fixed) p1; p2-4 blank; p5 title page repeat
+textBook_eng_865c3034	1	p1	Transition to Higher Mathematics Structure and Proof (Second Edition)	OK	cover title + subtitle + edition in one box p1; p2 title page repeat; p3 license lead-ins text
+textBook_eng_9587c15d	1	p1	Electrolysers, Fuel Cells and Batteries: Analytical modelling	OK	cover spine title p1; p2 title page repeat; p3 copyright; p4-5 blank
+textBook_eng_9587c15d	11	p6	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Preface	OK	Preface p6-7 over its subsections
+textBook_eng_9587c15d	12	p6	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Preface › Prerequisites	OK	Prerequisites subsection p6
+textBook_eng_9587c15d	14	p6	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Preface › Reader guidelines	OK	Reader guidelines subsection p6
+textBook_eng_9587c15d	18	p6	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Preface › Content	OK	Content subsection p6-7
+textBook_eng_9587c15d	23	p7	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Preface › Acknowledgements	OK	Acknowledgements subsection p7 + signature
+textBook_eng_9587c15d	27	p8	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Contents	OK	Contents over list p8-12 (running head CONTENTS repeats); p13 blank
+textBook_eng_9587c15d	41	p14	Electrolysers, Fuel Cells and Batteries: Analytical modelling › Nomenclature	OK	Nomenclature over symbol tables p14-15 (group labels inside one text box)
+textBook_eng_99585330	1	p1	General Microbiology	OK	cover title p1; p3 title page repeat; p4 copyright; p2/p6 blank
+textBook_eng_99585330	10	p5	General Microbiology › Contents	OK	Contents over chapter list p5
+textBook_eng_99585330	12	p7	General Microbiology › 1. Introduction to Microbiology	OK	chapter 1. Introduction to Microbiology p7-10 (running foot repeat)
+textBook_eng_99585330	16	p7	General Microbiology › 1. Introduction to Microbiology › Characteristics of Microbes	OK	Characteristics of Microbes section p7
+textBook_eng_99585330	20	p7	General Microbiology › 1. Introduction to Microbiology › Microbe Size	OK	Microbe Size section p7-8
+textBook_eng_99585330	27	p8	General Microbiology › 1. Introduction to Microbiology › The Discovery of Microbes	OK	The Discovery of Microbes section p8 over its two person subsections
+textBook_eng_99585330	30	p8	General Microbiology › 1. Introduction to Microbiology › The Discovery of Microbes › Robert Hooke (1635-1703)	OK	Robert Hooke (1635-1703) subsection p8
+textBook_eng_99585330	32	p8	General Microbiology › 1. Introduction to Microbiology › The Discovery of Microbes › Antony van Leeuwenhoek (1632-1723)	OK	Antony van Leeuwenhoek (1632-1723) subsection p8
+textBook_eng_99585330	36	p9	General Microbiology › 1. Introduction to Microbiology › Microbial Groups	OK	Microbial Groups section p9 over the domain subsections
+textBook_eng_99585330	43	p10	General Microbiology › 1. Introduction to Microbiology › Microbial Groups › Bacteria	OK	Bacteria subsection p10
+textBook_eng_99585330	45	p10	General Microbiology › 1. Introduction to Microbiology › Microbial Groups › Archaea	OK	Archaea subsection p10
+textBook_eng_99585330	47	p10	General Microbiology › 1. Introduction to Microbiology › Microbial Groups › Eukarya	OK	Eukarya subsection p10
+textBook_eng_99585330	49	p10	General Microbiology › 1. Introduction to Microbiology › Microbial Groups › Viruses	OK	Viruses subsection p10
+textBook_eng_99585330	51	p10	General Microbiology › 1. Introduction to Microbiology › Taxonomic Ranks	OK	Taxonomic Ranks section p10, end of excerpt
+textBook_eng_a237ffc8	2	p1	THE JOY OF CRYPTOGRAPHY	OK	cover title p1 (author, draft date text)
+textBook_eng_a237ffc8	6	p2	THE JOY OF CRYPTOGRAPHY › Preface	OK	Preface p2-8 over its question sections
+textBook_eng_a237ffc8	9	p2	THE JOY OF CRYPTOGRAPHY › Preface › What Is This Book About?	OK	What Is This Book About? p2
+textBook_eng_a237ffc8	15	p2	THE JOY OF CRYPTOGRAPHY › Preface › Who Is This Book For?	OK	Who Is This Book For? p2
+textBook_eng_a237ffc8	19	p3	THE JOY OF CRYPTOGRAPHY › Preface › What Background Is Needed To Understand This Book?	OK	What Background Is Needed To Understand This Book? p3
+textBook_eng_a237ffc8	23	p3	THE JOY OF CRYPTOGRAPHY › Preface › Why Is Cryptography A Difficult Subject?	OK	Why Is Cryptography A Difficult Subject? p3-4 (bold run-in leads text)
+textBook_eng_a237ffc8	38	p4	THE JOY OF CRYPTOGRAPHY › Preface › Known Shortcomings	OK	Known Shortcomings p4
+textBook_eng_a237ffc8	45	p5	THE JOY OF CRYPTOGRAPHY › Preface › Code-Based Games Philosophy	OK	Code-Based Games Philosophy p5-6
+textBook_eng_a237ffc8	60	p6	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff	OK	Other Boring Stuff p6 over smaller subheads
+textBook_eng_a237ffc8	61	p6	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff › Copyright	OK	Copyright subhead p6
+textBook_eng_a237ffc8	70	p6	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff › About the cover	OK	About the cover subhead p6
+textBook_eng_a237ffc8	75	p7	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff › Acknowledgements	OK	Acknowledgements printed as subhead of Other Boring Stuff p7 (rounds 2-3 accepted)
+textBook_eng_a237ffc8	78	p7	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff › Changelog	OK	Changelog subhead p7-8
+textBook_eng_a237ffc8	100	p8	THE JOY OF CRYPTOGRAPHY › Preface › Other Boring Stuff › Road Map	OK	Road Map subhead p8, same size as Changelog
+textBook_eng_a237ffc8	107	p9	THE JOY OF CRYPTOGRAPHY › Contents	OK	Contents over list p9-11
+textBook_eng_a237ffc8	116	p12	THE JOY OF CRYPTOGRAPHY › 0 Review of Concepts & Notation	OK	chapter 0 Review of Concepts & Notation p12-13 (running head repeat)
+textBook_eng_a237ffc8	118	p12	THE JOY OF CRYPTOGRAPHY › 0 Review of Concepts & Notation › 0.1 Logs & Exponents	OK	0.1 Logs & Exponents p12
+textBook_eng_a237ffc8	126	p12	THE JOY OF CRYPTOGRAPHY › 0 Review of Concepts & Notation › 0.2 Modular Arithmetic	OK	0.2 Modular Arithmetic p12-13; Definition/Example margin labels text
+textBook_eng_a5d8350e	1	p1	Measure, Integration & Real Analysis	OK	cover title p1 (author name, date, license text); running foot naming the book repeats; p2 dedication
+textBook_eng_a5d8350e	16	p3	Measure, Integration & Real Analysis › About the Author	OK	About the Author over bio paragraphs + photo p3
+textBook_eng_a5d8350e	27	p4	Measure, Integration & Real Analysis › Contents	OK	Contents over list p4
+textBook_eng_b6949668	1	p1	Introduction to Applied Statistics for Psychology Students	OK	cover title p1; p2 blank; p3 title page repeat
+textBook_eng_db8099b5	6	p1	Calculus in Context	OK	repository cover sheet book title p1; second sheet p3 and title page p5 repeat; Recommended Citation/Authors/project line text; p6 committee name list text
+textBook_eng_db8099b5	54	p7	Calculus in Context › Preface: 2008 edition	OK	Preface: 2008 edition over its paragraphs p7; p8 blank
+textBook_eng_db8099b5	61	p9	Calculus in Context › Preface: 1994 edition	OK	Preface: 1994 edition p9 (bold run-in lead text)
+textBook_eng_db8099b5	64	p9	Calculus in Context › Preface: 1994 edition › Starting Points	OK	Starting Points subhead over its bullet list p9, end of excerpt

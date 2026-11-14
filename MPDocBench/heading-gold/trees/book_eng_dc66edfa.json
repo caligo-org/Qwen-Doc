@@ -1,0 +1,336 @@
+{
+ "doc": "book_eng_dc66edfa",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "COMPUTER NETWORKS Lecture Notes DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING SHRI VISHNU ENGINEERING COLLEGE FOR WOMEN",
+   "why": "title union: subject + document type (Computer Networks Lecture Notes) + owner department/college block printed large on the cover"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "UNIT-I Introduction to Computer Networks",
+   "why": "unit: unit label + unit title in one box"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "1.1 Data Communication:",
+   "why": "numbered section; title run into its first paragraph in the same box, node text is the title part"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "1.1.1 Components:",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "1.1.2 Data Representation:",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 5,
+   "parent": 19,
+   "text": "Numbers:",
+   "why": "item label with its own paragraph (data form), one level below its subsection (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 5,
+   "parent": 19,
+   "text": "Images:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 5,
+   "parent": 19,
+   "text": "Audio:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 5,
+   "parent": 19,
+   "text": "Video:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "1.1.3 Data Flow",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 5,
+   "parent": 31,
+   "text": "Simplex:",
+   "why": "item label with its own paragraph (data-flow mode) (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 5,
+   "parent": 31,
+   "text": "Half-Duplex:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 5,
+   "parent": 31,
+   "text": "Full-Duplex:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "1.2 NETWORKS",
+   "why": "numbered section"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "1.2.1 Distributed Processing",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "1.2.2 Network Criteria",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 5,
+   "parent": 53,
+   "text": "Performance:",
+   "why": "item label with its own paragraph (criterion) (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 5,
+   "parent": 53,
+   "text": "Reliability:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 5,
+   "parent": 53,
+   "text": "Security:",
+   "why": "item label with its own paragraph (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "1.2.3 Physical Structures:",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Type of Connection",
+   "why": "italic label naming the topic of the following block (types of connection) (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 6,
+   "parent": 63,
+   "text": "Point-to-Point",
+   "why": "item label: one of the connection types the block lists (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 6,
+   "parent": 63,
+   "text": "Multipoint",
+   "why": "item label: one of the connection types the block lists (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "1.2.3.1 Physical Topology",
+   "why": "numbered sub-subsection 1.2.3.1"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 6,
+   "parent": 74,
+   "text": "Star Topology:",
+   "why": "user decision 2026-11-13: own-line bold topology label with its own block stays a heading although sibling Ring Topology is run-in (NOTATIONS exception); one level below 1.2.3.1 Physical Topology; restores the round-1 node removed in round 2"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 6,
+   "parent": 74,
+   "text": "Bus Topology:",
+   "why": "user decision 2026-11-13: own-line bold topology label with its own block stays a heading; the run-in Ring Topology paragraph (#104 onward) sits under it (accepted by the user); one level below 1.2.3.1 Physical Topology; restores the round-1 node removed in round 2"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 4,
+   "parent": 49,
+   "text": "1.2.4 Categories of Networks",
+   "why": "numbered subsection"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 5,
+   "parent": 111,
+   "text": "Local Area Networks:",
+   "why": "item label: network category with its own paragraphs (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 5,
+   "parent": 111,
+   "text": "Metropolitan Area Network (MAN):",
+   "why": "item label: network category (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 5,
+   "parent": 111,
+   "text": "Wide Area Network (WAN).",
+   "why": "item label: network category (user decision 2026-11-13: own-line label headings confirmed as headings)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    123
+   ],
+   "of": 122,
+   "why": "repeat: the same label restated on the next line, nothing in between"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "of": 129,
+   "why": "repeat: the same label restated on the next line, nothing in between"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 115,
+   "why": "numbered list item (one of three characteristics), no block of its own"
+  },
+  {
+   "box": 116,
+   "why": "numbered list item, no block of its own"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "logo text on the cover"
+  },
+  {
+   "box": 34,
+   "why": "figure sub-caption"
+  },
+  {
+   "box": 36,
+   "why": "figure sub-caption"
+  },
+  {
+   "box": 38,
+   "why": "figure sub-caption"
+  },
+  {
+   "box": 81,
+   "why": "user decision 2026-11-13: Advantages:/Disadvantages: of the run-in Mesh: item stay text (as headings they would read as advantages of 1.2.3.1 Physical Topology)"
+  },
+  {
+   "box": 84,
+   "why": "user decision 2026-11-13: Advantages:/Disadvantages: of the run-in Mesh: item stay text (as headings they would read as advantages of 1.2.3.1 Physical Topology)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 104,
+   "closes": 95,
+   "why": "run-in sibling 'Ring Topology' (inside paragraph box #104) follows own-line 'Bus Topology:'; per the run-in-sibling rule a break closes the previous label, so the ring content sits under 1.2.3.1 Physical Topology"
+  }
+ ]
+}

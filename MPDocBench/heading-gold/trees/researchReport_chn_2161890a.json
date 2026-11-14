@@ -1,0 +1,186 @@
+{
+ "doc": "researchReport_chn_2161890a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "万联晨会",
+   "why": "title: morning-brief name (owner brand + brief type in one line)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "概览",
+   "why": "section: cover overview containing the summary boxes"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "核心观点",
+   "why": "box title: overview box with its summary block"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "财经要闻",
+   "why": "box title: overview box listing the news headlines"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "国内市场表现",
+   "why": "box title: domestic market table box"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "国际市场表现",
+   "why": "box title: international market table box"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "核心观点",
+   "why": "section: body banner"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "市场回顾",
+   "why": "section: subsection under the banner"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "今日观点",
+   "why": "section: subsection under the banner"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "财经要闻",
+   "why": "section: body banner"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "看好民营经济活力与韧性推动小微贷款扩量降价",
+   "why": "story headline under the news banner"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "份额逆势增长资金借道ETF布局A股",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "商务部：我国连续5个月实现吸收外资增长",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "多因素催化新股报价走低公募基金科创板打新更加谨慎",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "证券分析师承诺",
+   "why": "back matter: analyst statement title"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "免责声明",
+   "why": "back matter: disclaimer title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "vertical side tab 市场研究 (category tag)"
+  },
+  {
+   "box": 2,
+   "why": "vertical side tab 晨会纪要"
+  },
+  {
+   "box": 3,
+   "why": "vertical side tab 证券研究报告"
+  },
+  {
+   "box": 12,
+   "why": "teaser headline in overview list (TOC-like)"
+  },
+  {
+   "box": 57,
+   "why": "office address block"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 20,
+   "closes": 7,
+   "why": "round 5: host/contact box (主持人, 电话, 传真) after the overview boxes is not about 概览"
+  },
+  {
+   "before": 57,
+   "closes": 48,
+   "why": "round 5: office address block (colophon) after the disclaimer text is not about 免责声明"
+  }
+ ]
+}

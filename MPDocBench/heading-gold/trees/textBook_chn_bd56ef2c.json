@@ -1,0 +1,161 @@
+{
+ "doc": "textBook_chn_bd56ef2c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "地理 选择性必修3 资源、环境与国家安全",
+   "why": "title union: subject + course line + module name naming this book (series line in its own box is text)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "致同学们",
+   "why": "front matter: letter title"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "第1单元 自然资源与人类活动",
+   "why": "unit label + unit title (one box)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 60,
+   "text": "主题1 自然资源的类型和特征",
+   "why": "topic label + topic title (one box)"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "问题导引",
+   "why": "round 5: restored; topic-opener panel label 问题导引 over its own bullet list (#68-69): heading at the level of the topic's sections (v3 label rule); the next panel 学习目标 closes it"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "学习目标",
+   "why": "round 5: restored; topic-opener panel label 学习目标 over its own bullet list (#72-73): heading at the level of the topic's sections; the next panel 核心术语 closes it"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "核心术语",
+   "why": "round 5: restored, a break now closes it before #79; topic-opener panel label 核心术语 over its own term list (#76-78): heading at the level of the topic's sections"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "“资源赌约”谁会赢",
+   "why": "round 5: restored, a break now closes it before #89; 探究 box title over its own block (story #81-83 + questions #85-86): heading one level below 主题1 by the box rule"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 4,
+   "parent": 65,
+   "text": "自然资源的类型",
+   "why": "topic section heading"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 5,
+   "parent": 91,
+   "text": "可再生资源",
+   "why": "sub-heading with icon under 自然资源的类型: one of the types the section lists"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 5,
+   "parent": 91,
+   "text": "不可再生资源",
+   "why": "sub-heading, same look as #95"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 6,
+   "parent": 100,
+   "text": "稀土资源",
+   "why": "reading box title: says what the box is about; one level below the open section (kind label 阅读 is text)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    6,
+    8
+   ],
+   "of": 2,
+   "why": "repeat: title page restates the cover title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 79,
+   "why": "kind label 探究 printed before the box title: label, text"
+  },
+  {
+   "box": 93,
+   "why": "callout box 思考 with one short question: text"
+  },
+  {
+   "box": 104,
+   "why": "kind label 阅读 printed before the box title: label, text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 79,
+   "closes": 75,
+   "why": "panel row ends at the dotted rule; the 探究 box (kind label #79 + title #80) is not about 核心术语"
+  },
+  {
+   "before": 89,
+   "closes": 80,
+   "why": "探究 box ends at the page; the topic's main text (definition of 自然资源) resumes under 主题1"
+  }
+ ]
+}

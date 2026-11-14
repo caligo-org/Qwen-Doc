@@ -1,0 +1,431 @@
+{
+ "doc": "book_eng_0f8b3268",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "BASKETBALL",
+   "why": "title: subject title on the cover; publisher logo/brand and slogan are text"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "About the Tutorial",
+   "why": "front matter section"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Audience",
+   "why": "front matter section"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Prerequisite",
+   "why": "front matter section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Copyright & Disclaimer",
+   "why": "front matter section"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "1. Basketball – Overview",
+   "why": "chapter 1"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "Basketball - Objective",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "Basketball - Team Size",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "Participating Countries",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "2. Basketball - Playing Environment",
+   "why": "chapter 2"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 46,
+   "text": "Court Design",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "3. Basketball - Equipment",
+   "why": "chapter 3"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 3,
+   "parent": 54,
+   "text": "Basket",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 54,
+   "text": "Ball",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 54,
+   "text": "Other Equipment",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "4. Basketball – Common Terms",
+   "why": "chapter 4"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "5. Basketball - How to Play?",
+   "why": "chapter 5"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "Rules of the Game",
+   "why": "subsection (larger underlined style)"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 4,
+   "parent": 95,
+   "text": "What a Basketball Player Should not Do?",
+   "why": "smaller bold head inside 'Rules of the Game': its list is about the rules (content beats look)"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 3,
+   "parent": 84,
+   "text": "Regulating Bodies",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "6. Basketball - Variants",
+   "why": "chapter 6"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "3-against-3 or 3-on-3",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "21 or Cut Throat",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "Chicago",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "Horse",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "Shooting Contest",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "level": 3,
+   "parent": 126,
+   "text": "Slam Ball",
+   "why": "subsection: variant"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Basketball - Tournaments",
+   "why": "breadcrumb round 3: printed in the subsection style inside chapter 6, but tournaments are not a basketball variant (path \"Variants > Tournaments\" is inconsistent); content beats look: a topic section like the chapters (\"Basketball - X\" chapter title pattern), placed at chapter level between 6 and 7"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "7. Basketball – Champions",
+   "why": "chapter 7"
+  },
+  {
+   "boxes": [
+    163
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Bob Cousy",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    165
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Bill Russell",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Wilt Chamberlain",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    171
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Magic Johnson",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Larry Bird",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Michael Jordan",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    181
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Kareem Abdul-Jabbar",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    183
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "Shaquille O'Neal",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    185
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "John Stockton",
+   "why": "subsection: champion with own paragraph"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "level": 3,
+   "parent": 159,
+   "text": "LeBron James",
+   "why": "subsection: champion with own paragraph"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "publisher logo / brand on the cover"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 119,
+   "closes": 107,
+   "why": "the 'should not do' list ends; the closing paragraph about violating any of the rules (and the women's rules) belongs to Rules of the Game"
+  }
+ ]
+}

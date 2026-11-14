@@ -1,0 +1,191 @@
+{
+ "doc": "magazine_eng_571b7df5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "FROM THE MAKERS OF TRAIL MAGAZINE WINTER GEAR GUIDE",
+   "why": "title union: owner line (FROM THE MAKERS OF TRAIL MAGAZINE) + guide title WINTER GEAR GUIDE; the colophon restates it as TRAIL MAGAZINE WINTER GEAR GUIDE"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "52 TRAIL-TESTED PRODUCTS",
+   "why": "front matter: introduction, its text below"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "contents title (front matter at section level)"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "TRAIL AWARDS",
+   "why": "front-matter box with its own title (award key with its explanations)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "YOUR TESTERS",
+   "why": "front-matter box with its own title (testers)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "BEN WEEKS",
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #37 (the tester portrait printed left of the name)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "MATT JONES",
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #40 (the tester portrait printed left of the name)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "ELLIE CLEWLOW",
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #43 (the tester portrait printed left of the name)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "JAMES FORREST",
+   "why": "tester name heading her/his own short bio (own-line label with its own block) starts: #46 (the tester portrait printed left of the name)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "INSULATED JACKETS buying guide",
+   "why": "section: category opener INSULATED JACKETS buying guide"
+  },
+  {
+   "boxes": [
+    56,
+    57
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "1 TYPE OF INSULATION",
+   "why": "numbered point: number badge ∪ title, its paragraph below"
+  },
+  {
+   "boxes": [
+    60,
+    61
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "2 FILL POWER",
+   "why": "numbered point: number badge ∪ title, its paragraph below"
+  },
+  {
+   "boxes": [
+    64,
+    65
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "3 BODY MAPPING",
+   "why": "numbered point: number badge ∪ title, its paragraph below"
+  },
+  {
+   "boxes": [
+    69,
+    70
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "4 SHELL FABRIC",
+   "why": "numbered point: number badge ∪ title, its paragraph below"
+  },
+  {
+   "boxes": [
+    73,
+    74
+   ],
+   "level": 3,
+   "parent": 53,
+   "text": "5 FEATURES",
+   "why": "numbered point: number badge ∪ title, its paragraph below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (WINTER GEAR GUIDE 2025)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "of": 1,
+   "why": "repeat: guide title restated (TRAIL MAGAZINE WINTER GEAR GUIDE 2025) over the colophon credits"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the magazine (+ issue date)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 49,
+   "closes": 36,
+   "why": "tester bios end; the restated guide title and staff credits (colophon) follow"
+  },
+  {
+   "before": 77,
+   "closes": 73,
+   "why": "last numbered point (5 FEATURES) ends; the IN PARTNERSHIP WITH sponsor line about the whole buying guide follows (belongs to the guide)"
+  }
+ ]
+}

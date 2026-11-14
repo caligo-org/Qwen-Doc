@@ -1,0 +1,81 @@
+{
+ "doc": "researchReport_eng_d3339752",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs GS SUSTAIN: Investing in the Sustainable Development Goals Social Capital: How business can drive impact through affordability",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: GS SUSTAIN: Investing in the Sustainable Development Goals Social Capital: How business can drive impact through affordability)."
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Impact through Affordability in numbers",
+   "why": "section: full-page infographic with its own page title (no exhibit caption)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "FOOD",
+   "why": "column title of the infographic with its facts block"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "HEALTHCARE",
+   "why": "column title"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "EDUCATION",
+   "why": "column title"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "HOUSING & MOBILITY",
+   "why": "column title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    23
+   ],
+   "of": 2,
+   "why": "repeat: running head restating the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

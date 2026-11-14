@@ -1,0 +1,65 @@
+{
+ "doc": "manualGuide_eng_2ea63cc3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "PRIME H510M-K ASUS Motherboard",
+   "why": "title union: model (PRIME H510M-K) + brand and product type on the cover spine (ASUS Motherboard); breadcrumb review r2: line break in the node text replaced by a space"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Safety information",
+   "why": "front matter: safety section (TOC entry)"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "Electrical safety",
+   "why": "subsection: own-line subhead with its bullets"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 14,
+   "text": "Operation safety",
+   "why": "subsection: same look"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 4,
+   "why": "bold copyright sentence at the top of the legal page: text, not a section title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "edition / date block: text"
+  }
+ ]
+}

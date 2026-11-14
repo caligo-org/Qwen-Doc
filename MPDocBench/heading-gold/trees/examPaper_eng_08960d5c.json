@@ -1,0 +1,49 @@
+{
+ "doc": "examPaper_eng_08960d5c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Problem 1 – Solution",
+   "why": "round 3: the page header is the only line that says whose document this is (solution of problem 1); by \"every path is a breadcrumb\" and the title rule (owner + document) it is the L1, printed in the header box only; was text in rounds 1-2"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Grading guidelines",
+   "why": "round 3: section of the problem-1 solution sheet (grades the six parts of problem 1); child of the L1 (was L1 beside Solution)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "round 3: \"Solution\" restates the document title (Problem 1 – Solution) at the top of the body: repeat of L1, its content belongs directly to L1"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "running page header p2, same as p1"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "running page header p3; prints \"Problem 3\" but the page grades the six parts of problem 1 (misnumbered running head): repeat of L1"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

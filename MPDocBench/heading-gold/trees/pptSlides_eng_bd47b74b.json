@@ -1,0 +1,80 @@
+{
+ "doc": "pptSlides_eng_bd47b74b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "BIG DATA WITH NOT ONLY SQL",
+   "why": "deck title (gold box also swallowed the author name; text is the title only)"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "WHO AM I",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "BIG DATA MANAGEMENT INSIGHT",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "DATA-DRIVEN ON-LINE WEBSITES",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    10
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "running footer naming the deck"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "author name"
+  },
+  {
+   "box": 3,
+   "why": "slogan"
+  },
+  {
+   "box": 7,
+   "why": "bullet item in the bullet list style (Skills) above a word cloud"
+  }
+ ]
+}

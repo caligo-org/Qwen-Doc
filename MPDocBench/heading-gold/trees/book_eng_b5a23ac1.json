@@ -1,0 +1,370 @@
+{
+ "doc": "book_eng_b5a23ac1",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Dakota State University General Chemistry Laboratory Manual",
+   "why": "title union: owner (issuing university) + document type (lab manual) printed together on the cover"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Introduction",
+   "why": "front matter section: Introduction"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Laboratory Safety Guidelines Dakota State University Chemistry Laboratories",
+   "why": "section: Laboratory Safety Guidelines (title box with its institution lines in the same box)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Introduction",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Laboratory Apparel",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Safety Equipment",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "General Behavior",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Fire",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Chemicals and Chemical Spills",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "Laboratory Equipment",
+   "why": "subsection of the safety guidelines"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 25,
+   "text": "General Guidelines",
+   "why": "subsection of the safety guidelines"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the manual"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    99
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the owner (part of the title union)"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    126
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "of": 25,
+   "why": "repeat: running section tag of the open section"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 8,
+   "why": "running section tag printed above the section heading on its first page"
+  },
+  {
+   "box": 17,
+   "why": "running section tag printed above the section heading on its first page"
+  },
+  {
+   "box": 23,
+   "why": "running section tag printed above the section heading on its first page"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 134,
+   "closes": 110,
+   "why": "closing paragraph about all the guidelines ('I hope you see that these guidelines are for YOUR benefit') follows the General Guidelines list; belongs to the Safety Guidelines section"
+  }
+ ]
+}

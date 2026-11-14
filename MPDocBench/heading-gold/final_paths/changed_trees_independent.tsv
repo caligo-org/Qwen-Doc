@@ -1,0 +1,111 @@
+doc	node	page	verdict	note
+magazine_chn_90f6827e	2	1	OK	
+magazine_chn_90f6827e	31	3	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: L3 -> L2 under the masthead: the column tag 一滴墨香 (#36) is read after this poem title, so the tag is text; break before #37 now closes #31
+magazine_chn_90f6827e	36	3	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: removed node -> considered text: running column tag 一滴墨香 read after its own poem title #31 (tag printed later than its story opener stays text)
+magazine_chn_90f6827e	47	5	OK	
+magazine_chn_90f6827e	65	6	OK	
+magazine_chn_90f6827e	67	6	OK	
+magazine_chn_90f6827e	77	6	OK	
+magazine_chn_90f6827e	80	6	OK	
+magazine_chn_90f6827e	92	7	OK	
+magazine_chn_90f6827e	117	8	OK	running tag 名人明星 (#134, #159) read after the story opener stays text; story in the section slot
+magazine_chn_90f6827e	121	8	OK	
+magazine_chn_90f6827e	139	9	OK	
+magazine_chn_90f6827e	155	9	OK	
+magazine_chn_90f6827e	181	11	OK	
+magazine_chn_90f6827e	182	11	OK	
+magazine_chn_90f6827e	187	11	OK	
+magazine_chn_90f6827e	208	12	OK	
+magazine_chn_d7b9b688	2	1	OK	
+magazine_chn_d7b9b688	16	2	OK	
+magazine_chn_d7b9b688	48	4	OK	
+magazine_chn_d7b9b688	52	4	OK	
+magazine_chn_d7b9b688	72	5	OK	
+magazine_chn_d7b9b688	98	7	OK	
+magazine_chn_d7b9b688	122	8	OK	
+magazine_chn_d7b9b688	136	9	OK	
+magazine_chn_d7b9b688	138	9	OK	
+magazine_chn_b3948362	2	1	OK	
+magazine_chn_b3948362	16	2	OK	
+magazine_chn_b3948362	47	4	OK	
+magazine_chn_b3948362	60	5	OK	
+magazine_chn_b3948362	64	5	OK	
+magazine_chn_3b0b9920	1	1	OK	
+magazine_chn_3b0b9920	41	3	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: L3 -> L2 under the masthead: the column tag 一滴墨香 (#45) is read after this poem title, so the tag is text; break before #46 now closes #41
+magazine_chn_3b0b9920	45	3	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: removed node -> considered text: running column tag 一滴墨香 read after its own poem title #41
+magazine_chn_3b0b9920	56	5	OK	
+magazine_chn_3b0b9920	74	6	OK	
+magazine_chn_3b0b9920	76	6	OK	
+magazine_chn_3b0b9920	89	6	OK	
+magazine_chn_3b0b9920	107	7	OK	
+magazine_chn_3b0b9920	122	8	OK	why text says L3 but node is L2 (story in the section slot after 目录, correct); stale why only
+magazine_chn_3b0b9920	128	8	OK	
+magazine_chn_3b0b9920	138	8	OK	
+magazine_chn_5b74dff1	1	1	OK	
+magazine_chn_5b74dff1	17	2	OK	
+magazine_chn_5b74dff1	49	4	OK	why text says L3 but node is L2 (story in the section slot after 目录, correct); stale why only
+magazine_chn_5b74dff1	51	4	OK	
+magazine_chn_5b74dff1	76	5	OK	
+magazine_chn_5b74dff1	103	6	OK	
+magazine_chn_c1e72d14	2	1	OK	
+magazine_chn_c1e72d14	18	2	OK	
+magazine_chn_c1e72d14	53	4	OK	why text says L3 but node is L2 (correct); stale why only
+magazine_chn_c1e72d14	55	4	OK	
+magazine_chn_c1e72d14	75	5	OK	
+magazine_chn_c1e72d14	104	6	OK	
+magazine_chn_c1e72d14	135	8	OK	why text says L3 but node is L2 (correct); stale why only
+magazine_chn_c1e72d14	138	8	OK	
+book_eng_77552588	1	1	OK	
+book_eng_77552588	3	1	OK	
+book_eng_77552588	4	1	OK	
+book_eng_77552588	17	1	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: node order follows reading order: KEY POINTS read after You, your staff, systems and site text -> L4 under #4 (was L3 listed before #4); new break before #24 closes #17
+book_eng_77552588	29	2	OK	
+book_eng_77552588	33	2	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: node order follows reading order: KEY POINTS read before the 1.2 heading -> L3 under 1.1 (was under 1.2, listed after #36)
+book_eng_77552588	36	2	OK	
+book_eng_77552588	41	3	OK	
+book_eng_77552588	64	4	OK	
+book_eng_77552588	66	4	OK	
+book_eng_77552588	68	4	OK	
+book_eng_77552588	70	4	OK	
+book_eng_77552588	72	4	OK	
+book_eng_77552588	74	4	OK	
+book_eng_77552588	76	4	OK	
+book_eng_77552588	79	4	OK	
+book_eng_77552588	94	5	OK	
+book_eng_77552588	96	5	OK	
+book_eng_77552588	117	5	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: node order follows reading order: KEY POINTS (listening) read after WORKING WITH OTHERS -> L4 under #96 (was L4 under Listening, listed before #96)
+book_eng_77552588	120	5	OK	
+book_eng_77552588	129	6	OK	
+book_eng_77552588	140	6	OK	
+book_eng_77552588	149	7	OK	
+book_eng_77552588	152	7	OK	
+book_eng_77552588	161	7	OK	
+book_eng_77552588	172	8	OK	
+book_eng_77552588	177	9	OK	
+book_eng_77552588	182	9	OK	
+book_eng_77552588	184	9	OK	
+book_eng_77552588	187	9	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: node order follows reading order: KEY POINTS (caring for care givers) read after 1.4 PLANNING -> L4 under #184 (was under CARING FOR CARE GIVERS, listed before 1.4); content does not match its new parent, kept by the reading-order rule
+book_eng_77552588	191	9	OK	NOT APPLIED (main session): the proposed move follows the reader's order for a heading; NOTATIONS keeps headings under the section they belong to so the path stays a breadcrumb; the pushed tree is kept. Proposal: node order follows reading order: KEY POINTS (education) read after PLANNING -> L4 under #184 (was L3 under 1.4, listed before PLANNING)
+book_eng_77552588	197	10	OK	
+book_eng_77552588	228	11	OK	
+book_eng_77552588	229	11	OK	
+book_eng_77552588	234	12	OK	
+book_eng_77552588	238	12	OK	
+book_eng_77552588	240	12	OK	
+book_eng_77552588	242	12	OK	
+book_eng_77552588	247	13	OK	
+book_eng_77552588	251	13	OK	
+book_eng_77552588	263	13	OK	
+book_eng_77552588	269	14	OK	
+book_eng_77552588	271	14	OK	
+book_eng_77552588	279	14	OK	
+book_eng_77552588	281	14	OK	
+book_eng_77552588	283	14	OK	
+book_eng_77552588	294	15	OK	
+book_eng_77552588	299	15	OK	
+book_eng_77552588	301	15	OK	
+book_eng_77552588	307	15	OK	
+book_eng_77552588	317	15	OK	
+magazine_chn_5997ac40	39	3	OK	一滴墨香 column tag (vertical, opener page) heads the poem 荆棘上的雨滴; same as 90f6827e and 3b0b9920 (main session, page viewed)
+magazine_chn_5997ac40	31	3	OK	poem title under its column (main session, page viewed)
+newspaper_chn_11ae9c36	94	2	OK	headline 情牵人民 春暖中国 over its 镜头 subheads; listed before them though the layout reads it later (main session, page viewed)

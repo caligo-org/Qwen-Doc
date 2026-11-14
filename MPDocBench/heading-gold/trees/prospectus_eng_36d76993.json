@@ -1,0 +1,86 @@
+{
+ "doc": "prospectus_eng_36d76993",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Prospectus SEB SICAV 2",
+   "why": "title union in one box: document type Prospectus + fund name SEB SICAV 2 (owner)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Important information",
+   "why": "front matter section with its notices"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Glossary of terms",
+   "why": "front matter section Glossary of terms with its table (tagged table_caption, printed like Important information)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TABLE OF CONTENTS",
+   "why": "contents title; entries are text"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "I. The Fund",
+   "why": "body part I. The Fund (top body unit)"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "1. General information",
+   "why": "numbered chapter 1. under Part I"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 31,
+   "text": "2. Involved parties",
+   "why": "numbered chapter 2. under Part I (numbering: sibling of 1., although printed larger)"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "2.1. Presentation of involved parties",
+   "why": "numbered section 2.1 with its directory table"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover sub-fund list lead-in: cover text"
+  }
+ ]
+}

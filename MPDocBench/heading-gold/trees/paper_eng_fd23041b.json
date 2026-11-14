@@ -1,0 +1,135 @@
+{
+ "doc": "paper_eng_fd23041b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    14
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Head and Face Injuries in Automobile Accidents and Associated Factors in a city in Northeastern Brazil",
+   "why": "title: paper title (the paper's own first page)"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Introduction",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Material and Methods",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Study Design",
+   "why": "subsection: own-line subhead with its paragraph below (gold missed it)"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Data Collection",
+   "why": "subsection: own-line subhead, same look (gold missed it)"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Statistical Analysis",
+   "why": "subsection: own-line subhead, same look (gold missed it)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 34,
+   "text": "Ethical Aspects",
+   "why": "subsection: own-line subhead, same look (gold missed it)"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Results",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Discussion",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Conclusion",
+   "why": "section: top section"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "Acknowledgements",
+   "why": "back matter: acknowledgements at top-section level"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 2,
+   "parent": 14,
+   "text": "References",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "repository cover sheet: title inside a citation record (authors; title; journal), not a heading"
+  },
+  {
+   "box": 13,
+   "why": "article-type label above the title (Original Article): text"
+  }
+ ]
+}

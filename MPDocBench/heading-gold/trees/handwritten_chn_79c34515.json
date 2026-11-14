@@ -1,0 +1,17 @@
+{
+ "doc": "handwritten_chn_79c34515",
+ "schema": 3,
+ "nodes": [],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "form: each page is one table element (lesson observation form); no heading has its own box"
+  },
+  {
+   "box": 2,
+   "why": "platform watermark footer"
+  }
+ ]
+}

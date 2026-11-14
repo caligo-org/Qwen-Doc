@@ -1,0 +1,173 @@
+{
+ "doc": "magazine_eng_fe444622",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "BUILD ROCK HARD ABS IN JUST 4 WEEKS Men's Fitness GUIDE",
+   "why": "title union: guide title BUILD ROCK HARD ABS IN JUST 4 WEEKS + owner/type masthead Men's Fitness GUIDE (gold OCR BULD)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "CONTENTS",
+   "why": "contents title (front matter at section level) starts: #40 (the contents-page photo printed above the CONTENTS title)"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "INTRODUCTION WORKOUT STRUCTURE",
+   "why": "section: running tag INTRODUCTION + WORKOUT STRUCTURE (compound tag in one box); round 3: the compound tag reads as one step 'Introduction: <sub-tag>', each narrower than the guide title, so the path is consistent"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 46,
+   "text": "SESSION BREAKDOWN",
+   "why": "article headline: describes the programme breakdown below"
+  },
+  {
+   "boxes": [
+    50,
+    51
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 1 ABS AND LEGS",
+   "why": "union: workout number label + workout title, its paragraph below"
+  },
+  {
+   "boxes": [
+    53,
+    54
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 2 ABS, CHEST AND BACK",
+   "why": "union: workout number label + workout title, its paragraph below"
+  },
+  {
+   "boxes": [
+    57,
+    58
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "WORKOUT 3 ABS, ARMS AND SHOULDERS",
+   "why": "union: workout number label + workout title, its paragraph below"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "HOW TO DO THE WORKOUTS",
+   "why": "subhead with its paragraphs below"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "SUPERSET STRUCTURE",
+   "why": "box with own title inside the article (superset explanation), one level below the article (printed SUPERSET STRUCTURE; gold OCR SUPerset)"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 4,
+   "parent": 47,
+   "text": "TEMPO EXPLAINED",
+   "why": "subhead with its paragraphs: the tempo of each move is a separate element of the session, not part of the superset structure, so it is a sibling of SUPERSET STRUCTURE under SESSION BREAKDOWN (round 3 containment: was L5 under the box title, which does not describe tempo)"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "INTRODUCTION ANATOMY",
+   "why": "section: running tag INTRODUCTION + ANATOMY (sub-tag changes); round 3: the compound tag reads as one step 'Introduction: <sub-tag>', each narrower than the guide title, so the path is consistent"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 78,
+   "text": "KNOW YOUR MUSCLES",
+   "why": "article headline: anatomy chart and labels below"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    22
+   ],
+   "of": 1,
+   "why": "repeat: guide title restated over the credits page"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 1,
+   "why": "repeat: guide title restated on the part-opener spread (its part name INTRODUCTION is printed only in the following page tags)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the guide"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the guide"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "of": 1,
+   "why": "repeat: running footer naming the guide"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 8,
+   "why": "house ad (subscription, p2)"
+  },
+  {
+   "box": 11,
+   "why": "house ad box title"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 43,
+   "closes": 41,
+   "why": "contents page ends; the part-opener spread (photo, restated title, intro line) follows, not about contents"
+  }
+ ]
+}

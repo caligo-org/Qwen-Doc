@@ -1,0 +1,71 @@
+{
+ "doc": "textBook_chn_d4a9cac4",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "高等数学习题全解指南 上册 同济·第六版",
+   "why": "title union: book title + volume line (上册, box also carries the edition)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "内容提要",
+   "why": "front matter: summary title on the copyright page"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "前言",
+   "why": "front matter: preface title"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8,
+    9
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title and volume"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 15,
+   "why": "CIP block title: colophon, text"
+  },
+  {
+   "box": 55,
+   "why": "TOC part entry: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 12,
+   "why": "内容提要 ends after its two paragraphs; the CIP block and colophon on the same page are not about the book summary"
+  }
+ ]
+}

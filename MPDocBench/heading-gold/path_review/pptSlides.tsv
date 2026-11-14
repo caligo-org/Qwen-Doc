@@ -1,0 +1,242 @@
+doc	node	page	path	verdict	note
+pptSlides_chn_0616b8b7	2	1	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程	OK	cover: book title + chapter line ∪ 7.2 lecture title
+pptSlides_chn_0616b8b7	6	2	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 目录	OK	目录 slide listing 01-04
+pptSlides_chn_0616b8b7	8	3	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 马尔可夫决策过程简介	OK	slide title before first divider, MDP intro bullets
+pptSlides_chn_0616b8b7	17	4	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process)	OK	agenda divider, 01 highlighted
+pptSlides_chn_0616b8b7	18	5	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 随机过程	OK	slide title, stochastic process bullets
+pptSlides_chn_0616b8b7	25	6	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 马尔可夫性质	OK	slide title, Markov property + formula
+pptSlides_chn_0616b8b7	30	7	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 状态转移矩阵	OK	slide title, transition matrix
+pptSlides_chn_0616b8b7	35	8	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 马尔可夫过程	OK	slide title, Markov process + 定义 box
+pptSlides_chn_0616b8b7	37	8	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 马尔可夫过程 › 定义	OK	box label over its definition box
+pptSlides_chn_0616b8b7	41	9	《人工智能数学原理与算法》 第7章：强化学习 7.2 马尔可夫决策过程 › 01 马尔可夫过程 (Markov Process) › 示例：通勤问题	OK	slide title, commute example chain + matrix
+pptSlides_chn_23e6f440	1	1	蚂蚁集团 2022年社会公益报告	OK	cover box: owner + report title
+pptSlides_chn_23e6f440	3	2	蚂蚁集团 2022年社会公益报告 › 目录	OK	目录 over the TOC list
+pptSlides_chn_23e6f440	6	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览	OK	overview spread title over the 5 row panels
+pptSlides_chn_23e6f440	8	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 绿色低碳	OK	row label, green row (Ant Forest)
+pptSlides_chn_23e6f440	10	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 绿色低碳 › 生态保护修复	OK	item label over its stat text
+pptSlides_chn_23e6f440	12	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 绿色低碳 › 低碳生活倡导	OK	item label over its stat text
+pptSlides_chn_23e6f440	14	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › ⼥性发展	OK	row label, women row
+pptSlides_chn_23e6f440	16	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › ⼥性发展 › 一份基础保障	OK	item label over its stat text
+pptSlides_chn_23e6f440	18	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › ⼥性发展 › 一套创就业计划	OK	item label over its stat text
+pptSlides_chn_23e6f440	20	3	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › ⼥性发展 › 一句十年承诺	OK	item label over its stat text
+pptSlides_chn_23e6f440	23	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 乡村振兴	OK	row label, rural row
+pptSlides_chn_23e6f440	26	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 乡村振兴 › 消费助农	OK	item label over its stat text
+pptSlides_chn_23e6f440	28	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 乡村振兴 › 金融科技助农	OK	item label over its stat text
+pptSlides_chn_23e6f440	30	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 人人公益	OK	row label, philanthropy row
+pptSlides_chn_23e6f440	33	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 人人公益 › 平台带动人人参与	OK	item label over its stat text
+pptSlides_chn_23e6f440	35	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 有爱无碍	OK	row label, accessibility row
+pptSlides_chn_23e6f440	38	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 有爱无碍 › 助老公益行动	OK	item label over its stat text
+pptSlides_chn_23e6f440	40	4	蚂蚁集团 2022年社会公益报告 › 2022年进展一览 › 有爱无碍 › 助残公益项目	OK	item label over its stat text
+pptSlides_chn_23e6f440	44	5	蚂蚁集团 2022年社会公益报告 › 绿色低碳	OK	chapter title p5 (green bar), intro + infinity diagram
+pptSlides_chn_23e6f440	75	6	蚂蚁集团 2022年社会公益报告 › 绿色低碳 › 协同多元社会力量，助力生态保护与修复	OK	subsection title p6, diagram + photos; p7 stats/COP15/wetland content falls under it
+pptSlides_chn_23e6f440	98	7	蚂蚁集团 2022年社会公益报告 › 绿色低碳 › 协同多元社会力量，助力生态保护与修复 › 沙棘模式——探索靠山吃山的“新吃法”，让沙棘成为助农增收的“金果果”	OK	pill box title over the 沙棘 box
+pptSlides_chn_23e6f440	104	8	蚂蚁集团 2022年社会公益报告 › 绿色低碳 › 倡导人人可参与的绿色低碳生活	OK	subsection title p8
+pptSlides_chn_23e6f440	107	8	蚂蚁集团 2022年社会公益报告 › 绿色低碳 › 倡导人人可参与的绿色低碳生活 › “蚂蚁森林”绿色低碳倡导场景	OK	panel title over icon grid of scenes (+ partner list in same panel)
+pptSlides_chn_39aa7ee1	1	1	2.7 光电式传感元件	OK	cover lecture title
+pptSlides_chn_39aa7ee1	2	2	2.7 光电式传感元件 › 定义	OK	slide title, definition + mind map
+pptSlides_chn_39aa7ee1	6	3	2.7 光电式传感元件 › 光电检测系统	OK	slide title, system chain diagram
+pptSlides_chn_39aa7ee1	9	4	2.7 光电式传感元件 › 光电检测系统 › 两个光电式检测例子	OK	example slide (no title bar), two figures with figure labels
+pptSlides_chn_39aa7ee1	14	5	2.7 光电式传感元件 › 光源	OK	slide title, light-source requirements
+pptSlides_chn_39aa7ee1	21	6	2.7 光电式传感元件 › 光源 › 1）热辐射光源	OK	numbered slide title under 光源
+pptSlides_chn_39aa7ee1	29	7	2.7 光电式传感元件 › 光源 › 2）气体放电光源	OK	numbered slide title under 光源
+pptSlides_chn_39aa7ee1	42	8	2.7 光电式传感元件 › 光源 › 3）发光二极管	OK	numbered slide title under 光源
+pptSlides_chn_60917576	1	1	信号分析与处理 第二章 连续信号的分析	OK	cover: course name ∪ chapter line
+pptSlides_chn_60917576	9	2	信号分析与处理 第二章 连续信号的分析 › 回顾	OK	slide title p2 (repeated p3), review of CFS/CTFT
+pptSlides_chn_60917576	37	4	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析	OK	slide title p4 (repeated p5)
+pptSlides_chn_60917576	39	4	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用非周期信号的傅立叶变换	OK	➲ block title over three transform pairs
+pptSlides_chn_60917576	40	4	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用非周期信号的傅立叶变换 › 矩形脉冲信号（门函数）	OK	➢ label over its equation
+pptSlides_chn_60917576	42	4	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用非周期信号的傅立叶变换 › 单位冲激信号	OK	➢ label over its equation
+pptSlides_chn_60917576	44	4	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用非周期信号的傅立叶变换 › 单位阶跃信号	OK	➢ label over its equation
+pptSlides_chn_60917576	50	5	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用周期信号的傅立叶变换	OK	➲ block title p5 under the running slide title
+pptSlides_chn_60917576	51	5	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用周期信号的傅立叶变换 › 复指数信号	OK	➢ label over its equation
+pptSlides_chn_60917576	53	5	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用周期信号的傅立叶变换 › 正弦信号	OK	➢ label over its equation
+pptSlides_chn_60917576	55	5	信号分析与处理 第二章 连续信号的分析 › 非周期信号的频谱分析 › 常用周期信号的傅立叶变换 › 一般周期信号	OK	➢ label over its equation
+pptSlides_chn_746216ac	2	1	2022中国科技产业投资机构调研报告	OK	cover report title
+pptSlides_chn_746216ac	9	2	2022中国科技产业投资机构调研报告 › 目录 CONTENTS	OK	目录 ∪ CONTENTS on contents slide
+pptSlides_chn_746216ac	12	2	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状	OK	contents list with Part 01 highlighted = Part 01 divider; p3-10 all Part 01
+pptSlides_chn_746216ac	15	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST	OK	numbered slide title, PEST quadrants
+pptSlides_chn_746216ac	17	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST › 科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂”	OK	key-message headline over the PEST diagram
+pptSlides_chn_746216ac	18	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST › 科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂” › 政策	OK	PEST quadrant label over its bullets
+pptSlides_chn_746216ac	21	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST › 科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂” › 社会	OK	PEST quadrant label (printed under its box)
+pptSlides_chn_746216ac	22	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST › 科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂” › 经济	OK	PEST quadrant label over its bullets
+pptSlides_chn_746216ac	25	3	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.1 市场环境PEST › 科技产业发展的“土壤”已然成熟，政策+经济+技术=“催化剂” › 技术	OK	PEST quadrant label (printed under its box)
+pptSlides_chn_746216ac	30	4	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.2 投资格局分析	OK	numbered slide title p4 (repeated p5)
+pptSlides_chn_746216ac	32	4	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.2 投资格局分析 › 科技产业已是投资机构“必选项”，科技产业融资项目月均达160个	OK	key-message headline p4, bullets + two charts
+pptSlides_chn_746216ac	44	5	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.2 投资格局分析 › 科技投资数字产业化、产业数字化两手抓，智能制造依旧深受喜爱	OK	key-message headline p5 under repeated 1.2 title
+pptSlides_chn_746216ac	54	6	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.3科技产业生态体系：传统产业投资布局方式	OK	numbered slide title 1.3 (traditional layout)
+pptSlides_chn_746216ac	56	6	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.3科技产业生态体系：传统产业投资布局方式 › 基于初级数字经济体系的传统科技产业布局已然无法满足新时代经济新动能需求	OK	key-message headline over value-chain figure
+pptSlides_chn_746216ac	64	7	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.3科技产业生态体系：新型生态体系投资布局方式	OK	second 1.3 slide (new ecosystem), sibling of first 1.3 (accepted SEQ)
+pptSlides_chn_746216ac	66	7	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.3科技产业生态体系：新型生态体系投资布局方式 › 科技产业投资布局体系的升级至关重要，投资机构应尝试构建Web3.0体系下的新生态	OK	key-message headline over ecosystem figure
+pptSlides_chn_746216ac	73	8	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.4科技投资机构经营情况	OK	numbered slide title 1.4
+pptSlides_chn_746216ac	75	8	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.4科技投资机构经营情况 › “差异”显现，国企央企与政府单位类机构与民营机构收入更容易达百亿	OK	key-message headline, bullets + two charts
+pptSlides_chn_746216ac	85	9	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.5 科技投资机构基金类型情况	OK	numbered slide title 1.5
+pptSlides_chn_746216ac	87	9	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.5 科技投资机构基金类型情况 › 个人和外企类偏好天使基金和VC基金，政府和民营类涉猎PE基金居多	OK	key-message headline, bullets + chart
+pptSlides_chn_746216ac	97	10	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.6科技投资机构基金募集周期和管理费率	OK	numbered slide title 1.6
+pptSlides_chn_746216ac	99	10	2022中国科技产业投资机构调研报告 › Part 01 科技产业投资现状 › 1.6科技投资机构基金募集周期和管理费率 › 超七成机构偏好9个月内完成融资，管理费率多集中在2%-3%	OK	key-message headline, bullets + two charts
+pptSlides_chn_7c522d1e	1	1	信号分析与处理 第三章 离散信号的分析	OK	cover: course name ∪ chapter line
+pptSlides_chn_7c522d1e	9	2	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示	OK	section title slide listing its sub-topics (divider)
+pptSlides_chn_7c522d1e	16	3	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 复习 傅里叶变换的离散性与周期性	OK	slide title, review of time/frequency duality
+pptSlides_chn_7c522d1e	22	4	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 计算机能够处理的数据	OK	slide title, data a computer can process
+pptSlides_chn_7c522d1e	29	5	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 复习 傅里叶变换的离散性与周期性	OK	same review title again after a different slide = continuation of #16
+pptSlides_chn_7c522d1e	39	6	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 从有限长序列的DTFT到DFT	OK	slide title, DTFT of finite sequence
+pptSlides_chn_7c522d1e	46	7	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › DFT的引出	OK	slide title; figure label 1、DFT的引出 is a repeat; p8 lead-in slide falls under it
+pptSlides_chn_7c522d1e	62	9	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 从DFS到DFT	OK	slide title p9
+pptSlides_chn_7c522d1e	64	9	信号分析与处理 第三章 离散信号的分析 › 三、离散傅立叶变换 (DFT) --有限长序列的离散频谱表示 › 从DFS到DFT › DFS:	OK	DFS: label over its equations
+pptSlides_chn_b0123c13	1	1	2.11 红外传感器	OK	cover lecture title
+pptSlides_chn_b0123c13	2	2	2.11 红外传感器 › 定义	OK	slide title, definition + mind map
+pptSlides_chn_b0123c13	6	3	2.11 红外传感器 › 1、红外辐射	OK	numbered slide title p3; untitled p4 bullets continue it
+pptSlides_chn_b0123c13	17	5	2.11 红外传感器 › 1、红外辐射 › 大气窗口	OK	unnumbered slide title, atmospheric window (property of IR radiation)
+pptSlides_chn_b30fedce	2	1	2025年第三季度新兴品类简报	OK	cover report title
+pptSlides_chn_b30fedce	7	2	2025年第三季度新兴品类简报 › 前言	OK	slide title 前言 (before first divider)
+pptSlides_chn_b30fedce	9	2	2025年第三季度新兴品类简报 › 前言 › 趋势调研：	OK	own-line label over the preface text box
+pptSlides_chn_b30fedce	19	3	2025年第三季度新兴品类简报 › 报告目录	OK	contents slide title
+pptSlides_chn_b30fedce	23	4	2025年第三季度新兴品类简报 › Part 01. 养生咖啡	OK	divider Part 01. ∪ part title
+pptSlides_chn_b30fedce	25	5	2025年第三季度新兴品类简报 › Part 01. 养生咖啡 › 爆文率增长70%+，「养生咖啡」上演“真续命”	OK	slide title p5; panel/chart titles text
+pptSlides_chn_b30fedce	46	6	2025年第三季度新兴品类简报 › Part 01. 养生咖啡 › 「超级植物」闯入咖啡赛道，人参、黄皮争相“入咖”	OK	slide title p6; panel titles text
+pptSlides_chn_b30fedce	68	7	2025年第三季度新兴品类简报 › Part 01. 养生咖啡 › 品牌案例 | 养生咖啡	OK	slide title p7, brand cases
+pptSlides_chn_b30fedce	81	8	2025年第三季度新兴品类简报 › Part 02. 宠物户外装备	OK	divider Part 02. ∪ part title
+pptSlides_chn_b30fedce	83	9	2025年第三季度新兴品类简报 › Part 02. 宠物户外装备 › 商业声量飙升近6倍，“户外风”刮向宠物界	OK	slide title p9; panel titles text
+pptSlides_chn_b30fedce	105	10	2025年第三季度新兴品类简报 › Part 02. 宠物户外装备 › 覆盖「衣食住行」全领域，毛孩子也要“轻”装上阵	OK	slide title p10; panel titles text
+pptSlides_chn_ca2c7356	1	1	信号分析与处理 第二章 连续信号的分析	OK	cover: course name ∪ chapter line
+pptSlides_chn_ca2c7356	9	2	信号分析与处理 第二章 连续信号的分析 › 连续信号的时域描述和分析	OK	overview slide naming the chapter topics (divider); entries text
+pptSlides_chn_ca2c7356	20	3	信号分析与处理 第二章 连续信号的分析 › 连续信号的时域描述和分析 › (一) 时域描述	OK	slide title (一) 时域描述; ➲ overview entries text
+pptSlides_chn_ca2c7356	34	4	信号分析与处理 第二章 连续信号的分析 › 连续信号的时域描述和分析 › (一) 时域描述 › 普通信号：正弦信号	OK	slide title p4, repeated p5-p7
+pptSlides_chn_ca2c7356	36	4	信号分析与处理 第二章 连续信号的分析 › 连续信号的时域描述和分析 › (一) 时域描述 › 普通信号：正弦信号 › 欧拉公式	OK	➲ label over Euler formula
+pptSlides_chn_ca2c7356	38	4	信号分析与处理 第二章 连续信号的分析 › 连续信号的时域描述和分析 › (一) 时域描述 › 普通信号：正弦信号 › 取虚部则为正弦信号	OK	➲ label over sine formula. RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it): does the repeated slide title on p5-p7 close this block? If not, the waveform/property/synthesis content of p5-p7 falls under 取虚部则为正弦信号 (containment leak)
+pptSlides_chn_d81f00a8	2	1	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲	OK	cover: course book + chapter line ∪ 1.2 lecture title
+pptSlides_chn_d81f00a8	6	2	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 目录	OK	目录 slide p2
+pptSlides_chn_d81f00a8	9	3	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 01 井字棋：介绍	OK	agenda divider p3, 01 highlighted; p4 title 井字棋 is a repeat
+pptSlides_chn_d81f00a8	13	4	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 01 井字棋：介绍 › 井字棋规则说明：	OK	own-line rule-list label p4
+pptSlides_chn_d81f00a8	21	5	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案	OK	agenda divider p5, 02 highlighted
+pptSlides_chn_d81f00a8	22	6	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：一个简单的规则方案（方案2）	OK	slide title p6 (方案2)
+pptSlides_chn_d81f00a8	23	6	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：一个简单的规则方案（方案2） › 人是怎么下棋的	OK	bold boxed block title over picture + rule list
+pptSlides_chn_d81f00a8	32	7	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：游戏规则的符号逻辑表征/建模	OK	slide title p7
+pptSlides_chn_d81f00a8	33	7	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：游戏规则的符号逻辑表征/建模 › 井字棋规则说明:	OK	own-line rule-list label left column; modelling formulas right column
+pptSlides_chn_d81f00a8	49	8	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：方案2的符号逻辑表征/建模	OK	slide title p8
+pptSlides_chn_d81f00a8	54	8	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：方案2的符号逻辑表征/建模 › ○方，第n+1步时的策略：	FIXED	label over strategy formulas; text restored to the printed ○方
+pptSlides_chn_d81f00a8	61	9	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：更多的方案	OK	slide title p9
+pptSlides_chn_d81f00a8	62	9	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：更多的方案 › 方案3	OK	scheme label over its list
+pptSlides_chn_d81f00a8	64	9	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：更多的方案 › 方案4	OK	scheme label over its list
+pptSlides_chn_d81f00a8	68	9	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：更多的方案 › 方案5（课后作业）	OK	scheme label over its list
+pptSlides_chn_d81f00a8	72	9	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：更多的方案 › 方案6	OK	scheme label over its list (+ agent diagram)
+pptSlides_chn_d81f00a8	80	10	《人工智能数学原理与算法》第1章：人工智能概述 1.2 人工智能代表性技术选讲 › 02 井字棋：符号流派的规则系统方案 › 井字棋：方案5实战	OK	slide title p10, game-play figure; p11 trailing agenda divider is text
+pptSlides_chn_eba02de5	1	1	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇	OK	cover: report title ∪ volume line
+pptSlides_chn_eba02de5	6	2	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 赛道说明	OK	track-overview slide title p2
+pptSlides_chn_eba02de5	8	2	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 赛道说明 › 个性化美妆	OK	pill label over its text column
+pptSlides_chn_eba02de5	10	2	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 赛道说明 › 个性化服饰	OK	pill label over its text column
+pptSlides_chn_eba02de5	16	3	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 一、个性化美妆	OK	part contents slide 一、个性化美妆 (part divider); entries text
+pptSlides_chn_eba02de5	25	4	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 一、个性化美妆 › PART 01. 社媒平台个性表达赛道热度分析	OK	PART 01. ∪ topic title divider p4
+pptSlides_chn_eba02de5	33	5	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 一、个性化美妆 › PART 01. 社媒平台个性表达赛道热度分析 › 销售概览：护肤市场显示出强劲的增长势头，护肤套装和精华仍是市场的主力品类	OK	slide headline p5, KPI panel + charts
+pptSlides_chn_eba02de5	56	6	2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇 › 一、个性化美妆 › PART 01. 社媒平台个性表达赛道热度分析 › 赛道表现：抗老持续热门，抗敏护肤显著增长，美白仍具潜力，祛痘控油稳定前行	OK	slide headline p6, bullets + charts
+pptSlides_eng_1e8e2f71	1	1	Bank Accounting	OK	cover deck title
+pptSlides_eng_1e8e2f71	4	2	Bank Accounting › Table of Contents	OK	contents slide title
+pptSlides_eng_1e8e2f71	5	2	Bank Accounting › Bank Master Data	OK	contents list with arrow at Bank Master Data = divider node (that entry)
+pptSlides_eng_1e8e2f71	8	3	Bank Accounting › Bank Master Data › Bank Master Data - Objectives	OK	slide title p3, objectives bullets
+pptSlides_eng_24541ef2	1	1	Induced Biochemical Defenses (HR)	OK	cover deck title; p2 teaser keywords beside faces are text
+pptSlides_eng_24541ef2	9	3	Induced Biochemical Defenses (HR) › How do plants defend against bacteria that enter the cell?	OK	question slide title p3, bullets
+pptSlides_eng_24541ef2	13	4	Induced Biochemical Defenses (HR) › Plant Defense Response	OK	slide title p4, repeated p5
+pptSlides_eng_24541ef2	29	6	Induced Biochemical Defenses (HR) › Elicitors of defense responses	OK	slide title p6; diagram labels text
+pptSlides_eng_24541ef2	38	7	Induced Biochemical Defenses (HR) › Plant disease resistance genes	OK	slide title p7
+pptSlides_eng_24541ef2	43	8	Induced Biochemical Defenses (HR) › Classes of resistance proteins	OK	slide title p8, figure
+pptSlides_eng_24541ef2	45	9	Induced Biochemical Defenses (HR) › Gene-for-gene resistance	OK	slide title p9, bullets + table
+pptSlides_eng_24541ef2	51	10	Induced Biochemical Defenses (HR) › Deviations from gene-for-gene concept	OK	slide title p10
+pptSlides_eng_24541ef2	58	11	Induced Biochemical Defenses (HR) › Guard hypothesis	OK	slide title p11, repeated p12 (figures)
+pptSlides_eng_24541ef2	59	11	Induced Biochemical Defenses (HR) › Guard hypothesis › Key points	OK	own-line label over a)-c) list. RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it) (same as chn_ca2c7356 #38): p12 figures after the repeated slide title fall under Key points unless the repeat closes it
+pptSlides_eng_26f4ebca	2	1	The Vertical API Opportunity	OK	cover deck title
+pptSlides_eng_26f4ebca	4	2	The Vertical API Opportunity › What Is An API?	OK	slide title p2
+pptSlides_eng_26f4ebca	5	2	The Vertical API Opportunity › What Is An API? › Definition:	OK	bold label over its bullet
+pptSlides_eng_26f4ebca	7	2	The Vertical API Opportunity › What Is An API? › Which means?	OK	bold label over its bullet
+pptSlides_eng_26f4ebca	9	2	The Vertical API Opportunity › What Is An API? › Example, please.	OK	bold label over its bullet
+pptSlides_eng_26f4ebca	12	3	The Vertical API Opportunity › What The Big Deal?	OK	slide title p3, quote
+pptSlides_eng_26f4ebca	15	4	The Vertical API Opportunity › API Proliferation Is Exponential	OK	slide title p4, bullets + chart
+pptSlides_eng_26f4ebca	20	5	The Vertical API Opportunity › The API Explosion Is Transforming Software Development	OK	slide title p5
+pptSlides_eng_26f4ebca	28	6	The Vertical API Opportunity › Opportunity: API As Core Product	OK	slide title p6, figure
+pptSlides_eng_26f4ebca	32	7	The Vertical API Opportunity › APIs as Product: Horizontal v. Vertical	OK	slide title p7; Horizontal/Vertical figure labels text
+pptSlides_eng_26f4ebca	42	8	The Vertical API Opportunity › Horizontal APIs - Template For Success	OK	slide title p8
+pptSlides_eng_26f4ebca	56	9	The Vertical API Opportunity › Vertical APIs – Emerging Investment Frontier	OK	slide title p9
+pptSlides_eng_26f4ebca	66	10	The Vertical API Opportunity › Vertical API Market Breakdown	OK	slide title p10
+pptSlides_eng_26f4ebca	78	11	The Vertical API Opportunity › Vertical API Market Map	OK	slide title p11, market table
+pptSlides_eng_26f4ebca	81	12	The Vertical API Opportunity › Vertical APIs in Finance	OK	slide title p12, three column boxes
+pptSlides_eng_26f4ebca	82	12	The Vertical API Opportunity › Vertical APIs in Finance › Financial Services Industry	OK	column box title over its bullets
+pptSlides_eng_26f4ebca	87	12	The Vertical API Opportunity › Vertical APIs in Finance › Vertical APIs	OK	centre arrow title over its bullets
+pptSlides_eng_26f4ebca	91	12	The Vertical API Opportunity › Vertical APIs in Finance › FinTech Startups	OK	column box title over its bullets
+pptSlides_eng_312b78ba	1	1	Regional Key Account Strategy L'ORÉAL NORTH AMERICA	OK	cover title ∪ owner line
+pptSlides_eng_312b78ba	6	2	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL GROUP	OK	slide title p2
+pptSlides_eng_312b78ba	7	2	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL GROUP › Company Background	OK	bold label over company text; chart/table panel titles text
+pptSlides_eng_312b78ba	26	3	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Sales Performance by Market	OK	slide title p3, market tables
+pptSlides_eng_312b78ba	41	4	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL – R&D, a Key to Success	OK	slide title p4 (repeated p5 as cont.); p4 R&D label now a repeat
+pptSlides_eng_312b78ba	55	5	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL – R&D, a Key to Success › STRATEGIC DIRECTION:	OK	bold label over strategy text on cont. slide
+pptSlides_eng_312b78ba	61	5	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL – R&D, a Key to Success › STRATEGIC DIRECTION: › Local research and adaptation of products	OK	subhead in pasted report excerpt over its text
+pptSlides_eng_312b78ba	67	6	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL in North America	OK	slide title p6 (repeated p7 as cont.)
+pptSlides_eng_312b78ba	68	6	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL in North America › STRATEGIC DIRECTION	OK	bold label over its bullet
+pptSlides_eng_312b78ba	70	6	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL in North America › PRODUCTION	OK	bold label over its bullet
+pptSlides_eng_312b78ba	72	6	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL in North America › COMPETITIVE POSITIONING	OK	bold label over text + rankings; p7 tables continue it
+pptSlides_eng_312b78ba	89	8	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Overview : North America	OK	slide title p8, four panels
+pptSlides_eng_312b78ba	90	8	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Overview : North America › Key Financial Figures NA-Q1-12	OK	panel title; chart/ranking panels text under it
+pptSlides_eng_312b78ba	101	8	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Overview : North America › Operational Goals (see backup)	OK	panel title over goals list
+pptSlides_eng_312b78ba	114	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe	OK	SWOT slide title p9
+pptSlides_eng_312b78ba	115	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Dedicated focus on BPC	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	117	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Products across different pricing tiers	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	119	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Not utilising The Body Shop opportunity	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	121	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Organization	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	127	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Naturally-positioned cosmetics	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	129	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Value-seeking consumers	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	131	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Growing competition in the emerging countries	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	133	9	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › SWOT - L'Oréal Groupe › Economic Issues	OK	SWOT box title over its text
+pptSlides_eng_312b78ba	139	10	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Strategic objectives and challenges	OK	slide title p10, four boxes
+pptSlides_eng_312b78ba	140	10	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Strategic objectives and challenges › Doubling of consumer base	OK	box title over its text
+pptSlides_eng_312b78ba	142	10	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Strategic objectives and challenges › Regional expansion	OK	box title over its text
+pptSlides_eng_312b78ba	144	10	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Strategic objectives and challenges › Category expansion	OK	box title over its text
+pptSlides_eng_312b78ba	146	10	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Strategic objectives and challenges › Sustainable development	OK	box title over its text
+pptSlides_eng_312b78ba	150	11	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Detailed strategies to expand consumer base	OK	slide title p11
+pptSlides_eng_312b78ba	151	11	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › Detailed strategies to expand consumer base › Reach one billion new consumers	OK	bold label over strategy bullets + figure
+pptSlides_eng_312b78ba	160	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands	OK	slide title p12
+pptSlides_eng_312b78ba	161	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands › OUR Brands	OK	OUR Brands panel title over division lists
+pptSlides_eng_312b78ba	164	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands › OUR Brands › CONSUMER PRODUCTS	OK	division label over its brand list
+pptSlides_eng_312b78ba	167	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands › OUR Brands › PROFESSIONAL PRODUCTS	OK	division label over its brand list
+pptSlides_eng_312b78ba	170	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands › OUR Brands › LUXURY PRODUCTS	FIXED	division label over its brand list; text spaced as printed (LUXURY PRODUCTS)
+pptSlides_eng_312b78ba	173	12	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL Portfolio of Brands › OUR Brands › ACTIVE COSMETICS	OK	division label over its brand list
+pptSlides_eng_312b78ba	42	4	Regional Key Account Strategy L'ORÉAL NORTH AMERICA › L'ORÉAL – R&D, a Key to Success › RESEARCH & DEVELOPMENT	REMOVED	label restates the slide title (R&D) -> repeat of #41; p4 content under the slide title
+pptSlides_eng_52c9fd59	1	1	DNA SEQUENCING	OK	cover deck title; p2 restated title is a repeat, Purines/Pyrimidines figure-group labels text
+pptSlides_eng_52c9fd59	24	3	DNA SEQUENCING › HISTORY OF DNA SEQUENCING	OK	slide title p3; untitled p4 continues it
+pptSlides_eng_5bb58cde	2	1	OpenStack Architecture	OK	cover deck title
+pptSlides_eng_5bb58cde	10	2	OpenStack Architecture › Provision a VM Request Flow	OK	divider p2 (deck title repeat above section name)
+pptSlides_eng_5bb58cde	14	3	OpenStack Architecture › Provision a VM Request Flow › VM Provisioning	OK	slide title p3
+pptSlides_eng_5bb58cde	21	4	OpenStack Architecture › Provision a VM Request Flow › Initial State	OK	slide title p4, architecture diagram
+pptSlides_eng_5bb58cde	37	5	OpenStack Architecture › Provision a VM Request Flow › Step 1: Request Provisioning - From UI	OK	slide title p5, step 1 bullets
+pptSlides_eng_5bb58cde	50	6	OpenStack Architecture › Provision a VM Request Flow › The OpenStack Dashboard (Horizon)	OK	slide title p6, Horizon statement
+pptSlides_eng_5bb58cde	56	7	OpenStack Architecture › Provision a VM Request Flow › Horizon	OK	slide title p7, Horizon properties (sibling of the dashboard slide)
+pptSlides_eng_5bb58cde	66	8	OpenStack Architecture › Provision a VM Request Flow › Step 1: Request VM Provisioning via UI/CLI	OK	slide title p8, resumes Step 1 after the Horizon slides (continues #37)
+pptSlides_eng_6d3fdf72	1	1	CHAPTER 2 BASIC CHEMISTRY	OK	cover chapter label ∪ title in one box
+pptSlides_eng_6d3fdf72	2	2	CHAPTER 2 BASIC CHEMISTRY › WHY ARE WE REVIEWING CHEMISTRY?	OK	question slide title p2, picture only
+pptSlides_eng_6d3fdf72	4	3	CHAPTER 2 BASIC CHEMISTRY › WE ARE REVIEWING CHEMISTRY BECAUSE:	OK	answer slide title p3, bullets
+pptSlides_eng_6d3fdf72	9	4	CHAPTER 2 BASIC CHEMISTRY › CHEMISTRY IS...	OK	slide title p4, definitions
+pptSlides_eng_82a06813	1	1	Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW	OK	cover title box (3 lines)
+pptSlides_eng_82a06813	3	2	Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW › DRAMATIC STORY CANVAS: Space-Timeline Template	OK	canvas slide title p2; build slides p3-p4 repeat it; canvas labels text
+pptSlides_eng_82a06813	43	5	Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW › DRAMATIC STORY CANVAS: Problem-Solution Template	OK	canvas slide title p5
+pptSlides_eng_82a06813	56	6	Customers “Hire” Tools, Products, and Services To Ideally Get Their Problems Solved: FREE, PERFECT, AND NOW › DRAMATIC STORY CANVAS: Storyboard Template	OK	canvas slide title p6; p7 trailing title slide is text
+pptSlides_eng_a04b6aef	4	1	THE NERVOUS SYSTEM	OK	cover title over figures
+pptSlides_eng_a04b6aef	6	2	THE NERVOUS SYSTEM › FUNCTIONS OF THE NERVOUS SYSTEM	OK	slide title p2 (repeated p3, p4)
+pptSlides_eng_a04b6aef	7	2	THE NERVOUS SYSTEM › FUNCTIONS OF THE NERVOUS SYSTEM › Sensory input-gathering information	OK	◉ topic bullet over its sub-bullets
+pptSlides_eng_a04b6aef	10	2	THE NERVOUS SYSTEM › FUNCTIONS OF THE NERVOUS SYSTEM › Integration	OK	◉ topic bullet over its sub-bullet
+pptSlides_eng_a04b6aef	13	3	THE NERVOUS SYSTEM › FUNCTIONS OF THE NERVOUS SYSTEM › Motor output	OK	◉ topic bullet p3 over its sub-bullets. RESOLVED (user 2026-11-13: heading with a real block stays; trailing untitled content sits under it) (same as chn_ca2c7356 #38): p4 diagram after the repeated slide title falls under Motor output unless the repeat closes it
+pptSlides_eng_a04b6aef	27	5	THE NERVOUS SYSTEM › STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM	OK	slide title p5
+pptSlides_eng_a04b6aef	28	5	THE NERVOUS SYSTEM › STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM › Central nervous system (CNS)	OK	◉ topic bullet over its sub-bullets
+pptSlides_eng_a04b6aef	31	5	THE NERVOUS SYSTEM › STRUCTURAL CLASSIFICATION OF THE NERVOUS SYSTEM › Peripheral nervous system (PNS)	OK	◉ topic bullet over its sub-bullets
+pptSlides_eng_a04b6aef	35	6	THE NERVOUS SYSTEM › FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM	OK	slide title p6
+pptSlides_eng_a04b6aef	36	6	THE NERVOUS SYSTEM › FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM › Sensory (afferent) division	OK	◉ topic bullet over its sub-bullet
+pptSlides_eng_a04b6aef	38	6	THE NERVOUS SYSTEM › FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM › Motor (efferent) division	OK	◉ topic bullet over its sub-bullet
+pptSlides_eng_a04b6aef	40	7	THE NERVOUS SYSTEM › ORGANIZATION OF THE NERVOUS SYSTEM	OK	slide title p7 (box overlaps figure; text = title only), organization chart
+pptSlides_eng_a04b6aef	43	8	THE NERVOUS SYSTEM › FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM	OK	slide title p8 resumes p6 after p7 (continuation of #35)
+pptSlides_eng_a04b6aef	44	8	THE NERVOUS SYSTEM › FUNCTIONAL CLASSIFICATION OF THE PERIPHERAL NERVOUS SYSTEM › Motor (efferent) division (continued)	OK	author-printed (continued) topic bullet, continuation of #38
+pptSlides_eng_a04b6aef	49	9	THE NERVOUS SYSTEM › NERVOUS TISSUE: SUPPORT CELLS	OK	slide title p9
+pptSlides_eng_bd47b74b	1	1	BIG DATA WITH NOT ONLY SQL	OK	cover title box (author name swallowed; text = title only); running footer repeats it
+pptSlides_eng_bd47b74b	4	2	BIG DATA WITH NOT ONLY SQL › WHO AM I	OK	slide title p2; Skills bullet over word cloud text
+pptSlides_eng_bd47b74b	11	3	BIG DATA WITH NOT ONLY SQL › BIG DATA MANAGEMENT INSIGHT	OK	slide title p3, quote + picture
+pptSlides_eng_bd47b74b	16	4	BIG DATA WITH NOT ONLY SQL › DATA-DRIVEN ON-LINE WEBSITES	OK	slide title p4, bullets
+pptSlides_eng_f280f799	1	1	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report	OK	cover: series line ∪ title ∪ Supplementary Report
+pptSlides_eng_f280f799	5	2	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report › INFORMATION AND TERMS OF USE	OK	slide title p2, terms bullets
+pptSlides_eng_f280f799	16	3	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report › METHODOLOGY	OK	divider p3 (repeated as p4 slide title over the sample table)
+pptSlides_eng_f280f799	24	5	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report › EXECUTIVE SUMMARY	OK	divider p5
+pptSlides_eng_f280f799	25	6	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report › EXECUTIVE SUMMARY › PROPORTION THAT USE EACH DIGITAL DEVICE TO ACCESS NEWS BY COUNTRY	OK	chart slide title p6; p7 ALSO FROM 2015 stat panels extend it (text)
+pptSlides_eng_f280f799	42	8	Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report › EXECUTIVE SUMMARY › PROPORTION THAT SAID EACH DEVICE WAS THEIR MAIN DIGITAL NEWS DEVICE BY COUNTRY (ORDERED BY COMPUTER)	OK	chart slide title p8; p9 stat panels extend it (text)

@@ -1,0 +1,133 @@
+{
+ "doc": "researchReport_eng_af983a3b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs US Economics Analyst 10 Questions on the Political and Policy Outlook for 2022 (Phillips)",
+   "why": "title union: owner logo header box #1 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: US Economics Analyst 10 Questions on the Political and Policy Outlook for 2022 (Phillips))."
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1. Will Congress pass any reconciliation package this year?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2. Will Congress pass any legislation this year to increase spending?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3. Will any of that legislation boost spending in 2022?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "4. What will happen to the expanded Child Tax Credit?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "5. Will Congress pass tax increases in 2022?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "6. Will Medicare drug pricing be cut?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "7. Will Democrats meaningfully weaken (or eliminate) the filibuster in the Senate?",
+   "why": "section: numbered question heading on its own line with its answer paragraphs Round 4: the page prints \"7.\" like its siblings; OCR dropped the period."
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    20
+   ],
+   "of": 1,
+   "why": "repeat: headline restated at the top of the body"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the series of the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

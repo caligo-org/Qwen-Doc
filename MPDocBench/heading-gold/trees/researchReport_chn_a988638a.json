@@ -1,0 +1,77 @@
+{
+ "doc": "researchReport_chn_a988638a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "宏信证券 急跌或暂息，仍需防风险",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #3 (宏信证券) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "公司评级说明：",
+   "why": "back matter: rating explanation title with its list"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "行业评级说明：",
+   "why": "back matter: industry rating explanation"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "分析师声明：",
+   "why": "back matter: analyst statement"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "本公司具备证券投资咨询业务资格的说明：",
+   "why": "back matter: licence statement"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "免责声明：",
+   "why": "back matter: disclaimer"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "bold run-in lead sentence 一、... starting a paragraph: text"
+  },
+  {
+   "box": 8,
+   "why": "bold run-in 二、...: text"
+  },
+  {
+   "box": 14,
+   "why": "bold run-in 三、...: text"
+  }
+ ]
+}

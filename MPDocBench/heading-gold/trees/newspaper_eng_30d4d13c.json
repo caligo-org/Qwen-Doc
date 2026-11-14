@@ -1,0 +1,137 @@
+{
+ "doc": "newspaper_eng_30d4d13c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "THE TIMES",
+   "why": "title union: masthead split around the crest (THE | TIMES)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Edwards pleads guilty to viewing indecent images",
+   "why": "story headline, front page (no section banner)"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "Farage denies 'whipping up' street riots in Southport",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "News",
+   "why": "section: running section tag News on p2 (section changes from the front page)"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Increasing pay threshold for spouses' visas is put on hold",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Sick days and illness leave have doubled in six years",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Edwards pleads guilty",
+   "why": "continuation: jump head after CONTINUED FROM PAGE 1 (label is text)",
+   "continues": 12
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 58,
+   "text": "Farage denies 'whipping up' riot",
+   "why": "continuation: jump head after CONTINUED FROM PAGE 1",
+   "continues": 32
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 43,
+   "why": "IN THE NEWS teaser box: every item points to an inside page"
+  },
+  {
+   "box": 44,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 46,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 48,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 50,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 52,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 54,
+   "why": "teaser item in the IN THE NEWS box (ends with a page pointer)"
+  },
+  {
+   "box": 60,
+   "why": "TODAY'S EDITION index box"
+  },
+  {
+   "box": 69,
+   "why": "podcast promo box"
+  },
+  {
+   "box": 74,
+   "why": "weather box"
+  }
+ ],
+ "considered": [
+  {
+   "box": 2,
+   "why": "slogan above the masthead"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 43,
+   "closes": 32,
+   "why": "round 5: the story ends (Continued on page 2); the IN THE NEWS teaser box (every item ends in a page pointer) follows"
+  }
+ ]
+}

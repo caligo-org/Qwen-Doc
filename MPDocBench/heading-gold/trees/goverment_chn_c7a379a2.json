@@ -1,0 +1,27 @@
+{
+ "doc": "goverment_chn_c7a379a2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "废旧金属收购业治安管理办法",
+   "why": "title: regulation title names the whole document"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 2,
+   "why": "approval/revision note under the title: text"
+  },
+  {
+   "box": 3,
+   "why": "第一条 run-in article label: text"
+  }
+ ]
+}

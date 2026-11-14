@@ -1,0 +1,140 @@
+{
+ "doc": "annualReport_eng_824dec82",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Lam Research Annual Report 2024",
+   "why": "title: document type on the cover; owner printed only as the logo (logo is text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (Lam Research) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Engineering the world's most advanced chips",
+   "why": "intro page headline with its own block (top section)"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "LETTER TO OUR STOCKHOLDERS",
+   "why": "top section: letter title"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Solid financial results with continued focus on investments in research and development.",
+   "why": "top section: results page headline with its own block"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "Performance Overview - Fiscal Year 2024",
+   "why": "section head inside the results page"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "why": "back-page investor-information title (box also holds its body; text = the printed heading line)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TRANSFER AGENT AND REGISTRAR",
+   "why": "back-page investor-information title (box also holds its body)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "STOCK LISTING",
+   "why": "back-page investor-information title"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "INVESTOR RELATIONS",
+   "why": "back-page investor-information title"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "ANNUAL MEETING",
+   "why": "back-page investor-information title"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS",
+   "why": "back-page investor-information title"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "TRADEMARK INFORMATION",
+   "why": "back-page investor-information title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 40,
+   "why": "chart title"
+  },
+  {
+   "box": 42,
+   "why": "chart title"
+  },
+  {
+   "box": 44,
+   "why": "chart title"
+  }
+ ],
+ "considered": [
+  {
+   "box": 7,
+   "why": "slogan"
+  },
+  {
+   "box": 10,
+   "why": "letter salutation"
+  }
+ ]
+}

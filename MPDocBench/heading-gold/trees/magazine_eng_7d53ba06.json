@@ -1,0 +1,217 @@
+{
+ "doc": "magazine_eng_7d53ba06",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Baseball America",
+   "why": "title: periodical masthead Baseball America"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Leading Off",
+   "why": "section: front section Leading Off of the November/December issue; its opening page is the contents page (contents entries are text), the colophon, Numbers Game and the later stories are in it; round 3: one Leading Off section, the p4 tag is its repeat (was contents title + a second Leading Off L2); the box also prints the issue date NOVEMBER/DECEMBER, node text = the section name only"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Leading Off",
+   "continues": 16,
+   "why": "round 5: continuation of Leading Off (#16): the break before the p4 colophon closes the section opened by the contents page, so the Leading Off tag printed again on p4 reopens it (was a repeat of #16)"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 49,
+   "text": "Numbers Game",
+   "why": "story: column title Numbers Game, its feature below"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 50,
+   "text": "MAKING THE GRADE",
+   "why": "feature headline: describes the ranking below"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "1. DRAKE BALDWIN",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "2. CADE HORTON",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "3. CHASE BURNS",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    76
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "4. JACOB MISIOROWSKI",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "5. MATT SHAW",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "6.ROKI SASAKI",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "7. DYLAN CREWS",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "8. CHASE DOLLANDER",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "9. DALTON RUSHING",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    111
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "10. JAKOB MARSEE",
+   "why": "ranked entry heading with its player write-up below"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 5,
+   "parent": 52,
+   "text": "THE REST OF OUR PICKS",
+   "why": "sidebar box with own title inside the feature (remaining picks list), one level below the feature"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 49,
+   "text": "From Phenom To The Farm",
+   "why": "story: column title From Phenom To The Farm"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 140,
+   "text": "FROM D-III TO MLB",
+   "why": "feature headline: describes the story below"
+  },
+  {
+   "boxes": [
+    171
+   ],
+   "level": 3,
+   "parent": 49,
+   "text": "Trap Toon",
+   "why": "story: cartoon column title Trap Toon with its strip below (byline in the box is text)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    27
+   ],
+   "of": 1,
+   "why": "repeat: masthead restated at the head of the colophon column"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "of": 49,
+   "why": "repeat: section tag Leading Off on a later page of the same open section (#16) (round 5: now a repeat of the continuation node #49)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "cover line"
+  }
+ ],
+ "considered": [
+  {
+   "box": 18,
+   "why": "TOC group label (NATIONAL LEAGUE TOP 10s) over contents entries: text"
+  },
+  {
+   "box": 23,
+   "why": "label over the cover photo #24 whose only block is the photo credit printed with it (no text of its own); text (round 6)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 27,
+   "closes": 16,
+   "why": "contents page (Leading Off opener) ends; the restated masthead and colophon on p4 follow, not about Leading Off"
+  }
+ ]
+}

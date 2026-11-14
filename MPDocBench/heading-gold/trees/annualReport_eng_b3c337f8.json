@@ -1,0 +1,63 @@
+{
+ "doc": "annualReport_eng_b3c337f8",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "MSCI 2024 Annual Report",
+   "why": "title union: owner logo header box #1 (MSCI) + document type #3. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: 2024 Annual Report)."
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "About MSCI Inc.",
+   "why": "top section"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Financial Highlights",
+   "why": "top section"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Selected Quarterly Financial Data (unaudited)",
+   "why": "top section"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    7
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 13,
+   "why": "running owner wordmark in the header"
+  },
+  {
+   "box": 10,
+   "why": "table column label"
+  }
+ ]
+}

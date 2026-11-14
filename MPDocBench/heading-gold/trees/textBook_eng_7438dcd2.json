@@ -1,0 +1,18 @@
+{
+ "doc": "textBook_eng_7438dcd2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "A Computational Introduction to Number Theory and Algebra",
+   "why": "title: book title on the title page"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

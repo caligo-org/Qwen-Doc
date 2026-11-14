@@ -1,0 +1,60 @@
+{
+ "doc": "textBook_chn_028c0453",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "物理 必修 第三册",
+   "why": "title union: subject + course/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第1章 电荷的相互作用",
+   "why": "chapter label + title: describes the chapter below (containment)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    9,
+    10,
+    11
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 16,
+   "why": "salutation opening the preface letter: does not describe the letter (containment), text"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 45,
+   "closes": 36,
+   "why": "contents end on p6; the chapter-opening picture printed above the chapter-1 title on p7 is not part of the contents"
+  }
+ ]
+}

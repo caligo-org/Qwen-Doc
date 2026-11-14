@@ -1,0 +1,134 @@
+{
+ "doc": "manualGuide_chn_894ac6ec",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "R-1000型变压器绕线机 使用说明书",
+   "why": "title union: product (R-1000型变压器绕线机) + document type 使用说明书 on the cover"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、概述：",
+   "why": "chapter: numbered outline heading 一、"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、主要技术指标和性能参数：",
+   "why": "chapter: numbered 二、"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、主要功能特点：",
+   "why": "chapter: numbered 三、"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "四、调整绕线机及绕制变压器的操作步骤：",
+   "why": "chapter: numbered 四、"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "五、脚踏操作形式：",
+   "why": "chapter: numbered 五、"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "六、使用说明和异常处理：",
+   "why": "chapter: numbered 六、"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "1、控制器显示说明：",
+   "why": "section: numbered 1、 heading line under 六"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "2、控制器面板按键说明：",
+   "why": "section: numbered 2、 heading line"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "2、异常及处理方法：",
+   "why": "section: third numbered heading line under 六 (misprinted 2、), over the troubleshooting table"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "七、安装与维护：",
+   "why": "chapter: numbered 七、"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "八、注意事项：",
+   "why": "chapter: numbered 八、 注意事项 is a numbered outline section, not a callout"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 38,
+   "why": "callout: 注意 note"
+  },
+  {
+   "box": 46,
+   "why": "callout: 注意 note"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 84,
+   "closes": 71,
+   "why": "the numbered precautions 1-11 end; the set-apart closing paragraph (operators must read this manual) is about the whole manual, not about 注意事项"
+  }
+ ]
+}

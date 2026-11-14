@@ -1,0 +1,162 @@
+{
+ "doc": "paper_eng_4b1e42ed",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Pruning the Path to Optimal Care: Identifying Systematically Suboptimal Medical Decision-Making with Inverse Reinforcement Learning",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1 Introduction",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2 Related Work",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3 Background and Notation",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "4 Cohort and Data Pre-Processing",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "5 Methods",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "6 Results",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "7 Discussion",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 1",
+   "why": "back matter: appendix title at top-section level"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 2",
+   "why": "back matter: appendix title at top-section level"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Appendix 3",
+   "why": "back matter: appendix title at top-section level"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "References",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 13,
+   "why": "bold run-in paragraph lead (\"Evaluating Decision-Making in Healthcare Institutions\"): text"
+  },
+  {
+   "box": 15,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 32,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 52,
+   "why": "bold run-in paragraph lead (finding sentence): text"
+  },
+  {
+   "box": 68,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 74,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 96,
+   "why": "run-in \"Acknowledgements\" starting a paragraph: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 96,
+   "closes": 82,
+   "why": "round 5: the run-in \"Acknowledgements\" paragraph (considered text) follows the Discussion; it is not about the Discussion (belongs to the paper)"
+  }
+ ]
+}

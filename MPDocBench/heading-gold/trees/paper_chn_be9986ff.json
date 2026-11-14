@@ -1,0 +1,201 @@
+{
+ "doc": "paper_chn_be9986ff",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "载人深空探索中空间辐射防护技术的研究进展",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "1 载人深空探索任务中空间辐射环境特点",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "2 物理防护",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "2.1 被动防护",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.1 辐射防护材料的筛选方法与应用",
+   "why": "subsection 2.1.1 (numbering)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.2 载人航天器舱体辐射防护",
+   "why": "subsection 2.1.2 (numbering)"
+  },
+  {
+   "boxes": [
+    97
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.3 个性化辐射防护",
+   "why": "subsection 2.1.3 (numbering)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "2.1.4 星体表面浮土",
+   "why": "subsection 2.1.4 (numbering)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "2.2 主动防护",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "3 生物医学防护",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.1 抗氧化剂",
+   "why": "subsection 3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    153
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.2 抑制剂",
+   "why": "subsection 3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.3 细胞因子、生长因子和激素类物质",
+   "why": "subsection 3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.4 蛋白质分子类物质",
+   "why": "subsection 3.4 (numbering)"
+  },
+  {
+   "boxes": [
+    166
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.5 细胞治疗剂",
+   "why": "subsection 3.5 (numbering)"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "level": 3,
+   "parent": 120,
+   "text": "3.6 植物来源的活性物质",
+   "why": "subsection 3.6 (numbering)"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "4 结论",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 2,
+   "parent": 5,
+   "text": "参考文献",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    288
+   ],
+   "of": 5,
+   "why": "repeat: English title restated after the references (title printed again in translation, apart from the Chinese title); as a restated title of the whole document it is a repeat of L1, not a node, and closes 参考文献: the English authors/abstract/keywords after it are about the whole paper, not the references (round 3)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 287,
+   "why": "label \"Summary for <title>\" above the English title: text (kicker)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 115,
+   "closes": 105,
+   "why": "round 5: after 2.1.4's block, \"总的来说...被动防护方式...\" sums up all of 2.1 被动防护, not 2.1.4 星体表面浮土"
+  },
+  {
+   "before": 171,
+   "closes": 168,
+   "why": "round 5: after 3.6's block, \"综上所述，以上辐射防护剂...\" sums up all of 3 生物医学防护, not 3.6 植物来源的活性物质"
+  },
+  {
+   "before": 287,
+   "closes": 179,
+   "why": "round 5: the reference list ends; the \"Summary for ...\" page with the English title/abstract (repeat of L1) follows, not references (belongs to the paper)"
+  }
+ ]
+}

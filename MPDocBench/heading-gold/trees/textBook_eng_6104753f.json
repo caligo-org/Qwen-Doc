@@ -1,0 +1,74 @@
+{
+ "doc": "textBook_eng_6104753f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Discrete Math with SageMath",
+   "why": "title: book title on the cover"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Preface",
+   "why": "front matter: Preface"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Acknowledgements",
+   "why": "front matter: Acknowledgements"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "From the Student Authors",
+   "why": "front matter: From the Student Authors"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "Authors and Contributors",
+   "why": "front matter: Authors and Contributors"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    5
+   ],
+   "of": 4,
+   "why": "repeat: half-title restates the title"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "of": 4,
+   "why": "repeat: title page restates the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover subtitle printed vertically apart from the title: subtitle, text"
+  }
+ ]
+}

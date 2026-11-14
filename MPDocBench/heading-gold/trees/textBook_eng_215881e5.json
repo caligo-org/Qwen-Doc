@@ -1,0 +1,65 @@
+{
+ "doc": "textBook_eng_215881e5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Nature of Geographic Information",
+   "why": "title: book title on the cover"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "About this Book",
+   "why": "front matter: About this Book"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Acknowledgements",
+   "why": "front matter: Acknowledgements"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    2
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the book title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 20,
+   "why": "book subtitle restated over the author byline inside the acknowledgements: title restatement, text (it does not head a part of the acknowledgements)"
+  }
+ ],
+ "considered": []
+}

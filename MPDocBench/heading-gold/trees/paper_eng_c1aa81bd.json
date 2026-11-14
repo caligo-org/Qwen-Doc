@@ -1,0 +1,198 @@
+{
+ "doc": "paper_eng_c1aa81bd",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "VECTOR SPIN GLASSES WITH MATTIS INTERACTION I: THE CONVEX CASE",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "CONTENTS",
+   "why": "front matter: contents title at top-section level"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "1. INTRODUCTION",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "2. IDENTIFICATION OF THE LIMIT FREE ENERGY WITH LINEAR MATTIS INTERACTION",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "3. PROOFS OF MAIN RESULTS",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    232
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    17
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    143
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    171
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    187
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    229
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  },
+  {
+   "boxes": [
+    253
+   ],
+   "of": 2,
+   "why": "repeat: running head (short title) naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "run-in \"ABSTRACT.\" starting the abstract paragraph: text"
+  },
+  {
+   "box": 12,
+   "why": "AMS run-in subsection \"1.1. Preamble.\" starting a paragraph: text"
+  },
+  {
+   "box": 51,
+   "why": "AMS run-in subsection \"1.2. Setting.\": text"
+  },
+  {
+   "box": 98,
+   "why": "AMS run-in subsection \"1.3. Main results.\": text"
+  },
+  {
+   "box": 122,
+   "why": "AMS run-in subsection \"1.4. ...\": text"
+  },
+  {
+   "box": 132,
+   "why": "AMS run-in subsection \"1.5. Organization of the paper.\": text"
+  },
+  {
+   "box": 133,
+   "why": "AMS run-in subsection \"1.6. Acknowledgements.\": text"
+  }
+ ]
+}

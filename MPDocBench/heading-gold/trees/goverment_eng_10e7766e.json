@@ -1,0 +1,299 @@
+{
+ "doc": "goverment_eng_10e7766e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "CTC NEWSLETTER",
+   "why": "title: newsletter masthead (owner name is in it: CTC); starts: the cover sidebar (#1-#7: centre name, issue date, Inside this issue, quote) is printed beside the masthead but comes before it in reading order."
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE",
+   "why": "story headline; no section banner printed, so L3 under the masthead (newspaper notes)"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "Video, Podcasts and Interactive media",
+   "why": "story subhead: own line describing the story block below"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "Digital dirt, Digital attraction",
+   "why": "story subhead: own line describing the story block below"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "Job boards",
+   "why": "story subhead: own line describing the story block below"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 9,
+   "text": "Ensuring a good fit",
+   "why": "story subhead: own line describing the story block below"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "RECRUITERS JOB HUNTING TIPS",
+   "why": "sidebar story box with its own headline and source line, not about the Recruiting story: story level"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "Small Details",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "Corporate Culture",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "Kill The Cell Phone",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 4,
+   "parent": 42,
+   "text": "Breaking News",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 8,
+   "continues": 9,
+   "text": "RECRUITING 3.0: WEB ADVANCES CHANGE THE LANDSCAPE",
+   "why": "round 3 continuation (NOTATIONS \"Every path is a breadcrumb\"): the Recruiting story resumes on p4 at this paragraph after the p3 tips sidebar; no head is printed, so the node sits on the first resumed paragraph and takes the original headline as its text"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 54,
+   "text": "Video interviews",
+   "why": "story subhead: own line describing the story block below; round 3: L4 under the p4 continuation node #54 of the Recruiting story (was itself the continuation node, which made the breadcrumb CTC NEWSLETTER › Video interviews skip the story)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "MORE ON WEB RECRUITING",
+   "why": "related-links box closing the Recruiting story (link list, not about video interviews): story-level L3 under the masthead; breadcrumb round 2 moved it from L4 under 'Video interviews', which failed containment/breadcrumb; round 3: kept L3 (related-links box with its own title; continued on p5 by #75)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "JOB HUNTING TIPS (Continued)",
+   "why": "continuation: tips sidebar resumes after the Recruiting story; \"(Continued)\" printed",
+   "continues": 42
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "First Impression",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Keep It Short",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Play it Straight",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 4,
+   "parent": 64,
+   "text": "Say Thanks",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 8,
+   "continues": 59,
+   "text": "MORE ON WEB RECRUITING",
+   "why": "round 3 continuation: the tail of the MORE ON WEB RECRUITING link list (#75-76) resumes on p5 after the p4 tips sidebar; no head printed, so the node sits on the first resumed line and takes the box title as its text (otherwise the links fell under JOB HUNTING TIPS (Continued) › Say Thanks)"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "LISTEN UP, JOB HUNTERS",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "MAKE YOUR NETWORK WORK FOR YOU",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Be Patient",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Be Authentic",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Be a Conduit",
+   "why": "tip label: own line with its own paragraph block"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 4,
+   "parent": 96,
+   "text": "Be a Teacher",
+   "why": "tip label: own line with its own paragraph block"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "Inside this issue: index box title of a newsletter (newspaper notes: index boxes are text); entries are page pointers; round 3: kept text (newsletter = newspaper notes: index box title is text)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 1,
+   "why": "owner block (Career Transition Center, NFATC, Department of State): cover line, text"
+  },
+  {
+   "box": 2,
+   "why": "issue date: text"
+  },
+  {
+   "box": 11,
+   "why": "byline: text"
+  },
+  {
+   "box": 43,
+   "why": "source line under sidebar headline: text"
+  },
+  {
+   "box": 78,
+   "why": "byline: text"
+  },
+  {
+   "box": 97,
+   "why": "byline: text"
+  },
+  {
+   "box": 5,
+   "why": "pull quote: text"
+  },
+  {
+   "box": 25,
+   "why": "pull quote: text"
+  },
+  {
+   "box": 94,
+   "why": "pull quote: text"
+  },
+  {
+   "box": 99,
+   "why": "lead-in sentence introducing the tips: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 93,
+   "closes": 77,
+   "why": "round 5: the Dale Carnegie quote box (figure + quote + attribution) follows the end of the LISTEN UP story; filler box, not about the story"
+  }
+ ]
+}

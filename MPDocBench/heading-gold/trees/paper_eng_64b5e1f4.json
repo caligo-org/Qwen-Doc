@@ -1,0 +1,179 @@
+{
+ "doc": "paper_eng_64b5e1f4",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "I. INTRODUCTION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "II. APPROACH OVERVIEW",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "III. DISCOVRE",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "A. Data Set",
+   "why": "subsection A. (lettered, italic)"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "B. Numeric filter",
+   "why": "subsection B."
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "C. Structural Similarity",
+   "why": "subsection C."
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "IV. EVALUATION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "A. Similarity Metric",
+   "why": "subsection A."
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "B. Cross-Architecture Bug Search",
+   "why": "subsection B."
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "level": 3,
+   "parent": 148,
+   "text": "C. Comparison to BinDiff",
+   "why": "subsection C."
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "V. LIMITATIONS",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    196
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "VI. RELATED WORK",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    209
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "VII. CONCLUSION AND FUTURE WORK",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    214
+   ],
+   "level": 3,
+   "parent": 209,
+   "text": "A. Future Work",
+   "why": "subsection A."
+  },
+  {
+   "boxes": [
+    218
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "ACKNOWLEDGEMENTS",
+   "why": "back matter: acknowledgements, same look as top sections"
+  },
+  {
+   "boxes": [
+    220
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "REFERENCES",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 5,
+   "why": "run-in \"Abstract—\" starting the abstract paragraph: text"
+  },
+  {
+   "box": 26,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 27,
+   "why": "bold run-in paragraph lead: text"
+  },
+  {
+   "box": 41,
+   "why": "IEEE run-in subsubsection \"1) Open source projects:\" starting a paragraph: text"
+  }
+ ]
+}

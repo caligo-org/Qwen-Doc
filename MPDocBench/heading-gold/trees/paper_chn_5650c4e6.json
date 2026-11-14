@@ -1,0 +1,250 @@
+{
+ "doc": "paper_chn_5650c4e6",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "在轨服务航天器任务指派问题",
+   "why": "title: paper title (footnote marker * left out)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "1 问题描述",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "2 求解可达区域",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "2.1 求解步骤",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 36,
+   "text": "2.2 求解结果",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "3 多目标优化模型",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "3.1 优化变量",
+   "why": "subsection 3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    93
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "3.2 目标函数",
+   "why": "subsection 3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "level": 4,
+   "parent": 93,
+   "text": "1）目标优先级",
+   "why": "own-line item label 1) with its own block (text + equation) below"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 4,
+   "parent": 93,
+   "text": "2) 任务完成时间",
+   "why": "own-line item label 2) with its own block below; same look as 1)"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 4,
+   "parent": 93,
+   "text": "3）燃料消耗",
+   "why": "own-line item label 3) with its own block below; same look as 1)"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 79,
+   "text": "3.3 约束条件",
+   "why": "subsection 3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "1）“一对一”服务约束",
+   "why": "own-line item label 1) with its own block below"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "2）任务时间约束",
+   "why": "own-line item label 2) with its own block below; same look as 1)"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "3）变轨时刻约束",
+   "why": "own-line item label 3) with its own block below; same look as 1)"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 4,
+   "parent": 108,
+   "text": "4）最大脉冲大小约束",
+   "why": "own-line item label 4) with its own block below; same look as 1)"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "4 多目标优化算法",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "5 应用示例",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 136,
+   "text": "5.1 算例1：任务指派多目标优化的一般结论",
+   "why": "subsection 5.1 (numbering)"
+  },
+  {
+   "boxes": [
+    169
+   ],
+   "level": 3,
+   "parent": 136,
+   "text": "5.2 算例2：与分层-加权法优化的对比",
+   "why": "subsection 5.2 (numbering)"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "6 结论",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    202
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "参考文献(References)",
+   "why": "back matter: this paper's references, jumped to p6 (上接第30页), first appearance there"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 4,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "of": 4,
+   "why": "repeat: running head (authors: title) naming the document"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 188,
+   "why": "foreign article: references of another article (running head 庞秀丽…) ending on p6"
+  }
+ ],
+ "considered": [
+  {
+   "box": 81,
+   "why": "run-in item 1) starting a paragraph under 3.1: text"
+  },
+  {
+   "box": 86,
+   "why": "run-in item 2) starting a paragraph under 3.1: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 186,
+   "closes": 179,
+   "why": "round 5: 6 结论 jumps away (下转第51页); the tail and references of another article (#186-#200) follow, not about 结论. They are a block set inside this paper, whose own content continues after it (上接第30页, 参考文献 #202), so L1 stays open"
+  }
+ ]
+}

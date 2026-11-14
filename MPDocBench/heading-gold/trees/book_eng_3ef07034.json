@@ -1,0 +1,698 @@
+{
+ "doc": "book_eng_3ef07034",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Cooking Around the World Nutrition and Food Services Healthy Teaching Kitchen",
+   "why": "title union (breadcrumb round 2): cookbook title + the issuing program line printed inside the same title band (owner ∪ document, like an issuer in the title block); agency logos and URL at the foot of the cover stay text"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Cooking References",
+   "why": "part: full-page part divider"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "Cooking Safely",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Practice Good Hygiene",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Cook to Safe Temperatures",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Separate Hazardous Foods",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Refrigerate and Freeze Properly",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Avoid the Danger Zone",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "Wash Produce",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 11,
+   "text": "When In Doubt, Throw It Out",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "Measurements and Abbreviations",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "Common Abbreviations",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 44,
+   "text": "Volume Conversions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Recipes Inspired by Africa",
+   "why": "part: full-page part divider"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Apricot Chicken Tagine",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 4,
+   "parent": 73,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 4,
+   "parent": 73,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "level": 4,
+   "parent": 73,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    110
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Roasted Eggplant Spread",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 4,
+   "parent": 110,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 4,
+   "parent": 110,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 4,
+   "parent": 110,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Baklava-Inspired Baked Oatmeal",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 138,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 4,
+   "parent": 138,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 4,
+   "parent": 138,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Curried Chicken Salad",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    178
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    185
+   ],
+   "level": 4,
+   "parent": 160,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Kofta (Turkey Kebabs)",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    195
+   ],
+   "level": 4,
+   "parent": 191,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    204
+   ],
+   "level": 4,
+   "parent": 191,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    215
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "Microwave White Bean and Egg Shakshuka",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 4,
+   "parent": 215,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    230
+   ],
+   "level": 4,
+   "parent": 215,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    237
+   ],
+   "level": 4,
+   "parent": 215,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    244
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Recipes Inspired by Eastern Asia",
+   "why": "part: full-page part divider"
+  },
+  {
+   "boxes": [
+    247
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Black Rice Porridge",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    249
+   ],
+   "level": 4,
+   "parent": 247,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    257
+   ],
+   "level": 4,
+   "parent": 247,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "level": 4,
+   "parent": 247,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    269
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Chicken Chow Mein",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    273
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    288
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    301
+   ],
+   "level": 4,
+   "parent": 269,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    308
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Garlic Edamame",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    312
+   ],
+   "level": 4,
+   "parent": 308,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    319
+   ],
+   "level": 4,
+   "parent": 308,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    326
+   ],
+   "level": 4,
+   "parent": 308,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    333
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Hot-and-Sour Soup",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    337
+   ],
+   "level": 4,
+   "parent": 333,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    349
+   ],
+   "level": 4,
+   "parent": 333,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    357
+   ],
+   "level": 4,
+   "parent": 333,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    364
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Kimchi",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    368
+   ],
+   "level": 4,
+   "parent": 364,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    380
+   ],
+   "level": 4,
+   "parent": 364,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    389
+   ],
+   "level": 4,
+   "parent": 364,
+   "text": "Recipe Notes",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    395
+   ],
+   "level": 3,
+   "parent": 244,
+   "text": "Vegetable Pad Thai",
+   "why": "section / recipe title"
+  },
+  {
+   "boxes": [
+    399
+   ],
+   "level": 4,
+   "parent": 395,
+   "text": "Ingredients",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  },
+  {
+   "boxes": [
+    416
+   ],
+   "level": 4,
+   "parent": 395,
+   "text": "Directions",
+   "why": "label with its own block (Ingredients/Directions/Recipe Notes or topic subhead), one level below its section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 7,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 10,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 27,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 43,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 69,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 72,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 109,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 137,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 159,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 190,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 214,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 243,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 246,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 268,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 307,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 332,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 363,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 394,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  },
+  {
+   "box": 429,
+   "why": "footer link 'Table of Contents' (navigation), not a heading"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 106,
+   "closes": 103,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Apricot Chicken Tagine', not about 'Recipe Notes'"
+  },
+  {
+   "before": 134,
+   "closes": 131,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Roasted Eggplant Spread', not about 'Recipe Notes'"
+  },
+  {
+   "before": 156,
+   "closes": 152,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Baklava-Inspired Baked Oatmeal', not about 'Recipe Notes'"
+  },
+  {
+   "before": 187,
+   "closes": 185,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Curried Chicken Salad', not about 'Recipe Notes'"
+  },
+  {
+   "before": 211,
+   "closes": 204,
+   "why": "the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kofta (Turkey Kebabs)', not about 'Directions'"
+  },
+  {
+   "before": 240,
+   "closes": 237,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Microwave White Bean and Egg Shakshuka', not about 'Recipe Notes'"
+  },
+  {
+   "before": 265,
+   "closes": 263,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Black Rice Porridge', not about 'Recipe Notes'"
+  },
+  {
+   "before": 304,
+   "closes": 301,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Chicken Chow Mein', not about 'Recipe Notes'"
+  },
+  {
+   "before": 329,
+   "closes": 326,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Garlic Edamame', not about 'Recipe Notes'"
+  },
+  {
+   "before": 360,
+   "closes": 357,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Hot-and-Sour Soup', not about 'Recipe Notes'"
+  },
+  {
+   "before": 391,
+   "closes": 389,
+   "why": "the 'Recipe Notes' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Kimchi', not about 'Recipe Notes'"
+  },
+  {
+   "before": 426,
+   "closes": 416,
+   "why": "the 'Directions' block ends; the framed page-bottom Nutrition Facts band (with the 'For more recipes' line) is about the whole recipe 'Vegetable Pad Thai', not about 'Directions'"
+  }
+ ]
+}

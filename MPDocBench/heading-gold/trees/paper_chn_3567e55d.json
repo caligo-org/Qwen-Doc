@@ -1,0 +1,139 @@
+{
+ "doc": "paper_chn_3567e55d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "太阳系行星际航天器外热流计算方法研究",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 外热流计算方法",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "1.1 航天器模型与互视遮挡判断",
+   "why": "subsection 1.1 (numbering)"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "1.2 \\(S, E_{2}, E_{3}\\) 的计算",
+   "why": "subsection 1.2 (numbering)"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "1.3 角系数计算",
+   "why": "subsection 1.3 (numbering)"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.1 太阳辐射角系数 \\(F_{1}\\) 的计算",
+   "why": "subsection 1.3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.2 各行星以及行星自然卫星红外辐射角系数 \\(F_{2}\\) 的计算",
+   "why": "subsection 1.3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.3 各行星以及行星自然卫星反照角系数 \\(F_{3}\\) 的计算",
+   "why": "subsection 1.3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "1.3.4 遮挡问题",
+   "why": "subsection 1.3.4 (numbering)"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 方案总结与计算结果分析",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3结论",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "参考文献：",
+   "why": "back matter: references at top-section level"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    14
+   ],
+   "of": 6,
+   "why": "repeat: English translation of the title in the English abstract block, apart from the title"
+  },
+  {
+   "boxes": [
+    60
+   ],
+   "of": 6,
+   "why": "repeat: running head (authors: title) naming the document"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "of": 6,
+   "why": "repeat: running head (authors: title) naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

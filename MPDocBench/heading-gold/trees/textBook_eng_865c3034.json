@@ -1,0 +1,26 @@
+{
+ "doc": "textBook_eng_865c3034",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Transition to Higher Mathematics Structure and Proof",
+   "why": "title: book title with subtitle printed in one box (edition included in the box) | third check: the series/edition line printed in the same box is cover text (mixed box -> heading part)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    3
+   ],
+   "of": 1,
+   "why": "repeat: title page restates the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

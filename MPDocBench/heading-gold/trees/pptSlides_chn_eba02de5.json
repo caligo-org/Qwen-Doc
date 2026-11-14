@@ -1,0 +1,158 @@
+{
+ "doc": "pptSlides_chn_eba02de5",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    3,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "果集 2024备战双十一 消费者行为与品牌前瞻布局 {个性表达赛道}篇",
+   "why": "title union: report title + volume line naming this part of the series Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #2 (果集) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "赛道说明",
+   "why": "front section title before the first part"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "个性化美妆",
+   "why": "pill label with its own text block"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "个性化服饰",
+   "why": "pill label with its own text block"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、个性化美妆",
+   "why": "part divider: part title slide listing the part's topics"
+  },
+  {
+   "boxes": [
+    25,
+    26
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "PART 01. 社媒平台个性表达赛道热度分析",
+   "why": "divider union: PART 01. + topic title, under part 一"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 4,
+   "parent": 25,
+   "text": "销售概览：护肤市场显示出强劲的增长势头，护肤套装和精华仍是市场的主力品类",
+   "why": "slide title under PART 01"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 4,
+   "parent": 25,
+   "text": "赛道表现：抗老持续热门，抗敏护肤显著增长，美白仍具潜力，祛痘控油稳定前行",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13
+   ],
+   "of": 1,
+   "why": "running footer naming the document"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 1,
+   "why": "running footer naming the document"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 1,
+   "why": "running head naming the document"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 34,
+   "why": "KPI panel banner (panel title), not a section heading"
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "cover category line"
+  },
+  {
+   "box": 5,
+   "why": "cover date and publisher"
+  },
+  {
+   "box": 18,
+   "why": "part contents entry"
+  },
+  {
+   "box": 20,
+   "why": "part contents entry"
+  },
+  {
+   "box": 22,
+   "why": "part contents entry"
+  },
+  {
+   "box": 24,
+   "why": "part contents entry"
+  },
+  {
+   "box": 30,
+   "why": "navigation tag in footer"
+  },
+  {
+   "box": 46,
+   "why": "figure caption"
+  }
+ ]
+}

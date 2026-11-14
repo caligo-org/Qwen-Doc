@@ -1,0 +1,49 @@
+{
+ "doc": "pptSlides_eng_52c9fd59",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "DNA SEQUENCING",
+   "why": "deck title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "HISTORY OF DNA SEQUENCING",
+   "why": "slide title (deck without dividers)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    4
+   ],
+   "of": 1,
+   "why": "first content slide titled exactly like the deck: the title printed again"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 6,
+   "why": "figure-group label over a row of structure drawings"
+  },
+  {
+   "box": 13,
+   "why": "figure-group label over a row of structure drawings"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "author block"
+  }
+ ]
+}

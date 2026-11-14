@@ -1,0 +1,53 @@
+{
+ "doc": "book_eng_9d008b33",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "THE TESTAMENT OF MARY",
+   "why": "title: book title on the cover; author and review quotes are text"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "By the same author",
+   "why": "front matter: 'By the same author' page title with its list below"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "Contents",
+   "why": "front matter: contents title"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 12,
+   "why": "copyright-page cataloguing label (colophon): text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 6,
+   "why": "untitled copyright page follows the 'By the same author' list; not about it"
+  },
+  {
+   "before": 22,
+   "closes": 20,
+   "why": "untitled novel text starts after the Contents list; not about Contents"
+  }
+ ]
+}

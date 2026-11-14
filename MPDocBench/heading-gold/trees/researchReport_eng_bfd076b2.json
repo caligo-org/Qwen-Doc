@@ -1,0 +1,86 @@
+{
+ "doc": "researchReport_eng_bfd076b2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Goldman Sachs Japan Economics Analyst 2023 Outlook: Focus on Wage Growth and BOJ Leadership Change",
+   "why": "title union: owner logo header box #2 (Goldman Sachs; the research-division label in the same box is not part of the heading) + the printed title. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: Japan Economics Analyst 2023 Outlook: Focus on Wage Growth and BOJ Leadership Change)."
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Global Economic Outlook",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 16,
+   "text": "Further Slowdown Expected in 2023",
+   "why": "section: subsection"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Japan's Economic Outlook",
+   "why": "section: body section"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 30,
+   "text": "1. Executive Summary",
+   "why": "section: numbered subsection"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 4,
+   "parent": 31,
+   "text": "Softening External Demand a Drag, but Reopening and Robust Capex to Maintain Above-Potential Growth",
+   "why": "section: subhead under 1."
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    15
+   ],
+   "of": 2,
+   "why": "repeat: headline restated at the top of the body"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 2,
+   "why": "repeat: running head naming the series of the title"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

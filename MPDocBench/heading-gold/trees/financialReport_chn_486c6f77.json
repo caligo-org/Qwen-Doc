@@ -1,0 +1,159 @@
+{
+ "doc": "financialReport_chn_486c6f77",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "上海安硕信息技术股份有限公司 审计报告",
+   "why": "title union: owner + document type"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一、审计意见",
+   "why": "section: 一、 numbered part of the audit report"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 20,
+   "text": "（一）存货跌价准备",
+   "why": "section: key audit matter （一）"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 4,
+   "parent": 22,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 4,
+   "parent": 22,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 20,
+   "text": "（二）收入确认",
+   "why": "section: key audit matter （二）"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "1、事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 4,
+   "parent": 36,
+   "text": "2、审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "四、其他信息",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 numbered sibling"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 numbered sibling"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "repeat: title restated above the auditor letter; the document is only that letter"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "report number, text"
+  },
+  {
+   "box": 4,
+   "why": "audit firm name on cover, text"
+  },
+  {
+   "box": 13,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 68,
+   "why": "（一） list item in paragraph flow, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 82,
+   "closes": 65,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
+ ]
+}

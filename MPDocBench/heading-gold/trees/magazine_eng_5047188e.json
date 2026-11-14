@@ -1,0 +1,44 @@
+{
+ "doc": "magazine_eng_5047188e",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Harper's BAZAAR",
+   "why": "title: periodical masthead Harper's BAZAAR (gold OCR garbled; THE ART ISSUE line in the box is text)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "THE ART ISSUE",
+   "why": "front matter: editor's introduction to the issue, its essay below (no section printed)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "cover line"
+  }
+ ],
+ "considered": [
+  {
+   "box": 10,
+   "why": "cover credit box on the editor page (cover subject name + photograph/styling/dress credits): caption-like text with no story block; stays inside THE ART ISSUE front-matter page"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 8,
+   "why": "editor's note ends; the cover credit box (cover subject, photo/styling/dress credits) follows, not about the note"
+  }
+ ]
+}

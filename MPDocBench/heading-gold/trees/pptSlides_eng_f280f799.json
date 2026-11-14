@@ -1,0 +1,106 @@
+{
+ "doc": "pptSlides_eng_f280f799",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2,
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Reuters Institute Digital News Report 2015 TRACKING THE FUTURE OF NEWS Supplementary Report",
+   "why": "title union: owner/series (Reuters Institute Digital News Report 2015) + title + document type (Supplementary Report)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "INFORMATION AND TERMS OF USE",
+   "why": "front-matter slide before the first divider"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "METHODOLOGY",
+   "why": "section divider"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "EXECUTIVE SUMMARY",
+   "why": "section divider"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "PROPORTION THAT USE EACH DIGITAL DEVICE TO ACCESS NEWS BY COUNTRY",
+   "why": "slide title under the Executive Summary divider"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 3,
+   "parent": 24,
+   "text": "PROPORTION THAT SAID EACH DEVICE WAS THEIR MAIN DIGITAL NEWS DEVICE BY COUNTRY (ORDERED BY COMPUTER)",
+   "why": "slide title"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    17
+   ],
+   "of": 16,
+   "why": "slide title repeating the open divider's section name, nothing in between"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 31,
+   "why": "stat panel label"
+  },
+  {
+   "box": 34,
+   "why": "stat panel label"
+  },
+  {
+   "box": 37,
+   "why": "stat panel label"
+  },
+  {
+   "box": 50,
+   "why": "stat panel label"
+  },
+  {
+   "box": 53,
+   "why": "stat panel label"
+  },
+  {
+   "box": 56,
+   "why": "stat panel label"
+  },
+  {
+   "box": 30,
+   "why": "breadcrumb round 3: \"ALSO FROM 2015\" is a kicker banner, not a description of the stat panels (it fails the breadcrumb step); the stat panels extend the chart slide before it and stay in its subtree"
+  },
+  {
+   "box": 49,
+   "why": "breadcrumb round 3: \"ALSO FROM 2015\" is a kicker banner, not a description of the stat panels (it fails the breadcrumb step); the stat panels extend the chart slide before it and stay in its subtree"
+  }
+ ]
+}

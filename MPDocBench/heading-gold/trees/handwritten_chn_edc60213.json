@@ -1,0 +1,80 @@
+{
+ "doc": "handwritten_chn_edc60213",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    11
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "4. 集合问题与分类讨论思想",
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "2. 集合问题与数形结合思想：",
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "3. 集合问题与等价转化思想",
+   "why": "numbered topic 集合问题与…思想: same look as 1. under [方法突破] -> L2; its bracketed section label is not on the photographed pages (role skip, under root)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "[方法突破]",
+   "why": "section label: bracketed top grouping [方法突破] of untitled notes"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 2,
+   "parent": 36,
+   "text": "1. 集合中元素的特性：",
+   "why": "numbered topic: own-line title over the three properties"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "callout 启示： (lesson-learned note ending a previous problem): text"
+  }
+ ],
+ "considered": [
+  {
+   "box": 41,
+   "why": "callout [例]"
+  },
+  {
+   "box": 1,
+   "why": "notebook Date/No. header"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 21,
+   "closes": 11,
+   "why": "round 5: top of the next photo (…违背了互异性，因此不能构成集合) continues an element-property example from another notebook page; topic 4's example already ended with 请体会…双向过程"
+  },
+  {
+   "before": 34,
+   "closes": 30,
+   "why": "round 5: subset-count and empty-set facts at the top of notebook page 3 are not about 等价转化思想; they follow topic 3 only because the photos are out of order"
+  }
+ ]
+}

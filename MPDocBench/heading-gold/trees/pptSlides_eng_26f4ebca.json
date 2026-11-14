@@ -1,0 +1,192 @@
+{
+ "doc": "pptSlides_eng_26f4ebca",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "The Vertical API Opportunity",
+   "why": "deck title"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "What Is An API?",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Definition:",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Which means?",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    9
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "Example, please.",
+   "why": "own-line label with its own bullet block"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "What The Big Deal?",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "API Proliferation Is Exponential",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "The API Explosion Is Transforming Software Development",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Opportunity: API As Core Product",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "APIs as Product: Horizontal v. Vertical",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Horizontal APIs - Template For Success",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical APIs – Emerging Investment Frontier",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical API Market Breakdown",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical API Market Map",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    81
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Vertical APIs in Finance",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "Financial Services Industry",
+   "why": "column box title heading its bullet column"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "Vertical APIs",
+   "why": "column box title heading its bullet column"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 3,
+   "parent": 81,
+   "text": "FinTech Startups",
+   "why": "column box title heading its bullet column"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "presenter name"
+  },
+  {
+   "box": 33,
+   "why": "lead-in line introducing a list"
+  },
+  {
+   "box": 36,
+   "why": "figure label"
+  },
+  {
+   "box": 38,
+   "why": "figure label"
+  },
+  {
+   "box": 70,
+   "why": "lead-in line with colon introducing a list"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "doc": "handwritten_chn_048c9a89",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "初二数学将军饮马问题教案",
+   "why": "title: the lesson plan (subject + topic + 教案), covers both lessons"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "一：“将军饮马”问题的由来",
+   "why": "section: numbered part 一 of lesson 1"
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "二：“将军饮马”数学模型(有很多模型,第一节课先探讨最常见的四种)",
+   "why": "section: numbered part 二 over the four model figures"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "阶梯训练.",
+   "why": "section: practice part, same banner style as 一/二, over problems 1-6"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "“将军饮马”问题深度拓展第二课时“(新课)",
+   "why": "section: second lesson of the same lesson plan (narrower than the plan title)"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "差的最大值经典习题(1)",
+   "why": "section: own-line exercise label with its problem + analysis block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "差的最大值经典习题(2)",
+   "why": "section: own-line exercise label with its block"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "差的最大值经典习题(3)",
+   "why": "section: own-line exercise label with its block"
+  },
+  {
+   "boxes": [
+    69
+   ],
+   "level": 3,
+   "parent": 44,
+   "text": "(5) 架桥选址问题 (平移版的“将军饮马”问题)",
+   "why": "section: numbered topic title (5) over the bridge problem and its analysis"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 22,
+   "why": "exam question: problem statement, its analysis is content"
+  },
+  {
+   "box": 25,
+   "why": "exam question: problem statement"
+  },
+  {
+   "box": 30,
+   "why": "exam question: problem statement"
+  },
+  {
+   "box": 37,
+   "why": "exam question: problem statement"
+  },
+  {
+   "box": 41,
+   "why": "exam question: problem statement"
+  }
+ ],
+ "considered": [
+  {
+   "box": 46,
+   "why": "problem statement (3) of lesson 2: content, no title"
+  },
+  {
+   "box": 53,
+   "why": "problem statement (4): content"
+  },
+  {
+   "box": 3,
+   "why": "note under 一 (中国版/古罗马版): text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 4,
+   "closes": 2,
+   "why": "round 5: the red teaching-goals box (第一课时教学目标) is about the lesson as a whole, not about 一：由来 (its only block is the note #3)"
+  }
+ ]
+}

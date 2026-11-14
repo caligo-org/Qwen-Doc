@@ -1,0 +1,264 @@
+{
+ "doc": "annualReport_eng_0c770734",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "CRAY 2018 ANNUAL REPORT",
+   "why": "title: document type printed on the cover; the owner appears only as a logo (logo is text) Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #4 (CRAY) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    22,
+    26
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "FORM 10-K CRAY INC.",
+   "why": "embedded filing title union: FORM 10-K + registrant name (printed inside a cover-field box with the file number)"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "DOCUMENTS INCORPORATED BY REFERENCE",
+   "why": "front matter section of the 10-K"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "INDEX",
+   "why": "contents title of the 10-K. Round 2: text = the printed heading line INDEX only; the lines above it in the same box restate registrant/form/year (a restated title = repeat, not part of this heading), so the breadcrumb no longer restates the L2"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "Forward-Looking Statements",
+   "why": "front matter section: forward-looking note"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "PART I",
+   "why": "PART level"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "Item 1. Business",
+   "why": "Item level"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "General",
+   "why": "bold section head under Item"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Overview",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Products, Services and Customer Support",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Supercomputing Systems",
+   "why": "bold-italic subhead under a bold head"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 6,
+   "parent": 77,
+   "text": "Software",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Analytics and AI Products",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "level": 6,
+   "parent": 77,
+   "text": "Cray Storage and Data Management Products",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    106
+   ],
+   "level": 6,
+   "parent": 77,
+   "text": "Customer Support",
+   "why": "bold-italic subhead"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Sales and Marketing",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Manufacturing and Supply Chain",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Our Markets",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Competition",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Intellectual Property",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Employees",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Corporation Information",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 5,
+   "parent": 62,
+   "text": "Available Information",
+   "why": "bold section head"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 61,
+   "text": "Item 1A. Risk Factors",
+   "why": "Item level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "cover slogan"
+  },
+  {
+   "box": 2,
+   "why": "cover slogan"
+  },
+  {
+   "box": 21,
+   "why": "issuing body (SEC name and address) on the 10-K cover"
+  }
+ ],
+ "considered": [
+  {
+   "box": 5,
+   "why": "letter salutation"
+  },
+  {
+   "box": 23,
+   "why": "form check-box line"
+  },
+  {
+   "box": 82,
+   "why": "italic run-in lead-in inside a paragraph"
+  },
+  {
+   "box": 149,
+   "why": "bold run-in risk sentence starting a paragraph"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 56,
+   "closes": 54,
+   "why": "round 5: trademark notice below the index is about the whole report, not the INDEX; belongs to FORM 10-K"
+  }
+ ]
+}

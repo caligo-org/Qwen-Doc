@@ -1,0 +1,84 @@
+{
+ "doc": "prospectus_chn_fd769c1b",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    8
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "成都华微电子科技股份有限公司 首次公开发行股票并在科创板上市招股说明书",
+   "why": "title union: issuer (owner) + document type 招股说明书"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "声明",
+   "why": "front matter title with its declaration block"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "发行概况",
+   "why": "front matter title with its overview table"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目录",
+   "why": "contents title; entries are text"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    13
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "of": 4,
+   "why": "running head: issuer (logo image with name) + 招股说明书 restates the title"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 1,
+   "why": "cover risk banner title (科创板投资风险提示 box): cover text by the title rule"
+  },
+  {
+   "box": 5,
+   "why": "issuer English name on the cover: cover text"
+  }
+ ],
+ "considered": []
+}

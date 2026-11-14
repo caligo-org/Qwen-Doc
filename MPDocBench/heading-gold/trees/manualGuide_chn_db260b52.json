@@ -1,0 +1,358 @@
+{
+ "doc": "manualGuide_chn_db260b52",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1,
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "AutoChips AC781x 数据手册",
+   "why": "title union: owner logo box #1 (AutoChips) + product + document type. User decision 2026-11-13: when the owner is printed only as a logo, the logo's text joins the L1 union if the layout has a box holding that text (was: AC781x 数据手册)."
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "修订记录",
+   "why": "front matter: revision history title"
+  },
+  {
+   "boxes": [
+    20
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "文档目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "1 主要特性",
+   "why": "chapter: numbered 1 (TOC)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "操作特性",
+   "why": "label heading: bullet group label with its own ➤ sub-list (own-line label with its own block)"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "性能",
+   "why": "label heading: bullet group label with its own sub-list"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "存储器和存储器接口",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "时钟",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "系统外设",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "人机接口",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "模拟模块",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "定时器",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "通信接口",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    77
+   ],
+   "level": 3,
+   "parent": 35,
+   "text": "封装选项",
+   "why": "label heading: same"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "2 器件标识",
+   "why": "chapter: numbered 2"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "level": 3,
+   "parent": 86,
+   "text": "2.1 说明",
+   "why": "section: 2.1"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 3,
+   "parent": 86,
+   "text": "2.2 格式",
+   "why": "section: 2.2"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 3,
+   "parent": 86,
+   "text": "2.3 字段",
+   "why": "section: 2.3"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 86,
+   "text": "2.4 示例",
+   "why": "section: 2.4"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3 参数分类",
+   "why": "chapter: numbered 3"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "4 额定值",
+   "why": "chapter: numbered 4"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "4.1 热学操作额定值",
+   "why": "section: 4.1"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "4.2 湿度操作额定值",
+   "why": "section: 4.2"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "4.3 ESD操作额定值",
+   "why": "section: 4.3"
+  },
+  {
+   "boxes": [
+    138
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "4.4 电压和电流操作额定值",
+   "why": "section: 4.4"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "5 通用",
+   "why": "chapter: numbered 5"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 150,
+   "text": "5.1 静态电气规格",
+   "why": "section: 5.1"
+  },
+  {
+   "boxes": [
+    152
+   ],
+   "level": 4,
+   "parent": 151,
+   "text": "5.1.1 电源和地引脚",
+   "why": "subsection: 5.1.1"
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 4,
+   "parent": 151,
+   "text": "5.1.2 DC特性",
+   "why": "subsection: 5.1.2"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    11
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    103
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    168
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the document (series + 数据手册)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "lead-in to the product table: text"
+  },
+  {
+   "box": 94,
+   "why": "table caption"
+  }
+ ]
+}

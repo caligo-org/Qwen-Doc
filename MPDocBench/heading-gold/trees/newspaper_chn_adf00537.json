@@ -1,0 +1,252 @@
+{
+ "doc": "newspaper_chn_adf00537",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "農民日報",
+   "why": "masthead; English name and website in the same box are text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "习近平同刚果(金)总统齐塞克迪举行会谈",
+   "why": "story headline, front page (no banner)"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "深学细悟勇担当 凝心聚力强三农",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    19
+   ],
+   "level": 4,
+   "parent": 14,
+   "text": "以上率下，高站位高起点部署推进主题教育",
+   "why": "third check: bold own-line subhead with its own block (#20-#26) inside story #14"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "安徽今年组织2122家规模养殖场实施“减抗”行动",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    34
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "强农“蓝图”铺展全新画卷",
+   "why": "story headline; ——纪实 subtitle in the same box is a deck, slogan banner above is a rubric | starts: the series banner 新时代 新征程 新伟业 #33 comes before the headline in reading order"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 4,
+   "parent": 34,
+   "text": "聚焦种子与品牌，紧抓“微笑曲线”两端",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 4,
+   "parent": 34,
+   "text": "打造产业链闭环，融合贯通资金渠道",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    51,
+    52
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "刘国中强调 切实巩固拓展脱贫攻坚成果扎实推进乡村振兴",
+   "why": "story headline (引题 刘国中强调 above is a deck) | breadcrumb round 3: 引题 names who acts (the actor of the main title), so the node takes 引题 ∪ main title; the main title alone does not say whose action it reports"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知",
+   "why": "story headline: notice printed in full; its 一、二、三、 are run-in paragraph starts"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "河南十项惠农举措助力“三夏”生产",
+   "why": "story headline (slogan banner above is a rubric) | starts: the series banner #66 (强农开新局 奋力夺丰收) comes before the headline in reading order"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "综合新闻",
+   "why": "section: page tag 综合新闻 on p2"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "期盼携手开创亚欧合作新局面",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 4,
+   "parent": 78,
+   "text": "共享亚欧发展新机遇",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 78,
+   "text": "开拓造福各国的“幸福路”",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 4,
+   "parent": 78,
+   "text": "合作前景非常广阔",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "农业农村部办公厅关于深入学习浙江“千万工程”经验的通知",
+   "why": "continuation: headline reprinted over the jump (上接第一版)",
+   "continues": 59
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "青海饲草产业呈现良好发展态势",
+   "why": "story headline; 副题 below is a deck"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "黑龙江累计建成高标准农田10265万亩",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "习近平同刚果(金)总统齐塞克迪举行会谈",
+   "continues": 4,
+   "why": "continuation: jump paragraph starting \"（上接第一版）\" of front-page story #4, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 75,
+   "text": "强农“蓝图”铺展全新画卷",
+   "why": "continuation: headline reprinted over the jump",
+   "continues": 34
+  },
+  {
+   "boxes": [
+    148
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "创新驱动升级，科技赋能协同资源整合",
+   "why": "in-story subhead of the jumped story"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    77
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 103,
+   "why": "round 6 (starts): photo item; its only block is the photo's caption (#104-#106, ends 范亚旭 摄) and the photo #107, no story text of its own (was L3 node: photo story headline with its own text)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 15,
+   "why": "slogan banners / campaign rubric, text"
+  },
+  {
+   "box": 33,
+   "why": "slogan banners / campaign rubric, text"
+  },
+  {
+   "box": 62,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  },
+  {
+   "box": 65,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  },
+  {
+   "box": 111,
+   "why": "run-in numbered label at paragraph start (一、…。text continues)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 103,
+   "closes": 78,
+   "why": "round 6: the photo item 戏剧城内麦香飘 (headline #103, caption, photo) is not about the story #78; it belongs to the page section"
+  }
+ ]
+}

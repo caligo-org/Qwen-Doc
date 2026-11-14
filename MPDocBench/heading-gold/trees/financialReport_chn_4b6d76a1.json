@@ -1,0 +1,304 @@
+{
+ "doc": "financialReport_chn_4b6d76a1",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "目录",
+   "why": "front matter: contents title; no document title printed (L1 role absent)"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "审计报告",
+   "why": "section: auditor report, top section (TOC 一、)"
+  },
+  {
+   "boxes": [
+    11
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "一、审计意见",
+   "why": "section: 一、 part of the audit report"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "二、形成审计意见的基础",
+   "why": "section: 一、 sibling"
+  },
+  {
+   "boxes": [
+    16
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "三、关键审计事项",
+   "why": "section: 一、 sibling"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（一）收入确认",
+   "why": "section: key audit matter"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 5,
+   "parent": 22,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 5,
+   "parent": 22,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（二）应收账款减值",
+   "why": "section: key audit matter"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "level": 5,
+   "parent": 36,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 5,
+   "parent": 36,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 4,
+   "parent": 16,
+   "text": "（三）存货的减值",
+   "why": "section: key audit matter"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "level": 5,
+   "parent": 53,
+   "text": "1. 事项描述",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    62
+   ],
+   "level": 5,
+   "parent": 53,
+   "text": "2.审计应对",
+   "why": "section: numbered label with own block"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "四、其他信息",
+   "why": "section: 一、 sibling"
+  },
+  {
+   "boxes": [
+    79
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "五、管理层和治理层对财务报表的责任",
+   "why": "section: 一、 sibling"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 8,
+   "text": "六、注册会计师对财务报表审计的责任",
+   "why": "section: 一、 sibling"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "合并资产负债表",
+   "why": "section: statement title over its table; TOC group 二、财务报表 not printed"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "母公司资产负债表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "合并利润表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "母公司利润表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "合并现金流量表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    186
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "母公司现金流量表",
+   "why": "section: statement title"
+  },
+  {
+   "boxes": [
+    202
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "合并所有者权益变动表",
+   "why": "section: statement title (rotated landscape page)"
+  },
+  {
+   "boxes": [
+    217
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "母公司所有者权益变动表",
+   "why": "section: statement title (rotated landscape page)"
+  },
+  {
+   "boxes": [
+    232,
+    233
+   ],
+   "level": 2,
+   "parent": "root",
+   "text": "浙江富特科技股份有限公司 财务报表附注",
+   "why": "section: notes title block, owner + 财务报表附注 printed together (TOC 三、)"
+  },
+  {
+   "boxes": [
+    236
+   ],
+   "level": 3,
+   "parent": 232,
+   "text": "一、公司基本情况",
+   "why": "section: 一、 numbered note"
+  },
+  {
+   "boxes": [
+    240
+   ],
+   "level": 3,
+   "parent": 232,
+   "text": "二、财务报表的编制基础",
+   "why": "section: 一、 numbered note"
+  },
+  {
+   "boxes": [
+    241
+   ],
+   "level": 4,
+   "parent": 240,
+   "text": "（一）编制基础",
+   "why": "section: （一） own-line label with own block"
+  },
+  {
+   "boxes": [
+    243
+   ],
+   "level": 4,
+   "parent": 240,
+   "text": "（二）持续经营能力评价",
+   "why": "section: （一） own-line label with own block"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 9,
+   "why": "report number, text"
+  },
+  {
+   "box": 10,
+   "why": "addressee line, text"
+  },
+  {
+   "box": 86,
+   "why": "（一） list item in paragraph flow, text"
+  },
+  {
+   "box": 234,
+   "why": "period line under notes title, text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 98,
+   "closes": 83,
+   "why": "the auditor's signature block (firm, seal, signing CPAs, date) ends the letter: it signs the whole audit report, not this section"
+  }
+ ]
+}

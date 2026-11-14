@@ -1,0 +1,182 @@
+doc	node	page	path	verdict	note
+financialReport_chn_02be59d4	2	1	广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计）	OK	cover: owner + document type
+financialReport_chn_02be59d4	6	2	广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计） › 第八节 财务报告	OK	chapter heading of the excerpt
+financialReport_chn_02be59d4	7	2	广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计） › 第八节 财务报告 › 一、审计报告	OK	numbered part; unaudited statement lines below
+financialReport_chn_02be59d4	11	2	广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计） › 第八节 财务报告 › 二、财务报表	OK	numbered part; statements below
+financialReport_chn_02be59d4	13	2	广东天元实业集团股份有限公司 2025年半年度财务报告（未经审计） › 第八节 财务报告 › 二、财务报表 › 1、合并资产负债表	OK	numbered statement title, table below
+financialReport_chn_07ebf5d6	1	1	目 录	OK	contents title above TOC list
+financialReport_chn_07ebf5d6	8	2	审计报告	OK	audit report title (TOC section), letter below
+financialReport_chn_07ebf5d6	11	2	审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	14	2	审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	16	2	审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	23	3	审计报告 › 三、关键审计事项 › （一）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_07ebf5d6	24	3	审计报告 › 三、关键审计事项 › （一）收入确认 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	28	3	审计报告 › 三、关键审计事项 › （一）收入确认 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	42	4	审计报告 › 三、关键审计事项 › （二）长期资产减值	OK	numbered item with own paragraph block
+financialReport_chn_07ebf5d6	43	4	审计报告 › 三、关键审计事项 › （二）长期资产减值 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	47	4	审计报告 › 三、关键审计事项 › （二）长期资产减值 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	60	5	审计报告 › 三、关键审计事项 › （三）商誉减值	OK	numbered item with own paragraph block
+financialReport_chn_07ebf5d6	61	5	审计报告 › 三、关键审计事项 › （三）商誉减值 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	65	5	审计报告 › 三、关键审计事项 › （三）商誉减值 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_07ebf5d6	78	6	审计报告 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	83	6	审计报告 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	87	6	审计报告 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_07ebf5d6	119	9	合并资产负债表	OK	statement page title, table below
+financialReport_chn_16e75a27	1	1	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告	OK	cover: owner + document type
+financialReport_chn_16e75a27	3	1	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 一、审计报告	OK	numbered part; unaudited statement lines below
+financialReport_chn_16e75a27	7	1	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表	OK	numbered part; statements below
+financialReport_chn_16e75a27	9	1	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 1、合并资产负债表	OK	numbered statement title, table below
+financialReport_chn_16e75a27	26	4	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 2、母公司资产负债表	OK	numbered statement title, table below
+financialReport_chn_16e75a27	35	6	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 3、合并利润表	OK	numbered statement title, table below
+financialReport_chn_16e75a27	47	8	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 4、母公司利润表	OK	numbered statement title, table below
+financialReport_chn_16e75a27	56	10	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 5、合并现金流量表	OK	numbered statement title, table below
+financialReport_chn_16e75a27	62	11	山西太钢不锈钢股份有限公司 2025年半年度财务会计报告 › 二、财务报表 › 6、母公司现金流量表	OK	numbered statement title, table below
+financialReport_chn_486c6f77	1	1	上海安硕信息技术股份有限公司 审计报告	OK	cover: owner + document type
+financialReport_chn_486c6f77	14	2	上海安硕信息技术股份有限公司 审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_486c6f77	17	2	上海安硕信息技术股份有限公司 审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_486c6f77	20	2	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_486c6f77	22	2	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （一）存货跌价准备	OK	numbered item with own paragraph block
+financialReport_chn_486c6f77	23	2	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （一）存货跌价准备 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_486c6f77	30	3	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （一）存货跌价准备 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_486c6f77	36	3	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （二）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_486c6f77	37	3	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （二）收入确认 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_486c6f77	40	3	上海安硕信息技术股份有限公司 审计报告 › 三、关键审计事项 › （二）收入确认 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_486c6f77	52	4	上海安硕信息技术股份有限公司 审计报告 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_486c6f77	57	4	上海安硕信息技术股份有限公司 审计报告 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_486c6f77	65	5	上海安硕信息技术股份有限公司 审计报告 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	1	1	目录	OK	contents title above TOC list
+financialReport_chn_4b6d76a1	8	2	审计报告	OK	audit report title (TOC section), letter below
+financialReport_chn_4b6d76a1	11	2	审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	14	2	审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	16	2	审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	22	3	审计报告 › 三、关键审计事项 › （一）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_4b6d76a1	23	3	审计报告 › 三、关键审计事项 › （一）收入确认 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	27	3	审计报告 › 三、关键审计事项 › （一）收入确认 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	36	3	审计报告 › 三、关键审计事项 › （二）应收账款减值	OK	numbered item with own paragraph block
+financialReport_chn_4b6d76a1	37	3	审计报告 › 三、关键审计事项 › （二）应收账款减值 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	44	4	审计报告 › 三、关键审计事项 › （二）应收账款减值 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	53	4	审计报告 › 三、关键审计事项 › （三）存货的减值	OK	numbered item with own paragraph block
+financialReport_chn_4b6d76a1	54	4	审计报告 › 三、关键审计事项 › （三）存货的减值 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	62	5	审计报告 › 三、关键审计事项 › （三）存货的减值 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_4b6d76a1	71	5	审计报告 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	79	6	审计报告 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	83	6	审计报告 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_4b6d76a1	108	8	合并资产负债表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	123	9	母公司资产负债表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	139	10	合并利润表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	154	11	母公司利润表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	170	12	合并现金流量表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	186	13	母公司现金流量表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	202	14	合并所有者权益变动表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	217	15	母公司所有者权益变动表	OK	statement page title, table below
+financialReport_chn_4b6d76a1	232	16	浙江富特科技股份有限公司 财务报表附注	OK	notes title block (owner line + 财务报表附注)
+financialReport_chn_4b6d76a1	236	16	浙江富特科技股份有限公司 财务报表附注 › 一、公司基本情况	OK	notes section, numbered, own block
+financialReport_chn_4b6d76a1	240	16	浙江富特科技股份有限公司 财务报表附注 › 二、财务报表的编制基础	OK	notes section, numbered, own block
+financialReport_chn_4b6d76a1	241	16	浙江富特科技股份有限公司 财务报表附注 › 二、财务报表的编制基础 › （一）编制基础	OK	numbered item with own paragraph block
+financialReport_chn_4b6d76a1	243	16	浙江富特科技股份有限公司 财务报表附注 › 二、财务报表的编制基础 › （二）持续经营能力评价	OK	numbered item with own paragraph block
+financialReport_chn_58dd29fc	2	1	审计报告 科力尔电机集团股份有限公司	OK	cover: owner + document type
+financialReport_chn_58dd29fc	8	2	审计报告 科力尔电机集团股份有限公司 › 目录	OK	contents title above TOC list
+financialReport_chn_58dd29fc	17	3	审计报告 科力尔电机集团股份有限公司 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	20	3	审计报告 科力尔电机集团股份有限公司 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	22	3	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	24	3	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （一）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_58dd29fc	25	3	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （一）收入确认 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_58dd29fc	32	4	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （一）收入确认 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_58dd29fc	44	5	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （二）应收账款减值	OK	numbered item with own paragraph block
+financialReport_chn_58dd29fc	45	5	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （二）应收账款减值 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_58dd29fc	50	5	审计报告 科力尔电机集团股份有限公司 › 三、关键审计事项 › （二）应收账款减值 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_58dd29fc	62	6	审计报告 科力尔电机集团股份有限公司 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	67	6	审计报告 科力尔电机集团股份有限公司 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	74	7	审计报告 科力尔电机集团股份有限公司 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_58dd29fc	105	10	审计报告 科力尔电机集团股份有限公司 › 合并资产负债表	OK	statement page title, table below
+financialReport_chn_58dd29fc	120	11	审计报告 科力尔电机集团股份有限公司 › 合并利润表	OK	statement page title, table below
+financialReport_chn_87bc5908	2	1	软通动力信息技术（集团）股份有限公司2024年度审计报告	OK	cover: owner + document type
+financialReport_chn_87bc5908	9	2	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 目录	OK	contents title above TOC list
+financialReport_chn_87bc5908	19	3	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	22	3	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	24	3	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	34	4	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （一）营业收入的确认与计量	OK	numbered item with own paragraph block
+financialReport_chn_87bc5908	35	4	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （一）营业收入的确认与计量 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_87bc5908	37	4	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （一）营业收入的确认与计量 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_87bc5908	52	5	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （二）应收款项（含应收账款、应收款项融资中应收账款）减值准备计提	OK	numbered item with own paragraph block
+financialReport_chn_87bc5908	53	5	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （二）应收款项（含应收账款、应收款项融资中应收账款）减值准备计提 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_87bc5908	56	5	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › （二）应收款项（含应收账款、应收款项融资中应收账款）减值准备计提 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_87bc5908	69	6	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › (三)存货跌价准备计提	OK	numbered item with own paragraph block
+financialReport_chn_87bc5908	70	6	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › (三)存货跌价准备计提 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_87bc5908	73	6	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 三、关键审计事项 › (三)存货跌价准备计提 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_87bc5908	87	7	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	92	7	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	103	8	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_87bc5908	143	11	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 合并资产负债表	OK	statement page title, table below
+financialReport_chn_87bc5908	181	13	软通动力信息技术（集团）股份有限公司2024年度审计报告 › 合并利润表	OK	statement page title, table below
+financialReport_chn_8c038830	3	1	四川新金路集团股份有限公司2025年半年度财务报告	OK	cover: owner + document type
+financialReport_chn_8c038830	8	2	四川新金路集团股份有限公司2025年半年度财务报告 › 一、审计报告	OK	numbered part; unaudited statement lines below
+financialReport_chn_8c038830	12	2	四川新金路集团股份有限公司2025年半年度财务报告 › 二、财务报表	OK	numbered part; statements below
+financialReport_chn_8c038830	14	2	四川新金路集团股份有限公司2025年半年度财务报告 › 二、财务报表 › 1、合并资产负债表	OK	numbered statement title, table below
+financialReport_chn_8c038830	30	4	四川新金路集团股份有限公司2025年半年度财务报告 › 二、财务报表 › 2、母公司资产负债表	OK	numbered statement title, table below
+financialReport_chn_8c038830	41	6	四川新金路集团股份有限公司2025年半年度财务报告 › 二、财务报表 › 3、合并利润表	OK	numbered statement title, table below
+financialReport_chn_956ee055	3	1	珠海博杰电子股份有限公司 2025年半年度财务报告	OK	cover: owner + document type
+financialReport_chn_956ee055	10	2	珠海博杰电子股份有限公司 2025年半年度财务报告 › 一、审计报告	OK	numbered part; unaudited statement lines below
+financialReport_chn_956ee055	14	2	珠海博杰电子股份有限公司 2025年半年度财务报告 › 二、财务报表	OK	numbered part; statements below
+financialReport_chn_956ee055	16	2	珠海博杰电子股份有限公司 2025年半年度财务报告 › 二、财务报表 › 1、合并资产负债表	OK	numbered statement title, table below
+financialReport_chn_ad31878f	1	1	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告	OK	cover: owner + document type
+financialReport_chn_ad31878f	5	2	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 目录	OK	contents title above TOC list
+financialReport_chn_ad31878f	14	3	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_ad31878f	17	3	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_ad31878f	19	3	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_ad31878f	21	3	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 三、关键审计事项 › （一）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_ad31878f	27	4	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 三、关键审计事项 › （一）收入确认 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_ad31878f	29	4	深圳市豪恩汽车电子装备股份有限公司二〇二四年度审计报告 › 三、关键审计事项 › （一）收入确认 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_d1c80a8f	2	1	二零二五年上半年度財務報告 Prudential plc	FIXED	cover: type title ∪ Prudential plc; text was the raw box with line breaks, joined
+financialReport_chn_d603bfdc	4	1	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月	FIXED	cover: owner ∪ 中期財務報告 + period line; line break in text joined
+financialReport_chn_d603bfdc	9	2	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 目錄	OK	contents title above TOC list
+financialReport_chn_d603bfdc	12	3	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 綜合損益表	OK	statement page title, table below
+financialReport_chn_d603bfdc	17	4	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 綜合損益及其他全面收入表	OK	statement page title, table below
+financialReport_chn_d603bfdc	22	5	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 綜合財務狀況表	OK	statement page title, table below
+financialReport_chn_d603bfdc	31	7	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 簡明綜合權益變動報表	OK	statement page title, table below
+financialReport_chn_d603bfdc	36	8	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 簡明綜合現金流量表	OK	statement page title, table below
+financialReport_chn_d603bfdc	43	9	中國天元醫療集團有限公司 中期財務報告 截至二零二五年六月三十日止六個月 › 簡明綜合現金流量表 › 附註：	OK	own-line label + note block under the statement
+financialReport_chn_d65056e3	1	1	新疆立新能源股份有限公司2024年财务报表审计报告书	OK	cover: owner + document type
+financialReport_chn_d65056e3	10	2	新疆立新能源股份有限公司2024年财务报表审计报告书 › 目 录	OK	contents title above TOC list
+financialReport_chn_d65056e3	20	3	新疆立新能源股份有限公司2024年财务报表审计报告书 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	23	3	新疆立新能源股份有限公司2024年财务报表审计报告书 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	25	3	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	32	4	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （一）应收账款坏账准备计提	OK	numbered item with own paragraph block
+financialReport_chn_d65056e3	33	4	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （一）应收账款坏账准备计提 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_d65056e3	35	4	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （一）应收账款坏账准备计提 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_d65056e3	42	4	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （二）收入确认	OK	numbered item with own paragraph block
+financialReport_chn_d65056e3	43	4	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （二）收入确认 › 1、事项描述	OK	repeated label, own block below
+financialReport_chn_d65056e3	50	5	新疆立新能源股份有限公司2024年财务报表审计报告书 › 三、关键审计事项 › （二）收入确认 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_d65056e3	58	5	新疆立新能源股份有限公司2024年财务报表审计报告书 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	63	5	新疆立新能源股份有限公司2024年财务报表审计报告书 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	72	6	新疆立新能源股份有限公司2024年财务报表审计报告书 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_d65056e3	104	8	新疆立新能源股份有限公司2024年财务报表审计报告书 › 合并资产负债表	OK	statement page title, table below
+financialReport_chn_d65056e3	143	10	新疆立新能源股份有限公司2024年财务报表审计报告书 › 合并利润表	OK	statement page title, table below
+financialReport_chn_d65056e3	162	11	新疆立新能源股份有限公司2024年财务报表审计报告书 › 合并现金流量表	OK	statement page title, table below
+financialReport_chn_d65056e3	181	12	新疆立新能源股份有限公司2024年财务报表审计报告书 › 合并股东权益变动表	OK	statement page title, table below
+financialReport_chn_dd929555	1	1	深圳市卫光生物制品股份有限公司 审计报告	FIXED	cover: owner + 审计报告 in one box; line break in text joined
+financialReport_chn_dd929555	15	2	深圳市卫光生物制品股份有限公司 审计报告 › 一、审计意见	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	18	2	深圳市卫光生物制品股份有限公司 审计报告 › 二、形成审计意见的基础	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	21	2	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	23	2	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （一）营业收入的确认	OK	numbered item with own paragraph block
+financialReport_chn_dd929555	24	2	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （一）营业收入的确认 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_dd929555	34	3	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （一）营业收入的确认 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_dd929555	51	4	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （二）应收账款坏账准备的计提	OK	numbered item with own paragraph block
+financialReport_chn_dd929555	52	4	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （二）应收账款坏账准备的计提 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_dd929555	56	4	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （二）应收账款坏账准备的计提 › 2、审计应对	OK	repeated label, own block below
+financialReport_chn_dd929555	67	5	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （三）存货的账面价值	OK	numbered item with own paragraph block
+financialReport_chn_dd929555	68	5	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （三）存货的账面价值 › 1. 事项描述	OK	repeated label, own block below
+financialReport_chn_dd929555	70	5	深圳市卫光生物制品股份有限公司 审计报告 › 三、关键审计事项 › （三）存货的账面价值 › 2.审计应对	OK	repeated label, own block below
+financialReport_chn_dd929555	77	5	深圳市卫光生物制品股份有限公司 审计报告 › 四、其他信息	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	89	6	深圳市卫光生物制品股份有限公司 审计报告 › 五、管理层和治理层对财务报表的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	93	6	深圳市卫光生物制品股份有限公司 审计报告 › 六、注册会计师对财务报表审计的责任	OK	audit letter section, numbered, own paragraphs
+financialReport_chn_dd929555	126	8	深圳市卫光生物制品股份有限公司 审计报告 › 合并资产负债表	OK	statement page title, table below
+financialReport_chn_eef30e08	1	1	中航光电科技股份有限公司2025年半年度财务报告	OK	cover: owner + document type
+financialReport_chn_eef30e08	2	1	中航光电科技股份有限公司2025年半年度财务报告 › 一、审计报告	OK	numbered part; unaudited statement lines below
+financialReport_chn_eef30e08	6	1	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表	OK	numbered part; statements below
+financialReport_chn_eef30e08	8	1	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 1、合并资产负债表	OK	numbered statement title, table below
+financialReport_chn_eef30e08	18	3	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 2、母公司资产负债表	OK	numbered statement title, table below
+financialReport_chn_eef30e08	25	5	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 3、合并利润表	OK	numbered statement title, table below
+financialReport_chn_eef30e08	33	7	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 4、母公司利润表	OK	numbered statement title, table below
+financialReport_chn_eef30e08	40	9	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 5、合并现金流量表	OK	numbered statement title, table below
+financialReport_chn_eef30e08	45	10	中航光电科技股份有限公司2025年半年度财务报告 › 二、财务报表 › 6、母公司现金流量表	OK	numbered statement title, table below

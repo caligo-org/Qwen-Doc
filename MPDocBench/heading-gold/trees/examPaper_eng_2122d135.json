@@ -1,0 +1,66 @@
+{
+ "doc": "examPaper_eng_2122d135",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Solution",
+   "why": "untitled solution sheet: top section title Solution"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Theoretical part:",
+   "why": "own-line label with its own marks list (v3 generic label rule)"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Experimental part:",
+   "why": "own-line label with its own marks list"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Acknowledgement",
+   "why": "back matter at the level of the top section (not part of the solution)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Literature",
+   "why": "back matter (references) at top level, sibling of Acknowledgement"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 21,
+   "why": "lead-in sentence introducing the marking scheme: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 34,
+   "closes": 27,
+   "why": "round 5: the Experimental part marking list ends; Fig. 11 (#34, caption #35) is the example graph the Solution text cites (#20 'example is shown in Fig. 11'), not part of the marks list, so it belongs to Solution. Supersedes the round-3 note that kept it under Experimental part."
+  }
+ ]
+}

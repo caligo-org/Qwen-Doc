@@ -1,0 +1,446 @@
+{
+ "doc": "pptSlides_eng_312b78ba",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Regional Key Account Strategy L'ORÉAL NORTH AMERICA",
+   "why": "title union in one box: deck type (Regional Key Account Strategy) + owner/account (L'ORÉAL NORTH AMERICA)"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL GROUP",
+   "why": "slide title (deck without dividers)"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 3,
+   "parent": 6,
+   "text": "Company Background",
+   "why": "bold label heading the slide's body text and panels"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Sales Performance by Market",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL – R&D, a Key to Success",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 3,
+   "parent": 41,
+   "text": "STRATEGIC DIRECTION:",
+   "why": "bold label heading the strategy text on the (cont.) slide"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 4,
+   "parent": 55,
+   "text": "Local research and adaptation of products",
+   "why": "subhead heading its own text block inside the strategy section"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL in North America",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "STRATEGIC DIRECTION",
+   "why": "bold label with its own bullet"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "PRODUCTION",
+   "why": "bold label with its own bullet"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "level": 3,
+   "parent": 67,
+   "text": "COMPETITIVE POSITIONING",
+   "why": "bold label with its own bullet and table"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Overview : North America",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "Key Financial Figures NA-Q1-12",
+   "why": "box title heading its bullet box"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "Operational Goals (see backup)",
+   "why": "box title heading its bullet box"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "SWOT - L'Oréal Groupe",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Dedicated focus on BPC",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Products across different pricing tiers",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    119
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Not utilising The Body Shop opportunity",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Organization",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Naturally-positioned cosmetics",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Value-seeking consumers",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Growing competition in the emerging countries",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 3,
+   "parent": 114,
+   "text": "Economic Issues",
+   "why": "SWOT box title heading its text"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Strategic objectives and challenges",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    140
+   ],
+   "level": 3,
+   "parent": 139,
+   "text": "Doubling of consumer base",
+   "why": "box title heading its text"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 3,
+   "parent": 139,
+   "text": "Regional expansion",
+   "why": "box title heading its text"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "level": 3,
+   "parent": 139,
+   "text": "Category expansion",
+   "why": "box title heading its text"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 3,
+   "parent": 139,
+   "text": "Sustainable development",
+   "why": "box title heading its text"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Detailed strategies to expand consumer base",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 150,
+   "text": "Reach one billion new consumers",
+   "why": "bold label heading the slide's bullets"
+  },
+  {
+   "boxes": [
+    160
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "L'ORÉAL Portfolio of Brands",
+   "why": "slide title"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "level": 3,
+   "parent": 160,
+   "text": "OUR Brands",
+   "why": "title of the embedded brands panel (intro + brand lists)"
+  },
+  {
+   "boxes": [
+    164
+   ],
+   "level": 4,
+   "parent": 161,
+   "text": "CONSUMER PRODUCTS",
+   "why": "division label heading its brand list starts: #163 (division logo #163 printed above its label CONSUMER PRODUCTS comes before it in reading order; it sat under OUR Brands)"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "level": 4,
+   "parent": 161,
+   "text": "PROFESSIONAL PRODUCTS",
+   "why": "division label heading its brand list starts: #166 (division logo #166 printed above PROFESSIONAL PRODUCTS; it sat under CONSUMER PRODUCTS)"
+  },
+  {
+   "boxes": [
+    170
+   ],
+   "level": 4,
+   "parent": 161,
+   "text": "LUXURY PRODUCTS",
+   "why": "division label heading its brand list; round 4: text as printed (OCR dropped the space) starts: #169 (division logo #169 printed above LUXURY PRODUCTS; it sat under PROFESSIONAL PRODUCTS)"
+  },
+  {
+   "boxes": [
+    173
+   ],
+   "level": 4,
+   "parent": 161,
+   "text": "ACTIVE COSMETICS",
+   "why": "division label heading its brand list starts: #172 (division logo #172 printed above ACTIVE COSMETICS; it sat under LUXURY PRODUCTS)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    54
+   ],
+   "of": 41,
+   "why": "(cont.) slide title, nothing in between"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "of": 67,
+   "why": "(cont.) slide title, nothing in between"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 41,
+   "why": "round 4: bold label \"RESEARCH & DEVELOPMENT\" restates the slide title \"R&D, a Key to Success\" (not narrower); the p4 text and tables sit directly under the slide title, STRATEGIC DIRECTION on p5 stays its L3 child"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "panel/chart title inside an embedded data panel"
+  },
+  {
+   "box": 13,
+   "why": "chart title"
+  },
+  {
+   "box": 15,
+   "why": "chart title"
+  },
+  {
+   "box": 17,
+   "why": "table title"
+  },
+  {
+   "box": 19,
+   "why": "table title"
+  },
+  {
+   "box": 21,
+   "why": "chart title"
+  },
+  {
+   "box": 47,
+   "why": "table title"
+  },
+  {
+   "box": 176,
+   "why": "division label with no brand list below (substance)"
+  }
+ ],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover date"
+  },
+  {
+   "box": 123,
+   "why": "SWOT quadrant centre label"
+  },
+  {
+   "box": 124,
+   "why": "SWOT quadrant centre label"
+  },
+  {
+   "box": 125,
+   "why": "SWOT quadrant centre label"
+  },
+  {
+   "box": 126,
+   "why": "SWOT quadrant centre label"
+  },
+  {
+   "box": 112,
+   "why": "header of an embedded report page"
+  },
+  {
+   "box": 137,
+   "why": "header of an embedded report page"
+  },
+  {
+   "box": 56,
+   "why": "lead line of the strategy text"
+  },
+  {
+   "box": 98,
+   "why": "breadcrumb round 3: panel title \"North American\" only restates the slide title \"Overview : North America\" (not a narrower description); the ranking panel stays text in the slide; with #95 also text, the ranking sits under Key Financial Figures NA-Q1-12"
+  },
+  {
+   "box": 95,
+   "why": "breadcrumb round 3: title of a pie-chart panel (chart title, like COMPANY RANKING); with \"North American\" text the ranking panel would fall under it and fail containment -> text; the pie and ranking panels sit under \"Key Financial Figures NA-Q1-12\" (all NA key figures)"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 10,
+   "closes": 7,
+   "why": "the Company Background bullets end; the embedded data panels (QUICK STATS, rankings, charts, net debt, ratings) are figures of the slide #6"
+  },
+  {
+   "before": 123,
+   "closes": 121,
+   "why": "the Organization box ends; the SWOT centre labels (Strengths/Weaknesses/Opportunities/Threats) are about the whole SWOT #114"
+  },
+  {
+   "before": 175,
+   "closes": 173,
+   "why": "the ACTIVE COSMETICS list ends; THE BODY SHOP picture and label (text by substance) are another division, under #161"
+  }
+ ]
+}

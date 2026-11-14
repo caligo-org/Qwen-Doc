@@ -1,0 +1,207 @@
+{
+ "doc": "newspaper_chn_ccf4163f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "農民日報",
+   "why": "masthead; English name and website in the same box are text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "新的文化使命",
+   "why": "story headline, front page; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 4,
+   "parent": 4,
+   "text": "（一）时代的必然",
+   "why": "numbered in-story part head with its own block"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "北大荒集团：办大事抓重点夯实粮食丰产基础",
+   "why": "story headline (campaign banner above is a rubric) | starts: the series banner #35 above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "湖北孝感市全力推进首衡食品产业新城项目建设",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "“浙”里乡村,何以如此“绿富美”?",
+   "why": "story headline (series rubric 高质量发展调研行 is a figure)"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 4,
+   "parent": 52,
+   "text": "绿：生态理念化于心",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "安徽省蚌埠市怀远县：大马力机械昼夜连轴抢收小麦",
+   "why": "story headline; place line + headline printed as one title box | starts: the series banner #67 (强农开新局 奋力夺丰收) above the headline comes before it in reading order"
+  },
+  {
+   "boxes": [
+    83
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "把话筒交给村干部 让聚光灯照向基层",
+   "why": "story headline; ——侧记 subtitle in the same box is a deck"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 4,
+   "parent": 83,
+   "text": "喜说乡村起新变，好日子越过越甜",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "综合新闻",
+   "why": "section: page tag 综合新闻 on p2"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 98,
+   "text": "担负新的文化使命 谱写新的时代华章",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 4,
+   "parent": 101,
+   "text": "讲好中华文明的多彩故事",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 4,
+   "parent": 101,
+   "text": "做好传统文化的研究阐释",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 4,
+   "parent": 101,
+   "text": "坚定文化自信为强国建设贡献力量",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    132
+   ],
+   "level": 3,
+   "parent": 98,
+   "text": "第五届全国农业行业职业技能大赛茶叶加工赛项决赛在桂举办",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 98,
+   "text": "新的文化使命",
+   "why": "continuation: jump paragraph (上接第一版) of the front-page story, its numbered parts follow | breadcrumb round 3: jump prints no headline (printed: \"（上接第一版）\"), so the continuation takes the original's title #4",
+   "continues": 4
+  },
+  {
+   "boxes": [
+    159
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "（二）思想的飞跃",
+   "why": "numbered in-story part head of the jumped story"
+  },
+  {
+   "boxes": [
+    194
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "（三）文化的自觉",
+   "why": "numbered in-story part head of the jumped story"
+  },
+  {
+   "boxes": [
+    236
+   ],
+   "level": 4,
+   "parent": 137,
+   "text": "（四）文明的开新",
+   "why": "numbered in-story part head of the jumped story"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    100
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 35,
+   "why": "campaign/slogan banners above headlines: rubrics"
+  },
+  {
+   "box": 67,
+   "why": "campaign/slogan banners above headlines: rubrics"
+  }
+ ]
+}

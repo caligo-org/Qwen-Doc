@@ -1,0 +1,72 @@
+{
+ "doc": "magazine_eng_5dea3d09",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "hi-fi+",
+   "why": "title: periodical masthead hi-fi+ (issue badge and date in the box are text)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "editorial",
+   "why": "front matter: editor's letter 'editorial', its letter below"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "contents",
+   "why": "contents title (front matter at section level)"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 50,
+   "text": "PRODUCTS ON THE COVER",
+   "why": "box with own title inside the contents page (cover products key), one level below contents"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    24
+   ],
+   "of": 1,
+   "why": "repeat: running header naming the magazine (hi-fi+ issue 250)"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "of": 1,
+   "why": "repeat: running header naming the magazine (hi-fi+ issue 250)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 48,
+   "closes": 25,
+   "why": "editorial page ends; a full-page ad follows before the contents page"
+  },
+  {
+   "before": 65,
+   "closes": 51,
+   "why": "PRODUCTS ON THE COVER list ends; the main contents list follows, not about the cover products (it belongs to contents)"
+  }
+ ]
+}

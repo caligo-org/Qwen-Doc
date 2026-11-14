@@ -1,0 +1,225 @@
+{
+ "doc": "newspaper_chn_ec796be7",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "光明日報",
+   "why": "masthead; pinyin in the same box is text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "习近平回到北京",
+   "why": "story headline, front page; 引题 lines in the same box are a deck"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "为推动构建公正的世界和可持续的星球贡献力量",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 4,
+   "parent": 10,
+   "text": "中国脱贫提供“杰出范例”",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 4,
+   "parent": 10,
+   "text": "八项行动“令人振奋”",
+   "why": "in-story subhead with its own block"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "跨越山海的友谊、团结、合作、开拓之旅",
+   "why": "story headline (vertical); 引题 and ——副题 in the same box are decks"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 4,
+   "parent": 31,
+   "text": "一、引领亚太开放合作启新程",
+   "why": "numbered in-story part head with its own block"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 4,
+   "parent": 31,
+   "text": "二、推动全球治理改革再聚焦",
+   "why": "numbered in-story part head with its own block"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "聆听大国外交的铿锵足音",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    59
+   ],
+   "level": 3,
+   "parent": 1,
+   "text": "工布“毕秀”",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    70
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "要闻",
+   "why": "section: page tag 要闻 on p2"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "赵乐际对葡萄牙进行正式友好访问",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "王沪宁会见哈萨克斯坦国务顾问卡林",
+   "why": "story headline"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "聆听大国外交的铿锵足音",
+   "continues": 45,
+   "why": "continuation: jump paragraph starting \"（上接1版）\" of front-page story #45, no printed headline; node on that paragraph with the original's title (breadcrumb round 3: was text/no node, but its content then fell under the preceding story, failing containment)"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "民间交流是未来中美关系健康发展的重要基础",
+   "why": "story headline; ——副题 in the same box is a deck"
+  },
+  {
+   "boxes": [
+    122
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "跨越山海的友谊、团结、合作、开拓之旅",
+   "why": "continuation: jump line (上接1版) of a front-page story, parts 三-六 follow | breadcrumb round 3: jump prints no headline (printed: \"（上接1版）\"), so the continuation takes the original's title #31",
+   "continues": 31
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "三、树立互利共赢合作新典范",
+   "why": "numbered part head of the jumped story"
+  },
+  {
+   "boxes": [
+    128
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "四、开启中巴构建命运共同体新篇章",
+   "why": "numbered part head of the jumped story"
+  },
+  {
+   "boxes": [
+    134
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "五、拓展全球伙伴关系新局面",
+   "why": "numbered part head of the jumped story"
+  },
+  {
+   "boxes": [
+    141
+   ],
+   "level": 4,
+   "parent": 122,
+   "text": "六、唱响中国光明前景最雄音",
+   "why": "numbered part head of the jumped story"
+  },
+  {
+   "boxes": [
+    146
+   ],
+   "level": 3,
+   "parent": 70,
+   "text": "为推动构建公正的世界和可持续的星球贡献力量",
+   "why": "continuation: jump line (上接1版) of a front-page story, its subhead follows | breadcrumb round 3: jump prints no headline (printed: \"（上接1版）\"), so the continuation takes the original's title #10",
+   "continues": 10
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "level": 4,
+   "parent": 146,
+   "text": "五大理念主张明确正确方向",
+   "why": "in-story subhead of the jumped story"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    72
+   ],
+   "of": 1,
+   "why": "running masthead logo in page header"
+  }
+ ],
+ "not_headings": [],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 29,
+   "closes": 10,
+   "why": "round 5: the story's p1 part ends; a stand-alone news photo with its caption (大美中国) follows"
+  }
+ ]
+}

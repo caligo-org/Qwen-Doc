@@ -1,0 +1,32 @@
+{
+ "doc": "examPaper_eng_fc1f7054",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "day 1",
+   "why": "round 3: page header printed only on day 1's page (\"English (eng), day 1\"): a section-only running header is that section's heading (NOTATIONS); no title printed (owner only in the logo), so the days are the top level; text = heading part only (language is another field); was a running head (empty tree)"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "day 2",
+   "why": "round 3: page header printed only on day 2's page (\"English (eng), day 2\"): a section-only running header is that section's heading (NOTATIONS); no title printed (owner only in the logo), so the days are the top level; text = heading part only (language is another field); was a running head (empty tree)"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 4,
+   "why": "Problem 1. run-in label: text"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "doc": "paper_eng_6a66645a",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Experimental Studies, Energy Savings and Payback Periods of a Cylindrical Building-Material-Housing Solar Cooker",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Abstract",
+   "why": "front matter: Abstract heading at top-section level"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "1. Introduction",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "2. Design Details",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "2.1 Building-material-housing Solar Cooker (BMHSC)",
+   "why": "subsection 2.1 (numbering)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 13,
+   "text": "2.2 Commercial Hotbox Solar Cooker (CSC)",
+   "why": "subsection 2.2 (numbering)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "3. Experimental Studies",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "3.1 Thermal Performance",
+   "why": "subsection 3.1 (numbering)"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "3.2 Cooking Performance",
+   "why": "subsection 3.2 (numbering)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "level": 3,
+   "parent": 28,
+   "text": "3.3 Figures of Merit",
+   "why": "subsection 3.3 (numbering)"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "4. Energy Savings and Payback Periods",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "5. Results and Discussion",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    84
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "6. Conclusions",
+   "why": "section: numbered top section"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "References",
+   "why": "back matter: references at top-section level"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Authors",
+   "why": "back matter: Authors section (own block), same look as References"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": []
+}

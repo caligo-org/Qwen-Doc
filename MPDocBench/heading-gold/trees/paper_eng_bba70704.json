@@ -1,0 +1,194 @@
+{
+ "doc": "paper_eng_bba70704",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Financial Performance Analysis Before and After Global Crisis (Case Study in Indonesian Oil and Gas Sector for the Period of 2006-2011)",
+   "why": "title: paper title"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "ABSTRACT",
+   "why": "front matter: Abstract heading at top-section level"
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "I. INTRODUCTION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "II. LITERATURE STUDIES",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    23
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "II.1 GLOBAL CRISIS",
+   "why": "subsection II.1 (numbering)"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "II.2 FINANCIAL MANAGEMENT",
+   "why": "subsection II.2"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "II.3 FINANCIAL STATEMENT ANALYSIS",
+   "why": "subsection II.3"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 3,
+   "parent": 22,
+   "text": "II.4 FINANCIAL PERFORMANCE MEASURE",
+   "why": "subsection II.4"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "III. METHODOLOGY",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "III.1 RESEARCH MODEL",
+   "why": "subsection III.1"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "III.2 HYPOTHESIS",
+   "why": "subsection III.2"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "III.3 RESEARCH OBJECT",
+   "why": "subsection III.3"
+  },
+  {
+   "boxes": [
+    80
+   ],
+   "level": 3,
+   "parent": 55,
+   "text": "III.4 VARIABLE OPERATION",
+   "why": "subsection III.4"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "IV. DATA ANALYSIS",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    92
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "IV.1 RESULT AND DISCUSSION",
+   "why": "subsection IV.1"
+  },
+  {
+   "boxes": [
+    101
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "IV.2 PROFITABILITY",
+   "why": "subsection IV.2"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "IV.3 LIQUIDITY",
+   "why": "subsection IV.3"
+  },
+  {
+   "boxes": [
+    107
+   ],
+   "level": 3,
+   "parent": 89,
+   "text": "IV.4 PRICE TO EARNING RATIO",
+   "why": "subsection IV.4"
+  },
+  {
+   "boxes": [
+    112
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "V. CONCLUSION",
+   "why": "section: roman-numbered top section"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "VI. REFERENCE",
+   "why": "back matter: references (numbered VI.) at top-section level"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "journal logo / masthead box (Review of Integrative Business & Economics Research): journal header is text for a paper"
+  }
+ ],
+ "considered": []
+}

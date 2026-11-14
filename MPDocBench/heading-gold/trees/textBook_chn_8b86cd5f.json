@@ -1,0 +1,107 @@
+{
+ "doc": "textBook_chn_8b86cd5f",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    4,
+    5
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "道德与法治 九年级 上册",
+   "why": "title union: subject + grade/volume lines naming this book"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    29
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "第一单元 富强与创新",
+   "why": "unit label + unit title (one box)"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 29,
+   "text": "第一课 踏上强国之路",
+   "why": "lesson label + lesson title (one box)"
+  },
+  {
+   "boxes": [
+    38
+   ],
+   "level": 4,
+   "parent": 35,
+   "text": "坚持改革开放",
+   "why": "框 bar heading"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 5,
+   "parent": 38,
+   "text": "运用你的经验",
+   "why": "activity box 运用你的经验 with its own material block: box label, one level below the 框"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 5,
+   "parent": 38,
+   "text": "改革开放促发展",
+   "why": "目 coloured heading"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 6,
+   "parent": 46,
+   "text": "阅读感悟",
+   "why": "reading box 阅读感悟 with its own paragraph + photo: box label, one level below the 目"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    8,
+    9,
+    10
+   ],
+   "of": 3,
+   "why": "repeat: title page restates the cover title"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "of": 29,
+   "why": "repeat: running foot naming the open unit"
+  },
+  {
+   "boxes": [
+    56
+   ],
+   "of": 35,
+   "why": "repeat: running foot naming the open lesson"
+  }
+ ],
+ "not_headings": [],
+ "considered": []
+}

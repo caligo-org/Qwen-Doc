@@ -1,0 +1,168 @@
+{
+ "doc": "handwritten_chn_eac2d8c2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "第3章 化学反应的自发性.",
+   "why": "chapter title: 第三章 + title, names the notes | round 4: page prints 第3章 (OCR box reads 第三章)"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3.1 自发过程",
+   "why": "section: numbered 3.x section"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3.2 焓和自发变化",
+   "why": "section: numbered 3.x section"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 3,
+   "parent": 4,
+   "text": "最低能量原理（焓变判据）：",
+   "why": "own-line label naming a principle with its own block below: one level below its section"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3.3 熵与自发过程",
+   "why": "section: numbered 3.x section"
+  },
+  {
+   "boxes": [
+    17
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "(1) 熵",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "(2)标准熵",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    26
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "(3)标准摩尔熵",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    35
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "(4)化学反应熵变.",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 3,
+   "parent": 15,
+   "text": "(5)热力学第二定律",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    43
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "3.4 Gibbs函数与自发过程",
+   "why": "section: numbered 3.x section"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "Gibbs 函数(变)判据：",
+   "why": "own-line label naming a principle with its own block below: one level below its section"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "(1)标准摩尔生成Gibbs函数",
+   "why": "subsection: own-line (n) title over its block"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "(2) 反应商",
+   "why": "subsection: own-line (n) title over its block | round 4: OCR box adds a stray \"}\"; page prints (2) 反应商"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "level": 3,
+   "parent": 43,
+   "text": "(3)非标摩尔反应Gibbs函数的计算",
+   "why": "subsection: own-line (n) title over its block"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 62,
+   "why": "lead-in before a formula: text"
+  },
+  {
+   "box": 64,
+   "why": "lead-in before a formula"
+  },
+  {
+   "box": 66,
+   "why": "callout 注："
+  },
+  {
+   "box": 36,
+   "why": "lead-in 对于化学反应："
+  }
+ ],
+ "breaks": [
+  {
+   "before": 49,
+   "closes": 44,
+   "why": "round 5: the Gibbs equation ΔG=ΔH-TΔS and the turning temperature T转 resume 3.4's main text after the 判据 label's block (ΔG<0/>0/=0)"
+  }
+ ]
+}

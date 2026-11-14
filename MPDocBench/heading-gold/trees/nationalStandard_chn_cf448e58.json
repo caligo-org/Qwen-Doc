@@ -1,0 +1,290 @@
+{
+ "doc": "nationalStandard_chn_cf448e58",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    6,
+    7
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "童鞋安全技术规范 Safety technical specifications for infants' and children's footwear",
+   "why": "title union: standard title + English title"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "前言",
+   "why": "front/back matter title at the level of the top clauses"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "1 范围",
+   "why": "clause 1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    45
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "2 规范性引用文件",
+   "why": "clause 2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "3 术语和定义",
+   "why": "clause 3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    67,
+    68
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.1 可触及 accessible",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    73,
+    74
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.2 锐利边缘 sharp edge",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    76,
+    77
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.3 锐利尖端 sharp point",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    79,
+    80
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.4 可拆卸小附件 removable small accessory",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    83,
+    84
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.5 儿童鞋 children's footwear",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    87,
+    88
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "3.6 婴幼儿鞋 infants' footwear",
+   "why": "term entry: number + term (one heading)"
+  },
+  {
+   "boxes": [
+    91
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "4 产品分类",
+   "why": "clause 4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    95
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "5 技术要求",
+   "why": "clause 5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    96
+   ],
+   "level": 3,
+   "parent": 95,
+   "text": "5.1 基本要求",
+   "why": "clause 5.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    100
+   ],
+   "level": 3,
+   "parent": 95,
+   "text": "5.2 婴幼儿鞋小附件要求",
+   "why": "clause 5.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "level": 3,
+   "parent": 95,
+   "text": "5.3 化学物质限量要求",
+   "why": "clause 5.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    113
+   ],
+   "level": 2,
+   "parent": 6,
+   "text": "6 试验方法",
+   "why": "clause 6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    114
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.1 断针",
+   "why": "clause 6.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    116
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.2 可触及的锐利边缘和锐利尖端",
+   "why": "clause 6.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    118
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.3 有效跟高",
+   "why": "clause 6.3: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.4 婴幼儿鞋小附件",
+   "why": "clause 6.4: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "level": 4,
+   "parent": 120,
+   "text": "6.4.1 不可拆卸小附件的拉力测试",
+   "why": "clause 6.4.1: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    123
+   ],
+   "level": 4,
+   "parent": 120,
+   "text": "6.4.2 小附件容入试验",
+   "why": "clause 6.4.2: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    125
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.5 六价铬",
+   "why": "clause 6.5: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.6 可分解致癌芳香胺染料",
+   "why": "clause 6.6: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.7 甲醛",
+   "why": "clause 6.7: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.8 重金属总量",
+   "why": "clause 6.8: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    135
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.9 富马酸二甲酯",
+   "why": "clause 6.9: titled clause, describes the subclauses below (numbering decides level)"
+  },
+  {
+   "boxes": [
+    137
+   ],
+   "level": 3,
+   "parent": 113,
+   "text": "6.10 含氯苯酚",
+   "why": "clause 6.10: titled clause, describes the subclauses below (numbering decides level)"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    41
+   ],
+   "of": 6,
+   "why": "title restated above clause 1 (document title, section open)"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 3,
+   "why": "cover: standard-family label, not the title"
+  }
+ ],
+ "considered": []
+}

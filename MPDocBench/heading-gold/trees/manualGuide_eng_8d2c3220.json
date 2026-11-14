@@ -1,0 +1,67 @@
+{
+ "doc": "manualGuide_eng_8d2c3220",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2,
+    3,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "KRONE Originele handleiding Opraapsnij-doseerwagen 5XL-R/GD 6XL-R/GD",
+   "why": "title union: document type (Originele handleiding, with its document number on the same box) + product and models; breadcrumb review r2: line breaks in the node text replaced by spaces Breadcrumb review r3: the document number printed in the same box (150 000 037 00 NL) left out of the node text (box with other fields: text is only the heading part). Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (KRONE) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "EG-conformiteitsverklaring",
+   "why": "section: declaration title printed in the box header; describes the declaration block starts: #6 (declaration frame: its KRONE logo #6 (and #7) left of the heading come before EG-conformiteitsverklaring in reading order and sat under the L1 title)"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Voorwoord",
+   "why": "section: running section tag printed only on the preface page; nothing else names this section"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 10,
+   "why": "manufacturer name inside the declaration (the declaring party), not a heading"
+  }
+ ],
+ "considered": [
+  {
+   "box": 24,
+   "why": "salutation: text"
+  },
+  {
+   "box": 30,
+   "why": "salutation: text"
+  },
+  {
+   "box": 35,
+   "why": "callout lead-in Let op, belangrijk: text"
+  },
+  {
+   "box": 22,
+   "why": "form field Bouwjaar: text"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 24,
+   "closes": 8,
+   "why": "the EC declaration box ends (signature, Bouwjaar/Machinenr fields); the separate 'Zeer geachte klant,' box below is a note to the customer about this manual, not part of the declaration"
+  }
+ ]
+}

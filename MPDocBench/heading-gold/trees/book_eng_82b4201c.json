@@ -1,0 +1,634 @@
+{
+ "doc": "book_eng_82b4201c",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "Image Editing with Photoshop",
+   "why": "title: workshop booklet title; the college / workshop-series footer block is text"
+  },
+  {
+   "boxes": [
+    12
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "Table of Contents",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    21
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "I. Overview of Photoshop",
+   "why": "section I starts: #20 (part I opener: its section icon #20 (left of 'I. Overview of Photoshop') comes before the heading in reading order and sat under Table of Contents)"
+  },
+  {
+   "boxes": [
+    22
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "a. What Photoshop is",
+   "why": "subsection a"
+  },
+  {
+   "boxes": [
+    24
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "b. What Photoshop is used for/what it is not used for (raster vs. vector graphics)",
+   "why": "subsection b"
+  },
+  {
+   "boxes": [
+    31
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "c. Where Photoshop stands in the Graphic Design world today",
+   "why": "subsection c"
+  },
+  {
+   "boxes": [
+    33
+   ],
+   "level": 3,
+   "parent": 21,
+   "text": "d. Other Photoshop software",
+   "why": "subsection d"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "II. Starting a New Project",
+   "why": "section II starts: #39 (part II opener: section icon #39 left of the heading sat under the previous part (#33 Other Photoshop software))"
+  },
+  {
+   "boxes": [
+    41
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "a. Opening a New Project",
+   "why": "subsection a"
+  },
+  {
+   "boxes": [
+    48
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "b. Opening an Existing Project",
+   "why": "subsection b"
+  },
+  {
+   "boxes": [
+    50
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "c. Color Modes",
+   "why": "subsection c"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "d. Resolution",
+   "why": "subsection d"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "c. The Interface Overview",
+   "why": "subsection (second 'c.' as printed)"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "d. Photoshop Menus",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    90
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "e. Photoshop Layers Palette",
+   "why": "subsection"
+  },
+  {
+   "boxes": [
+    109
+   ],
+   "level": 3,
+   "parent": 40,
+   "text": "f. Photoshop Other Palettes",
+   "why": "subsection f"
+  },
+  {
+   "boxes": [
+    130
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "III. Basic Tools",
+   "why": "section III starts: #129 (part III opener: section icon #129 left of the heading sat under part II (#109 Other Palettes))"
+  },
+  {
+   "boxes": [
+    131
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "a. Selecting an Area (Lasso, Magic Wand, Marquee, Masking and Pen Tool)",
+   "why": "subsection a"
+  },
+  {
+   "boxes": [
+    133
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "Marquee Tool",
+   "why": "tool label with its own paragraph, one level below subsection a"
+  },
+  {
+   "boxes": [
+    136
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "Lasso, Polygonal Lasso, Magnetic Lasso",
+   "why": "tool label with its own paragraph"
+  },
+  {
+   "boxes": [
+    139
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "Magic Wand, Quick Selection Tool",
+   "why": "tool label with its own paragraph"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "Pen Tool",
+   "why": "tool label with its own paragraph"
+  },
+  {
+   "boxes": [
+    145
+   ],
+   "level": 4,
+   "parent": 131,
+   "text": "Quick Mask",
+   "why": "tool label with its own paragraph"
+  },
+  {
+   "boxes": [
+    151
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "b. Moving an Image, Transforming the Scale, Rotation, and Shear.",
+   "why": "subsection b"
+  },
+  {
+   "boxes": [
+    154
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "c. Copying a Layer or Area of a Layer",
+   "why": "subsection c"
+  },
+  {
+   "boxes": [
+    162
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "d. Adding and Deleting Layers",
+   "why": "subsection d"
+  },
+  {
+   "boxes": [
+    167
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "e. Changing a Color",
+   "why": "subsection e"
+  },
+  {
+   "boxes": [
+    176
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "f. Cropping",
+   "why": "subsection f"
+  },
+  {
+   "boxes": [
+    179
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "g. Basic Drawing tools",
+   "why": "subsection g"
+  },
+  {
+   "boxes": [
+    203
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "h. Adding Text",
+   "why": "subsection h"
+  },
+  {
+   "boxes": [
+    219
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "i. Cloning",
+   "why": "subsection i"
+  },
+  {
+   "boxes": [
+    228
+   ],
+   "level": 3,
+   "parent": 130,
+   "text": "j. Other tools",
+   "why": "subsection j"
+  },
+  {
+   "boxes": [
+    242
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "IV. Saving and Printing Projects",
+   "why": "section IV starts: #241 (part IV opener: section icon #241 left of the heading sat under part III (#228 Other tools))"
+  },
+  {
+   "boxes": [
+    243
+   ],
+   "level": 3,
+   "parent": 242,
+   "text": "a. Photoshop Documents (layers and effects)",
+   "why": "subsection a"
+  },
+  {
+   "boxes": [
+    245
+   ],
+   "level": 3,
+   "parent": 242,
+   "text": "b. JPG, GIF, PNG (Flattened)",
+   "why": "subsection b"
+  },
+  {
+   "boxes": [
+    254
+   ],
+   "level": 3,
+   "parent": 242,
+   "text": "c. Other Types (PDF, TIFF, EPS, BMP)",
+   "why": "subsection c"
+  },
+  {
+   "boxes": [
+    264
+   ],
+   "level": 3,
+   "parent": 242,
+   "text": "d. Print Options",
+   "why": "subsection d"
+  },
+  {
+   "boxes": [
+    267
+   ],
+   "level": 3,
+   "parent": 242,
+   "text": "e. Best Results",
+   "why": "subsection e"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    30
+   ],
+   "of": 21,
+   "why": "repeat: section title restated at the top of the next page, section still open"
+  },
+  {
+   "boxes": [
+    57
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    67
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    108
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    120
+   ],
+   "of": 40,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    121
+   ],
+   "of": 109,
+   "why": "repeat: subsection title restated on the next page, nothing in between"
+  },
+  {
+   "boxes": [
+    150
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    161
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    175
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    191
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    192
+   ],
+   "of": 179,
+   "why": "repeat: '(continued)' subsection title on the next page"
+  },
+  {
+   "boxes": [
+    202
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    218
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    227
+   ],
+   "of": 130,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    253
+   ],
+   "of": 242,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    263
+   ],
+   "of": 242,
+   "why": "repeat: section title restated at the top of the page"
+  },
+  {
+   "boxes": [
+    10
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    37
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    54
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    86
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    105
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    147
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    199
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    215
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    224
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    239
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    250
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  },
+  {
+   "boxes": [
+    260
+   ],
+   "of": 3,
+   "why": "repeat: running head naming the document"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 1,
+   "why": "running head printed above the title on the cover page"
+  },
+  {
+   "box": 70,
+   "why": "vertical menu-bar strip (figure text), not a heading"
+  }
+ ]
+}

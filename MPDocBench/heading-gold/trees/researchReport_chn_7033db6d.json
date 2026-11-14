@@ -1,0 +1,133 @@
+{
+ "doc": "researchReport_chn_7033db6d",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    4,
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "中国银河证券 快递专题：双十一临近，利好快递板块",
+   "why": "title: report headline Logo join (user decision 2026-11-13): the owner is printed on the cover only as a logo; logo box #1 (中国银河证券) joins the union after the title box."
+  },
+  {
+   "boxes": [
+    5
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "核心观点（10.8-10.12）：",
+   "why": "section: cover summary title over the numbered points"
+  },
+  {
+   "boxes": [
+    6
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "1. 上周行业热点",
+   "why": "section: numbered point 1. under the summary, with its block"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "2. 最新观点",
+   "why": "section: numbered point 2."
+  },
+  {
+   "boxes": [
+    13
+   ],
+   "level": 3,
+   "parent": 5,
+   "text": "3. 核心组合表现",
+   "why": "section: numbered point 3. with its table"
+  },
+  {
+   "boxes": [
+    40
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "目录",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    46
+   ],
+   "level": 2,
+   "parent": 4,
+   "text": "最新研究观点",
+   "why": "section: body top section 最新研究观点"
+  },
+  {
+   "boxes": [
+    47
+   ],
+   "level": 3,
+   "parent": 46,
+   "text": "一、上周热点动态跟踪",
+   "why": "section: 一、 under it"
+  },
+  {
+   "boxes": [
+    51
+   ],
+   "level": 3,
+   "parent": 46,
+   "text": "二、最新观点",
+   "why": "section: 二、 under it"
+  },
+  {
+   "boxes": [
+    52
+   ],
+   "level": 4,
+   "parent": 51,
+   "text": "1. 网上零售增速显著高于社会零售销售增速，快递行业仍具有较大的成长空间。",
+   "why": "Round 4: own-line numbered point 1. under 二、最新观点 with its own block (paragraphs, figures 1-3 on pp4-5); body outline level below 二、, so L4. The cover prints the same points as run-in bold paragraphs (text there)."
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 17,
+   "why": "analyst label: text per category note"
+  },
+  {
+   "box": 20,
+   "why": "contact label: text"
+  },
+  {
+   "box": 23,
+   "why": "sidebar chart label: text"
+  },
+  {
+   "box": 25,
+   "why": "related-research list label: text per category note"
+  }
+ ],
+ "considered": [
+  {
+   "box": 15,
+   "why": "industry tag in sidebar"
+  },
+  {
+   "box": 2,
+   "why": "running report-type header"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 15,
+   "closes": 5,
+   "why": "round 5: cover sidebar (date/rating, analysts, chart, market data, related reports) follows the summary block and is not about it (industry tag, rating, analysts, chart, related research); not about 核心观点"
+  }
+ ]
+}

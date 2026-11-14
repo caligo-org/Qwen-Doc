@@ -1,0 +1,85 @@
+{
+ "doc": "researchReport_chn_5463fcf3",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    3,
+    12
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "信达卓越推 家电行业",
+   "why": "title union: product series name (信达卓越推, the document type) + industry covered (家电行业), no other headline"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "产品提示：",
+   "why": "box title: sidebar box describing the product, with its own block"
+  },
+  {
+   "boxes": [
+    14
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "本周行业观点：中国家电协会启动对冰洗空厨电技术路线图的修订",
+   "why": "section: own-line weekly-view line over the numbered news items"
+  },
+  {
+   "boxes": [
+    27
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "研究团队简介",
+   "why": "back matter: research team section title"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "level": 2,
+   "parent": 3,
+   "text": "机构销售联系人",
+   "why": "back-matter section, L2 (round 3 containment): own-line title over the sales-contact table; as text it left the table inside 研究团队简介 (research team), which it is not about"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 2,
+   "why": "generic 证券研究报告 line: text"
+  },
+  {
+   "box": 22,
+   "why": "Round 4 (user decision 2026-11-13: substance beats containment): one-line run-in bullet with nothing below it is text, even though the line then sits under the section before it."
+  },
+  {
+   "box": 23,
+   "why": "Round 4 (user decision 2026-11-13: substance beats containment): one-line run-in bullet with nothing below it is text, even though the line then sits under the section before it."
+  }
+ ],
+ "considered": [
+  {
+   "box": 4,
+   "why": "series subtitle 推荐公司精选 under the product name"
+  }
+ ],
+ "breaks": [
+  {
+   "before": 11,
+   "closes": 7,
+   "why": "round 5: broker address block (colophon) after the 产品提示 items is not about them"
+  },
+  {
+   "before": 22,
+   "closes": 14,
+   "why": "round 5: risk line and 本期【卓越推】暂不推荐 (one-line run-ins, text) are not about the weekly industry view"
+  }
+ ]
+}

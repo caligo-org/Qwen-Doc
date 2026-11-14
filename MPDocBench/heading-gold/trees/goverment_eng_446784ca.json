@@ -1,0 +1,222 @@
+{
+ "doc": "goverment_eng_446784ca",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    2
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "United States Department of State Telephone Directory",
+   "why": "title: owner (United States Department of State) + document type (Telephone Directory) in one box"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 2,
+   "text": "Key Officers of Foreign Service Posts",
+   "why": "report section title: describes all country entries below"
+  },
+  {
+   "boxes": [
+    8
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Afghanistan",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    15
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Albania",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    18
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Algeria",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    25
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Angola",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    28
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Argentina",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Armenia",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    39
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Australia",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    49
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Austria",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Azerbaijan",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    64
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "BAHAMAS, THE",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    71
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Bahrain",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    75
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Bangladesh",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    78
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Barbados",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    85
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "BELARUS",
+   "why": "country: own-line head over its posts and officer tables"
+  },
+  {
+   "boxes": [
+    88
+   ],
+   "level": 3,
+   "parent": 7,
+   "text": "Belgium",
+   "why": "country: own-line head over its posts and officer tables"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    22
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  },
+  {
+   "boxes": [
+    36
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  },
+  {
+   "boxes": [
+    68
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  },
+  {
+   "boxes": [
+    82
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  },
+  {
+   "boxes": [
+    94
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section (Key Officers of Foreign Posts)"
+  }
+ ],
+ "not_headings": [],
+ "considered": [
+  {
+   "box": 3,
+   "why": "cover note listing the included sections: text"
+  },
+  {
+   "box": 5,
+   "why": "cover footer (provider, classification): text"
+  },
+  {
+   "box": 6,
+   "why": "cover footer label: text"
+  },
+  {
+   "box": 9,
+   "why": "post entry: bold city lead-in run into the address paragraph: text"
+  }
+ ]
+}

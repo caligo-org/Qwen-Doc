@@ -1,0 +1,339 @@
+{
+ "doc": "book_eng_f2e8d789",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "YOUR MINDPOWER JOURNEY Bringing Belief To Reality",
+   "why": "title: book title with its subtitle in the same box; authors are text"
+  },
+  {
+   "boxes": [
+    4
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Table of CONTENTS",
+   "why": "front matter: contents title"
+  },
+  {
+   "boxes": [
+    7
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Introduction",
+   "why": "front matter: introduction; breadcrumb round 3: the author byline \"Stéphane Schafeitel\" is printed in the same box: node text is only the heading part"
+  },
+  {
+   "boxes": [
+    61
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "Chapter 1 My Mindpower Journey",
+   "why": "chapter label + chapter title in one box"
+  },
+  {
+   "boxes": [
+    63
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "In This Chapter, You'll Learn:",
+   "why": "box title: chapter-objectives box with its list (box with own title and block)"
+  },
+  {
+   "boxes": [
+    98
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "Re-Envisioning",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    124
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "The Visualization Exercise",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    149
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "Neurogenesis & Neuroplasticity",
+   "why": "section"
+  },
+  {
+   "boxes": [
+    165
+   ],
+   "level": 3,
+   "parent": 61,
+   "text": "The 3 Pillars of Mindpower",
+   "why": "section listing the three pillars"
+  },
+  {
+   "boxes": [
+    167,
+    168
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "1 Foundation, as defined by Merriam-Webster, is:",
+   "why": "item heading union: number badge + pillar definition label with its bullet block, one level below the section that lists them"
+  },
+  {
+   "boxes": [
+    176,
+    177
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "2 Mental Toughness is defined as:",
+   "why": "item heading union: number badge + pillar definition label"
+  },
+  {
+   "boxes": [
+    180,
+    181
+   ],
+   "level": 4,
+   "parent": 165,
+   "text": "3 Habit, as defined by Merriam-Webster, is:",
+   "why": "item heading union: number badge + pillar definition label"
+  }
+ ],
+ "repeats": [
+  {
+   "boxes": [
+    17
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    30
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
+  },
+  {
+   "boxes": [
+    32
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    42
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
+  },
+  {
+   "boxes": [
+    44
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    53
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
+  },
+  {
+   "boxes": [
+    55
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    58
+   ],
+   "of": 7,
+   "why": "repeat: running footer naming the open section"
+  },
+  {
+   "boxes": [
+    72
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    74
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    87
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    89
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    102
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    104
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    115
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    117
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    127
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    129
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    142
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    144
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    156
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    158
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    172
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    174
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    188
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  },
+  {
+   "boxes": [
+    190
+   ],
+   "of": 1,
+   "why": "repeat: running head naming the book"
+  },
+  {
+   "boxes": [
+    193
+   ],
+   "of": 61,
+   "why": "repeat: running footer naming the open chapter"
+  }
+ ],
+ "not_headings": [
+  {
+   "box": 25,
+   "why": "lead-in sentence introducing a bullet list"
+  },
+  {
+   "box": 36,
+   "why": "lead-in sentence introducing a list of paragraphs"
+  },
+  {
+   "box": 146,
+   "why": "pull quote"
+  },
+  {
+   "box": 154,
+   "why": "callout label over a one-sentence quote band (no block of its own)"
+  }
+ ],
+ "considered": [],
+ "breaks": [
+  {
+   "before": 68,
+   "closes": 63,
+   "why": "the 'In This Chapter, You'll Learn:' objectives box ends; the chapter's untitled opening narrative starts (drop cap) and belongs to Chapter 1"
+  },
+  {
+   "before": 192,
+   "closes": 180,
+   "why": "closing paragraph about all 3 pillars ('These definitions describe our intentions as we created each of the 3 Pillars') follows the last pillar item 3 Habit; belongs to The 3 Pillars of Mindpower"
+  }
+ ]
+}

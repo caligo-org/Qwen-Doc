@@ -1,0 +1,88 @@
+{
+ "doc": "examPaper_chn_9627d6c2",
+ "schema": 3,
+ "nodes": [
+  {
+   "boxes": [
+    1
+   ],
+   "level": 1,
+   "parent": "root",
+   "text": "2010年山东高考数学理科",
+   "why": "title: exam title"
+  },
+  {
+   "boxes": [
+    2
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第Ⅰ卷（共60分）",
+   "why": "part 第Ⅰ卷"
+  },
+  {
+   "boxes": [
+    3
+   ],
+   "level": 3,
+   "parent": 2,
+   "text": "一、选择题：本大题共12小题，每小题5分，共60分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+   "why": "question group"
+  },
+  {
+   "boxes": [
+    65
+   ],
+   "level": 2,
+   "parent": 1,
+   "text": "第Ⅱ卷（共90分）",
+   "why": "part 第Ⅱ卷"
+  },
+  {
+   "boxes": [
+    66
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "二、填空题：本大题共4小题，每小题4分，共16分。",
+   "why": "question group"
+  },
+  {
+   "boxes": [
+    73
+   ],
+   "level": 3,
+   "parent": 65,
+   "text": "三、解答题：本大题共6小题，共74分。",
+   "why": "question group"
+  }
+ ],
+ "repeats": [],
+ "not_headings": [
+  {
+   "box": 74,
+   "why": "individual question number + score line: text (user decision)"
+  },
+  {
+   "box": 78,
+   "why": "individual question number + score line: text (user decision)"
+  },
+  {
+   "box": 82,
+   "why": "individual question number + score line: text (user decision)"
+  },
+  {
+   "box": 89,
+   "why": "individual question number + score line: text (user decision)"
+  },
+  {
+   "box": 98,
+   "why": "individual question number + score line: text (user decision)"
+  },
+  {
+   "box": 104,
+   "why": "individual question number + score line: text (user decision)"
+  }
+ ],
+ "considered": []
+}
